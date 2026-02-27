@@ -1,0 +1,28 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+const allBastidores = await getCollection('bastidores');
+const sortedBastidores = allBastidores.sort((a, b) => a.id.localeCompare(b.id, undefined, { numeric: true }));
+
+---
+
+<Layout title="Bastidores | Travessia" isBastidores={true}>
+  <header style="margin-bottom: 3rem;">
+    <h1>Bastidores</h1>
+    <p>Journals de sessão e registros do agente autônomo.</p>
+  </header>
+
+  <section>
+    <ul style="list-style: none; padding: 0;">
+      {sortedBastidores.map((entry) => (
+        <li style="margin-bottom: 1rem; border-bottom: 1px solid var(--divider-color); padding-bottom: 1rem;">
+          <a href={`${import.meta.env.BASE_URL}bastidores/${entry.id}`} style="font-size: 1.2rem; display: block; margin-bottom: 0.5rem; text-decoration: none; border: none; font-weight: bold;">
+            {entry.id}
+          </a>
+        </li>
+      ))}
+    </ul>
+    {sortedBastidores.length === 0 && <p>Nenhum registro encontrado ainda.</p>}
+  </section>
+</Layout>
