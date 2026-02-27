@@ -1,0 +1,59 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const entradas = await getCollection('manuscrito');
+  return entradas.map(entry => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+const allManuscrito = await getCollection('manuscrito');
+const sortedManuscrito = allManuscrito
+  .filter(e => e.data.ordem !== undefined)
+  .sort((a, b) => (a.data.ordem || 0) - (b.data.ordem || 0));
+
+const currentIndex = sortedManuscrito.findIndex(e => e.id === entry.id);
+const prevEntry = currentIndex > 0 ? sortedManuscrito[currentIndex - 1] : null;
+const nextEntry = currentIndex !== -1 && currentIndex < sortedManuscrito.length - 1 ? sortedManuscrito[currentIndex + 1] : null;
+
+---
+
+<Layout title={entry.data.titulo}>
+  <article>
+    <header style="margin-bottom: 4rem; text-align: center;">
+      <h1 style="font-size: 3rem; color: var(--accent-color);">{entry.data.titulo}</h1>
+      {entry.data.subtitulo && <h2 style="font-size: 1.5rem; color: var(--text-color); margin-top: 1rem; font-weight: normal;">{entry.data.subtitulo}</h2>}
+      {entry.data.epigrafe && (
+        <blockquote style="margin: 3rem auto; max-width: 80%; text-align: right; border-left: none; padding: 0;">
+          <p style="font-style: italic; font-size: 1.2rem;">"{entry.data.epigrafe}"</p>
+        </blockquote>
+      )}
+      <div class="separator"></div>
+    </header>
+
+    <div style="font-size: 1.25rem; line-height: 1.8; text-indent: 2rem;">
+      <Content />
+    </div>
+  </article>
+
+  <nav class="footer-nav">
+    {prevEntry ? (
+      <a href={`${import.meta.env.BASE_URL}texto/${prevEntry.id}`} title={prevEntry.data.titulo}>&larr; Anterior</a>
+    ) : <span></span>}
+    {nextEntry ? (
+      <a href={`${import.meta.env.BASE_URL}texto/${nextEntry.id}`} title={nextEntry.data.titulo}>Próximo &rarr;</a>
+    ) : <span></span>}
+  </nav>
+</Layout>
+
+<style>
+  div > p {
+    margin-bottom: 1.5rem;
+  }
+</style>

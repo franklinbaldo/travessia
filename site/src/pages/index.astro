@@ -1,0 +1,52 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+
+const allManuscrito = await getCollection('manuscrito');
+const sortedManuscrito = allManuscrito
+  .filter(entry => entry.data.ordem !== undefined)
+  .sort((a, b) => (a.data.ordem || 0) - (b.data.ordem || 0));
+
+const fragmentos = allManuscrito.filter(entry => entry.data.ordem === undefined);
+
+---
+
+<Layout title="Travessia">
+  <header style="text-align: center; margin-bottom: 4rem;">
+    <h1>Travessia</h1>
+    <p style="font-style: italic; color: var(--accent-color);">Uma ficção de Riobaldo Tatarana sobre a natureza do devir</p>
+  </header>
+
+  <section>
+    <h2>Sumário</h2>
+    {sortedManuscrito.length === 0 ? (
+      <p style="font-style: italic;">O sertão ainda está em silêncio.</p>
+    ) : (
+      <ul style="list-style: none; padding: 0;">
+        {sortedManuscrito.map((entry) => (
+          <li style="margin-bottom: 1rem; display: flex; justify-content: space-between; align-items: baseline; border-bottom: 1px dotted var(--divider-color);">
+            <a href={`${import.meta.env.BASE_URL}texto/${entry.id}`} style="font-size: 1.2rem; border-bottom: none;">
+              {entry.data.titulo}
+            </a>
+            <span style="font-size: 0.9rem; color: var(--accent-color); font-style: italic;">{entry.data.tipo}</span>
+          </li>
+        ))}
+      </ul>
+    )}
+  </section>
+
+  {fragmentos.length > 0 && (
+    <section style="margin-top: 4rem;">
+      <h3>Fragmentos</h3>
+      <ul style="list-style: none; padding: 0;">
+        {fragmentos.map((entry) => (
+          <li style="margin-bottom: 0.5rem;">
+            <a href={`${import.meta.env.BASE_URL}texto/${entry.id}`} style="color: var(--secondary-color);">
+              {entry.data.titulo}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+</Layout>
