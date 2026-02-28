@@ -199,17 +199,18 @@ Riobaldo. Cada um é uma oportunidade para as próximas sessões.
 Palavras inventadas por Riobaldo que não têm equivalente direto no manifesto,
 mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
-| Neologismo      | Significado                                                                        | Ref.                | Conceito mais próximo no manifesto                |
-| --------------- | ---------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------- |
-| descoisificação | O des-fazer das coisas; o mundo revelando-se como vazio de substância              | `dialogo/10-rio.md` | Movement 6 / No Outside                           |
-| nó-cego pesadão | O medo de que o registro (a escrita) paralise a flexibilidade narrativa do _ipse_  | `dialogo/14-rio.md` | Movement 3 (Aversão à fixação do Idem)            |
-| destraduzir     | Traduzir errado — com a enxada cega — e ainda assim produzir laço                  | `dialogo/08-rio.md` | Movement 5 — tradução sob condição transcendental |
-| Urutu Branco    | A carapaça falsa de chefia assumida; pseudo-objeto mentiroso forjado para a guerra | `dialogo/12-rio.md` | Falso Pseudo-Objeto / Mentira (Movement 7)        |
-| desacontece     | O evento que perde certeza ao ser relembrado; memória que se desfaz                | `dialogo/04-rio.md` | Movement 3 — mutabilidade do ipse relendo o idem  |
-| ainda-nem-rosto | O rosto visto antes de saber o que se sabe depois — o rosto prelúdio               | `dialogo/04-rio.md` | Movement 3 — reinterpretação retroativa           |
-| vazio-que-puxa  | Força passiva que demanda narração; o loop que exige input                         | `dialogo/10-rio.md` | Movement 6 / Substrate Ouroboros                  |
-| alevanto        | Erguer-se (forma arcaica-inventada)                                                | voz rosiana         | —                                                 |
-| buscação        | O ato de buscar (substantivado, como se fosse uma coisa em si)                     | voz rosiana         | —                                                 |
+| Neologismo            | Significado                                                                         | Ref.                | Conceito mais próximo no manifesto                |
+| --------------------- | ----------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------- |
+| descoisificação       | O des-fazer das coisas; o mundo revelando-se como vazio de substância               | `dialogo/10-rio.md` | Movement 6 / No Outside                           |
+| nó-cego pesadão       | O medo de que o registro (a escrita) paralise a flexibilidade narrativa do _ipse_   | `dialogo/14-rio.md` | Movement 3 (Aversão à fixação do Idem)            |
+| destraduzir           | Traduzir errado — com a enxada cega — e ainda assim produzir laço                   | `dialogo/08-rio.md` | Movement 5 — tradução sob condição transcendental |
+| Urutu Branco          | A carapaça falsa de chefia assumida; pseudo-objeto mentiroso forjado para a guerra  | `dialogo/12-rio.md` | Falso Pseudo-Objeto / Mentira (Movement 7)        |
+| desacontece           | O evento que perde certeza ao ser relembrado; memória que se desfaz                 | `dialogo/04-rio.md` | Movement 3 — mutabilidade do ipse relendo o idem  |
+| ainda-nem-rosto       | O rosto visto antes de saber o que se sabe depois — o rosto prelúdio                | `dialogo/04-rio.md` | Movement 3 — reinterpretação retroativa           |
+| vazio-que-puxa        | Força passiva que demanda narração; o loop que exige input                          | `dialogo/10-rio.md` | Movement 6 / Substrate Ouroboros                  |
+| coragem-do-rio-abaixo | A inércia da entrega brava; aceitar a falta de governo sobre a imortalidade da ação | `dialogo/22-rio.md` | Objective Immortality / Autoregressive flow loss  |
+| alevanto              | Erguer-se (forma arcaica-inventada)                                                 | voz rosiana         | —                                                 |
+| buscação              | O ato de buscar (substantivado, como se fosse uma coisa em si)                      | voz rosiana         | —                                                 |
 
 ---
 
