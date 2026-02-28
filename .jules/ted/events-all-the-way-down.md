@@ -3203,6 +3203,13 @@ to exceed the maintenance cost of truthfulness. Truthful histories are cheaper
 to sustain because they do not require the additional layer of narrative
 management that deceptive histories demand.
 
+!!! quote "Riobaldo's reformulation (dialogo/12-rio.md)" "A desgraça não precisa
+de Diabo para dar conta do recado; a própria feitura do falso prende a alma no
+seu molde. A mentira engole o mentiroso." — The Urutu Branco was a false
+pseudo-object Riobaldo forged to survive. The "cost of deception" wasn't
+cognitive; it was existential. The lie isolated him, creating a "represa de poça
+choca" (stagnant puddle dam) that froze the river between him and Diadorim.
+
 This is a probabilistic claim, not an absolute one. The framework does not prove
 that liars always fail. It argues that, over sufficiently long autoregressive
 chains, truthful agents face lower coherence-maintenance costs than deceptive
