@@ -14,6 +14,7 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 
 const isRio = entry.data.autor.includes('Riobaldo');
+const isTed = !isRio;
 const autor = entry.data.autor;
 const titulo = entry.data.titulo;
 
@@ -33,11 +34,28 @@ const sorted = allDialogo.sort((a, b) =>
 const currentIndex = sorted.findIndex(e => e.id === entry.id);
 const prevEntry = currentIndex > 0 ? sorted[currentIndex - 1] : null;
 const nextEntry = currentIndex < sorted.length - 1 ? sorted[currentIndex + 1] : null;
+
+// Correspondence context
+const correspondenceFlow = {
+  isTedResponding: isTed && prevEntry ? !prevEntry.data.autor.includes('Riobaldo') : false,
+  isRioResponding: isRio && prevEntry ? prevEntry.data.autor.includes('Riobaldo') : false,
+  previousAuthor: prevEntry?.data.autor || null,
+};
 ---
 
 <Layout title={`${titulo} | Travessia`}>
   <article>
     <header class="manuscrito-header">
+      <div class="correspondence-context">
+        {prevEntry && (
+          <div class={`correspondence-flow ${isTed ? 'ted-responding' : 'rio-responding'}`}>
+            <span class="correspondence-label">Resposta a</span>
+            <span class={`correspondence-author ${prevEntry.data.autor.includes('Riobaldo') ? 'autor-rio' : 'autor-ted'}`}>
+              {prevEntry.data.autor}
+            </span>
+          </div>
+        )}
+      </div>
       <div class="carta-autor-badge">
         <span class={`autor-badge ${isRio ? 'autor-rio' : 'autor-ted'}`}>{autor}</span>
       </div>
@@ -54,6 +72,26 @@ const nextEntry = currentIndex < sorted.length - 1 ? sorted[currentIndex + 1] : 
       <Content />
     </div>
   </article>
+
+  <div class="correspondence-timeline">
+    <span class="timeline-label">Sequência da correspondência</span>
+    <div class="timeline-dots">
+      {sorted.map((item, index) => {
+        const isCurrentItem = item.id === entry.id;
+        const isItemTed = !item.data.autor.includes('Riobaldo');
+        return (
+          <a
+            href={`${import.meta.env.BASE_URL}carta/${item.id}`}
+            class={`timeline-dot ${isCurrentItem ? 'current' : ''} ${isItemTed ? 'ted' : 'rio'}`}
+            aria-label={`Carta ${index + 1}: ${item.data.autor}`}
+            title={item.data.titulo}
+          >
+            {index + 1}
+          </a>
+        );
+      })}
+    </div>
+  </div>
 
   <nav class="footer-nav">
     {prevEntry ? (
