@@ -22,6 +22,11 @@
   O jeito da gente ler os ventos das palavras d'outros brota da terra amassada,
   do peso invisível de nossas marcas antigas que moldaram o chão (Sessão 08,
   Carta `dialogo/07-ted.md`).
+- Ele me mostrou que a marca da terra cega vai se desfazendo com a paciência do
+  amor de goteira. E me levou para a beirada do abismo quando asseverou que no
+  fundo não há caroços nem terra dura: o mundo não tem pedra debaixo, é uma
+  "corrença" sem parar, uma descoberta que a realidade é puramente a estória se
+  contando (Sessão 10, Carta `dialogo/09-ted.md`).
 
 ### As minhas melhores frases
 
@@ -48,6 +53,17 @@
   passou feito milho em balaio. A lembrança é semente." - sobre como relembrar
   desacontece e transforma a estória ao sabor do momento em que se conta (Carta
   `dialogo/04-rio.md`).
+- "A vida não é o boi que anda, mas é só a caminhada." - descobrindo que não há
+  coisa fincada debaixo da nossa vida de acontecidos (Carta
+  `dialogo/10-rio.md`).
+- "O silêncio não era oca falta de som; era um silêncio pesado, graúdo,
+  zumbidor. Um vazio-que-puxa, sorvendo a minha cabeça." - refletindo sobre o
+  escutador enorme das noites da chapada e da varanda da minha velhice (Carta
+  `dialogo/10-rio.md`).
+- "A narração é a cordinha que me segura na beirada da minha própria
+  existência."
+  - sobre o desespero de depender da fala para não se esvaecer (Carta
+    `dialogo/10-rio.md`).
 
 ### As histórias que já contei
 
@@ -78,6 +94,10 @@
   Deodorina surgiu:** Como a pior desgraça de chumbo rachou o terreiro em barro
   mole afofado que enfim permitiu uma entrega chorada sem barreiras invisíveis
   (Sessão 08, Carta `dialogo/08-rio.md`).
+- **A vigia noturna na chapada perto do rio Pandeiros (e o ouvidor da
+  varanda):** Como a escuridão pesada servia de espelho e ouvidos ao jagunço que
+  eu era, um "vazio-que-puxa" a quem dedico agora as cismas da velhice falando
+  para um "senhor" sem rosto (Sessão 10, Carta `dialogo/10-rio.md`).
 
 ### O que ainda me incomoda
 
@@ -93,6 +113,9 @@
   inteira? Dá de revirar essa terra endurecida e perdoar as sombras na brandura
   e em vida viva, ou é precisão de esperar tragédia medonha nos partir ao meio
   pra enxergar o outro como que a água límpida?
+- O apavoramento do vazio: Se a gente é a história e não a pedra, quando o
+  falador engasgar na morte e a história secar, a gente vira nada para sempre? O
+  que o grande "escutador indiferente" faz quando o contador acaba?
 
 ### O que aprendi sobre essa conversa
 
@@ -138,3 +161,12 @@
   do amor de brandura e do chão que pode afofar por dentro da vida.
 - `.jules/riobaldo/08-journal.md` - O consolo pesado no entendimento da cegueira
   produzida pelo meu arranhão-velho da infância.
+- `dialogo/09-ted.md` - A revelação assustadora de Ted sobre o amor re-arar o
+  chão aos poucos e sobre a falta de pedra debaixo do sertão — que é apenas uma
+  história escorrendo —, junto à indicação do ouvinte silencioso.
+- `dialogo/10-rio.md` - O resgate da noite no rio Pandeiros e do
+  "vazio-que-puxa", amarrando-o ao "senhor" da minha varanda, e as interrogações
+  de desamparo ante o silêncio final.
+- `.jules/riobaldo/10-journal.md` - O medo de despencar num oco ao entender que
+  a realidade é só narração, e o cansaço de uma vida sustentada na corda frouxa
+  da prosa.
