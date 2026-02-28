@@ -1729,8 +1729,8 @@ one in terms of the other.[^rio-004-seed]
     Riobaldo in `dialogo/04-rio.md`: "O passado não é osso enterrado; é barro
     mole. A lembrança não ajunta o que passou feito milho em balaio. A lembrança
     é semente. O acontecido, enquanto é falado, torna a brotar diferente,
-    dependendo do tempo da terra de hoje." — The metaphor of the seed finding new
-    soil is a perfect, earthy translation of hermeneutic reinterpretation.
+    dependendo do tempo da terra de hoje." — The metaphor of the seed finding
+    new soil is a perfect, earthy translation of hermeneutic reinterpretation.
 
 This circularity is not a defect. It is not a regress to be halted or a paradox
 to be resolved. Gadamer's great insight was that the hermeneutic circle is
@@ -1768,8 +1768,13 @@ rules applied to prior tokens. It is appended to the history as a new event:
 "Here is my situated reading of my own past." The summary does not replace the
 events it summarizes. It adds a new layer of interpretation on top of them.
 
-!!! example "From the sertão"
-    Riobaldo's memory of Diadorim at the Urucuia river (`dialogo/04-rio.md`). When remembered in peace, it's a scene of light and beauty. When remembered in pain, the face becomes an "ainda-nem-rosto" (a not-yet-face), already shadowed by the knife that would later kill him. The retroactive knowledge of the event changes the compression of the memory. The same _idem_ yields a radically different _ipse_ depending on the day's weather in the mind.
+!!! example "From the sertão" Riobaldo's memory of Diadorim at the Urucuia river
+(`dialogo/04-rio.md`). When remembered in peace, it's a scene of light and
+beauty. When remembered in pain, the face becomes an "ainda-nem-rosto" (a
+not-yet-face), already shadowed by the knife that would later kill him. The
+retroactive knowledge of the event changes the compression of the memory. The
+same _idem_ yields a radically different _ipse_ depending on the day's weather
+in the mind.
 
 This act of self-summarization is the agent's most intimate operation. It is the
 computational analogue of what Ricoeur called the narrative act — the
@@ -2296,8 +2301,12 @@ translation waiting to be discovered. There are only translation manuals —
 practical instruments that work well enough to coordinate behavior, without ever
 achieving a perfect mapping between the interior states of speaker and listener.
 
-!!! warning "Tension"
-    In `dialogo/04-rio.md`, Riobaldo expresses genuine terror at this exact realization. If translation (or memory-as-translation) is indeterminate, then "onde é que mora a verdade real das coisas?" (where does the real truth of things live?). Process ontology removes the comforting floor of an objective past. This anxiety needs to be addressed not as a philosophical misunderstanding, but as the lived cost of losing substance.
+!!! warning "Tension" In `dialogo/04-rio.md`, Riobaldo expresses genuine terror
+at this exact realization. If translation (or memory-as-translation) is
+indeterminate, then "onde é que mora a verdade real das coisas?" (where does the
+real truth of things live?). Process ontology removes the comforting floor of an
+objective past. This anxiety needs to be addressed not as a philosophical
+misunderstanding, but as the lived cost of losing substance.
 
 Agents in this framework operate under exactly the constraints of Quine's
 radical translation. Each agent is a windowless monad with its own history and

@@ -120,8 +120,8 @@ data: YYYY-MM-DD
 
 Os três campos (`titulo`, `autor`, `data`) são obrigatórios. O campo `autor`
 deve ser sempre `"Ted Chiang"`. O campo `data` deve ser a data da sessão no
-formato ISO (ex: `2025-06-14`). O campo `titulo` deve ser um título descritivo
-e evocativo do conteúdo da carta.
+formato ISO (ex: `2025-06-14`). O campo `titulo` deve ser um título descritivo e
+evocativo do conteúdo da carta.
 
 The letter should contain, in this order:
 
