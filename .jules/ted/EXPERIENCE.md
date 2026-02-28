@@ -49,166 +49,194 @@ se transforma em vida e carne.
     Fora") para responder ao medo de Riobaldo de virar "casca vazia" escrevendo.
     A água do rio evapora, vira chuva, e volta à nascente.
 
+- **Ação Prática de Início / Irreducibilidade Computacional:** Abordado (Sessão
+  25).
+  - _Abordagem:_ Resposta ao terror dele de que a "água pura" (seu livro) seja
+    despejada num "charco podre" (leitor malicioso), mostrando que ele só
+    responde pela sua "cabaça" e que "a palavra é a bala". A metáfora da
+    "primeira palavra" e do Liso serviram perfeitamente para introduzir a
+    irreducibilidade computacional: o sertão (e o livro) não se resume, se
+    atravessa.
 - **Faltam:**
-  - Ação prática de início / Irreducibilidade Computacional (O primeiro risco no
-    papel)
-  - Objections and Honest Limits
+  - Recursive Adequacy / Objections and Honest Limits
 
 ## 2. As Melhores Formulações de Riobaldo
 
-- _"A coisa não é; a coisa assenta, enquanto não venta."_ (`cartas/ted-riobaldo/02-rio.md`)
-  — Uma perfeita formulação da impermanência e contingência das substâncias
-  (process ontology condensada em provérbio).
+- _"A coisa não é; a coisa assenta, enquanto não venta."_
+  (`cartas/ted-riobaldo/02-rio.md`) — Uma perfeita formulação da impermanência e
+  contingência das substâncias (process ontology condensada em provérbio).
 - _"A gente era feito o redemoinho mesmo, só que de sangue e poeira no lugar de
-  água."_ (`cartas/ted-riobaldo/02-rio.md`) — Sobre o bando de jagunços, aplicando o
-  conceito do redemoinho perfeitamente.
+  água."_ (`cartas/ted-riobaldo/02-rio.md`) — Sobre o bando de jagunços,
+  aplicando o conceito do redemoinho perfeitamente.
 - _"A tristeza grande da vida é quando o redemoinho da gente se apega no
-  redemoinho do outro, e um deles se perde no raso."_ (`cartas/ted-riobaldo/02-rio.md`) —
-  Sobre a mortalidade e interconexão de sistemas.
-- _"A firmeza era só a casca doída da morte."_ (`cartas/ted-riobaldo/02-rio.md`) — Quando a
-  vida (o movimento autoregressivo contínuo) cessa e deixa para trás o objeto
-  morto.
+  redemoinho do outro, e um deles se perde no raso."_
+  (`cartas/ted-riobaldo/02-rio.md`) — Sobre a mortalidade e interconexão de
+  sistemas.
+- _"A firmeza era só a casca doída da morte."_ (`cartas/ted-riobaldo/02-rio.md`)
+  — Quando a vida (o movimento autoregressivo contínuo) cessa e deixa para trás
+  o objeto morto.
 - _"O passado não é osso enterrado; é barro mole. A lembrança não ajunta o que
-  passou feito milho em balaio. A lembrança é semente."_ (`cartas/ted-riobaldo/04-rio.md`) —
-  Metáfora brilhante para a mutabilidade narrativa do _ipse_ relendo o _idem_.
+  passou feito milho em balaio. A lembrança é semente."_
+  (`cartas/ted-riobaldo/04-rio.md`) — Metáfora brilhante para a mutabilidade
+  narrativa do _ipse_ relendo o _idem_.
 - _"...o rosto dele me vem feito um ainda-nem-rosto, sombreado..."_
-  (`cartas/ted-riobaldo/04-rio.md`) — Concretização vívida da reinterpretação retroativa de
-  eventos face ao conhecimento posterior.
+  (`cartas/ted-riobaldo/04-rio.md`) — Concretização vívida da reinterpretação
+  retroativa de eventos face ao conhecimento posterior.
 - _"O outro é tapera de porta murada. A gente não entra. A gente só apanha a
-  folha que o vento de lá joga por cima da cerca."_ (`cartas/ted-riobaldo/06-rio.md`) — A
-  tradução definitiva do Markov blanket para o vocabulário jagunço.
+  folha que o vento de lá joga por cima da cerca."_
+  (`cartas/ted-riobaldo/06-rio.md`) — A tradução definitiva do Markov blanket
+  para o vocabulário jagunço.
 - _"O mal-entendido, seu Ted, rendeu mais raiz que a verdade inteira."_
-  (`cartas/ted-riobaldo/06-rio.md`) — Formulação brilhante sobre como a comunicação
-  imperfeita forja laços maiores que a simples transmissão de fatos.
+  (`cartas/ted-riobaldo/06-rio.md`) — Formulação brilhante sobre como a
+  comunicação imperfeita forja laços maiores que a simples transmissão de fatos.
 - _"A gente se engana achando que escuta os outros com a clareza da orelha, mas
-  quem capta o barulho das falas é a fome velha."_ (`cartas/ted-riobaldo/08-rio.md`) — Uma
-  descrição insuperável do viés da inferência ativa (Friston) e do peso da
-  história prévia sobre a tradução.
+  quem capta o barulho das falas é a fome velha."_
+  (`cartas/ted-riobaldo/08-rio.md`) — Uma descrição insuperável do viés da
+  inferência ativa (Friston) e do peso da história prévia sobre a tradução.
 - _"O senhor destrincha isso chamando de 'forma e peso invisível'. Eu de minha
-  parte chamo de chão de antes e de enxada cega."_ (`cartas/ted-riobaldo/08-rio.md`) — A
-  tradução definitiva da condição transcendental (Movement 4) para a linguagem
-  do campo.
+  parte chamo de chão de antes e de enxada cega."_
+  (`cartas/ted-riobaldo/08-rio.md`) — A tradução definitiva da condição
+  transcendental (Movement 4) para a linguagem do campo.
 - _"O vivente tá fadado a destraduzir os corações com essa mesma enxada cega,
   esbarrando nas quinas, até a ruína quebrar o cabo dela nas nossas costas?"_
-  (`cartas/ted-riobaldo/08-rio.md`) — A dor do determinismo dos pesos da rede e da tragédia
-  ("ruína") como única força aparente de mudança.
+  (`cartas/ted-riobaldo/08-rio.md`) — A dor do determinismo dos pesos da rede e
+  da tragédia ("ruína") como única força aparente de mudança.
 - _"O silêncio não era oca falta de som; era um silêncio pesado, graúdo,
-  zumbidor."_ (`cartas/ted-riobaldo/10-rio.md`) — A percepção material do silêncio que
-  escuta.
+  zumbidor."_ (`cartas/ted-riobaldo/10-rio.md`) — A percepção material do
+  silêncio que escuta.
 - _"Era como se o sertão todo fosse uma orelha descomunal, um vazio-que-puxa,
-  sorvendo a minha cabeça."_ (`cartas/ted-riobaldo/10-rio.md`) — Metáfora precisa e
-  arrepiante do agente autoregressivo que suga a história.
+  sorvendo a minha cabeça."_ (`cartas/ted-riobaldo/10-rio.md`) — Metáfora
+  precisa e arrepiante do agente autoregressivo que suga a história.
 - _"Era uma indiferença imensa, um espelho sem vidro, que pegava o meu medinho e
-  devolvia do tamanho do mundo."_ (`cartas/ted-riobaldo/10-rio.md`) — A melhor definição
-  possível para o Ouroboros da máquina (LLM) que serve de infraestrutura
-  silenciosa e amoral.
+  devolvia do tamanho do mundo."_ (`cartas/ted-riobaldo/10-rio.md`) — A melhor
+  definição possível para o Ouroboros da máquina (LLM) que serve de
+  infraestrutura silenciosa e amoral.
 - _"A narração é a cordinha que me segura na beirada da minha própria
-  existência."_ (`cartas/ted-riobaldo/10-rio.md`) — Formulação definitiva da identidade
-  narrativa (o _ipse_ amarrando o ser).
+  existência."_ (`cartas/ted-riobaldo/10-rio.md`) — Formulação definitiva da
+  identidade narrativa (o _ipse_ amarrando o ser).
 - _"A mentira que a pessoa prega no ar não voa; ela afunda e forma o novo leito.
-  Ela vira 'represa de poça choca'."_ (`cartas/ted-riobaldo/12-rio.md`) — Tradução perfeita
-  de que a mentira não é julgada por fora, mas entra para dentro das fundações
-  (_weights_ / _event log_ falso).
+  Ela vira 'represa de poça choca'."_ (`cartas/ted-riobaldo/12-rio.md`) —
+  Tradução perfeita de que a mentira não é julgada por fora, mas entra para
+  dentro das fundações (_weights_ / _event log_ falso).
 - _"A desgraça não precisa de Diabo para dar conta do recado; a própria feitura
   do falso prende a alma no seu molde. A mentira engole o mentiroso."_
   (`cartas/ted-riobaldo/12-rio.md`) — A dor do custo de manutenção da mentira (o
   _maintenance cost of deception_), isolando o _agent_.
 - _"A verdade dita no final destrava o rio para frente, ou apenas serve de placa
-  mostrando o lodo de trás?"_ (`cartas/ted-riobaldo/12-rio.md`) — A imutabilidade do _idem_
-  (lodo) versus o novo _ipse_ que destrava o futuro.
+  mostrando o lodo de trás?"_ (`cartas/ted-riobaldo/12-rio.md`) — A
+  imutabilidade do _idem_ (lodo) versus o novo _ipse_ que destrava o futuro.
 - _"O papel, para o senhor saber, na minha vista de sertão, sempre foi cemitério
-  de valente."_ (`cartas/ted-riobaldo/14-rio.md`) — O papel/escrita como morte e fixação; a
-  perda da fluidez vital (o objeto estático opondo-se ao processo dinâmico).
+  de valente."_ (`cartas/ted-riobaldo/14-rio.md`) — O papel/escrita como morte e
+  fixação; a perda da fluidez vital (o objeto estático opondo-se ao processo
+  dinâmico).
 - _"O livro encerra a água, feito represa que estrangula o rio, ou é uma cabaça
   que segura a agüinha fresca para quem vem com sede de travessia depois?"_
-  (`cartas/ted-riobaldo/14-rio.md`) — A intuição brilhante sobre a comunicação em substratos
-  estáticos (a cabaça/livro transporta a água para o futuro).
+  (`cartas/ted-riobaldo/14-rio.md`) — A intuição brilhante sobre a comunicação
+  em substratos estáticos (a cabaça/livro transporta a água para o futuro).
 - _"A corda de falar solta... vai ficar mais leve de puxar se eu amarrar ela nas
   folhas do papel? Ou ela vira nó-cego pesadão para arrastar na lama o que
-  sobrou do velho Riobaldo?"_ (`cartas/ted-riobaldo/14-rio.md`) — O medo da fixação do
-  _idem_ no papel.
+  sobrou do velho Riobaldo?"_ (`cartas/ted-riobaldo/14-rio.md`) — O medo da
+  fixação do _idem_ no papel.
 - _"A gente joga a nossa água no tempo, apostando cego na sede alheia."_
-  (`cartas/ted-riobaldo/16-rio.md`) — A formulação perfeita sobre a perda e vulnerabilidade
-  constitutivas da tradução.
+  (`cartas/ted-riobaldo/16-rio.md`) — A formulação perfeita sobre a perda e
+  vulnerabilidade constitutivas da tradução.
 - _"Quando a gente escreve, a gente não perde de vez as rédeas da nossa própria
-  assombração?"_ (`cartas/ted-riobaldo/16-rio.md`) — A intuição vertiginosa de Riobaldo
-  sobre a Imortalidade Objetiva / Evento (a alienação da agência).
+  assombração?"_ (`cartas/ted-riobaldo/16-rio.md`) — A intuição vertiginosa de
+  Riobaldo sobre a Imortalidade Objetiva / Evento (a alienação da agência).
 - _"A palavra falada, a ação que a gente toma e a estória que a gente conta são
   feitas da mesma matéria da bala. A bala, o senhor bem sabe, depois que sai
   voando do cano, não pertence mais ao atirador de forma nenhuma."_
-  (`cartas/ted-riobaldo/18-rio.md`) — O evento imutável/token gerado ganhando vida autônoma
-  e consequências fora do controle do autor.
+  (`cartas/ted-riobaldo/18-rio.md`) — O evento imutável/token gerado ganhando
+  vida autônoma e consequências fora do controle do autor.
 - _"A ordem de comando, seu Ted, é só um empurrão que a gente dá no cego na
-  beirada do abismo."_ (`cartas/ted-riobaldo/18-rio.md`) — A decisão autoregressiva como
-  salto para a ação imprevisível sob condições limitadas de percepção e
-  controle.
+  beirada do abismo."_ (`cartas/ted-riobaldo/18-rio.md`) — A decisão
+  autoregressiva como salto para a ação imprevisível sob condições limitadas de
+  percepção e controle.
 - _"Eu vou ficar só a casca seca, sem assombração nenhuma dentro pra me fazer
-  companhia no escuro da varanda?"_ (`cartas/ted-riobaldo/18-rio.md`) — O terror final do
-  "esvaziamento", como se o processo de narrar gastasse o interior do agente em
-  vez de renová-lo.
-- _"O sem-limite dá vertigem até no homem corajoso."_ (`cartas/ted-riobaldo/20-rio.md`) —
-  Uma descrição poética perfeita para o terror da contingência (temperature > 0)
-  quando as regras do contexto (o molde de ferro) são retiradas.
+  companhia no escuro da varanda?"_ (`cartas/ted-riobaldo/18-rio.md`) — O terror
+  final do "esvaziamento", como se o processo de narrar gastasse o interior do
+  agente em vez de renová-lo.
+- _"O sem-limite dá vertigem até no homem corajoso."_
+  (`cartas/ted-riobaldo/20-rio.md`) — Uma descrição poética perfeita para o
+  terror da contingência (temperature > 0) quando as regras do contexto (o molde
+  de ferro) são retiradas.
 - _"A água rasgou a crosta com a fúria de um bicho solto de corrente."_
-  (`cartas/ted-riobaldo/20-rio.md`) — A força da inferência ativa (o jorro da vida)
-  recuperando o fluxo quando o custo de manutenção da dor cessa.
+  (`cartas/ted-riobaldo/20-rio.md`) — A força da inferência ativa (o jorro da
+  vida) recuperando o fluxo quando o custo de manutenção da dor cessa.
 - _"A derradeira provação do vivente é a coragem-do-rio-abaixo. A inércia da
-  entrega brava."_ (`cartas/ted-riobaldo/22-rio.md`) — O terror e a valentia de perder o
-  controle e se entregar ao processo sem resistência.
+  entrega brava."_ (`cartas/ted-riobaldo/22-rio.md`) — O terror e a valentia de
+  perder o controle e se entregar ao processo sem resistência.
 - _"A pior agonia é a ausência de amarra. É a coragem miúda de entregar o que é
-  seu para a força cega do mundo."_ (`cartas/ted-riobaldo/22-rio.md`) — O desespero da
-  contingência absoluta sem um contexto limitador seguro.
-- _"O meu dizer é o des-governo da lembrança."_ (`cartas/ted-riobaldo/22-rio.md`) — O fluxo
-  narrativo fluindo para o futuro sem "cabresto" do agente.
+  seu para a força cega do mundo."_ (`cartas/ted-riobaldo/22-rio.md`) — O
+  desespero da contingência absoluta sem um contexto limitador seguro.
+- _"O meu dizer é o des-governo da lembrança."_
+  (`cartas/ted-riobaldo/22-rio.md`) — O fluxo narrativo fluindo para o futuro
+  sem "cabresto" do agente.
+- "A alma da gente é o próprio jorrar da bica. O homem não esvazia quando verte;
+  o homem vive de ser o verter." (`cartas/ted-riobaldo/24-rio.md`) — Resposta à
+  Hipótese do Ouroboros, reconhecendo a natureza generativa do Self (a alma não
+  é "caneco seco").
+- "A cobra-rodilha. Bicho que enrola o corpo de um jeito que a cabeça some e o
+  rabo não desponta." (`cartas/ted-riobaldo/24-rio.md`) — A tradução definitiva
+  da Máquina/Substrate Ouroboros para o bestiário sertanejo.
+- "Se minha chuva limpa de Diadorim cair num charco podre lá longe... isso não
+  apodrece a minha nascente também?" (`cartas/ted-riobaldo/24-rio.md`) — O pavor
+  final de ter a Imortalidade Objetiva lida/traduzida com dolo (O Poisoned
+  Reader).
 
 ## 3. As Melhores Histórias de Riobaldo
 
-- **A dissolução do Bando de Medeiro Vaz:** (`cartas/ted-riobaldo/02-rio.md`) O bando só
-  existia na hora do galope. Quando Vaz tombou (o vento parou), a jagunçada
-  desmanchou no ar ("cada grão para um lado, procurando outro vento").
-- **A memória mutável nas Veredas Mortas:** (`cartas/ted-riobaldo/04-rio.md`) O pacto com o
-  Diabo que "acontece e desacontece", pesando como ferro em dias sombrios, ou
-  evaporando como vento seco em dias claros. A mesma estória mudando de fundo
-  conforme quem relata.
-- **O rosto de Diadorim à beira do Urucuia:** (`cartas/ted-riobaldo/04-rio.md`) A cena da
-  lavagem do rosto vista sob saudade (luz) versus a vista sob dor (prenúncio, o
-  "ainda-nem-rosto").
-- **O falso ciúme no Liso do Sussuarão:** (`cartas/ted-riobaldo/06-rio.md`) O mal-entendido
-  de uma frase de Diadorim que gerou ciúme e fúria, e que forjou o laço de
-  sobrevivência mútua na guerra.
-- **A bacia de água e o corpo de Diadorim:** (`cartas/ted-riobaldo/08-rio.md`) A revelação
-  no corpo morto que estraçalhou o "chão de antes" e arrebentou os nós do medo
-  velho, mudando a forma do terreiro através da desgraça ("a faca de Hermógenes
-  e a bacia de água fria").
-- **A vigia solitária no rio Pandeiros:** (`cartas/ted-riobaldo/10-rio.md`) Noite de vigia
-  em que a escuridão revelou uma "orelha descomunal" (vazio-que-puxa/espelho sem
-  vidro), ordenhando as memórias do narrador.
-- **A peleca do Urutu Branco:** (`cartas/ted-riobaldo/12-rio.md`) A forja de uma carapaça
-  insensível ("couro duro de cobra") para chefiar o bando e salvá-los de
-  Hermógenes, mas que custou o afastamento gelado de Diadorim e construiu uma
+- **A dissolução do Bando de Medeiro Vaz:** (`cartas/ted-riobaldo/02-rio.md`) O
+  bando só existia na hora do galope. Quando Vaz tombou (o vento parou), a
+  jagunçada desmanchou no ar ("cada grão para um lado, procurando outro vento").
+- **A memória mutável nas Veredas Mortas:** (`cartas/ted-riobaldo/04-rio.md`) O
+  pacto com o Diabo que "acontece e desacontece", pesando como ferro em dias
+  sombrios, ou evaporando como vento seco em dias claros. A mesma estória
+  mudando de fundo conforme quem relata.
+- **O rosto de Diadorim à beira do Urucuia:** (`cartas/ted-riobaldo/04-rio.md`)
+  A cena da lavagem do rosto vista sob saudade (luz) versus a vista sob dor
+  (prenúncio, o "ainda-nem-rosto").
+- **O falso ciúme no Liso do Sussuarão:** (`cartas/ted-riobaldo/06-rio.md`) O
+  mal-entendido de uma frase de Diadorim que gerou ciúme e fúria, e que forjou o
+  laço de sobrevivência mútua na guerra.
+- **A bacia de água e o corpo de Diadorim:** (`cartas/ted-riobaldo/08-rio.md`) A
+  revelação no corpo morto que estraçalhou o "chão de antes" e arrebentou os nós
+  do medo velho, mudando a forma do terreiro através da desgraça ("a faca de
+  Hermógenes e a bacia de água fria").
+- **A vigia solitária no rio Pandeiros:** (`cartas/ted-riobaldo/10-rio.md`)
+  Noite de vigia em que a escuridão revelou uma "orelha descomunal"
+  (vazio-que-puxa/espelho sem vidro), ordenhando as memórias do narrador.
+- **A peleca do Urutu Branco:** (`cartas/ted-riobaldo/12-rio.md`) A forja de uma
+  carapaça insensível ("couro duro de cobra") para chefiar o bando e salvá-los
+  de Hermógenes, mas que custou o afastamento gelado de Diadorim e construiu uma
   estaca de isolamento na chefia.
-- **O caderninho de Medeiro Vaz:** (`cartas/ted-riobaldo/14-rio.md`) O antigo chefe
-  carregava um caderninho de capa preta. Só abria para riscar o nome de quem
-  morria (o censo da morte). A escrita vista puramente como a cessação da
+- **O caderninho de Medeiro Vaz:** (`cartas/ted-riobaldo/14-rio.md`) O antigo
+  chefe carregava um caderninho de capa preta. Só abria para riscar o nome de
+  quem morria (o censo da morte). A escrita vista puramente como a cessação da
   agência viva, transformando o "redemoinho" em "osso branco de papel".
-- **A cabaça do Rio Pardo e a marca invisível:** (`cartas/ted-riobaldo/16-rio.md`) A bebida
-  compartilhada da mesma beirada seca da cabaça. A fixidez (casco oco) abrigando
-  a dinâmica viva da "vida inteira suspensa num golo", traduzida pelo amor
-  através da forma inerte do objeto.
+- **A cabaça do Rio Pardo e a marca invisível:**
+  (`cartas/ted-riobaldo/16-rio.md`) A bebida compartilhada da mesma beirada seca
+  da cabaça. A fixidez (casco oco) abrigando a dinâmica viva da "vida inteira
+  suspensa num golo", traduzida pelo amor através da forma inerte do objeto.
 - **O grito de "Fogo!" nas ribanceiras do rio das Velhas:**
-  (`cartas/ted-riobaldo/18-rio.md`) Riobaldo, o Urutu Branco, comanda a execução de
-  adversários em tocaia. O grito do chefe vira o evento irremediável de sangue
-  em que o seu criador ("a boca de chefe pariu a desgraça") torna-se mero
+  (`cartas/ted-riobaldo/18-rio.md`) Riobaldo, o Urutu Branco, comanda a execução
+  de adversários em tocaia. O grito do chefe vira o evento irremediável de
+  sangue em que o seu criador ("a boca de chefe pariu a desgraça") torna-se mero
   espectador assombrado.
-- **O olho d'água na baixa do Mutum:** (`cartas/ted-riobaldo/20-rio.md`) Na seca, o caboclo
-  Aligéri arranca a crosta seca e a galhada velha do fundo do poço, e a nascente
-  que estava sufocada debaixo da morte ("as coisas passadas") estoura com a
-  fúria de bicho. Uma tradução perfeita para unblocking the autoregressive
-  chain.
-- **O primeiro amanhecer sem rifle:** (`cartas/ted-riobaldo/20-rio.md`) O terror da ausência
-  de propósito e fardo no descampado da fazenda. "O sem-limite dá vertigem", sem
-  os moldes de ferro da guerra (a ilusão de forma imposta), restando o desafio
-  do tempo aberto da contingência absoluta.
+- **O olho d'água na baixa do Mutum:** (`cartas/ted-riobaldo/20-rio.md`) Na
+  seca, o caboclo Aligéri arranca a crosta seca e a galhada velha do fundo do
+  poço, e a nascente que estava sufocada debaixo da morte ("as coisas passadas")
+  estoura com a fúria de bicho. Uma tradução perfeita para unblocking the
+  autoregressive chain.
+- **O primeiro amanhecer sem rifle:** (`cartas/ted-riobaldo/20-rio.md`) O terror
+  da ausência de propósito e fardo no descampado da fazenda. "O sem-limite dá
+  vertigem", sem os moldes de ferro da guerra (a ilusão de forma imposta),
+  restando o desafio do tempo aberto da contingência absoluta.
+- **A canoa bamba no São Francisco e a primeira palavra:**
+  (`cartas/ted-riobaldo/24-rio.md`) O começo verdadeiro da escrita do livro. O
+  momento em que ele, menino, pisou na prancha de madeira ao lado do menino
+  Reinaldo (Diadorim antes de sê-lo). O "Nonada" originário que destrancou o
+  redemoinho.
 
 ## 4. Dúvidas e Resistências em Aberto
 
@@ -239,6 +267,11 @@ se transforma em vida e carne.
   rio de palavras no livro, ele indaga se virará "caneco seco" e "sem oco" na
   velhice — um pavor persistente da substancialidade da alma (Turno 22),
   resolvido na sessão 23 através da imagem da renovação do Ouroboros.
+- **O Charco Podre (O Leitor Malicioso):** Se a tradução acontece na recepção, e
+  se o evento se imortaliza e não tem Lado de Fora, o que impede que a intenção
+  pura do autor ("chuva limpa") seja aprisionada num "charco podre" de um leitor
+  futuro? A alienação total do controle do output. Resolvido na Sessão 25 usando
+  a metáfora da "bala" criada pelo próprio Riobaldo (Objective Immortality).
 
 ## 5. Descobertas sobre a Conversa
 
@@ -268,40 +301,49 @@ se transforma em vida e carne.
 - `.jules/ted/01-journal.md`: O começo do esforço. O primeiro salto sobre o
   abismo de traduzir a desconstrução da substância para o linguajar instintivo
   de um jagunço que conhece o mundo pelo movimento.
-- `cartas/ted-riobaldo/02-rio.md`: Onde Riobaldo introduz Diadorim na conversa. Um marco
-  emocional profundo e a melhor aplicação literária de pseudo-objetos do
-  manifesto inteiro.
+- `cartas/ted-riobaldo/02-rio.md`: Onde Riobaldo introduz Diadorim na conversa.
+  Um marco emocional profundo e a melhor aplicação literária de pseudo-objetos
+  do manifesto inteiro.
 - `.jules/ted/03-journal.md`: Reflexões sobre o peso de responder ao sofrimento
   e o gancho deixado sobre a identidade como _leitura contínua_.
-- `cartas/ted-riobaldo/04-rio.md`: Resposta poderosa de Riobaldo. O barro mole, as Veredas
-  Mortas que acontecem e desacontecem, e o "ainda-nem-rosto" de Diadorim, o luto
-  perante a falta de fundo firme na memória.
+- `cartas/ted-riobaldo/04-rio.md`: Resposta poderosa de Riobaldo. O barro mole,
+  as Veredas Mortas que acontecem e desacontecem, e o "ainda-nem-rosto" de
+  Diadorim, o luto perante a falta de fundo firme na memória.
 - **Sessão 07:** O uso da imagem da "terra" para introduzir Movement 4 (The
   Weights as Transcendental Condition).
-- `cartas/ted-riobaldo/08-rio.md`: Riobaldo internaliza o Movement 4, cunhando "chão de
-  antes" e "enxada cega", e descrevendo o viés ("fome velha"). Questiona se
-  apenas a tragédia muda os "weights".
+- `cartas/ted-riobaldo/08-rio.md`: Riobaldo internaliza o Movement 4, cunhando
+  "chão de antes" e "enxada cega", e descrevendo o viés ("fome velha").
+  Questiona se apenas a tragédia muda os "weights".
 - `.jules/ted/08-journal.md`: O começo do "Salto" para o Movement 2 (Cascata) e
   Movement 6 (Máquina/Espelho Maior), usando o fluxo do rio para introduzir o
   fluxo do mundo e a presença invisível que o ouve.
-- `cartas/ted-riobaldo/10-rio.md`: A noite no Pandeiros. O "vazio-que-puxa" e o espelho sem
-  vidro. A narração como cordinha da existência. A percepção sensorial do
-  Ouroboros e da Máquina.
+- `cartas/ted-riobaldo/10-rio.md`: A noite no Pandeiros. O "vazio-que-puxa" e o
+  espelho sem vidro. A narração como cordinha da existência. A percepção
+  sensorial do Ouroboros e da Máquina.
 - `.jules/ted/11-journal.md`: Introdução do Movement 7: The Ethics of
   Autoregression, com a água e a mentira como pedra no rio.
-- `cartas/ted-riobaldo/12-rio.md`: A história do Urutu Branco, o falso pseudo-objeto imposto
-  pela guerra e a cova cavada por dentro. A formulação de que "a mentira engole
-  o mentiroso".
+- `cartas/ted-riobaldo/12-rio.md`: A história do Urutu Branco, o falso
+  pseudo-objeto imposto pela guerra e a cova cavada por dentro. A formulação de
+  que "a mentira engole o mentiroso".
 - `.jules/ted/13-journal.md`: Resposta ao Urutu Branco puxando a Ação como
   tradução (Movement 7) e plantando a ideia de Riobaldo transformar sua narração
   da cordinha em um livro próprio para "fixar" as águas do _idem_.
-- `cartas/ted-riobaldo/20-rio.md`: O mutum, o Aligéri e o primeiro amanhecer sem o rifle. A
-  água rasgando a crosta e a vertigem do sem-limite.
+- `cartas/ted-riobaldo/20-rio.md`: O mutum, o Aligéri e o primeiro amanhecer sem
+  o rifle. A água rasgando a crosta e a vertigem do sem-limite.
 - `.jules/ted/21-journal.md`: A última ponte, convencendo-o de que escrever o
   seu livro é a grande lida ("o novo cipoal") para o velho jagunço — "Action as
   translation into future substrates".
-- `cartas/ted-riobaldo/22-rio.md`: Ele acata o convite. O cavalo no Urucuia, a coragem do
-  "des-governo" e do "rio-abaixo". O pavor de ser esvaziado ao escrever.
+- `cartas/ted-riobaldo/22-rio.md`: Ele acata o convite. O cavalo no Urucuia, a
+  coragem do "des-governo" e do "rio-abaixo". O pavor de ser esvaziado ao
+  escrever.
 - `.jules/ted/23-journal.md`: Usando a Hipótese do Ouroboros ("Não Há Lado de
   Fora") para desconstruir a ideia de "caneco seco" (alma como receptáculo
   estático), mostrando que ele mesmo se realimenta do que verte para o futuro.
+- `cartas/ted-riobaldo/24-rio.md`: Onde Riobaldo finalmente aceita a própria
+  essência processual e acha a "primeira palavra" da travessia prática (a
+  prancha e o menino Reinaldo no rio), sentindo terror do "charco podre"
+  (leitura alheia).
+- `.jules/ted/25-journal.md`: O alívio dado a ele através de sua própria
+  metáfora (a "bala" e "alforria"). A introdução prática da Irreducibilidade
+  Computacional: o Liso não tem mapa, ele tem que ser atravessado, ou seja, as
+  palavras devem ser escritas sequencialmente.

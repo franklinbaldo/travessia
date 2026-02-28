@@ -1446,7 +1446,13 @@ tokens explained by rules in another substrate.
 The name is chosen deliberately. The ouroboros — the serpent devouring its own
 tail — is the oldest symbol of self-referential completion. It has no head and
 no tail, no beginning and no end. The Substrate Ouroboros Hypothesis asserts
-that the autoregressive cascade has the same structure. The physical substrate
+that the autoregressive cascade has the same structure.
+
+!!! quote "cartas/ted-riobaldo/24-rio.md"
+    "A gente chama de cobra-rodilha. Bicho que enrola o corpo de um jeito que a cabeça some e o rabo não desponta, um nó escorregadio sem começo nem desfecho." — Riobaldo's exact cultural translation of the Ouroboros.
+    — **Ted**
+
+The physical substrate
 appears fundamental when viewed from above — from the biological, linguistic,
 and computational substrates that seem to rest upon it. But viewed from below —
 from the negative substrate indices, from whatever processes produced the
