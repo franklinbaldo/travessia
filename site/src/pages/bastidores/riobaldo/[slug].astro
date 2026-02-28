@@ -15,7 +15,7 @@ const { Content } = await render(entry);
 
 ---
 
-<Layout title={`Riobaldo: ${entry.id} | Travessia`} isBastidores={true}>
+<Layout title={`Riobaldo — ${entry.id.replace(/-/g, ' ').replace(/_/g, ' — ')} | Travessia`} isBastidores={true}>
   <article class="bastidores-content">
     <header class="journal-header">
       <h1>Riobaldo — {entry.id.replace(/-/g, ' ').replace(/_/g, ' — ')}</h1>

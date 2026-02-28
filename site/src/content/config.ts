@@ -33,7 +33,7 @@ const manuscritoCollection = defineCollection({
 
 const bastidoresRiobaldoCollection = defineCollection({
   loader: glob({
-    pattern: "**/*.md",
+    pattern: "*.md",
     base: pathToFileURL(path.join(__dirname, "../../../.jules/riobaldo")),
   }),
 });

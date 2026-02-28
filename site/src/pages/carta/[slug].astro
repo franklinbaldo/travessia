@@ -23,6 +23,7 @@ function formatDate(date: Date): string {
     day: 'numeric',
     month: 'long',
     year: 'numeric',
+    timeZone: 'UTC',
   }).format(date);
 }
 
@@ -46,16 +47,16 @@ const correspondenceFlow = {
 <Layout title={`${titulo} | Travessia`}>
   <article>
     <header class="manuscrito-header">
-      <div class="correspondence-context">
-        {prevEntry && (
+      {prevEntry && (
+        <div class="correspondence-context">
           <div class={`correspondence-flow ${isTed ? 'ted-responding' : 'rio-responding'}`}>
             <span class="correspondence-label">Resposta a</span>
             <span class={`correspondence-author ${prevEntry.data.autor.includes('Riobaldo') ? 'autor-rio' : 'autor-ted'}`}>
               {prevEntry.data.autor}
             </span>
           </div>
-        )}
-      </div>
+        </div>
+      )}
       <div class="carta-autor-badge">
         <span class={`autor-badge ${isRio ? 'autor-rio' : 'autor-ted'}`}>{autor}</span>
       </div>

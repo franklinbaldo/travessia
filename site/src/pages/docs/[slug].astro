@@ -15,7 +15,7 @@ const { Content } = await render(entry);
 
 ---
 
-<Layout title={`${entry.id} | Travessia`} isBastidores={true}>
+<Layout title={`${entry.id.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())} | Travessia`} isBastidores={true}>
   <article class="bastidores-content">
     <div class="docs-body">
       <Content />
