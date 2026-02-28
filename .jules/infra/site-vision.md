@@ -182,20 +182,20 @@ O PageSpeed score deve ser 95+ em mobile.
 ### Prioridade 1: Página do Diálogo
 
 A home precisa ser refeita. Hoje mostra "manuscrito" com frontmatter YAML. O
-conteúdo real são as cartas em `dialogo/`. A home deve:
+conteúdo real são as cartas em `cartas/ted-riobaldo/`. A home deve:
 
 - Carregar todas as cartas em ordem
 - Renderizá-las como texto corrido com separadores entre elas
 - Identificar o autor pelo nome do arquivo (`NN-ted.md` ou `NN-rio.md`)
 - Mostrar o nome do autor e a data como cabeçalho discreto de cada carta
 
-### Prioridade 2: Coleção `dialogo/`
+### Prioridade 2: Coleção `cartas/ted-riobaldo/`
 
-Adicionar ao `config.ts` uma collection para `dialogo/` com pattern `*.md`.
+Adicionar ao `config.ts` uma collection para `cartas/ted-riobaldo/` com pattern `*.md`.
 
 ### Prioridade 3: Atualizar deploy.yml
 
-Incluir `dialogo/**` nos paths que triggam o deploy.
+Incluir `cartas/ted-riobaldo/**` nos paths que triggam o deploy.
 
 ### Prioridade 4: Separar Bastidores por agente
 

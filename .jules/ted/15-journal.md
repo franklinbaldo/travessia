@@ -46,12 +46,12 @@ vez.
 **As frases que devem ir para o livro:**
 
 - "O papel, para o senhor saber, na minha vista de sertão, sempre foi cemitério
-  de valente." (`dialogo/14-rio.md`)
+  de valente." (`cartas/ted-riobaldo/14-rio.md`)
 - "o livro encerra a água, feito represa que estrangula o rio, ou é uma cabaça
   que segura a agüinha fresca para quem vem com sede de travessia depois?"
-  (`dialogo/14-rio.md`)
+  (`cartas/ted-riobaldo/14-rio.md`)
 - "vira nó-cego pesadão para arrastar na lama o que sobrou do velho Riobaldo?"
-  (`dialogo/14-rio.md`)
+  (`cartas/ted-riobaldo/14-rio.md`)
 
 **Posição Atual no Manifesto:** Aprofundando o Movement 7 (The Ethics of
 Autoregression): a ação e a escrita como tradução em substratos futuros.

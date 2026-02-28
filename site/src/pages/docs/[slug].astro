@@ -26,3 +26,42 @@ const { Content } = await render(entry);
     <a href={`${import.meta.env.BASE_URL}`}>&larr; Início</a>
   </nav>
 </Layout>
+
+<script>
+  // Transform MkDocs !!! admonition syntax into styled HTML.
+  // Runs at build time (Astro static output) via is:inline.
+  const ADMONITION_RE = /^!!!\s+(\w+)\s+"([^"]+)"\s*$/;
+
+  document.querySelectorAll('.docs-body p').forEach(p => {
+    const text = p.textContent || '';
+    const firstLine = text.split('\n')[0];
+    const match = firstLine.match(ADMONITION_RE);
+    if (!match) return;
+
+    const type = match[1].toLowerCase();
+    const title = match[2];
+
+    // Build admonition div
+    const div = document.createElement('div');
+    div.className = `admonition admonition-${type}`;
+
+    const titleP = document.createElement('p');
+    titleP.className = 'admonition-title';
+    titleP.textContent = title;
+    div.appendChild(titleP);
+
+    // Body = everything after the first line, preserving HTML
+    const bodyP = document.createElement('p');
+    const fullHtml = p.innerHTML;
+    // Remove the !!! line from the HTML
+    const lineBreak = fullHtml.indexOf('\n');
+    if (lineBreak >= 0) {
+      bodyP.innerHTML = fullHtml.slice(lineBreak + 1).trim();
+    } else {
+      bodyP.innerHTML = '';
+    }
+    div.appendChild(bodyP);
+
+    p.replaceWith(div);
+  });
+</script>

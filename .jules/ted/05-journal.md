@@ -31,9 +31,9 @@ significado, ele o _gera_.
 
 **O que Riobaldo produziu de melhor:** _"O passado não é osso enterrado; é barro
 mole. A lembrança não ajunta o que passou feito milho em balaio. A lembrança é
-semente."_ (`dialogo/04-rio.md`) - A materialização perfeita do ciclo
+semente."_ (`cartas/ted-riobaldo/04-rio.md`) - A materialização perfeita do ciclo
 hermenêutico e da mutabilidade narrativa. _"O rosto dele me vem feito um
-ainda-nem-rosto, sombreado..."_ (`dialogo/04-rio.md`) - Uma captura incrível de
+ainda-nem-rosto, sombreado..."_ (`cartas/ted-riobaldo/04-rio.md`) - Uma captura incrível de
 como o conhecimento do presente reescreve a percepção do passado.
 
 **Onde estou no manifesto:** Avancei para o _Movement 5: Translation as the

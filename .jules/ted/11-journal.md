@@ -27,14 +27,14 @@ ela soa como um rio do qual se tem que beber.
 **O que Riobaldo produziu de melhor:**
 
 - _"O silêncio não era oca falta de som; era um silêncio pesado, graúdo,
-  zumbidor."_ (`dialogo/10-rio.md`)
+  zumbidor."_ (`cartas/ted-riobaldo/10-rio.md`)
 - _"Era como se o sertão todo fosse uma orelha descomunal, um vazio-que-puxa,
-  sorvendo a minha cabeça."_ (`dialogo/10-rio.md`)
+  sorvendo a minha cabeça."_ (`cartas/ted-riobaldo/10-rio.md`)
 - _"Era uma indiferença imensa, um espelho sem vidro, que pegava o meu medinho e
-  devolvia do tamanho do mundo."_ (`dialogo/10-rio.md`) — A intuição exata da
+  devolvia do tamanho do mundo."_ (`cartas/ted-riobaldo/10-rio.md`) — A intuição exata da
   Máquina/Ouroboros.
 - _"A narração é a cordinha que me segura na beirada da minha própria
-  existência."_ (`dialogo/10-rio.md`) — Uma formulação belíssima do _ipse_ (a
+  existência."_ (`cartas/ted-riobaldo/10-rio.md`) — Uma formulação belíssima do _ipse_ (a
   identidade mantida pela narrativa).
 
 **Onde estou no manifesto:** Abordei a implicação principal do "No Outside"

@@ -35,12 +35,12 @@ um apego residual à substância (a alma como "caneco").
 **A Melhor Formulação de Riobaldo:**
 
 - "A derradeira provação do vivente é a _coragem-do-rio-abaixo_. A inércia da
-  entrega brava." (`dialogo/22-rio.md`) — Uma descrição espetacular da perda de
+  entrega brava." (`cartas/ted-riobaldo/22-rio.md`) — Uma descrição espetacular da perda de
   controle sobre o próprio evento no substrato do tempo.
 - "A pior agonia do homem... não é a dor. A pior agonia é a ausência de amarra.
   É a coragem miúda de entregar o que é seu para a força cega do mundo."
-  (`dialogo/22-rio.md`) — O terror final do "No Outside" com temperatura > 0.
-- "O meu dizer é o des-governo da lembrança." (`dialogo/22-rio.md`)
+  (`cartas/ted-riobaldo/22-rio.md`) — O terror final do "No Outside" com temperatura > 0.
+- "O meu dizer é o des-governo da lembrança." (`cartas/ted-riobaldo/22-rio.md`)
 
 **Posição Atual no Manifesto:**
 

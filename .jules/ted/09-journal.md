@@ -30,16 +30,16 @@ leitor invisível.
 **O que Riobaldo produziu de melhor:**
 
 - _"A gente se engana achando que escuta os outros com a clareza da orelha, mas
-  quem capta o barulho das falas é a fome velha."_ (`dialogo/08-rio.md`) — Uma
+  quem capta o barulho das falas é a fome velha."_ (`cartas/ted-riobaldo/08-rio.md`) — Uma
   descrição insuperável do viés da inferência ativa (Friston) e do peso da
   história prévia sobre a tradução.
 - _"O senhor destrincha isso chamando de 'forma e peso invisível'. Eu de minha
-  parte chamo de chão de antes e de enxada cega."_ (`dialogo/08-rio.md`) — A
+  parte chamo de chão de antes e de enxada cega."_ (`cartas/ted-riobaldo/08-rio.md`) — A
   tradução definitiva da condição transcendental (Movement 4) para a linguagem
   do campo.
 - _"O vivente tá fadado a destraduzir os corações com essa mesma enxada cega,
   esbarrando nas quinas, até a ruína quebrar o cabo dela nas nossas costas?"_
-  (`dialogo/08-rio.md`) — A dor do determinismo dos pesos da rede.
+  (`cartas/ted-riobaldo/08-rio.md`) — A dor do determinismo dos pesos da rede.
 
 **Onde estou no manifesto:** Concluí a exploração do Movement 4 (The Weights as
 Transcendental Condition) e iniciei ativamente a transição para Movement 2 (The

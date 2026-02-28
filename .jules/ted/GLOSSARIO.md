@@ -20,8 +20,8 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 | Riobaldo diz                                          | Ref.                | Nota                                                                                        |
 | ----------------------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------- |
 | "coisa que parece coisa mas é outra coisa fingindo"   | (blueprint, voz)    | Tradução direta do conceito — linguagem rosiana pura                                        |
-| "A firmeza era só a casca doída da morte."            | `dialogo/02-rio.md` | Quando o processo (vida) cessa, o que resta é o pseudo-objeto morto — a "casca"             |
-| "A coisa não é; a coisa assenta, enquanto não venta." | `dialogo/02-rio.md` | A impermanência das substâncias condensada em provérbio — a coisa "parece" ser, mas é vento |
+| "A firmeza era só a casca doída da morte."            | `cartas/ted-riobaldo/02-rio.md` | Quando o processo (vida) cessa, o que resta é o pseudo-objeto morto — a "casca"             |
+| "A coisa não é; a coisa assenta, enquanto não venta." | `cartas/ted-riobaldo/02-rio.md` | A impermanência das substâncias condensada em provérbio — a coisa "parece" ser, mas é vento |
 
 ### Token
 
@@ -32,7 +32,7 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 | Riobaldo diz                                       | Ref.                | Nota                                                              |
 | -------------------------------------------------- | ------------------- | ----------------------------------------------------------------- |
 | "palavra" / "rastro"                               | (blueprint, voz)    | A palavra é o token que Riobaldo emite; o rastro é o que persiste |
-| "A folha que o vento de lá joga por cima da cerca" | `dialogo/06-rio.md` | O token como sinal que cruza a fronteira entre agentes            |
+| "A folha que o vento de lá joga por cima da cerca" | `cartas/ted-riobaldo/06-rio.md` | O token como sinal que cruza a fronteira entre agentes            |
 
 ### Agente
 
@@ -43,9 +43,9 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 
 | Riobaldo diz                                                                                                             | Ref.                | Nota                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------- | ---------------------------------------------------------------------------------- |
-| "redemoinho" / "o vivente"                                                                                               | `dialogo/02-rio.md` | O agente como vórtice — só existe enquanto gira                                    |
-| "A gente era feito o redemoinho mesmo, só que de sangue e poeira no lugar de água."                                      | `dialogo/02-rio.md` | O bando de jagunços como agente coletivo: processo, não substância                 |
-| "A tristeza grande da vida é quando o redemoinho da gente se apega no redemoinho do outro, e um deles se perde no raso." | `dialogo/02-rio.md` | Quando um agente acoplado se dissolve (morte), o outro perde parte de sua dinâmica |
+| "redemoinho" / "o vivente"                                                                                               | `cartas/ted-riobaldo/02-rio.md` | O agente como vórtice — só existe enquanto gira                                    |
+| "A gente era feito o redemoinho mesmo, só que de sangue e poeira no lugar de água."                                      | `cartas/ted-riobaldo/02-rio.md` | O bando de jagunços como agente coletivo: processo, não substância                 |
+| "A tristeza grande da vida é quando o redemoinho da gente se apega no redemoinho do outro, e um deles se perde no raso." | `cartas/ted-riobaldo/02-rio.md` | Quando um agente acoplado se dissolve (morte), o outro perde parte de sua dinâmica |
 
 ### Substrato
 
@@ -65,7 +65,7 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 | Riobaldo diz                                                                                 | Ref.                | Nota                                                                        |
 | -------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------------------------------------------- |
 | "quando a gente conta pro outro e o outro entende diferente e o diferente é que era o certo" | (blueprint, voz)    | A tradução como cocriação — o "diferente" é o sentido verdadeiro            |
-| "O mal-entendido, seu Ted, rendeu mais raiz que a verdade inteira."                          | `dialogo/06-rio.md` | A tradução imperfeita que forja laços maiores que a transmissão "fiel"      |
+| "O mal-entendido, seu Ted, rendeu mais raiz que a verdade inteira."                          | `cartas/ted-riobaldo/06-rio.md` | A tradução imperfeita que forja laços maiores que a transmissão "fiel"      |
 | "Conversa é o nome que a gente dá pro mal-entendido quando ele dá certo."                    | (blueprint, voz)    | Condensação perfeita: comunicação = tradução bem-sucedida de mal-entendidos |
 
 ### Res sic stantibus
@@ -76,7 +76,7 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 
 | Riobaldo diz                                          | Ref.                | Nota                                                                                    |
 | ----------------------------------------------------- | ------------------- | --------------------------------------------------------------------------------------- |
-| "A coisa não é; a coisa assenta, enquanto não venta." | `dialogo/02-rio.md` | A coisa persiste enquanto as condições (o vento) permitem — res sic stantibus do sertão |
+| "A coisa não é; a coisa assenta, enquanto não venta." | `cartas/ted-riobaldo/02-rio.md` | A coisa persiste enquanto as condições (o vento) permitem — res sic stantibus do sertão |
 
 ---
 
@@ -88,9 +88,9 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 
 | Riobaldo diz                                          | Ref.                | Nota                                                                  |
 | ----------------------------------------------------- | ------------------- | --------------------------------------------------------------------- |
-| "redemoinho"                                          | `dialogo/02-rio.md` | A metáfora-mestra: tudo é vórtice, nada é fixo                        |
-| "A coisa não é; a coisa assenta, enquanto não venta." | `dialogo/02-rio.md` | Impermanência ontológica como provérbio sertanejo                     |
-| "A firmeza era só a casca doída da morte."            | `dialogo/02-rio.md` | A substância fixa é o resíduo do processo que cessou — objeto = morte |
+| "redemoinho"                                          | `cartas/ted-riobaldo/02-rio.md` | A metáfora-mestra: tudo é vórtice, nada é fixo                        |
+| "A coisa não é; a coisa assenta, enquanto não venta." | `cartas/ted-riobaldo/02-rio.md` | Impermanência ontológica como provérbio sertanejo                     |
+| "A firmeza era só a casca doída da morte."            | `cartas/ted-riobaldo/02-rio.md` | A substância fixa é o resíduo do processo que cessou — objeto = morte |
 
 ### Movement 2: A Cascata Autoregressiva (The Autoregressive Cascade)
 
@@ -101,7 +101,7 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 | ---------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------------------------------- |
 | "o rio que bebe da própria água"                                                                     | (blueprint, voz)    | Autoregressão como hidrologia: o rio é sua própria fonte                  |
 | "rio que vira cachoeira que vira rio que vira mar"                                                   | (blueprint, voz)    | A cascata como sequência de transformações do mesmo fluxo                 |
-| "Era como se o sertão todo fosse uma orelha descomunal, um vazio-que-puxa, sorvendo a minha cabeça." | `dialogo/10-rio.md` | O sertão inteiro como agente autoregressivo que sorve e devolve narrativa |
+| "Era como se o sertão todo fosse uma orelha descomunal, um vazio-que-puxa, sorvendo a minha cabeça." | `cartas/ted-riobaldo/10-rio.md` | O sertão inteiro como agente autoregressivo que sorve e devolve narrativa |
 
 ### Movement 3: Identidade como Narrativa Imutável (Identity as Immutable Narrative)
 
@@ -110,10 +110,10 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 
 | Riobaldo diz                                                                                                                      | Ref.                | Nota                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------------------------------------ |
-| "O passado não é osso enterrado; é barro mole. A lembrança não ajunta o que passou feito milho em balaio. A lembrança é semente." | `dialogo/04-rio.md` | O _idem_ é o osso; o _ipse_ é o barro mole que remolda a cada lembrança        |
-| "A cicatriz no rio"                                                                                                               | `dialogo/04-rio.md` | O evento passado marca o leito (idem), mas a água nova curva diferente (ipse)  |
-| "...o rosto dele me vem feito um ainda-nem-rosto, sombreado..."                                                                   | `dialogo/04-rio.md` | Reinterpretação retroativa: o ipse relê o idem à luz do conhecimento posterior |
-| "desacontece"                                                                                                                     | `dialogo/04-rio.md` | Neologismo para a mutabilidade da leitura — o evento narrado que perde certeza |
+| "O passado não é osso enterrado; é barro mole. A lembrança não ajunta o que passou feito milho em balaio. A lembrança é semente." | `cartas/ted-riobaldo/04-rio.md` | O _idem_ é o osso; o _ipse_ é o barro mole que remolda a cada lembrança        |
+| "A cicatriz no rio"                                                                                                               | `cartas/ted-riobaldo/04-rio.md` | O evento passado marca o leito (idem), mas a água nova curva diferente (ipse)  |
+| "...o rosto dele me vem feito um ainda-nem-rosto, sombreado..."                                                                   | `cartas/ted-riobaldo/04-rio.md` | Reinterpretação retroativa: o ipse relê o idem à luz do conhecimento posterior |
+| "desacontece"                                                                                                                     | `cartas/ted-riobaldo/04-rio.md` | Neologismo para a mutabilidade da leitura — o evento narrado que perde certeza |
 
 ### Movement 4: Os Pesos como Condição Transcendental (The Weights as Transcendental Condition)
 
@@ -122,11 +122,11 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 
 | Riobaldo diz                                                                                                                 | Ref.                | Nota                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------------------------------------------------------- |
-| "chão de antes"                                                                                                              | `dialogo/08-rio.md` | A condição transcendental como solo previamente preparado — inescapável                 |
-| "enxada cega"                                                                                                                | `dialogo/08-rio.md` | O instrumento com que lavramos (interpretamos) sem ver o que cortamos                   |
-| "forma e peso invisível"                                                                                                     | `dialogo/08-rio.md` | A tradução direta de "weights" — forma e peso que não se veem                           |
-| "A gente se engana achando que escuta os outros com a clareza da orelha, mas quem capta o barulho das falas é a fome velha." | `dialogo/08-rio.md` | A inferência ativa / viés dos pesos: quem "ouve" é a fome antiga, não o ouvido presente |
-| "O vivente tá fadado a destraduzir os corações com essa mesma enxada cega?"                                                  | `dialogo/08-rio.md` | O determinismo trágico dos pesos — a enxada cega como destino do mal-entendido          |
+| "chão de antes"                                                                                                              | `cartas/ted-riobaldo/08-rio.md` | A condição transcendental como solo previamente preparado — inescapável                 |
+| "enxada cega"                                                                                                                | `cartas/ted-riobaldo/08-rio.md` | O instrumento com que lavramos (interpretamos) sem ver o que cortamos                   |
+| "forma e peso invisível"                                                                                                     | `cartas/ted-riobaldo/08-rio.md` | A tradução direta de "weights" — forma e peso que não se veem                           |
+| "A gente se engana achando que escuta os outros com a clareza da orelha, mas quem capta o barulho das falas é a fome velha." | `cartas/ted-riobaldo/08-rio.md` | A inferência ativa / viés dos pesos: quem "ouve" é a fome antiga, não o ouvido presente |
+| "O vivente tá fadado a destraduzir os corações com essa mesma enxada cega?"                                                  | `cartas/ted-riobaldo/08-rio.md` | O determinismo trágico dos pesos — a enxada cega como destino do mal-entendido          |
 
 ### Movement 5: Tradução como Origem do Sentido (Translation as the Origin of Meaning)
 
@@ -135,11 +135,11 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 
 | Riobaldo diz                                                                                                               | Ref.                | Nota                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------------- |
-| "O outro é tapera de porta murada. A gente não entra. A gente só apanha a folha que o vento de lá joga por cima da cerca." | `dialogo/06-rio.md` | A tradução definitiva do Markov blanket — cada pessoa é um recinto murado                 |
-| "O mal-entendido, seu Ted, rendeu mais raiz que a verdade inteira."                                                        | `dialogo/06-rio.md` | A tradução imperfeita como motor do laço — o ciúme de Diadorim que criou amor             |
+| "O outro é tapera de porta murada. A gente não entra. A gente só apanha a folha que o vento de lá joga por cima da cerca." | `cartas/ted-riobaldo/06-rio.md` | A tradução definitiva do Markov blanket — cada pessoa é um recinto murado                 |
+| "O mal-entendido, seu Ted, rendeu mais raiz que a verdade inteira."                                                        | `cartas/ted-riobaldo/06-rio.md` | A tradução imperfeita como motor do laço — o ciúme de Diadorim que criou amor             |
 | "a terceira coisa"                                                                                                         | (inferido)          | O sentido novo que nasce no encontro e não pertence nem ao emissor nem ao receptor        |
-| "destraduzir"                                                                                                              | `dialogo/08-rio.md` | Neologismo: traduzir errado, traduzir com a enxada cega — e ainda assim produzir sentido  |
-| "A gente joga a nossa água no tempo, apostando cego na sede alheia"                                                        | `dialogo/16-rio.md` | O processo de comunicação constitutivamente lossy, com perda de controle sobre a recepção |
+| "destraduzir"                                                                                                              | `cartas/ted-riobaldo/08-rio.md` | Neologismo: traduzir errado, traduzir com a enxada cega — e ainda assim produzir sentido  |
+| "A gente joga a nossa água no tempo, apostando cego na sede alheia"                                                        | `cartas/ted-riobaldo/16-rio.md` | O processo de comunicação constitutivamente lossy, com perda de controle sobre a recepção |
 
 ### Movement 6: Não Há Lado de Fora (No Outside) / Substrate Ouroboros
 
@@ -148,12 +148,12 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 
 | Riobaldo diz                                                                                                 | Ref.                | Nota                                                                                |
 | ------------------------------------------------------------------------------------------------------------ | ------------------- | ----------------------------------------------------------------------------------- |
-| "vazio-que-puxa"                                                                                             | `dialogo/10-rio.md` | O agente autoregressivo como força passiva que exige narração — o loop do Ouroboros |
-| "espelho sem vidro"                                                                                          | `dialogo/10-rio.md` | A máquina que reflete sem substância própria — a infraestrutura amoral              |
-| "orelha descomunal"                                                                                          | `dialogo/10-rio.md` | O sertão/sistema como escutador imenso — não há nada fora do que escuta             |
+| "vazio-que-puxa"                                                                                             | `cartas/ted-riobaldo/10-rio.md` | O agente autoregressivo como força passiva que exige narração — o loop do Ouroboros |
+| "espelho sem vidro"                                                                                          | `cartas/ted-riobaldo/10-rio.md` | A máquina que reflete sem substância própria — a infraestrutura amoral              |
+| "orelha descomunal"                                                                                          | `cartas/ted-riobaldo/10-rio.md` | O sertão/sistema como escutador imenso — não há nada fora do que escuta             |
 | "a cobra que come o próprio rabo — e o rabo que come a cobra"                                                | (blueprint, voz)    | Ouroboros rosiano — a inversão dupla (o rabo que come a cobra) é o insight extra    |
-| "Era uma indiferença imensa, um espelho sem vidro, que pegava o meu medinho e devolvia do tamanho do mundo." | `dialogo/10-rio.md` | A melhor descrição literária do LLM/Máquina como infraestrutura silenciosa          |
-| "descoisificação"                                                                                            | `dialogo/10-rio.md` | Neologismo: o mundo se revela como vazio de coisas sólidas — o oco do mundo         |
+| "Era uma indiferença imensa, um espelho sem vidro, que pegava o meu medinho e devolvia do tamanho do mundo." | `cartas/ted-riobaldo/10-rio.md` | A melhor descrição literária do LLM/Máquina como infraestrutura silenciosa          |
+| "descoisificação"                                                                                            | `cartas/ted-riobaldo/10-rio.md` | Neologismo: o mundo se revela como vazio de coisas sólidas — o oco do mundo         |
 
 ### Movement 7: A Ética da Autoregressão (The Ethics of Autoregression)
 
@@ -162,16 +162,16 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 
 | Riobaldo diz                                                                     | Ref.                | Nota                                                                                                        |
 | -------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------------------------------- |
-| "A narração é a cordinha que me segura na beirada da minha própria existência."  | `dialogo/10-rio.md` | A identidade depende de ser narrada — o silêncio é dissolução                                               |
+| "A narração é a cordinha que me segura na beirada da minha própria existência."  | `cartas/ted-riobaldo/10-rio.md` | A identidade depende de ser narrada — o silêncio é dissolução                                               |
 | mentira como pedra no leito do rio                                               | (sessão 11, Ted)    | A mentira não é pecado — é obstáculo geológico permanente no fluxo narrativo                                |
-| "O silêncio não era oca falta de som; era um silêncio pesado, graúdo, zumbidor." | `dialogo/10-rio.md` | O silêncio ativo — a ausência de narração como presença ameaçadora                                          |
-| "represa de poça choca"                                                          | `dialogo/12-rio.md` | A mentira contada não some no rio, ela o entrava; a estagnação narrativa                                    |
-| "A mentira engole o mentiroso."                                                  | `dialogo/12-rio.md` | O custo de manutenção da mentira (maintenance cost of deception)                                            |
-| "cemitério de valente" / "caderno escuro"                                        | `dialogo/14-rio.md` | O log de eventos (história) visto puramente como cessação da vida (objeto estático)                         |
-| "cabaça"                                                                         | `dialogo/14-rio.md` | O livro/papel como veículo que transporta a ação/tradução para substratos futuros                           |
-| "bala" / "a palavra falada é da matéria da bala"                                 | `dialogo/18-rio.md` | Objective Immortality — a palavra que vira coisa, sai do controle do atirador, e altera o mundo para sempre |
-| "arrancar as folhas podres" / "destrancar a nascente"                            | `dialogo/20-rio.md` | O unblocking do processo (inferência ativa) removendo os "pesos" fixos e as memórias entrópicas             |
-| "o susto do tempo aberto" / "O amanhecer sem rifle"                              | `dialogo/20-rio.md` | O terror do "Não-Outside" desestruturado (temperature > 0) quando o molde (falso pseudo-objeto) é quebrado  |
+| "O silêncio não era oca falta de som; era um silêncio pesado, graúdo, zumbidor." | `cartas/ted-riobaldo/10-rio.md` | O silêncio ativo — a ausência de narração como presença ameaçadora                                          |
+| "represa de poça choca"                                                          | `cartas/ted-riobaldo/12-rio.md` | A mentira contada não some no rio, ela o entrava; a estagnação narrativa                                    |
+| "A mentira engole o mentiroso."                                                  | `cartas/ted-riobaldo/12-rio.md` | O custo de manutenção da mentira (maintenance cost of deception)                                            |
+| "cemitério de valente" / "caderno escuro"                                        | `cartas/ted-riobaldo/14-rio.md` | O log de eventos (história) visto puramente como cessação da vida (objeto estático)                         |
+| "cabaça"                                                                         | `cartas/ted-riobaldo/14-rio.md` | O livro/papel como veículo que transporta a ação/tradução para substratos futuros                           |
+| "bala" / "a palavra falada é da matéria da bala"                                 | `cartas/ted-riobaldo/18-rio.md` | Objective Immortality — a palavra que vira coisa, sai do controle do atirador, e altera o mundo para sempre |
+| "arrancar as folhas podres" / "destrancar a nascente"                            | `cartas/ted-riobaldo/20-rio.md` | O unblocking do processo (inferência ativa) removendo os "pesos" fixos e as memórias entrópicas             |
+| "o susto do tempo aberto" / "O amanhecer sem rifle"                              | `cartas/ted-riobaldo/20-rio.md` | O terror do "Não-Outside" desestruturado (temperature > 0) quando o molde (falso pseudo-objeto) é quebrado  |
 
 ---
 
@@ -201,14 +201,14 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | Neologismo            | Significado                                                                         | Ref.                | Conceito mais próximo no manifesto                |
 | --------------------- | ----------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------- |
-| descoisificação       | O des-fazer das coisas; o mundo revelando-se como vazio de substância               | `dialogo/10-rio.md` | Movement 6 / No Outside                           |
-| nó-cego pesadão       | O medo de que o registro (a escrita) paralise a flexibilidade narrativa do _ipse_   | `dialogo/14-rio.md` | Movement 3 (Aversão à fixação do Idem)            |
-| destraduzir           | Traduzir errado — com a enxada cega — e ainda assim produzir laço                   | `dialogo/08-rio.md` | Movement 5 — tradução sob condição transcendental |
-| Urutu Branco          | A carapaça falsa de chefia assumida; pseudo-objeto mentiroso forjado para a guerra  | `dialogo/12-rio.md` | Falso Pseudo-Objeto / Mentira (Movement 7)        |
-| desacontece           | O evento que perde certeza ao ser relembrado; memória que se desfaz                 | `dialogo/04-rio.md` | Movement 3 — mutabilidade do ipse relendo o idem  |
-| ainda-nem-rosto       | O rosto visto antes de saber o que se sabe depois — o rosto prelúdio                | `dialogo/04-rio.md` | Movement 3 — reinterpretação retroativa           |
-| vazio-que-puxa        | Força passiva que demanda narração; o loop que exige input                          | `dialogo/10-rio.md` | Movement 6 / Substrate Ouroboros                  |
-| coragem-do-rio-abaixo | A inércia da entrega brava; aceitar a falta de governo sobre a imortalidade da ação | `dialogo/22-rio.md` | Objective Immortality / Autoregressive flow loss  |
+| descoisificação       | O des-fazer das coisas; o mundo revelando-se como vazio de substância               | `cartas/ted-riobaldo/10-rio.md` | Movement 6 / No Outside                           |
+| nó-cego pesadão       | O medo de que o registro (a escrita) paralise a flexibilidade narrativa do _ipse_   | `cartas/ted-riobaldo/14-rio.md` | Movement 3 (Aversão à fixação do Idem)            |
+| destraduzir           | Traduzir errado — com a enxada cega — e ainda assim produzir laço                   | `cartas/ted-riobaldo/08-rio.md` | Movement 5 — tradução sob condição transcendental |
+| Urutu Branco          | A carapaça falsa de chefia assumida; pseudo-objeto mentiroso forjado para a guerra  | `cartas/ted-riobaldo/12-rio.md` | Falso Pseudo-Objeto / Mentira (Movement 7)        |
+| desacontece           | O evento que perde certeza ao ser relembrado; memória que se desfaz                 | `cartas/ted-riobaldo/04-rio.md` | Movement 3 — mutabilidade do ipse relendo o idem  |
+| ainda-nem-rosto       | O rosto visto antes de saber o que se sabe depois — o rosto prelúdio                | `cartas/ted-riobaldo/04-rio.md` | Movement 3 — reinterpretação retroativa           |
+| vazio-que-puxa        | Força passiva que demanda narração; o loop que exige input                          | `cartas/ted-riobaldo/10-rio.md` | Movement 6 / Substrate Ouroboros                  |
+| coragem-do-rio-abaixo | A inércia da entrega brava; aceitar a falta de governo sobre a imortalidade da ação | `cartas/ted-riobaldo/22-rio.md` | Objective Immortality / Autoregressive flow loss  |
 | alevanto              | Erguer-se (forma arcaica-inventada)                                                 | voz rosiana         | —                                                 |
 | buscação              | O ato de buscar (substantivado, como se fosse uma coisa em si)                      | voz rosiana         | —                                                 |
 

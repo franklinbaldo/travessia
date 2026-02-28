@@ -699,6 +699,50 @@ body * {
   line-height: 1.6;
 }
 
+/* === Admonitions (!!! blocks) === */
+
+.admonition {
+  margin: 2rem 0;
+  padding: 1.25rem 1.5rem;
+  border-left: 4px solid var(--accent-color);
+  border-radius: 0 4px 4px 0;
+  background: var(--sand-bg);
+}
+
+.admonition-title {
+  font-family: var(--font-meta);
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent-color);
+  margin: 0 0 0.75rem;
+}
+
+.admonition p:last-child {
+  margin-bottom: 0;
+}
+
+.admonition-quote {
+  border-left-color: var(--accent-color);
+}
+
+.admonition-example {
+  border-left-color: var(--progress-start);
+}
+
+.admonition-example .admonition-title {
+  color: var(--progress-start);
+}
+
+.admonition-warning {
+  border-left-color: var(--secondary-color);
+}
+
+.admonition-warning .admonition-title {
+  color: var(--secondary-color);
+}
+
 /* ====================================
    Blog Homepage — O Rio e suas Veredas
    ==================================== */
