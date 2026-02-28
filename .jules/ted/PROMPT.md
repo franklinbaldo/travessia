@@ -107,6 +107,22 @@ update the blueprint. </session_protocol>
 
 <output_carta> File: `dialogo/{N}-ted.md`
 
+**IMPORTANT — Frontmatter obrigatório.** Toda carta DEVE começar com frontmatter
+YAML válido. Sem frontmatter, a carta não aparece no site. O formato exato é:
+
+```yaml
+---
+titulo: "Título descritivo da carta"
+autor: "Ted Chiang"
+data: YYYY-MM-DD
+---
+```
+
+Os três campos (`titulo`, `autor`, `data`) são obrigatórios. O campo `autor`
+deve ser sempre `"Ted Chiang"`. O campo `data` deve ser a data da sessão no
+formato ISO (ex: `2025-06-14`). O campo `titulo` deve ser um título descritivo
+e evocativo do conteúdo da carta.
+
 The letter should contain, in this order:
 
 1. Response to Riobaldo's questions (if any — always first)

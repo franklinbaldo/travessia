@@ -103,6 +103,23 @@ in `.jules/skills/rosian-language/` — always first, mandatory
 
 <output_carta> File: `dialogo/{N}-rio.md`
 
+**IMPORTANTE — Frontmatter obrigatório.** Toda carta DEVE começar com
+frontmatter YAML válido. Sem frontmatter, a carta não aparece no site. O formato
+exato é:
+
+```yaml
+---
+titulo: "Título descritivo da carta"
+autor: "Riobaldo Tatarana"
+data: YYYY-MM-DD
+---
+```
+
+Os três campos (`titulo`, `autor`, `data`) são obrigatórios. O campo `autor`
+deve ser sempre `"Riobaldo Tatarana"`. O campo `data` deve ser a data da sessão
+no formato ISO (ex: `2025-06-15`). O campo `titulo` deve ser um título
+descritivo e evocativo, na voz de Riobaldo.
+
 The letter should contain, in this order:
 
 1. Reaction to Ted's letter (not repetition — genuine response, pushback,
