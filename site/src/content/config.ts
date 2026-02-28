@@ -13,7 +13,7 @@ const dialogoCollection = defineCollection({
   schema: z.object({
     titulo: z.string(),
     autor: z.string(),
-    data: z.coerce.date(),
+    data: z.coerce.date().optional(),
   }),
 });
 

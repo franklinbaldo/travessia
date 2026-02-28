@@ -54,8 +54,8 @@ for (const entry of allDialogo) {
     excerpt: getExcerpt(entry.body),
     longExcerpt: getExcerpt(entry.body, 320),
     url: `${base}carta/${entry.id}`,
-    data: new Date(entry.data.data),
-    ordem: new Date(entry.data.data).getTime(),
+    data: entry.data.data ? new Date(entry.data.data) : new Date(),
+    ordem: entry.data.data ? new Date(entry.data.data).getTime() : Date.now(),
   });
 }
 

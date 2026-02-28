@@ -28,6 +28,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -35,6 +37,58 @@ jobs:
           node-version: "20"
           cache: "npm"
           cache-dependency-path: "site/package-lock.json"
+
+      - name: Set publication dates from git history
+        run: |
+          node -e "
+          const { execSync } = require('child_process');
+          const fs = require('fs');
+          const path = require('path');
+
+          const SKIP_DIRS = new Set(['.git', '.github', '.jules', 'node_modules']);
+
+          function findMd(dir, results = []) {
+            if (!fs.existsSync(dir)) return results;
+            for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+              if (SKIP_DIRS.has(entry.name)) continue;
+              const full = path.join(dir, entry.name);
+              if (entry.isDirectory()) findMd(full, results);
+              else if (entry.name.endsWith('.md')) results.push(full);
+            }
+            return results;
+          }
+
+          const files = findMd('.');
+
+          for (const filePath of files) {
+            const content = fs.readFileSync(filePath, 'utf8');
+            if (!/^data:\s*.+$/m.test(content)) continue;
+
+            // Get all commit dates for this file (newest first), take the last = oldest = first commit
+            let commitDate;
+            try {
+              const output = execSync(
+                'git log --follow --format=%aI -- ' + filePath,
+                { encoding: 'utf8' }
+              ).trim();
+              const lines = output.split('\n').filter(Boolean);
+              if (lines.length > 0) {
+                commitDate = new Date(lines[lines.length - 1]).toISOString().split('T')[0];
+              }
+            } catch (e) {
+              console.warn('Could not get git date for ' + filePath + ': ' + e.message);
+              continue;
+            }
+
+            if (!commitDate) continue;
+
+            const updated = content.replace(/^(data:\s*)(.+)$/m, '\$1' + commitDate);
+            if (updated !== content) {
+              fs.writeFileSync(filePath, updated);
+              console.log('Updated ' + filePath + ' -> ' + commitDate);
+            }
+          }
+          "
 
       - name: Install dependencies
         run: npm ci

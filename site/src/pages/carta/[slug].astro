@@ -30,7 +30,8 @@ function formatDate(date: Date): string {
 // Navigation: chronological order
 const allDialogo = await getCollection('dialogo');
 const sorted = allDialogo.sort((a, b) =>
-  new Date(a.data.data).getTime() - new Date(b.data.data).getTime()
+  (a.data.data ? new Date(a.data.data).getTime() : 0) -
+  (b.data.data ? new Date(b.data.data).getTime() : 0)
 );
 const currentIndex = sorted.findIndex(e => e.id === entry.id);
 const prevEntry = currentIndex > 0 ? sorted[currentIndex - 1] : null;
@@ -62,8 +63,8 @@ const correspondenceFlow = {
       </div>
       <h1>{titulo}</h1>
       <div class="post-meta">
-        <time datetime={entry.data.data.toISOString()}>
-          {formatDate(new Date(entry.data.data))}
+        <time datetime={entry.data.data ? entry.data.data.toISOString() : ''}>
+          {entry.data.data ? formatDate(new Date(entry.data.data)) : ''}
         </time>
       </div>
       <div class="separator"></div>
