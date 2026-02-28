@@ -21,11 +21,11 @@ const bastidoresRiobaldoCollection = defineCollection({
 });
 
 const bastidoresTedCollection = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: path.join(__dirname, '../../../.jules/ted') }),
+  loader: glob({ pattern: '*-journal.md', base: path.join(__dirname, '../../../.jules/ted') }),
 });
 
 const docsCollection = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: path.join(__dirname, '../../../docs') }),
+  loader: glob({ pattern: '{events-all-the-way-down,riobaldo-blueprint}.md', base: path.join(__dirname, '../../../.jules/ted') }),
 });
 
 export const collections = {
