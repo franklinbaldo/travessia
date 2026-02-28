@@ -13,30 +13,40 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 
-const isRio = entry.id.includes('rio');
-const num = parseInt(entry.id.match(/^(\d+)/)?.[1] || '0');
-const autor = isRio ? 'Riobaldo Tatarana' : 'Ted Chiang';
+const isRio = entry.data.autor.includes('Riobaldo');
+const autor = entry.data.autor;
+const titulo = entry.data.titulo;
 
+function formatDate(date: Date): string {
+  return new Intl.DateTimeFormat('pt-BR', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+  }).format(date);
+}
+
+// Navigation: chronological order
 const allDialogo = await getCollection('dialogo');
-const sorted = allDialogo.sort((a, b) => a.id.localeCompare(b.id));
+const sorted = allDialogo.sort((a, b) =>
+  new Date(a.data.data).getTime() - new Date(b.data.data).getTime()
+);
 const currentIndex = sorted.findIndex(e => e.id === entry.id);
 const prevEntry = currentIndex > 0 ? sorted[currentIndex - 1] : null;
 const nextEntry = currentIndex < sorted.length - 1 ? sorted[currentIndex + 1] : null;
-
-function getCartaTitle(e: typeof entry): string {
-  const n = parseInt(e.id.match(/^(\d+)/)?.[1] || '0');
-  const r = e.id.includes('rio');
-  return `Carta ${n} — ${r ? 'Riobaldo' : 'Ted Chiang'}`;
-}
 ---
 
-<Layout title={`Carta ${num} — ${autor} | Travessia`}>
+<Layout title={`${titulo} | Travessia`}>
   <article>
     <header class="manuscrito-header">
       <div class="carta-autor-badge">
         <span class={`autor-badge ${isRio ? 'autor-rio' : 'autor-ted'}`}>{autor}</span>
       </div>
-      <h1>Carta {num}</h1>
+      <h1>{titulo}</h1>
+      <div class="post-meta">
+        <time datetime={entry.data.data.toISOString()}>
+          {formatDate(new Date(entry.data.data))}
+        </time>
+      </div>
       <div class="separator"></div>
     </header>
 
@@ -47,10 +57,10 @@ function getCartaTitle(e: typeof entry): string {
 
   <nav class="footer-nav">
     {prevEntry ? (
-      <a href={`${import.meta.env.BASE_URL}carta/${prevEntry.id}`} title={getCartaTitle(prevEntry)}>&larr; Anterior</a>
+      <a href={`${import.meta.env.BASE_URL}carta/${prevEntry.id}`} title={prevEntry.data.titulo}>&larr; Anterior</a>
     ) : <span></span>}
     {nextEntry ? (
-      <a href={`${import.meta.env.BASE_URL}carta/${nextEntry.id}`} title={getCartaTitle(nextEntry)}>Pr&oacute;ximo &rarr;</a>
+      <a href={`${import.meta.env.BASE_URL}carta/${nextEntry.id}`} title={nextEntry.data.titulo}>Pr&oacute;ximo &rarr;</a>
     ) : <span></span>}
   </nav>
 </Layout>

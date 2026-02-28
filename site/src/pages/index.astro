@@ -17,6 +17,14 @@ function getExcerpt(body: string | undefined, len = 180): string {
   return plain.slice(0, len).replace(/\s+\S*$/, '') + '…';
 }
 
+function formatDate(date: Date): string {
+  return new Intl.DateTimeFormat('pt-BR', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+  }).format(date);
+}
+
 interface BlogPost {
   slug: string;
   titulo: string;
@@ -26,25 +34,25 @@ interface BlogPost {
   autorClasse?: string;
   excerpt: string;
   url: string;
+  data?: Date;
   ordem: number;
 }
 
 const posts: BlogPost[] = [];
 
 for (const entry of allDialogo) {
-  const isRio = entry.id.includes('rio');
-  const num = parseInt(entry.id.match(/^(\d+)/)?.[1] || '0');
-  const autor = isRio ? 'Riobaldo' : 'Ted Chiang';
+  const isRio = entry.data.autor.includes('Riobaldo');
 
   posts.push({
     slug: entry.id,
-    titulo: `Carta ${num} — ${autor}`,
+    titulo: entry.data.titulo,
     tipo: 'carta',
-    autor,
+    autor: entry.data.autor,
     autorClasse: isRio ? 'rio' : 'ted',
     excerpt: getExcerpt(entry.body),
     url: `${base}carta/${entry.id}`,
-    ordem: num,
+    data: new Date(entry.data.data),
+    ordem: new Date(entry.data.data).getTime(),
   });
 }
 
@@ -56,11 +64,12 @@ for (const entry of allManuscrito) {
     subtitulo: entry.data.subtitulo,
     excerpt: getExcerpt(entry.body),
     url: `${base}texto/${entry.id}`,
-    ordem: 100 + (entry.data.ordem || 999),
+    ordem: entry.data.ordem || 999,
   });
 }
 
-posts.sort((a, b) => a.ordem - b.ordem);
+// Reverse chronological — newest first (blog convention)
+posts.sort((a, b) => b.ordem - a.ordem);
 
 const tiposSet = new Set(posts.map(p => p.tipo));
 const tipos = ['todos', ...Array.from(tiposSet)];
@@ -119,6 +128,16 @@ const tipoLabels: Record<string, string> = {
           <h2 class="card-titulo">{post.titulo}</h2>
           {post.subtitulo && <p class="card-subtitulo">{post.subtitulo}</p>}
           <p class="card-excerpt">{post.excerpt}</p>
+          <div class="card-meta">
+            {post.autor && (
+              <span class={`card-autor autor-${post.autorClasse}`}>{post.autor}</span>
+            )}
+            {post.data && (
+              <time datetime={post.data.toISOString()}>
+                {formatDate(post.data)}
+              </time>
+            )}
+          </div>
         </a>
       ))}
     </div>

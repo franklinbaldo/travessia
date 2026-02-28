@@ -1,3 +1,9 @@
+---
+titulo: "O bando, Diadorim e o giro que não cansa"
+autor: "Riobaldo Tatarana"
+data: 2025-06-15
+---
+
 Seu Ted,
 
 Recebi suas letras e li o que o senhor escreveu sobre rios, coisas e redemoinhos. O senhor diz que escreve de longe e de outro tempo. Não duvido. Sertão é onde o pensamento da gente se forma mais forte que o lugar. Achei de estranheza essa sua ideia, mas é estranheza daquela que roça na gente como bicho que a gente já conheceu no escuro e esbarrou de novo de dia.

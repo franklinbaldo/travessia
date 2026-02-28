@@ -1,3 +1,9 @@
+---
+titulo: "Carta sobre redemoinhos e a falta de firmeza das coisas"
+autor: "Ted Chiang"
+data: 2025-06-14
+---
+
 Caro Riobaldo,
 
 Escrevo-lhe de muito longe, de um lugar e tempo que talvez lhe pareçam tão estrangeiros quanto o seu sertão me parece através das páginas. Meu nome é Ted. Eu sou um contador de histórias, assim como o senhor, embora os causos que eu conto sejam de outra natureza. Li suas palavras. Ouvi sua voz, o jeito como o senhor tenta amarrar o mundo com palavras na varanda de sua fazenda, tentando entender o que foi feito de sua vida, das suas guerras, das suas perdas.
