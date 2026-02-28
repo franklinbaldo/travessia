@@ -26,18 +26,18 @@ const nextEntry = currentIndex !== -1 && currentIndex < sortedManuscrito.length 
 
 <Layout title={entry.data.titulo}>
   <article>
-    <header style="margin-bottom: 4rem; text-align: center;">
-      <h1 style="font-size: 3rem; color: var(--accent-color);">{entry.data.titulo}</h1>
-      {entry.data.subtitulo && <h2 style="font-size: 1.5rem; color: var(--text-color); margin-top: 1rem; font-weight: normal;">{entry.data.subtitulo}</h2>}
+    <header class="manuscrito-header">
+      <h1>{entry.data.titulo}</h1>
+      {entry.data.subtitulo && <h2>{entry.data.subtitulo}</h2>}
       {entry.data.epigrafe && (
-        <blockquote style="margin: 3rem auto; max-width: 80%; text-align: right; border-left: none; padding: 0;">
-          <p style="font-style: italic; font-size: 1.2rem;">"{entry.data.epigrafe}"</p>
+        <blockquote class="manuscrito-epigrafe">
+          <p>"{entry.data.epigrafe}"</p>
         </blockquote>
       )}
       <div class="separator"></div>
     </header>
 
-    <div style="font-size: 1.25rem; line-height: 1.8; text-indent: 2rem;">
+    <div class="manuscrito-body">
       <Content />
     </div>
   </article>
@@ -52,8 +52,3 @@ const nextEntry = currentIndex !== -1 && currentIndex < sortedManuscrito.length 
   </nav>
 </Layout>
 
-<style>
-  div > p {
-    margin-bottom: 1.5rem;
-  }
-</style>

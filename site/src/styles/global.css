@@ -59,7 +59,7 @@ body::before {
   background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
   opacity: var(--noise-op);
   pointer-events: none;
-  z-index: 9999;
+  z-index: 999;
 }
 
 /* === Layout === */
@@ -225,15 +225,11 @@ nav a.logo {
   font-weight: 600;
 }
 
-/* Ted: margem padrão — prosa limpa, analítica */
-.carta-ted {
-  padding-left: 0;
-}
+/* Ted: prosa limpa, analítica */
+/* .carta-ted styles defined below in Author Identity section */
 
 /* Riobaldo: leve recuo — como quem fala de um lugar mais fundo */
-.carta-riobaldo {
-  padding-left: 1.5rem;
-}
+/* .carta-riobaldo styles defined below in Author Identity section */
 
 .carta-riobaldo p {
   text-indent: 1.5rem;
@@ -341,4 +337,224 @@ pre {
 pre code {
   background: none;
   padding: 0;
+}
+
+/* === Transitions === */
+
+body,
+body * {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body,
+  body * {
+    transition: none !important;
+  }
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+/* === Reading Progress Bar === */
+
+#reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 3px;
+  background: linear-gradient(to right, var(--accent-color), var(--secondary-color));
+  z-index: 1000;
+  transition: width 0.1s linear;
+}
+
+/* === Back to Top === */
+
+#back-to-top {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 50%;
+  border: 1px solid var(--divider-color);
+  background: var(--bg-color);
+  color: var(--accent-color);
+  font-size: 1.2rem;
+  cursor: pointer;
+  opacity: 0;
+  transform: translateY(1rem);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  pointer-events: none;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#back-to-top.visible {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+#back-to-top:hover {
+  background: var(--accent-color);
+  color: var(--bg-color);
+  border-color: var(--accent-color);
+}
+
+@media (max-width: 600px) {
+  #back-to-top {
+    bottom: 1rem;
+    right: 1rem;
+    width: 2.2rem;
+    height: 2.2rem;
+  }
+}
+
+/* === Footer Art (homepage image) === */
+
+.footer-art {
+  text-align: center;
+  margin: 4rem 0 2rem;
+  opacity: 0.7;
+  transition: opacity 0.3s ease;
+}
+
+.footer-art img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+  filter: sepia(0.15) contrast(0.95);
+}
+
+[data-theme="dark"] .footer-art img {
+  filter: sepia(0.1) contrast(0.9) brightness(0.8);
+}
+
+/* === Author Identity (cartas) === */
+
+.carta-ted {
+  padding-left: 0;
+  border-left: 2px solid transparent;
+}
+
+.carta-riobaldo {
+  padding-left: 1.5rem;
+  border-left: 2px solid var(--accent-color);
+}
+
+.carta-header .autor-ted {
+  color: var(--meta-color);
+}
+
+.carta-header .autor-rio {
+  color: var(--secondary-color);
+}
+
+/* === Manuscrito Page === */
+
+.manuscrito-header {
+  margin-bottom: 4rem;
+  text-align: center;
+}
+
+.manuscrito-header h1 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  color: var(--accent-color);
+  margin-bottom: 0.5rem;
+}
+
+.manuscrito-header h2 {
+  font-size: 1.5rem;
+  color: var(--text-color);
+  margin-top: 1rem;
+  font-weight: normal;
+}
+
+.manuscrito-epigrafe {
+  margin: 3rem auto;
+  max-width: 80%;
+  text-align: right;
+  border-left: none;
+  padding: 0;
+}
+
+.manuscrito-epigrafe p {
+  font-style: italic;
+  font-size: 1.2rem;
+}
+
+.manuscrito-body {
+  font-size: 1.25rem;
+  line-height: 1.8;
+}
+
+.manuscrito-body > p {
+  text-indent: 2rem;
+}
+
+.manuscrito-body > p:first-child {
+  text-indent: 0;
+}
+
+/* === Bastidores Index === */
+
+.bastidores-header {
+  margin-bottom: 3rem;
+}
+
+.bastidores-section {
+  margin-bottom: 3rem;
+}
+
+.bastidores-list {
+  list-style: none;
+  padding: 0;
+}
+
+.bastidores-list li {
+  margin-bottom: 1rem;
+  border-bottom: 1px solid var(--divider-color);
+  padding-bottom: 1rem;
+}
+
+.bastidores-list a {
+  font-size: 1.1rem;
+  display: block;
+  margin-bottom: 0.25rem;
+  text-decoration: none;
+  border: none;
+  font-weight: bold;
+}
+
+.bastidores-empty {
+  font-style: italic;
+}
+
+/* === Journal Page Header === */
+
+.journal-header {
+  margin-bottom: 2rem;
+  border-bottom: 2px solid var(--accent-color);
+  padding-bottom: 1rem;
+}
+
+.journal-header h1 {
+  font-size: 2rem;
+  color: var(--accent-color);
+}
+
+.journal-body {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+/* === Docs Page === */
+
+.docs-body {
+  font-size: 1.1rem;
+  line-height: 1.6;
 }
