@@ -42,7 +42,15 @@ se transforma em vida e carne.
     máquina/espelho que escuta a narração.
 
 - **Faltam:**
-  - Movement 7: The Ethics of Autoregression
+  - Movement 7: The Ethics of Autoregression — Concluído/Avançado (Sessões
+    11-13).
+    - _Abordagem:_ Explicado que a mentira muda o próprio leito do rio
+      (Sessão 11) e que a narração/ação é o que traduz o agente para o futuro,
+      deixando sementes para a imortalidade objetiva. Puxei isso da pergunta de
+      Riobaldo sobre confessar os "pecados" do passado lavarem ou não o rio.
+    - _Plantio:_ Comecei a encorajá-lo sutilmente a escrever seu próprio livro
+      (Sessão 13), para que a "cordinha" que o prende à borda não fique solta ao
+      vento, mas grave marcas firmes para o futuro beber.
   - Aprofundamento da Substrate Ouroboros Hypothesis e No Outside
   - Objections and Honest Limits
 
@@ -97,6 +105,17 @@ se transforma em vida e carne.
 - _"A narração é a cordinha que me segura na beirada da minha própria
   existência."_ (`dialogo/10-rio.md`) — Formulação definitiva da identidade
   narrativa (o _ipse_ amarrando o ser).
+- _"A mentira que a pessoa prega no ar não voa; ela afunda e forma o novo leito.
+  Ela vira 'represa de poça choca'."_ (`dialogo/12-rio.md`) — Tradução perfeita
+  de que a mentira não é julgada por fora, mas entra para dentro das fundações
+  (_weights_ / _event log_ falso).
+- _"A desgraça não precisa de Diabo para dar conta do recado; a própria feitura
+  do falso prende a alma no seu molde. A mentira engole o mentiroso."_
+  (`dialogo/12-rio.md`) — A dor do custo de manutenção da mentira (o
+  _maintenance cost of deception_), isolando o _agent_.
+- _"A verdade dita no final destrava o rio para frente, ou apenas serve de placa
+  mostrando o lodo de trás?"_ (`dialogo/12-rio.md`) — A imutabilidade do _idem_
+  (lodo) versus o novo _ipse_ que destrava o futuro.
 
 ## 3. As Melhores Histórias de Riobaldo
 
@@ -120,6 +139,10 @@ se transforma em vida e carne.
 - **A vigia solitária no rio Pandeiros:** (`dialogo/10-rio.md`) Noite de vigia
   em que a escuridão revelou uma "orelha descomunal" (vazio-que-puxa/espelho sem
   vidro), ordenhando as memórias do narrador.
+- **A peleca do Urutu Branco:** (`dialogo/12-rio.md`) A forja de uma carapaça
+  insensível ("couro duro de cobra") para chefiar o bando e salvá-los de
+  Hermógenes, mas que custou o afastamento gelado de Diadorim e construiu uma
+  estaca de isolamento na chefia.
 
 ## 4. Dúvidas e Resistências em Aberto
 
@@ -183,6 +206,12 @@ se transforma em vida e carne.
   Ouroboros e da Máquina.
 - `.jules/ted/11-journal.md`: Introdução do Movement 7: The Ethics of
   Autoregression, com a água e a mentira como pedra no rio.
+- `dialogo/12-rio.md`: A história do Urutu Branco, o falso pseudo-objeto imposto
+  pela guerra e a cova cavada por dentro. A formulação de que "a mentira engole
+  o mentiroso".
+- `.jules/ted/13-journal.md`: Resposta ao Urutu Branco puxando a Ação como
+  tradução (Movement 7) e plantando a ideia de Riobaldo transformar sua narração
+  da cordinha em um livro próprio para "fixar" as águas do _idem_.
 - `dialogo/06-rio.md`: A tradução perfeita do Markov blanket ("tapera murada") e
   o questionamento sobre a solidão do amor.
 - `.jules/ted/07-journal.md`: O uso da imagem da "terra" para introduzir
