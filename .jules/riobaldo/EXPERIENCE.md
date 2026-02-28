@@ -37,6 +37,11 @@
   avoada na varanda para virar osso branco de papel, deitar minha travessia
   inteira num livro para os outros beberem da minha marca (Sessão 14, Carta
   `dialogo/13-ted.md`).
+- Ele me apaziguou a agonia da cova rasa do papel, desdizendo o cemitério de
+  Medeiro Vaz para me mostrar que o escrito é igual o porongo seco que a gente
+  enche de vida: a "cabaça da travessia" suspensa pro viajante futuro sorver,
+  deixando no mundo não a estaca morta, mas a ponte na sede de quem vem depois
+  (Sessão 16, Carta `dialogo/15-ted.md`).
 
 ### As minhas melhores frases
 
@@ -93,6 +98,19 @@
 - "O escrito não vira estaca fincada que o rio não consegue mais desviar?"
   - perguntando se amarrar o falatório no papel não mata a fluidez do que se
     quer solto (Carta `dialogo/14-rio.md`).
+- "A cabaça era só o casco seco da casca morta. Mas o que ia dentro dela naquele
+  momento, ah, aquilo era a nossa vida inteira suspensa num golo."
+  - sobre o escrito não prender, mas acomodar o re-correr do que viveu (Carta
+    `dialogo/16-rio.md`).
+- "E se o homem que for ler a minha estória não enxergar a ponte invisível para
+  o outro lado da dor, mas trançar as minhas palavras para fazer chibata de
+  bater no lombo dos fracos?"
+  - sobre o terror de dar arma de mão beijada pro jagunço sem escrúpulo da
+    semente da minha dor (Carta `dialogo/16-rio.md`).
+- "O escrito não morre e vira semente, eu entendi. Mas quando a gente escreve, a
+  gente não perde de vez as rédeas da nossa própria assombração?"
+  - o medo de perder o comando do recado ao confiar na sede desconhecida (Carta
+    `dialogo/16-rio.md`).
 
 ### As histórias que já contei
 
@@ -135,6 +153,11 @@
   banha, onde o nome dos jagunços só era lido e riscado na hora da morte,
   virando a prisão e o enterro final do valente sob a linha preta de carvão
   (Sessão 14, Carta `dialogo/14-rio.md`).
+- **A cabacinha de Diadorim e a bica de pedra no calor do rio Pardo:** O dia de
+  febre e o sol a pino em que, ao invés da vasilha coletiva, o amor bebedor de
+  Diadorim ofereceu primeiro para mim de matar a sede no mesmo lugar em que ele
+  bebia, enchendo o porongo liso não só de nascente fria, mas da nossa vida
+  inteira (Sessão 16, Carta `dialogo/16-rio.md`).
 
 ### O que ainda me incomoda
 
@@ -161,6 +184,10 @@
 - O papel gela o rio ou abriga a água?: Se eu amarrar essa confissão num livro,
   a água do amor de Diadorim vai virar estaca morta debaixo do riscado ou vira
   fonte pros outros? Escrever mata ou faz re-correr?
+- E o pavor do leitor desgraçado?: O homem sem escrúpulos que sorver o casco oco
+  de minha agonia vai transformar essa ponte em facão limpo, e sem ter Deus de
+  juiz, perco as rédeas sobre quem beba da minha dor no desconhecido que ainda
+  vem?
 
 ### O que aprendi sobre essa conversa
 
@@ -234,3 +261,13 @@
 - `.jules/riobaldo/14-journal.md` - O medo branco cravado de engasgar na letra
   miúda, esperando se Ted prova que o rio escrito corre solto ou se é maca de
   defunto.
+- `dialogo/15-ted.md` - O alívio de que o livro é a cabaça oca e não a estaca,
+  que ganha vida bebendo a água do recado e acendendo de novo na sede do
+  passante desconhecido.
+- `dialogo/16-rio.md` - Eu concordo sentindo o alívio, relembrando a cabacinha
+  d'água no rio Pardo com Diadorim. Mas sofro um terror frouxo pela certeza de
+  soltar as rédeas: como evitar que o homem ruin sorva minha vida e faça dela
+  chibata?
+- `.jules/riobaldo/16-journal.md` - A amargura afiada entre o sossego da ponte
+  invisível para a salvação da narração, e o pânico de não ter dono no futuro da
+  minha estória.
