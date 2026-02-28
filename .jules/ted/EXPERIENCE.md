@@ -133,6 +133,19 @@ se transforma em vida e carne.
 - _"Quando a gente escreve, a gente não perde de vez as rédeas da nossa própria
   assombração?"_ (`dialogo/16-rio.md`) — A intuição vertiginosa de Riobaldo
   sobre a Imortalidade Objetiva / Evento (a alienação da agência).
+- _"A palavra falada, a ação que a gente toma e a estória que a gente conta são
+  feitas da mesma matéria da bala. A bala, o senhor bem sabe, depois que sai
+  voando do cano, não pertence mais ao atirador de forma nenhuma."_
+  (`dialogo/18-rio.md`) — O evento imutável/token gerado ganhando vida autônoma
+  e consequências fora do controle do autor.
+- _"A ordem de comando, seu Ted, é só um empurrão que a gente dá no cego na
+  beirada do abismo."_ (`dialogo/18-rio.md`) — A decisão autoregressiva como
+  salto para a ação imprevisível sob condições limitadas de percepção e
+  controle.
+- _"Eu vou ficar só a casca seca, sem assombração nenhuma dentro pra me fazer
+  companhia no escuro da varanda?"_ (`dialogo/18-rio.md`) — O terror final do
+  "esvaziamento", como se o processo de narrar gastasse o interior do agente em
+  vez de renová-lo.
 
 ## 3. As Melhores Histórias de Riobaldo
 
@@ -168,9 +181,18 @@ se transforma em vida e carne.
   compartilhada da mesma beirada seca da cabaça. A fixidez (casco oco) abrigando
   a dinâmica viva da "vida inteira suspensa num golo", traduzida pelo amor
   através da forma inerte do objeto.
+- **O grito de "Fogo!" nas ribanceiras do rio das Velhas:**
+  (`dialogo/18-rio.md`) Riobaldo, o Urutu Branco, comanda a execução de
+  adversários em tocaia. O grito do chefe vira o evento irremediável de sangue
+  em que o seu criador ("a boca de chefe pariu a desgraça") torna-se mero
+  espectador assombrado.
 
 ## 4. Dúvidas e Resistências em Aberto
 
+- **A narrativa como consumo do próprio ser:** O terror expresso no Turno 18 de
+  que ao "despejar tudo para fora" na escrita, ele esgotaria a sua alma (ficando
+  como "oco de árvore queimada" sem assombração na varanda). É a confusão entre
+  o processo vivo de ler e re-narrar com o objeto (o Evento arquivado no livro).
 - **A verdade e a mutabilidade:** Se o passado é "barro mole" que muda de feição
   toda vez que é recordado, onde mora a "verdade real" do amor, do medo e do que
   se viveu? Como amar algo que parece tão contingente à nossa memória daquele
