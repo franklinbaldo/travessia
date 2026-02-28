@@ -81,8 +81,47 @@ jobs:
             echo "PROMPT_EOF"
           } >> "$GITHUB_OUTPUT"
 
+      - name: Determinar número do turno e título
+        id: meta
+        run: |
+          AGENT="${{ steps.agent.outputs.name }}"
+
+          # Contar arquivos existentes em dialogo/ para determinar o próximo número
+          LAST_NUM=$(ls -1 dialogo/*.md 2>/dev/null | grep -v '.gitkeep' | sed 's/.*\///' | sed 's/-.*//' | sort -n | tail -1)
+          if [ -z "$LAST_NUM" ]; then
+            NEXT_NUM="01"
+          else
+            # Remover zeros à esquerda para aritmética, depois formatar de volta
+            NEXT_NUM=$(printf "%02d" $((10#$LAST_NUM + 1)))
+          fi
+
+          # Nome legível do personagem
+          if [ "$AGENT" = "ted" ]; then
+            CHAR_NAME="Ted Chiang"
+          else
+            CHAR_NAME="Riobaldo Tatarana"
+          fi
+
+          TITLE="Travessia #${NEXT_NUM} — ${CHAR_NAME} (${AGENT}-${NEXT_NUM})"
+          echo "turn=$NEXT_NUM" >> "$GITHUB_OUTPUT"
+          echo "title=$TITLE" >> "$GITHUB_OUTPUT"
+          echo "Título da sessão: $TITLE"
+
       - name: Criar sessão Jules
-        uses: google-labs-code/jules-invoke@v1
-        with:
-          prompt: ${{ steps.prompt.outputs.content }}
-          jules_api_key: ${{ secrets.JULES_API_KEY }}
+        run: |
+          curl 'https://jules.googleapis.com/v1alpha/sessions' \
+            -X POST \
+            --fail-with-body \
+            -H "Content-Type: application/json" \
+            -H "x-goog-api-key: ${{ secrets.JULES_API_KEY }}" \
+            -d '{
+              "prompt": ${{ toJSON(steps.prompt.outputs.content) }},
+              "sourceContext": {
+                "source": "sources/github/${{ github.repository }}",
+                "githubRepoContext": {
+                  "startingBranch": "main"
+                }
+              },
+              "automationMode": "AUTO_CREATE_PR",
+              "title": "${{ steps.meta.outputs.title }}"
+            }'
