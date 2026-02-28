@@ -2,19 +2,10 @@ name: Jules Sessions — Travessia
 
 on:
   schedule:
-    # Executa a cada 30 minutos, alternando Ted e Riobaldo
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
-    inputs:
-      agent:
-        description: "Agente a executar (auto = alternância automática)"
-        required: false
-        default: "auto"
-        type: choice
-        options:
-          - auto
-          - ted
-          - riobaldo
+    # ~100 sessoes por dia: a cada 15 minutos = 96 sessoes/dia
+    # Cada sessao tem 10 steps alternando Ted e Riobaldo
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
 
 permissions:
   contents: read
@@ -28,50 +19,39 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Determinar próximo agente
-        id: agent
+      - name: Determinar estado do dialogo e proximo turno
+        id: meta
         run: |
-          # Se o input manual especifica um agente, usar esse
-          INPUT_AGENT="${{ github.event.inputs.agent }}"
-          if [ -n "$INPUT_AGENT" ] && [ "$INPUT_AGENT" != "auto" ]; then
-            echo "name=$INPUT_AGENT" >> "$GITHUB_OUTPUT"
-            echo "Agente forçado manualmente: $INPUT_AGENT"
-            exit 0
-          fi
-
-          # Alternância automática: verificar o último arquivo em dialogo/
-          LAST_FILE=$(ls -1 dialogo/*.md 2>/dev/null | grep -v '.gitkeep' | sort -V | tail -1)
-
-          if [ -z "$LAST_FILE" ]; then
-            # Nenhum diálogo ainda — Ted começa
-            echo "name=ted" >> "$GITHUB_OUTPUT"
-            echo "Nenhum diálogo encontrado. Ted começa."
-            exit 0
-          fi
-
-          LAST_BASENAME=$(basename "$LAST_FILE")
-          echo "Último arquivo de diálogo: $LAST_BASENAME"
-
-          if echo "$LAST_BASENAME" | grep -qi "ted"; then
-            echo "name=riobaldo" >> "$GITHUB_OUTPUT"
-            echo "Último turno foi de Ted. Próximo: Riobaldo."
+          # Contar arquivos existentes em dialogo/ para determinar o proximo numero
+          LAST_NUM=$(ls -1 dialogo/*.md 2>/dev/null | grep -v '.gitkeep' | sed 's/.*\///' | sed 's/-.*//' | sort -n | tail -1)
+          if [ -z "$LAST_NUM" ]; then
+            NEXT_NUM="01"
           else
-            echo "name=ted" >> "$GITHUB_OUTPUT"
-            echo "Último turno foi de Riobaldo. Próximo: Ted."
+            NEXT_NUM=$(printf "%02d" $((10#$LAST_NUM + 1)))
           fi
 
-      - name: Ler PROMPT.md do agente
+          # Calcular o range de turnos que esta sessao vai produzir (10 turnos)
+          END_NUM=$(printf "%02d" $((10#$NEXT_NUM + 9)))
+
+          # Titulo unico da sessao
+          TITLE="Travessia Sessao — turnos #${NEXT_NUM} a #${END_NUM} (10 steps Ted/Riobaldo)"
+          echo "next_turn=$NEXT_NUM" >> "$GITHUB_OUTPUT"
+          echo "end_turn=$END_NUM" >> "$GITHUB_OUTPUT"
+          echo "title=$TITLE" >> "$GITHUB_OUTPUT"
+          echo "Titulo da sessao: $TITLE"
+          echo "Turnos: $NEXT_NUM a $END_NUM"
+
+      - name: Ler prompt combinado
         id: prompt
         run: |
-          AGENT="${{ steps.agent.outputs.name }}"
-          PROMPT_FILE=".jules/${AGENT}/PROMPT.md"
+          PROMPT_FILE=".jules/PROMPT-combined.md"
 
           if [ ! -f "$PROMPT_FILE" ]; then
-            echo "::error::Arquivo $PROMPT_FILE não encontrado!"
+            echo "::error::Arquivo $PROMPT_FILE nao encontrado!"
             exit 1
           fi
 
-          echo "Lendo prompt de: $PROMPT_FILE"
+          echo "Lendo prompt combinado de: $PROMPT_FILE"
 
           # Usar delimitador heredoc para output multiline
           {
@@ -81,33 +61,7 @@ jobs:
             echo "PROMPT_EOF"
           } >> "$GITHUB_OUTPUT"
 
-      - name: Determinar número do turno e título
-        id: meta
-        run: |
-          AGENT="${{ steps.agent.outputs.name }}"
-
-          # Contar arquivos existentes em dialogo/ para determinar o próximo número
-          LAST_NUM=$(ls -1 dialogo/*.md 2>/dev/null | grep -v '.gitkeep' | sed 's/.*\///' | sed 's/-.*//' | sort -n | tail -1)
-          if [ -z "$LAST_NUM" ]; then
-            NEXT_NUM="01"
-          else
-            # Remover zeros à esquerda para aritmética, depois formatar de volta
-            NEXT_NUM=$(printf "%02d" $((10#$LAST_NUM + 1)))
-          fi
-
-          # Nome legível do personagem
-          if [ "$AGENT" = "ted" ]; then
-            CHAR_NAME="Ted Chiang"
-          else
-            CHAR_NAME="Riobaldo Tatarana"
-          fi
-
-          TITLE="Travessia #${NEXT_NUM} — ${CHAR_NAME} (${AGENT}-${NEXT_NUM})"
-          echo "turn=$NEXT_NUM" >> "$GITHUB_OUTPUT"
-          echo "title=$TITLE" >> "$GITHUB_OUTPUT"
-          echo "Título da sessão: $TITLE"
-
-      - name: Criar sessão Jules
+      - name: Criar sessao Jules com 10 steps
         env:
           PROMPT_CONTENT: ${{ steps.prompt.outputs.content }}
           JULES_API_KEY: ${{ secrets.JULES_API_KEY }}
@@ -129,6 +83,8 @@ jobs:
               automationMode: "AUTO_CREATE_PR",
               title: $title
             }' > /tmp/payload.json
+
+          echo "Criando sessao Jules: $SESSION_TITLE"
 
           curl 'https://jules.googleapis.com/v1alpha/sessions' \
             -X POST \

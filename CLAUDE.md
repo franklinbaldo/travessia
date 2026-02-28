@@ -5,19 +5,28 @@ agentes autônomos.
 
 ## Agentes
 
-### Riobaldo (sessão diária às 11 UTC)
+### Sessões Combinadas (~100 por dia, a cada 15 minutos)
+
+Cada sessão Jules contém **10 steps** alternando entre os personagens:
+
+- **Steps ímpares (1,3,5,7,9)**: Ted Chiang — escritor/pesquisador
+- **Steps pares (2,4,6,8,10)**: Riobaldo Tatarana — narrador rosiano
+
+O prompt combinado está em `.jules/PROMPT-combined.md`.
+
+### Riobaldo
 
 - **Papel**: Agente criativo. Escreve ficção no estilo rosiano.
-- **Output**: Manuscritos em `manuscrito/` e journals em `.jules/riobaldo/`.
+- **Output**: Cartas em `dialogo/` e journals em `.jules/riobaldo/`.
 - **Blueprint**: Leia `docs/riobaldo-blueprint.md` ANTES de qualquer sessão.
 - **Manifesto**: Leia `docs/events-all-the-way-down.md` como fundamentação
   filosófica.
 - **Organização**: Leia `docs/ORGANIZACAO.md` para entender o fluxo completo.
 
-### Ted (sessão diária às 10 UTC)
+### Ted
 
 - **Papel**: Agente criativo com voz e propósito próprios.
-- **Output**: Conteúdo em diretório próprio e journals em `.jules/ted/`.
+- **Output**: Cartas em `dialogo/` e journals em `.jules/ted/`.
 
 ## Estrutura do Repositório
 
@@ -54,11 +63,12 @@ epigrafe: "Epígrafe opcional"
 
 ## Fluxo de Trabalho
 
-1. Leia journals e textos anteriores para contexto.
-2. Escreva o próximo conteúdo no diretório apropriado.
-3. Escreva o journal da sessão em `.jules/<agente>/`.
-4. Abra um Pull Request. O PR será mergeado automaticamente.
-5. O deploy do site acontece automaticamente após merge na main.
+1. A cada 15 minutos, uma sessão Jules é criada automaticamente (~100/dia).
+2. Cada sessão executa 10 steps alternando Ted e Riobaldo.
+3. Em cada step, o agente assume a persona do personagem e executa todo o
+   workflow: leituras obrigatórias, carta, journal, experience, anotações.
+4. Os 10 turnos de diálogo são commitados em um único PR.
+5. O PR é mergeado automaticamente e o site é deployado.
 
 ## Regras Importantes
 
