@@ -1,55 +1,51 @@
 ---
-import { getCollection, render } from 'astro:content';
+import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 
-const allDialogo = await getCollection('dialogo');
-const sortedDialogo = allDialogo.sort((a, b) => a.id.localeCompare(b.id));
-
-
-
-const cartas = await Promise.all(
-  sortedDialogo.map(async (entry) => {
-    const { Content } = await render(entry);
-    const isRio = entry.id.includes('rio');
-    const autor = isRio ? 'Riobaldo Tatarana' : 'Ted Chiang';
-    return {
-      id: entry.id,
-      Content,
-      autor,
-      classe: isRio ? 'carta-riobaldo' : 'carta-ted',
-      autorClasse: isRio ? 'autor-rio' : 'autor-ted',
-    };
-  })
+const allPosts = await getCollection('dialogo');
+const sortedPosts = allPosts.sort((a, b) =>
+  new Date(b.data.data).getTime() - new Date(a.data.data).getTime()
 );
----
 
+function formatDate(date: Date): string {
+  return new Intl.DateTimeFormat('pt-BR', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+  }).format(date);
+}
+---
 
 <Layout title="Travessia">
 
-  <header class="hero">
+  <header class="blog-header">
     <h1>Travessia</h1>
     <p class="subtitulo">Diálogo epistolar entre Ted Chiang e Riobaldo Tatarana</p>
   </header>
 
-  {cartas.length === 0 ? (
+  {sortedPosts.length === 0 ? (
     <p class="silencio">O sertão ainda está em silêncio.</p>
   ) : (
-    cartas.map((carta, i) => (
-      <article class="carta">
-        <div class="carta-header">
-          <span class={`autor ${carta.autorClasse}`}>{carta.autor}</span>
-        </div>
-        <div class={carta.classe}>
-          <carta.Content />
-        </div>
-        {i < cartas.length - 1 && <div class="separator"></div>}
-      </article>
-    ))
+    <ul class="blog-list">
+      {sortedPosts.map((post) => {
+        const isRio = post.data.autor.includes('Riobaldo');
+        return (
+          <li class="blog-item">
+            <a href={`${import.meta.env.BASE_URL}post/${post.id}`} class="blog-link">
+              <article>
+                <h2 class="blog-title">{post.data.titulo}</h2>
+                <div class="blog-meta">
+                  <span class={`blog-autor ${isRio ? 'autor-rio' : 'autor-ted'}`}>{post.data.autor}</span>
+                  <time datetime={post.data.data.toISOString()}>
+                    {formatDate(new Date(post.data.data))}
+                  </time>
+                </div>
+              </article>
+            </a>
+          </li>
+        );
+      })}
+    </ul>
   )}
 
-  {cartas.length > 0 && (
-    <div class="footer-art">
-      <img src={`${import.meta.env.BASE_URL}farmhouse_table.png`} alt="Mesa de fazenda com carta" decoding="async" loading="lazy" />
-    </div>
-  )}
 </Layout>

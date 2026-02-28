@@ -1,0 +1,62 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('dialogo');
+  return posts.map(entry => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+const isRio = entry.data.autor.includes('Riobaldo');
+
+function formatDate(date: Date): string {
+  return new Intl.DateTimeFormat('pt-BR', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+  }).format(date);
+}
+
+// Navigation: previous and next posts
+const allPosts = await getCollection('dialogo');
+const sorted = allPosts.sort((a, b) =>
+  new Date(b.data.data).getTime() - new Date(a.data.data).getTime()
+);
+const currentIndex = sorted.findIndex(p => p.id === entry.id);
+const newerPost = currentIndex > 0 ? sorted[currentIndex - 1] : null;
+const olderPost = currentIndex < sorted.length - 1 ? sorted[currentIndex + 1] : null;
+---
+
+<Layout title={`${entry.data.titulo} | Travessia`}>
+  <article class="post">
+    <header class="post-header">
+      <h1>{entry.data.titulo}</h1>
+      <div class="post-meta">
+        <span class={`post-autor ${isRio ? 'autor-rio' : 'autor-ted'}`}>{entry.data.autor}</span>
+        <time datetime={entry.data.data.toISOString()}>
+          {formatDate(new Date(entry.data.data))}
+        </time>
+      </div>
+      <div class="separator"></div>
+    </header>
+
+    <div class={`post-body ${isRio ? 'carta-riobaldo' : 'carta-ted'}`}>
+      <Content />
+    </div>
+  </article>
+
+  <nav class="footer-nav">
+    {olderPost ? (
+      <a href={`${import.meta.env.BASE_URL}post/${olderPost.id}`} title={olderPost.data.titulo}>&larr; Anterior</a>
+    ) : <span></span>}
+    {newerPost ? (
+      <a href={`${import.meta.env.BASE_URL}post/${newerPost.id}`} title={newerPost.data.titulo}>Próximo &rarr;</a>
+    ) : <span></span>}
+  </nav>
+</Layout>
