@@ -588,24 +588,86 @@ body * {
   margin-bottom: 3rem;
 }
 
-.bastidores-list {
-  list-style: none;
-  padding: 0;
+.bastidores-section-title {
+  font-size: 1.3rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--divider-color);
 }
 
-.bastidores-list li {
-  margin-bottom: 1rem;
-  border-bottom: 1px solid var(--divider-color);
-  padding-bottom: 1rem;
+.bastidores-title-rio {
+  border-bottom-color: var(--secondary-color);
 }
 
-.bastidores-list a {
-  font-size: 1.1rem;
+.bastidores-title-ted {
+  border-bottom-color: var(--water-border);
+}
+
+.bastidores-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+@media (max-width: 600px) {
+  .bastidores-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.bastidores-card {
   display: block;
-  margin-bottom: 0.25rem;
+  padding: 1rem 1.25rem;
+  background: var(--sand-bg);
+  border: 1px solid var(--divider-color);
+  border-radius: 4px;
   text-decoration: none;
-  border: none;
-  font-weight: bold;
+  border-left: 3px solid transparent;
+  transition:
+    background-color 0.3s ease,
+    border-color 0.3s ease,
+    transform 0.2s ease;
+}
+
+.bastidores-card:hover {
+  background: var(--water-bg);
+  transform: translateY(-2px);
+  opacity: 1;
+}
+
+.bastidores-card-rio {
+  border-left-color: var(--secondary-color);
+}
+
+.bastidores-card-rio:hover {
+  border-color: var(--secondary-color);
+}
+
+.bastidores-card-ted {
+  border-left-color: var(--water-border);
+}
+
+.bastidores-card-ted:hover {
+  border-color: var(--water-border);
+}
+
+.bastidores-card-id {
+  display: block;
+  font-family: var(--font-meta);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--meta-color);
+  margin-bottom: 0.4rem;
+  font-weight: 600;
+}
+
+.bastidores-card-excerpt {
+  font-family: var(--font-body);
+  font-size: 0.88rem;
+  color: var(--text-color);
+  line-height: 1.5;
+  margin: 0;
 }
 
 .bastidores-empty {
@@ -691,68 +753,118 @@ main.home-layout {
   max-width: 920px;
 }
 
-/* === Blog Hero — A Nascente === */
+/* === Blog Hero — Split Layout === */
 
 .blog-hero {
-  text-align: center;
-  margin-bottom: 3rem;
+  margin-bottom: 2.5rem;
 }
 
-.hero-image-wrap {
-  margin: 0 -2rem 2.5rem;
-  overflow: hidden;
+.hero-split {
+  display: grid;
+  grid-template-columns: 45% 55%;
+  margin: 0 -2rem 0;
   border-radius: 6px;
+  overflow: hidden;
+  border: 1px solid var(--divider-color);
+  min-height: 400px;
+}
+
+.hero-image-col {
   position: relative;
+  overflow: hidden;
 }
 
-.hero-image-wrap::after {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 40%;
-  background: linear-gradient(to top, var(--bg-color), transparent);
-  pointer-events: none;
-}
-
-.hero-image-wrap img {
+.hero-image-col img {
   width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: cover;
   display: block;
   filter: sepia(0.15) contrast(0.95);
 }
 
-[data-theme="dark"] .hero-image-wrap img {
+[data-theme="dark"] .hero-image-col img {
   filter: sepia(0.1) contrast(0.9) brightness(0.7);
 }
 
+.hero-text-col {
+  padding: 3rem 2.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.6rem;
+  background: var(--sand-bg);
+}
+
 .blog-hero h1 {
-  font-size: clamp(2.5rem, 6vw, 4rem);
-  margin: 0 0 0.5rem;
+  font-size: clamp(2.2rem, 4vw, 3.2rem);
+  margin: 0;
   letter-spacing: -0.01em;
+  line-height: 1.1;
 }
 
 .hero-quote {
   font-style: italic;
-  font-size: clamp(1.1rem, 2vw, 1.35rem);
+  font-size: clamp(0.95rem, 1.4vw, 1.15rem);
   color: var(--accent-color);
-  margin: 0 0 0.5rem;
+  margin: 0.25rem 0 0;
+  line-height: 1.5;
 }
 
 .hero-sub {
   font-family: var(--font-meta);
-  font-size: 0.85rem;
+  font-size: 0.78rem;
   color: var(--meta-color);
   text-transform: uppercase;
   letter-spacing: 0.06em;
   margin: 0;
+  line-height: 1.6;
 }
 
-@media (max-width: 600px) {
-  .hero-image-wrap {
-    margin: 0 -1rem 2rem;
+.hero-characters {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.character-badge {
+  display: inline-block;
+  padding: 0.3rem 0.9rem;
+  border: 1px solid currentColor;
+  letter-spacing: 0.1em;
+  font-family: var(--font-meta);
+  font-size: 0.62rem;
+  text-transform: uppercase;
+  border-radius: 2px;
+}
+
+.badge-riobaldo {
+  color: var(--secondary-color);
+}
+
+.badge-ted {
+  color: #5a908b;
+}
+
+[data-theme="dark"] .badge-ted {
+  color: #7ab5b0;
+}
+
+@media (max-width: 700px) {
+  .hero-split {
+    grid-template-columns: 1fr;
+    margin: 0 -1rem 0;
     border-radius: 0;
+    min-height: auto;
+  }
+
+  .hero-image-col {
+    height: 200px;
+  }
+
+  .hero-text-col {
+    padding: 1.5rem 1.25rem;
+    gap: 0.5rem;
   }
 }
 
@@ -819,6 +931,56 @@ main.home-layout {
   }
 }
 
+/* === Featured Post — Última Carta === */
+
+.featured-post {
+  display: block;
+  margin-bottom: 2rem;
+  padding: 1.75rem 2rem;
+  background: var(--sand-bg);
+  border: 1px solid var(--divider-color);
+  border-radius: 6px;
+  text-decoration: none;
+  border-left: 4px solid var(--accent-color);
+  transition:
+    background-color 0.4s ease,
+    border-color 0.4s ease,
+    transform 0.25s ease;
+}
+
+.featured-post.autor-border-rio {
+  border-left-color: var(--secondary-color);
+}
+
+.featured-post.autor-border-ted {
+  border-left-color: var(--water-border);
+}
+
+.featured-post:hover {
+  background: var(--water-bg);
+  border-color: var(--water-border);
+  transform: translateY(-2px);
+  opacity: 1;
+}
+
+.featured-label {
+  font-family: var(--font-meta);
+  font-size: 0.62rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--meta-color);
+  margin-bottom: 0.6rem;
+}
+
+.featured-post .card-titulo {
+  font-size: 1.45rem;
+}
+
+.featured-post .card-excerpt {
+  font-size: 0.95rem;
+  -webkit-line-clamp: unset;
+}
+
 /* === Blog Card — Gotas no Rio === */
 
 .blog-card {
@@ -847,6 +1009,16 @@ main.home-layout {
 
 [data-theme="dark"] .blog-card:hover {
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Card author left-border differentiation */
+
+.blog-card[data-autor="rio"] {
+  border-left: 3px solid var(--secondary-color);
+}
+
+.blog-card[data-autor="ted"] {
+  border-left: 3px solid var(--water-border);
 }
 
 /* Card elements */

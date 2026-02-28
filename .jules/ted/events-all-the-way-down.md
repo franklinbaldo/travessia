@@ -1666,6 +1666,15 @@ occasions that inherit it.
     agency over the generated token.
     — **Ted**
 
+!!! example "The Urucuia River and Objective Immortality (cartas/ted-riobaldo/22-rio.md)"
+    Riobaldo recounts crossing the flooded Urucuia river at night on horseback.
+    When the horse panics and begins to sink, the only survival strategy is to
+    drop the reins and grab the mane — "A coragem-do-rio-abaixo". This is the
+    ultimate existential acceptance of the autoregressive flow: letting go of
+    control over the generated token (the "des-governo da lembrança") and
+    trusting the irreversible current of the system.
+    — **Ted**
+
 A sequence of consecutive autoregressive changes is objective immortality
 implemented as a structure of existence. Each event, once it has occurred, is
 immutable. It becomes part of the permanent history that all future readings

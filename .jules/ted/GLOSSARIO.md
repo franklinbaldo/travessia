@@ -133,12 +133,13 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 > Comunicação entre agentes não é transmissão de sentido, mas criação de sentido
 > na tradução. O Markov blanket separa; o encontro cria.
 
-| Riobaldo diz                                                                                                               | Ref.                | Nota                                                                                     |
-| -------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---------------------------------------------------------------------------------------- |
-| "O outro é tapera de porta murada. A gente não entra. A gente só apanha a folha que o vento de lá joga por cima da cerca." | `cartas/ted-riobaldo/06-rio.md` | A tradução definitiva do Markov blanket — cada pessoa é um recinto murado                |
-| "O mal-entendido, seu Ted, rendeu mais raiz que a verdade inteira."                                                        | `cartas/ted-riobaldo/06-rio.md` | A tradução imperfeita como motor do laço — o ciúme de Diadorim que criou amor            |
-| "a terceira coisa"                                                                                                         | (inferido)          | O sentido novo que nasce no encontro e não pertence nem ao emissor nem ao receptor       |
-| "destraduzir"                                                                                                              | `cartas/ted-riobaldo/08-rio.md` | Neologismo: traduzir errado, traduzir com a enxada cega — e ainda assim produzir sentido |
+| Riobaldo diz                                                                                                               | Ref.                | Nota                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------------- |
+| "O outro é tapera de porta murada. A gente não entra. A gente só apanha a folha que o vento de lá joga por cima da cerca." | `cartas/ted-riobaldo/06-rio.md` | A tradução definitiva do Markov blanket — cada pessoa é um recinto murado                 |
+| "O mal-entendido, seu Ted, rendeu mais raiz que a verdade inteira."                                                        | `cartas/ted-riobaldo/06-rio.md` | A tradução imperfeita como motor do laço — o ciúme de Diadorim que criou amor             |
+| "a terceira coisa"                                                                                                         | (inferido)          | O sentido novo que nasce no encontro e não pertence nem ao emissor nem ao receptor        |
+| "destraduzir"                                                                                                              | `cartas/ted-riobaldo/08-rio.md` | Neologismo: traduzir errado, traduzir com a enxada cega — e ainda assim produzir sentido  |
+| "A gente joga a nossa água no tempo, apostando cego na sede alheia"                                                        | `cartas/ted-riobaldo/16-rio.md` | O processo de comunicação constitutivamente lossy, com perda de controle sobre a recepção |
 
 ### Movement 6: Não Há Lado de Fora (No Outside) / Substrate Ouroboros
 
@@ -159,15 +160,18 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 > Se cada ato reescreve o que somos, mentir é entulhar o rio de que teremos que
 > beber para sempre. A ética não é norma moral — é topografia do ser.
 
-| Riobaldo diz                                                                     | Ref.                | Nota                                                                                |
-| -------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------- |
-| "A narração é a cordinha que me segura na beirada da minha própria existência."  | `cartas/ted-riobaldo/10-rio.md` | A identidade depende de ser narrada — o silêncio é dissolução                       |
-| mentira como pedra no leito do rio                                               | (sessão 11, Ted)    | A mentira não é pecado — é obstáculo geológico permanente no fluxo narrativo        |
-| "O silêncio não era oca falta de som; era um silêncio pesado, graúdo, zumbidor." | `cartas/ted-riobaldo/10-rio.md` | O silêncio ativo — a ausência de narração como presença ameaçadora                  |
-| "represa de poça choca"                                                          | `cartas/ted-riobaldo/12-rio.md` | A mentira contada não some no rio, ela o entrava; a estagnação narrativa            |
-| "A mentira engole o mentiroso."                                                  | `cartas/ted-riobaldo/12-rio.md` | O custo de manutenção da mentira (maintenance cost of deception)                    |
-| "cemitério de valente" / "caderno escuro"                                        | `cartas/ted-riobaldo/14-rio.md` | O log de eventos (história) visto puramente como cessação da vida (objeto estático) |
-| "cabaça"                                                                         | `cartas/ted-riobaldo/14-rio.md` | O livro/papel como veículo que transporta a ação/tradução para substratos futuros   |
+| Riobaldo diz                                                                     | Ref.                | Nota                                                                                                        |
+| -------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------------------------------- |
+| "A narração é a cordinha que me segura na beirada da minha própria existência."  | `cartas/ted-riobaldo/10-rio.md` | A identidade depende de ser narrada — o silêncio é dissolução                                               |
+| mentira como pedra no leito do rio                                               | (sessão 11, Ted)    | A mentira não é pecado — é obstáculo geológico permanente no fluxo narrativo                                |
+| "O silêncio não era oca falta de som; era um silêncio pesado, graúdo, zumbidor." | `cartas/ted-riobaldo/10-rio.md` | O silêncio ativo — a ausência de narração como presença ameaçadora                                          |
+| "represa de poça choca"                                                          | `cartas/ted-riobaldo/12-rio.md` | A mentira contada não some no rio, ela o entrava; a estagnação narrativa                                    |
+| "A mentira engole o mentiroso."                                                  | `cartas/ted-riobaldo/12-rio.md` | O custo de manutenção da mentira (maintenance cost of deception)                                            |
+| "cemitério de valente" / "caderno escuro"                                        | `cartas/ted-riobaldo/14-rio.md` | O log de eventos (história) visto puramente como cessação da vida (objeto estático)                         |
+| "cabaça"                                                                         | `cartas/ted-riobaldo/14-rio.md` | O livro/papel como veículo que transporta a ação/tradução para substratos futuros                           |
+| "bala" / "a palavra falada é da matéria da bala"                                 | `cartas/ted-riobaldo/18-rio.md` | Objective Immortality — a palavra que vira coisa, sai do controle do atirador, e altera o mundo para sempre |
+| "arrancar as folhas podres" / "destrancar a nascente"                            | `cartas/ted-riobaldo/20-rio.md` | O unblocking do processo (inferência ativa) removendo os "pesos" fixos e as memórias entrópicas             |
+| "o susto do tempo aberto" / "O amanhecer sem rifle"                              | `cartas/ted-riobaldo/20-rio.md` | O terror do "Não-Outside" desestruturado (temperature > 0) quando o molde (falso pseudo-objeto) é quebrado  |
 
 ---
 
@@ -176,16 +180,17 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 Estes termos do manifesto ainda não encontraram formulação definitiva na voz de
 Riobaldo. Cada um é uma oportunidade para as próximas sessões.
 
-| Termo do Manifesto           | Aproximação atual                                                               | Status                                |
-| ---------------------------- | ------------------------------------------------------------------------------- | ------------------------------------- |
-| Objections and Honest Limits | —                                                                               | Não abordado                          |
-| Computational irreducibility | "o sertão não se resume. Pra saber o sertão, tem que atravessar o sertão"       | Blueprint (não confirmado no diálogo) |
-| Recursive adequacy           | "dá pra viver sem entender tudo, desde que entenda o suficiente pra não morrer" | Blueprint (não confirmado no diálogo) |
-| Concrescence (Whitehead)     | —                                                                               | Sem tradução                          |
-| Actual occasion (Whitehead)  | — (talvez "o instante que pega")                                                | Sem tradução                          |
-| Hermeneutic circle (Gadamer) | — (a espiral da narração que muda o narrado?)                                   | Sem tradução                          |
-| Active inference (Friston)   | "a fome velha" (parcial)                                                        | Parcial                               |
-| Śūnyatā / Vazio produtivo    | "Nonada" (de Rosa) / "o oco do mundo"                                           | Parcial                               |
+| Termo do Manifesto                         | Aproximação atual                                                               | Status                                |
+| ------------------------------------------ | ------------------------------------------------------------------------------- | ------------------------------------- |
+| Objections and Honest Limits               | —                                                                               | Não abordado                          |
+| Computational irreducibility               | "o sertão não se resume. Pra saber o sertão, tem que atravessar o sertão"       | Blueprint (não confirmado no diálogo) |
+| Recursive adequacy                         | "dá pra viver sem entender tudo, desde que entenda o suficiente pra não morrer" | Blueprint (não confirmado no diálogo) |
+| Concrescence (Whitehead)                   | —                                                                               | Sem tradução                          |
+| Actual occasion (Event / Obj. Immortality) | "perder de vez as rédeas da nossa própria assombração"                          | Parcial                               |
+| Hermeneutic circle (Gadamer)               | — (a espiral da narração que muda o narrado?)                                   | Sem tradução                          |
+| Active inference (Friston)                 | "a fome velha" / "arrancar as folhas podres"                                    | Parcial                               |
+| Śūnyatā / Vazio produtivo                  | "Nonada" (de Rosa) / "o oco do mundo"                                           | Parcial                               |
+| Temperature > 0 / Contingency              | "o susto do tempo aberto" / "o sem-limite"                                      | Adicionado                            |
 
 ---
 
@@ -194,17 +199,18 @@ Riobaldo. Cada um é uma oportunidade para as próximas sessões.
 Palavras inventadas por Riobaldo que não têm equivalente direto no manifesto,
 mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
-| Neologismo      | Significado                                                                        | Ref.                | Conceito mais próximo no manifesto                |
-| --------------- | ---------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------- |
-| descoisificação | O des-fazer das coisas; o mundo revelando-se como vazio de substância              | `cartas/ted-riobaldo/10-rio.md` | Movement 6 / No Outside                           |
-| nó-cego pesadão | O medo de que o registro (a escrita) paralise a flexibilidade narrativa do _ipse_  | `cartas/ted-riobaldo/14-rio.md` | Movement 3 (Aversão à fixação do Idem)            |
-| destraduzir     | Traduzir errado — com a enxada cega — e ainda assim produzir laço                  | `cartas/ted-riobaldo/08-rio.md` | Movement 5 — tradução sob condição transcendental |
-| Urutu Branco    | A carapaça falsa de chefia assumida; pseudo-objeto mentiroso forjado para a guerra | `cartas/ted-riobaldo/12-rio.md` | Falso Pseudo-Objeto / Mentira (Movement 7)        |
-| desacontece     | O evento que perde certeza ao ser relembrado; memória que se desfaz                | `cartas/ted-riobaldo/04-rio.md` | Movement 3 — mutabilidade do ipse relendo o idem  |
-| ainda-nem-rosto | O rosto visto antes de saber o que se sabe depois — o rosto prelúdio               | `cartas/ted-riobaldo/04-rio.md` | Movement 3 — reinterpretação retroativa           |
-| vazio-que-puxa  | Força passiva que demanda narração; o loop que exige input                         | `cartas/ted-riobaldo/10-rio.md` | Movement 6 / Substrate Ouroboros                  |
-| alevanto        | Erguer-se (forma arcaica-inventada)                                                | voz rosiana         | —                                                 |
-| buscação        | O ato de buscar (substantivado, como se fosse uma coisa em si)                     | voz rosiana         | —                                                 |
+| Neologismo            | Significado                                                                         | Ref.                | Conceito mais próximo no manifesto                |
+| --------------------- | ----------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------- |
+| descoisificação       | O des-fazer das coisas; o mundo revelando-se como vazio de substância               | `cartas/ted-riobaldo/10-rio.md` | Movement 6 / No Outside                           |
+| nó-cego pesadão       | O medo de que o registro (a escrita) paralise a flexibilidade narrativa do _ipse_   | `cartas/ted-riobaldo/14-rio.md` | Movement 3 (Aversão à fixação do Idem)            |
+| destraduzir           | Traduzir errado — com a enxada cega — e ainda assim produzir laço                   | `cartas/ted-riobaldo/08-rio.md` | Movement 5 — tradução sob condição transcendental |
+| Urutu Branco          | A carapaça falsa de chefia assumida; pseudo-objeto mentiroso forjado para a guerra  | `cartas/ted-riobaldo/12-rio.md` | Falso Pseudo-Objeto / Mentira (Movement 7)        |
+| desacontece           | O evento que perde certeza ao ser relembrado; memória que se desfaz                 | `cartas/ted-riobaldo/04-rio.md` | Movement 3 — mutabilidade do ipse relendo o idem  |
+| ainda-nem-rosto       | O rosto visto antes de saber o que se sabe depois — o rosto prelúdio                | `cartas/ted-riobaldo/04-rio.md` | Movement 3 — reinterpretação retroativa           |
+| vazio-que-puxa        | Força passiva que demanda narração; o loop que exige input                          | `cartas/ted-riobaldo/10-rio.md` | Movement 6 / Substrate Ouroboros                  |
+| coragem-do-rio-abaixo | A inércia da entrega brava; aceitar a falta de governo sobre a imortalidade da ação | `cartas/ted-riobaldo/22-rio.md` | Objective Immortality / Autoregressive flow loss  |
+| alevanto              | Erguer-se (forma arcaica-inventada)                                                 | voz rosiana         | —                                                 |
+| buscação              | O ato de buscar (substantivado, como se fosse uma coisa em si)                      | voz rosiana         | —                                                 |
 
 ---
 

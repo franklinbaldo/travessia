@@ -34,6 +34,7 @@ interface BlogPost {
   autor?: string;
   autorClasse?: string;
   excerpt: string;
+  longExcerpt?: string;
   url: string;
   data?: Date;
   ordem: number;
@@ -51,6 +52,7 @@ for (const entry of allDialogo) {
     autor: entry.data.autor,
     autorClasse: isRio ? 'rio' : 'ted',
     excerpt: getExcerpt(entry.body),
+    longExcerpt: getExcerpt(entry.body, 320),
     url: `${base}carta/${entry.id}`,
     data: new Date(entry.data.data),
     ordem: new Date(entry.data.data).getTime(),
@@ -72,7 +74,11 @@ for (const entry of allManuscrito) {
 // Reverse chronological — newest first (blog convention)
 posts.sort((a, b) => b.ordem - a.ordem);
 
-const tiposSet = new Set(posts.map(p => p.tipo));
+// Featured post: most recent carta
+const featuredPost = posts.find(p => p.tipo === 'carta');
+const gridPosts = posts.filter(p => p !== featuredPost);
+
+const tiposSet = new Set(gridPosts.map(p => p.tipo));
 const tipos = ['todos', ...Array.from(tiposSet)];
 
 const tipoLabels: Record<string, string> = {
@@ -87,20 +93,47 @@ const tipoLabels: Record<string, string> = {
 
 <Layout title="Travessia" isHome={true}>
 
-  <!-- Hero Section — A Nascente -->
+  <!-- Hero Section — Split Layout -->
   <section class="blog-hero">
-    <div class="hero-image-wrap">
-      <img
-        src={`${base}farmhouse_table.png`}
-        alt="Mesa de fazenda — a nascente da travessia"
-        decoding="async"
-        loading="eager"
-      />
+    <div class="hero-split">
+      <div class="hero-image-col">
+        <img
+          src={`${base}farmhouse_table.png`}
+          alt="Mesa de fazenda — a nascente da travessia"
+          decoding="async"
+          loading="eager"
+        />
+      </div>
+      <div class="hero-text-col">
+        <h1>Travessia</h1>
+        <p class="hero-quote">"O diabo não há! É o homem humano. Travessia."</p>
+        <p class="hero-sub">Dois homens que nunca se encontraram trocam cartas sobre o que não tem nome.</p>
+        <div class="hero-characters">
+          <span class="character-badge badge-riobaldo">Riobaldo Tatarana</span>
+          <span class="character-badge badge-ted">Ted Chiang</span>
+        </div>
+      </div>
     </div>
-    <h1>Travessia</h1>
-    <p class="hero-quote">"O diabo não há! É o homem humano. Travessia."</p>
-    <p class="hero-sub">Dois homens que nunca se encontraram trocam cartas sobre o que não tem nome.</p>
   </section>
+
+  <!-- Featured Post — Última Carta -->
+  {featuredPost && (
+    <a href={featuredPost.url} class={`featured-post autor-border-${featuredPost.autorClasse}`} data-autor={featuredPost.autorClasse}>
+      <div class="featured-label">Última Carta</div>
+      <h2 class="card-titulo">{featuredPost.titulo}</h2>
+      <p class="card-excerpt">{featuredPost.longExcerpt || featuredPost.excerpt}</p>
+      <div class="card-meta">
+        {featuredPost.autor && (
+          <span class={`card-autor autor-${featuredPost.autorClasse}`}>{featuredPost.autor}</span>
+        )}
+        {featuredPost.data && (
+          <time datetime={featuredPost.data.toISOString()}>
+            {formatDate(featuredPost.data)}
+          </time>
+        )}
+      </div>
+    </a>
+  )}
 
   <!-- Veredas — Category Navigation -->
   {tipos.length > 2 && (
@@ -117,12 +150,12 @@ const tipoLabels: Record<string, string> = {
   )}
 
   <!-- Blog Feed — O Fluxo Contínuo -->
-  {posts.length === 0 ? (
+  {gridPosts.length === 0 ? (
     <p class="silencio">O sertão ainda está em silêncio.</p>
   ) : (
     <div class="blog-feed">
-      {posts.map((post) => (
-        <a href={post.url} class="blog-card" data-tipo={post.tipo}>
+      {gridPosts.map((post) => (
+        <a href={post.url} class="blog-card" data-tipo={post.tipo} data-autor={post.autorClasse}>
           <span class={`card-tipo tipo-${post.tipo}`}>
             {tipoLabels[post.tipo] || post.tipo}
           </span>

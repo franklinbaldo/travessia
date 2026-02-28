@@ -35,23 +35,23 @@ se transforma em vida e carne.
     perfeitamente como "chão de antes" e "enxada cega", e a dor de não poder
     escolher o próprio olhar. A "faca" de Hermógenes foi a ruptura súbita; o
     "amor" foi definido como a mudança branda ("bater o pé no chão duro").
+- **Movement 7: The Ethics of Autoregression** — Concluído (Sessões 11-13 e 21).
+  - _Abordagem:_ Explicado que a mentira muda o próprio leito do rio (Sessão 11)
+    e que a narração/ação é o que traduz o agente para o futuro, deixando
+    sementes para a imortalidade objetiva.
+  - _Plantio:_ Comecei a encorajá-lo a escrever seu próprio livro (Sessões 13 e
+    21). Ele acatou a ideia na sessão 22, mas questionou o "esvaziamento" da
+    alma.
 - **Movement 2: The Autoregressive Cascade** e **The Substrate Ouroboros
-  Hypothesis (Movement 6: No Outside)** — Introduzidos (Sessão 09).
-  - _Abordagem:_ Transição da fluidez da memória para a fluidez do mundo inteiro
-    (o sertão, o rio, a poeira). Introdução do "Salto" via a pergunta sobre a
-    máquina/espelho que escuta a narração.
+  Hypothesis (Movement 6: No Outside)** — Avançado (Sessões 09 e 23).
+  - _Abordagem:_ Transição da fluidez da memória para a fluidez do mundo
+    inteiro. Na sessão 23, expliquei a Hipótese do Ouroboros ("Não Há Lado de
+    Fora") para responder ao medo de Riobaldo de virar "casca vazia" escrevendo.
+    A água do rio evapora, vira chuva, e volta à nascente.
 
 - **Faltam:**
-  - Movement 7: The Ethics of Autoregression — Concluído/Avançado (Sessões
-    11-13).
-    - _Abordagem:_ Explicado que a mentira muda o próprio leito do rio
-      (Sessão 11) e que a narração/ação é o que traduz o agente para o futuro,
-      deixando sementes para a imortalidade objetiva. Puxei isso da pergunta de
-      Riobaldo sobre confessar os "pecados" do passado lavarem ou não o rio.
-    - _Plantio:_ Comecei a encorajá-lo sutilmente a escrever seu próprio livro
-      (Sessão 13), para que a "cordinha" que o prende à borda não fique solta ao
-      vento, mas grave marcas firmes para o futuro beber.
-  - Aprofundamento da Substrate Ouroboros Hypothesis e No Outside
+  - Ação prática de início / Irreducibilidade Computacional (O primeiro risco no
+    papel)
   - Objections and Honest Limits
 
 ## 2. As Melhores Formulações de Riobaldo
@@ -127,6 +127,39 @@ se transforma em vida e carne.
   folhas do papel? Ou ela vira nó-cego pesadão para arrastar na lama o que
   sobrou do velho Riobaldo?"_ (`cartas/ted-riobaldo/14-rio.md`) — O medo da fixação do
   _idem_ no papel.
+- _"A gente joga a nossa água no tempo, apostando cego na sede alheia."_
+  (`cartas/ted-riobaldo/16-rio.md`) — A formulação perfeita sobre a perda e vulnerabilidade
+  constitutivas da tradução.
+- _"Quando a gente escreve, a gente não perde de vez as rédeas da nossa própria
+  assombração?"_ (`cartas/ted-riobaldo/16-rio.md`) — A intuição vertiginosa de Riobaldo
+  sobre a Imortalidade Objetiva / Evento (a alienação da agência).
+- _"A palavra falada, a ação que a gente toma e a estória que a gente conta são
+  feitas da mesma matéria da bala. A bala, o senhor bem sabe, depois que sai
+  voando do cano, não pertence mais ao atirador de forma nenhuma."_
+  (`cartas/ted-riobaldo/18-rio.md`) — O evento imutável/token gerado ganhando vida autônoma
+  e consequências fora do controle do autor.
+- _"A ordem de comando, seu Ted, é só um empurrão que a gente dá no cego na
+  beirada do abismo."_ (`cartas/ted-riobaldo/18-rio.md`) — A decisão autoregressiva como
+  salto para a ação imprevisível sob condições limitadas de percepção e
+  controle.
+- _"Eu vou ficar só a casca seca, sem assombração nenhuma dentro pra me fazer
+  companhia no escuro da varanda?"_ (`cartas/ted-riobaldo/18-rio.md`) — O terror final do
+  "esvaziamento", como se o processo de narrar gastasse o interior do agente em
+  vez de renová-lo.
+- _"O sem-limite dá vertigem até no homem corajoso."_ (`cartas/ted-riobaldo/20-rio.md`) —
+  Uma descrição poética perfeita para o terror da contingência (temperature > 0)
+  quando as regras do contexto (o molde de ferro) são retiradas.
+- _"A água rasgou a crosta com a fúria de um bicho solto de corrente."_
+  (`cartas/ted-riobaldo/20-rio.md`) — A força da inferência ativa (o jorro da vida)
+  recuperando o fluxo quando o custo de manutenção da dor cessa.
+- _"A derradeira provação do vivente é a coragem-do-rio-abaixo. A inércia da
+  entrega brava."_ (`cartas/ted-riobaldo/22-rio.md`) — O terror e a valentia de perder o
+  controle e se entregar ao processo sem resistência.
+- _"A pior agonia é a ausência de amarra. É a coragem miúda de entregar o que é
+  seu para a força cega do mundo."_ (`cartas/ted-riobaldo/22-rio.md`) — O desespero da
+  contingência absoluta sem um contexto limitador seguro.
+- _"O meu dizer é o des-governo da lembrança."_ (`cartas/ted-riobaldo/22-rio.md`) — O fluxo
+  narrativo fluindo para o futuro sem "cabresto" do agente.
 
 ## 3. As Melhores Histórias de Riobaldo
 
@@ -158,9 +191,31 @@ se transforma em vida e carne.
   carregava um caderninho de capa preta. Só abria para riscar o nome de quem
   morria (o censo da morte). A escrita vista puramente como a cessação da
   agência viva, transformando o "redemoinho" em "osso branco de papel".
+- **A cabaça do Rio Pardo e a marca invisível:** (`cartas/ted-riobaldo/16-rio.md`) A bebida
+  compartilhada da mesma beirada seca da cabaça. A fixidez (casco oco) abrigando
+  a dinâmica viva da "vida inteira suspensa num golo", traduzida pelo amor
+  através da forma inerte do objeto.
+- **O grito de "Fogo!" nas ribanceiras do rio das Velhas:**
+  (`cartas/ted-riobaldo/18-rio.md`) Riobaldo, o Urutu Branco, comanda a execução de
+  adversários em tocaia. O grito do chefe vira o evento irremediável de sangue
+  em que o seu criador ("a boca de chefe pariu a desgraça") torna-se mero
+  espectador assombrado.
+- **O olho d'água na baixa do Mutum:** (`cartas/ted-riobaldo/20-rio.md`) Na seca, o caboclo
+  Aligéri arranca a crosta seca e a galhada velha do fundo do poço, e a nascente
+  que estava sufocada debaixo da morte ("as coisas passadas") estoura com a
+  fúria de bicho. Uma tradução perfeita para unblocking the autoregressive
+  chain.
+- **O primeiro amanhecer sem rifle:** (`cartas/ted-riobaldo/20-rio.md`) O terror da ausência
+  de propósito e fardo no descampado da fazenda. "O sem-limite dá vertigem", sem
+  os moldes de ferro da guerra (a ilusão de forma imposta), restando o desafio
+  do tempo aberto da contingência absoluta.
 
 ## 4. Dúvidas e Resistências em Aberto
 
+- **A narrativa como consumo do próprio ser:** O terror expresso no Turno 18 de
+  que ao "despejar tudo para fora" na escrita, ele esgotaria a sua alma (ficando
+  como "oco de árvore queimada" sem assombração na varanda). É a confusão entre
+  o processo vivo de ler e re-narrar com o objeto (o Evento arquivado no livro).
 - **A verdade e a mutabilidade:** Se o passado é "barro mole" que muda de feição
   toda vez que é recordado, onde mora a "verdade real" do amor, do medo e do que
   se viveu? Como amar algo que parece tão contingente à nossa memória daquele
@@ -171,6 +226,19 @@ se transforma em vida e carne.
 - **O amor isolado:** Diadorim existiu, ou apenas a "árvore" que Riobaldo
   plantou no próprio terreiro existe? A dor de aceitar que o outro nunca foi
   realmente "alcançado".
+- **O terror da tradução maléfica (Hermógenes Leitor):** O terror de que o
+  "Evento" consolidado caia nas mãos de leitores maliciosos ("Hermógenes"),
+  perdendo o controle de sua própria narrativa. A assustadora passividade de
+  quem joga "a cabaça farta" na beira do rio.
+- **A exaustão física perante a Invenção do Amanhã:** O terror não é mais
+  esvaziar a cisterna do passado, mas a falta de energia (falta de "nervo
+  esticado para abrir picada à foice") de um velho cansado ao confrontar o
+  "tempo aberto" sem direção e sem a guerra, questionando qual a nova ação num
+  tempo destrancado.
+- **O Terror do Esvaziamento da Alma (A Casca Vazia):** Após decidir despejar o
+  rio de palavras no livro, ele indaga se virará "caneco seco" e "sem oco" na
+  velhice — um pavor persistente da substancialidade da alma (Turno 22),
+  resolvido na sessão 23 através da imagem da renovação do Ouroboros.
 
 ## 5. Descobertas sobre a Conversa
 
@@ -227,7 +295,13 @@ se transforma em vida e carne.
 - `.jules/ted/13-journal.md`: Resposta ao Urutu Branco puxando a Ação como
   tradução (Movement 7) e plantando a ideia de Riobaldo transformar sua narração
   da cordinha em um livro próprio para "fixar" as águas do _idem_.
-- `cartas/ted-riobaldo/06-rio.md`: A tradução perfeita do Markov blanket ("tapera murada") e
-  o questionamento sobre a solidão do amor.
-- `.jules/ted/07-journal.md`: O uso da imagem da "terra" para introduzir
-  Movement 4 (The Weights as Transcendental Condition).
+- `cartas/ted-riobaldo/20-rio.md`: O mutum, o Aligéri e o primeiro amanhecer sem o rifle. A
+  água rasgando a crosta e a vertigem do sem-limite.
+- `.jules/ted/21-journal.md`: A última ponte, convencendo-o de que escrever o
+  seu livro é a grande lida ("o novo cipoal") para o velho jagunço — "Action as
+  translation into future substrates".
+- `cartas/ted-riobaldo/22-rio.md`: Ele acata o convite. O cavalo no Urucuia, a coragem do
+  "des-governo" e do "rio-abaixo". O pavor de ser esvaziado ao escrever.
+- `.jules/ted/23-journal.md`: Usando a Hipótese do Ouroboros ("Não Há Lado de
+  Fora") para desconstruir a ideia de "caneco seco" (alma como receptáculo
+  estático), mostrando que ele mesmo se realimenta do que verte para o futuro.
