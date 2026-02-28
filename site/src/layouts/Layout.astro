@@ -20,10 +20,11 @@ const base = import.meta.env.BASE_URL;
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Travessia — diálogo epistolar entre Ted Chiang e Riobaldo Tatarana" />
-    <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
+    <link rel="icon" type="image/png" href={`${base}favicon.png`} />
     <title>{title}</title>
   </head>
   <body class={isBastidores ? 'bastidores-content' : ''}>
+    <div id="reading-progress"></div>
     <main>
       <nav>
         <a href={base} class="logo">Travessia</a>
@@ -39,6 +40,8 @@ const base = import.meta.env.BASE_URL;
       </nav>
       <slot />
     </main>
+
+    <button id="back-to-top" aria-label="Voltar ao topo">↑</button>
 
     <script is:inline>
       (function() {
@@ -60,6 +63,39 @@ const base = import.meta.env.BASE_URL;
           s.style.display = n === 'dark' ? 'inline' : 'none';
         });
       })();
+
+      // Extra features scripts
+      document.addEventListener('DOMContentLoaded', function() {
+        var progressBar = document.getElementById('reading-progress');
+        var backToTopBtn = document.getElementById('back-to-top');
+
+        function updateScroll() {
+          var scrollTop = window.scrollY || document.documentElement.scrollTop;
+          var scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+          
+          if (progressBar) {
+            var progress = scrollHeight > 0 ? (scrollTop / scrollHeight) * 100 : 0;
+            progressBar.style.width = progress + '%';
+          }
+
+          if (backToTopBtn) {
+            if (scrollTop > 800) {
+              backToTopBtn.classList.add('visible');
+            } else {
+              backToTopBtn.classList.remove('visible');
+            }
+          }
+        }
+
+        window.addEventListener('scroll', updateScroll, { passive: true });
+        updateScroll(); // init
+
+        if (backToTopBtn) {
+          backToTopBtn.addEventListener('click', function() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+          });
+        }
+      });
     </script>
   </body>
 </html>
