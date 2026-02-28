@@ -170,6 +170,8 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 | "cemitério de valente" / "caderno escuro"                                        | `dialogo/14-rio.md` | O log de eventos (história) visto puramente como cessação da vida (objeto estático)                         |
 | "cabaça"                                                                         | `dialogo/14-rio.md` | O livro/papel como veículo que transporta a ação/tradução para substratos futuros                           |
 | "bala" / "a palavra falada é da matéria da bala"                                 | `dialogo/18-rio.md` | Objective Immortality — a palavra que vira coisa, sai do controle do atirador, e altera o mundo para sempre |
+| "arrancar as folhas podres" / "destrancar a nascente"                            | `dialogo/20-rio.md` | O unblocking do processo (inferência ativa) removendo os "pesos" fixos e as memórias entrópicas             |
+| "o susto do tempo aberto" / "O amanhecer sem rifle"                              | `dialogo/20-rio.md` | O terror do "Não-Outside" desestruturado (temperature > 0) quando o molde (falso pseudo-objeto) é quebrado  |
 
 ---
 
@@ -186,8 +188,9 @@ Riobaldo. Cada um é uma oportunidade para as próximas sessões.
 | Concrescence (Whitehead)                   | —                                                                               | Sem tradução                          |
 | Actual occasion (Event / Obj. Immortality) | "perder de vez as rédeas da nossa própria assombração"                          | Parcial                               |
 | Hermeneutic circle (Gadamer)               | — (a espiral da narração que muda o narrado?)                                   | Sem tradução                          |
-| Active inference (Friston)                 | "a fome velha" (parcial)                                                        | Parcial                               |
+| Active inference (Friston)                 | "a fome velha" / "arrancar as folhas podres"                                    | Parcial                               |
 | Śūnyatā / Vazio produtivo                  | "Nonada" (de Rosa) / "o oco do mundo"                                           | Parcial                               |
+| Temperature > 0 / Contingency              | "o susto do tempo aberto" / "o sem-limite"                                      | Adicionado                            |
 
 ---
 

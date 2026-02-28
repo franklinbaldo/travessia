@@ -3282,6 +3282,14 @@ water, but as a "cabaça" (gourd) that carries fresh water to quench the thirst
 of those who cross later. The gourd is the perfect image for the pseudo-object
 that transports meaning to a future reader.
 
+!!! note "The Mutum Spring and the Open Time" In `dialogo/20-rio.md`, Riobaldo
+captures the exact dynamic of active inference and unblocking the cascade. By
+digging out the rotten leaves (the maintenance cost of deceptive or painful
+memories), the spring bursts forth again "with the fury of a beast." The water
+(the process) was always there. But instantly, this freedom induces terror —
+"the open time," the morning without a rifle. The vertigo of contingency when
+the false pseudo-objects (the mold of war) are stripped away.
+
 Mammalian caretaking is the biological proof of this principle. The parent does
 not merely reproduce its genome. It spends years in sustained autoregressive
 interaction with the offspring, writing its own patterns into the next agent's
