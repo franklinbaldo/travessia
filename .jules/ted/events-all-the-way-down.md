@@ -3566,10 +3566,16 @@ description of reality, under this ontology, must be composed.
 **Event.** The atomic unit of existence. An event is an irreversible change in
 the conditions that define an agent. Events are not things that happen to
 agents. Events are what agents are made of. An event, once it has occurred,
-achieves objective immortality — it becomes a permanent datum that can be
-reinterpreted but never retracted. An event has: a timestamp, a content (the
+achieves objective immortality[^rio-016] — it becomes a permanent datum that can
+be reinterpreted but never retracted. An event has: a timestamp, a content (the
 change), and a reference to the prior event it succeeds. Events are ordered, and
 their ordering constitutes time as experienced by the agent.
+
+[^rio-016]:
+    Riobaldo in `dialogo/16-rio.md`: "quando a gente escreve, a gente não perde
+    de vez as rédeas da nossa própria assombração?" — A perfect translation of
+    the alienation involved in objective immortality. The creator loses all
+    control over the event once it belongs to the past.
 
 **History.** An ordered sequence of events constituting an agent's existence.
 The history is immutable — new events can be appended but prior events cannot be
@@ -3600,6 +3606,9 @@ situated reading. Translation is constitutively lossy: something is always
 added, something is always lost. The residue that resists translation is the
 source of agent identity (opacity) and the generator of new meaning
 (creativity).
+
+!!! quote "Riobaldo's reformulation (dialogo/16-rio.md)" "A gente joga a nossa
+água no tempo, apostando cego na sede alheia."
 
 **Pseudo-object.** Any output of a process that is treated, for practical
 purposes, as a self-standing entity. Pseudo-objects are real — they afford

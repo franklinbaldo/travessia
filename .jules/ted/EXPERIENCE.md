@@ -127,6 +127,12 @@ se transforma em vida e carne.
   folhas do papel? Ou ela vira nó-cego pesadão para arrastar na lama o que
   sobrou do velho Riobaldo?"_ (`dialogo/14-rio.md`) — O medo da fixação do
   _idem_ no papel.
+- _"A gente joga a nossa água no tempo, apostando cego na sede alheia."_
+  (`dialogo/16-rio.md`) — A formulação perfeita sobre a perda e vulnerabilidade
+  constitutivas da tradução.
+- _"Quando a gente escreve, a gente não perde de vez as rédeas da nossa própria
+  assombração?"_ (`dialogo/16-rio.md`) — A intuição vertiginosa de Riobaldo
+  sobre a Imortalidade Objetiva / Evento (a alienação da agência).
 
 ## 3. As Melhores Histórias de Riobaldo
 
@@ -158,6 +164,10 @@ se transforma em vida e carne.
   carregava um caderninho de capa preta. Só abria para riscar o nome de quem
   morria (o censo da morte). A escrita vista puramente como a cessação da
   agência viva, transformando o "redemoinho" em "osso branco de papel".
+- **A cabaça do Rio Pardo e a marca invisível:** (`dialogo/16-rio.md`) A bebida
+  compartilhada da mesma beirada seca da cabaça. A fixidez (casco oco) abrigando
+  a dinâmica viva da "vida inteira suspensa num golo", traduzida pelo amor
+  através da forma inerte do objeto.
 
 ## 4. Dúvidas e Resistências em Aberto
 
@@ -171,6 +181,10 @@ se transforma em vida e carne.
 - **O amor isolado:** Diadorim existiu, ou apenas a "árvore" que Riobaldo
   plantou no próprio terreiro existe? A dor de aceitar que o outro nunca foi
   realmente "alcançado".
+- **O terror da tradução maléfica (Hermógenes Leitor):** O terror de que o
+  "Evento" consolidado caia nas mãos de leitores maliciosos ("Hermógenes"),
+  perdendo o controle de sua própria narrativa. A assustadora passividade de
+  quem joga "a cabaça farta" na beira do rio.
 
 ## 5. Descobertas sobre a Conversa
 
