@@ -187,8 +187,8 @@ Riobaldo. Cada um é uma oportunidade para as próximas sessões.
 | Recursive adequacy                         | "dá pra viver sem entender tudo, desde que entenda o suficiente pra não morrer" | Blueprint (não confirmado no diálogo) |
 | Concrescence (Whitehead)                   | —                                                                               | Sem tradução                          |
 | Actual occasion (Event / Obj. Immortality) | "perder de vez as rédeas da nossa própria assombração"                          | Parcial                               |
-| Hermeneutic circle (Gadamer)               | — (a espiral da narração que muda o narrado?)                                   | Sem tradução                          |
-| Active inference (Friston)                 | "a fome velha" / "arrancar as folhas podres"                                    | Parcial                               |
+| Hermeneutic circle (Gadamer)               | "a capa grossa de entendedor rasga" / "o risco na casca"                       | Adicionado (Sessão 27)                |
+| Active inference (Friston)                 | "a fome velha" / "arrancar as folhas podres" / "o jorrar que é a própria vida" | Parcial                               |
 | Śūnyatā / Vazio produtivo                  | "Nonada" (de Rosa) / "o oco do mundo"                                           | Parcial                               |
 | Temperature > 0 / Contingency              | "o susto do tempo aberto" / "o sem-limite"                                      | Adicionado                            |
 | Computational irreducibility               | "o Liso do Sussuarão é do tamanho dele mesmo"                                 | Confirmado na sessão 25             |
@@ -215,6 +215,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | chovedor de nascente  | A água vertida do autor se transforma em semente e chuva na cabeça de um leitor futuro | `cartas/ted-riobaldo/24-rio.md` | Ouroboros da comunicação literária / Propagação |
 | Nonada                | A primeira distinção que quebra a indiferenciação inicial (Genesis block)           | `cartas/ted-riobaldo/24-rio.md` | O começo autoregressivo / O Ato |
 | verter-se             | A ação não como ato passivo, mas como o esvaziamento renovador                      | `cartas/ted-riobaldo/24-rio.md` | Active Inference / Agent continuity |
+| canoa desgovernada    | O balanço irredutível da existência perante a "Computational Irreducibility"        | `cartas/ted-riobaldo/26-rio.md` | Computational irreducibility |
 
 ---
 
