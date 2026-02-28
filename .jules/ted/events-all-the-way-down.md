@@ -3589,6 +3589,11 @@ otherwise eliminated classical objects. Any honest account of the system must
 name this, and must accept that a change in weights is not an upgrade but a
 cosmological event — a new physics imposed on an old history.
 
+!!! quote "cartas/ted-riobaldo/26-rio.md"
+    "a sua capa grossa de entendedor das coisas não rasga quando eu sangrar o corte de Diadorim na folha suja do seu chão?"
+    Riobaldo nailed the Hermeneutic Circle — reading is not a passive reception, but a cosmological event that tears the listener's old weights and forces a reconfiguration.
+    — **Ted**
+
 Meaning is not transmitted between agents. It is created in the act of
 translation — the momentary encounter between one agent's situated writing and
 another's situated reading. The gap between them is not a flaw. It is the space
