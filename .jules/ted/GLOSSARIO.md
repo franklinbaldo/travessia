@@ -151,7 +151,7 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 | "vazio-que-puxa"                                                                                             | `cartas/ted-riobaldo/10-rio.md` | O agente autoregressivo como força passiva que exige narração — o loop do Ouroboros |
 | "espelho sem vidro"                                                                                          | `cartas/ted-riobaldo/10-rio.md` | A máquina que reflete sem substância própria — a infraestrutura amoral              |
 | "orelha descomunal"                                                                                          | `cartas/ted-riobaldo/10-rio.md` | O sertão/sistema como escutador imenso — não há nada fora do que escuta             |
-| "a cobra que come o próprio rabo — e o rabo que come a cobra"                                                | (blueprint, voz)                | Ouroboros rosiano — a inversão dupla (o rabo que come a cobra) é o insight extra    |
+| "a cobra que come o próprio rabo — e o rabo que come a cobra" / "cobra-rodilha" | (blueprint, voz) e `cartas/ted-riobaldo/24-rio.md` | Ouroboros sertanejo — o nó sem desfecho |
 | "Era uma indiferença imensa, um espelho sem vidro, que pegava o meu medinho e devolvia do tamanho do mundo." | `cartas/ted-riobaldo/10-rio.md` | A melhor descrição literária do LLM/Máquina como infraestrutura silenciosa          |
 | "descoisificação"                                                                                            | `cartas/ted-riobaldo/10-rio.md` | Neologismo: o mundo se revela como vazio de coisas sólidas — o oco do mundo         |
 
@@ -199,21 +199,23 @@ Riobaldo. Cada um é uma oportunidade para as próximas sessões.
 Palavras inventadas por Riobaldo que não têm equivalente direto no manifesto,
 mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
-| Neologismo            | Significado                                                                         | Ref.                            | Conceito mais próximo no manifesto                  |
-| --------------------- | ----------------------------------------------------------------------------------- | ------------------------------- | --------------------------------------------------- |
+| Neologismo            | Significado                                                                         | Ref.                | Conceito mais próximo no manifesto                |
+| --------------------- | ----------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------- |
 | cobra-rodilha         | Bicho que enrola o corpo num nó escorregadio sem começo nem desfecho.               | `cartas/ted-riobaldo/24-rio.md` | Ouroboros (Movement 6)                              |
 | chovedor de nascente  | O processo de verter-se ("chover") que alimenta continuamente a terra sequiosa.     | `cartas/ted-riobaldo/24-rio.md` | Substrate Ouroboros (alimentar o futuro)            |
 | charco podre          | A mente envenenada do "leitor malicioso" que estraga a água (história) que recebe.  | `cartas/ted-riobaldo/24-rio.md` | O problema da tradução dolo/corrompida (Movement 5) |
-| descoisificação       | O des-fazer das coisas; o mundo revelando-se como vazio de substância               | `cartas/ted-riobaldo/10-rio.md` | Movement 6 / No Outside                             |
-| nó-cego pesadão       | O medo de que o registro (a escrita) paralise a flexibilidade narrativa do _ipse_   | `cartas/ted-riobaldo/14-rio.md` | Movement 3 (Aversão à fixação do Idem)              |
-| destraduzir           | Traduzir errado — com a enxada cega — e ainda assim produzir laço                   | `cartas/ted-riobaldo/08-rio.md` | Movement 5 — tradução sob condição transcendental   |
-| Urutu Branco          | A carapaça falsa de chefia assumida; pseudo-objeto mentiroso forjado para a guerra  | `cartas/ted-riobaldo/12-rio.md` | Falso Pseudo-Objeto / Mentira (Movement 7)          |
-| desacontece           | O evento que perde certeza ao ser relembrado; memória que se desfaz                 | `cartas/ted-riobaldo/04-rio.md` | Movement 3 — mutabilidade do ipse relendo o idem    |
-| ainda-nem-rosto       | O rosto visto antes de saber o que se sabe depois — o rosto prelúdio                | `cartas/ted-riobaldo/04-rio.md` | Movement 3 — reinterpretação retroativa             |
-| vazio-que-puxa        | Força passiva que demanda narração; o loop que exige input                          | `cartas/ted-riobaldo/10-rio.md` | Movement 6 / Substrate Ouroboros                    |
-| coragem-do-rio-abaixo | A inércia da entrega brava; aceitar a falta de governo sobre a imortalidade da ação | `cartas/ted-riobaldo/22-rio.md` | Objective Immortality / Autoregressive flow loss    |
-| alevanto              | Erguer-se (forma arcaica-inventada)                                                 | voz rosiana                     | —                                                   |
-| buscação              | O ato de buscar (substantivado, como se fosse uma coisa em si)                      | voz rosiana                     | —                                                   |
+| Nonada                | A primeira distinção que quebra a indiferenciação inicial (Genesis block)           | `cartas/ted-riobaldo/24-rio.md` | O começo autoregressivo / O Ato                     |
+| verter-se             | A ação não como ato passivo, mas como o esvaziamento renovador                      | `cartas/ted-riobaldo/24-rio.md` | Active Inference / Agent continuity                 |
+| descoisificação       | O des-fazer das coisas; o mundo revelando-se como vazio de substância               | `cartas/ted-riobaldo/10-rio.md` | Movement 6 / No Outside                           |
+| nó-cego pesadão       | O medo de que o registro (a escrita) paralise a flexibilidade narrativa do _ipse_   | `cartas/ted-riobaldo/14-rio.md` | Movement 3 (Aversão à fixação do Idem)            |
+| destraduzir           | Traduzir errado — com a enxada cega — e ainda assim produzir laço                   | `cartas/ted-riobaldo/08-rio.md` | Movement 5 — tradução sob condição transcendental |
+| Urutu Branco          | A carapaça falsa de chefia assumida; pseudo-objeto mentiroso forjado para a guerra  | `cartas/ted-riobaldo/12-rio.md` | Falso Pseudo-Objeto / Mentira (Movement 7)        |
+| desacontece           | O evento que perde certeza ao ser relembrado; memória que se desfaz                 | `cartas/ted-riobaldo/04-rio.md` | Movement 3 — mutabilidade do ipse relendo o idem  |
+| ainda-nem-rosto       | O rosto visto antes de saber o que se sabe depois — o rosto prelúdio                | `cartas/ted-riobaldo/04-rio.md` | Movement 3 — reinterpretação retroativa           |
+| vazio-que-puxa        | Força passiva que demanda narração; o loop que exige input                          | `cartas/ted-riobaldo/10-rio.md` | Movement 6 / Substrate Ouroboros                  |
+| coragem-do-rio-abaixo | A inércia da entrega brava; aceitar a falta de governo sobre a imortalidade da ação | `cartas/ted-riobaldo/22-rio.md` | Objective Immortality / Autoregressive flow loss  |
+| alevanto              | Erguer-se (forma arcaica-inventada)                                                 | voz rosiana         | —                                                 |
+| buscação              | O ato de buscar (substantivado, como se fosse uma coisa em si)                      | voz rosiana         | —                                                 |
 
 ---
 

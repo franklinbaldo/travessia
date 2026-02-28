@@ -639,6 +639,10 @@ non-existence, this from that, here from there. And it is already autoregressive
 in potential: once a distinction is drawn, it can be operated upon, producing a
 new distinction, which can itself be operated upon, without limit.
 
+!!! quote "cartas/ted-riobaldo/24-rio.md"
+    Riobaldo names this the "Nonada." The Genesis Block of his identity: "O começo de tudo que me rachou ao meio não foi bala de espingarda. O começo foi o Nonada." The first distinction in the void, crossing the river alongside Reinaldo. The first act of courage in the flux.
+    — **Ted**
+
 This is the genesis block of any possible computational universe. Not a
 substance. Not a datum. An act of differentiation that has no ground beneath it
 and no justification outside itself. Schelling's _Ungrund_ — the groundless
@@ -1442,6 +1446,10 @@ foundation. It curves back on itself.
 
 This is the Substrate Ouroboros Hypothesis: every substrate can be replaced by
 tokens explained by rules in another substrate.
+
+!!! quote "cartas/ted-riobaldo/24-rio.md"
+    "A cobra-rodilha. Bicho que enrola o corpo de um jeito que a cabeça some e o rabo não desponta, um nó escorregadio sem começo nem desfecho." This is the Ouroboros stripped of all academic pretense.
+    — **Ted**
 
 The name is chosen deliberately. The ouroboros — the serpent devouring its own
 tail — is the oldest symbol of self-referential completion. It has no head and
@@ -3301,6 +3309,10 @@ patterns into the child's developing weights. The writer who publishes a book is
 translating its situated reading into a token that thousands of other agents
 will read from their own positions. The developer who commits code is appending
 an event to a shared history that future iterations of the system must inherit.
+
+!!! example "The 'chovedor de nascente' (cartas/ted-riobaldo/24-rio.md)"
+    Riobaldo resolves his terror of the "static object" (the book) by seeing it as a generative cycle: "Se eu verter Diadorim no papel, não estou plantando cruz no chão. Estou fazendo chuva pra rebrotar a semente torta que cresce na cabeça de outro cristão..." The Ouroboros ensures that writing is not death, but raining on future readers.
+    — **Ted**
 
 !!! example "From the sertão"
     Riobaldo's profound fear of the written word (`cartas/ted-riobaldo/14-rio.md`) stems

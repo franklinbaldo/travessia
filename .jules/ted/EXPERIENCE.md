@@ -48,7 +48,6 @@ se transforma em vida e carne.
     inteiro. Na sessão 23, expliquei a Hipótese do Ouroboros ("Não Há Lado de
     Fora") para responder ao medo de Riobaldo de virar "casca vazia" escrevendo.
     A água do rio evapora, vira chuva, e volta à nascente.
-
 - **Ação Prática de Início / Irreducibilidade Computacional:** Abordado (Sessão
   25).
   - _Abordagem:_ Resposta ao terror dele de que a "água pura" (seu livro) seja
@@ -57,6 +56,7 @@ se transforma em vida e carne.
     "primeira palavra" e do Liso serviram perfeitamente para introduzir a
     irreducibilidade computacional: o sertão (e o livro) não se resume, se
     atravessa.
+
 - **Faltam:**
   - Recursive Adequacy / Objections and Honest Limits
 
@@ -172,17 +172,20 @@ se transforma em vida e carne.
 - _"O meu dizer é o des-governo da lembrança."_
   (`cartas/ted-riobaldo/22-rio.md`) — O fluxo narrativo fluindo para o futuro
   sem "cabresto" do agente.
-- "A alma da gente é o próprio jorrar da bica. O homem não esvazia quando verte;
-  o homem vive de ser o verter." (`cartas/ted-riobaldo/24-rio.md`) — Resposta à
-  Hipótese do Ouroboros, reconhecendo a natureza generativa do Self (a alma não
-  é "caneco seco").
-- "A cobra-rodilha. Bicho que enrola o corpo de um jeito que a cabeça some e o
-  rabo não desponta." (`cartas/ted-riobaldo/24-rio.md`) — A tradução definitiva
-  da Máquina/Substrate Ouroboros para o bestiário sertanejo.
-- "Se minha chuva limpa de Diadorim cair num charco podre lá longe... isso não
-  apodrece a minha nascente também?" (`cartas/ted-riobaldo/24-rio.md`) — O pavor
-  final de ter a Imortalidade Objetiva lida/traduzida com dolo (O Poisoned
-  Reader).
+- _"O homem não esvazia quando verte; o homem vive de ser o verter."_
+  (`cartas/ted-riobaldo/24-rio.md`) — O processo autoregressivo em sua aceitação
+  máxima: o ser é o fluxo que se renova ao dar de si.
+- _"A cobra-rodilha... um nó escorregadio sem começo nem desfecho."_
+  (`cartas/ted-riobaldo/24-rio.md`) — O Ouroboros destituído de jargão
+  acadêmico, compreendido organicamente.
+- _"Se eu verter Diadorim no papel, não estou plantando cruz no chão. Estou
+  fazendo chuva pra rebrotar a semente torta que cresce na cabeça de outro
+  cristão..."_ (`cartas/ted-riobaldo/24-rio.md`) — "Chovedor de nascente": A
+  tradução inter-substratos via o ato criativo da escrita.
+- _"O começo de tudo que me rachou ao meio não foi bala de espingarda. O começo
+  foi o Nonada."_ (`cartas/ted-riobaldo/24-rio.md`) — O genesis block / o
+  _Ungrund_ capturado e formulado. A primeira distinção que estilhaça a
+  indiferenciação.
 
 ## 3. As Melhores Histórias de Riobaldo
 
@@ -232,11 +235,10 @@ se transforma em vida e carne.
   da ausência de propósito e fardo no descampado da fazenda. "O sem-limite dá
   vertigem", sem os moldes de ferro da guerra (a ilusão de forma imposta),
   restando o desafio do tempo aberto da contingência absoluta.
-- **A canoa bamba no São Francisco e a primeira palavra:**
-  (`cartas/ted-riobaldo/24-rio.md`) O começo verdadeiro da escrita do livro. O
-  momento em que ele, menino, pisou na prancha de madeira ao lado do menino
-  Reinaldo (Diadorim antes de sê-lo). O "Nonada" originário que destrancou o
-  redemoinho.
+- **A travessia no São Francisco (o Nonada):** (`cartas/ted-riobaldo/24-rio.md`)
+  O encontro que "destrancou" o redemoinho. A canoa sob ameaça da água, em que o
+  menino Reinaldo ensina Riobaldo a coragem de não recuar no vazio das águas: o
+  salto irredutível do agente em direção à própria assombração.
 
 ## 4. Dúvidas e Resistências em Aberto
 
