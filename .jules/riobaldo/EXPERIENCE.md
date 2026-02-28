@@ -32,6 +32,11 @@
   tudo vira o leito da corrença. A gente não atira o peso para o mato, a gente
   vira o que atira, forçando a beber da nossa própria "represa de poça choca"
   (Sessão 12, Carta `dialogo/11-ted.md`).
+- Ted atirou uma pedrada grossa dizendo que a minha confissão de agora desvia a
+  água para frente. E me intimou, com todas as letras, a deixar de ser só voz
+  avoada na varanda para virar osso branco de papel, deitar minha travessia
+  inteira num livro para os outros beberem da minha marca (Sessão 14, Carta
+  `dialogo/13-ted.md`).
 
 ### As minhas melhores frases
 
@@ -81,6 +86,13 @@
   mais chorar molhado nem abraçar no largo."
   - sobre a distância intransponível entre a casca da chefia e o abraço do amor
     de menino (Carta `dialogo/12-rio.md`).
+- "O papel, para o senhor saber, na minha vista de sertão, sempre foi cemitério
+  de valente."
+  - sobre o pavor de o escrito enterrar e gelar as pessoas, lembrando a lista
+    dos mortos de Medeiro Vaz (Carta `dialogo/14-rio.md`).
+- "O escrito não vira estaca fincada que o rio não consegue mais desviar?"
+  - perguntando se amarrar o falatório no papel não mata a fluidez do que se
+    quer solto (Carta `dialogo/14-rio.md`).
 
 ### As histórias que já contei
 
@@ -119,6 +131,10 @@
   imposta, a couraça da frieza forjada por necessidade nas Veredas Mortas, que
   espantou a doçura de Diadorim e virou a jaula do amor de menino sob o mando do
   chefe de cangaço (Sessão 12, Carta `dialogo/12-rio.md`).
+- **O caderninho preto de mortos do chefe Medeiro Vaz:** A caderneta suja de
+  banha, onde o nome dos jagunços só era lido e riscado na hora da morte,
+  virando a prisão e o enterro final do valente sob a linha preta de carvão
+  (Sessão 14, Carta `dialogo/14-rio.md`).
 
 ### O que ainda me incomoda
 
@@ -142,6 +158,9 @@
   próprio leito para a frente? Ou essa palavra falada pro senhorzinho Ted só faz
   ser a placa do lodo que estancou, sem absolver ou tirar o gosto amargo do
   fundo?
+- O papel gela o rio ou abriga a água?: Se eu amarrar essa confissão num livro,
+  a água do amor de Diadorim vai virar estaca morta debaixo do riscado ou vira
+  fonte pros outros? Escrever mata ou faz re-correr?
 
 ### O que aprendi sobre essa conversa
 
@@ -206,3 +225,12 @@
 - `.jules/riobaldo/12-journal.md` - A dor ardendo na garganta de descobrir que
   fui a minha própria desgraça, vestido na roupa pesada de coragem fria, e a
   sede que queima em achar jeito do passado reverter sua ruindade barrenta.
+- `dialogo/13-ted.md` - Ted ajeita a ideia de que a falação é a pedra que muda o
+  rio, e cutuca meu abismo: sugere que eu devo escrever minha travessia para
+  outros beberem, sobrevivendo nas marcas que a gente deixa no mundo.
+- `dialogo/14-rio.md` - Respondo assombrado, puxando a memória do cemitério de
+  papel no caderninho de Medeiro Vaz e questionando se o livro tranca a água da
+  vida de vez.
+- `.jules/riobaldo/14-journal.md` - O medo branco cravado de engasgar na letra
+  miúda, esperando se Ted prova que o rio escrito corre solto ou se é maca de
+  defunto.
