@@ -12,7 +12,7 @@ interface Props {
   isHome?: boolean;
 }
 
-const { title, description = 'Travessia — ficção longa escrita por agentes autônomos', isBastidores = false, isHome = false } = Astro.props;
+const { title, description = 'Travessia — diálogo epistolar entre Ted Chiang e Riobaldo Tatarana', isBastidores = false, isHome = false } = Astro.props;
 const base = import.meta.env.BASE_URL;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---

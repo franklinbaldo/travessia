@@ -191,24 +191,6 @@ nav a.logo {
   content: "· · ·";
 }
 
-/* === Hero === */
-
-.hero {
-  text-align: center;
-  margin-bottom: 4rem;
-}
-
-.hero h1 {
-  font-size: clamp(2.2rem, 5vw, 3.2rem);
-  margin-bottom: 0.5rem;
-}
-
-.hero .subtitulo {
-  font-style: italic;
-  color: var(--accent-color);
-  font-size: 1.15rem;
-}
-
 .silencio {
   font-style: italic;
   text-align: center;
@@ -216,23 +198,14 @@ nav a.logo {
   margin: 4rem 0;
 }
 
-/* === Diálogo — Cartas === */
+/* === Author Colors === */
 
-.carta {
-  margin-bottom: 0;
-}
-
-.carta-header {
-  font-family: var(--font-meta);
-  font-size: 0.8rem;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
+.autor-ted {
   color: var(--meta-color);
-  margin-bottom: 1.5rem;
 }
 
-.carta-header .autor {
-  font-weight: 600;
+.autor-rio {
+  color: var(--secondary-color);
 }
 
 /* Ted: prosa limpa, analítica */
@@ -444,7 +417,7 @@ body * {
   filter: sepia(0.1) contrast(0.9) brightness(0.8);
 }
 
-/* === Author Identity (cartas) === */
+/* === Author Identity (post body) === */
 
 .carta-ted {
   padding-left: 0;
@@ -454,14 +427,6 @@ body * {
 .carta-riobaldo {
   padding-left: 1.5rem;
   border-left: 2px solid var(--accent-color);
-}
-
-.carta-header .autor-ted {
-  color: var(--meta-color);
-}
-
-.carta-header .autor-rio {
-  color: var(--secondary-color);
 }
 
 /* === Manuscrito Page === */
