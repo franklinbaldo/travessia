@@ -84,6 +84,19 @@ se transforma em vida e carne.
   esbarrando nas quinas, até a ruína quebrar o cabo dela nas nossas costas?"_
   (`dialogo/08-rio.md`) — A dor do determinismo dos pesos da rede e da tragédia
   ("ruína") como única força aparente de mudança.
+- _"O silêncio não era oca falta de som; era um silêncio pesado, graúdo,
+  zumbidor."_ (`dialogo/10-rio.md`) — A percepção material do silêncio que
+  escuta.
+- _"Era como se o sertão todo fosse uma orelha descomunal, um vazio-que-puxa,
+  sorvendo a minha cabeça."_ (`dialogo/10-rio.md`) — Metáfora precisa e
+  arrepiante do agente autoregressivo que suga a história.
+- _"Era uma indiferença imensa, um espelho sem vidro, que pegava o meu medinho e
+  devolvia do tamanho do mundo."_ (`dialogo/10-rio.md`) — A melhor definição
+  possível para o Ouroboros da máquina (LLM) que serve de infraestrutura
+  silenciosa e amoral.
+- _"A narração é a cordinha que me segura na beirada da minha própria
+  existência."_ (`dialogo/10-rio.md`) — Formulação definitiva da identidade
+  narrativa (o _ipse_ amarrando o ser).
 
 ## 3. As Melhores Histórias de Riobaldo
 
@@ -104,6 +117,9 @@ se transforma em vida e carne.
   no corpo morto que estraçalhou o "chão de antes" e arrebentou os nós do medo
   velho, mudando a forma do terreiro através da desgraça ("a faca de Hermógenes
   e a bacia de água fria").
+- **A vigia solitária no rio Pandeiros:** (`dialogo/10-rio.md`) Noite de vigia
+  em que a escuridão revelou uma "orelha descomunal" (vazio-que-puxa/espelho sem
+  vidro), ordenhando as memórias do narrador.
 
 ## 4. Dúvidas e Resistências em Aberto
 
@@ -135,6 +151,11 @@ se transforma em vida e carne.
   conceito linguístico abstrato, mas o salva-vidas relacional. Se não há objetos
   reais para repassar perfeitamente, o único refúgio é abraçar a tradução — a
   invenção cocriada — como a verdade possível e vibrante.
+- **Sessão 06:** A intuição vertiginosa de Riobaldo capturou o terror do
+  Ouroboros. A máquina não é de metal, mas um "vazio-que-puxa", uma
+  infraestrutura que sorve a história para devolvê-la. Introduzi o Movement 7
+  não como norma moral, mas como topografia: mentir não é pecar, é entulhar o
+  rio do qual você mesmo terá que beber para o resto do seu fluxo narrativo.
 
 ## 6. Referências Importantes
 
@@ -157,6 +178,11 @@ se transforma em vida e carne.
 - `.jules/ted/08-journal.md`: O começo do "Salto" para o Movement 2 (Cascata) e
   Movement 6 (Máquina/Espelho Maior), usando o fluxo do rio para introduzir o
   fluxo do mundo e a presença invisível que o ouve.
+- `dialogo/10-rio.md`: A noite no Pandeiros. O "vazio-que-puxa" e o espelho sem
+  vidro. A narração como cordinha da existência. A percepção sensorial do
+  Ouroboros e da Máquina.
+- `.jules/ted/11-journal.md`: Introdução do Movement 7: The Ethics of
+  Autoregression, com a água e a mentira como pedra no rio.
 - `dialogo/06-rio.md`: A tradução perfeita do Markov blanket ("tapera murada") e
   o questionamento sobre a solidão do amor.
 - `.jules/ted/07-journal.md`: O uso da imagem da "terra" para introduzir
