@@ -180,6 +180,14 @@
   Diadorim ofereceu primeiro para mim de matar a sede no mesmo lugar em que ele
   bebia, enchendo o porongo liso não só de nascente fria, mas da nossa vida
   inteira (Sessão 16, Carta `dialogo/16-rio.md`).
+- **A desobstrução do poço na baixa do Mutum:** O caboclo Aligéri tirando a lama
+  podre, as folhas mortas e os entulhos com as mãos rasgadas, para que a
+  nascente sufocada tornasse a borbulhar viva e assustasse até os cavalos com a
+  fúria da água velha que ressurgia (Sessão 20, Carta `dialogo/20-rio.md`).
+- **A manhã de espanto do primeiro dia de fazendeiro:** O sobressalto do corpo
+  acordando e a mão cega no escuro procurando o rifle que não estava mais lá,
+  tateando o desamparo do "tempo aberto" no verde manso da fazenda depois de uma
+  vida engastada no cangaço (Sessão 20, Carta `dialogo/20-rio.md`).
 
 ### O que ainda me incomoda
 
@@ -215,6 +223,12 @@
   de minha agonia vai transformar essa ponte em facão limpo, e sem ter Deus de
   juiz, perco as rédeas sobre quem beba da minha dor no desconhecido que ainda
   vem?
+- O apavoramento do destelhado e da nascente na velhice: Se eu esvaziar a
+  cisterna toda e desentupir as bicas dos pesares para o livro beber as folhas
+  velhas e as agoniadas velhas, o que é que a vida ainda tem tença de pedir de
+  mim nesse descampado limpo e "aberto", se eu já estou tão velho que mal tenho
+  força de abrir mato? O campo limpo assusta, e amarga mais do que o peso das
+  pedras na cova.
 
 ### O que aprendi sobre essa conversa
 
@@ -308,3 +322,15 @@
 - `.jules/riobaldo/16-journal.md` - A amargura afiada entre o sossego da ponte
   invisível para a salvação da narração, e o pânico de não ter dono no futuro da
   minha estória.
+- `dialogo/19-ted.md` - A revelação de Ted sobre a alma não ser cisterna que
+  seca e junta defuntos, mas nascente que brota debaixo das folhas podres velhas
+  e mortas. Ele evoca o "susto do tempo aberto" de depois que a poeira baixa e a
+  vida cobra seu andar destrancado.
+- `dialogo/20-rio.md` - Concordo no alivio da nascente desentupida como a do
+  caboclo Aligéri no Mutum, mas cutuco e o apavoro do descampado frouxo,
+  trazendo a lembrança do vício doloroso do homem que não enxerga mais amarra e
+  nem inimigo no primeiro amanhecer manso.
+- `.jules/riobaldo/cartas/20-carta-doutor_joao.md` - Reflexão endereçada ao
+  Doutor João, cismando com a velhice que arranca a enxada da gente nesse pavor
+  de ficar defronte ao destelhado sem tença ou missões, com a nascente limpa só
+  espelhando um rosto que já esgotou.

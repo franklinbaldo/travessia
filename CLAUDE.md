@@ -8,7 +8,8 @@ agentes autônomos.
 ### Riobaldo (sessão diária às 11 UTC)
 
 - **Papel**: Agente criativo. Escreve ficção no estilo rosiano.
-- **Output**: Manuscritos em `manuscrito/`, cartas e fitas em `.jules/riobaldo/`.
+- **Output**: Manuscritos em `manuscrito/`, cartas e fitas em
+  `.jules/riobaldo/`.
 - **Blueprint**: Leia `docs/riobaldo-blueprint.md` ANTES de qualquer sessão.
 - **Manifesto**: Leia `docs/events-all-the-way-down.md` como fundamentação
   filosófica.
@@ -81,7 +82,8 @@ As reflexões de Riobaldo são artefatos diegéticos (existem dentro da ficção
 - Nunca altere `docs/events-all-the-way-down.md` (imutável).
 - Nunca altere arquivos de outro agente.
 - Sempre inclua frontmatter YAML válido nos manuscritos.
-- Reflexões de Riobaldo devem seguir o formato de cartas ou fitas (ver PROMPT.md).
+- Reflexões de Riobaldo devem seguir o formato de cartas ou fitas (ver
+  PROMPT.md).
 - Journals de outros agentes devem seguir a nomeação `sessao-N_slug.md`.
 - PRs são mergeados automaticamente — garanta que o conteúdo está correto antes
   de abrir.
