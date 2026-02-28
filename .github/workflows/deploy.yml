@@ -5,11 +5,11 @@ on:
     branches:
       - main
     paths:
-      - 'site/**'
-      - 'dialogo/**'
-      - 'manuscrito/**'
-      - '.jules/riobaldo/**'
-      - '.jules/ted/**'
+      - "site/**"
+      - "dialogo/**"
+      - "manuscrito/**"
+      - ".jules/riobaldo/**"
+      - ".jules/ted/**"
 
 permissions:
   contents: read
@@ -30,9 +30,9 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
-          cache: 'npm'
-          cache-dependency-path: 'site/package-lock.json'
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: "site/package-lock.json"
 
       - name: Install dependencies
         run: npm ci
@@ -70,7 +70,7 @@ jobs:
       - name: Upload Artifacts (Site)
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './site/dist'
+          path: "./site/dist"
 
       - name: Upload Artifacts (Manuscript)
         uses: actions/upload-artifact@v4

@@ -1,0 +1,4 @@
+site/dist/
+site/.astro/
+node_modules/
+*.lock

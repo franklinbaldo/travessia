@@ -1,0 +1,25 @@
+#!/bin/sh
+
+# Run prettier on staged files
+STAGED_FILES=$(git diff --cached --name-only --diff-filter=ACMR | grep -E '\.(md|json|yml|yaml|js|ts|astro|css)$')
+
+if [ -z "$STAGED_FILES" ]; then
+  exit 0
+fi
+
+# Check if prettier is available
+if ! npx prettier --version > /dev/null 2>&1; then
+  echo "prettier not found. Run 'npm install' first."
+  exit 1
+fi
+
+echo "Running prettier on staged files..."
+
+# Check formatting
+echo "$STAGED_FILES" | xargs npx prettier --check 2>&1
+
+if [ $? -ne 0 ]; then
+  echo ""
+  echo "Prettier check failed. Run 'npm run format' to fix formatting."
+  exit 1
+fi
