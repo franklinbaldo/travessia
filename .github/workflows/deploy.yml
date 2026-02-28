@@ -1,6 +1,7 @@
 name: Deploy Site
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -10,6 +11,7 @@ on:
       - "manuscrito/**"
       - ".jules/riobaldo/**"
       - ".jules/ted/**"
+      - ".github/workflows/deploy.yml"
 
 permissions:
   contents: read
