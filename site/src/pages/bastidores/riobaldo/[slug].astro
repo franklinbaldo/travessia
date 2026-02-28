@@ -1,9 +1,9 @@
 ---
 import { getCollection, render } from 'astro:content';
-import Layout from '../../layouts/Layout.astro';
+import Layout from '../../../layouts/Layout.astro';
 
 export async function getStaticPaths() {
-  const entradas = await getCollection('bastidores');
+  const entradas = await getCollection('bastidores-riobaldo');
   return entradas.map(entry => ({
     params: { slug: entry.id },
     props: { entry },
@@ -15,10 +15,10 @@ const { Content } = await render(entry);
 
 ---
 
-<Layout title={`Bastidor: ${entry.id} | Travessia`} isBastidores={true}>
+<Layout title={`Riobaldo: ${entry.id} | Travessia`} isBastidores={true}>
   <article class="bastidores-content">
     <header style="margin-bottom: 2rem; border-bottom: 2px solid var(--accent-color); padding-bottom: 1rem;">
-      <h1 style="font-size: 2rem; color: var(--accent-color);">Journal: {entry.id}</h1>
+      <h1 style="font-size: 2rem; color: var(--accent-color);">Riobaldo — {entry.id}</h1>
     </header>
 
     <div style="font-size: 1.1rem; line-height: 1.6;">

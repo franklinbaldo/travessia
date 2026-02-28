@@ -16,11 +16,21 @@ const manuscritoCollection = defineCollection({
   }),
 });
 
-const bastidoresCollection = defineCollection({
+const bastidoresRiobaldoCollection = defineCollection({
   loader: glob({ pattern: '**/*.md', base: path.join(__dirname, '../../../.jules/riobaldo') }),
+});
+
+const bastidoresTedCollection = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: path.join(__dirname, '../../../.jules/ted') }),
+});
+
+const docsCollection = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: path.join(__dirname, '../../../docs') }),
 });
 
 export const collections = {
   'manuscrito': manuscritoCollection,
-  'bastidores': bastidoresCollection,
+  'bastidores-riobaldo': bastidoresRiobaldoCollection,
+  'bastidores-ted': bastidoresTedCollection,
+  'docs': docsCollection,
 };

@@ -1,0 +1,28 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const entradas = await getCollection('docs');
+  return entradas.map(entry => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+---
+
+<Layout title={`${entry.id} | Travessia`} isBastidores={true}>
+  <article class="bastidores-content">
+    <div style="font-size: 1.1rem; line-height: 1.6;">
+      <Content />
+    </div>
+  </article>
+
+  <nav class="footer-nav">
+    <a href={`${import.meta.env.BASE_URL}`}>&larr; Início</a>
+  </nav>
+</Layout>

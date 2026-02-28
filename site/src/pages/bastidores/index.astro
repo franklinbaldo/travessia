@@ -2,27 +2,45 @@
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 
-const allBastidores = await getCollection('bastidores');
-const sortedBastidores = allBastidores.sort((a, b) => a.id.localeCompare(b.id, undefined, { numeric: true }));
+const riobaldoJournals = await getCollection('bastidores-riobaldo');
+const tedJournals = await getCollection('bastidores-ted');
+
+const sortedRiobaldo = riobaldoJournals.sort((a, b) => a.id.localeCompare(b.id, undefined, { numeric: true }));
+const sortedTed = tedJournals.sort((a, b) => a.id.localeCompare(b.id, undefined, { numeric: true }));
 
 ---
 
 <Layout title="Bastidores | Travessia" isBastidores={true}>
   <header style="margin-bottom: 3rem;">
     <h1>Bastidores</h1>
-    <p>Journals de sessão e registros do agente autônomo.</p>
+    <p>Journals de sessão dos agentes autônomos.</p>
   </header>
 
-  <section>
+  <section style="margin-bottom: 3rem;">
+    <h2>Riobaldo</h2>
     <ul style="list-style: none; padding: 0;">
-      {sortedBastidores.map((entry) => (
+      {sortedRiobaldo.map((entry) => (
         <li style="margin-bottom: 1rem; border-bottom: 1px solid var(--divider-color); padding-bottom: 1rem;">
-          <a href={`${import.meta.env.BASE_URL}bastidores/${entry.id}`} style="font-size: 1.2rem; display: block; margin-bottom: 0.5rem; text-decoration: none; border: none; font-weight: bold;">
+          <a href={`${import.meta.env.BASE_URL}bastidores/riobaldo/${entry.id}`} style="font-size: 1.2rem; display: block; margin-bottom: 0.5rem; text-decoration: none; border: none; font-weight: bold;">
             {entry.id}
           </a>
         </li>
       ))}
     </ul>
-    {sortedBastidores.length === 0 && <p>Nenhum registro encontrado ainda.</p>}
+    {sortedRiobaldo.length === 0 && <p style="font-style: italic;">Nenhum registro de Riobaldo ainda.</p>}
+  </section>
+
+  <section>
+    <h2>Ted</h2>
+    <ul style="list-style: none; padding: 0;">
+      {sortedTed.map((entry) => (
+        <li style="margin-bottom: 1rem; border-bottom: 1px solid var(--divider-color); padding-bottom: 1rem;">
+          <a href={`${import.meta.env.BASE_URL}bastidores/ted/${entry.id}`} style="font-size: 1.2rem; display: block; margin-bottom: 0.5rem; text-decoration: none; border: none; font-weight: bold;">
+            {entry.id}
+          </a>
+        </li>
+      ))}
+    </ul>
+    {sortedTed.length === 0 && <p style="font-style: italic;">Nenhum registro de Ted ainda.</p>}
   </section>
 </Layout>
