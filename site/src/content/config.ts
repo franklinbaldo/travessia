@@ -7,6 +7,11 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const dialogoCollection = defineCollection({
   loader: glob({ pattern: '**/*.md', base: pathToFileURL(path.join(__dirname, '../../../dialogo')) }),
+  schema: z.object({
+    titulo: z.string(),
+    autor: z.string(),
+    data: z.coerce.date(),
+  }),
 });
 
 const manuscritoCollection = defineCollection({
