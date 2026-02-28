@@ -1,13 +1,21 @@
-name: Jules Sessions — Travessia
+name: Travessia — Sessions
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      # Only content agents trigger the chain — design agents don't loop back
+      - ".jules/ted/**"
+      - ".jules/riobaldo/**"
   schedule:
-    # Executa a cada 30 minutos, alternando Ted e Riobaldo
-    - cron: "*/30 * * * *"
+    # Watchdog: restarts a stalled chain. Daily cap prevents doubling up
+    # when the chain is healthy. Runs every hour as a safety net.
+    - cron: "0 * * * *"
   workflow_dispatch:
     inputs:
       agent:
-        description: "Agente a executar (auto = alternância automática)"
+        description: "Agent to run (auto = next in rotation)"
         required: false
         default: "auto"
         type: choice
@@ -15,12 +23,36 @@ on:
           - auto
           - ted
           - riobaldo
+          - craig
+      force:
+        description: "Bypass daily cap"
+        default: "false"
+        type: boolean
+
+# ─── Configuration ────────────────────────────────────────────────────────────
+#
+# CONTENT_AGENTS: space-separated list, in alternation order.
+#   To add a content agent: append name here, add push path above,
+#   and create .jules/<agent>/PROMPT.md.
+#
+# DESIGN_AGENTS: one entry per line, format "agent:ratio".
+#   ratio = trigger every N content sessions.
+#   To add a design agent: append a line here and create .jules/<agent>/PROMPT.md.
+#
+# DAILY_CAP: max content sessions per day (guards both push and watchdog runs).
+#
+# ──────────────────────────────────────────────────────────────────────────────
+env:
+  CONTENT_AGENTS: "ted riobaldo"
+  DESIGN_AGENTS: |
+    craig:4
+  DAILY_CAP: "6"
 
 permissions:
   contents: read
 
 jobs:
-  create-session:
+  session:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -28,111 +60,204 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Determinar próximo agente
-        id: agent
+      - name: Check guards
+        id: guard
         run: |
-          # Se o input manual especifica um agente, usar esse
-          INPUT_AGENT="${{ github.event.inputs.agent }}"
-          if [ -n "$INPUT_AGENT" ] && [ "$INPUT_AGENT" != "auto" ]; then
-            echo "name=$INPUT_AGENT" >> "$GITHUB_OUTPUT"
-            echo "Agente forçado manualmente: $INPUT_AGENT"
+          # Manual dispatch always bypasses guards
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Manual dispatch. Bypassing guards."
+            echo "skip=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
 
-          # Alternância automática: verificar o último arquivo em cartas/ted-riobaldo/
-          LAST_FILE=$(ls -1 cartas/ted-riobaldo/*.md 2>/dev/null | grep -v '.gitkeep' | sort -V | tail -1)
+          # Daily cap: count .md files added today across content agent dirs
+          TODAY=$(date -u +%Y-%m-%d)
+          TODAY_SESSIONS=$(git log --since="${TODAY}T00:00:00Z" \
+            --diff-filter=A --name-only --format="" \
+            -- ".jules/ted/*.md" ".jules/riobaldo/**/*.md" \
+            | grep -c '\.md$' || echo 0)
 
-          if [ -z "$LAST_FILE" ]; then
-            # Nenhum diálogo ainda — Ted começa
-            echo "name=ted" >> "$GITHUB_OUTPUT"
-            echo "Nenhum diálogo encontrado. Ted começa."
-            exit 0
-          fi
-
-          LAST_BASENAME=$(basename "$LAST_FILE")
-          echo "Último arquivo de diálogo: $LAST_BASENAME"
-
-          if echo "$LAST_BASENAME" | grep -qi "ted"; then
-            echo "name=riobaldo" >> "$GITHUB_OUTPUT"
-            echo "Último turno foi de Ted. Próximo: Riobaldo."
+          echo "Sessions today: ${TODAY_SESSIONS} / ${DAILY_CAP}"
+          if [ "$TODAY_SESSIONS" -ge "$DAILY_CAP" ]; then
+            echo "Daily cap reached. Skipping."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
           else
-            echo "name=ted" >> "$GITHUB_OUTPUT"
-            echo "Último turno foi de Riobaldo. Próximo: Ted."
+            echo "skip=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Ler PROMPT.md do agente
-        id: prompt
+      - name: Count total content sessions
+        id: count
+        if: steps.guard.outputs.skip != 'true'
         run: |
-          AGENT="${{ steps.agent.outputs.name }}"
-          PROMPT_FILE=".jules/${AGENT}/PROMPT.md"
+          # Use the highest session number (numeric prefix) found across all
+          # content agent directories, including subdirs (cartas/, fitas/, etc.).
+          MAX_SESSION=0
+          for agent in $CONTENT_AGENTS; do
+            DIR=".jules/$agent"
+            [ ! -d "$DIR" ] && continue
 
+            NUMS=$(find "$DIR" -name "*.md" ! -name ".gitkeep" \
+              | xargs -I{} basename {} \
+              | grep -oP '^\d+' \
+              | sort -nu)
+
+            for num in $NUMS; do
+              n=$((10#$num))
+              [ $n -gt $MAX_SESSION ] && MAX_SESSION=$n
+            done
+          done
+
+          echo "total=$MAX_SESSION" >> "$GITHUB_OUTPUT"
+          echo "Total content sessions: $MAX_SESSION"
+
+      - name: Determine next content agent
+        id: agent
+        if: steps.guard.outputs.skip != 'true'
+        run: |
+          MANUAL="${{ github.event.inputs.agent }}"
+
+          # Explicit non-auto manual override
+          if [ -n "$MANUAL" ] && [ "$MANUAL" != "auto" ]; then
+            echo "name=$MANUAL" >> "$GITHUB_OUTPUT"
+            # Flag whether this is a design agent so content step can skip
+            if echo "$DESIGN_AGENTS" | grep -q "^${MANUAL}:"; then
+              echo "is_design=true" >> "$GITHUB_OUTPUT"
+            else
+              echo "is_design=false" >> "$GITHUB_OUTPUT"
+            fi
+            echo "Manual override: $MANUAL"
+            exit 0
+          fi
+
+          # Auto: pick the content agent with the lowest max session number.
+          # Uses numeric prefix of filenames across all subdirs so Riobaldo's
+          # cartas/ and fitas/ are counted correctly.
+          AGENTS=($CONTENT_AGENTS)
+          MIN_MAX=999999
+          NEXT="${AGENTS[0]}"
+
+          for agent in "${AGENTS[@]}"; do
+            DIR=".jules/$agent"
+            MAX=0
+            if [ -d "$DIR" ]; then
+              NUMS=$(find "$DIR" -name "*.md" ! -name ".gitkeep" \
+                | xargs -I{} basename {} \
+                | grep -oP '^\d+' \
+                | sort -nu 2>/dev/null || true)
+              for num in $NUMS; do
+                n=$((10#$num))
+                [ $n -gt $MAX ] && MAX=$n
+              done
+            fi
+            echo "  $agent: max session $MAX"
+            if [ "$MAX" -lt "$MIN_MAX" ]; then
+              MIN_MAX=$MAX
+              NEXT=$agent
+            fi
+          done
+
+          echo "name=$NEXT" >> "$GITHUB_OUTPUT"
+          echo "is_design=false" >> "$GITHUB_OUTPUT"
+          echo "Next content agent: $NEXT"
+
+      - name: Launch content session
+        if: >-
+          steps.guard.outputs.skip != 'true' &&
+          steps.agent.outputs.is_design != 'true'
+        env:
+          JULES_API_KEY: ${{ secrets.JULES_API_KEY }}
+          REPO: ${{ github.repository }}
+          AGENT: ${{ steps.agent.outputs.name }}
+          TOTAL: ${{ steps.count.outputs.total }}
+        run: |
+          PROMPT_FILE=".jules/${AGENT}/PROMPT.md"
           if [ ! -f "$PROMPT_FILE" ]; then
-            echo "::error::Arquivo $PROMPT_FILE não encontrado!"
+            echo "ERROR: $PROMPT_FILE not found."
             exit 1
           fi
 
-          echo "Lendo prompt de: $PROMPT_FILE"
+          SESSION_NUM=$(printf "%03d" $(( TOTAL + 1 )))
+          TITLE="Travessia — ${AGENT} #${SESSION_NUM}"
 
-          # Usar delimitador heredoc para output multiline
-          {
-            echo "content<<PROMPT_EOF"
-            cat "$PROMPT_FILE"
-            echo ""
-            echo "PROMPT_EOF"
-          } >> "$GITHUB_OUTPUT"
-
-      - name: Determinar número do turno e título
-        id: meta
-        run: |
-          AGENT="${{ steps.agent.outputs.name }}"
-
-          # Contar arquivos existentes em cartas/ted-riobaldo/ para determinar o próximo número
-          LAST_NUM=$(ls -1 cartas/ted-riobaldo/*.md 2>/dev/null | grep -v '.gitkeep' | sed 's/.*\///' | sed 's/-.*//' | sort -n | tail -1)
-          if [ -z "$LAST_NUM" ]; then
-            NEXT_NUM="01"
-          else
-            # Remover zeros à esquerda para aritmética, depois formatar de volta
-            NEXT_NUM=$(printf "%02d" $((10#$LAST_NUM + 1)))
-          fi
-
-          # Nome legível do personagem
-          if [ "$AGENT" = "ted" ]; then
-            CHAR_NAME="Ted Chiang"
-          else
-            CHAR_NAME="Riobaldo Tatarana"
-          fi
-
-          TITLE="Travessia #${NEXT_NUM} — ${CHAR_NAME} (${AGENT}-${NEXT_NUM})"
-          echo "turn=$NEXT_NUM" >> "$GITHUB_OUTPUT"
-          echo "title=$TITLE" >> "$GITHUB_OUTPUT"
-          echo "Título da sessão: $TITLE"
-
-      - name: Criar sessão Jules
-        env:
-          PROMPT_CONTENT: ${{ steps.prompt.outputs.content }}
-          JULES_API_KEY: ${{ secrets.JULES_API_KEY }}
-          REPO: ${{ github.repository }}
-          SESSION_TITLE: ${{ steps.meta.outputs.title }}
-        run: |
           jq -n \
-            --arg prompt "$PROMPT_CONTENT" \
+            --rawfile prompt "$PROMPT_FILE" \
             --arg source "sources/github/$REPO" \
-            --arg title "$SESSION_TITLE" \
+            --arg title "$TITLE" \
             '{
               prompt: $prompt,
               sourceContext: {
                 source: $source,
-                githubRepoContext: {
-                  startingBranch: "main"
-                }
+                githubRepoContext: { startingBranch: "main" }
               },
               automationMode: "AUTO_CREATE_PR",
               title: $title
             }' > /tmp/payload.json
 
           curl 'https://jules.googleapis.com/v1alpha/sessions' \
-            -X POST \
-            --fail-with-body \
+            -X POST --fail-with-body \
             -H "Content-Type: application/json" \
             -H "x-goog-api-key: $JULES_API_KEY" \
             -d @/tmp/payload.json
+
+          echo "Content session created: $TITLE"
+
+      - name: Launch design sessions
+        if: steps.guard.outputs.skip != 'true'
+        env:
+          JULES_API_KEY: ${{ secrets.JULES_API_KEY }}
+          REPO: ${{ github.repository }}
+          TOTAL: ${{ steps.count.outputs.total }}
+          FORCE: ${{ github.event.inputs.force }}
+          FORCED_AGENT: ${{ github.event.inputs.agent }}
+        run: |
+          while IFS=':' read -r agent ratio; do
+            [ -z "$agent" ] && continue
+
+            echo "── $agent (every $ratio sessions) ──────────────────"
+
+            SHOULD_RUN=false
+
+            if [ "$FORCED_AGENT" = "$agent" ] || [ "$FORCE" = "true" ]; then
+              SHOULD_RUN=true
+              echo "  Forced."
+            elif [ "$TOTAL" -gt 0 ] && [ $(( TOTAL % ratio )) -eq 0 ]; then
+              SHOULD_RUN=true
+              echo "  Count $TOTAL is a multiple of $ratio. Triggering."
+            else
+              REMAINING=$(( ratio - (TOTAL % ratio) ))
+              echo "  Count $TOTAL. Next trigger in $REMAINING session(s). Skipping."
+            fi
+
+            if [ "$SHOULD_RUN" = "true" ]; then
+              PROMPT_FILE=".jules/$agent/PROMPT.md"
+              if [ ! -f "$PROMPT_FILE" ]; then
+                echo "  ERROR: $PROMPT_FILE not found. Skipping $agent."
+                continue
+              fi
+
+              SESSION_NUM=$(printf "%03d" $(( TOTAL / ratio )))
+              TITLE="Travessia — ${agent} #${SESSION_NUM}"
+
+              jq -n \
+                --rawfile prompt "$PROMPT_FILE" \
+                --arg source "sources/github/$REPO" \
+                --arg title "$TITLE" \
+                '{
+                  prompt: $prompt,
+                  sourceContext: {
+                    source: $source,
+                    githubRepoContext: { startingBranch: "main" }
+                  },
+                  automationMode: "AUTO_CREATE_PR",
+                  title: $title
+                }' > /tmp/payload-${agent}.json
+
+              curl 'https://jules.googleapis.com/v1alpha/sessions' \
+                -X POST --fail-with-body \
+                -H "Content-Type: application/json" \
+                -H "x-goog-api-key: $JULES_API_KEY" \
+                -d @/tmp/payload-${agent}.json
+
+              echo "  Design session created: $TITLE"
+            fi
+          done <<< "$DESIGN_AGENTS"
