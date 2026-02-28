@@ -21,6 +21,7 @@ jobs:
         run: gh pr review ${{ github.event.pull_request.number }} --approve --repo ${{ github.repository }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
 
       - name: Merge PR
         run: gh pr merge ${{ github.event.pull_request.number }} --merge --repo ${{ github.repository }}
