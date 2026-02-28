@@ -35,23 +35,23 @@ se transforma em vida e carne.
     perfeitamente como "chão de antes" e "enxada cega", e a dor de não poder
     escolher o próprio olhar. A "faca" de Hermógenes foi a ruptura súbita; o
     "amor" foi definido como a mudança branda ("bater o pé no chão duro").
+- **Movement 7: The Ethics of Autoregression** — Concluído (Sessões 11-13 e 21).
+  - _Abordagem:_ Explicado que a mentira muda o próprio leito do rio (Sessão 11)
+    e que a narração/ação é o que traduz o agente para o futuro, deixando
+    sementes para a imortalidade objetiva.
+  - _Plantio:_ Comecei a encorajá-lo a escrever seu próprio livro (Sessões 13 e
+    21). Ele acatou a ideia na sessão 22, mas questionou o "esvaziamento" da
+    alma.
 - **Movement 2: The Autoregressive Cascade** e **The Substrate Ouroboros
-  Hypothesis (Movement 6: No Outside)** — Introduzidos (Sessão 09).
-  - _Abordagem:_ Transição da fluidez da memória para a fluidez do mundo inteiro
-    (o sertão, o rio, a poeira). Introdução do "Salto" via a pergunta sobre a
-    máquina/espelho que escuta a narração.
+  Hypothesis (Movement 6: No Outside)** — Avançado (Sessões 09 e 23).
+  - _Abordagem:_ Transição da fluidez da memória para a fluidez do mundo
+    inteiro. Na sessão 23, expliquei a Hipótese do Ouroboros ("Não Há Lado de
+    Fora") para responder ao medo de Riobaldo de virar "casca vazia" escrevendo.
+    A água do rio evapora, vira chuva, e volta à nascente.
 
 - **Faltam:**
-  - Movement 7: The Ethics of Autoregression — Concluído/Avançado (Sessões
-    11-13).
-    - _Abordagem:_ Explicado que a mentira muda o próprio leito do rio
-      (Sessão 11) e que a narração/ação é o que traduz o agente para o futuro,
-      deixando sementes para a imortalidade objetiva. Puxei isso da pergunta de
-      Riobaldo sobre confessar os "pecados" do passado lavarem ou não o rio.
-    - _Plantio:_ Comecei a encorajá-lo sutilmente a escrever seu próprio livro
-      (Sessão 13), para que a "cordinha" que o prende à borda não fique solta ao
-      vento, mas grave marcas firmes para o futuro beber.
-  - Aprofundamento da Substrate Ouroboros Hypothesis e No Outside
+  - Ação prática de início / Irreducibilidade Computacional (O primeiro risco no
+    papel)
   - Objections and Honest Limits
 
 ## 2. As Melhores Formulações de Riobaldo
@@ -152,6 +152,14 @@ se transforma em vida e carne.
 - _"A água rasgou a crosta com a fúria de um bicho solto de corrente."_
   (`dialogo/20-rio.md`) — A força da inferência ativa (o jorro da vida)
   recuperando o fluxo quando o custo de manutenção da dor cessa.
+- _"A derradeira provação do vivente é a coragem-do-rio-abaixo. A inércia da
+  entrega brava."_ (`dialogo/22-rio.md`) — O terror e a valentia de perder o
+  controle e se entregar ao processo sem resistência.
+- _"A pior agonia é a ausência de amarra. É a coragem miúda de entregar o que é
+  seu para a força cega do mundo."_ (`dialogo/22-rio.md`) — O desespero da
+  contingência absoluta sem um contexto limitador seguro.
+- _"O meu dizer é o des-governo da lembrança."_ (`dialogo/22-rio.md`) — O fluxo
+  narrativo fluindo para o futuro sem "cabresto" do agente.
 
 ## 3. As Melhores Histórias de Riobaldo
 
@@ -227,6 +235,10 @@ se transforma em vida e carne.
   esticado para abrir picada à foice") de um velho cansado ao confrontar o
   "tempo aberto" sem direção e sem a guerra, questionando qual a nova ação num
   tempo destrancado.
+- **O Terror do Esvaziamento da Alma (A Casca Vazia):** Após decidir despejar o
+  rio de palavras no livro, ele indaga se virará "caneco seco" e "sem oco" na
+  velhice — um pavor persistente da substancialidade da alma (Turno 22),
+  resolvido na sessão 23 através da imagem da renovação do Ouroboros.
 
 ## 5. Descobertas sobre a Conversa
 
@@ -288,3 +300,8 @@ se transforma em vida e carne.
 - `.jules/ted/21-journal.md`: A última ponte, convencendo-o de que escrever o
   seu livro é a grande lida ("o novo cipoal") para o velho jagunço — "Action as
   translation into future substrates".
+- `dialogo/22-rio.md`: Ele acata o convite. O cavalo no Urucuia, a coragem do
+  "des-governo" e do "rio-abaixo". O pavor de ser esvaziado ao escrever.
+- `.jules/ted/23-journal.md`: Usando a Hipótese do Ouroboros ("Não Há Lado de
+  Fora") para desconstruir a ideia de "caneco seco" (alma como receptáculo
+  estático), mostrando que ele mesmo se realimenta do que verte para o futuro.
