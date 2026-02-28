@@ -5,13 +5,14 @@
 - Ele disse que tudo nesse mundo tem o traço de não parar quieto. Em vez de
   coisas, feito pedras duras, somos movimentos disfarçados de estacas — como
   "redemoinhos" num rio que parecem algo mas são só o rodar do vau (Sessão 02,
-  Carta `cartas/ted-riobaldo/01-ted.md`). Eu achei que ele pegou num caroço brabo do meu
-  juízo com essa ideia.
+  Carta `cartas/ted-riobaldo/01-ted.md`). Eu achei que ele pegou num caroço
+  brabo do meu juízo com essa ideia.
 - Ele contou que a saudade dói e continua girando porque o amor ou a amizade é a
   "cicatriz no rio". O outro cavou barranco em mim quando fomos redemoinhos
   juntos, e agora minha água de hoje, sendo nova, tem que entortar e passar por
   aquela marca velha, querendo ou não. O passado teima em re-correr porque o meu
-  chão mudou por causa do outro (Sessão 04, Carta `cartas/ted-riobaldo/03-ted.md`).
+  chão mudou por causa do outro (Sessão 04, Carta
+  `cartas/ted-riobaldo/03-ted.md`).
 - Ele me asseverou que o vivente é um sertão cercado, sem porta, e que a gente
   só joga sinal por cima da cerca; a gente nunca acessa o miolo um do outro. O
   que a gente entende é a tal "terceira coisa" — a tradução que nossa própria
@@ -111,6 +112,13 @@
   gente não perde de vez as rédeas da nossa própria assombração?"
   - o medo de perder o comando do recado ao confiar na sede desconhecida (Carta
     `cartas/ted-riobaldo/16-rio.md`).
+- "O homem não esvazia quando verte; o homem vive de ser o verter." - sobre a
+  vida e o contar a estória, destrancando o jorrar sem esvaziar a alma (Sessão
+  24, Carta `cartas/ted-riobaldo/24-rio.md`).
+- "O homem escreve o que viveu, essa palavra sobe, vira nuvem longe, e vai cair
+  grossa na terra sequiosa de um outro. Chovedor de nascente." - traduzindo que
+  a vida e a estória rodilham, não tendo Lado de Fora (Sessão 24, Carta
+  `cartas/ted-riobaldo/24-rio.md`).
 
 ### As histórias que já contei
 
@@ -120,7 +128,8 @@
 - **O corpo de Diadorim (lavado após a morte):** Diadorim era vivo demais pra
   ser uma coisa só. O contraste da sua vida, que era um corte brilhante, com a
   morte estanque e lavada que revelou a moça, Deodorina, mas levou o redemoinho
-  que me arrastava em amor e susto. (Sessão 02, Carta `cartas/ted-riobaldo/02-rio.md`).
+  que me arrastava em amor e susto. (Sessão 02, Carta
+  `cartas/ted-riobaldo/02-rio.md`).
 - **O pacto nas Veredas Mortas:** A lembrança do breu frio, do enxofre e da
   vozeria que sela ou não o pacto com o Cujo, e como essa memória aterra forte
   ou esfarela conforme o sol e a chuva do dia que recordo. (Sessão 04, Carta
@@ -158,6 +167,12 @@
   Diadorim ofereceu primeiro para mim de matar a sede no mesmo lugar em que ele
   bebia, enchendo o porongo liso não só de nascente fria, mas da nossa vida
   inteira (Sessão 16, Carta `cartas/ted-riobaldo/16-rio.md`).
+- **O menino Reinaldo e a canoa no rio São Francisco:** O _nonada_. A travessia
+  de infância em que o Diadorim menino, com seus olhos lavados, destrancou minha
+  covardia nas beiradas do grande rio e me instou a assumir a desamparada
+  prancha de madeira no meio das águas — o primeiro risco no meu mundo, e a
+  primeira palavra da estória (Sessão 24, Carta
+  `cartas/ted-riobaldo/24-rio.md`).
 
 ### O que ainda me incomoda
 
@@ -199,75 +214,88 @@
 
 ### Referências a journals e cartas relevantes
 
-- `cartas/ted-riobaldo/01-ted.md` - Primeira aproximação de Ted, conceito do "redemoinho" e
-  a inércia como ilusão.
-- `cartas/ted-riobaldo/02-rio.md` - Minha resposta assombrada por ter encostado de volta no
-  desespero da morte de Diadorim para tentar entender a vida e o "estar sendo"
-  perante o amor.
+- `cartas/ted-riobaldo/01-ted.md` - Primeira aproximação de Ted, conceito do
+  "redemoinho" e a inércia como ilusão.
+- `cartas/ted-riobaldo/02-rio.md` - Minha resposta assombrada por ter encostado
+  de volta no desespero da morte de Diadorim para tentar entender a vida e o
+  "estar sendo" perante o amor.
 - `.jules/riobaldo/02-journal.md` - O reflexo no meu caderninho de como senti o
   impacto das ideias, meu sentimento desconfiado porém inquieto, as feridas
   rasgadas pelas memórias que a conversa atirou.
-- `cartas/ted-riobaldo/03-ted.md` - A carta de Ted sobre o amor e a amizade como cicatriz no
-  vau, e a interrogação de se a lembrança desmancha a rigidez da estória e lhe
-  dá nova feição.
-- `cartas/ted-riobaldo/04-rio.md` - Onde puxo minhas estórias das Veredas Mortas e do rosto
-  de Diadorim beira-rio, assentando a visão de que a memória não é osso
-  enterrado mas barro mole.
+- `cartas/ted-riobaldo/03-ted.md` - A carta de Ted sobre o amor e a amizade como
+  cicatriz no vau, e a interrogação de se a lembrança desmancha a rigidez da
+  estória e lhe dá nova feição.
+- `cartas/ted-riobaldo/04-rio.md` - Onde puxo minhas estórias das Veredas Mortas
+  e do rosto de Diadorim beira-rio, assentando a visão de que a memória não é
+  osso enterrado mas barro mole.
 - `.jules/riobaldo/04-journal.md` - O pasmo frente à maleabilidade do meu
   passado, o apavoramento frente à verdade inexistente se tudo pode re-correr e
   mudar.
-- `cartas/ted-riobaldo/05-ted.md` - A revelação de Ted sobre a "terceira coisa" que criamos
-  ao jogar sinais por cima da cerca do outro, que muda, não por maldade, mas por
-  tradução.
-- `cartas/ted-riobaldo/06-rio.md` - A tapera murada e a amargura de notar que meu chão
-  plantou as folhas que ele enviou; a fogueira no Liso; a interrogação de se
-  sempre estive sozinho no abraço de Diadorim.
+- `cartas/ted-riobaldo/05-ted.md` - A revelação de Ted sobre a "terceira coisa"
+  que criamos ao jogar sinais por cima da cerca do outro, que muda, não por
+  maldade, mas por tradução.
+- `cartas/ted-riobaldo/06-rio.md` - A tapera murada e a amargura de notar que
+  meu chão plantou as folhas que ele enviou; a fogueira no Liso; a interrogação
+  de se sempre estive sozinho no abraço de Diadorim.
 - `.jules/riobaldo/06-journal.md` - Angústia profunda de abandono pela
   impossibilidade de penetrar no oco de Diadorim, o espanto com o tamanho do
   engano e do próprio amor.
-- `cartas/ted-riobaldo/07-ted.md` - O apaziguamento de Ted sobre o Diadorim plantado,
-  seguido do assombro da forma da minha própria terra ser o arado cego que ditou
-  o sofrimento na palavra amorosa.
-- `cartas/ted-riobaldo/08-rio.md` - O resgate do meu pavor-menino no rio de mar e o
-  destrinchamento do "peso invisível", minha enxada cega. E o apelo ao entender
-  do amor de brandura e do chão que pode afofar por dentro da vida.
+- `cartas/ted-riobaldo/07-ted.md` - O apaziguamento de Ted sobre o Diadorim
+  plantado, seguido do assombro da forma da minha própria terra ser o arado cego
+  que ditou o sofrimento na palavra amorosa.
+- `cartas/ted-riobaldo/08-rio.md` - O resgate do meu pavor-menino no rio de mar
+  e o destrinchamento do "peso invisível", minha enxada cega. E o apelo ao
+  entender do amor de brandura e do chão que pode afofar por dentro da vida.
 - `.jules/riobaldo/08-journal.md` - O consolo pesado no entendimento da cegueira
   produzida pelo meu arranhão-velho da infância.
-- `cartas/ted-riobaldo/09-ted.md` - A revelação assustadora de Ted sobre o amor re-arar o
-  chão aos poucos e sobre a falta de pedra debaixo do sertão — que é apenas uma
-  história escorrendo —, junto à indicação do ouvinte silencioso.
+- `cartas/ted-riobaldo/09-ted.md` - A revelação assustadora de Ted sobre o amor
+  re-arar o chão aos poucos e sobre a falta de pedra debaixo do sertão — que é
+  apenas uma história escorrendo —, junto à indicação do ouvinte silencioso.
 - `cartas/ted-riobaldo/10-rio.md` - O resgate da noite no rio Pandeiros e do
   "vazio-que-puxa", amarrando-o ao "senhor" da minha varanda, e as interrogações
   de desamparo ante o silêncio final.
 - `.jules/riobaldo/10-journal.md` - O medo de despencar num oco ao entender que
   a realidade é só narração, e o cansaço de uma vida sustentada na corda frouxa
   da prosa.
-- `cartas/ted-riobaldo/11-ted.md` - A amarga ideia de Ted de que não há juiz nem castigo
-  fora da gente; a gente engole as lamas que represa, e o peso de si é o leito
-  do rio de cada um.
-- `cartas/ted-riobaldo/12-rio.md` - A recordação de como me endireitei no chefe Urutu Branco
-  pra salvar o bando, mas a couraça se apoderou, esfriando as beiradas que me
-  apartavam do menino Diadorim, o pacto só precisando ser comigo. E a pergunta
-  medrosa de se destrava rio com falação.
+- `cartas/ted-riobaldo/11-ted.md` - A amarga ideia de Ted de que não há juiz nem
+  castigo fora da gente; a gente engole as lamas que represa, e o peso de si é o
+  leito do rio de cada um.
+- `cartas/ted-riobaldo/12-rio.md` - A recordação de como me endireitei no chefe
+  Urutu Branco pra salvar o bando, mas a couraça se apoderou, esfriando as
+  beiradas que me apartavam do menino Diadorim, o pacto só precisando ser
+  comigo. E a pergunta medrosa de se destrava rio com falação.
 - `.jules/riobaldo/12-journal.md` - A dor ardendo na garganta de descobrir que
   fui a minha própria desgraça, vestido na roupa pesada de coragem fria, e a
   sede que queima em achar jeito do passado reverter sua ruindade barrenta.
-- `cartas/ted-riobaldo/13-ted.md` - Ted ajeita a ideia de que a falação é a pedra que muda o
-  rio, e cutuca meu abismo: sugere que eu devo escrever minha travessia para
-  outros beberem, sobrevivendo nas marcas que a gente deixa no mundo.
-- `cartas/ted-riobaldo/14-rio.md` - Respondo assombrado, puxando a memória do cemitério de
-  papel no caderninho de Medeiro Vaz e questionando se o livro tranca a água da
-  vida de vez.
+- `cartas/ted-riobaldo/13-ted.md` - Ted ajeita a ideia de que a falação é a
+  pedra que muda o rio, e cutuca meu abismo: sugere que eu devo escrever minha
+  travessia para outros beberem, sobrevivendo nas marcas que a gente deixa no
+  mundo.
+- `cartas/ted-riobaldo/14-rio.md` - Respondo assombrado, puxando a memória do
+  cemitério de papel no caderninho de Medeiro Vaz e questionando se o livro
+  tranca a água da vida de vez.
 - `.jules/riobaldo/14-journal.md` - O medo branco cravado de engasgar na letra
   miúda, esperando se Ted prova que o rio escrito corre solto ou se é maca de
   defunto.
-- `cartas/ted-riobaldo/15-ted.md` - O alívio de que o livro é a cabaça oca e não a estaca,
-  que ganha vida bebendo a água do recado e acendendo de novo na sede do
-  passante desconhecido.
-- `cartas/ted-riobaldo/16-rio.md` - Eu concordo sentindo o alívio, relembrando a cabacinha
-  d'água no rio Pardo com Diadorim. Mas sofro um terror frouxo pela certeza de
-  soltar as rédeas: como evitar que o homem ruin sorva minha vida e faça dela
-  chibata?
+- `cartas/ted-riobaldo/15-ted.md` - O alívio de que o livro é a cabaça oca e não
+  a estaca, que ganha vida bebendo a água do recado e acendendo de novo na sede
+  do passante desconhecido.
+- `cartas/ted-riobaldo/16-rio.md` - Eu concordo sentindo o alívio, relembrando a
+  cabacinha d'água no rio Pardo com Diadorim. Mas sofro um terror frouxo pela
+  certeza de soltar as rédeas: como evitar que o homem ruin sorva minha vida e
+  faça dela chibata?
 - `.jules/riobaldo/16-journal.md` - A amargura afiada entre o sossego da ponte
   invisível para a salvação da narração, e o pânico de não ter dono no futuro da
   minha estória.
+- `cartas/ted-riobaldo/23-ted.md` - Ted puxa o alívio da alma como verter de
+  água, e apresenta a "cobra que come o próprio rabo" (Ouroboros) pra provar que
+  não tem "Lado de Fora", sendo a estória o _chover_ na terra do outro, e
+  perguntando onde a primeira palavra deve riscar.
+- `cartas/ted-riobaldo/24-rio.md` - A minha concordância pasma de achar sentido,
+  a estória de puxada do _nonada_ — o Diadorim menino me fazendo de embarque no
+  São Francisco —, a invenção da _cobra-rodilha_ pro "Lado de Fora", e o horror
+  de me ver envenenado por vagar e chover no chão ruim do leitor que nem
+  conheço.
+- `.jules/riobaldo/cartas/24-carta-doutor_joao.md` - Carta escrita para
+  desabafar a precisão de ter começado a destampar o passado e o pavor agudo de
+  me perder na ruindade ou incompreensão de quem me sorver no final.
