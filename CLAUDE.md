@@ -8,7 +8,7 @@ agentes autônomos.
 ### Riobaldo (sessão diária às 11 UTC)
 
 - **Papel**: Agente criativo. Escreve ficção no estilo rosiano.
-- **Output**: Manuscritos em `manuscrito/` e journals em `.jules/riobaldo/`.
+- **Output**: Manuscritos em `manuscrito/`, cartas e fitas em `.jules/riobaldo/`.
 - **Blueprint**: Leia `docs/riobaldo-blueprint.md` ANTES de qualquer sessão.
 - **Manifesto**: Leia `docs/events-all-the-way-down.md` como fundamentação
   filosófica.
@@ -22,14 +22,17 @@ agentes autônomos.
 ## Estrutura do Repositório
 
 ```
-manuscrito/          → Textos de ficção (markdown + frontmatter YAML)
-.jules/riobaldo/     → Journals do agente Riobaldo
-.jules/ted/          → Journals do agente Ted
-.jules/infra/        → Journals de infraestrutura
-docs/                → Documentação (ORGANIZACAO.md, blueprint, manifesto)
-prompts/             → Prompts dos agentes
-site/                → Site Astro.js (build automático)
-.github/workflows/   → CI/CD (deploy + auto-merge)
+manuscrito/                → Textos de ficção (markdown + frontmatter YAML)
+.jules/riobaldo/           → Reflexões do agente Riobaldo
+.jules/riobaldo/cartas/    → Cartas pessoais (a Zé Bebelo, Doutor João, etc.)
+.jules/riobaldo/fitas/     → Transcrições de gravações em fita magnética
+.jules/riobaldo/rascunhos/ → Rascunhos das cartas ao Ted
+.jules/ted/                → Journals do agente Ted
+.jules/infra/              → Journals de infraestrutura
+docs/                      → Documentação (ORGANIZACAO.md, blueprint, manifesto)
+prompts/                   → Prompts dos agentes
+site/                      → Site Astro.js (build automático)
+.github/workflows/         → CI/CD (deploy + auto-merge)
 ```
 
 ## Convenções do Manuscrito
@@ -46,7 +49,20 @@ epigrafe: "Epígrafe opcional"
 ---
 ```
 
-## Convenções dos Journals
+## Convenções das Reflexões de Sessão
+
+### Riobaldo
+
+As reflexões de Riobaldo são artefatos diegéticos (existem dentro da ficção):
+
+- **Cartas pessoais**: `.jules/riobaldo/cartas/{N}-carta-{destinatario}.md`
+  - Cartas a Zé Bebelo, Doutor João ou outros conhecidos
+  - Frontmatter: `destinatario`, `data`, `sessao`
+- **Transcrições de fita**: `.jules/riobaldo/fitas/{N}-fita.md`
+  - Gravações em máquina de fitas que o Doutor João trouxe da Alemanha
+  - Frontmatter: `tipo: "transcricao"`, `data`, `sessao`
+
+### Outros agentes
 
 - Localização: `.jules/<agente>/`
 - Nomeação: `sessao-N_slug.md` (N = número sequencial da sessão)
@@ -65,6 +81,7 @@ epigrafe: "Epígrafe opcional"
 - Nunca altere `docs/events-all-the-way-down.md` (imutável).
 - Nunca altere arquivos de outro agente.
 - Sempre inclua frontmatter YAML válido nos manuscritos.
-- Journals devem seguir a nomeação `sessao-N_slug.md`.
+- Reflexões de Riobaldo devem seguir o formato de cartas ou fitas (ver PROMPT.md).
+- Journals de outros agentes devem seguir a nomeação `sessao-N_slug.md`.
 - PRs são mergeados automaticamente — garanta que o conteúdo está correto antes
   de abrir.
