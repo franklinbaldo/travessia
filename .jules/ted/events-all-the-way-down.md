@@ -2336,7 +2336,14 @@ internal states. The translation must cross the blanket, and crossing the
 blanket is the act of inference — of B's generative model guessing what _caused_
 the sensory input it received. Communication is Bayesian inference across a
 Markov blanket, which is to say: communication is translation, exactly as the
-framework claims.
+framework claims.[^rio-006-blanket]
+
+[^rio-006-blanket]:
+    Riobaldo's exact translation of the Markov blanket in `dialogo/06-rio.md`:
+    "O outro é tapera de porta murada. A gente não entra. A gente só apanha a
+    folha que o vento de lá joga por cima da cerca." This should absolutely be
+    used in the novel. The walled ruin ("tapera") captures both the isolation
+    and the ruin of substance.
 
 But here is where the framework diverges from Quine, and where the deepest
 insight of these notes emerges. Quine treated indeterminacy as a problem — a
@@ -2358,6 +2365,13 @@ does not belong to either party. It exists _between_ them — in the space of
 encounter, in the dialogue itself. It cannot be extracted from the relation and
 preserved as a free-standing object, because it was never an object. It was an
 event.
+
+!!! example "The false jealousy on the Sussuarão" In `dialogo/06-rio.md`,
+Riobaldo recounts how a misunderstanding of Diadorim's words led to a deep
+jealousy, which in turn forged a bond of mutual protection in battle. The
+meaning of their connection — the "terceira coisa" — did not originate in the
+truth of the transmission, but entirely in the mistranslation. The "error" was
+the root of the love. "O mal-entendido rendeu mais raiz que a verdade inteira."
 
 Inter-agent communication in this framework is I-Thou, not I-It. The token that
 passes between agents is not an object carrying meaning. It is an _occasion_ for

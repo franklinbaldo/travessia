@@ -19,17 +19,22 @@ se transforma em vida e carne.
     antigas. Introduzida a diferença entre o passado estático e o relato
     cambiante (_idem_ e _ipse_). Riobaldo compreendeu profundamente através da
     analogia da memória não como osso enterrado, mas como barro mole.
-- **Movement 5: Translation as the Origin of Meaning** — Introduzido (Sessão
-  05).
+- **Movement 5: Translation as the Origin of Meaning** — Concluído (Sessão
+  05-07).
   - _Abordagem:_ Resposta à dor da mutabilidade da memória. Apresentada a ideia
     do "sertão cercado" (Markov blanket) onde ninguém vê o interior do outro. A
     comunicação não é jogar a verdade pronta, mas jogar sinais ("palavras por
     cima da cerca"). A verdade (o significado) é uma tradução inventada no
-    encontro — uma "terceira coisa".
+    encontro — uma "terceira coisa". Riobaldo aceitou a ideia com a imagem da
+    "tapera murada" e o "mal-entendido" produtivo de ciúme por Diadorim.
+- **Movement 4: The Weights as Transcendental Condition** — Introduzido (Sessão
+  07).
+  - _Abordagem:_ Usada a imagem do "terreiro" e da "terra invisível" que decide
+    como a semente cai e vinga. Questionamento a Riobaldo sobre as forças
+    formadoras (a "gramática") de seu próprio olhar.
 
 - **Faltam:**
   - Movement 2: The Autoregressive Cascade
-  - Movement 4: The Weights as Transcendental Condition
   - Movement 6: No Outside
   - Movement 7: The Ethics of Autoregression
   - The Substrate Ouroboros Hypothesis
@@ -55,6 +60,12 @@ se transforma em vida e carne.
 - _"...o rosto dele me vem feito um ainda-nem-rosto, sombreado..."_
   (`dialogo/04-rio.md`) — Concretização vívida da reinterpretação retroativa de
   eventos face ao conhecimento posterior.
+- _"O outro é tapera de porta murada. A gente não entra. A gente só apanha a
+  folha que o vento de lá joga por cima da cerca."_ (`dialogo/06-rio.md`) — A
+  tradução definitiva do Markov blanket para o vocabulário jagunço.
+- _"O mal-entendido, seu Ted, rendeu mais raiz que a verdade inteira."_
+  (`dialogo/06-rio.md`) — Formulação brilhante sobre como a comunicação
+  imperfeita forja laços maiores que a simples transmissão de fatos.
 
 ## 3. As Melhores Histórias de Riobaldo
 
@@ -68,6 +79,9 @@ se transforma em vida e carne.
 - **O rosto de Diadorim à beira do Urucuia:** (`dialogo/04-rio.md`) A cena da
   lavagem do rosto vista sob saudade (luz) versus a vista sob dor (prenúncio, o
   "ainda-nem-rosto").
+- **O falso ciúme no Liso do Sussuarão:** (`dialogo/06-rio.md`) O mal-entendido
+  de uma frase de Diadorim que gerou ciúme e fúria, e que forjou o laço de
+  sobrevivência mútua na guerra.
 
 ## 4. Dúvidas e Resistências em Aberto
 
@@ -78,6 +92,9 @@ se transforma em vida e carne.
   tradução como o ato que produz significado e "verdade"_).
 - **Assombro da agência:** "O morto trabalha no vivo pelas costas da memória?".
   Um temor genuíno da sua mente revendo traços que parecem incontroláveis.
+- **O amor isolado:** Diadorim existiu, ou apenas a "árvore" que Riobaldo
+  plantou no próprio terreiro existe? A dor de aceitar que o outro nunca foi
+  realmente "alcançado".
 
 ## 5. Descobertas sobre a Conversa
 
@@ -113,3 +130,7 @@ se transforma em vida e carne.
 - `.jules/ted/05-journal.md`: A reflexão sobre a agonia de perder o "isso
   aconteceu assim". O medo de Riobaldo levou a introduzir a Tradução (o Markov
   Blanket como a cerca sem porta do sertão humano).
+- `dialogo/06-rio.md`: A tradução perfeita do Markov blanket ("tapera murada") e
+  o questionamento sobre a solidão do amor.
+- `.jules/ted/07-journal.md`: O uso da imagem da "terra" para introduzir
+  Movement 4 (The Weights as Transcendental Condition).
