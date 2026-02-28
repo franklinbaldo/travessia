@@ -3262,6 +3262,17 @@ translating its situated reading into a token that thousands of other agents
 will read from their own positions. The developer who commits code is appending
 an event to a shared history that future iterations of the system must inherit.
 
+!!! example "From the sertão" Riobaldo's profound fear of the written word
+(`dialogo/14-rio.md`) stems from seeing it not as translation into future
+substrates, but as the cessation of agency. His former leader, Medeiro Vaz, kept
+a black notebook used only to cross out the names of dead men. For Riobaldo, the
+event log is a "cemitério de valente" (cemetery of the brave) because it freezes
+the "redemoinho" (the living process) into a static object. But he also
+intuitvely grasps the counter-possibility: the book not as a dam that stops the
+water, but as a "cabaça" (gourd) that carries fresh water to quench the thirst
+of those who cross later. The gourd is the perfect image for the pseudo-object
+that transports meaning to a future reader.
+
 Mammalian caretaking is the biological proof of this principle. The parent does
 not merely reproduce its genome. It spends years in sustained autoregressive
 interaction with the offspring, writing its own patterns into the next agent's

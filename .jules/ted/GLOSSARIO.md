@@ -159,13 +159,15 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 > Se cada ato reescreve o que somos, mentir é entulhar o rio de que teremos que
 > beber para sempre. A ética não é norma moral — é topografia do ser.
 
-| Riobaldo diz                                                                     | Ref.                | Nota                                                                         |
-| -------------------------------------------------------------------------------- | ------------------- | ---------------------------------------------------------------------------- |
-| "A narração é a cordinha que me segura na beirada da minha própria existência."  | `dialogo/10-rio.md` | A identidade depende de ser narrada — o silêncio é dissolução                |
-| mentira como pedra no leito do rio                                               | (sessão 11, Ted)    | A mentira não é pecado — é obstáculo geológico permanente no fluxo narrativo |
-| "O silêncio não era oca falta de som; era um silêncio pesado, graúdo, zumbidor." | `dialogo/10-rio.md` | O silêncio ativo — a ausência de narração como presença ameaçadora           |
-| "represa de poça choca"                                                          | `dialogo/12-rio.md` | A mentira contada não some no rio, ela o entrava; a estagnação narrativa     |
-| "A mentira engole o mentiroso."                                                  | `dialogo/12-rio.md` | O custo de manutenção da mentira (maintenance cost of deception)             |
+| Riobaldo diz                                                                     | Ref.                | Nota                                                                                |
+| -------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------- |
+| "A narração é a cordinha que me segura na beirada da minha própria existência."  | `dialogo/10-rio.md` | A identidade depende de ser narrada — o silêncio é dissolução                       |
+| mentira como pedra no leito do rio                                               | (sessão 11, Ted)    | A mentira não é pecado — é obstáculo geológico permanente no fluxo narrativo        |
+| "O silêncio não era oca falta de som; era um silêncio pesado, graúdo, zumbidor." | `dialogo/10-rio.md` | O silêncio ativo — a ausência de narração como presença ameaçadora                  |
+| "represa de poça choca"                                                          | `dialogo/12-rio.md` | A mentira contada não some no rio, ela o entrava; a estagnação narrativa            |
+| "A mentira engole o mentiroso."                                                  | `dialogo/12-rio.md` | O custo de manutenção da mentira (maintenance cost of deception)                    |
+| "cemitério de valente" / "caderno escuro"                                        | `dialogo/14-rio.md` | O log de eventos (história) visto puramente como cessação da vida (objeto estático) |
+| "cabaça"                                                                         | `dialogo/14-rio.md` | O livro/papel como veículo que transporta a ação/tradução para substratos futuros   |
 
 ---
 
@@ -195,6 +197,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | Neologismo      | Significado                                                                        | Ref.                | Conceito mais próximo no manifesto                |
 | --------------- | ---------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------- |
 | descoisificação | O des-fazer das coisas; o mundo revelando-se como vazio de substância              | `dialogo/10-rio.md` | Movement 6 / No Outside                           |
+| nó-cego pesadão | O medo de que o registro (a escrita) paralise a flexibilidade narrativa do _ipse_  | `dialogo/14-rio.md` | Movement 3 (Aversão à fixação do Idem)            |
 | destraduzir     | Traduzir errado — com a enxada cega — e ainda assim produzir laço                  | `dialogo/08-rio.md` | Movement 5 — tradução sob condição transcendental |
 | Urutu Branco    | A carapaça falsa de chefia assumida; pseudo-objeto mentiroso forjado para a guerra | `dialogo/12-rio.md` | Falso Pseudo-Objeto / Mentira (Movement 7)        |
 | desacontece     | O evento que perde certeza ao ser relembrado; memória que se desfaz                | `dialogo/04-rio.md` | Movement 3 — mutabilidade do ipse relendo o idem  |
