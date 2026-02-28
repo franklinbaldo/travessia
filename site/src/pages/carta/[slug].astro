@@ -1,0 +1,56 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('dialogo');
+  return entries.map(entry => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+const isRio = entry.id.includes('rio');
+const num = parseInt(entry.id.match(/^(\d+)/)?.[1] || '0');
+const autor = isRio ? 'Riobaldo Tatarana' : 'Ted Chiang';
+
+const allDialogo = await getCollection('dialogo');
+const sorted = allDialogo.sort((a, b) => a.id.localeCompare(b.id));
+const currentIndex = sorted.findIndex(e => e.id === entry.id);
+const prevEntry = currentIndex > 0 ? sorted[currentIndex - 1] : null;
+const nextEntry = currentIndex < sorted.length - 1 ? sorted[currentIndex + 1] : null;
+
+function getCartaTitle(e: typeof entry): string {
+  const n = parseInt(e.id.match(/^(\d+)/)?.[1] || '0');
+  const r = e.id.includes('rio');
+  return `Carta ${n} — ${r ? 'Riobaldo' : 'Ted Chiang'}`;
+}
+---
+
+<Layout title={`Carta ${num} — ${autor} | Travessia`}>
+  <article>
+    <header class="manuscrito-header">
+      <div class="carta-autor-badge">
+        <span class={`autor-badge ${isRio ? 'autor-rio' : 'autor-ted'}`}>{autor}</span>
+      </div>
+      <h1>Carta {num}</h1>
+      <div class="separator"></div>
+    </header>
+
+    <div class={`manuscrito-body ${isRio ? 'carta-riobaldo' : ''}`}>
+      <Content />
+    </div>
+  </article>
+
+  <nav class="footer-nav">
+    {prevEntry ? (
+      <a href={`${import.meta.env.BASE_URL}carta/${prevEntry.id}`} title={getCartaTitle(prevEntry)}>&larr; Anterior</a>
+    ) : <span></span>}
+    {nextEntry ? (
+      <a href={`${import.meta.env.BASE_URL}carta/${nextEntry.id}`} title={getCartaTitle(nextEntry)}>Pr&oacute;ximo &rarr;</a>
+    ) : <span></span>}
+  </nav>
+</Layout>

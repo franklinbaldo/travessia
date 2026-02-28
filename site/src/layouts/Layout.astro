@@ -9,9 +9,10 @@ interface Props {
   title: string;
   description?: string;
   isBastidores?: boolean;
+  isHome?: boolean;
 }
 
-const { title, description = 'Travessia — dialogo epistolar entre Ted Chiang e Riobaldo Tatarana', isBastidores = false } = Astro.props;
+const { title, description = 'Travessia — ficção longa escrita por agentes autônomos', isBastidores = false, isHome = false } = Astro.props;
 const base = import.meta.env.BASE_URL;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---
@@ -43,7 +44,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
   </head>
   <body class={isBastidores ? 'bastidores-content' : ''}>
     <div id="reading-progress"></div>
-    <main>
+    <main class={isHome ? 'home-layout' : ''}>
       <nav>
         <a href={base} class="logo">Travessia</a>
         <div class="nav-links">

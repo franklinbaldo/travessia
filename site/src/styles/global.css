@@ -11,6 +11,11 @@
   --divider-color: #d1c8ba;
   --meta-color: #7a6f62;
   --noise-op: 0.03;
+  --sand-bg: rgba(180, 160, 130, 0.1);
+  --water-bg: rgba(90, 160, 155, 0.12);
+  --water-border: rgba(90, 160, 155, 0.3);
+  --progress-start: #5a8f8a;
+  --progress-end: #7fb5b0;
 
   --font-body: 'Cormorant Garamond', serif;
   --font-meta: system-ui, -apple-system, sans-serif;
@@ -28,6 +33,11 @@
   --divider-color: #3b3228;
   --meta-color: #8a7e6f;
   --noise-op: 0.04;
+  --sand-bg: rgba(180, 160, 130, 0.07);
+  --water-bg: rgba(90, 160, 155, 0.1);
+  --water-border: rgba(90, 160, 155, 0.25);
+  --progress-start: #3a6f6a;
+  --progress-end: #5a9590;
 }
 
 /* === Reset === */
@@ -364,7 +374,7 @@ body * {
   left: 0;
   width: 0;
   height: 3px;
-  background: linear-gradient(to right, var(--accent-color), var(--secondary-color));
+  background: linear-gradient(to right, var(--progress-start), var(--progress-end));
   z-index: 1000;
   transition: width 0.1s linear;
 }
@@ -557,4 +567,247 @@ body * {
 .docs-body {
   font-size: 1.1rem;
   line-height: 1.6;
+}
+
+/* ====================================
+   Blog Homepage — O Rio e suas Veredas
+   ==================================== */
+
+/* === Home Layout (wider for masonry) === */
+
+main.home-layout {
+  max-width: 920px;
+}
+
+/* === Blog Hero — A Nascente === */
+
+.blog-hero {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.hero-image-wrap {
+  margin: 0 -2rem 2.5rem;
+  overflow: hidden;
+  border-radius: 6px;
+  position: relative;
+}
+
+.hero-image-wrap::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 40%;
+  background: linear-gradient(to top, var(--bg-color), transparent);
+  pointer-events: none;
+}
+
+.hero-image-wrap img {
+  width: 100%;
+  height: auto;
+  display: block;
+  filter: sepia(0.15) contrast(0.95);
+}
+
+[data-theme="dark"] .hero-image-wrap img {
+  filter: sepia(0.1) contrast(0.9) brightness(0.7);
+}
+
+.blog-hero h1 {
+  font-size: clamp(2.5rem, 6vw, 4rem);
+  margin: 0 0 0.5rem;
+  letter-spacing: -0.01em;
+}
+
+.hero-quote {
+  font-style: italic;
+  font-size: clamp(1.1rem, 2vw, 1.35rem);
+  color: var(--accent-color);
+  margin: 0 0 0.5rem;
+}
+
+.hero-sub {
+  font-family: var(--font-meta);
+  font-size: 0.85rem;
+  color: var(--meta-color);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin: 0;
+}
+
+@media (max-width: 600px) {
+  .hero-image-wrap {
+    margin: 0 -1rem 2rem;
+    border-radius: 0;
+  }
+}
+
+/* === Veredas — Category Navigation === */
+
+.veredas {
+  display: flex;
+  gap: 0.6rem;
+  overflow-x: auto;
+  padding: 0 0 1.5rem;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid var(--divider-color);
+  border-top: none;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.veredas::-webkit-scrollbar {
+  display: none;
+}
+
+.vereda {
+  background: none;
+  border: 1px solid var(--divider-color);
+  color: var(--meta-color);
+  font-family: var(--font-meta);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.35rem 0.9rem;
+  border-radius: 2rem;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+}
+
+.vereda:hover {
+  border-color: var(--accent-color);
+  color: var(--accent-color);
+}
+
+.vereda.active {
+  background: var(--accent-color);
+  border-color: var(--accent-color);
+  color: var(--bg-color);
+}
+
+/* === Blog Feed — Masonry Layout === */
+
+.blog-feed {
+  columns: 2;
+  column-gap: 1.5rem;
+}
+
+@media (max-width: 700px) {
+  .blog-feed {
+    columns: 1;
+  }
+}
+
+/* === Blog Card — Gotas no Rio === */
+
+.blog-card {
+  display: block;
+  break-inside: avoid;
+  margin-bottom: 1.5rem;
+  padding: 1.5rem;
+  background: var(--sand-bg);
+  border: 1px solid var(--divider-color);
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background-color 0.4s ease, border-color 0.4s ease, transform 0.25s ease, box-shadow 0.4s ease;
+}
+
+.blog-card:hover {
+  background: var(--water-bg);
+  border-color: var(--water-border);
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.06);
+  opacity: 1;
+}
+
+[data-theme="dark"] .blog-card:hover {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Card elements */
+
+.card-tipo {
+  display: inline-block;
+  font-family: var(--font-meta);
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 0.2rem 0.55rem;
+  border-radius: 3px;
+  margin-bottom: 0.75rem;
+}
+
+.tipo-carta {
+  background: rgba(139, 58, 42, 0.12);
+  color: var(--secondary-color);
+}
+
+.tipo-abertura,
+.tipo-causo {
+  background: rgba(196, 135, 58, 0.12);
+  color: var(--accent-color);
+}
+
+.tipo-fechamento {
+  background: rgba(139, 58, 42, 0.12);
+  color: var(--secondary-color);
+}
+
+.tipo-fragmento {
+  background: rgba(122, 111, 98, 0.12);
+  color: var(--meta-color);
+}
+
+.card-titulo {
+  font-size: 1.25rem;
+  margin: 0 0 0.5rem;
+  color: var(--text-color);
+  line-height: 1.3;
+  font-weight: 700;
+}
+
+.card-subtitulo {
+  font-style: italic;
+  color: var(--accent-color);
+  font-size: 0.95rem;
+  margin: 0 0 0.5rem;
+}
+
+.card-excerpt {
+  font-size: 0.92rem;
+  color: var(--meta-color);
+  line-height: 1.55;
+  margin: 0;
+}
+
+/* === Carta Author Badge (reading page) === */
+
+.carta-autor-badge {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.autor-badge {
+  display: inline-block;
+  font-family: var(--font-meta);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: 0.3rem 0.9rem;
+  border-radius: 3px;
+}
+
+.autor-badge.autor-rio {
+  background: rgba(139, 58, 42, 0.1);
+  color: var(--secondary-color);
+}
+
+.autor-badge.autor-ted {
+  background: rgba(122, 111, 98, 0.1);
+  color: var(--meta-color);
 }
