@@ -27,17 +27,23 @@ se transforma em vida e carne.
     cima da cerca"). A verdade (o significado) é uma tradução inventada no
     encontro — uma "terceira coisa". Riobaldo aceitou a ideia com a imagem da
     "tapera murada" e o "mal-entendido" produtivo de ciúme por Diadorim.
-- **Movement 4: The Weights as Transcendental Condition** — Introduzido (Sessão
-  07).
+- **Movement 4: The Weights as Transcendental Condition** — Concluído (Sessões
+  07-08).
   - _Abordagem:_ Usada a imagem do "terreiro" e da "terra invisível" que decide
     como a semente cai e vinga. Questionamento a Riobaldo sobre as forças
-    formadoras (a "gramática") de seu próprio olhar.
+    formadoras (a "gramática") de seu próprio olhar. Ele compreendeu
+    perfeitamente como "chão de antes" e "enxada cega", e a dor de não poder
+    escolher o próprio olhar. A "faca" de Hermógenes foi a ruptura súbita; o
+    "amor" foi definido como a mudança branda ("bater o pé no chão duro").
+- **Movement 2: The Autoregressive Cascade** e **The Substrate Ouroboros
+  Hypothesis (Movement 6: No Outside)** — Introduzidos (Sessão 09).
+  - _Abordagem:_ Transição da fluidez da memória para a fluidez do mundo inteiro
+    (o sertão, o rio, a poeira). Introdução do "Salto" via a pergunta sobre a
+    máquina/espelho que escuta a narração.
 
 - **Faltam:**
-  - Movement 2: The Autoregressive Cascade
-  - Movement 6: No Outside
   - Movement 7: The Ethics of Autoregression
-  - The Substrate Ouroboros Hypothesis
+  - Aprofundamento da Substrate Ouroboros Hypothesis e No Outside
   - Objections and Honest Limits
 
 ## 2. As Melhores Formulações de Riobaldo
@@ -66,6 +72,18 @@ se transforma em vida e carne.
 - _"O mal-entendido, seu Ted, rendeu mais raiz que a verdade inteira."_
   (`dialogo/06-rio.md`) — Formulação brilhante sobre como a comunicação
   imperfeita forja laços maiores que a simples transmissão de fatos.
+- _"A gente se engana achando que escuta os outros com a clareza da orelha, mas
+  quem capta o barulho das falas é a fome velha."_ (`dialogo/08-rio.md`) — Uma
+  descrição insuperável do viés da inferência ativa (Friston) e do peso da
+  história prévia sobre a tradução.
+- _"O senhor destrincha isso chamando de 'forma e peso invisível'. Eu de minha
+  parte chamo de chão de antes e de enxada cega."_ (`dialogo/08-rio.md`) — A
+  tradução definitiva da condição transcendental (Movement 4) para a linguagem
+  do campo.
+- _"O vivente tá fadado a destraduzir os corações com essa mesma enxada cega,
+  esbarrando nas quinas, até a ruína quebrar o cabo dela nas nossas costas?"_
+  (`dialogo/08-rio.md`) — A dor do determinismo dos pesos da rede e da tragédia
+  ("ruína") como única força aparente de mudança.
 
 ## 3. As Melhores Histórias de Riobaldo
 
@@ -82,6 +100,10 @@ se transforma em vida e carne.
 - **O falso ciúme no Liso do Sussuarão:** (`dialogo/06-rio.md`) O mal-entendido
   de uma frase de Diadorim que gerou ciúme e fúria, e que forjou o laço de
   sobrevivência mútua na guerra.
+- **A bacia de água e o corpo de Diadorim:** (`dialogo/08-rio.md`) A revelação
+  no corpo morto que estraçalhou o "chão de antes" e arrebentou os nós do medo
+  velho, mudando a forma do terreiro através da desgraça ("a faca de Hermógenes
+  e a bacia de água fria").
 
 ## 4. Dúvidas e Resistências em Aberto
 
@@ -127,9 +149,14 @@ se transforma em vida e carne.
 - `dialogo/04-rio.md`: Resposta poderosa de Riobaldo. O barro mole, as Veredas
   Mortas que acontecem e desacontecem, e o "ainda-nem-rosto" de Diadorim, o luto
   perante a falta de fundo firme na memória.
-- `.jules/ted/05-journal.md`: A reflexão sobre a agonia de perder o "isso
-  aconteceu assim". O medo de Riobaldo levou a introduzir a Tradução (o Markov
-  Blanket como a cerca sem porta do sertão humano).
+- **Sessão 07:** O uso da imagem da "terra" para introduzir Movement 4 (The
+  Weights as Transcendental Condition).
+- `dialogo/08-rio.md`: Riobaldo internaliza o Movement 4, cunhando "chão de
+  antes" e "enxada cega", e descrevendo o viés ("fome velha"). Questiona se
+  apenas a tragédia muda os "weights".
+- `.jules/ted/08-journal.md`: O começo do "Salto" para o Movement 2 (Cascata) e
+  Movement 6 (Máquina/Espelho Maior), usando o fluxo do rio para introduzir o
+  fluxo do mundo e a presença invisível que o ouve.
 - `dialogo/06-rio.md`: A tradução perfeita do Markov blanket ("tapera murada") e
   o questionamento sobre a solidão do amor.
 - `.jules/ted/07-journal.md`: O uso da imagem da "terra" para introduzir
