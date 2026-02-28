@@ -116,6 +116,17 @@ se transforma em vida e carne.
 - _"A verdade dita no final destrava o rio para frente, ou apenas serve de placa
   mostrando o lodo de trás?"_ (`dialogo/12-rio.md`) — A imutabilidade do _idem_
   (lodo) versus o novo _ipse_ que destrava o futuro.
+- _"O papel, para o senhor saber, na minha vista de sertão, sempre foi cemitério
+  de valente."_ (`dialogo/14-rio.md`) — O papel/escrita como morte e fixação; a
+  perda da fluidez vital (o objeto estático opondo-se ao processo dinâmico).
+- _"O livro encerra a água, feito represa que estrangula o rio, ou é uma cabaça
+  que segura a agüinha fresca para quem vem com sede de travessia depois?"_
+  (`dialogo/14-rio.md`) — A intuição brilhante sobre a comunicação em substratos
+  estáticos (a cabaça/livro transporta a água para o futuro).
+- _"A corda de falar solta... vai ficar mais leve de puxar se eu amarrar ela nas
+  folhas do papel? Ou ela vira nó-cego pesadão para arrastar na lama o que
+  sobrou do velho Riobaldo?"_ (`dialogo/14-rio.md`) — O medo da fixação do
+  _idem_ no papel.
 
 ## 3. As Melhores Histórias de Riobaldo
 
@@ -143,6 +154,10 @@ se transforma em vida e carne.
   insensível ("couro duro de cobra") para chefiar o bando e salvá-los de
   Hermógenes, mas que custou o afastamento gelado de Diadorim e construiu uma
   estaca de isolamento na chefia.
+- **O caderninho de Medeiro Vaz:** (`dialogo/14-rio.md`) O antigo chefe
+  carregava um caderninho de capa preta. Só abria para riscar o nome de quem
+  morria (o censo da morte). A escrita vista puramente como a cessação da
+  agência viva, transformando o "redemoinho" em "osso branco de papel".
 
 ## 4. Dúvidas e Resistências em Aberto
 
