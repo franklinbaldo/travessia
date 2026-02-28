@@ -17,6 +17,7 @@ const cartas = await Promise.all(
       Content,
       autor,
       classe: isRio ? 'carta-riobaldo' : 'carta-ted',
+      autorClasse: isRio ? 'autor-rio' : 'autor-ted',
     };
   })
 );
@@ -36,7 +37,7 @@ const cartas = await Promise.all(
     cartas.map((carta, i) => (
       <article class="carta">
         <div class="carta-header">
-          <span class="autor">{carta.autor}</span>
+          <span class={`autor ${carta.autorClasse}`}>{carta.autor}</span>
         </div>
         <div class={carta.classe}>
           <carta.Content />
