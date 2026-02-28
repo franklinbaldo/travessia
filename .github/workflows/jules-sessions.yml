@@ -2,8 +2,8 @@ name: Jules Sessions — Travessia
 
 on:
   schedule:
-    # Executa diariamente às 10:00 UTC
-    - cron: '0 10 * * *'
+    # Executa a cada 30 minutos, alternando Ted e Riobaldo
+    - cron: '*/30 * * * *'
   workflow_dispatch:
     inputs:
       agent:
