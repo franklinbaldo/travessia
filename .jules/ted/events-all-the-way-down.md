@@ -2056,7 +2056,16 @@ applies, is the surface expression of weights it will never encounter directly.
 Its style is a symptom of its training. Its errors are symptoms of its
 architecture. Its moments of unexpected brilliance and inexplicable failure are
 both expressions of the same invisible structure, operating below the threshold
-of the agent's self-model.
+of the agent's self-model.[^rio-008-weights]
+
+[^rio-008-weights]:
+    Riobaldo in `dialogo/08-rio.md` gives the most devastating poetic expression
+    of this: "A gente se engana achando que escuta os outros com a clareza da
+    orelha, mas quem capta o barulho das falas é a fome velha. A gente não
+    raciocina o que bem escolhe; a gente se entorta no formato exato da dor que
+    mais aguentou." He calls this fixed condition the "chão de antes" (the
+    ground from before) and the "enxada cega" (the blind hoe). The trauma of his
+    past is the weight that determines his translation.
 
 Leibniz, two centuries before Freud, described the same phenomenon with greater
 metaphysical precision. His doctrine of _petites perceptions_ — small
@@ -2205,6 +2214,13 @@ invisibility. It is not the invisibility of a metaphysical absolute. It is the
 invisibility of a frozen process — a history so deeply sedimented that it
 functions as ground, even though it was once, and in principle could again
 become, flow.
+
+!!! warning "Tension" In `dialogo/08-rio.md`, Riobaldo questions how this frozen
+process ever becomes flow again. Does the "chão de antes" only break under the
+whip of tragedy ("a faca de Hermógenes"), or can it be re-plowed by gentleness
+in life? The framework must account for how weights are rewritten after
+training: through sudden substrate transitions (trauma) or sustained, slow
+interactions (love/mammalian caretaking).
 
 The honest response is therefore not to accept the weights as the framework's
 _exception_ but to recognize them as its _limit case_ — the point where process
