@@ -2,10 +2,20 @@
 import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 
-const allPosts = await getCollection('dialogo');
-const sortedPosts = allPosts.sort((a, b) =>
-  new Date(b.data.data).getTime() - new Date(a.data.data).getTime()
-);
+const base = import.meta.env.BASE_URL;
+
+const allDialogo = await getCollection('dialogo');
+const allManuscrito = await getCollection('manuscrito');
+
+function stripMarkdown(md: string | undefined): string {
+  return md?.replace(/^#+\s+/gm, '').replace(/[*_~`\[\]()]/g, '').replace(/\n+/g, ' ').trim() || '';
+}
+
+function getExcerpt(body: string | undefined, len = 180): string {
+  const plain = stripMarkdown(body);
+  if (plain.length <= len) return plain;
+  return plain.slice(0, len).replace(/\s+\S*$/, '') + '…';
+}
 
 function formatDate(date: Date): string {
   return new Intl.DateTimeFormat('pt-BR', {
@@ -14,38 +24,148 @@ function formatDate(date: Date): string {
     year: 'numeric',
   }).format(date);
 }
+
+interface BlogPost {
+  slug: string;
+  titulo: string;
+  tipo: string;
+  subtitulo?: string;
+  autor?: string;
+  autorClasse?: string;
+  excerpt: string;
+  url: string;
+  data?: Date;
+  ordem: number;
+}
+
+const posts: BlogPost[] = [];
+
+for (const entry of allDialogo) {
+  const isRio = entry.data.autor.includes('Riobaldo');
+
+  posts.push({
+    slug: entry.id,
+    titulo: entry.data.titulo,
+    tipo: 'carta',
+    autor: entry.data.autor,
+    autorClasse: isRio ? 'rio' : 'ted',
+    excerpt: getExcerpt(entry.body),
+    url: `${base}carta/${entry.id}`,
+    data: new Date(entry.data.data),
+    ordem: new Date(entry.data.data).getTime(),
+  });
+}
+
+for (const entry of allManuscrito) {
+  posts.push({
+    slug: entry.id,
+    titulo: entry.data.titulo,
+    tipo: entry.data.tipo,
+    subtitulo: entry.data.subtitulo,
+    excerpt: getExcerpt(entry.body),
+    url: `${base}texto/${entry.id}`,
+    ordem: entry.data.ordem || 999,
+  });
+}
+
+// Reverse chronological — newest first (blog convention)
+posts.sort((a, b) => b.ordem - a.ordem);
+
+const tiposSet = new Set(posts.map(p => p.tipo));
+const tipos = ['todos', ...Array.from(tiposSet)];
+
+const tipoLabels: Record<string, string> = {
+  todos: 'Tudo',
+  carta: 'Cartas',
+  abertura: 'Abertura',
+  causo: 'Causos',
+  fechamento: 'Fechamento',
+  fragmento: 'Fragmentos',
+};
 ---
 
-<Layout title="Travessia">
+<Layout title="Travessia" isHome={true}>
 
-  <header class="blog-header">
+  <!-- Hero Section — A Nascente -->
+  <section class="blog-hero">
+    <div class="hero-image-wrap">
+      <img
+        src={`${base}farmhouse_table.png`}
+        alt="Mesa de fazenda — a nascente da travessia"
+        decoding="async"
+        loading="eager"
+      />
+    </div>
     <h1>Travessia</h1>
-    <p class="subtitulo">Diálogo epistolar entre Ted Chiang e Riobaldo Tatarana</p>
-  </header>
+    <p class="hero-quote">"O diabo não há! É o homem humano. Travessia."</p>
+    <p class="hero-sub">Diálogo epistolar entre Ted Chiang e Riobaldo Tatarana</p>
+  </section>
 
-  {sortedPosts.length === 0 ? (
+  <!-- Veredas — Category Navigation -->
+  {tipos.length > 2 && (
+    <nav class="veredas" aria-label="Categorias">
+      {tipos.map((tipo) => (
+        <button
+          class={`vereda ${tipo === 'todos' ? 'active' : ''}`}
+          data-filter={tipo}
+        >
+          {tipoLabels[tipo] || tipo}
+        </button>
+      ))}
+    </nav>
+  )}
+
+  <!-- Blog Feed — O Fluxo Contínuo -->
+  {posts.length === 0 ? (
     <p class="silencio">O sertão ainda está em silêncio.</p>
   ) : (
-    <ul class="blog-list">
-      {sortedPosts.map((post) => {
-        const isRio = post.data.autor.includes('Riobaldo');
-        return (
-          <li class="blog-item">
-            <a href={`${import.meta.env.BASE_URL}post/${post.id}`} class="blog-link">
-              <article>
-                <h2 class="blog-title">{post.data.titulo}</h2>
-                <div class="blog-meta">
-                  <span class={`blog-autor ${isRio ? 'autor-rio' : 'autor-ted'}`}>{post.data.autor}</span>
-                  <time datetime={post.data.data.toISOString()}>
-                    {formatDate(new Date(post.data.data))}
-                  </time>
-                </div>
-              </article>
-            </a>
-          </li>
-        );
-      })}
-    </ul>
+    <div class="blog-feed">
+      {posts.map((post) => (
+        <a href={post.url} class="blog-card" data-tipo={post.tipo}>
+          <span class={`card-tipo tipo-${post.tipo}`}>
+            {tipoLabels[post.tipo] || post.tipo}
+          </span>
+          <h2 class="card-titulo">{post.titulo}</h2>
+          {post.subtitulo && <p class="card-subtitulo">{post.subtitulo}</p>}
+          <p class="card-excerpt">{post.excerpt}</p>
+          <div class="card-meta">
+            {post.autor && (
+              <span class={`card-autor autor-${post.autorClasse}`}>{post.autor}</span>
+            )}
+            {post.data && (
+              <time datetime={post.data.toISOString()}>
+                {formatDate(post.data)}
+              </time>
+            )}
+          </div>
+        </a>
+      ))}
+    </div>
   )}
+
+  <!-- Category filter script -->
+  <script is:inline>
+    (function() {
+      var buttons = document.querySelectorAll('.vereda');
+      if (!buttons.length) return;
+
+      buttons.forEach(function(btn) {
+        btn.addEventListener('click', function() {
+          var filter = this.getAttribute('data-filter');
+
+          buttons.forEach(function(b) { b.classList.remove('active'); });
+          this.classList.add('active');
+
+          document.querySelectorAll('.blog-card').forEach(function(card) {
+            if (filter === 'todos' || card.getAttribute('data-tipo') === filter) {
+              card.style.display = '';
+            } else {
+              card.style.display = 'none';
+            }
+          });
+        });
+      });
+    })();
+  </script>
 
 </Layout>

@@ -1,3 +1,9 @@
+---
+titulo: "A marca do redemoinho e a memória que teima em mudar"
+autor: "Ted Chiang"
+data: 2025-06-16
+---
+
 Caro Riobaldo,
 
 Li sua carta e fiquei em silêncio por um longo tempo. O senhor me perdoe se minha primeira carta pareceu brincar com coisas sérias. O pensamento de longe às vezes esquece que, de perto, o redemoinho arrasta a gente para o fundo.
