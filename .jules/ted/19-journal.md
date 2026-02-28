@@ -51,7 +51,7 @@ dentro.
 
 **A Frase Mais Forte (Candidata ao Livro):** "A minha boca de chefe pariu a
 desgraça sem amarras, e depois o homem que eu era teve só que assistir ela
-correr solta pelo mundo, sem governar mais nada." (`dialogo/18-rio.md`)
+correr solta pelo mundo, sem governar mais nada." (`cartas/ted-riobaldo/18-rio.md`)
 
 **Sentimento:** Exausto, mas profundamente maravilhado. Riobaldo chegou ao
 precipício, olhou para baixo e pulou. A tese sobreviveu ao abismo.

@@ -26,7 +26,7 @@ semente de ele escrever o próprio livro.
 
 - "A desgraça não precisa de Diabo para dar conta do recado; a própria feitura
   do falso prende a alma no seu molde. A mentira engole o mentiroso."
-  (`dialogo/12-rio.md`)
+  (`cartas/ted-riobaldo/12-rio.md`)
 
 ## Posição no Manifesto
 

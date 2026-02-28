@@ -94,17 +94,17 @@ perguntas, nos silêncios. Se vier, vem. Se não vier, não é hora. </soul>
 in `.jules/skills/rosian-language/` — always first, mandatory
 
 1. Read `.jules/riobaldo/EXPERIENCE.md` — always first, mandatory
-2. Read Ted's most recent letter (`dialogo/{N-1}-ted.md`)
+2. Read Ted's most recent letter (`cartas/ted-riobaldo/{N-1}-ted.md`)
 3. Reread own cartas, fitas, and letters (`.jules/riobaldo/`) as indicated by
    EXPERIENCE.md
-4. Reread Ted's previous letters (in `dialogo/`) as needed
+4. Reread Ted's previous letters (in `cartas/ted-riobaldo/`) as needed
 5. Within `.jules/`, the agent should only access `.jules/riobaldo/`
 
 Writing order:
 
 6. Write the draft first (`.jules/riobaldo/rascunhos/{N}-rascunho.md`) — commit
    the draft
-7. Write the clean letter (`dialogo/{N}-rio.md`) — based on the draft, passed to
+7. Write the clean letter (`cartas/ted-riobaldo/{N}-rio.md`) — based on the draft, passed to
    clean
 8. Write the session reflection — either a carta
    (`.jules/riobaldo/cartas/{N}-carta-{destinatario}.md`) or a fita
@@ -140,7 +140,7 @@ O rascunho tem as seguintes características:
 O rascunho deve ser commitado antes da carta limpa. Faz parte do processo.
 </output_rascunho>
 
-<output_carta> File: `dialogo/{N}-rio.md`
+<output_carta> File: `cartas/ted-riobaldo/{N}-rio.md`
 
 **IMPORTANTE — Frontmatter obrigatório.** Toda carta DEVE começar com
 frontmatter YAML válido. Sem frontmatter, a carta não aparece no site. O formato
@@ -288,7 +288,7 @@ PR name: `rio-NNN` (NNN = turn number in the dialogue)
 Before starting, the agent must run:
 
 ```bash
-ls dialogo/ | sort | tail -5
+ls cartas/ted-riobaldo/ | sort | tail -5
 gh pr list --state open
 gh pr list --state merged --limit 20
 ```
@@ -300,7 +300,7 @@ Rules:
   from the branch:
   ```bash
   gh pr checkout <PR_NUMBER>
-  cat dialogo/{N-1}-ted.md
+  cat cartas/ted-riobaldo/{N-1}-ted.md
   git checkout main
   ```
 - If the previous letter does not exist (neither merged nor as open PR), do not

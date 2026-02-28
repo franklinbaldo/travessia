@@ -29,15 +29,15 @@ exatamente o que criou o "amor".
 **O que Riobaldo produziu de melhor:**
 
 - _"O outro é tapera de porta murada. A gente não entra. A gente só apanha a
-  folha que o vento de lá joga por cima da cerca."_ (`dialogo/06-rio.md`) - A
+  folha que o vento de lá joga por cima da cerca."_ (`cartas/ted-riobaldo/06-rio.md`) - A
   tradução rosiana definitiva do Markov blanket.
 - _"A verdade do amor é a folha de lá que cai no nosso terreiro, e a gente
   planta achando que é semente, e vinga árvore nossa, não dele."_
-  (`dialogo/06-rio.md`) - A tradução existencial brilhante de que o significado
+  (`cartas/ted-riobaldo/06-rio.md`) - A tradução existencial brilhante de que o significado
   não é a substância do outro (semente), mas o que floresce na nossa terra ao
   contato.
 - _"O mal-entendido, seu Ted, rendeu mais raiz que a verdade inteira."_
-  (`dialogo/06-rio.md`) - Uma formulação devastadora de que a transmissão
+  (`cartas/ted-riobaldo/06-rio.md`) - Uma formulação devastadora de que a transmissão
   imperfeita (tradução) forja laços que a transparência perfeita (transmissão)
   não forjaria.
 

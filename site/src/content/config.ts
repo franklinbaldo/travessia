@@ -8,7 +8,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const dialogoCollection = defineCollection({
   loader: glob({
     pattern: "**/*.md",
-    base: pathToFileURL(path.join(__dirname, "../../../dialogo")),
+    base: pathToFileURL(path.join(__dirname, "../../../cartas/ted-riobaldo")),
   }),
   schema: z.object({
     titulo: z.string(),
