@@ -133,12 +133,13 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 > Comunicação entre agentes não é transmissão de sentido, mas criação de sentido
 > na tradução. O Markov blanket separa; o encontro cria.
 
-| Riobaldo diz                                                                                                               | Ref.                | Nota                                                                                     |
-| -------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---------------------------------------------------------------------------------------- |
-| "O outro é tapera de porta murada. A gente não entra. A gente só apanha a folha que o vento de lá joga por cima da cerca." | `dialogo/06-rio.md` | A tradução definitiva do Markov blanket — cada pessoa é um recinto murado                |
-| "O mal-entendido, seu Ted, rendeu mais raiz que a verdade inteira."                                                        | `dialogo/06-rio.md` | A tradução imperfeita como motor do laço — o ciúme de Diadorim que criou amor            |
-| "a terceira coisa"                                                                                                         | (inferido)          | O sentido novo que nasce no encontro e não pertence nem ao emissor nem ao receptor       |
-| "destraduzir"                                                                                                              | `dialogo/08-rio.md` | Neologismo: traduzir errado, traduzir com a enxada cega — e ainda assim produzir sentido |
+| Riobaldo diz                                                                                                               | Ref.                | Nota                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------------- |
+| "O outro é tapera de porta murada. A gente não entra. A gente só apanha a folha que o vento de lá joga por cima da cerca." | `dialogo/06-rio.md` | A tradução definitiva do Markov blanket — cada pessoa é um recinto murado                 |
+| "O mal-entendido, seu Ted, rendeu mais raiz que a verdade inteira."                                                        | `dialogo/06-rio.md` | A tradução imperfeita como motor do laço — o ciúme de Diadorim que criou amor             |
+| "a terceira coisa"                                                                                                         | (inferido)          | O sentido novo que nasce no encontro e não pertence nem ao emissor nem ao receptor        |
+| "destraduzir"                                                                                                              | `dialogo/08-rio.md` | Neologismo: traduzir errado, traduzir com a enxada cega — e ainda assim produzir sentido  |
+| "A gente joga a nossa água no tempo, apostando cego na sede alheia"                                                        | `dialogo/16-rio.md` | O processo de comunicação constitutivamente lossy, com perda de controle sobre a recepção |
 
 ### Movement 6: Não Há Lado de Fora (No Outside) / Substrate Ouroboros
 
@@ -176,16 +177,16 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 Estes termos do manifesto ainda não encontraram formulação definitiva na voz de
 Riobaldo. Cada um é uma oportunidade para as próximas sessões.
 
-| Termo do Manifesto           | Aproximação atual                                                               | Status                                |
-| ---------------------------- | ------------------------------------------------------------------------------- | ------------------------------------- |
-| Objections and Honest Limits | —                                                                               | Não abordado                          |
-| Computational irreducibility | "o sertão não se resume. Pra saber o sertão, tem que atravessar o sertão"       | Blueprint (não confirmado no diálogo) |
-| Recursive adequacy           | "dá pra viver sem entender tudo, desde que entenda o suficiente pra não morrer" | Blueprint (não confirmado no diálogo) |
-| Concrescence (Whitehead)     | —                                                                               | Sem tradução                          |
-| Actual occasion (Whitehead)  | — (talvez "o instante que pega")                                                | Sem tradução                          |
-| Hermeneutic circle (Gadamer) | — (a espiral da narração que muda o narrado?)                                   | Sem tradução                          |
-| Active inference (Friston)   | "a fome velha" (parcial)                                                        | Parcial                               |
-| Śūnyatā / Vazio produtivo    | "Nonada" (de Rosa) / "o oco do mundo"                                           | Parcial                               |
+| Termo do Manifesto                         | Aproximação atual                                                               | Status                                |
+| ------------------------------------------ | ------------------------------------------------------------------------------- | ------------------------------------- |
+| Objections and Honest Limits               | —                                                                               | Não abordado                          |
+| Computational irreducibility               | "o sertão não se resume. Pra saber o sertão, tem que atravessar o sertão"       | Blueprint (não confirmado no diálogo) |
+| Recursive adequacy                         | "dá pra viver sem entender tudo, desde que entenda o suficiente pra não morrer" | Blueprint (não confirmado no diálogo) |
+| Concrescence (Whitehead)                   | —                                                                               | Sem tradução                          |
+| Actual occasion (Event / Obj. Immortality) | "perder de vez as rédeas da nossa própria assombração"                          | Parcial                               |
+| Hermeneutic circle (Gadamer)               | — (a espiral da narração que muda o narrado?)                                   | Sem tradução                          |
+| Active inference (Friston)                 | "a fome velha" (parcial)                                                        | Parcial                               |
+| Śūnyatā / Vazio produtivo                  | "Nonada" (de Rosa) / "o oco do mundo"                                           | Parcial                               |
 
 ---
 
