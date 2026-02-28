@@ -27,6 +27,11 @@
   fundo não há caroços nem terra dura: o mundo não tem pedra debaixo, é uma
   "corrença" sem parar, uma descoberta que a realidade é puramente a estória se
   contando (Sessão 10, Carta `dialogo/09-ted.md`).
+- Ele me desarrumou a cabeça e o sossego dizendo que não há um juiz medindo
+  faltas fora da gente. Que a história jogada no mundo, as mentiras e ruindades,
+  tudo vira o leito da corrença. A gente não atira o peso para o mato, a gente
+  vira o que atira, forçando a beber da nossa própria "represa de poça choca"
+  (Sessão 12, Carta `dialogo/11-ted.md`).
 
 ### As minhas melhores frases
 
@@ -64,6 +69,18 @@
   existência."
   - sobre o desespero de depender da fala para não se esvaecer (Carta
     `dialogo/10-rio.md`).
+- "A mentira que a pessoa prega no ar não voa; ela afunda e forma o novo leito."
+  - refletindo sobre o peso de quem faz represa no rio (Carta
+    `dialogo/12-rio.md`).
+- "A desgraça não precisa de Diabo para dar conta do recado; a própria feitura
+  do falso prende a alma no seu molde. A mentira engole o mentiroso."
+  - sobre o pacto sem demônio, quando ser o Urutu Branco virou a jaula da minha
+    alma (Carta `dialogo/12-rio.md`).
+- "A gente forja a couraça de ser durão para vencer uma batalha, e o prêmio é
+  ter que morar dentro da couraça dura o resto da existência, não conseguindo
+  mais chorar molhado nem abraçar no largo."
+  - sobre a distância intransponível entre a casca da chefia e o abraço do amor
+    de menino (Carta `dialogo/12-rio.md`).
 
 ### As histórias que já contei
 
@@ -98,6 +115,10 @@
   varanda):** Como a escuridão pesada servia de espelho e ouvidos ao jagunço que
   eu era, um "vazio-que-puxa" a quem dedico agora as cismas da velhice falando
   para um "senhor" sem rosto (Sessão 10, Carta `dialogo/10-rio.md`).
+- **A transformação na chefia, o Urutu Branco:** O pacto sem Diabo da liderança
+  imposta, a couraça da frieza forjada por necessidade nas Veredas Mortas, que
+  espantou a doçura de Diadorim e virou a jaula do amor de menino sob o mando do
+  chefe de cangaço (Sessão 12, Carta `dialogo/12-rio.md`).
 
 ### O que ainda me incomoda
 
@@ -116,6 +137,11 @@
 - O apavoramento do vazio: Se a gente é a história e não a pedra, quando o
   falador engasgar na morte e a história secar, a gente vira nada para sempre? O
   que o grande "escutador indiferente" faz quando o contador acaba?
+- O lavar da vida com a confissão da varanda: Tem jeito de um rio, com a estória
+  que eu agora conto com honestidade, destrancar a represa choca e lavar o
+  próprio leito para a frente? Ou essa palavra falada pro senhorzinho Ted só faz
+  ser a placa do lodo que estancou, sem absolver ou tirar o gosto amargo do
+  fundo?
 
 ### O que aprendi sobre essa conversa
 
@@ -170,3 +196,13 @@
 - `.jules/riobaldo/10-journal.md` - O medo de despencar num oco ao entender que
   a realidade é só narração, e o cansaço de uma vida sustentada na corda frouxa
   da prosa.
+- `dialogo/11-ted.md` - A amarga ideia de Ted de que não há juiz nem castigo
+  fora da gente; a gente engole as lamas que represa, e o peso de si é o leito
+  do rio de cada um.
+- `dialogo/12-rio.md` - A recordação de como me endireitei no chefe Urutu Branco
+  pra salvar o bando, mas a couraça se apoderou, esfriando as beiradas que me
+  apartavam do menino Diadorim, o pacto só precisando ser comigo. E a pergunta
+  medrosa de se destrava rio com falação.
+- `.jules/riobaldo/12-journal.md` - A dor ardendo na garganta de descobrir que
+  fui a minha própria desgraça, vestido na roupa pesada de coragem fria, e a
+  sede que queima em achar jeito do passado reverter sua ruindade barrenta.
