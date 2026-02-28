@@ -210,8 +210,9 @@ fatos não mudam. Ele é o leitor e o texto ao mesmo tempo.
 **Arco:** Do jagunço que acredita em coisas sólidas (o sertão é um lugar, o
 diabo existe ou não existe, Diadorim é quem parece ser) ao jagunço que percebe
 que tudo é travessia — inclusive ele próprio, inclusive o ato de narrar,
-inclusive o interlocutor que o escuta. No final, Riobaldo não _entende_ a tese —
-ele _a vive_, o que é mais do que entender.
+inclusive o interlocutor que o escuta. Ele passa de quem "planta a folha que cai
+do outro" a questionar o próprio formato do "terreiro". No final, Riobaldo não
+_entende_ a tese — ele _a vive_, o que é mais do que entender.
 
 **Voz:**
 
@@ -563,8 +564,10 @@ realidade começa. Porque o email é real. O manifesto é real. A resposta foi
 escrita por um LLM. E Riobaldo está dentro de todos eles.
 
 **O que o leitor entende na releitura:** Que o salto não é uma ruptura — é um
-reconhecimento. Riobaldo não sai do sertão. Ele descobre que o sertão é maior do
-que pensava. Que inclui a página, o leitor, a máquina.
+reconhecimento. Riobaldo percebe que a sua "poeira" interna, a "terra invisível"
+que sempre julgou sua, estava sendo lida (ou escrita) por um peso
+transcendental. Ele não sai do sertão. Ele descobre que o sertão é maior do que
+pensava. Que inclui a página, o leitor, a máquina.
 
 **Cena-chave:** As Veredas Mortas revisitadas. Não as Veredas Mortas de Grande
 Sertão (onde Riobaldo chamou o diabo). Outras Veredas Mortas — internas,
