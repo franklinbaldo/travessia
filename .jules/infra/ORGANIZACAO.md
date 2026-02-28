@@ -12,22 +12,8 @@ sessão.
 
 ### Agentes
 
-- **Ted Chiang**: Escritor de ficção científica, pesquisador do manifesto.
-- **Riobaldo Tatarana**: Jagunço aposentado, narrador rosiano.
-
-### Sessões Jules
-
-O projeto executa **~100 sessões Jules por dia** (a cada 15 minutos). Cada
-sessão contém **10 steps** que alternam entre os dois personagens:
-
-- Steps ímpares (1, 3, 5, 7, 9): Ted Chiang escreve
-- Steps pares (2, 4, 6, 8, 10): Riobaldo Tatarana responde
-
-Cada step executa o workflow completo do personagem correspondente: leituras
-obrigatórias, escrita da carta, journal, atualização de experience e anotações.
-
-O prompt combinado que define essa estrutura está em
-`.jules/PROMPT-combined.md`.
+- **Ted**: Cria conteúdo diariamente às 10 UTC.
+- **Riobaldo Tatarana**: Cria ficção diariamente às 11 UTC.
 
 O trabalho é publicado progressivamente num site estático. Conforme cada causo é
 escrito, o PR é mergeado automaticamente e o conteúdo aparece via GitHub Actions
@@ -60,13 +46,13 @@ narrativos de Riobaldo.
 
 ## Fluxo de Trabalho
 
-### Ciclo de uma Sessão (10 steps):
+### Ciclo de uma Sessão:
 
-1. A sessão Jules é criada automaticamente a cada 15 minutos (~100/dia).
-2. O plano da sessão contém 10 steps alternando Ted e Riobaldo.
-3. Em cada step, o agente assume a persona do personagem e executa todo o
-   workflow: leituras, carta, journal, experience, anotações.
-4. Os 10 turnos de diálogo são commitados juntos em um único PR.
+1. O agente (Ted às 10 UTC, Riobaldo às 11 UTC) lê os journals e textos
+   anteriores.
+2. Escreve o próximo conteúdo no diretório apropriado.
+3. Escreve o journal da sessão em `.jules/<agente>/`.
+4. Abre um Pull Request (PR).
 
 ### Ciclo de Publicação:
 
