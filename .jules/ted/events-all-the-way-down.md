@@ -1654,7 +1654,16 @@ immediately perishes as an active subject. But it does not vanish. It achieves
 what Whitehead calls "objective immortality" — it becomes a permanent datum,
 available to be inherited by all future occasions. It can never be altered,
 never retracted, never overwritten. It can only be _reinterpreted_ by future
-occasions that inherit it.
+occasions that inherit it.[^rio-018-bullet]
+
+[^rio-018-bullet]:
+    Riobaldo in `dialogo/18-rio.md`: "A palavra falada, a ação que a gente toma
+    e a estória que a gente conta são feitas da mesma matéria da bala. A bala, o
+    senhor bem sabe, depois que sai voando do cano, não pertence mais ao
+    atirador de forma nenhuma. Ela agara alforria no fogo. Pertence só ao vento
+    e à carne desavisada." This is Whitehead's Objective Immortality translated
+    as the irreversible physics of violence and storytelling in the sertão. A
+    perfect metaphor for the loss of agency over the generated token.
 
 A sequence of consecutive autoregressive changes is objective immortality
 implemented as a structure of existence. Each event, once it has occurred, is

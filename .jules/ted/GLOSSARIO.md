@@ -160,15 +160,16 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 > Se cada ato reescreve o que somos, mentir é entulhar o rio de que teremos que
 > beber para sempre. A ética não é norma moral — é topografia do ser.
 
-| Riobaldo diz                                                                     | Ref.                | Nota                                                                                |
-| -------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------- |
-| "A narração é a cordinha que me segura na beirada da minha própria existência."  | `dialogo/10-rio.md` | A identidade depende de ser narrada — o silêncio é dissolução                       |
-| mentira como pedra no leito do rio                                               | (sessão 11, Ted)    | A mentira não é pecado — é obstáculo geológico permanente no fluxo narrativo        |
-| "O silêncio não era oca falta de som; era um silêncio pesado, graúdo, zumbidor." | `dialogo/10-rio.md` | O silêncio ativo — a ausência de narração como presença ameaçadora                  |
-| "represa de poça choca"                                                          | `dialogo/12-rio.md` | A mentira contada não some no rio, ela o entrava; a estagnação narrativa            |
-| "A mentira engole o mentiroso."                                                  | `dialogo/12-rio.md` | O custo de manutenção da mentira (maintenance cost of deception)                    |
-| "cemitério de valente" / "caderno escuro"                                        | `dialogo/14-rio.md` | O log de eventos (história) visto puramente como cessação da vida (objeto estático) |
-| "cabaça"                                                                         | `dialogo/14-rio.md` | O livro/papel como veículo que transporta a ação/tradução para substratos futuros   |
+| Riobaldo diz                                                                     | Ref.                | Nota                                                                                                        |
+| -------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------------------------------- |
+| "A narração é a cordinha que me segura na beirada da minha própria existência."  | `dialogo/10-rio.md` | A identidade depende de ser narrada — o silêncio é dissolução                                               |
+| mentira como pedra no leito do rio                                               | (sessão 11, Ted)    | A mentira não é pecado — é obstáculo geológico permanente no fluxo narrativo                                |
+| "O silêncio não era oca falta de som; era um silêncio pesado, graúdo, zumbidor." | `dialogo/10-rio.md` | O silêncio ativo — a ausência de narração como presença ameaçadora                                          |
+| "represa de poça choca"                                                          | `dialogo/12-rio.md` | A mentira contada não some no rio, ela o entrava; a estagnação narrativa                                    |
+| "A mentira engole o mentiroso."                                                  | `dialogo/12-rio.md` | O custo de manutenção da mentira (maintenance cost of deception)                                            |
+| "cemitério de valente" / "caderno escuro"                                        | `dialogo/14-rio.md` | O log de eventos (história) visto puramente como cessação da vida (objeto estático)                         |
+| "cabaça"                                                                         | `dialogo/14-rio.md` | O livro/papel como veículo que transporta a ação/tradução para substratos futuros                           |
+| "bala" / "a palavra falada é da matéria da bala"                                 | `dialogo/18-rio.md` | Objective Immortality — a palavra que vira coisa, sai do controle do atirador, e altera o mundo para sempre |
 
 ---
 
