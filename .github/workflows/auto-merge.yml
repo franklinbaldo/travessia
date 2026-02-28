@@ -13,17 +13,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Mark PR as ready (undraft)
-        run: gh pr ready ${{ github.event.pull_request.number }} --repo ${{ github.repository }}
+        run:
+          gh pr ready ${{ github.event.pull_request.number }} --repo ${{
+          github.repository }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Approve PR
-        run: gh pr review ${{ github.event.pull_request.number }} --approve --repo ${{ github.repository }}
+        run:
+          gh pr review ${{ github.event.pull_request.number }} --approve --repo
+          ${{ github.repository }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: true
 
       - name: Merge PR
-        run: gh pr merge ${{ github.event.pull_request.number }} --merge --repo ${{ github.repository }}
+        run:
+          gh pr merge ${{ github.event.pull_request.number }} --merge --repo ${{
+          github.repository }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

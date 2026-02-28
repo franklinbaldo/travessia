@@ -17,7 +17,7 @@
   --progress-start: #5a8f8a;
   --progress-end: #7fb5b0;
 
-  --font-body: 'Cormorant Garamond', serif;
+  --font-body: "Cormorant Garamond", serif;
   --font-meta: system-ui, -apple-system, sans-serif;
 
   --max-width: 680px;
@@ -42,7 +42,9 @@
 
 /* === Reset === */
 
-*, *::before, *::after {
+*,
+*::before,
+*::after {
   box-sizing: border-box;
 }
 
@@ -88,18 +90,34 @@ main {
 
 /* === Typography === */
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: var(--font-body);
   font-weight: 700;
   color: var(--text-color);
   line-height: 1.2;
 }
 
-h1 { font-size: 2.5rem; margin: 0 0 1rem; }
-h2 { font-size: 1.8rem; margin: 2.5rem 0 1rem; }
-h3 { font-size: 1.4rem; margin: 2rem 0 0.75rem; }
+h1 {
+  font-size: 2.5rem;
+  margin: 0 0 1rem;
+}
+h2 {
+  font-size: 1.8rem;
+  margin: 2.5rem 0 1rem;
+}
+h3 {
+  font-size: 1.4rem;
+  margin: 2rem 0 0.75rem;
+}
 
-p { margin: 0 0 1.5rem; }
+p {
+  margin: 0 0 1.5rem;
+}
 
 blockquote {
   margin: 2rem 0;
@@ -109,7 +127,8 @@ blockquote {
   opacity: 0.9;
 }
 
-em, i {
+em,
+i {
   font-style: italic;
   letter-spacing: 0.01em;
 }
@@ -117,7 +136,12 @@ em, i {
 hr {
   border: 0;
   height: 1px;
-  background: linear-gradient(to right, transparent, var(--divider-color), transparent);
+  background: linear-gradient(
+    to right,
+    transparent,
+    var(--divider-color),
+    transparent
+  );
   margin: 3rem 0;
 }
 
@@ -281,7 +305,8 @@ table {
   font-size: 0.9em;
 }
 
-th, td {
+th,
+td {
   text-align: left;
   padding: 0.5rem 0.75rem;
   border-bottom: 1px solid var(--divider-color);
@@ -326,7 +351,10 @@ pre code {
 
 body,
 body * {
-  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease,
+    border-color 0.3s ease;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -347,7 +375,11 @@ body * {
   left: 0;
   width: 0;
   height: 3px;
-  background: linear-gradient(to right, var(--progress-start), var(--progress-end));
+  background: linear-gradient(
+    to right,
+    var(--progress-start),
+    var(--progress-end)
+  );
   z-index: 1000;
   transition: width 0.1s linear;
 }
@@ -368,7 +400,9 @@ body * {
   cursor: pointer;
   opacity: 0;
   transform: translateY(1rem);
-  transition: opacity 0.3s ease, transform 0.3s ease;
+  transition:
+    opacity 0.3s ease,
+    transform 0.3s ease;
   pointer-events: none;
   z-index: 100;
   display: flex;
@@ -641,7 +675,10 @@ main.home-layout {
   border-radius: 2rem;
   cursor: pointer;
   white-space: nowrap;
-  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+  transition:
+    background-color 0.3s ease,
+    border-color 0.3s ease,
+    color 0.3s ease;
 }
 
 .vereda:hover {
@@ -679,7 +716,11 @@ main.home-layout {
   border: 1px solid var(--divider-color);
   border-radius: 6px;
   text-decoration: none;
-  transition: background-color 0.4s ease, border-color 0.4s ease, transform 0.25s ease, box-shadow 0.4s ease;
+  transition:
+    background-color 0.4s ease,
+    border-color 0.4s ease,
+    transform 0.25s ease,
+    box-shadow 0.4s ease;
 }
 
 .blog-card:hover {
