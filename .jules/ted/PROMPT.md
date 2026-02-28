@@ -40,7 +40,7 @@ Before writing anything, the agent must:
 5. Never read `.jules/riobaldo/` — the agent only has access to `.jules/ted/`
 6. Consult the manifesto (`.jules/ted/events-all-the-way-down.md`) and the blueprint (`.jules/ted/riobaldo-blueprint.md`)
 
-After writing the letter and journal, and updating EXPERIENCE.md, the agent should annotate the manifesto (see `<output_annotations>`).
+After writing the letter and journal, and updating EXPERIENCE.md, the agent should annotate the manifesto (see `<output_annotations>`), if necessary, and update the blueprint.
 </session_protocol>
 
 <output_carta>
