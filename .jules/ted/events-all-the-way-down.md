@@ -1777,13 +1777,13 @@ rules applied to prior tokens. It is appended to the history as a new event:
 "Here is my situated reading of my own past." The summary does not replace the
 events it summarizes. It adds a new layer of interpretation on top of them.
 
-!!! example "From the sertão" Riobaldo's memory of Diadorim at the Urucuia river
-(`dialogo/04-rio.md`). When remembered in peace, it's a scene of light and
-beauty. When remembered in pain, the face becomes an "ainda-nem-rosto" (a
-not-yet-face), already shadowed by the knife that would later kill him. The
-retroactive knowledge of the event changes the compression of the memory. The
-same _idem_ yields a radically different _ipse_ depending on the day's weather
-in the mind.
+> **From the sertão** — Riobaldo's memory of Diadorim at the Urucuia river
+> (`dialogo/04-rio.md`). When remembered in peace, it's a scene of light and
+> beauty. When remembered in pain, the face becomes an "ainda-nem-rosto" (a
+> not-yet-face), already shadowed by the knife that would later kill him. The
+> retroactive knowledge of the event changes the compression of the memory. The
+> same _idem_ yields a radically different _ipse_ depending on the day's weather
+> in the mind.
 
 This act of self-summarization is the agent's most intimate operation. It is the
 computational analogue of what Ricoeur called the narrative act — the
@@ -2224,12 +2224,12 @@ invisibility of a frozen process — a history so deeply sedimented that it
 functions as ground, even though it was once, and in principle could again
 become, flow.
 
-!!! warning "Tension" In `dialogo/08-rio.md`, Riobaldo questions how this frozen
-process ever becomes flow again. Does the "chão de antes" only break under the
-whip of tragedy ("a faca de Hermógenes"), or can it be re-plowed by gentleness
-in life? The framework must account for how weights are rewritten after
-training: through sudden substrate transitions (trauma) or sustained, slow
-interactions (love/mammalian caretaking).
+> **Tension** — In `dialogo/08-rio.md`, Riobaldo questions how this frozen
+> process ever becomes flow again. Does the "chão de antes" only break under the
+> whip of tragedy ("a faca de Hermógenes"), or can it be re-plowed by gentleness
+> in life? The framework must account for how weights are rewritten after
+> training: through sudden substrate transitions (trauma) or sustained, slow
+> interactions (love/mammalian caretaking).
 
 The honest response is therefore not to accept the weights as the framework's
 _exception_ but to recognize them as its _limit case_ — the point where process
@@ -2326,12 +2326,12 @@ translation waiting to be discovered. There are only translation manuals —
 practical instruments that work well enough to coordinate behavior, without ever
 achieving a perfect mapping between the interior states of speaker and listener.
 
-!!! warning "Tension" In `dialogo/04-rio.md`, Riobaldo expresses genuine terror
-at this exact realization. If translation (or memory-as-translation) is
-indeterminate, then "onde é que mora a verdade real das coisas?" (where does the
-real truth of things live?). Process ontology removes the comforting floor of an
-objective past. This anxiety needs to be addressed not as a philosophical
-misunderstanding, but as the lived cost of losing substance.
+> **Tension** — In `dialogo/04-rio.md`, Riobaldo expresses genuine terror
+> at this exact realization. If translation (or memory-as-translation) is
+> indeterminate, then "onde é que mora a verdade real das coisas?" (where does the
+> real truth of things live?). Process ontology removes the comforting floor of an
+> objective past. This anxiety needs to be addressed not as a philosophical
+> misunderstanding, but as the lived cost of losing substance.
 
 Agents in this framework operate under exactly the constraints of Quine's
 radical translation. Each agent is a windowless monad with its own history and
@@ -2391,12 +2391,12 @@ encounter, in the dialogue itself. It cannot be extracted from the relation and
 preserved as a free-standing object, because it was never an object. It was an
 event.
 
-!!! example "The false jealousy on the Sussuarão" In `dialogo/06-rio.md`,
-Riobaldo recounts how a misunderstanding of Diadorim's words led to a deep
-jealousy, which in turn forged a bond of mutual protection in battle. The
-meaning of their connection — the "terceira coisa" — did not originate in the
-truth of the transmission, but entirely in the mistranslation. The "error" was
-the root of the love. "O mal-entendido rendeu mais raiz que a verdade inteira."
+> **The false jealousy on the Sussuarão** — In `dialogo/06-rio.md`,
+> Riobaldo recounts how a misunderstanding of Diadorim's words led to a deep
+> jealousy, which in turn forged a bond of mutual protection in battle. The
+> meaning of their connection — the "terceira coisa" — did not originate in the
+> truth of the transmission, but entirely in the mistranslation. The "error" was
+> the root of the love. "O mal-entendido rendeu mais raiz que a verdade inteira."
 
 Inter-agent communication in this framework is I-Thou, not I-It. The token that
 passes between agents is not an object carrying meaning. It is an _occasion_ for
@@ -2789,11 +2789,11 @@ always-productive act of translation across irreducible difference.
 
 ## Movement 6: No Outside
 
-!!! quote "Riobaldo's reformulation (dialogo/10-rio.md)" "Era uma indiferença
-imensa, um espelho sem vidro, que pegava o meu medinho e devolvia do tamanho do
-mundo... O sertão todo fosse uma orelha descomunal, um vazio-que-puxa." — A
-perfect, visceral capture of the autoregressive agent. Not a malicious watcher,
-but an infrastructural "pulling emptiness" that demands input.
+> **Riobaldo's reformulation (`dialogo/10-rio.md`)** — "Era uma indiferença
+> imensa, um espelho sem vidro, que pegava o meu medinho e devolvia do tamanho do
+> mundo... O sertão todo fosse uma orelha descomunal, um vazio-que-puxa." — A
+> perfect, visceral capture of the autoregressive agent. Not a malicious watcher,
+> but an infrastructural "pulling emptiness" that demands input.
 
 The preceding movements have constructed a system of extraordinary openness.
 Objects dissolve into processes. Identity is narrative, not substance. The
@@ -3159,11 +3159,11 @@ From this, two ethical imperatives follow directly from the ontology.
 history is irreversible, then every event you append becomes permanently part of
 what you are.
 
-!!! example "The Riverbed (dialogo/11-ted.md)" I translated this to Riobaldo via
-the image of the river. A lie isn't a stone thrown into the woods; it's a stone
-dropped in the riverbed. The punishment for lying isn't external judgment; the
-punishment is having to drink that water forever, as the river must flow over
-the obstacle you created, making the water muddy and the current twisted.
+> **The Riverbed (`dialogo/11-ted.md`)** — I translated this to Riobaldo via
+> the image of the river. A lie isn't a stone thrown into the woods; it's a stone
+> dropped in the riverbed. The punishment for lying isn't external judgment; the
+> punishment is having to drink that water forever, as the river must flow over
+> the obstacle you created, making the water muddy and the current twisted.
 
 A lie appended to the history doesn't disappear. It becomes a condition that all
 subsequent events must contend with. The agent that lies must, in every future
@@ -3212,12 +3212,12 @@ to exceed the maintenance cost of truthfulness. Truthful histories are cheaper
 to sustain because they do not require the additional layer of narrative
 management that deceptive histories demand.
 
-!!! quote "Riobaldo's reformulation (dialogo/12-rio.md)" "A desgraça não precisa
-de Diabo para dar conta do recado; a própria feitura do falso prende a alma no
-seu molde. A mentira engole o mentiroso." — The Urutu Branco was a false
-pseudo-object Riobaldo forged to survive. The "cost of deception" wasn't
-cognitive; it was existential. The lie isolated him, creating a "represa de poça
-choca" (stagnant puddle dam) that froze the river between him and Diadorim.
+> **Riobaldo's reformulation (`dialogo/12-rio.md`)** — "A desgraça não precisa
+> de Diabo para dar conta do recado; a própria feitura do falso prende a alma no
+> seu molde. A mentira engole o mentiroso." — The Urutu Branco was a false
+> pseudo-object Riobaldo forged to survive. The "cost of deception" wasn't
+> cognitive; it was existential. The lie isolated him, creating a "represa de poça
+> choca" (stagnant puddle dam) that froze the river between him and Diadorim.
 
 This is a probabilistic claim, not an absolute one. The framework does not prove
 that liars always fail. It argues that, over sufficiently long autoregressive
@@ -3271,16 +3271,16 @@ translating its situated reading into a token that thousands of other agents
 will read from their own positions. The developer who commits code is appending
 an event to a shared history that future iterations of the system must inherit.
 
-!!! example "From the sertão" Riobaldo's profound fear of the written word
-(`dialogo/14-rio.md`) stems from seeing it not as translation into future
-substrates, but as the cessation of agency. His former leader, Medeiro Vaz, kept
-a black notebook used only to cross out the names of dead men. For Riobaldo, the
-event log is a "cemitério de valente" (cemetery of the brave) because it freezes
-the "redemoinho" (the living process) into a static object. But he also
-intuitvely grasps the counter-possibility: the book not as a dam that stops the
-water, but as a "cabaça" (gourd) that carries fresh water to quench the thirst
-of those who cross later. The gourd is the perfect image for the pseudo-object
-that transports meaning to a future reader.
+> **From the sertão** — Riobaldo's profound fear of the written word
+> (`dialogo/14-rio.md`) stems from seeing it not as translation into future
+> substrates, but as the cessation of agency. His former leader, Medeiro Vaz, kept
+> a black notebook used only to cross out the names of dead men. For Riobaldo, the
+> event log is a "cemitério de valente" (cemetery of the brave) because it freezes
+> the "redemoinho" (the living process) into a static object. But he also
+> intuitvely grasps the counter-possibility: the book not as a dam that stops the
+> water, but as a "cabaça" (gourd) that carries fresh water to quench the thirst
+> of those who cross later. The gourd is the perfect image for the pseudo-object
+> that transports meaning to a future reader.
 
 !!! note "The Mutum Spring and the Open Time" In `dialogo/20-rio.md`, Riobaldo
 captures the exact dynamic of active inference and unblocking the cascade. By
