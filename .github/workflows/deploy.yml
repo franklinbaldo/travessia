@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'site/**'
+      - 'dialogo/**'
       - 'manuscrito/**'
       - '.jules/riobaldo/**'
       - '.jules/ted/**'

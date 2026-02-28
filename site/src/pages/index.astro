@@ -1,52 +1,44 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 
-const allManuscrito = await getCollection('manuscrito');
-const sortedManuscrito = allManuscrito
-  .filter(entry => entry.data.ordem !== undefined)
-  .sort((a, b) => (a.data.ordem || 0) - (b.data.ordem || 0));
+const allDialogo = await getCollection('dialogo');
+const sortedDialogo = allDialogo.sort((a, b) => a.id.localeCompare(b.id));
 
-const fragmentos = allManuscrito.filter(entry => entry.data.ordem === undefined);
-
+const cartas = await Promise.all(
+  sortedDialogo.map(async (entry) => {
+    const { Content } = await render(entry);
+    const isRio = entry.id.includes('rio');
+    const autor = isRio ? 'Riobaldo Tatarana' : 'Ted Chiang';
+    return {
+      id: entry.id,
+      Content,
+      autor,
+      classe: isRio ? 'carta-riobaldo' : 'carta-ted',
+    };
+  })
+);
 ---
 
 <Layout title="Travessia">
-  <header style="text-align: center; margin-bottom: 4rem;">
+  <header class="hero">
     <h1>Travessia</h1>
-    <p style="font-style: italic; color: var(--accent-color);">Uma ficção de Riobaldo Tatarana sobre a natureza do devir</p>
+    <p class="subtitulo">Diálogo epistolar entre Ted Chiang e Riobaldo Tatarana</p>
   </header>
 
-  <section>
-    <h2>Sumário</h2>
-    {sortedManuscrito.length === 0 ? (
-      <p style="font-style: italic;">O sertão ainda está em silêncio.</p>
-    ) : (
-      <ul style="list-style: none; padding: 0;">
-        {sortedManuscrito.map((entry) => (
-          <li style="margin-bottom: 1rem; display: flex; justify-content: space-between; align-items: baseline; border-bottom: 1px dotted var(--divider-color);">
-            <a href={`${import.meta.env.BASE_URL}texto/${entry.id}`} style="font-size: 1.2rem; border-bottom: none;">
-              {entry.data.titulo}
-            </a>
-            <span style="font-size: 0.9rem; color: var(--accent-color); font-style: italic;">{entry.data.tipo}</span>
-          </li>
-        ))}
-      </ul>
-    )}
-  </section>
-
-  {fragmentos.length > 0 && (
-    <section style="margin-top: 4rem;">
-      <h3>Fragmentos</h3>
-      <ul style="list-style: none; padding: 0;">
-        {fragmentos.map((entry) => (
-          <li style="margin-bottom: 0.5rem;">
-            <a href={`${import.meta.env.BASE_URL}texto/${entry.id}`} style="color: var(--secondary-color);">
-              {entry.data.titulo}
-            </a>
-          </li>
-        ))}
-      </ul>
-    </section>
+  {cartas.length === 0 ? (
+    <p class="silencio">O sertão ainda está em silêncio.</p>
+  ) : (
+    cartas.map((carta, i) => (
+      <article class="carta">
+        <div class="carta-header">
+          <span class="autor">{carta.autor}</span>
+        </div>
+        <div class={carta.classe}>
+          <carta.Content />
+        </div>
+        {i < cartas.length - 1 && <div class="separator"></div>}
+      </article>
+    ))
   )}
 </Layout>
