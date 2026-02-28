@@ -1,0 +1,88 @@
+name: Jules Sessions — Travessia
+
+on:
+  schedule:
+    # Executa diariamente às 10:00 UTC
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+    inputs:
+      agent:
+        description: 'Agente a executar (auto = alternância automática)'
+        required: false
+        default: 'auto'
+        type: choice
+        options:
+          - auto
+          - ted
+          - riobaldo
+
+permissions:
+  contents: read
+
+jobs:
+  create-session:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Determinar próximo agente
+        id: agent
+        run: |
+          # Se o input manual especifica um agente, usar esse
+          INPUT_AGENT="${{ github.event.inputs.agent }}"
+          if [ -n "$INPUT_AGENT" ] && [ "$INPUT_AGENT" != "auto" ]; then
+            echo "name=$INPUT_AGENT" >> "$GITHUB_OUTPUT"
+            echo "Agente forçado manualmente: $INPUT_AGENT"
+            exit 0
+          fi
+
+          # Alternância automática: verificar o último arquivo em dialogo/
+          LAST_FILE=$(ls -1 dialogo/*.md 2>/dev/null | grep -v '.gitkeep' | sort -V | tail -1)
+
+          if [ -z "$LAST_FILE" ]; then
+            # Nenhum diálogo ainda — Ted começa
+            echo "name=ted" >> "$GITHUB_OUTPUT"
+            echo "Nenhum diálogo encontrado. Ted começa."
+            exit 0
+          fi
+
+          LAST_BASENAME=$(basename "$LAST_FILE")
+          echo "Último arquivo de diálogo: $LAST_BASENAME"
+
+          if echo "$LAST_BASENAME" | grep -qi "ted"; then
+            echo "name=riobaldo" >> "$GITHUB_OUTPUT"
+            echo "Último turno foi de Ted. Próximo: Riobaldo."
+          else
+            echo "name=ted" >> "$GITHUB_OUTPUT"
+            echo "Último turno foi de Riobaldo. Próximo: Ted."
+          fi
+
+      - name: Ler PROMPT.md do agente
+        id: prompt
+        run: |
+          AGENT="${{ steps.agent.outputs.name }}"
+          PROMPT_FILE=".jules/${AGENT}/PROMPT.md"
+
+          if [ ! -f "$PROMPT_FILE" ]; then
+            echo "::error::Arquivo $PROMPT_FILE não encontrado!"
+            exit 1
+          fi
+
+          echo "Lendo prompt de: $PROMPT_FILE"
+
+          # Usar delimitador heredoc para output multiline
+          {
+            echo "content<<PROMPT_EOF"
+            cat "$PROMPT_FILE"
+            echo ""
+            echo "PROMPT_EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Criar sessão Jules
+        uses: google-labs-code/jules-invoke@v1
+        with:
+          prompt: ${{ steps.prompt.outputs.content }}
+          jules_api_key: ${{ secrets.JULES_API_KEY }}
