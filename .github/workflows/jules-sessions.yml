@@ -10,8 +10,8 @@ on:
       - ".jules/riobaldo/**"
   schedule:
     # Watchdog: restarts a stalled chain. Daily cap prevents doubling up
-    # when the chain is healthy. Runs every 4 hours as a safety net.
-    - cron: "0 */4 * * *"
+    # when the chain is healthy. Runs every hour as a safety net.
+    - cron: "0 * * * *"
   workflow_dispatch:
     inputs:
       agent:
@@ -25,7 +25,7 @@ on:
           - riobaldo
           - craig
       force:
-        description: "Bypass daily cap and time window"
+        description: "Bypass daily cap"
         default: "false"
         type: boolean
 
@@ -40,7 +40,6 @@ on:
 #   To add a design agent: append a line here and create .jules/<agent>/PROMPT.md.
 #
 # DAILY_CAP: max content sessions per day (guards both push and watchdog runs).
-# HOUR_START / HOUR_END: active window in UTC (inclusive start, exclusive end).
 #
 # ──────────────────────────────────────────────────────────────────────────────
 env:
@@ -48,8 +47,6 @@ env:
   DESIGN_AGENTS: |
     craig:4
   DAILY_CAP: "6"
-  HOUR_START: "8"
-  HOUR_END: "20"
 
 permissions:
   contents: read
@@ -70,14 +67,6 @@ jobs:
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "Manual dispatch. Bypassing guards."
             echo "skip=false" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-
-          # Time window check (applies to both push and watchdog)
-          HOUR=$(date -u +%-H)
-          if [ "$HOUR" -lt "$HOUR_START" ] || [ "$HOUR" -ge "$HOUR_END" ]; then
-            echo "Outside active window (${HOUR_START}–${HOUR_END} UTC). Hour=${HOUR}."
-            echo "skip=true" >> "$GITHUB_OUTPUT"
             exit 0
           fi
 
