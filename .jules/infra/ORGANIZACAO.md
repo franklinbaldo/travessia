@@ -26,7 +26,8 @@ sessão contém **10 steps** que alternam entre os dois personagens:
 Cada step executa o workflow completo do personagem correspondente: leituras
 obrigatórias, escrita da carta, journal, atualização de experience e anotações.
 
-O prompt combinado que define essa estrutura está em `.jules/PROMPT-combined.md`.
+O prompt combinado que define essa estrutura está em
+`.jules/PROMPT-combined.md`.
 
 O trabalho é publicado progressivamente num site estático. Conforme cada causo é
 escrito, o PR é mergeado automaticamente e o conteúdo aparece via GitHub Actions
