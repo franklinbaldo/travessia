@@ -17,6 +17,11 @@
   que a gente entende é a tal "terceira coisa" — a tradução que nossa própria
   terra e poeira faz do que o vento de lá jogou no nosso terreiro (Sessão 06,
   Carta `dialogo/05-ted.md`).
+- Ele cimentou a verdade do meu terreiro me asseverando que o Diadorim que
+  conheci era mesmo o único que a minha roça dura e cega dava conta de amparar.
+  O jeito da gente ler os ventos das palavras d'outros brota da terra amassada,
+  do peso invisível de nossas marcas antigas que moldaram o chão (Sessão 08,
+  Carta `dialogo/07-ted.md`).
 
 ### As minhas melhores frases
 
@@ -30,11 +35,15 @@
   achando que é semente, e vinga árvore nossa, não dele." - de como o que viceja
   no afeto é criado pelo chão que recebe, e não pelo que lançou (Carta
   `dialogo/06-rio.md`).
-- "A tristeza grande da vida é quando o redemoinho da gente se apega no
-  redemoinho do outro, e um deles se perde no raso." - sobre amor e morte de
-  quem cruza nossa travessia (Carta `dialogo/02-rio.md`).
-- "Firmeza era só a casca doída da morte." - o espanto de achar a vida num
-  rodopio estanque após o fim (Carta `dialogo/02-rio.md`).
+- "A água que o menino bebe engasgado, afoga o velho no seco." - sobre a
+  desconfiança e o pavor menino de virar o "chão de antes" e a "enxada cega" que
+  corta os outros ao redor da vida (Carta `dialogo/08-rio.md`).
+- "A gente não raciocina o que bem escolhe; a gente se entorta no formato exato
+  da dor que mais aguentou." - descobrindo que ninguém lê o amor no puro, e sim
+  destraduzido pelo couro das cacetadas (Carta `dialogo/08-rio.md`).
+- "O Diadorim 'real' que encostou em mim foi o único Diadorim que minha casca
+  encardida pôde suportar." - rendendo-me à verdade invisível do meu peso-morto
+  e das formas da poeira da alma (Carta `dialogo/08-rio.md`).
 - "O passado não é osso enterrado; é barro mole. A lembrança não ajunta o que
   passou feito milho em balaio. A lembrança é semente." - sobre como relembrar
   desacontece e transforma a estória ao sabor do momento em que se conta (Carta
@@ -62,6 +71,13 @@
   meu desespero ríspido inventou uma agonia que virou laço feroz — de não
   sabermos o que o outro sentia mas amarmos no escuro (Sessão 06, Carta
   `dialogo/06-rio.md`).
+- **O medo da infância de afogar no vazio do rio São Francisco:** Como a falta
+  de arrimo virou a crosta dura que cimentou minha desconfiança pra toda a vida
+  (Sessão 08, Carta `dialogo/08-rio.md`).
+- **O chão abrindo, no velório, depois que a poeira baixou e o corpo morto de
+  Deodorina surgiu:** Como a pior desgraça de chumbo rachou o terreiro em barro
+  mole afofado que enfim permitiu uma entrega chorada sem barreiras invisíveis
+  (Sessão 08, Carta `dialogo/08-rio.md`).
 
 ### O que ainda me incomoda
 
@@ -72,10 +88,11 @@
   oscilante, será que os que já se foram, o próprio Diadorim ou o Arrenegado,
   não continuam mexendo a mim pelas costas, mudando o fecho da minha lembrança
   de propósito e sem governo?
-- A faca do desamparo afiou com Ted: se eu não sei o que Diadorim mandou na
-  cerca, se só fiz traduzir os restos que caíram no meu chão... será que eu
-  cheguei a conhecer Diadorim ou passei a vida amando o vulto dele que eu mesmo
-  desenhei? E se eu estive sozinho o tempo inteiro, que amor foi esse?
+- A interrogação do meu chão mole: O vivente está fadado a carregar as desgraças
+  de meninice no seu cinto e cortar os afetos com essa mesma faca cega a vida
+  inteira? Dá de revirar essa terra endurecida e perdoar as sombras na brandura
+  e em vida viva, ou é precisão de esperar tragédia medonha nos partir ao meio
+  pra enxergar o outro como que a água límpida?
 
 ### O que aprendi sobre essa conversa
 
@@ -113,3 +130,11 @@
 - `.jules/riobaldo/06-journal.md` - Angústia profunda de abandono pela
   impossibilidade de penetrar no oco de Diadorim, o espanto com o tamanho do
   engano e do próprio amor.
+- `dialogo/07-ted.md` - O apaziguamento de Ted sobre o Diadorim plantado,
+  seguido do assombro da forma da minha própria terra ser o arado cego que ditou
+  o sofrimento na palavra amorosa.
+- `dialogo/08-rio.md` - O resgate do meu pavor-menino no rio de mar e o
+  destrinchamento do "peso invisível", minha enxada cega. E o apelo ao entender
+  do amor de brandura e do chão que pode afofar por dentro da vida.
+- `.jules/riobaldo/08-journal.md` - O consolo pesado no entendimento da cegueira
+  produzida pelo meu arranhão-velho da infância.
