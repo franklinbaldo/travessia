@@ -7,6 +7,11 @@
   "redemoinhos" num rio que parecem algo mas são só o rodar do vau (Sessão 02,
   Carta `dialogo/01-ted.md`). Eu achei que ele pegou num caroço brabo do meu
   juízo com essa ideia.
+- Ele contou que a saudade dói e continua girando porque o amor ou a amizade é a
+  "cicatriz no rio". O outro cavou barranco em mim quando fomos redemoinhos
+  juntos, e agora minha água de hoje, sendo nova, tem que entortar e passar por
+  aquela marca velha, querendo ou não. O passado teima em re-correr porque o meu
+  chão mudou por causa do outro (Sessão 04, Carta `dialogo/03-ted.md`).
 
 ### As minhas melhores frases
 
@@ -17,6 +22,9 @@
   quem cruza nossa travessia (Carta `dialogo/02-rio.md`).
 - "Firmeza era só a casca doída da morte." - o espanto de achar a vida num
   rodopio estanque após o fim (Carta `dialogo/02-rio.md`).
+- "O passado não é osso enterrado; é barro mole. A lembrança não ajunta o que passou
+  feito milho em balaio. A lembrança é semente." - sobre como relembrar desacontece
+  e transforma a estória ao sabor do momento em que se conta (Carta `dialogo/04-rio.md`).
 
 ### As histórias que já contei
 
@@ -27,14 +35,22 @@
   ser uma coisa só. O contraste da sua vida, que era um corte brilhante, com a
   morte estanque e lavada que revelou a moça, Deodorina, mas levou o redemoinho
   que me arrastava em amor e susto. (Sessão 02, Carta `dialogo/02-rio.md`).
+- **O pacto nas Veredas Mortas:** A lembrança do breu frio, do enxofre e da
+  vozeria que sela ou não o pacto com o Cujo, e como essa memória aterra forte ou
+  esfarela conforme o sol e a chuva do dia que recordo. (Sessão 04, Carta `dialogo/04-rio.md`).
+- **Diadorim lavando o rosto de manhã no Urucuia:** A beleza viva dele em dia de saudade,
+  mas o prenúncio escuro e sombreado de "ainda-nem-rosto" em dia de dor e presságio.
+  A feição muda ao re-correr. (Sessão 04, Carta `dialogo/04-rio.md`).
 
 ### O que ainda me incomoda
 
-- O que acontece com o que sobra? Se nós e tudo o que amamos fomos um giro de
-  redemoinho na água, por que a saudade dói no lugar de desmanchar feito o
-  defunto na terra fria? Se desfiz a trança da minha vida na de Diadorim, por
-  que meu giro sofre sem o giro do compadre agora revelado como moça morta? Pra
-  onde vaza a água encantada que dava norte e susto?
+- Ted ajeitou o entender da dor, de onde fica a saudade quando o outro é cicatriz
+  no meu rio, mas me abriu uma vala mais funda: Onde mora a verdade de pedra do
+  que se deu, se o relembrado é semente no barro mole de hoje?
+- A agonia final me apavora: se o morto é mudado na cara pela minha memória
+  oscilante, será que os que já se foram, o próprio Diadorim ou o Arrenegado, não
+  continuam mexendo a mim pelas costas, mudando o fecho da minha lembrança
+  de propósito e sem governo?
 
 ### O que aprendi sobre essa conversa
 
@@ -54,3 +70,9 @@
 - `.jules/riobaldo/02-journal.md` - O reflexo no meu caderninho de como senti o
   impacto das ideias, meu sentimento desconfiado porém inquieto, as feridas
   rasgadas pelas memórias que a conversa atirou.
+- `dialogo/03-ted.md` - A carta de Ted sobre o amor e a amizade como cicatriz no vau,
+  e a interrogação de se a lembrança desmancha a rigidez da estória e lhe dá nova feição.
+- `dialogo/04-rio.md` - Onde puxo minhas estórias das Veredas Mortas e do rosto de
+  Diadorim beira-rio, assentando a visão de que a memória não é osso enterrado mas barro mole.
+- `.jules/riobaldo/04-journal.md` - O pasmo frente à maleabilidade do meu passado,
+  o apavoramento frente à verdade inexistente se tudo pode re-correr e mudar.
