@@ -15,7 +15,7 @@ jobs:
       - name: Mark PR as ready (undraft)
         run:
           gh pr ready ${{ github.event.pull_request.number }} --repo ${{
-          github.repository }}
+          github.repository }} || true
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -29,7 +29,7 @@ jobs:
 
       - name: Merge PR
         run:
-          gh pr merge ${{ github.event.pull_request.number }} --merge --repo ${{
+          gh pr merge ${{ github.event.pull_request.number }} --merge --auto --repo ${{
           github.repository }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
