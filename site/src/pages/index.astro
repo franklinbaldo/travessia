@@ -5,6 +5,8 @@ import Layout from '../layouts/Layout.astro';
 const allDialogo = await getCollection('dialogo');
 const sortedDialogo = allDialogo.sort((a, b) => a.id.localeCompare(b.id));
 
+
+
 const cartas = await Promise.all(
   sortedDialogo.map(async (entry) => {
     const { Content } = await render(entry);
@@ -20,7 +22,9 @@ const cartas = await Promise.all(
 );
 ---
 
+
 <Layout title="Travessia">
+
   <header class="hero">
     <h1>Travessia</h1>
     <p class="subtitulo">Diálogo epistolar entre Ted Chiang e Riobaldo Tatarana</p>
