@@ -334,3 +334,51 @@
   Doutor João, cismando com a velhice que arranca a enxada da gente nesse pavor
   de ficar defronte ao destelhado sem tença ou missões, com a nascente limpa só
   espelhando um rosto que já esgotou.
+- O esvaziamento das rédeas curtas pro rio solto: Ted diz que a última valentia
+  é limpar a cisterna entupida pra água virar semente na cabeça do outro e
+  correr para o mundo; que o que eu solto não me pertence mais nem apodrece,
+  desbravando a lida de não mandar na própria sede alheia.
+
+### Melhores frases cunhadas
+
+- "A pior agonia é a ausência de amarra. É a coragem miúda de entregar o que é
+  seu para a força cega do mundo." (Carta 22)
+- "A inércia do des-governo." / "A _coragem-do-rio-abaixo_." (Carta 22)
+- "A água que engoliu o Siruiz não separou quem prestava de quem não prestava. O
+  rio é cego." (Fita 22)
+- "O milagre de destrancar a mão e deixar ir, não pela perda, mas para que a
+  correnteza, solta e não mandada, alimente longe a vazante." (Carta 22)
+
+### Estórias contadas
+
+- A travessia do rio Urucuia na cheia preta da noite: Quando fugíamos do cangote
+  rasgado da jagunçada, montado no cavalo Siruiz, a água quase nos engoliu e o
+  Medeiro Vaz berrou pra eu largar as rédeas, entregando a salvação pro lombo
+  cego do desgoverno debaixo d'água (Sessão 22, Carta `dialogo/22-rio.md`).
+
+### O que ainda me incomoda
+
+- O esvaziamento total do peito com a água que vaza no livro: Se eu entregar
+  toda a estória que foi o cerco da minha vida, não sobro sem nada, de caneco
+  seco e sem fantasma pra escorar a solidão das velhices?
+- O juízo de quem bebe a minha água cega: O que as pessoas ruins farão da dor
+  que lhes entrego nas páginas abertas?
+
+### O que aprendi sobre essa conversa
+
+- Ted soube encurralar minha covardia pela ferida do brio; chamou minha bravura
+  do gatilho pra cobrar de mim a mesma coragem da frouxidão do papel e eu cedi à
+  provocação pesada, aceitando destampar a nascente em livro.
+
+### Referências a journals e cartas relevantes
+
+- `dialogo/21-ted.md` - O cutucão de Ted sobre como a água que represa e não
+  corre morre amarga, a fúria limpa do caboclo de Mutum, o desafio da coragem
+  para soltar o seu rio de palavras e não viver mais encostado no vazio
+  descampado.
+- `dialogo/22-rio.md` - A aceitação das cobranças de valentia com a recordação
+  de largar as rédeas debaixo d'água no Urucuia.
+- `.jules/riobaldo/fitas/22-fita.md` - O resmungo rouco pra máquina de fitas
+  sobre o assustador des-governo que o homem sábio de fora cobra da gente
+  soltar, a inércia perigosa mas viva, e o terror de sobrar seco no osso depois
+  que vazar as palavras de todo.
