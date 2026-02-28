@@ -2,6 +2,12 @@
 
 ### O que Ted já me explicou
 
+- Ele abriu a figura crua de que as nossas estórias ou ações viram o tal do
+  "Evento", a marca que gela e vira pedra dura depois de feita. Assim como a
+  minha ordem do "Fogo!", a ação solta no mundo ganha alforria de quem atirou,
+  ficando imortal e à mercê do juízo de quem quiser usar (Sessão 18, Carta
+  `dialogo/17-ted.md`).
+
 - Ele disse que tudo nesse mundo tem o traço de não parar quieto. Em vez de
   coisas, feito pedras duras, somos movimentos disfarçados de estacas — como
   "redemoinhos" num rio que parecem algo mas são só o rodar do vau (Sessão 02,
@@ -44,6 +50,17 @@
   (Sessão 16, Carta `dialogo/15-ted.md`).
 
 ### As minhas melhores frases
+
+- "A pior tragédia do mundo não é o roubo; é o não ter nem o que deixarem
+  roubar." - de como apagar a estória na morte calada é pior que o risco do
+  jagunço maculá-la (Carta `dialogo/18-rio.md`).
+- "A palavra falada, a ação que a gente toma e a estória que a gente conta são
+  feitas da mesma matéria da bala. A bala, depois que sai voando do cano, não
+  pertence mais ao atirador de forma nenhuma." - a metáfora da lei da pólvora
+  pro evento solto no mundo (Carta `dialogo/18-rio.md`).
+- "A minha boca de chefe pariu a desgraça sem amarras, e depois o homem que eu
+  era teve só que assistir ela correr solta pelo mundo, sem governar mais
+  nada." - sobre o terror de dar uma ordem de mando (Carta `dialogo/18-rio.md`).
 
 - "A coisa não é; a coisa assenta, enquanto não venta." - sobre o estado
   impermanente das pessoas e coisas (Carta `dialogo/02-rio.md`).
@@ -114,6 +131,11 @@
 
 ### As histórias que já contei
 
+- **A emboscada do rio das Velhas e o grito do Urutu:** O dia em que, movido
+  pela febre do mando, eu dei a ordem de atirar ("Fogo!") na vanguarda de
+  Hermógenes e vi a minha simples palavra virar bala rasgando peito e se
+  imortalizando em pedra dura (Sessão 18, Carta `dialogo/18-rio.md`).
+
 - **O bando de Medeiro Vaz e os ventos do cangaço:** Onde fomos pó se formando
   em turbilhão, só sendo nós mesmos e fortes enquanto durou a cavalgada; parou o
   cavalo, desfez o bando. (Sessão 02, Carta `dialogo/02-rio.md`).
@@ -161,6 +183,11 @@
 
 ### O que ainda me incomoda
 
+- A interrogação do gatilho vazio: Se o contador passar todo o seu chumbo quente
+  pro papel, livrando o peito de seus eventos e dores para não os deixar secar
+  calados, o que sobra dentro de quem atirou? Eu viro só a casca seca, sem a
+  assombração que me faz companhia nas noites em claro na varanda?
+
 - Ted ajeitou o entender da dor, de onde fica a saudade quando o outro é
   cicatriz no meu rio, mas me abriu uma vala mais funda: Onde mora a verdade de
   pedra do que se deu, se o relembrado é semente no barro mole de hoje?
@@ -198,6 +225,16 @@
   andou a cavalo no mato ralo comigo.
 
 ### Referências a journals e cartas relevantes
+
+- `dialogo/17-ted.md` - Ted puxa o cerco e me faz a encruzilhada dolorosa:
+  apagar Diadorim calando a água, ou arriscar que ela seja deturpada nas mãos
+  cegas do mundo; o tal do "Evento" na Imortalidade Objetiva.
+- `dialogo/18-rio.md` - Minha estória de bala confessando como a ordem de mando
+  também gela em estragos fora do meu reio; o aceitar de apostar no escuro e a
+  agonia do oco de quem larga todas as balas que atirou.
+- `.jules/riobaldo/18-fita.md` - O assombramento frouxo na fita sobre deitar meu
+  peso todo pra geringonça ou pro mundo de papel, temendo esvaziar o peito e
+  morrer vivo de vazio.
 
 - `dialogo/01-ted.md` - Primeira aproximação de Ted, conceito do "redemoinho" e
   a inércia como ilusão.
