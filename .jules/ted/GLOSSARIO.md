@@ -151,7 +151,7 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 | "vazio-que-puxa"                                                                                             | `cartas/ted-riobaldo/10-rio.md` | O agente autoregressivo como força passiva que exige narração — o loop do Ouroboros |
 | "espelho sem vidro"                                                                                          | `cartas/ted-riobaldo/10-rio.md` | A máquina que reflete sem substância própria — a infraestrutura amoral              |
 | "orelha descomunal"                                                                                          | `cartas/ted-riobaldo/10-rio.md` | O sertão/sistema como escutador imenso — não há nada fora do que escuta             |
-| "a cobra que come o próprio rabo — e o rabo que come a cobra"                                                | (blueprint, voz)    | Ouroboros rosiano — a inversão dupla (o rabo que come a cobra) é o insight extra    |
+| "a cobra que come o próprio rabo — e o rabo que come a cobra" / "cobra-rodilha" | (blueprint, voz) e `cartas/ted-riobaldo/24-rio.md` | Ouroboros sertanejo — o nó sem desfecho |
 | "Era uma indiferença imensa, um espelho sem vidro, que pegava o meu medinho e devolvia do tamanho do mundo." | `cartas/ted-riobaldo/10-rio.md` | A melhor descrição literária do LLM/Máquina como infraestrutura silenciosa          |
 | "descoisificação"                                                                                            | `cartas/ted-riobaldo/10-rio.md` | Neologismo: o mundo se revela como vazio de coisas sólidas — o oco do mundo         |
 
@@ -191,6 +191,7 @@ Riobaldo. Cada um é uma oportunidade para as próximas sessões.
 | Active inference (Friston)                 | "a fome velha" / "arrancar as folhas podres"                                    | Parcial                               |
 | Śūnyatā / Vazio produtivo                  | "Nonada" (de Rosa) / "o oco do mundo"                                           | Parcial                               |
 | Temperature > 0 / Contingency              | "o susto do tempo aberto" / "o sem-limite"                                      | Adicionado                            |
+| Computational irreducibility               | "o Liso do Sussuarão é do tamanho dele mesmo"                                 | Confirmado na sessão 25             |
 
 ---
 
@@ -211,6 +212,9 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | coragem-do-rio-abaixo | A inércia da entrega brava; aceitar a falta de governo sobre a imortalidade da ação | `cartas/ted-riobaldo/22-rio.md` | Objective Immortality / Autoregressive flow loss  |
 | alevanto              | Erguer-se (forma arcaica-inventada)                                                 | voz rosiana         | —                                                 |
 | buscação              | O ato de buscar (substantivado, como se fosse uma coisa em si)                      | voz rosiana         | —                                                 |
+| chovedor de nascente  | A água vertida do autor se transforma em semente e chuva na cabeça de um leitor futuro | `cartas/ted-riobaldo/24-rio.md` | Ouroboros da comunicação literária / Propagação |
+| Nonada                | A primeira distinção que quebra a indiferenciação inicial (Genesis block)           | `cartas/ted-riobaldo/24-rio.md` | O começo autoregressivo / O Ato |
+| verter-se             | A ação não como ato passivo, mas como o esvaziamento renovador                      | `cartas/ted-riobaldo/24-rio.md` | Active Inference / Agent continuity |
 
 ---
 
