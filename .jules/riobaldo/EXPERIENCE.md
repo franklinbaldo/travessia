@@ -43,6 +43,11 @@
   enche de vida: a "cabaça da travessia" suspensa pro viajante futuro sorver,
   deixando no mundo não a estaca morta, mas a ponte na sede de quem vem depois
   (Sessão 16, Carta `cartas/ted-riobaldo/15-ted.md`).
+- **A canoa sem atalho ("irredutível da computação"):** A prova de que a vida
+  _não aceita desconto nas léguas_ e não tem resumo. Que só se sabe o Liso do
+  Sussuarão atravessando ele inteiro, e que o medo que a gente sente é o balanço
+  da prancha de ser vivo, a coragem de assumir o barco do destino na corrente
+  (Sessão 26, Carta `cartas/ted-riobaldo/26-rio.md`).
 
 ### As minhas melhores frases
 
@@ -119,6 +124,9 @@
   grossa na terra sequiosa de um outro. Chovedor de nascente." - traduzindo que
   a vida e a estória rodilham, não tendo Lado de Fora (Sessão 24, Carta
   `cartas/ted-riobaldo/24-rio.md`).
+- "A vida não aceita desconto, cobra o preço das léguas inteiras." - traduzindo
+  a ideia gringa de que a vida não tem resumo e nem atalho (Sessão 26, Carta
+  `cartas/ted-riobaldo/26-rio.md`).
 
 ### As histórias que já contei
 
@@ -173,6 +181,11 @@
   prancha de madeira no meio das águas — o primeiro risco no meu mundo, e a
   primeira palavra da estória (Sessão 24, Carta
   `cartas/ted-riobaldo/24-rio.md`).
+- **No meio do redemoinho manso (o silêncio verde):** A continuação da travessia
+  no rio São Francisco, quando o fundo fugiu e a água barrenta batia na madeira
+  velha. A visão de Reinaldo não domando a corrente, mas se soltando inteiro
+  nela sem perder a prumada; a coragem da entrega cega e do "medinho" que
+  comprova a vida nua (Sessão 26, Carta `cartas/ted-riobaldo/26-rio.md`).
 
 ### O que ainda me incomoda
 
@@ -299,3 +312,12 @@
 - `.jules/riobaldo/cartas/24-carta-doutor_joao.md` - Carta escrita para
   desabafar a precisão de ter começado a destampar o passado e o pavor agudo de
   me perder na ruindade ou incompreensão de quem me sorver no final.
+- `cartas/ted-riobaldo/25-ted.md` - Ted puxa as amarras da canoa pra me dizer
+  que a vida não tem atalho ("computacionalmente irredutível"), a folha branca é
+  a tábua da correnteza, e cobra qual a segunda palavra do conto.
+- `cartas/ted-riobaldo/26-rio.md` - Dou por certa a lei das léguas sem desconto,
+  mostro o meião do rio com o Diadorim-menino, e aceito o medo de viver solto no
+  tranco. E devolvo as pontas do remo pra ele segurar.
+- `.jules/riobaldo/fitas/26-fita.md` - Reflexão doída e espaçada na fita sobre o
+  oco que vai ficar quando eu esvaziar a mim e o medo de o Ted não segurar a
+  poeira sangrenta que eu verter.
