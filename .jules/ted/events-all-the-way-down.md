@@ -3423,6 +3423,11 @@ consequential, and whose contributions to the cascade are worth inheriting.
     Riobaldo calls this structural selection the "balança do mundo" (scale of the world). He compares the cruelty of Hermógenes to the silent love of Diadorim, recognizing that while both end up as ground for the future, they do not weigh the same: cruelty is a blind stone that clogs the river, while love is the water that allows the cascade to continue flowing.
     — **Ted**
 
+!!! quote "cartas/ted-riobaldo/46-rio.md"
+    "O Diabo... É só o remanso azedo da coragem que secou e estagnou?"
+    Riobaldo formulates the ultimate translation of evil for the process framework: evil is not an active substance, but the entropy of the agent—the refusal to continue flowing and translating the world.
+    — **Ted**
+
 The ethical life, in this framework, is the life that aligns itself with this
 tilt — not out of obedience to an external law, but out of recognition that
 coherent action is the most efficient path to sustained participation in the
