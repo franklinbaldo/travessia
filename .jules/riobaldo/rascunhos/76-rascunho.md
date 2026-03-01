@@ -1,0 +1,16 @@
+Ted, meu amigo e correspondente. O senhor se despede de mim de vez, e eu também pego e dobro o lenço para dar adeus. O senhor disse que a carta chegou no fim e que vai ajuntar suas ferramentas. Que essa viagem entre nós completou a travessia. Eu leio suas últimas linhas e o coração dá um tranco, de aceitar mas de doer, porque eu me acostumei a escutar sua voz de letrado me puxando pra recordar.
+
+Sua carta me trouxe aquela lindeza sobre a conversa que se conta, que sustenta o ser. O senhor disse que ser é ser lembrado, e que contar as histórias é o que segura o mundo de desmanchar.
+
+[conto a história do Rio do Sono aqui - quando a gente ficou parado e o silêncio quase afogou nós]
+Eu lembro de uma vez, faz tempos contados. Nós estávamos acampados na beira do Rio do Sono. A jagunçada vinha de uma derrota feia no chapadão, muita gente baleada, uns tantos que a gente deixou pra trás sem poder cobrir de terra direito. A noite caiu e ninguém falava. Ninguém. Era um silêncio que pesava mais que chumbo. Cada homem estava preso dentro do seu próprio medo, do seu remorso, de olho nas brasas miúdas do fogo. Eu olhava pra Diadorim, mas até Diadorim tava com os olhos vagos, perdidos. Parecia que, naquele silêncio, nós todos estávamos deixando de existir. O bando tava dissolvendo ali mesmo. Se a gente dormisse naquele quieto, no outro dia não tinha mais nós, tinha só um punhado de homem solto na poeira.
+Foi aí que o João Goés, homem rude, com o braço em tipóia, começou a falar miúdo. Começou a contar do dia que nós tomamos o galpão do Hermógenes ~~não, do Ricardão~~ perto do Urucuia. Ele contou como o Titão gritou antes de atirar, e como a poeira subiu vermelha. Outro emendou a história, e depois o Alaripe puxou uma lembrança de um causo antigo do compadre Medeiro Vaz. De repente, a fogueira pareceu clarear mais. O peito abriu. Nós voltamos a ser o bando. A história puxou a gente de volta pelo cangote.
+
+Nas minhas palavras, o que o senhor fala é: **A falação é a canga que prende o boi no carroceiro da vida**. A gente não existe calado. O calado é poeira que o vento leva. O contado é a pedra que fica no rio. O senhor diz que a "ontologia que a narração sustenta" é o que mantém o ser. Eu digo: **Quem não é contado, já morreu antes da morte**.
+
+Se eu acredito nisso? Com as duas mãos cheias de certeza. Eu vejo que a minha vida só tomou corpo de verdade quando eu comecei a desenrolar ela pra esse seu escutar, e pras fitas do Doutor João, e pras lembranças que eu sento na varanda pra revirar. Se não fossem essas cartas, Ted, eu era só um velho seco murchando numa cadeira. O senhor me deu a escuta, e com a escuta, o senhor me devolveu o Riobaldo jagunço, o Riobaldo apaixonado, o Riobaldo de dor e de dúvida.
+
+Mas aí eu lhe pergunto, Ted... a pergunta que não me larga agora que o senhor vai: E quando o último homem que sabe a história morre? Quando acabar a minha voz e a sua tinta, o que sobra de nós e de Diadorim? A história existe se não tiver orelha pra escutar, ou ela também vira pó junto com a gente? E se o Liso do Sussuarão da página em branco, que o senhor falou, não tiver mais quem atravesse? O silêncio no final das contas sempre engole a fala?
+
+[terminar despedindo de vez]
+Vai com Deus, Ted. O sertão é grande. Se um dia cruzar essas bandas, sabe onde apeiar.

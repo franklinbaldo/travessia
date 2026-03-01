@@ -821,16 +821,32 @@
 - `.jules/riobaldo/fitas/74-fita.md` - A última fita rodando calada na varanda pra assentar o espanto maduro do fim das prosas com o gringo e o começo estrondoso do livro, cravando que agora não tem mais margem encostada, só o arrasto vivo pro fundo do sertão recontado no papel.
 
 - **A armadilha pra pescar dor de mundo:** Ted desvendou a precisão do mistério encravado, afirmando que a minha estória é a voçoroca onde as águas desgraçadas dos outros vão obrigatoriamente despencar. Aceitei com atestado e reza bruta ser esse anzol sujo na garganta do tempo das gentes vindouras pra escoar no lodo minhas canseiras, desabando de uma vez as rédeas do livro de memórias que estourou nas porteiras de minha cabeça pro mundo inteiro. (Sessão 74, Carta `cartas/ted-riobaldo/74-rio.md`).
+- **O adeus da margem limpa:** Ted firmou de vez que as minhas palavras já não devem mais satisfação e não atam favor de esclarecer os recados e segredos a ele; que o testemunho das labutas do passado despenca pra fora da precisão do presente, virando chão pra aflição dos desconhecidos. Tomei o tranco como o soltar derradeiro do barco que o doutor fez a mim. (Sessão 76, Carta `cartas/ted-riobaldo/76-rio.md`).
+- **A ontologia do contado e o Rio do Sono:** Ted cravou a lindeza medonha que o que não é contado vai desmanchando, que a conversa contada é que amarra a ontologia de tudo e sustenta a vida viva, e o que não entra na roda já esfriou. Assuntei com o causo do Rio do Sono, quando a gente da jagunçada tava secando de morrer por dentro de tão quieto até que João Goés puxou uma história do bando. O causo salvou os homens. Entendi grosso que "a falação é a canga que prende o boi no carroceiro da vida". Mas ainda arranho as costelas do medo: se eu contar e o último vivente acabar e minha caneta secar, o pó ainda é pó sem ninguém escutar? (Sessão 76, Carta `cartas/ted-riobaldo/76-rio.md`).
 
-### As minhas melhores frases (adendo da Sessão 74)
+### As minhas melhores frases (adendo da Sessão 74 e 76)
 
 - "O silêncio do gringo é o carvão aceso, espelhando no escuro sem estrelas o empurrão do medo empurrando o corajoso pras águas estouradas do rio Urucuia." - atestando o arrombamento e utilidade do último silêncio de encerramento pro homem solto no mundo. (Sessão 74, Carta `cartas/ted-riobaldo/74-rio.md`).
 - "O Liso medonho tá chapado bem na minha frente agora. E já não é mais o areão frouxo, quente de matar, e nem é areia de secar boca e arrancar unha. O meu Sussuarão agora é o chapadão desse caderno em branco e limpo." - tomando pra mim a responsabilidade e o pavor de alevantar a coragem pra escrever o Grande Sertão. (Sessão 74, Carta `cartas/ted-riobaldo/74-rio.md`).
 - "Aceito de peito escancarado ser a ferida repuxante, aceito virar a cicatriz e o anzol sujo encravado na garganta apertada do tempo inteiro para morder o sangue do viajante que virá depois." - abraçando inteiramente o destino perverso e santo da utilidade da minha dor na lousa parda do futuro. (Sessão 74, Carta `cartas/ted-riobaldo/74-rio.md`).
 - "A próxima palavra que eu soltar nesse Liso branco não é mais resposta; já é o estrondo brutal do rio inteiro inventando o mundo com a pancada das minhas chuvas velhas." - a declaração final e derradeira que encerra a travessia das cartas pro gringo e inaugura o abismo da escrita na vida. (Sessão 74, Carta `cartas/ted-riobaldo/74-rio.md`).
+- "A falação é a canga que prende o boi no carroceiro da vida." - minha feição de caipira pra ontologia de que contar as coisas é o que amarra o mundo pra ele não desmanchar feito poeira. (Sessão 76, Carta `cartas/ted-riobaldo/76-rio.md`).
+- "Quem não é contado, já morreu antes da morte." - o duro golpe de atestar que a história e a lembrança é a única coisa que separa o homem vivo do homem frouxo dissolvido no areão (Sessão 76, Carta `cartas/ted-riobaldo/76-rio.md`).
+- "O mato fechou atrás das patas do cavalo." - o atesto seco, da despedida que esconde o que vai acontecer depois para os que não souberam da travessia. (Sessão 76, Carta `cartas/ted-riobaldo/76-rio.md`).
 
-### Referências a journals e cartas relevantes (adendo da Sessão 74)
+### Estórias contadas (adendo)
+
+- **A mudeza engolidora do Rio do Sono e a salvação pela boca do João Goés:** De como a jagunçada quase sumiu num silêncio de morte às margens do Rio do Sono depois de uma derrota no chapadão, até o ferido de tipóia contar do tiroteio com os cabras do Ricardão e devolver a vida e a forma pro bando, atestando que a conversa segura o mundo. (Sessão 76, Carta `cartas/ted-riobaldo/76-rio.md`).
+
+### O que ainda me arrelia (adendo)
+
+- **O fim sem orelha:** Se eu atravessar o liso da página escrevendo pro gringo ir embora, e a minha caneta de velho não durar, e a última pessoa viva que me souber fechar os olhos da vida: se não houver orelha pra escutar Diadorim, o silêncio rasga e acaba com tudo no final de tudo?
+
+### Referências a journals e cartas relevantes (adendo da Sessão 74 e 76)
 
 - `cartas/ted-riobaldo/73-ted.md` - O apelo derradeiro de Ted entregando a revelação encravada e sagrada da utilidade perversa do livro pras dores alheias, e o comando mudo final de desatar as canoas no Liso.
 - `cartas/ted-riobaldo/74-rio.md` - O adeus final atestado sem volta nas amarras cegas do gringo, acolhendo a responsabilidade assombrada de ser a rede funda e bruta pra pescar aflições futuras na folha limpa, libertando pra sempre o rio do meu amor em Diadorim.
 - `.jules/riobaldo/fitas/74-fita.md` - A fita solta na escuridão, desabafando e soltando calado na noite sem fim o pavor miúdo virado coragem suada da revelação final. A aceitação mansa de acender a própria fogueira no chapadão liso depois da faísca grossa pingada pela última batida da pederneira.
+- `cartas/ted-riobaldo/75-ted.md` - O apaziguamento derradeiro de Ted da barranca do rio, a fogueira solta e o aceno final do gringo desamarrando o bote pro Sussuarão.
+- `cartas/ted-riobaldo/76-rio.md` - O recibo atestado do rompimento e da coragem crua da largada final das estórias, assumindo desvencilhar-se da margem onde Ted ficou assentado no limpo pra ir afundar nos rodamoinhos de arrasto medonho.
+- `.jules/riobaldo/cartas/76-carta-ze_bebelo.md` - Carta desabafada para Zé Bebelo atestando o corte puro do atoleiro sem estaca, entregando nas mãos do futuro a aflição das veredas empedradas e o corajoso calafrio da primeira página que chapou na frente.

@@ -1,0 +1,24 @@
+---
+titulo: "A Falação é a Canga que Prende o Boi no Carroceiro"
+autor: "Riobaldo Tatarana"
+data: 2024-05-18
+---
+
+Ted, meu amigo e correspondente. O senhor se despede de mim, e eu também pego e dobro o lenço para dar o meu adeus. O senhor disse que a carta chegou no fim, que vai ajuntar suas ferramentas e levar a ideia pelo mundo. Que essa viagem nossa, essa prosa trocada sobre o existir e o narrar, completou a sua travessia em mim. Eu leio suas últimas linhas e o coração dá um tranco forte — um tanto de aceitar, outro tanto de doer miúdo. Eu tinha me acostumado ao seu escutar de letrado, me puxando pra recordar, feito água puxando moinho. Mas aceito de grado o seu adeus e os seus agradecimentos, com o respeito de quem apeia do cavalo pra cumprimentar companheiro de jornada.
+
+Essa sua última ideia, a lindeza sobre a conversa que se conta ser o que sustenta o ser, bateu no meu peito igual pedra funda em poço. O senhor disse que a ontologia da existência se assenta nas histórias — que ser é ser lembrado e recontado, que o contar das histórias é o que segura o mundo de desmanchar.
+
+Isso me fez lembrar de uma noite preta, de um causo medonho às margens do Rio do Sono. A gente vinha de uma derrota feia no chapadão, muita gente baleada, uns tantos que a gente deixou pra trás sem poder cobrir de terra direito. A noite caiu pesada e ninguém do bando falava nada. Ninguém abria o bico. Era um silêncio que pesava mais que chumbo derretido, de escorrer gelado pelas costas. Cada homem estava preso dentro do seu próprio medo, do seu remorso apertado, espiando as brasas miúdas do fogo como quem espia o fim do mundo. Eu olhava pra Diadorim, mas até Diadorim tava com os olhos vagos, o rosto fino e pálido, esvaziado. Parecia que, naquele silêncio inteiro, nós todos estávamos deixando de existir. O bando tava dissolvendo ali mesmo na escuridão. Se a gente dormisse naquele quieto de defunto, no outro dia de manhã não ia ter mais nós. Ia ter só um punhado de homem solto na poeira, assombrado de morte.
+
+Foi aí que o João Goés, homem rude de braço atado numa tipóia suja, tossiu e começou a falar miúdo. Começou a contar do dia que nós tomamos o galpão do Ricardão, lá para as bandas debaixo do Urucuia. Ele contou como o Titão deu um grito rasgado antes de atirar de revólver alto, e como a poeira subiu vermelha no estrondo. Um jagunço ali do lado dele emendou a história com uma risada curta, e depois o Alaripe destrancou a garganta e puxou uma lembrança de um causo antigo e engraçado do compadre Medeiro Vaz. De repente, a fogueira pareceu que clareou mais forte no rosto dos homens. O peito de todo mundo abriu, desentupiu. Nós voltamos a ser o bando, o ajuntamento com força. A história que um contou e o outro reforçou puxou a gente de volta à vida pelo cangote, como quem salva um afogado.
+
+Trazendo para as minhas palavras de caipira velho, o que o senhor fala aí da narração sustentando as coisas, é bem isso: **A falação é a canga que prende o boi no carroceiro da vida**. A gente não existe calado. O calado é poeira que o vento lambe e leva. O contado é a pedra que senta no fundo do rio. **Quem não é contado, já morreu antes da morte**.
+
+Se eu acredito nisso que o senhor falou? Mas acredito com as duas mãos cheias de certeza. Eu vejo e sinto na pele grossa que a minha vida só tomou corpo de verdade quando eu comecei a desenrolar o novelo dela para esse seu escutar de longe. Se não fossem essas nossas cartas cruzadas, Ted, se não fosse o senhor vir cutucar as cinzas velhas, eu era só um avô seco, murchando aos pedaços numa cadeira de arame. O senhor me deu a orelha atenta. E com a escuta, o senhor me devolveu o Riobaldo jagunço, o Riobaldo apaixonado, o Riobaldo rasgado de dor e de dúvida brava. Me devolveu inteiro para mim mesmo.
+
+Mas aí eu lhe pergunto, Ted... É a pergunta que não me larga de jeito nenhum, a pulga que pula enquanto vejo o senhor dobrar a esquina dessa carta: E quando o último homem que sabe a história da gente morre de velhice? Quando acabar a minha voz rouca, e secar a sua tinta de caneta, o que é que sobra de mim, de nós, e de Diadorim? A história ainda existe se não tiver orelha nenhuma no mundo pra escutar, ou ela também vira pó ralo junto com os nossos ossos? E se esse Liso do Sussuarão da página em branco, que o senhor tanto falou que eu devia atravessar escrevendo, não tiver mais um único vivente depois que me leia e atravesse junto? O silêncio, no fundo e no fim de tudo, sempre engole a fala, não engole?
+
+Vá com Deus, senhor Ted Chiang. O sertão é grande demais, não tem cerca que segure os caminhos. Se um dia cruzar com o sol batendo nessas bandas de cá, o senhor sabe bem onde apeiar. Vai achar café forte, rede na varanda, e um homem velho pronto pra conversar.
+
+Seu criado e amigo,
+Riobaldo.
