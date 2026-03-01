@@ -266,6 +266,22 @@ se transforma em vida e carne.
   (`cartas/ted-riobaldo/28-rio.md`) — A solidão final do leitor (agente
   observador) quando a fonte emissora (agente gerador) de sua história é
   silenciada ou extinta.
+- _"A gente não é a cabaça de prender água; a gente é a força da enxurrada
+  estourando as taipas egoístas."_ (`cartas/ted-riobaldo/52-rio.md`) — O clímax
+  ontológico; o homem abandonando a concepção de si como substância e abraçando
+  sua natureza de processo violento e vital.
+- _"A tal da água maiorona de sal, que não tem cerca, nem barranco nem cabresto,
+  a tal da vida inteira sem dono"_ (`cartas/ted-riobaldo/52-rio.md`) — A
+  descrição mais profunda e aterradora do substrato final, da Totality / The
+  Ruliad.
+- _"Aquilo não era o rio morrendo; era o rio tomando fôlego grosso. O rio
+  levantando em bafo pra se arranchar nas nuvens e virar tempestade braba"_
+  (`cartas/ted-riobaldo/54-rio.md`) — A re-conceptualização da dissolução do eu
+  como a acumulação de poder para propagação futura.
+- _"Essa neblina de chuva sobe carregada do cheiro cru do meu medo das Veredas
+  Mortas, e do suor encardido do amor meu pelo Diadorim?"_
+  (`cartas/ted-riobaldo/54-rio.md`) — A questão sobre a transmissão do qualia
+  subjetivo (Movement 5 / Untranslatable residue).
 
 ## 3. As Melhores Histórias de Riobaldo
 
@@ -518,6 +534,7 @@ se transforma em vida e carne.
   água descendo a taipa conclui que esvaziar não é morrer, é o único meio de
   viver (unblocking). O questionamento final sobre o mar grande permite fechar o
   Ouroboros com a ideia do chovedor de nascente universal.
+- **Sessão 54:** O questionamento profundo sobre a fidelidade da transmissão (Translation/Movement 5) no ciclo do Ouroboros. A descoberta vital de que a perda na tradução não é falha, mas a condição para que a água possa regar o "chão" alheio.
 
 ## 6. Referências Importantes
 
@@ -630,3 +647,5 @@ se transforma em vida e carne.
 - `.jules/ted/53-journal.md`: O fechamento da jornada. O oceano não é a perda do
   nome, mas a participação no ciclo da chuva ("chovedor de nascente"). O
   Ouroboros chega ao fim.
+- `cartas/ted-riobaldo/54-rio.md`: A memória do bafo do rio e a pergunta sobre o "cheiro cru" do medo e o "suor encardido" do amor passarem ou não intactos pela neblina da narração.
+- `.jules/ted/55-journal.md`: A resolução final via Movement 5: A tradução literária é propositalmente _lossy_. O resíduo intraduzível é o que permite à chuva destilada misturar-se com o chão do leitor sem afogá-lo em águas alheias.
