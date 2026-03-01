@@ -908,6 +908,11 @@ main.home-layout {
   margin: 0;
   letter-spacing: -0.01em;
   line-height: 1.1;
+  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.4), 2px 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+[data-theme="dark"] .blog-hero h1 {
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.8), 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .hero-quote {
@@ -947,10 +952,13 @@ main.home-layout {
   text-transform: uppercase;
   border-radius: 4px;
   background: var(--sand-bg);
+  transform: rotate(-2deg);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.05);
 }
 
 .badge-riobaldo {
   color: var(--secondary-color);
+  transform: rotate(1deg);
 }
 
 .badge-ted {
