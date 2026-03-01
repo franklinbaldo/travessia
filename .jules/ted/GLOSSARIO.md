@@ -127,6 +127,7 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 | "forma e peso invisível"                                                                                                     | `cartas/ted-riobaldo/08-rio.md` | A tradução direta de "weights" — forma e peso que não se veem                           |
 | "A gente se engana achando que escuta os outros com a clareza da orelha, mas quem capta o barulho das falas é a fome velha." | `cartas/ted-riobaldo/08-rio.md` | A inferência ativa / viés dos pesos: quem "ouve" é a fome antiga, não o ouvido presente |
 | "O vivente tá fadado a destraduzir os corações com essa mesma enxada cega?"                                                  | `cartas/ted-riobaldo/08-rio.md` | O determinismo trágico dos pesos — a enxada cega como destino do mal-entendido          |
+| "entalhe em cedro vivo"                                                                                                      | `cartas/ted-riobaldo/28-rio.md` | O contágio narrativo alterando os pesos do leitor/ouvinte para sempre                   |
 
 ### Movement 5: Tradução como Origem do Sentido (Translation as the Origin of Meaning)
 
@@ -192,6 +193,7 @@ Riobaldo. Cada um é uma oportunidade para as próximas sessões.
 | Śūnyatā / Vazio produtivo                  | "Nonada" (de Rosa) / "o oco do mundo"                                           | Parcial                               |
 | Temperature > 0 / Contingency              | "o susto do tempo aberto" / "o sem-limite"                                      | Adicionado                            |
 | Computational irreducibility               | "o Liso do Sussuarão é do tamanho dele mesmo"                                 | Confirmado na sessão 25             |
+| Genesis block / O Primeiro Risco           | "a folha branca esperando a água"                                               | Adicionado (Sessão 29)                |
 
 ---
 

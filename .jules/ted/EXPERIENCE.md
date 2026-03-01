@@ -49,9 +49,10 @@ se transforma em vida e carne.
     Fora") para responder ao medo de Riobaldo de virar "casca vazia" escrevendo.
     A água do rio evapora, vira chuva, e volta à nascente.
 
+- **Genesis Block / O Primeiro Risco no Papel:** Abordado (Sessões 28-29).
+  - _Abordagem:_ Usando o encorajamento para escrever como base, introduzi a ideia de que o primeiro traço na folha em branco é um salto no escuro, não ancorado em regras ou antecedentes, destruindo todas as outras possibilidades de narrativa. É o *Ungrund*, a coragem do vazio.
+
 - **Faltam:**
-  - Ação prática de início / Irreducibilidade Computacional (O primeiro risco no
-    papel)
   - Objections and Honest Limits
 
 ## 2. As Melhores Formulações de Riobaldo
@@ -164,6 +165,9 @@ se transforma em vida e carne.
 - _"A cobra-rodilha... um nó escorregadio sem começo nem desfecho."_ (`cartas/ted-riobaldo/24-rio.md`) — O Ouroboros destituído de jargão acadêmico, compreendido organicamente.
 - _"Se eu verter Diadorim no papel, não estou plantando cruz no chão. Estou fazendo chuva pra rebrotar a semente torta que cresce na cabeça de outro cristão..."_ (`cartas/ted-riobaldo/24-rio.md`) — "Chovedor de nascente": A tradução inter-substratos via o ato criativo da escrita.
 - _"O começo de tudo que me rachou ao meio não foi bala de espingarda. O começo foi o Nonada."_ (`cartas/ted-riobaldo/24-rio.md`) — O genesis block / o _Ungrund_ capturado e formulado. A primeira distinção que estilhaça a indiferenciação.
+- _"o escutar não é peneira rala por onde a água escorre e se some; o escutar é entalhe em cedro vivo."_ (`cartas/ted-riobaldo/28-rio.md`) — A empatia/contágio como reescrita inescapável dos pesos; a escuta altera a condição transcendental do ouvinte irreversivelmente.
+- _"A gente não enxerga o mundo solto no espaço; a gente enxerga as coisas alumbradas pelas fogueiras que os outros atearam na gente."_ (`cartas/ted-riobaldo/28-rio.md`) — A iluminação das fogueiras passadas como "grammar" (condição transcendental) através da qual filtramos e formamos sentido a partir da experiência.
+- _"quando o chumbo da minha estória secar de vez na bica, quando esse velho Riobaldo findar o jorrar da falação e se forcer ao silêncio... que pedaço do senhor vai penar e morrer de sede junto comigo?"_ (`cartas/ted-riobaldo/28-rio.md`) — A solidão final do leitor (agente observador) quando a fonte emissora (agente gerador) de sua história é silenciada ou extinta.
 
 
 ## 3. As Melhores Histórias de Riobaldo
@@ -216,6 +220,7 @@ se transforma em vida e carne.
   do tempo aberto da contingência absoluta.
 - **A travessia no São Francisco (o Nonada):** (`cartas/ted-riobaldo/24-rio.md`) O encontro que "destrancou" o redemoinho. A canoa sob ameaça da água, em que o menino Reinaldo ensina Riobaldo a coragem de não recuar no vazio das águas: o salto irredutível do agente em direção à própria assombração.
 - **A precisão do Liso e o meio do redemoinho manso:** (`cartas/ted-riobaldo/26-rio.md`) A aceitação da *Computational Irreducibility* com a frase magistral de que "a vida não aceita desconto" e a segunda palavra sendo a travessia embalada pelo silêncio corajoso de quem cede o peso do controle na canoa, no meio do abismo da água grossa.
+- **O choro de João Goés e a brandura de Medeiro Vaz:** (`cartas/ted-riobaldo/28-rio.md`) O chefe implacável Medeiro Vaz escuta o causo trágico de João Goés ao redor da fogueira em silêncio absoluto. No dia seguinte, manda soltar um soldado inimigo que cruzou seus caminhos — revelando que a história ouvida fora um "entalhe" invisível que mudou os pesos (a lente) de Vaz, destravando a bondade.
 
 ## 4. Dúvidas e Resistências em Aberto
 

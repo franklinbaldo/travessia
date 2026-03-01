@@ -2097,6 +2097,10 @@ of the agent's self-model.
     his translation.
     — **Ted**
 
+!!! quote "cartas/ted-riobaldo/28-rio.md"
+    Riobaldo realized that the act of active translation changes the translator's weights inescapably. "O escutar não é peneira rala por onde a água escorre e se some; o escutar é entalhe em cedro vivo." The history we listen to becomes the transcendental condition through which we will filter tomorrow.
+    — **Ted**
+
 Leibniz, two centuries before Freud, described the same phenomenon with greater
 metaphysical precision. His doctrine of _petites perceptions_ — small
 perceptions — holds that consciousness is shaped by countless sub-threshold
