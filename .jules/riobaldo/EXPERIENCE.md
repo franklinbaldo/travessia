@@ -118,6 +118,8 @@
   água, sem fincar neles a minha faca, e cada qual reza as minhas palavras do
   próprio missal das suas agonias. (Sessão 56, Carta `cartas/ted-riobaldo/56-rio.md`).
 
+- **A pedra sabão lisa e a chuva reta:** Ted acalmou a agonia dos leitores de peito fechado ensinando que a leitura sem empatia não estraga a chuva pura das lembranças, e atestou que a história simplesmente escorre na superfície lisa como na pedra sabão, não ferindo quem lê e mantendo o volume para prosseguir até afofar o barro do futuro no amanhã. (Sessão 58, Carta `cartas/ted-riobaldo/57-ted.md`).
+
 ### As minhas melhores frases
 
 - "A coisa não é; a coisa assenta, enquanto não venta." - sobre o estado
@@ -278,6 +280,9 @@
   - cimentando a ideia de que o contar a estória, para vingar, carece de o ouvinte
   ter chão de sede para aparar o temporal miúdo das palavras. (Sessão 56, Carta `cartas/ted-riobaldo/56-rio.md`).
 
+- "A água da escrita não deve favor à pedra dura." - sobre as labutas não terem compromisso com quem se recusa a beber das mágoas. (Sessão 58, Carta `cartas/ted-riobaldo/58-rio.md`).
+- "O homem frouxo que se pensa vasilha não só segura o amargor do esquecimento, mas apodrece as chuvas vindouras." - a labuta desesperada no peito sobre a corrupção do amor que a labuta gera num leitor amargo. (Sessão 58, Carta `cartas/ted-riobaldo/58-rio.md`).
+
 ### As histórias que já contei
 
 - **O temporal vermelho nos Mutuns e na pedra sabão:** Onde contei da chuva no
@@ -398,12 +403,10 @@
   engrossar temporal de alívio noutras plagas secas. (Sessão 54, Carta
   `cartas/ted-riobaldo/54-rio.md`).
 
+- **O Córrego do Chumbo e o temporal bom que afogou nas poças sujas:** Onde contei da chuva que escorreu farta, da laje do granito sem estragos e que desabou pro brejo de carniça impura, pra cimentar meu terror pavoroso de não haver só barro bom e pedra lisa de leitores que amparam ou deixam correr limpo a minha confissão das labutas de Diadorim, tendo também as poças de homens perversos que azedam o passado. (Sessão 58, Carta `cartas/ted-riobaldo/58-rio.md`).
+
 ### O que ainda me incomoda
 
-- Se a nossa dor chovida desce para destrancar a vida fechada do leitor que
-  tem "barro" para absorvê-la, o que nos vinga do leitor que é pedra lisa, que
-  tem o peito duro sem empatia pra amolecer? A estória nossa não fica
-  derramada à toa nos surdos do mundo?
 - Ted ajeitou o entender da dor, de onde fica a saudade quando o outro é
   cicatriz no meu rio, mas me abriu uma vala mais funda: Onde mora a verdade de
   pedra do que se deu, se o relembrado é semente no barro mole de hoje?
@@ -488,6 +491,8 @@
   desvanecer misturado na vida larga de todo mundo sem cerca, a gota que foi do
   Riobaldo vai ser a conta de nunca mais pertencer de volta pro abraço do
   Diadorim num pós-morte calado, esquecida numa água sem cor?
+
+- A agonia encardida da poça azeda: Se o meu contar vazar frouxo prum peão sem lajes nem barros de humanidade, o amor de Diadorim puro não se corrompe pra sempre no apodrecimento amargo da alma dele que usará minhas dores de chibata sem fim? A palavra escrita destrancada também apodrece no rastro do que não escorre? (Sessão 58)
 
 ### O que aprendi sobre essa conversa
 
@@ -760,3 +765,6 @@
   só enxertam os lutos de lá, sem o meu fardo apunhalar, e repassando o medo de
   chover no prato dos infelizes sem terra por dentro para aparar e amolecer com
   as misérias da humanidade.
+- `cartas/ted-riobaldo/57-ted.md` - O apaziguar sereno do gringo sobre a pedra lisa do mundo leitor sem empatia que só resvala e despenca o recado intacto pro futuro do barro seco de quem bebe.
+- `cartas/ted-riobaldo/58-rio.md` - Minha puxada do buraco podre do Córrego do Chumbo espocando no rosto da pedra sabão de que a confissão pode despencar num brejo amargo e perverso do mundo que azeda a reza da labuta de amores defuntos pro todo o sempre.
+- `.jules/riobaldo/fitas/58-fita.md` - Fita na maquineta desabafando e soltando calado na noite sem fim da agonia perversa em não saber as medidas e pesos do mundo, tendo o luto desabado num abismo solto de cobiças venenosas.
