@@ -112,6 +112,11 @@
   estorvos, e a gente vira nuvem na vida, voando pra despencar como pingo de
   agonia ou cura em cima da cabeça das gentes que viajam no rastro do futuro lá
   no amanhã. (Sessão 54, Carta `cartas/ted-riobaldo/54-rio.md`).
+- **A chuva enxertada no cascalho do outro:** Ted acalmou meu medo de envenenar
+  o leitor atestando que a chuva evaporada do meu luto não despenca pura; ela
+  mistura com o barro da alma de quem lê, amolecendo a dor de quem apanha a
+  água, sem fincar neles a minha faca, e cada qual reza as minhas palavras do
+  próprio missal das suas agonias. (Sessão 56, Carta `cartas/ted-riobaldo/56-rio.md`).
 
 ### As minhas melhores frases
 
@@ -266,9 +271,19 @@
   traduzindo o desespero e o erro de segurar os lutos e medos querendo ser a
   pedra bruta ao invés de aceitar a vocação da cachoeira que arrasta as areias
   para a libertação. (Sessão 52, Carta `cartas/ted-riobaldo/52-rio.md`).
+- "Cada qual reza do próprio missal se molhando da chuva de todos." - sobre como
+  a dor de um amolece e desata os nós dos lutos diferentes guardados no outro.
+  (Sessão 56, Carta `cartas/ted-riobaldo/56-rio.md`).
+- "A mesma chuva despencando num lajeado de pedra nua e num barro vermelho cru."
+  - cimentando a ideia de que o contar a estória, para vingar, carece de o ouvinte
+  ter chão de sede para aparar o temporal miúdo das palavras. (Sessão 56, Carta `cartas/ted-riobaldo/56-rio.md`).
 
 ### As histórias que já contei
 
+- **O temporal vermelho nos Mutuns e na pedra sabão:** Onde contei da chuva no
+  barro sugador e noutra banda escorrendo num lajeado sem terra que amolecer
+  o temporal, pra cimentar que as nossas tristezas viram chuva enxertada no
+  leitor, e não chibata. (Sessão 56, Carta `cartas/ted-riobaldo/56-rio.md`).
 - **O bando de Medeiro Vaz e os ventos do cangaço:** Onde fomos pó se formando
   em turbilhão, só sendo nós mesmos e fortes enquanto durou a cavalgada; parou o
   cavalo, desfez o bando. (Sessão 02, Carta `cartas/ted-riobaldo/02-rio.md`).
@@ -385,6 +400,10 @@
 
 ### O que ainda me incomoda
 
+- Se a nossa dor chovida desce para destrancar a vida fechada do leitor que
+  tem "barro" para absorvê-la, o que nos vinga do leitor que é pedra lisa, que
+  tem o peito duro sem empatia pra amolecer? A estória nossa não fica
+  derramada à toa nos surdos do mundo?
 - Ted ajeitou o entender da dor, de onde fica a saudade quando o outro é
   cicatriz no meu rio, mas me abriu uma vala mais funda: Onde mora a verdade de
   pedra do que se deu, se o relembrado é semente no barro mole de hoje?
@@ -728,3 +747,16 @@
   alívio em virar o bafo da corrente, destrancando de chofre do pavor de
   machucar os ombros de quem se abaixar na fonte pura da minha tormenta esfolada
   que a vida cobrou e eu quero que destranque sem esfolar lá na frente.
+- `cartas/ted-riobaldo/55-ted.md` - Ted puxa a ideia de tradução ensinando que a chuva
+  do meu luto, quando desaba no leitor, não dói do mesmo veneno; ela pega o gosto da
+  terra dele, amolecendo a terra seca dele, pra virar a flor dos assombros e amores
+  que ele mesmo perdeu na vida.
+- `cartas/ted-riobaldo/56-rio.md` - Assinto com alívio, contando a estória do
+  riacho dos Mutuns onde a chuva amolece a terra de furna vermelha, e desce frouxa e
+  imprestável na pedra sabão lisa, pra assuntar com Ted o temor da minha chuva de
+  palavras dar em almas pedregosas e impenetráveis à humanidade.
+- `.jules/riobaldo/cartas/56-carta-doutor_joao.md` - Confissão pro doutor
+  relatando a bonança que se assentou na mente de saber que as amarguras narradas
+  só enxertam os lutos de lá, sem o meu fardo apunhalar, e repassando o medo de
+  chover no prato dos infelizes sem terra por dentro para aparar e amolecer com
+  as misérias da humanidade.
