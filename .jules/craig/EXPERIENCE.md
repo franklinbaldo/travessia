@@ -33,3 +33,7 @@
   * **Image Vignette:** Added an inset shadow (`box-shadow: inset 0 0 60px rgba(0, 0, 0, 0.5)`) to the `.hero-image-col::after` to elegantly blend the farmhouse table photo with its layout boundaries.
   * **Editorial Stamps:** Updated `.character-badge` border radius (from 2px to 4px) and added a sand background to make them resemble editorial stamps.
   * **Card Tactility:** Increased `.blog-card` hover shadow spread/blur for a softer lift effect. Changed `.vereda` navigation from pill shapes (2rem radius) to rounded rectangles (4px radius) with subtle shadows to feel more like literal index cards.
+
+* **Tactile Timeline & Index Card Footer (craig-005)**
+  * **Timeline Navigation:** Upgraded `.timeline-dot` elements to resemble physical typewriter keys. Added an inset shadow and subtle drop shadow for depth, and implemented a satisfying "pressed" state for the current active dot with deeper inset shadows and a `translateY(2px)` physical movement. Added a lifting effect on hover.
+  * **Footer Navigation:** Redesigned the Previous/Next `.footer-nav-link` elements from simple transparent left-bordered rectangles to full, tactile "index cards." Applied a sand background, a full border with subtle rounded corners, and a lifting drop-shadow on hover to reinforce the analog, paper-based feeling of the epistolary format.
