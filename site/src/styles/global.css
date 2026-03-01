@@ -626,8 +626,13 @@ body * {
 
 .manuscrito-header h1 {
   font-size: clamp(2rem, 4vw, 3rem);
-  color: var(--accent-color);
+  color: var(--text-color);
   margin-bottom: 0.5rem;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.4), 1px 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+[data-theme="dark"] .manuscrito-header h1 {
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.8), 1px 1px 2px rgba(0, 0, 0, 0.5);
 }
 
 .manuscrito-header h2 {
@@ -1275,12 +1280,19 @@ main.home-layout {
 }
 
 .post-meta time {
-  font-family: var(--font-body);
-  font-variant: small-caps;
-  font-size: 1.1rem;
-  letter-spacing: 0.05em;
-  text-transform: none;
-  text-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
+  font-family: var(--font-meta);
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--meta-color);
+  border-bottom: 1px dotted var(--divider-color);
+  padding-bottom: 0.1rem;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+}
+
+[data-theme="dark"] .post-meta time {
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
 }
 
 /* === Carta Author Badge (reading page) === */
@@ -1295,40 +1307,62 @@ main.home-layout {
   font-family: var(--font-meta);
   font-size: 0.75rem;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.15em;
   padding: 0.3rem 0.9rem;
-  border-radius: 3px;
+  border-radius: 2px;
+  border: 1px dashed var(--divider-color);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
 }
 
 .autor-badge.autor-rio {
-  background: rgba(139, 58, 42, 0.1);
+  background: var(--sand-bg);
   color: var(--secondary-color);
+  border-color: rgba(139, 58, 42, 0.3);
 }
 
 .autor-badge.autor-ted {
-  background: rgba(122, 111, 98, 0.1);
+  background: var(--sand-bg);
   color: var(--meta-color);
+  border-color: rgba(122, 111, 98, 0.3);
 }
 
 /* === Correspondence Context === */
 
 .correspondence-context {
-  margin-bottom: 1.5rem;
-  padding: 0.75rem 1rem;
-  background: var(--sand-bg);
-  border-left: 3px solid var(--accent-color);
-  border-radius: 3px;
-  display: flex;
+  display: inline-flex;
+  margin: 0 auto 2rem;
+  padding: 0.6rem 1.2rem;
+  background: var(--bg-color);
+  border: 1px solid var(--divider-color);
+  border-radius: 2px;
   gap: 0.5rem;
   align-items: center;
   font-family: var(--font-meta);
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.06em;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.04);
+  transform: rotate(-1deg);
+  transition: transform 0.3s ease;
+}
+
+.correspondence-context:hover {
+  transform: rotate(0deg) scale(1.02);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.06);
+}
+
+[data-theme="dark"] .correspondence-context {
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+[data-theme="dark"] .correspondence-context:hover {
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
 }
 
 .correspondence-flow {
-  display: contents;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
 }
 
 .correspondence-label {
