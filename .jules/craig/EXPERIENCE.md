@@ -22,3 +22,9 @@
     * Increased `.blog-feed` gap from `1.5rem` to `2.5rem`.
     * Softened `.blog-card` and `.featured-post` border radii from `6px` to `8px`.
     * Upgraded the hover state drop shadows for both light (`0 8px 24px rgba(0, 0, 0, 0.08)`) and dark modes (`0 8px 24px rgba(0, 0, 0, 0.25)`) to create a more delicate "lifting paper" effect.
+
+* **Literary and Navigation Polish (craig-003)**
+  * **Literary Flourish:** Added a classic drop cap to the first paragraph of letter bodies to emphasize the epistolary, book-like format.
+  * **Links:** Upgraded inline link styling from basic dotted borders to a cleaner `text-decoration: underline` approach with an offset for improved legibility.
+  * **Timeline Navigation:** Refined the correspondence timeline layout into a horizontally scrollable, non-wrapping row, providing a clearer linear progression. Added a subtle shadow to the active dot.
+  * **Content Images:** Added default styling (border radius and shadow) for standard images inserted within letter bodies to appear as loose photographs.
