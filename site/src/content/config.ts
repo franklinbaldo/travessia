@@ -1,14 +1,10 @@
 import { z, defineCollection } from "astro:content";
 import { glob } from "astro/loaders";
-import { fileURLToPath, pathToFileURL } from "url";
-import path from "path";
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const dialogoCollection = defineCollection({
   loader: glob({
     pattern: "**/*.md",
-    base: pathToFileURL(path.join(__dirname, "../../../cartas/ted-riobaldo")),
+    base: "../cartas/ted-riobaldo",
   }),
   schema: z.object({
     titulo: z.string(),
@@ -20,7 +16,7 @@ const dialogoCollection = defineCollection({
 const manuscritoCollection = defineCollection({
   loader: glob({
     pattern: "**/*.md",
-    base: pathToFileURL(path.join(__dirname, "../../../manuscrito")),
+    base: "../manuscrito",
   }),
   schema: z.object({
     titulo: z.string(),
@@ -34,21 +30,21 @@ const manuscritoCollection = defineCollection({
 const bastidoresRiobaldoCollection = defineCollection({
   loader: glob({
     pattern: "**/*.md",
-    base: pathToFileURL(path.join(__dirname, "../../../.jules/riobaldo")),
+    base: "../.jules/riobaldo",
   }),
 });
 
 const bastidoresTedCollection = defineCollection({
   loader: glob({
     pattern: "*-journal.md",
-    base: pathToFileURL(path.join(__dirname, "../../../.jules/ted")),
+    base: "../.jules/ted",
   }),
 });
 
 const docsCollection = defineCollection({
   loader: glob({
     pattern: "{events-all-the-way-down,riobaldo-blueprint}.md",
-    base: pathToFileURL(path.join(__dirname, "../../../.jules/ted")),
+    base: "../.jules/ted",
   }),
 });
 
