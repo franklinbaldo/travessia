@@ -8,6 +8,8 @@ on:
       # Only content agents trigger the chain — design agents don't loop back
       - ".jules/ted/**"
       - ".jules/riobaldo/**"
+  repository_dispatch:
+    types: [jules-chain]
   schedule:
     # Watchdog: restarts a stalled chain. Daily cap prevents doubling up
     # when the chain is healthy. Runs every hour as a safety net.
