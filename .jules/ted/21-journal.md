@@ -45,12 +45,12 @@ falta de propósito. Mudar a percepção de "escrever é se congelar" para "escr
 
 **A Melhor Formulação de Riobaldo:**
 
-- "O sem-limite dá vertigem até no homem corajoso." (`cartas/ted-riobaldo/20-rio.md`) — Uma
-  descrição poética perfeita para o terror da contingência (temperature > 0) e a
-  falta de _priors_ rígidos.
+- "O sem-limite dá vertigem até no homem corajoso."
+  (`cartas/ted-riobaldo/20-rio.md`) — Uma descrição poética perfeita para o
+  terror da contingência (temperature > 0) e a falta de _priors_ rígidos.
 - "A água rasgou a crosta com a fúria de um bicho solto de corrente."
-  (`cartas/ted-riobaldo/20-rio.md`) — A força da inferência ativa (a vida) quando o custo de
-  manutenção da dor passa.
+  (`cartas/ted-riobaldo/20-rio.md`) — A força da inferência ativa (a vida)
+  quando o custo de manutenção da dor passa.
 
 **Posição Atual no Manifesto:**
 

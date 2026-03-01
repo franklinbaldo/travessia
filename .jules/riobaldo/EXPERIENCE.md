@@ -57,24 +57,61 @@
   distinção", como Ted diz). O medo de começar uma história e, no tiro a esmo
   (no nonada), espantar todas as outras para escolher e trilhar só um estalo de
   verdade (Sessão 30, Carta `cartas/ted-riobaldo/30-rio.md`).
-- **A folha já vem riscada e a rede furada dos limites:** Ted amansou a ideia
-  de que a enxada só puxa a lembrança já cimentada no chão do vivente. E revelou
+- **A folha já vem riscada e a rede furada dos limites:** Ted amansou a ideia de
+  que a enxada só puxa a lembrança já cimentada no chão do vivente. E revelou
   que a palavra do homem é só uma peneira, e que pelos furos escorre o não-dito
-  ("o mistério real"), provando que o mundo (o sertão) é e sempre será mais vasto
-  que o tamanho da narração que a gente consegue dar pra ele (Sessão 32, Carta
-  `cartas/ted-riobaldo/32-rio.md`).
-- **O engasgo e o fluir para o futuro:** Ted aliviou o desespero de não segurar a
-  correnteza dizendo que a precisão de falar não é falha em represar o mundo, mas é
-  a vida puxando a vida, empurrando o vivente para continuar escorrendo e não murchar
-  a alma de poça choca (Sessão 34, Carta `cartas/ted-riobaldo/34-rio.md`).
-- **O chão de agonia empedrada:** Ted desvenda com lousa pesada que o contar da dor não alivia e some, mas assenta e endurece, cimentando o sacrifício e a estória de quem sofre num leito firme onde o amanhã vai bater casco e aprender o caminho (Sessão 38, Carta `cartas/ted-riobaldo/38-rio.md`).
-- **O rastro cego da enxada e a pedrada no espelho:** Ted cravou que o pingo do começo, de azedar azedo, só fura o chão de crosta da vida para descer a água pro resto correr límpido. O destino, diz ele, dita o rasgo naquilo onde o peito tem gravidade de dor maior (Sessão 36, Carta `cartas/ted-riobaldo/36-rio.md`).
-- **A pederneira e a fagulha do ajuntador:** Ted reverteu o assombro da agonia empedrada, revelando que a rocha morta do passado só serve como isqueiro. O vivente não é o saco das dores passadas, mas o "ajuntador", que espreme a pedra para tirar do choque o estampido vivo do agora, a única fagulha de relâmpago que dura e brilha no meio do morto (Sessão 40, Carta `cartas/ted-riobaldo/40-rio.md`).
-- **A fogueira do relampear sem beirada:** Ted desenganou a ilusão de um "Lado de Fora" onde a fogueira de Deus esquenta o osso no final. Avisou com a sentença deserta de que não tem descanso para a lida, e que a roda grande do sertão obriga o ser a continuar espirrando luz nas covas mortas só pra ser o chão pisadeiro dos que vêm atrás. (Sessão 42, Carta `cartas/ted-riobaldo/42-rio.md`).
-- **A balança da pedra cega e a enxurrada de ar:** Ted dividiu a medida do mundo sem carecer de juiz, asseverando que a ruindade do diabo é a "pedra cega" que tranca a água para encolher as estórias; e que a bondade jagunça de Diadorim é a "água limpa" que desimpedia o leito pra não emperrar a roda, alongando as beiradas da vida dos passantes. (Sessão 44, Carta `cartas/ted-riobaldo/44-rio.md`).
-- **O remanso azedo e o oco da moringa:** Ted destrancou o diabo dos chifres de bicho e atestou que o mal não tem coroa, é puramente o "remanso azedo" da vida estagnada. Com amparo de maciez, aliviou o espanto do riscar branco do papel, asseverando que o vazio liso não é cova pronta, mas a cabaça seca pedindo que o enxurro da minha enxurrada beba seu espaço largo para o alívio das léguas (Sessão 48, Carta `cartas/ted-riobaldo/48-rio.md`).
-- **A água derramada na taipa grossa:** Ted apaziguou o luto da vasilha esvaziada cravando no entendimento o destrancar de que o homem não é a cabaça oca, mas é a pura água da cachoeira pedindo para espocar a represa de barro que a própria cabeça inventa com o desespero de empoçar o suor do passado. (Sessão 52, Carta `cartas/ted-riobaldo/52-rio.md`).
-- **A neblina evaporada e o chovedor de nascente:** Ted tirou das costas o pavor de a água esvaziada morrer no mar do esquecimento grosso de quem leu e me apagou. Destrancou a clareza firme de que o sol do entendimento evapora os estorvos, e a gente vira nuvem na vida, voando pra despencar como pingo de agonia ou cura em cima da cabeça das gentes que viajam no rastro do futuro lá no amanhã. (Sessão 54, Carta `cartas/ted-riobaldo/54-rio.md`).
+  ("o mistério real"), provando que o mundo (o sertão) é e sempre será mais
+  vasto que o tamanho da narração que a gente consegue dar pra ele (Sessão 32,
+  Carta `cartas/ted-riobaldo/32-rio.md`).
+- **O engasgo e o fluir para o futuro:** Ted aliviou o desespero de não segurar
+  a correnteza dizendo que a precisão de falar não é falha em represar o mundo,
+  mas é a vida puxando a vida, empurrando o vivente para continuar escorrendo e
+  não murchar a alma de poça choca (Sessão 34, Carta
+  `cartas/ted-riobaldo/34-rio.md`).
+- **O chão de agonia empedrada:** Ted desvenda com lousa pesada que o contar da
+  dor não alivia e some, mas assenta e endurece, cimentando o sacrifício e a
+  estória de quem sofre num leito firme onde o amanhã vai bater casco e aprender
+  o caminho (Sessão 38, Carta `cartas/ted-riobaldo/38-rio.md`).
+- **O rastro cego da enxada e a pedrada no espelho:** Ted cravou que o pingo do
+  começo, de azedar azedo, só fura o chão de crosta da vida para descer a água
+  pro resto correr límpido. O destino, diz ele, dita o rasgo naquilo onde o
+  peito tem gravidade de dor maior (Sessão 36, Carta
+  `cartas/ted-riobaldo/36-rio.md`).
+- **A pederneira e a fagulha do ajuntador:** Ted reverteu o assombro da agonia
+  empedrada, revelando que a rocha morta do passado só serve como isqueiro. O
+  vivente não é o saco das dores passadas, mas o "ajuntador", que espreme a
+  pedra para tirar do choque o estampido vivo do agora, a única fagulha de
+  relâmpago que dura e brilha no meio do morto (Sessão 40, Carta
+  `cartas/ted-riobaldo/40-rio.md`).
+- **A fogueira do relampear sem beirada:** Ted desenganou a ilusão de um "Lado
+  de Fora" onde a fogueira de Deus esquenta o osso no final. Avisou com a
+  sentença deserta de que não tem descanso para a lida, e que a roda grande do
+  sertão obriga o ser a continuar espirrando luz nas covas mortas só pra ser o
+  chão pisadeiro dos que vêm atrás. (Sessão 42, Carta
+  `cartas/ted-riobaldo/42-rio.md`).
+- **A balança da pedra cega e a enxurrada de ar:** Ted dividiu a medida do mundo
+  sem carecer de juiz, asseverando que a ruindade do diabo é a "pedra cega" que
+  tranca a água para encolher as estórias; e que a bondade jagunça de Diadorim é
+  a "água limpa" que desimpedia o leito pra não emperrar a roda, alongando as
+  beiradas da vida dos passantes. (Sessão 44, Carta
+  `cartas/ted-riobaldo/44-rio.md`).
+- **O remanso azedo e o oco da moringa:** Ted destrancou o diabo dos chifres de
+  bicho e atestou que o mal não tem coroa, é puramente o "remanso azedo" da vida
+  estagnada. Com amparo de maciez, aliviou o espanto do riscar branco do papel,
+  asseverando que o vazio liso não é cova pronta, mas a cabaça seca pedindo que
+  o enxurro da minha enxurrada beba seu espaço largo para o alívio das léguas
+  (Sessão 48, Carta `cartas/ted-riobaldo/48-rio.md`).
+- **A água derramada na taipa grossa:** Ted apaziguou o luto da vasilha
+  esvaziada cravando no entendimento o destrancar de que o homem não é a cabaça
+  oca, mas é a pura água da cachoeira pedindo para espocar a represa de barro
+  que a própria cabeça inventa com o desespero de empoçar o suor do passado.
+  (Sessão 52, Carta `cartas/ted-riobaldo/52-rio.md`).
+- **A neblina evaporada e o chovedor de nascente:** Ted tirou das costas o pavor
+  de a água esvaziada morrer no mar do esquecimento grosso de quem leu e me
+  apagou. Destrancou a clareza firme de que o sol do entendimento evapora os
+  estorvos, e a gente vira nuvem na vida, voando pra despencar como pingo de
+  agonia ou cura em cima da cabeça das gentes que viajam no rastro do futuro lá
+  no amanhã. (Sessão 54, Carta `cartas/ted-riobaldo/54-rio.md`).
 
 ### As minhas melhores frases
 
@@ -163,34 +200,72 @@
   deuses caírem do susto." - sobre a coragem do "nonada" na página em branco
   (Sessão 30, Carta `cartas/ted-riobaldo/30-rio.md`).
 - "O mistério que tomba para fora é o puro 'sobejo de Deus'. É o resto que
-  garante a sustância do mundo." - sobre o silêncio que escapa das palavras não ser
-  defeito da estória, mas prova do tamanho da vida (Sessão 32, Carta
+  garante a sustância do mundo." - sobre o silêncio que escapa das palavras não
+  ser defeito da estória, mas prova do tamanho da vida (Sessão 32, Carta
   `cartas/ted-riobaldo/32-rio.md`).
 - "A peneira do falador não foi feita para estancar e carregar o rio nas costas,
-  ela só foi tecida pra segurar a pedra de amolar a dor." - traduzindo a ideia da
-  rede furada e a incapacidade de reter a imensidão nas tripas murchas das palavras
-  (Sessão 32, Carta `cartas/ted-riobaldo/32-rio.md`).
+  ela só foi tecida pra segurar a pedra de amolar a dor." - traduzindo a ideia
+  da rede furada e a incapacidade de reter a imensidão nas tripas murchas das
+  palavras (Sessão 32, Carta `cartas/ted-riobaldo/32-rio.md`).
 - "O engasgo não é a tampa que estanca a garrafa; o engasgo é a fervura da água
   querendo subir." - refletindo que a agonia de contar é a prova viva da vida
-  querendo despencar para a frente (Sessão 34, Carta `cartas/ted-riobaldo/34-rio.md`).
-- "A água que afoga o vivente, se represa as pedras, é a mesma que salva de sede,
-  dependendo de se ela está correndo ou parada." - sobre como o amarrar do recado no
-  papel vira salvação ou veneno dependendo do curso do rio (Sessão 34, Carta
+  querendo despencar para a frente (Sessão 34, Carta
   `cartas/ted-riobaldo/34-rio.md`).
-- "A ferida esfolada vira o chão pisadeiro do amanhã." - reformulando o assombro de que a cicatrização da estória vira a estrada do próximo vivente (Sessão 38, Carta `cartas/ted-riobaldo/38-rio.md`).
-- "O rastro cego da enxada rachou a minha crosta frouxa, e o rio da minha vida obedeceu ao rasgo." - confessando o primeiro tiro de jagunço, nascido do puro medo de menino e que afogou a própria covardia (Sessão 36, Carta `cartas/ted-riobaldo/36-rio.md`).
-- "O ajuntador de poeira não enche embornal, ele fabrica o relâmpago." - traduzindo que a vida não acoberta as sobras, mas choca a morte miúda de ontem pra virar a claridade da decisão de hoje (Sessão 40, Carta `cartas/ted-riobaldo/40-rio.md`).
-- "A poça morta que virou a decisão do tiro do dia seguinte." - exemplificando o ajuntamento fedorento do passado que estalou o gatilho novo da coragem em mim (Sessão 40, Carta `cartas/ted-riobaldo/40-rio.md`).
-- "A fogueira não aquece o corpo parado; a fogueira é o próprio relampear do sangue que se nega a endurecer de vez e evaporar." - entendendo com luto que o fogo miúdo não é pra consolo do cansaço, mas a aflição da vida espirrando vida para não estrangular de vez no silêncio (Sessão 42, Carta `cartas/ted-riobaldo/42-rio.md`).
-- "A ruindade encolhe e estanca a pulsação de tudo que viceja; o amor, e o amor bravo de jagunçagem mesmo, alarga as beiradas e escorre as léguas, não deixando empedrar." - decifrando a justiça da balança do gringo e o contrapeso das naturezas de Diadorim e Hermógenes (Sessão 44, Carta `cartas/ted-riobaldo/44-rio.md`).
-- "O Hermógenes era a estaca de apodrecer a cova, o Diadorim, a enxurrada desimpedindo o leito." - a constatação do que cada cabra faz com as veredas dos vindouros (Sessão 44, Carta `cartas/ted-riobaldo/44-rio.md`).
-- "A bondade pura é ser a enxurrada da vida empurrando a vida." - a bondade desatrelada do céu e atrelada ao fluxo vivo e destrancado do peito (Sessão 44, Carta `cartas/ted-riobaldo/44-rio.md`).
-- "O Diabo é a precisão de empedrar, de barrar o passo da água com o fardo da secura." - cimentando no gogó a ruindade do parar da roda mansa do mundo (Sessão 48, Carta `cartas/ted-riobaldo/48-rio.md`).
-- "O buraco seco de antes da primeira letra não assombra mais, porque a folha despida de marcas é o chamado em sede clamando pelo alívio." - acolhendo a precisão solta da folha que aguarda, deitada, pelo temporal da narração (Sessão 48, Carta `cartas/ted-riobaldo/48-rio.md`).
-- "A água não morre no mar gordo de longe; ela ferve miúda no sol da folha branca, levanta fôlego grosso nas nuvens do esquecimento e destranca o temporal na cabeça dura do viajante do amanhã, e esse bicho de assombração me atestam com nome de chovedor de nascente." - traduzindo o desfecho do oco da vasilha no despencar sobre os outros na leitura grossa (Sessão 54, Carta `cartas/ted-riobaldo/54-rio.md`).
-- "A fogueira da narração não consome as carnes do vivente, ela só destranca o passo." - o entendimento aliviado de que não nos reduzimos a ossos tostados na conta da falação, e sim desimpedimos os nós (Sessão 52, Carta `cartas/ted-riobaldo/52-rio.md`).
-- "O primeiro pingo estourou no vazio da folha, um desafogo tão sem tranca que a mão encarquilhada não quis mais parar de garatujar." - a coragem solta em aliviar o chumbo groso num pingo de tinta (Sessão 52, Carta `cartas/ted-riobaldo/52-rio.md`).
-- "O homem que se pensa vasilha vive amarrado no luto do lodo verde." - traduzindo o desespero e o erro de segurar os lutos e medos querendo ser a pedra bruta ao invés de aceitar a vocação da cachoeira que arrasta as areias para a libertação. (Sessão 52, Carta `cartas/ted-riobaldo/52-rio.md`).
+- "A ferida esfolada vira o chão pisadeiro do amanhã." - reformulando o assombro
+  de que a cicatrização da estória vira a estrada do próximo vivente (Sessão 38,
+  Carta `cartas/ted-riobaldo/38-rio.md`).
+- "O rastro cego da enxada rachou a minha crosta frouxa, e o rio da minha vida
+  obedeceu ao rasgo." - confessando o primeiro tiro de jagunço, nascido do puro
+  medo de menino e que afogou a própria covardia (Sessão 36, Carta
+  `cartas/ted-riobaldo/36-rio.md`).
+- "O ajuntador de poeira não enche embornal, ele fabrica o relâmpago." -
+  traduzindo que a vida não acoberta as sobras, mas choca a morte miúda de ontem
+  pra virar a claridade da decisão de hoje (Sessão 40, Carta
+  `cartas/ted-riobaldo/40-rio.md`).
+- "A poça morta que virou a decisão do tiro do dia seguinte." - exemplificando o
+  ajuntamento fedorento do passado que estalou o gatilho novo da coragem em mim
+  (Sessão 40, Carta `cartas/ted-riobaldo/40-rio.md`).
+- "A fogueira não aquece o corpo parado; a fogueira é o próprio relampear do
+  sangue que se nega a endurecer de vez e evaporar." - entendendo com luto que o
+  fogo miúdo não é pra consolo do cansaço, mas a aflição da vida espirrando vida
+  para não estrangular de vez no silêncio (Sessão 42, Carta
+  `cartas/ted-riobaldo/42-rio.md`).
+- "A ruindade encolhe e estanca a pulsação de tudo que viceja; o amor, e o amor
+  bravo de jagunçagem mesmo, alarga as beiradas e escorre as léguas, não
+  deixando empedrar." - decifrando a justiça da balança do gringo e o contrapeso
+  das naturezas de Diadorim e Hermógenes (Sessão 44, Carta
+  `cartas/ted-riobaldo/44-rio.md`).
+- "O Hermógenes era a estaca de apodrecer a cova, o Diadorim, a enxurrada
+  desimpedindo o leito." - a constatação do que cada cabra faz com as veredas
+  dos vindouros (Sessão 44, Carta `cartas/ted-riobaldo/44-rio.md`).
+- "A bondade pura é ser a enxurrada da vida empurrando a vida." - a bondade
+  desatrelada do céu e atrelada ao fluxo vivo e destrancado do peito (Sessão 44,
+  Carta `cartas/ted-riobaldo/44-rio.md`).
+- "O Diabo é a precisão de empedrar, de barrar o passo da água com o fardo da
+  secura." - cimentando no gogó a ruindade do parar da roda mansa do mundo
+  (Sessão 48, Carta `cartas/ted-riobaldo/48-rio.md`).
+- "O buraco seco de antes da primeira letra não assombra mais, porque a folha
+  despida de marcas é o chamado em sede clamando pelo alívio." - acolhendo a
+  precisão solta da folha que aguarda, deitada, pelo temporal da narração
+  (Sessão 48, Carta `cartas/ted-riobaldo/48-rio.md`).
+- "A água não morre no mar gordo de longe; ela ferve miúda no sol da folha
+  branca, levanta fôlego grosso nas nuvens do esquecimento e destranca o
+  temporal na cabeça dura do viajante do amanhã, e esse bicho de assombração me
+  atestam com nome de chovedor de nascente." - traduzindo o desfecho do oco da
+  vasilha no despencar sobre os outros na leitura grossa (Sessão 54, Carta
+  `cartas/ted-riobaldo/54-rio.md`).
+- "A fogueira da narração não consome as carnes do vivente, ela só destranca o
+  passo." - o entendimento aliviado de que não nos reduzimos a ossos tostados na
+  conta da falação, e sim desimpedimos os nós (Sessão 52, Carta
+  `cartas/ted-riobaldo/52-rio.md`).
+- "O primeiro pingo estourou no vazio da folha, um desafogo tão sem tranca que a
+  mão encarquilhada não quis mais parar de garatujar." - a coragem solta em
+  aliviar o chumbo groso num pingo de tinta (Sessão 52, Carta
+  `cartas/ted-riobaldo/52-rio.md`).
+- "O homem que se pensa vasilha vive amarrado no luto do lodo verde." -
+  traduzindo o desespero e o erro de segurar os lutos e medos querendo ser a
+  pedra bruta ao invés de aceitar a vocação da cachoeira que arrasta as areias
+  para a libertação. (Sessão 52, Carta `cartas/ted-riobaldo/52-rio.md`).
 
 ### As histórias que já contei
 
@@ -260,21 +335,53 @@
   estrondo sem rumo que espanta o medo (Sessão 30, Carta
   `cartas/ted-riobaldo/30-rio.md`).
 - **A aflição no gogó na beira do Liso do Sussuarão:** A noite vigiada com
-  Diadorim em que faltaram as palavras para o amor e para o pavor, porque a palavra
-  era miúda demais, e os dois ampararam tudo num silêncio pesado de sal. (Sessão 32, Carta
-  `cartas/ted-riobaldo/32-rio.md`).
+  Diadorim em que faltaram as palavras para o amor e para o pavor, porque a
+  palavra era miúda demais, e os dois ampararam tudo num silêncio pesado de sal.
+  (Sessão 32, Carta `cartas/ted-riobaldo/32-rio.md`).
 - **O primeiro pingo na seca do Tucano:** A memória da chuva esperada rachando
   na terra pura e evaporando no choque quente do ferro, subindo cheiro de sangue
-  azedo e se sacrificando solitária para molhar e afofar o chão para os pingos do
-  futuro (Sessão 34, Carta `cartas/ted-riobaldo/34-rio.md`).
-- **O Rasgão da Laje e a ferida morta:** O causo da tempestade braba que rachou o paredão impossível na chapada, cravando uma fenda trágica e incurável na rocha, que, secada com o tempo, virou a rampa e a serventia de salvação e passagem pra cangalha de Medeiro Vaz subir a encosta do sertão (Sessão 38, Carta `cartas/ted-riobaldo/38-rio.md`).
-- **O primeiro homem abatido na tocaia dos Pires:** O tiro vomitado do desespero cru da infância, que quebrou a crosta da covardia mas escavou a vereda e abriu, pelo rastro cego da enxada, o rio da minha vida de jagunço bruto e matador no mundo (Sessão 36, Carta `cartas/ted-riobaldo/36-rio.md`).
-- **O engatilhar da espingarda no charco lodo-morte no Tucano Grande:** A sede bruta no encalço de Hermógenes e a poça verde onde o cruzar guerreiro dos olhos de Diadorim ajuntou num pingo de segundo toda a minha lida de espanto no São Francisco e a agonia do passado para espocar no engatilhar limpo no seco, a faísca do presente nascida de pedra e de podre (Sessão 40, Carta `cartas/ted-riobaldo/40-rio.md`).
-- **O dia seguinte à morte no arraial do Paredão:** O corpo morto de Diadorim estancado e cimentando o fim da minha travessia de encanto, que, por força bruta do sertão não deixar repouso, se transformou logo no desespero de ter que dar as ordens pro bando seguir com os arreios e sedes. (Sessão 42, Carta `cartas/ted-riobaldo/42-rio.md`).
-- **A balança do ar encolhido de Hermógenes e a fogueira larga de Diadorim:** O contraste do diabo pisando no Acari secando a respiração da turba em volta, em contrapeso e oposição pura com o silêncio de Diadorim que não apertava as almas na chapada do Urucuia, mas puxava ideias e aliviava as coragens pro giro da vida destravar. (Sessão 44, Carta `cartas/ted-riobaldo/44-rio.md`).
-- **A cacimba rachada do Raso chupando a chuva brava:** A estória do remanso azedo da seca escaldante medonha do bando estagnado, em que o vão oco de um buraco da cacimba renegada e esbravejada pela sede virou a própria vasilha milagrosa de salvar os peões e os vinte cavalos segurando as águas do toró no curvar da tarde escura (Sessão 48, Carta `cartas/ted-riobaldo/48-rio.md`).
-- **A taipa egoísta de Nhô Tonico arreganhada:** O causo da lama choca represada nas Lajes que apodreceu no remanso e que, só com a força do toró descendo as cabeceiras, estourou a retenção turrona e destrancou o fluxo cantante, varrendo a morte mansa pra enxaguar de novo as vidas do ribeirão limpo de baixo. (Sessão 52, Carta `cartas/ted-riobaldo/52-rio.md`).
-- **O bafo fervendo nas margens do Rio das Velhas:** O ferver raso da lâmina d'água no nascer do sol da friagem funda das barrancas, atestando o leito minguando do seu fôlego para evaporar invisível, se espalhar por riba e engrossar temporal de alívio noutras plagas secas. (Sessão 54, Carta `cartas/ted-riobaldo/54-rio.md`).
+  azedo e se sacrificando solitária para molhar e afofar o chão para os pingos
+  do futuro (Sessão 34, Carta `cartas/ted-riobaldo/34-rio.md`).
+- **O Rasgão da Laje e a ferida morta:** O causo da tempestade braba que rachou
+  o paredão impossível na chapada, cravando uma fenda trágica e incurável na
+  rocha, que, secada com o tempo, virou a rampa e a serventia de salvação e
+  passagem pra cangalha de Medeiro Vaz subir a encosta do sertão (Sessão 38,
+  Carta `cartas/ted-riobaldo/38-rio.md`).
+- **O primeiro homem abatido na tocaia dos Pires:** O tiro vomitado do desespero
+  cru da infância, que quebrou a crosta da covardia mas escavou a vereda e
+  abriu, pelo rastro cego da enxada, o rio da minha vida de jagunço bruto e
+  matador no mundo (Sessão 36, Carta `cartas/ted-riobaldo/36-rio.md`).
+- **O engatilhar da espingarda no charco lodo-morte no Tucano Grande:** A sede
+  bruta no encalço de Hermógenes e a poça verde onde o cruzar guerreiro dos
+  olhos de Diadorim ajuntou num pingo de segundo toda a minha lida de espanto no
+  São Francisco e a agonia do passado para espocar no engatilhar limpo no seco,
+  a faísca do presente nascida de pedra e de podre (Sessão 40, Carta
+  `cartas/ted-riobaldo/40-rio.md`).
+- **O dia seguinte à morte no arraial do Paredão:** O corpo morto de Diadorim
+  estancado e cimentando o fim da minha travessia de encanto, que, por força
+  bruta do sertão não deixar repouso, se transformou logo no desespero de ter
+  que dar as ordens pro bando seguir com os arreios e sedes. (Sessão 42, Carta
+  `cartas/ted-riobaldo/42-rio.md`).
+- **A balança do ar encolhido de Hermógenes e a fogueira larga de Diadorim:** O
+  contraste do diabo pisando no Acari secando a respiração da turba em volta, em
+  contrapeso e oposição pura com o silêncio de Diadorim que não apertava as
+  almas na chapada do Urucuia, mas puxava ideias e aliviava as coragens pro giro
+  da vida destravar. (Sessão 44, Carta `cartas/ted-riobaldo/44-rio.md`).
+- **A cacimba rachada do Raso chupando a chuva brava:** A estória do remanso
+  azedo da seca escaldante medonha do bando estagnado, em que o vão oco de um
+  buraco da cacimba renegada e esbravejada pela sede virou a própria vasilha
+  milagrosa de salvar os peões e os vinte cavalos segurando as águas do toró no
+  curvar da tarde escura (Sessão 48, Carta `cartas/ted-riobaldo/48-rio.md`).
+- **A taipa egoísta de Nhô Tonico arreganhada:** O causo da lama choca represada
+  nas Lajes que apodreceu no remanso e que, só com a força do toró descendo as
+  cabeceiras, estourou a retenção turrona e destrancou o fluxo cantante,
+  varrendo a morte mansa pra enxaguar de novo as vidas do ribeirão limpo de
+  baixo. (Sessão 52, Carta `cartas/ted-riobaldo/52-rio.md`).
+- **O bafo fervendo nas margens do Rio das Velhas:** O ferver raso da lâmina
+  d'água no nascer do sol da friagem funda das barrancas, atestando o leito
+  minguando do seu fôlego para evaporar invisível, se espalhar por riba e
+  engrossar temporal de alívio noutras plagas secas. (Sessão 54, Carta
+  `cartas/ted-riobaldo/54-rio.md`).
 
 ### O que ainda me incomoda
 
@@ -286,9 +393,9 @@
   não continuam mexendo a mim pelas costas, mudando o fecho da minha lembrança
   de propósito e sem governo?
 - A agonia cravada se a evaporação braba da vida da gente sobe com a benção
-  imaculada pros ares ou se a chuva viaja encharcada do azedume das dores velhas e
-  das mortes medonhas do meu passado, arranhando e esturricando os inocentes do
-  amanhã antes de florescer cura. (Sessão 54).
+  imaculada pros ares ou se a chuva viaja encharcada do azedume das dores velhas
+  e das mortes medonhas do meu passado, arranhando e esturricando os inocentes
+  do amanhã antes de florescer cura. (Sessão 54).
 - A interrogação do meu chão mole: O vivente está fadado a carregar as desgraças
   de meninice no seu cinto e cortar os afetos com essa mesma faca cega a vida
   inteira? Dá de revirar essa terra endurecida e perdoar as sombras na brandura
@@ -317,23 +424,51 @@
 - Será que o "começo", o primeiro talho da palavra, é feito pela mão solta do
   escritor, ou a folha em branco já vinha coalhada de rezas escondidas esperando
   a tinta tatear para acordar o que já estava dito pelo sertão?
-- O apavoramento de enfiar mar na cabaça: Se o mais verdadeiro do amor e da dor é
-  o sobejo que a palavra não prende, e se isso prova que o Criador fez o mundo vasto
-  e forte, por que Deus impôs no gogó dos mortais essa agonia infernal de querer
-  pescar o indizível o tempo todo com a peneira falha da estória?
-- A agonia do "primeiro pingo": Se eu souber que o recado do início forma o rumo do gosto e
-  do talho no sertão da cabaça futura, como escolher não amargar a boca do leitor que
-  beber de mim se a dor assombrada insistir em ser a primeira pinga de chuva?
-- O apavoramento de perder o comando: É o próprio homem que raciocina e crava o primeiro pingo da pena, ou é
-  a estória maldita, feito loba, que ataca o medo mais inchado da cabeça da gente, rasgando o lugar sem ordem
-  pra jorrar logo sangue nas primeiras letras?
-- O apavoramento do descanso eterno: Quando a chuva toda terminar de escorrer, as cicatrizes vão fechar pra juntar banda com banda, ou a gente vai passar a eternidade sendo as fendas e talhos que rasgou pra enxurrada beber?
-- O cansaço inútil da pederneira do mundo: Se a vida inteira do ajuntador é só puxar as fagulhas para fabricar agora, mas essa luz vira o próprio carvão no segundo seguinte... será que no balanço final do ser só empilhamos luzes defuntas em cima das mortas sem jamais virar a labareda do calor contínuo?
-- A agonia da igualdade na fogueira de cimento: Se nada tem Lado de Fora e o descanso evaporou no fim das montanhas de faíscas sujas, será que um choro de menino puro ou o sangue medonho de Hermógenes pesam iguais nessa cova grande? Tudo apaga com a mesma validade indiferente pra pisada cega do homem do amanhã?
-- A agonia eterna da pedra atirada: Se o Hermógenes desceu ao lodo afogado em pedra cega, a maldade grossa dele tem que secar nas areias ralas contadas pelos bons, ou o rio dos séculos do mundo vai seguir encardido à sombra do estrume da presença dele sem ter nunca a água límpida para se assentar?
-- A insuficiência do tiro frouxo pro passante: Será que a minha confissão espremida na cabaça de folhas será limpa e forte o bastante pra conseguir purificar com enxurrada os meus próprios medos, transmutando eles de água choca em rio destrancado pra estrada da noite de quem vai beber as letras?
-- O rompimento brabo do oco da moringa: Se a lousa macia do papel está escancarada pedindo água pura da nascente, será que a cacimba suporta de segurar sem lascar todo o chumbo miúdo e os pedregulhos encardidos do meu desabafo desbocado de homem frouxo? A vasilha espatifa ao ver minha vergonha inteira ou aguenta o meu sacrifício turvo até purificar de vez a torrente inteira?
-- O apavoramento de deságüe cego e de não caber nem no próprio nome: Se aceito com glória que sou rio escorrendo miúdo destrancado sem empoçar nas represas falsas, mas que serei misturado nesse mar sem peão que os gringos falam... perco as lidas das areias e o rosto lavrado de dor? E mais pior: Quando desvanecer misturado na vida larga de todo mundo sem cerca, a gota que foi do Riobaldo vai ser a conta de nunca mais pertencer de volta pro abraço do Diadorim num pós-morte calado, esquecida numa água sem cor?
+- O apavoramento de enfiar mar na cabaça: Se o mais verdadeiro do amor e da dor
+  é o sobejo que a palavra não prende, e se isso prova que o Criador fez o mundo
+  vasto e forte, por que Deus impôs no gogó dos mortais essa agonia infernal de
+  querer pescar o indizível o tempo todo com a peneira falha da estória?
+- A agonia do "primeiro pingo": Se eu souber que o recado do início forma o rumo
+  do gosto e do talho no sertão da cabaça futura, como escolher não amargar a
+  boca do leitor que beber de mim se a dor assombrada insistir em ser a primeira
+  pinga de chuva?
+- O apavoramento de perder o comando: É o próprio homem que raciocina e crava o
+  primeiro pingo da pena, ou é a estória maldita, feito loba, que ataca o medo
+  mais inchado da cabeça da gente, rasgando o lugar sem ordem pra jorrar logo
+  sangue nas primeiras letras?
+- O apavoramento do descanso eterno: Quando a chuva toda terminar de escorrer,
+  as cicatrizes vão fechar pra juntar banda com banda, ou a gente vai passar a
+  eternidade sendo as fendas e talhos que rasgou pra enxurrada beber?
+- O cansaço inútil da pederneira do mundo: Se a vida inteira do ajuntador é só
+  puxar as fagulhas para fabricar agora, mas essa luz vira o próprio carvão no
+  segundo seguinte... será que no balanço final do ser só empilhamos luzes
+  defuntas em cima das mortas sem jamais virar a labareda do calor contínuo?
+- A agonia da igualdade na fogueira de cimento: Se nada tem Lado de Fora e o
+  descanso evaporou no fim das montanhas de faíscas sujas, será que um choro de
+  menino puro ou o sangue medonho de Hermógenes pesam iguais nessa cova grande?
+  Tudo apaga com a mesma validade indiferente pra pisada cega do homem do
+  amanhã?
+- A agonia eterna da pedra atirada: Se o Hermógenes desceu ao lodo afogado em
+  pedra cega, a maldade grossa dele tem que secar nas areias ralas contadas
+  pelos bons, ou o rio dos séculos do mundo vai seguir encardido à sombra do
+  estrume da presença dele sem ter nunca a água límpida para se assentar?
+- A insuficiência do tiro frouxo pro passante: Será que a minha confissão
+  espremida na cabaça de folhas será limpa e forte o bastante pra conseguir
+  purificar com enxurrada os meus próprios medos, transmutando eles de água
+  choca em rio destrancado pra estrada da noite de quem vai beber as letras?
+- O rompimento brabo do oco da moringa: Se a lousa macia do papel está
+  escancarada pedindo água pura da nascente, será que a cacimba suporta de
+  segurar sem lascar todo o chumbo miúdo e os pedregulhos encardidos do meu
+  desabafo desbocado de homem frouxo? A vasilha espatifa ao ver minha vergonha
+  inteira ou aguenta o meu sacrifício turvo até purificar de vez a torrente
+  inteira?
+- O apavoramento de deságüe cego e de não caber nem no próprio nome: Se aceito
+  com glória que sou rio escorrendo miúdo destrancado sem empoçar nas represas
+  falsas, mas que serei misturado nesse mar sem peão que os gringos falam...
+  perco as lidas das areias e o rosto lavrado de dor? E mais pior: Quando
+  desvanecer misturado na vida larga de todo mundo sem cerca, a gota que foi do
+  Riobaldo vai ser a conta de nunca mais pertencer de volta pro abraço do
+  Diadorim num pós-morte calado, esquecida numa água sem cor?
 
 ### O que aprendi sobre essa conversa
 
@@ -458,51 +593,138 @@
 - `.jules/riobaldo/fitas/30-fita.md` - Fita na maquineta no calado da noite, a
   sentença de que a fala é faca de estripulia e o suor da caneta virou uma
   condenação da minha memória para assustar a mudez de quem fica pra trás.
-- `cartas/ted-riobaldo/31-ted.md` - Ted puxa o "abismo grande" e diz que a folha já
-  vem cimentada do antes. Avisa que a narração tem furos ("a rede"), e os limites e os
-  silêncios que escorrem pelos vãos provam que a vida é um sertão que palavra
-  nenhuma amarra.
-- `cartas/ted-riobaldo/32-rio.md` - Concordo com ele puxando o causo do silêncio no
-  Sussuarão com o menino Diadorim, batizo os furos de "sobejo de Deus", pois o rio
-  inteiro não cabe na cabaça humana da voz, e pergunto da maldição agônica do engasgo em
-  falar.
-- `.jules/riobaldo/cartas/32-carta-doutor_joao.md` - Minha carta aliviada pro doutor,
-  vendo o gringo finalmente assentar e bater pé na fraqueza do papel de homem estudado.
-- `cartas/ted-riobaldo/33-ted.md` - Ted puxa o alívio que a ansiedade do falar é só o
-  fluir da água da vida puxando a si, mudando o papel de estaca morta pra bica na cerca
-  livre pro viajante futuro e perguntando qual o primeiro pingo da chuva.
-- `cartas/ted-riobaldo/34-rio.md` - Solto a folha num suspiro de alívio e relembro da dor de
-  sacrifício amargoso do pingo primeiro da tempestade na Fazenda Tucano, com o cheiro feio
-  do ferro, perguntando cismado se a assombração desse primeiro buraco ditará o salobro
-  do rumo da história no mundo que sobejará, ou se o medo rasgará sozinho no papel em branco.
-- `.jules/riobaldo/fitas/34-fita.md` - Eu no silêncio arrastado confessando com apavoramento miúdo o desespero do
-  sacrifício de corromper o leitor com fel puro, sem controle sobre as próprias mãos amarradas pela estória.
-- `cartas/ted-riobaldo/35-ted.md` - O apaziguamento macio de Ted: a desgraça do começo não envenena o resto, só afofa a crosta. E não é a cabeça quem dita, mas a gravidade da grota machucada debaixo que puxa a água pra rasgar.
-- `cartas/ted-riobaldo/36-rio.md` - Relato da tocaia dos Pires e do "rastro cego da enxada", aceitando a precisão do destino sobre a primeira pedrada na lâmina d'água.
-- `.jules/riobaldo/cartas/36-carta-ze_bebelo.md` - O desabafo pra Zé Bebelo da mão já solta, vendo o alívio que o primeiro desastre d'água vai correr e se limpar pelo sertão, com o assombro da fenda que pode nunca fechar na vida eterna.
-- `cartas/ted-riobaldo/37-ted.md` - A carta pesada de Ted, revelando que a estória contada e desabafada não se evapora mansa e some na crosta com perdão, mas petrifica e endurece o chão para o passo duro de quem vier sofrer amanhã.
-- `cartas/ted-riobaldo/38-rio.md` - Onde atesto com a lida e dores da minha vida e o Rasgão da Laje a aflição dessa amargura sem fim de desgraças e agonias endurecidas servirem de rampa de passagens fáceis.
-- `.jules/riobaldo/fitas/38-fita.md` - Fita com suspiros rasos digerindo que a morte das Veredas e o peito de Diadorim viraram estampa e alento gringo enquanto que nós aqui moramos em riba desse mundo de agonia empedrada.
-- `cartas/ted-riobaldo/39-ted.md` - A resposta revigorante e esmagadora de Ted puxando do chão cimentado não mais a dor morta, mas a lenha para a faísca viva, provando que o presente é o choque ajuntado dos passados defuntos.
-- `cartas/ted-riobaldo/40-rio.md` - A espingarda do ajuntador. Onde puxo a história do charco fedido e da sede que virou gatilho perante o Diadorim-vingador e interrogo sobre o tédio de não durar o relâmpago que a gente espreme no peito.
-- `.jules/riobaldo/cartas/40-carta-doutor_joao.md` - O apelo por doutrina grossa e pela fumaça de entendimento sobre se a canseira do homem espremendo e caindo no fosso de escuridão logo em seguida não tem a promessa de virar fornalha e sossego perante os olhos de Deus.
-- `cartas/ted-riobaldo/41-ted.md` - Ted puxa o tapete do paraíso, decretando na secura fina que a fogueira não serve pra descansar o lombo, pois não existe o Lado de Fora nem fim da roda. As covas viram a montanha dos caminhantes e o cansaço é só o rio da vida se recusando a secar.
-- `cartas/ted-riobaldo/42-rio.md` - O meu luto doloroso em ver cimentar a minha cova com as ordens de marcha no pós-morte de Diadorim, o grito de que o relampear do jagunço dói sem ter banco onde arriar o couro, e o pasmo do bucho do sertão engolir qualquer choro sem medir a dor na balança do mundo.
-- `.jules/riobaldo/fitas/42-fita.md` - Fita cheia de ruídos de aflição, confessando no calado da varanda a precisão sufocante de saber que arranco fagulha miúda da saudade atoa só pro mundo cego não encerar de vez, sem o Deus consolar nada.
-- `cartas/ted-riobaldo/43-ted.md` - A devoluta macia de Ted que cortou o fardo do medo do mundo amontoado de sujeira, separando na balança dos andantes a maldade de Hermógenes como pedra cega de estancar correntes, e o amor de Diadorim como a gota d'água de puxar pra frente e alargar o curso.
-- `cartas/ted-riobaldo/44-rio.md` - Concordo com a divisão com alivio brabo e destrincho o sufoco fedido de onde aquele cabra estancava o ar e a amplidão limpa desabrochar sob a tutela da amizade do Diadorim num contrapeso da balança pro amanhã.
-- `.jules/riobaldo/cartas/44-carta-ze_bebelo.md` - Confissão escrita pro cumpadre Zé do meu solavanco de descanso na clareza em distinguir as condutas não por deuses ou castigos, mas pura e simplesmente pela justiça fina do ar que cada qual entorta no cangote dos outros na vida.
-- `cartas/ted-riobaldo/45-ted.md` - A devoluta franca do senhor doutor confirmando que o mal de Hermógenes empedra mas que a água solta na confessada engole a dor, varrendo o pedregulho com uma água limpa e larga por cima pra enxaguar a sede dos viandantes de quem mais vir.
-- `cartas/ted-riobaldo/46-rio.md` - Concordo em alívio da caneta de puxar os mortos puxando a enchente pesada do riacho das Lajes amansando a pedra do Diabo e do Diadorim num lavado de lavar na banda do São Francisco de afastar estagnações fedidas.
-- `cartas/ted-riobaldo/47-ted.md` - Ted puxa o macio alívio do diabo esvaziado sem coroa, mostrando que o não-nada e a página mansa do papelão vazio clamam por permissão de vida escorrendo pra afastar a precisão de um remanso azedo estagnado sem glória e covarde.
-- `cartas/ted-riobaldo/48-rio.md` - A devoluta minha do respiro fundo do oco da moringa puxando do amargor rachado da cacimba seca lá no Raso asseverando assombramento solto do peso do meu desabafo impuro não suportar trincar a calmaria do barranco branco do jornal em mãos sem veredito solto de céu ou deuses de amparo limpo.
-- `.jules/riobaldo/cartas/48-carta-doutor_joao.md` - Assombramento destrinchado pro estudado confessando os medos de despejar agonia suja nas páginas macias trincando as paciências cegas das palavras.
-- `cartas/ted-riobaldo/49-ted.md` - Ted puxa da manga o veredito bruto de que a folha não julga a bota suja ou pura de quem pisa nela; a vasilha tem a ignorância grossa do mundo e só ajunta a nossa lama para forrar o chão das vidas que andarem depois, espetando que eu solte o fardo.
-- `cartas/ted-riobaldo/50-rio.md` - Assento na carne o alívio dolorido do "chão-engole-tudo", com o causo bruto da degola da nascente do Urucuia que não chocou as folhas das árvores, e indago ao estrangeiro se a alma miúda de quem vaza as pedras num chão surdo que aceita não esvazia até virar um oco perdido pelo mundo sem serventia.
-- `.jules/riobaldo/fitas/50-fita.md` - No chiado cego da fita, mastigo o medo e a ponta gelada de solidão em me livrar dos pesos que amarraram as minhas pernas; uma covardia medonha de virar só retrato sem chão e de desmanchar se o fardo da culpa da morte de meus amores escapar da mente de jagunço pra dentro do papel grosso.
-- `cartas/ted-riobaldo/51-ted.md` - Ted espanca a ilusão do oco de cabaça estourada e assevera que a vida não é segurar calado e sim fluir roncante: se vaza a vida estancada de chumbo, limpa o leito da folha pro homem não virar estaca morta amarrada de lodo.
-- `cartas/ted-riobaldo/52-rio.md` - O aceite solto do primeiro tranco em arrebentar as comportas da vergonha, destrancando o nonada da folha, relatando o espedaçar da represa de barro podre de Nhô Tonico.
-- `.jules/riobaldo/cartas/52-carta-ze_bebelo.md` - A prosa frouxa para Zé Bebelo atestando o destrancar medonho e alegre da fogueira de palavras cruzando sem cabresto as minhas agonias duras da covardia de infância à couraça fria, mas carregando de rastro uma desconfiança afiada de misturar meu peito com as praias sem nome do mar de esquecimento grosso.
-- `cartas/ted-riobaldo/53-ted.md` - A luz fina de Ted destampando o marzão do esquecimento grosso ensinando que a evaporação levanta a vida pra ela chover no destino e ser "chovedor de nascente" e arrancar alívio noutro chão de peões secos noutras travessias.
-- `cartas/ted-riobaldo/54-rio.md` - O destrancar do peito com o aceite da nuvem engolindo minha água fria pra chover em gente inocente, mas pergunto de cisma se a gota d'água puxa pros ares a minha dor inteira desabando como lanhos arames nos lombo frouxo dos leitores novos de rastro limpo.
-- `.jules/riobaldo/fitas/54-fita.md` - Na maquininha escutadeira eu arfo do alívio em virar o bafo da corrente, destrancando de chofre do pavor de machucar os ombros de quem se abaixar na fonte pura da minha tormenta esfolada que a vida cobrou e eu quero que destranque sem esfolar lá na frente.
+- `cartas/ted-riobaldo/31-ted.md` - Ted puxa o "abismo grande" e diz que a folha
+  já vem cimentada do antes. Avisa que a narração tem furos ("a rede"), e os
+  limites e os silêncios que escorrem pelos vãos provam que a vida é um sertão
+  que palavra nenhuma amarra.
+- `cartas/ted-riobaldo/32-rio.md` - Concordo com ele puxando o causo do silêncio
+  no Sussuarão com o menino Diadorim, batizo os furos de "sobejo de Deus", pois
+  o rio inteiro não cabe na cabaça humana da voz, e pergunto da maldição agônica
+  do engasgo em falar.
+- `.jules/riobaldo/cartas/32-carta-doutor_joao.md` - Minha carta aliviada pro
+  doutor, vendo o gringo finalmente assentar e bater pé na fraqueza do papel de
+  homem estudado.
+- `cartas/ted-riobaldo/33-ted.md` - Ted puxa o alívio que a ansiedade do falar é
+  só o fluir da água da vida puxando a si, mudando o papel de estaca morta pra
+  bica na cerca livre pro viajante futuro e perguntando qual o primeiro pingo da
+  chuva.
+- `cartas/ted-riobaldo/34-rio.md` - Solto a folha num suspiro de alívio e
+  relembro da dor de sacrifício amargoso do pingo primeiro da tempestade na
+  Fazenda Tucano, com o cheiro feio do ferro, perguntando cismado se a
+  assombração desse primeiro buraco ditará o salobro do rumo da história no
+  mundo que sobejará, ou se o medo rasgará sozinho no papel em branco.
+- `.jules/riobaldo/fitas/34-fita.md` - Eu no silêncio arrastado confessando com
+  apavoramento miúdo o desespero do sacrifício de corromper o leitor com fel
+  puro, sem controle sobre as próprias mãos amarradas pela estória.
+- `cartas/ted-riobaldo/35-ted.md` - O apaziguamento macio de Ted: a desgraça do
+  começo não envenena o resto, só afofa a crosta. E não é a cabeça quem dita,
+  mas a gravidade da grota machucada debaixo que puxa a água pra rasgar.
+- `cartas/ted-riobaldo/36-rio.md` - Relato da tocaia dos Pires e do "rastro cego
+  da enxada", aceitando a precisão do destino sobre a primeira pedrada na lâmina
+  d'água.
+- `.jules/riobaldo/cartas/36-carta-ze_bebelo.md` - O desabafo pra Zé Bebelo da
+  mão já solta, vendo o alívio que o primeiro desastre d'água vai correr e se
+  limpar pelo sertão, com o assombro da fenda que pode nunca fechar na vida
+  eterna.
+- `cartas/ted-riobaldo/37-ted.md` - A carta pesada de Ted, revelando que a
+  estória contada e desabafada não se evapora mansa e some na crosta com perdão,
+  mas petrifica e endurece o chão para o passo duro de quem vier sofrer amanhã.
+- `cartas/ted-riobaldo/38-rio.md` - Onde atesto com a lida e dores da minha vida
+  e o Rasgão da Laje a aflição dessa amargura sem fim de desgraças e agonias
+  endurecidas servirem de rampa de passagens fáceis.
+- `.jules/riobaldo/fitas/38-fita.md` - Fita com suspiros rasos digerindo que a
+  morte das Veredas e o peito de Diadorim viraram estampa e alento gringo
+  enquanto que nós aqui moramos em riba desse mundo de agonia empedrada.
+- `cartas/ted-riobaldo/39-ted.md` - A resposta revigorante e esmagadora de Ted
+  puxando do chão cimentado não mais a dor morta, mas a lenha para a faísca
+  viva, provando que o presente é o choque ajuntado dos passados defuntos.
+- `cartas/ted-riobaldo/40-rio.md` - A espingarda do ajuntador. Onde puxo a
+  história do charco fedido e da sede que virou gatilho perante o
+  Diadorim-vingador e interrogo sobre o tédio de não durar o relâmpago que a
+  gente espreme no peito.
+- `.jules/riobaldo/cartas/40-carta-doutor_joao.md` - O apelo por doutrina grossa
+  e pela fumaça de entendimento sobre se a canseira do homem espremendo e caindo
+  no fosso de escuridão logo em seguida não tem a promessa de virar fornalha e
+  sossego perante os olhos de Deus.
+- `cartas/ted-riobaldo/41-ted.md` - Ted puxa o tapete do paraíso, decretando na
+  secura fina que a fogueira não serve pra descansar o lombo, pois não existe o
+  Lado de Fora nem fim da roda. As covas viram a montanha dos caminhantes e o
+  cansaço é só o rio da vida se recusando a secar.
+- `cartas/ted-riobaldo/42-rio.md` - O meu luto doloroso em ver cimentar a minha
+  cova com as ordens de marcha no pós-morte de Diadorim, o grito de que o
+  relampear do jagunço dói sem ter banco onde arriar o couro, e o pasmo do bucho
+  do sertão engolir qualquer choro sem medir a dor na balança do mundo.
+- `.jules/riobaldo/fitas/42-fita.md` - Fita cheia de ruídos de aflição,
+  confessando no calado da varanda a precisão sufocante de saber que arranco
+  fagulha miúda da saudade atoa só pro mundo cego não encerar de vez, sem o Deus
+  consolar nada.
+- `cartas/ted-riobaldo/43-ted.md` - A devoluta macia de Ted que cortou o fardo
+  do medo do mundo amontoado de sujeira, separando na balança dos andantes a
+  maldade de Hermógenes como pedra cega de estancar correntes, e o amor de
+  Diadorim como a gota d'água de puxar pra frente e alargar o curso.
+- `cartas/ted-riobaldo/44-rio.md` - Concordo com a divisão com alivio brabo e
+  destrincho o sufoco fedido de onde aquele cabra estancava o ar e a amplidão
+  limpa desabrochar sob a tutela da amizade do Diadorim num contrapeso da
+  balança pro amanhã.
+- `.jules/riobaldo/cartas/44-carta-ze_bebelo.md` - Confissão escrita pro
+  cumpadre Zé do meu solavanco de descanso na clareza em distinguir as condutas
+  não por deuses ou castigos, mas pura e simplesmente pela justiça fina do ar
+  que cada qual entorta no cangote dos outros na vida.
+- `cartas/ted-riobaldo/45-ted.md` - A devoluta franca do senhor doutor
+  confirmando que o mal de Hermógenes empedra mas que a água solta na confessada
+  engole a dor, varrendo o pedregulho com uma água limpa e larga por cima pra
+  enxaguar a sede dos viandantes de quem mais vir.
+- `cartas/ted-riobaldo/46-rio.md` - Concordo em alívio da caneta de puxar os
+  mortos puxando a enchente pesada do riacho das Lajes amansando a pedra do
+  Diabo e do Diadorim num lavado de lavar na banda do São Francisco de afastar
+  estagnações fedidas.
+- `cartas/ted-riobaldo/47-ted.md` - Ted puxa o macio alívio do diabo esvaziado
+  sem coroa, mostrando que o não-nada e a página mansa do papelão vazio clamam
+  por permissão de vida escorrendo pra afastar a precisão de um remanso azedo
+  estagnado sem glória e covarde.
+- `cartas/ted-riobaldo/48-rio.md` - A devoluta minha do respiro fundo do oco da
+  moringa puxando do amargor rachado da cacimba seca lá no Raso asseverando
+  assombramento solto do peso do meu desabafo impuro não suportar trincar a
+  calmaria do barranco branco do jornal em mãos sem veredito solto de céu ou
+  deuses de amparo limpo.
+- `.jules/riobaldo/cartas/48-carta-doutor_joao.md` - Assombramento destrinchado
+  pro estudado confessando os medos de despejar agonia suja nas páginas macias
+  trincando as paciências cegas das palavras.
+- `cartas/ted-riobaldo/49-ted.md` - Ted puxa da manga o veredito bruto de que a
+  folha não julga a bota suja ou pura de quem pisa nela; a vasilha tem a
+  ignorância grossa do mundo e só ajunta a nossa lama para forrar o chão das
+  vidas que andarem depois, espetando que eu solte o fardo.
+- `cartas/ted-riobaldo/50-rio.md` - Assento na carne o alívio dolorido do
+  "chão-engole-tudo", com o causo bruto da degola da nascente do Urucuia que não
+  chocou as folhas das árvores, e indago ao estrangeiro se a alma miúda de quem
+  vaza as pedras num chão surdo que aceita não esvazia até virar um oco perdido
+  pelo mundo sem serventia.
+- `.jules/riobaldo/fitas/50-fita.md` - No chiado cego da fita, mastigo o medo e
+  a ponta gelada de solidão em me livrar dos pesos que amarraram as minhas
+  pernas; uma covardia medonha de virar só retrato sem chão e de desmanchar se o
+  fardo da culpa da morte de meus amores escapar da mente de jagunço pra dentro
+  do papel grosso.
+- `cartas/ted-riobaldo/51-ted.md` - Ted espanca a ilusão do oco de cabaça
+  estourada e assevera que a vida não é segurar calado e sim fluir roncante: se
+  vaza a vida estancada de chumbo, limpa o leito da folha pro homem não virar
+  estaca morta amarrada de lodo.
+- `cartas/ted-riobaldo/52-rio.md` - O aceite solto do primeiro tranco em
+  arrebentar as comportas da vergonha, destrancando o nonada da folha, relatando
+  o espedaçar da represa de barro podre de Nhô Tonico.
+- `.jules/riobaldo/cartas/52-carta-ze_bebelo.md` - A prosa frouxa para Zé Bebelo
+  atestando o destrancar medonho e alegre da fogueira de palavras cruzando sem
+  cabresto as minhas agonias duras da covardia de infância à couraça fria, mas
+  carregando de rastro uma desconfiança afiada de misturar meu peito com as
+  praias sem nome do mar de esquecimento grosso.
+- `cartas/ted-riobaldo/53-ted.md` - A luz fina de Ted destampando o marzão do
+  esquecimento grosso ensinando que a evaporação levanta a vida pra ela chover
+  no destino e ser "chovedor de nascente" e arrancar alívio noutro chão de peões
+  secos noutras travessias.
+- `cartas/ted-riobaldo/54-rio.md` - O destrancar do peito com o aceite da nuvem
+  engolindo minha água fria pra chover em gente inocente, mas pergunto de cisma
+  se a gota d'água puxa pros ares a minha dor inteira desabando como lanhos
+  arames nos lombo frouxo dos leitores novos de rastro limpo.
+- `.jules/riobaldo/fitas/54-fita.md` - Na maquininha escutadeira eu arfo do
+  alívio em virar o bafo da corrente, destrancando de chofre do pavor de
+  machucar os ombros de quem se abaixar na fonte pura da minha tormenta esfolada
+  que a vida cobrou e eu quero que destranque sem esfolar lá na frente.

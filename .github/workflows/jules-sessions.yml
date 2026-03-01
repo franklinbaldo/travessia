@@ -194,8 +194,8 @@ jobs:
 
       - name: Launch content session
         if: >-
-          steps.guard.outputs.skip != 'true' &&
-          steps.agent.outputs.is_design != 'true'
+          steps.guard.outputs.skip != 'true' && steps.agent.outputs.is_design !=
+          'true'
         env:
           JULES_API_KEY: ${{ secrets.JULES_API_KEY }}
           REPO: ${{ github.repository }}

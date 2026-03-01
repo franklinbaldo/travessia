@@ -38,6 +38,9 @@ jobs:
           cache: "npm"
           cache-dependency-path: "site/package-lock.json"
 
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
       - name: Set publication dates from git history
         run: |
           node -e "
