@@ -152,12 +152,16 @@ hr {
 
 a {
   color: var(--accent-color);
-  text-decoration: none;
-  border-bottom: 1px dotted var(--accent-color);
+  text-decoration: underline;
+  text-decoration-color: var(--accent-color);
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
 }
 
 a:hover {
-  opacity: 0.75;
+  text-decoration-color: var(--text-color);
+  color: var(--text-color);
+  opacity: 1;
 }
 
 /* === Navigation === */
@@ -579,6 +583,29 @@ body * {
 
 .manuscrito-body > p:first-child {
   text-indent: 0;
+}
+
+.manuscrito-body > p:first-of-type::first-letter {
+  font-size: 3.5em;
+  float: left;
+  line-height: 0.8;
+  padding-right: 0.1em;
+  font-family: var(--font-body);
+  font-weight: 700;
+  color: var(--accent-color);
+}
+
+.manuscrito-body img {
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  max-width: 100%;
+  height: auto;
+  margin: 2rem auto;
+  display: block;
+}
+
+[data-theme="dark"] .manuscrito-body img {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
 }
 
 /* === Bastidores Index === */
@@ -1206,9 +1233,16 @@ main.home-layout {
 
 .timeline-dots {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   gap: 0.5rem;
-  flex-wrap: wrap;
+  overflow-x: auto;
+  flex-wrap: nowrap;
+  scrollbar-width: none;
+  padding-bottom: 0.5rem;
+}
+
+.timeline-dots::-webkit-scrollbar {
+  display: none;
 }
 
 .timeline-dot {
@@ -1249,6 +1283,11 @@ main.home-layout {
   color: var(--bg-color);
   border-color: var(--accent-color);
   font-weight: 700;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="dark"] .timeline-dot.current {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
 }
 
 @media (max-width: 600px) {
