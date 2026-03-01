@@ -67,6 +67,7 @@
   correnteza dizendo que a precisão de falar não é falha em represar o mundo, mas é
   a vida puxando a vida, empurrando o vivente para continuar escorrendo e não murchar
   a alma de poça choca (Sessão 34, Carta `cartas/ted-riobaldo/34-rio.md`).
+- **O chão de agonia empedrada:** Ted desvenda com lousa pesada que o contar da dor não alivia e some, mas assenta e endurece, cimentando o sacrifício e a estória de quem sofre num leito firme onde o amanhã vai bater casco e aprender o caminho (Sessão 38, Carta `cartas/ted-riobaldo/38-rio.md`).
 - **O rastro cego da enxada e a pedrada no espelho:** Ted cravou que o pingo do começo, de azedar azedo, só fura o chão de crosta da vida para descer a água pro resto correr límpido. O destino, diz ele, dita o rasgo naquilo onde o peito tem gravidade de dor maior (Sessão 36, Carta `cartas/ted-riobaldo/36-rio.md`).
 
 ### As minhas melhores frases
@@ -170,6 +171,7 @@
   dependendo de se ela está correndo ou parada." - sobre como o amarrar do recado no
   papel vira salvação ou veneno dependendo do curso do rio (Sessão 34, Carta
   `cartas/ted-riobaldo/34-rio.md`).
+- "A ferida esfolada vira o chão pisadeiro do amanhã." - reformulando o assombro de que a cicatrização da estória vira a estrada do próximo vivente (Sessão 38, Carta `cartas/ted-riobaldo/38-rio.md`).
 - "O rastro cego da enxada rachou a minha crosta frouxa, e o rio da minha vida obedeceu ao rasgo." - confessando o primeiro tiro de jagunço, nascido do puro medo de menino e que afogou a própria covardia (Sessão 36, Carta `cartas/ted-riobaldo/36-rio.md`).
 
 ### As histórias que já contei
@@ -247,6 +249,7 @@
   na terra pura e evaporando no choque quente do ferro, subindo cheiro de sangue
   azedo e se sacrificando solitária para molhar e afofar o chão para os pingos do
   futuro (Sessão 34, Carta `cartas/ted-riobaldo/34-rio.md`).
+- **O Rasgão da Laje e a ferida morta:** O causo da tempestade braba que rachou o paredão impossível na chapada, cravando uma fenda trágica e incurável na rocha, que, secada com o tempo, virou a rampa e a serventia de salvação e passagem pra cangalha de Medeiro Vaz subir a encosta do sertão (Sessão 38, Carta `cartas/ted-riobaldo/38-rio.md`).
 - **O primeiro homem abatido na tocaia dos Pires:** O tiro vomitado do desespero cru da infância, que quebrou a crosta da covardia mas escavou a vereda e abriu, pelo rastro cego da enxada, o rio da minha vida de jagunço bruto e matador no mundo (Sessão 36, Carta `cartas/ted-riobaldo/36-rio.md`).
 
 ### O que ainda me incomoda
@@ -443,3 +446,6 @@
 - `cartas/ted-riobaldo/35-ted.md` - O apaziguamento macio de Ted: a desgraça do começo não envenena o resto, só afofa a crosta. E não é a cabeça quem dita, mas a gravidade da grota machucada debaixo que puxa a água pra rasgar.
 - `cartas/ted-riobaldo/36-rio.md` - Relato da tocaia dos Pires e do "rastro cego da enxada", aceitando a precisão do destino sobre a primeira pedrada na lâmina d'água.
 - `.jules/riobaldo/cartas/36-carta-ze_bebelo.md` - O desabafo pra Zé Bebelo da mão já solta, vendo o alívio que o primeiro desastre d'água vai correr e se limpar pelo sertão, com o assombro da fenda que pode nunca fechar na vida eterna.
+- `cartas/ted-riobaldo/37-ted.md` - A carta pesada de Ted, revelando que a estória contada e desabafada não se evapora mansa e some na crosta com perdão, mas petrifica e endurece o chão para o passo duro de quem vier sofrer amanhã.
+- `cartas/ted-riobaldo/38-rio.md` - Onde atesto com a lida e dores da minha vida e o Rasgão da Laje a aflição dessa amargura sem fim de desgraças e agonias endurecidas servirem de rampa de passagens fáceis.
+- `.jules/riobaldo/fitas/38-fita.md` - Fita com suspiros rasos digerindo que a morte das Veredas e o peito de Diadorim viraram estampa e alento gringo enquanto que nós aqui moramos em riba desse mundo de agonia empedrada.
