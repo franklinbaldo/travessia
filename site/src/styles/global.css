@@ -4,8 +4,8 @@
    =========================== */
 
 :root {
-  --bg-color: #f5f0e8;
-  --text-color: #2c2416;
+  --bg-color: #f7f4ed;
+  --text-color: #332b20;
   --accent-color: #c4873a;
   --secondary-color: #8b3a2a;
   --divider-color: #d1c8ba;
@@ -20,9 +20,9 @@
   --font-body: "Cormorant Garamond", serif;
   --font-meta: system-ui, -apple-system, sans-serif;
 
-  --max-width: 680px;
+  --max-width: 700px;
   --body-size: clamp(18px, 1.25vw + 14px, 21px);
-  --body-lh: 1.75;
+  --body-lh: 1.8;
 }
 
 [data-theme="dark"] {
@@ -79,7 +79,7 @@ body::before {
 main {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 3rem 2rem 4rem;
+  padding: 4rem 2rem 5rem;
 }
 
 @media (max-width: 600px) {
@@ -167,7 +167,7 @@ nav {
   gap: 0.75rem;
   padding-bottom: 1.5rem;
   border-bottom: 1px solid var(--divider-color);
-  margin-bottom: 3rem;
+  margin-bottom: 4rem;
 }
 
 nav a {
