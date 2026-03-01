@@ -28,3 +28,8 @@
   * **Links:** Upgraded inline link styling from basic dotted borders to a cleaner `text-decoration: underline` approach with an offset for improved legibility.
   * **Timeline Navigation:** Refined the correspondence timeline layout into a horizontally scrollable, non-wrapping row, providing a clearer linear progression. Added a subtle shadow to the active dot.
   * **Content Images:** Added default styling (border radius and shadow) for standard images inserted within letter bodies to appear as loose photographs.
+* **Hero Polish & Tactility (craig-004)**
+  * **Hero Section:** Scaled up the main heading (`h1` clamp) to give it more presence and added a left border and padding to the `.hero-quote` to better frame the subtitle.
+  * **Image Vignette:** Added an inset shadow (`box-shadow: inset 0 0 60px rgba(0, 0, 0, 0.5)`) to the `.hero-image-col::after` to elegantly blend the farmhouse table photo with its layout boundaries.
+  * **Editorial Stamps:** Updated `.character-badge` border radius (from 2px to 4px) and added a sand background to make them resemble editorial stamps.
+  * **Card Tactility:** Increased `.blog-card` hover shadow spread/blur for a softer lift effect. Changed `.vereda` navigation from pill shapes (2rem radius) to rounded rectangles (4px radius) with subtle shadows to feel more like literal index cards.
