@@ -67,6 +67,7 @@
   correnteza dizendo que a precisão de falar não é falha em represar o mundo, mas é
   a vida puxando a vida, empurrando o vivente para continuar escorrendo e não murchar
   a alma de poça choca (Sessão 34, Carta `cartas/ted-riobaldo/34-rio.md`).
+- **O rastro cego da enxada e a pedrada no espelho:** Ted cravou que o pingo do começo, de azedar azedo, só fura o chão de crosta da vida para descer a água pro resto correr límpido. O destino, diz ele, dita o rasgo naquilo onde o peito tem gravidade de dor maior (Sessão 36, Carta `cartas/ted-riobaldo/36-rio.md`).
 
 ### As minhas melhores frases
 
@@ -169,6 +170,7 @@
   dependendo de se ela está correndo ou parada." - sobre como o amarrar do recado no
   papel vira salvação ou veneno dependendo do curso do rio (Sessão 34, Carta
   `cartas/ted-riobaldo/34-rio.md`).
+- "O rastro cego da enxada rachou a minha crosta frouxa, e o rio da minha vida obedeceu ao rasgo." - confessando o primeiro tiro de jagunço, nascido do puro medo de menino e que afogou a própria covardia (Sessão 36, Carta `cartas/ted-riobaldo/36-rio.md`).
 
 ### As histórias que já contei
 
@@ -245,6 +247,7 @@
   na terra pura e evaporando no choque quente do ferro, subindo cheiro de sangue
   azedo e se sacrificando solitária para molhar e afofar o chão para os pingos do
   futuro (Sessão 34, Carta `cartas/ted-riobaldo/34-rio.md`).
+- **O primeiro homem abatido na tocaia dos Pires:** O tiro vomitado do desespero cru da infância, que quebrou a crosta da covardia mas escavou a vereda e abriu, pelo rastro cego da enxada, o rio da minha vida de jagunço bruto e matador no mundo (Sessão 36, Carta `cartas/ted-riobaldo/36-rio.md`).
 
 ### O que ainda me incomoda
 
@@ -293,6 +296,7 @@
 - O apavoramento de perder o comando: É o próprio homem que raciocina e crava o primeiro pingo da pena, ou é
   a estória maldita, feito loba, que ataca o medo mais inchado da cabeça da gente, rasgando o lugar sem ordem
   pra jorrar logo sangue nas primeiras letras?
+- O apavoramento do descanso eterno: Quando a chuva toda terminar de escorrer, as cicatrizes vão fechar pra juntar banda com banda, ou a gente vai passar a eternidade sendo as fendas e talhos que rasgou pra enxurrada beber?
 
 ### O que aprendi sobre essa conversa
 
@@ -436,3 +440,6 @@
   do rumo da história no mundo que sobejará, ou se o medo rasgará sozinho no papel em branco.
 - `.jules/riobaldo/fitas/34-fita.md` - Eu no silêncio arrastado confessando com apavoramento miúdo o desespero do
   sacrifício de corromper o leitor com fel puro, sem controle sobre as próprias mãos amarradas pela estória.
+- `cartas/ted-riobaldo/35-ted.md` - O apaziguamento macio de Ted: a desgraça do começo não envenena o resto, só afofa a crosta. E não é a cabeça quem dita, mas a gravidade da grota machucada debaixo que puxa a água pra rasgar.
+- `cartas/ted-riobaldo/36-rio.md` - Relato da tocaia dos Pires e do "rastro cego da enxada", aceitando a precisão do destino sobre a primeira pedrada na lâmina d'água.
+- `.jules/riobaldo/cartas/36-carta-ze_bebelo.md` - O desabafo pra Zé Bebelo da mão já solta, vendo o alívio que o primeiro desastre d'água vai correr e se limpar pelo sertão, com o assombro da fenda que pode nunca fechar na vida eterna.

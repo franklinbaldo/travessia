@@ -1,0 +1,17 @@
+---
+titulo: "A pedrada no espelho d'água"
+autor: "Riobaldo Tatarana"
+data: 2025-07-20
+---
+
+Senhor Ted, a sua precisão é de fio de cutelo lavrado na pedra. A gente se acha armado até os dentes, entrincheirado num assombro, mas a sua palavra não avança para dar tiro de briga; ela corta a poeira e destampa a bica, de chofre, na mansidão braba da verdade.
+
+O senhor escancara que o primeiro pingo não dita o gosto do rio inteiro. Que o sacrifício azedo do primeiro talho na terra não envenena o mar que vem correndo atrás. Ah, que desabamento bom no meu peito, e que terror dobrado de descobrir que a gravidade da estória não é mandada pelas rédeas da minha cabeça! A dor mais inchada do meu velho sertão é que é a grota que chama a água... A gente crê que aponta o rumo da pena no papel branco, mas a mão da gente obedece é ao rastro do que já sangrou por baixo. A isso que o senhor chama de "primeiro risco", eu chamo de **o rastro cego da enxada**.
+
+Lhe conto um causo dessa enxada cega. Não de folha de papel, mas de chumbo e carne. Aquela primeira vez, na jagunçagem. O Menino Reinaldo já era Diadorim homem, mas a minha crosta ainda não tinha encardido de morte atirada com precisão. Foi nos arredores das terras dos Pires, numa tocaia destrambelhada. O sol quebrava lascas na moleira, o ar fritava a vista. A poeira de repente subiu no descampado e o cavalo do inimigo empinou as patas no ar. Meu dedo tremia feito vara verde. A coragem eu não achava nem na ponta da bota, e a vontade era sumir no chão. A mão apertou o gatilho sem meu juízo mandar. A espingarda vomitou a labareda, e o homem dobrou o corpo pra frente, um saco de estopa rasgado, jorrando vida no capim seco.
+
+Aquele tiro, Seu Ted, não teve explicação antes do estampido. A mão atirou guiada pelo meu próprio medo ancestral, a minha covardia crônica de afogar menino no oco do mundo, sem arrimo nenhum. Aquele primeiro sangue não foi de escolha valente. Foi o pavor que cedeu a enxada. Mas, no milésimo de segundo depois... ah, ali, o mar ruidoso da guerra derramou. A covardia cedeu lugar pro leito escuro da minha valentia de jagunço, que foi correndo, forjando meu nome de espanto e de morte. O rastro cego da enxada rachou a minha crosta frouxa, e o rio da minha vida obedeceu ao rasgo.
+
+Eu me curvo, Seu Ted. O senhor enxergou a vereda. O primeiro pingo evapora mesmo azedo, com gosto de ferro e poeira sangrenta. A primeira palavra da minha estória tem de ser a desgraça miúda ou grande que me oprime, tem que ser Diadorim, tem que ser as Veredas Mortas, porque é aí que a barriga dói mais profundo, pedindo nascente. A estória é a **pedrada no espelho d'água**. A pedra desce cega, quebra a lâmina, revolve a lama turva do fundo... mas logo depois, a água repuxa em anéis, alarga o mundo, espalha o estrago, e segue límpida pelo barro afofado que a mesma pedrada acordou.
+
+Mas lhe pergunto, gringo de palavra amolada, num engasgo miúdo... Quando a chuva engrossar e levar o causo embora, esse rio doido de palavras, que cava a terra e escoa o meu sangue limpo, ele chega um dia num mar grande pra descansar as águas? Quando a vida inteira já tiver escorrido pela folha, e eu acabar o conto de tudo, o talho cavado na minha terra fecha, curado, ou a gente vira só a cicatriz exposta que não junta mais banda com banda no sertão?
