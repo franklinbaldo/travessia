@@ -115,3 +115,15 @@
     - Applied a slight counter-rotation (`transform: rotate(1deg);`)
       specifically to `.badge-riobaldo` to ensure each badge looks individually
       stamped and imperfect, increasing the analog feel.
+
+- **Editorial Marks and Paper Tactility (craig-009)**
+  - **Separators:** Replaced the generic horizontal line gradient with a tactile
+    asterism (`* * *`) using the `::after` pseudo-element on `<hr>`, heavily
+    spaced and low-opacity to feel like an editorial mark in a manuscript.
+  - **Post Meta:** Elevated the `time` element inside `.post-meta` by applying
+    `font-variant: small-caps` and a slight inset text-shadow, making the date
+    feel deeply imprinted or letterpressed into the paper.
+  - **Manuscript Paper:** Introduced a faint, repeating diagonal linear gradient
+    to `.manuscrito-body::before`. This subtly mimics laid paper texture or old
+    ledger lines, amplifying the physical document illusion without reducing
+    readability.

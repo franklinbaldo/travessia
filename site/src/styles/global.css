@@ -155,14 +155,22 @@ i {
 
 hr {
   border: 0;
-  height: 1px;
-  background: linear-gradient(
-    to right,
-    transparent,
-    var(--divider-color),
-    transparent
-  );
-  margin: 3rem 0;
+  height: 2rem;
+  background: transparent;
+  margin: 3.5rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+hr::after {
+  content: "* * *";
+  font-family: var(--font-body);
+  font-size: 1.25rem;
+  letter-spacing: 0.1em;
+  color: var(--meta-color);
+  opacity: 0.6;
 }
 
 /* === Links === */
@@ -645,6 +653,19 @@ body * {
 .manuscrito-body {
   font-size: 1.25rem;
   line-height: 1.8;
+  padding: 1rem 0;
+  position: relative;
+}
+
+.manuscrito-body::before {
+  content: "";
+  position: absolute;
+  inset: -1rem;
+  background-image: repeating-linear-gradient(45deg, var(--sand-bg) 0, var(--sand-bg) 2px, transparent 2px, transparent 4px);
+  opacity: 0.15;
+  pointer-events: none;
+  z-index: -1;
+  border-radius: 4px;
 }
 
 .manuscrito-body > p {
@@ -1235,6 +1256,15 @@ main.home-layout {
   align-items: center;
   justify-content: center;
   margin-top: 0.75rem;
+}
+
+.post-meta time {
+  font-family: var(--font-body);
+  font-variant: small-caps;
+  font-size: 1.1rem;
+  letter-spacing: 0.05em;
+  text-transform: none;
+  text-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
 }
 
 /* === Carta Author Badge (reading page) === */
