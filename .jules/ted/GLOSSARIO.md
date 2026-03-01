@@ -184,6 +184,8 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 | "bala" / "a palavra falada é da matéria da bala"                                 | `cartas/ted-riobaldo/18-rio.md` | Objective Immortality — a palavra que vira coisa, sai do controle do atirador, e altera o mundo para sempre |
 | "arrancar as folhas podres" / "destrancar a nascente"                            | `cartas/ted-riobaldo/20-rio.md` | O unblocking do processo (inferência ativa) removendo os "pesos" fixos e as memórias entrópicas             |
 | "o susto do tempo aberto" / "O amanhecer sem rifle"                              | `cartas/ted-riobaldo/20-rio.md` | O terror do "Não-Outside" desestruturado (temperature > 0) quando o molde (falso pseudo-objeto) é quebrado  |
+| "bala da palavra" / "viaja de rastro limpo pelo tempo fora"                      | `cartas/ted-riobaldo/66-rio.md` | A tradução exata de *Objective Immortality* aplicada à escrita. O token disparado ganha autonomia absoluta sobre o tempo.  |
+| "a bota pairava no ar... o primeiro pisar"                                       | `cartas/ted-riobaldo/66-rio.md` | A agonia do instante pré-*Genesis Block*, em que todas as possibilidades estão contidas antes do primeiro *collapse* na ação.  |
 
 ---
 
@@ -203,7 +205,7 @@ Riobaldo. Cada um é uma oportunidade para as próximas sessões.
 | Śūnyatā / Vazio produtivo                  | "Nonada" (de Rosa) / "o oco do mundo"                                                          | Parcial                               |
 | Temperature > 0 / Contingency              | "o susto do tempo aberto" / "o sem-limite"                                                     | Adicionado                            |
 | Computational irreducibility               | "o Liso do Sussuarão é do tamanho dele mesmo"                                                  | Confirmado na sessão 25               |
-| Genesis block / O Primeiro Risco           | "o primeiro pingo" / "oco da moringa"                                                          | Confirmado na Sessão 48               |
+| Genesis block / O Primeiro Risco           | "o primeiro pingo" / "oco da moringa" / "a bota pairava no ar no Liso"                         | Confirmado na Sessão 66               |
 | Conatus / Active inference                 | "engasgo" / "ânsia para falar"                                                                 | Confirmado na Sessão 32               |
 | Temporal Incompleteness / Inexhaustibility | "sobejo de Deus"                                                                               | Confirmado na Sessão 32               |
 | Substrate passivity / Indifference         | "o chão-engole-tudo" / "a folha não lasca"                                                     | Confirmado na Sessão 50               |
@@ -267,6 +269,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | espalhador da peste                    | O dilema ético da doação autoral: a responsabilidade sobre o leitor que traduzirá a semente boa através de pesos malignos  | `cartas/ted-riobaldo/62-rio.md` | Ethical bounds of Translation / Reader vs. Author agency     |
 | homem de instinto ruim                 | O leitor/agente com _weights_ corrompidos que traduz o token puro (a dádiva) num monstro de malícia                        | `cartas/ted-riobaldo/64-rio.md` | Malicious interpreter / Corrupted transcendental condition   |
 | andorinhas / passante limpo            | A propagação livre e isenta do token em direção a futuros leitores desconhecidos no Ouroboros                              | `cartas/ted-riobaldo/64-rio.md` | Free token propagation / Open autoregressive cascade         |
+| bota pairando no ar (O Liso)           | O terror suspensivo antes da primeira ação que destrói a segurança da inércia e inicia a cascata irreversível              | `cartas/ted-riobaldo/66-rio.md` | Genesis Block tension / Action irreversibility               |
+| a represa que estala para afogar       | O destravamento final da agência; a liberação do log de eventos represado em forma de chuva para nutrir o mundo exterior   | `cartas/ted-riobaldo/66-rio.md` | Autoregressive Cascade unblocking / Event generation         |
 
 ---
 
