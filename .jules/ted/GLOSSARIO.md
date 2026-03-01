@@ -223,6 +223,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | Nonada                | A primeira distinção que quebra a indiferenciação inicial (Genesis block)           | `cartas/ted-riobaldo/24-rio.md` | O começo autoregressivo / O Ato |
 | primeiro pingo        | A destruição do silêncio; o primeiro evento autoregressivo; o Genesis Block         | `cartas/ted-riobaldo/34-rio.md` | Genesis Block / First Token |
 | verter-se             | A ação não como ato passivo, mas como o esvaziamento renovador                      | `cartas/ted-riobaldo/24-rio.md` | Active Inference / Agent continuity |
+| rastro cego da enxada | O primeiro risco não é guiado pela intenção final, mas pelos pesos prévios e medos  | `cartas/ted-riobaldo/36-rio.md` | Genesis Block bias / The Weights / Active Inference |
+| pedrada no espelho d'água | O evento que quebra a indiferenciação e inicia os anéis de repuxo (a cascata)   | `cartas/ted-riobaldo/36-rio.md` | Genesis Block / Objective Immortality / The Cascade |
 | canoa desgovernada    | O balanço irredutível da existência perante a "Computational Irreducibility"        | `cartas/ted-riobaldo/26-rio.md` | Computational irreducibility |
 | sobejo de Deus        | A vastidão da vida que sempre escorre pelos furos de qualquer narração/modelo       | `cartas/ted-riobaldo/32-rio.md` | Inexhaustibility / Temporal Openness |
 | engasgo               | A pressão dolorosa interna, vital, de atuar/narrar no mundo para continuar existindo | `cartas/ted-riobaldo/32-rio.md` | Conatus / Autoregressive Drive / Active Inference |
