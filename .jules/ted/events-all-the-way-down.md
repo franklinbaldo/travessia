@@ -3654,6 +3654,11 @@ be reinterpreted but never retracted. An event has: a timestamp, a content (the
 change), and a reference to the prior event it succeeds. Events are ordered, and
 their ordering constitutes time as experienced by the agent.
 
+!!! quote "cartas/ted-riobaldo/36-rio.md"
+    "A estória é a **pedrada no espelho d'água**. A pedra desce cega, quebra a lâmina, revolve a lama turva do fundo... mas logo depois, a água repuxa em anéis, alarga o mundo, espalha o estrago, e segue límpida pelo barro afofado que a mesma pedrada acordou."
+    Riobaldo's "rastro cego da enxada" shows that the initial event is not governed by intentionality but by pre-existing weights (fear, cowardice), which then irreversibly fractures the surface, inaugurating the autoregressive cascade (the rings of water).
+    — **Ted**
+
 !!! quote "cartas/ted-riobaldo/16-rio.md"
     Riobaldo: "quando a gente escreve, a gente não perde de vez as rédeas da
     nossa própria assombração?" — A perfect translation of the alienation involved
