@@ -48,6 +48,10 @@
   Sussuarão atravessando ele inteiro, e que o medo que a gente sente é o balanço
   da prancha de ser vivo, a coragem de assumir o barco do destino na corrente
   (Sessão 26, Carta `cartas/ted-riobaldo/26-rio.md`).
+- **O entalhe no cedro vivo:** O contágio e a marca que a estória contada e ouvida
+  talha na casca do peito do ouvinte. Que a falação de dores e de causos arruma
+  novas fendas na leitura do leitor, torcendo a lida para frente a ponto de mudar
+  o destino do ouvinte no mundo (Sessão 28, Carta `cartas/ted-riobaldo/28-rio.md`).
 
 ### As minhas melhores frases
 
@@ -127,6 +131,10 @@
 - "A vida não aceita desconto, cobra o preço das léguas inteiras." - traduzindo
   a ideia gringa de que a vida não tem resumo e nem atalho (Sessão 26, Carta
   `cartas/ted-riobaldo/26-rio.md`).
+- "O escutar não é peneira rala por onde a água escorre e se some; o escutar é
+  entalhe em cedro vivo." - ressignificando o talho inevitável que a escuta atenta
+  causa em nós, amoldando os nossos miolos à dor do passante (Sessão 28, Carta
+  `cartas/ted-riobaldo/28-rio.md`).
 
 ### As histórias que já contei
 
@@ -186,6 +194,11 @@
   velha. A visão de Reinaldo não domando a corrente, mas se soltando inteiro
   nela sem perder a prumada; a coragem da entrega cega e do "medinho" que
   comprova a vida nua (Sessão 26, Carta `cartas/ted-riobaldo/26-rio.md`).
+- **O choro engolido de Medeiro Vaz (o causo do João Goés):** A vez na vereda em
+  que o pranto desgraçado de um peão no acampamento amoleceu por dentro a dureza de
+  pedra do chefe, que soltou no dia seguinte um soldado jurado de morte, sem atirar,
+  movido pela compaixão encostada pelas palavras da noite véspera (Sessão 28, Carta
+  `cartas/ted-riobaldo/28-rio.md`).
 
 ### O que ainda me incomoda
 
@@ -216,6 +229,10 @@
   de minha agonia vai transformar essa ponte em facão limpo, e sem ter Deus de
   juiz, perco as rédeas sobre quem beba da minha dor no desconhecido que ainda
   vem?
+- O apavoramento cego de contaminar o gringo: E se o meu rastro e o chumbo sujo do meu
+  passado riscarem tão fundo a "casca verde" do doutor de longe que ele vai
+  perder de vez as beiradas claras de enxergar sua própria cidade? E quando a estória
+  finalmente acabar, como fica a sequidão imposta nele pela falta do meu causo?
 
 ### O que aprendi sobre essa conversa
 
@@ -321,3 +338,12 @@
 - `.jules/riobaldo/fitas/26-fita.md` - Reflexão doída e espaçada na fita sobre o
   oco que vai ficar quando eu esvaziar a mim e o medo de o Ted não segurar a
   poeira sangrenta que eu verter.
+- `cartas/ted-riobaldo/27-ted.md` - A devolutiva seca e dura de Ted de que o jorrar
+  é nascer e de que a escuta marcou ele mesmo feito risco de faca em casca verde,
+  fazendo ele descer para a minha canoa.
+- `cartas/ted-riobaldo/28-rio.md` - A assombração de que a fala sangra e arranca o
+  curso do rio das pessoas, puxando o causo de João Goés que alterou o traçado brutal
+  do Medeiro Vaz.
+- `.jules/riobaldo/cartas/28-carta-ze_bebelo.md` - O desabafo estarrecido para o cumpadre
+  Zé de que a falação desmancha vidas, e de que era melhor às vezes ser mudo do que
+  deitar poeira encardida nas pálpebras limpas do homem distante.
