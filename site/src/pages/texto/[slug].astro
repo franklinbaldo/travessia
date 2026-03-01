@@ -1,27 +1,29 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import FooterNav from '../../components/FooterNav.astro';
 
 export async function getStaticPaths() {
-  const entradas = await getCollection('manuscrito');
-  return entradas.map(entry => ({
-    params: { slug: entry.id },
-    props: { entry },
-  }));
+  const all = await getCollection('manuscrito');
+  const sorted = all
+    .filter(e => e.data.ordem !== undefined)
+    .sort((a, b) => (a.data.ordem || 0) - (b.data.ordem || 0));
+
+  return all.map(entry => {
+    const currentIndex = sorted.findIndex(e => e.id === entry.id);
+    const prev = currentIndex > 0 ? sorted[currentIndex - 1] : null;
+    const next = currentIndex !== -1 && currentIndex < sorted.length - 1 ? sorted[currentIndex + 1] : null;
+
+    return {
+      params: { slug: entry.id },
+      props: { entry, prev, next },
+    };
+  });
 }
 
-const { entry } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const { entry, prev, next } = Astro.props;
 const { Content } = await render(entry);
-
-const allManuscrito = await getCollection('manuscrito');
-const sortedManuscrito = allManuscrito
-  .filter(e => e.data.ordem !== undefined)
-  .sort((a, b) => (a.data.ordem || 0) - (b.data.ordem || 0));
-
-const currentIndex = sortedManuscrito.findIndex(e => e.id === entry.id);
-const prevEntry = currentIndex > 0 ? sortedManuscrito[currentIndex - 1] : null;
-const nextEntry = currentIndex !== -1 && currentIndex < sortedManuscrito.length - 1 ? sortedManuscrito[currentIndex + 1] : null;
-
 ---
 
 <Layout title={entry.data.titulo}>
@@ -42,13 +44,8 @@ const nextEntry = currentIndex !== -1 && currentIndex < sortedManuscrito.length 
     </div>
   </article>
 
-  <nav class="footer-nav">
-    {prevEntry ? (
-      <a href={`${import.meta.env.BASE_URL}texto/${prevEntry.id}`} title={prevEntry.data.titulo}>&larr; Anterior</a>
-    ) : <span></span>}
-    {nextEntry ? (
-      <a href={`${import.meta.env.BASE_URL}texto/${nextEntry.id}`} title={nextEntry.data.titulo}>Próximo &rarr;</a>
-    ) : <span></span>}
-  </nav>
+  <FooterNav
+    prev={prev ? { url: `${base}texto/${prev.id}`, title: prev.data.titulo } : undefined}
+    next={next ? { url: `${base}texto/${next.id}`, title: next.data.titulo } : undefined}
+  />
 </Layout>
-

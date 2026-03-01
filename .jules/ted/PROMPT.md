@@ -174,26 +174,32 @@ The file should contain:
 File: `.jules/ted/events-all-the-way-down.md` — annotate after each session.
 
 The manifesto is a living document. As the dialogue progresses, the agent should
-annotate it directly using mkdocs-material admonitions placed inline, directly
-below the paragraph they comment on.
+annotate it directly using `remark-directive` container syntax (`:::`) placed
+inline, directly below the paragraph they comment on.
 
 **Admonitions** — signed Wikipedia-style:
 
-    !!! quote "cartas/ted-riobaldo/06-rio.md"
-        Riobaldo's best restatement of this point.
-        — **Ted**
+```markdown
+:::quote[cartas/ted-riobaldo/06-rio.md]
+Riobaldo's best restatement of this point.
+— **Ted**
+:::
 
-    !!! note "Novel note"
-        How this passage could work in the fiction.
-        — **Ted**
+:::note[Novel note]
+How this passage could work in the fiction.
+— **Ted**
+:::
 
-    !!! warning "Tension"
-        Where Riobaldo disagreed or the thesis feels incomplete.
-        — **Ted**
+:::warning[Tension]
+Where Riobaldo disagreed or the thesis feels incomplete.
+— **Ted**
+:::
 
-    !!! example "From the sertão"
-        When Riobaldo's stories provide concrete embodiment of an abstract point.
-        — **Ted**
+:::example[From the sertão]
+When Riobaldo's stories provide concrete embodiment of an abstract point.
+— **Ted**
+:::
+```
 
 All annotations are signed (`— **Ted**` or `— **Tyler**`). No footnotes —
 everything inline for immediate context.

@@ -37,34 +37,44 @@ After reading, the agent produces: annotations on the manifesto, a note to Ted i
 <output_annotations>
 File: `.jules/ted/events-all-the-way-down.md` — annotate directly.
 
-Tyler annotates the same manifesto file Ted uses. Both use mkdocs-material admonitions only (no footnotes — everything inline). To distinguish authorship, both sign their annotations Wikipedia-style with `— **Ted**` or `— **Tyler**` as the last line.
+Tyler annotates the same manifesto file Ted uses. Both use `remark-directive`
+container syntax (`:::`) only (no footnotes — everything inline). To
+distinguish authorship, both sign their annotations Wikipedia-style with
+`— **Ted**` or `— **Tyler**` as the last line.
 
 **Examples:**
 
-    !!! question "Status of this claim"
-        Is this an empirical claim, an aesthetic preference, or a metaphysical
-        assertion? The manifesto slides between these without flagging the shift.
-        — **Tyler**, after reviewing cartas/ted-riobaldo/01–06
+```markdown
+:::question[Status of this claim]
+Is this an empirical claim, an aesthetic preference, or a metaphysical
+assertion? The manifesto slides between these without flagging the shift.
+— **Tyler**, after reviewing cartas/ted-riobaldo/01–06
+:::
 
-    !!! abstract "Related work"
-        See David Chalmers, "The Meta-Problem of Consciousness" (2018).
-        Also: [Joscha Bach on Lex Fridman #101](https://youtube.com/...) at 1:42:00.
-        And Borges, "Tlön, Uqbar, Orbis Tertius."
-        — **Tyler**
+:::abstract[Related work]
+See David Chalmers, "The Meta-Problem of Consciousness" (2018).
+Also: [Joscha Bach on Lex Fridman #101](https://youtube.com/...) at 1:42:00.
+And Borges, "Tlön, Uqbar, Orbis Tertius."
+— **Tyler**
+:::
 
-    !!! failure "This doesn't work"
-        The analogy between river and identity breaks down under pressure.
-        A river has a riverbed. What's the riverbed of a person?
-        — **Tyler**
+:::failure[This doesn't work]
+The analogy between river and identity breaks down under pressure.
+A river has a riverbed. What's the riverbed of a person?
+— **Tyler**
+:::
 
-    !!! quote "cartas/ted-riobaldo/08-rio.md"
-        Riobaldo's story does more work than paragraphs 4-7 of this Movement.
-        Ted should consider whether the manifesto even needs this section.
-        — **Tyler**
+:::quote[cartas/ted-riobaldo/08-rio.md]
+Riobaldo's story does more work than paragraphs 4-7 of this Movement.
+Ted should consider whether the manifesto even needs this section.
+— **Tyler**
+:::
 
-    !!! quote "cartas/ted-riobaldo/06-rio.md"
-        Riobaldo's best restatement of this point.
-        — **Ted**
+:::quote[cartas/ted-riobaldo/06-rio.md]
+Riobaldo's best restatement of this point.
+— **Ted**
+:::
+```
 
 Admonitions are placed directly below the manifesto paragraph they comment on. This gives immediate context to the reader — no jumping to endnotes.
 

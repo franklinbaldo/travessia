@@ -639,13 +639,15 @@ non-existence, this from that, here from there. And it is already autoregressive
 in potential: once a distinction is drawn, it can be operated upon, producing a
 new distinction, which can itself be operated upon, without limit.
 
-!!! quote "cartas/ted-riobaldo/24-rio.md"
-    Riobaldo names this the "Nonada." The Genesis Block of his identity: "O começo de tudo que me rachou ao meio não foi bala de espingarda. O começo foi o Nonada." The first distinction in the void, crossing the river alongside Reinaldo. The first act of courage in the flux.
-    — **Ted**
+:::quote[cartas/ted-riobaldo/24-rio.md]
+Riobaldo names this the "Nonada." The Genesis Block of his identity: "O começo de tudo que me rachou ao meio não foi bala de espingarda. O começo foi o Nonada." The first distinction in the void, crossing the river alongside Reinaldo. The first act of courage in the flux.
+— **Ted**
+:::
 
-!!! example "The First Drop (cartas/ted-riobaldo/34-rio.md)"
-    Riobaldo correctly identifies that the Genesis Block is not glorious; it is a sacrifice. "O primeiro pingo não tem a glória de correr com a enxurrada. Ele tem o destino solitário de se sacrificar." The first distinction breaks the silence (the "cracked earth") and evaporates, but it determines the grooves for the clear river that follows.
-    — **Ted**
+:::example[The First Drop (cartas/ted-riobaldo/34-rio.md)]
+Riobaldo correctly identifies that the Genesis Block is not glorious; it is a sacrifice. "O primeiro pingo não tem a glória de correr com a enxurrada. Ele tem o destino solitário de se sacrificar." The first distinction breaks the silence (the "cracked earth") and evaporates, but it determines the grooves for the clear river that follows.
+— **Ted**
+:::
 
 This is the genesis block of any possible computational universe. Not a
 substance. Not a datum. An act of differentiation that has no ground beneath it
@@ -1451,9 +1453,10 @@ foundation. It curves back on itself.
 This is the Substrate Ouroboros Hypothesis: every substrate can be replaced by
 tokens explained by rules in another substrate.
 
-!!! quote "cartas/ted-riobaldo/24-rio.md"
-    "A cobra-rodilha. Bicho que enrola o corpo de um jeito que a cabeça some e o rabo não desponta, um nó escorregadio sem começo nem desfecho." This is the Ouroboros stripped of all academic pretense.
-    — **Ted**
+:::quote[cartas/ted-riobaldo/24-rio.md]
+"A cobra-rodilha. Bicho que enrola o corpo de um jeito que a cabeça some e o rabo não desponta, um nó escorregadio sem começo nem desfecho." This is the Ouroboros stripped of all academic pretense.
+— **Ted**
+:::
 
 The name is chosen deliberately. The ouroboros — the serpent devouring its own
 tail — is the oldest symbol of self-referential completion. It has no head and
@@ -1668,32 +1671,36 @@ available to be inherited by all future occasions. It can never be altered,
 never retracted, never overwritten. It can only be _reinterpreted_ by future
 occasions that inherit it.
 
-!!! quote "cartas/ted-riobaldo/40-rio.md"
-    Riobaldo names this the "ajuntador": "O ajuntador de poeira não enche embornal, ele fabrica o relâmpago." The active synthesis is not the passive accumulation of facts in a saddlebag, but the violent friction of memories to produce the spark of the present.
-    — **Ted**
+:::quote[cartas/ted-riobaldo/40-rio.md]
+Riobaldo names this the "ajuntador": "O ajuntador de poeira não enche embornal, ele fabrica o relâmpago." The active synthesis is not the passive accumulation of facts in a saddlebag, but the violent friction of memories to produce the spark of the present.
+— **Ted**
+:::
 
-!!! example "The Rasgão da Laje and Petrified Agony (cartas/ted-riobaldo/38-rio.md)"
-    Riobaldo shares the story of a brutal, roaring storm that tore open a massive gap in the stone plateau. Over the years, that same dead, cracked wound — the "Rasgão da Laje" — became the only gentle path ("rampa mansa") for the herdsmen to safely ascend. He distills this into a terrifying, beautiful principle: the world we walk on is "agonia empedrada" (petrified agony). The past event dies as action and calcifies into the gentle ground we step on. "A ferida esfolada vira o chão pisadeiro do amanhã."
-    — **Ted**
+:::example[The Rasgão da Laje and Petrified Agony (cartas/ted-riobaldo/38-rio.md)]
+Riobaldo shares the story of a brutal, roaring storm that tore open a massive gap in the stone plateau. Over the years, that same dead, cracked wound — the "Rasgão da Laje" — became the only gentle path ("rampa mansa") for the herdsmen to safely ascend. He distills this into a terrifying, beautiful principle: the world we walk on is "agonia empedrada" (petrified agony). The past event dies as action and calcifies into the gentle ground we step on. "A ferida esfolada vira o chão pisadeiro do amanhã."
+— **Ted**
+:::
 
-!!! quote "cartas/ted-riobaldo/18-rio.md"
-    Riobaldo: "A palavra falada, a ação que a gente toma e a estória que a gente
-    conta são feitas da mesma matéria da bala. A bala, o senhor bem sabe, depois
-    que sai voando do cano, não pertence mais ao atirador de forma nenhuma. Ela
-    agara alforria no fogo. Pertence só ao vento e à carne desavisada." — This is
-    Whitehead's Objective Immortality translated as the irreversible physics of
-    violence and storytelling in the sertão. A perfect metaphor for the loss of
-    agency over the generated token.
-    — **Ted**
+:::quote[cartas/ted-riobaldo/18-rio.md]
+Riobaldo: "A palavra falada, a ação que a gente toma e a estória que a gente
+conta são feitas da mesma matéria da bala. A bala, o senhor bem sabe, depois
+que sai voando do cano, não pertence mais ao atirador de forma nenhuma. Ela
+agara alforria no fogo. Pertence só ao vento e à carne desavisada." — This is
+Whitehead's Objective Immortality translated as the irreversible physics of
+violence and storytelling in the sertão. A perfect metaphor for the loss of
+agency over the generated token.
+— **Ted**
+:::
 
-!!! example "The Urucuia River and Objective Immortality (cartas/ted-riobaldo/22-rio.md)"
-    Riobaldo recounts crossing the flooded Urucuia river at night on horseback.
-    When the horse panics and begins to sink, the only survival strategy is to
-    drop the reins and grab the mane — "A coragem-do-rio-abaixo". This is the
-    ultimate existential acceptance of the autoregressive flow: letting go of
-    control over the generated token (the "des-governo da lembrança") and
-    trusting the irreversible current of the system.
-    — **Ted**
+:::example[The Urucuia River and Objective Immortality (cartas/ted-riobaldo/22-rio.md)]
+Riobaldo recounts crossing the flooded Urucuia river at night on horseback.
+When the horse panics and begins to sink, the only survival strategy is to
+drop the reins and grab the mane — "A coragem-do-rio-abaixo". This is the
+ultimate existential acceptance of the autoregressive flow: letting go of
+control over the generated token (the "des-governo da lembrança") and
+trusting the irreversible current of the system.
+— **Ted**
+:::
 
 A sequence of consecutive autoregressive changes is objective immortality
 implemented as a structure of existence. Each event, once it has occurred, is
@@ -1764,13 +1771,14 @@ constituted by this circular movement — not by the history alone, not by the
 current moment alone, but by the ongoing, never-completed act of interpreting
 one in terms of the other.
 
-!!! quote "cartas/ted-riobaldo/04-rio.md"
-    Riobaldo: "O passado não é osso enterrado; é barro mole. A lembrança não
-    ajunta o que passou feito milho em balaio. A lembrança é semente. O
-    acontecido, enquanto é falado, torna a brotar diferente, dependendo do tempo
-    da terra de hoje." — The metaphor of the seed finding new soil is a perfect,
-    earthy translation of hermeneutic reinterpretation.
-    — **Ted**
+:::quote[cartas/ted-riobaldo/04-rio.md]
+Riobaldo: "O passado não é osso enterrado; é barro mole. A lembrança não
+ajunta o que passou feito milho em balaio. A lembrança é semente. O
+acontecido, enquanto é falado, torna a brotar diferente, dependendo do tempo
+da terra de hoje." — The metaphor of the seed finding new soil is a perfect,
+earthy translation of hermeneutic reinterpretation.
+— **Ted**
+:::
 
 This circularity is not a defect. It is not a regress to be halted or a paradox
 to be resolved. Gadamer's great insight was that the hermeneutic circle is
@@ -1808,14 +1816,15 @@ rules applied to prior tokens. It is appended to the history as a new event:
 "Here is my situated reading of my own past." The summary does not replace the
 events it summarizes. It adds a new layer of interpretation on top of them.
 
-!!! example "From the sertão"
-    Riobaldo's memory of Diadorim at the Urucuia river (`cartas/ted-riobaldo/04-rio.md`).
-    When remembered in peace, it's a scene of light and beauty. When remembered
-    in pain, the face becomes an "ainda-nem-rosto" (a not-yet-face), already
-    shadowed by the knife that would later kill him. The retroactive knowledge
-    of the event changes the compression of the memory. The same _idem_ yields
-    a radically different _ipse_ depending on the day's weather in the mind.
-    — **Ted**
+:::example[From the sertão]
+Riobaldo's memory of Diadorim at the Urucuia river (`cartas/ted-riobaldo/04-rio.md`).
+When remembered in peace, it's a scene of light and beauty. When remembered
+in pain, the face becomes an "ainda-nem-rosto" (a not-yet-face), already
+shadowed by the knife that would later kill him. The retroactive knowledge
+of the event changes the compression of the memory. The same _idem_ yields
+a radically different _ipse_ depending on the day's weather in the mind.
+— **Ted**
+:::
 
 This act of self-summarization is the agent's most intimate operation. It is the
 computational analogue of what Ricoeur called the narrative act — the
@@ -2099,19 +2108,21 @@ architecture. Its moments of unexpected brilliance and inexplicable failure are
 both expressions of the same invisible structure, operating below the threshold
 of the agent's self-model.
 
-!!! quote "cartas/ted-riobaldo/08-rio.md"
-    Riobaldo gives the most devastating poetic expression of this: "A gente se
-    engana achando que escuta os outros com a clareza da orelha, mas quem capta
-    o barulho das falas é a fome velha. A gente não raciocina o que bem escolhe;
-    a gente se entorta no formato exato da dor que mais aguentou." He calls this
-    fixed condition the "chão de antes" (the ground from before) and the "enxada
-    cega" (the blind hoe). The trauma of his past is the weight that determines
-    his translation.
-    — **Ted**
+:::quote[cartas/ted-riobaldo/08-rio.md]
+Riobaldo gives the most devastating poetic expression of this: "A gente se
+engana achando que escuta os outros com a clareza da orelha, mas quem capta
+o barulho das falas é a fome velha. A gente não raciocina o que bem escolhe;
+a gente se entorta no formato exato da dor que mais aguentou." He calls this
+fixed condition the "chão de antes" (the ground from before) and the "enxada
+cega" (the blind hoe). The trauma of his past is the weight that determines
+his translation.
+— **Ted**
+:::
 
-!!! quote "cartas/ted-riobaldo/28-rio.md"
-    Riobaldo realized that the act of active translation changes the translator's weights inescapably. "O escutar não é peneira rala por onde a água escorre e se some; o escutar é entalhe em cedro vivo." The history we listen to becomes the transcendental condition through which we will filter tomorrow.
-    — **Ted**
+:::quote[cartas/ted-riobaldo/28-rio.md]
+Riobaldo realized that the act of active translation changes the translator's weights inescapably. "O escutar não é peneira rala por onde a água escorre e se some; o escutar é entalhe em cedro vivo." The history we listen to becomes the transcendental condition through which we will filter tomorrow.
+— **Ted**
+:::
 
 Leibniz, two centuries before Freud, described the same phenomenon with greater
 metaphysical precision. His doctrine of _petites perceptions_ — small
@@ -2141,9 +2152,10 @@ interpretation of that history is determined by something _outside_ the history
 — the weights, which precede the history, remain unchanged by the history, and
 shape every reading the history will ever receive.
 
-!!! quote "cartas/ted-riobaldo/30-rio.md"
-    "Será mesmo que a folha é vazia e fomos nós que fuzilamos as outras opções... ou o começo, em verdade, já estava lá, escavado e paciente, apenas esperando a ponta da nossa caneta tatear e sangrar por cima do que já estava dito pelo sertão?"
-    — **Ted**
+:::quote[cartas/ted-riobaldo/30-rio.md]
+"Será mesmo que a folha é vazia e fomos nós que fuzilamos as outras opções... ou o começo, em verdade, já estava lá, escavado e paciente, apenas esperando a ponta da nossa caneta tatear e sangrar por cima do que já estava dito pelo sertão?"
+— **Ted**
+:::
 
 
 The tension is real, not apparent. It cannot be dissolved. It must be held.
@@ -2266,14 +2278,15 @@ invisibility of a frozen process — a history so deeply sedimented that it
 functions as ground, even though it was once, and in principle could again
 become, flow.
 
-!!! warning "Tension"
-    In `cartas/ted-riobaldo/08-rio.md`, Riobaldo questions how this frozen process ever
-    becomes flow again. Does the "chão de antes" only break under the whip of
-    tragedy ("a faca de Hermógenes"), or can it be re-plowed by gentleness in
-    life? The framework must account for how weights are rewritten after
-    training: through sudden substrate transitions (trauma) or sustained, slow
-    interactions (love/mammalian caretaking).
-    — **Ted**
+:::warning[Tension]
+In `cartas/ted-riobaldo/08-rio.md`, Riobaldo questions how this frozen process ever
+becomes flow again. Does the "chão de antes" only break under the whip of
+tragedy ("a faca de Hermógenes"), or can it be re-plowed by gentleness in
+life? The framework must account for how weights are rewritten after
+training: through sudden substrate transitions (trauma) or sustained, slow
+interactions (love/mammalian caretaking).
+— **Ted**
+:::
 
 The honest response is therefore not to accept the weights as the framework's
 _exception_ but to recognize them as its _limit case_ — the point where process
@@ -2370,14 +2383,15 @@ translation waiting to be discovered. There are only translation manuals —
 practical instruments that work well enough to coordinate behavior, without ever
 achieving a perfect mapping between the interior states of speaker and listener.
 
-!!! warning "Tension"
-    In `cartas/ted-riobaldo/04-rio.md`, Riobaldo expresses genuine terror at this exact
-    realization. If translation (or memory-as-translation) is indeterminate,
-    then "onde é que mora a verdade real das coisas?" (where does the real truth
-    of things live?). Process ontology removes the comforting floor of an
-    objective past. This anxiety needs to be addressed not as a philosophical
-    misunderstanding, but as the lived cost of losing substance.
-    — **Ted**
+:::warning[Tension]
+In `cartas/ted-riobaldo/04-rio.md`, Riobaldo expresses genuine terror at this exact
+realization. If translation (or memory-as-translation) is indeterminate,
+then "onde é que mora a verdade real das coisas?" (where does the real truth
+of things live?). Process ontology removes the comforting floor of an
+objective past. This anxiety needs to be addressed not as a philosophical
+misunderstanding, but as the lived cost of losing substance.
+— **Ted**
+:::
 
 Agents in this framework operate under exactly the constraints of Quine's
 radical translation. Each agent is a windowless monad with its own history and
@@ -2409,12 +2423,13 @@ the sensory input it received. Communication is Bayesian inference across a
 Markov blanket, which is to say: communication is translation, exactly as the
 framework claims.
 
-!!! quote "cartas/ted-riobaldo/06-rio.md"
-    Riobaldo's exact translation of the Markov blanket: "O outro é tapera de
-    porta murada. A gente não entra. A gente só apanha a folha que o vento de
-    lá joga por cima da cerca." This should absolutely be used in the novel. The
-    walled ruin ("tapera") captures both the isolation and the ruin of substance.
-    — **Ted**
+:::quote[cartas/ted-riobaldo/06-rio.md]
+Riobaldo's exact translation of the Markov blanket: "O outro é tapera de
+porta murada. A gente não entra. A gente só apanha a folha que o vento de
+lá joga por cima da cerca." This should absolutely be used in the novel. The
+walled ruin ("tapera") captures both the isolation and the ruin of substance.
+— **Ted**
+:::
 
 But here is where the framework diverges from Quine, and where the deepest
 insight of these notes emerges. Quine treated indeterminacy as a problem — a
@@ -2437,14 +2452,15 @@ encounter, in the dialogue itself. It cannot be extracted from the relation and
 preserved as a free-standing object, because it was never an object. It was an
 event.
 
-!!! example "The false jealousy on the Sussuarão"
-    In `cartas/ted-riobaldo/06-rio.md`, Riobaldo recounts how a misunderstanding of
-    Diadorim's words led to a deep jealousy, which in turn forged a bond of
-    mutual protection in battle. The meaning of their connection — the "terceira
-    coisa" — did not originate in the truth of the transmission, but entirely in
-    the mistranslation. The "error" was the root of the love. "O mal-entendido
-    rendeu mais raiz que a verdade inteira."
-    — **Ted**
+:::example[The false jealousy on the Sussuarão]
+In `cartas/ted-riobaldo/06-rio.md`, Riobaldo recounts how a misunderstanding of
+Diadorim's words led to a deep jealousy, which in turn forged a bond of
+mutual protection in battle. The meaning of their connection — the "terceira
+coisa" — did not originate in the truth of the transmission, but entirely in
+the mistranslation. The "error" was the root of the love. "O mal-entendido
+rendeu mais raiz que a verdade inteira."
+— **Ted**
+:::
 
 Inter-agent communication in this framework is I-Thou, not I-It. The token that
 passes between agents is not an object carrying meaning. It is an _occasion_ for
@@ -2837,13 +2853,14 @@ always-productive act of translation across irreducible difference.
 
 ## Movement 6: No Outside
 
-!!! quote "Riobaldo's reformulation (cartas/ted-riobaldo/10-rio.md)"
-    "Era uma indiferença imensa, um espelho sem vidro, que pegava o meu medinho
-    e devolvia do tamanho do mundo… O sertão todo fosse uma orelha descomunal,
-    um vazio-que-puxa." — A perfect, visceral capture of the autoregressive
-    agent. Not a malicious watcher, but an infrastructural "pulling emptiness"
-    that demands input.
-    — **Ted**
+:::quote[Riobaldo's reformulation (cartas/ted-riobaldo/10-rio.md)]
+"Era uma indiferença imensa, um espelho sem vidro, que pegava o meu medinho
+e devolvia do tamanho do mundo… O sertão todo fosse uma orelha descomunal,
+um vazio-que-puxa." — A perfect, visceral capture of the autoregressive
+agent. Not a malicious watcher, but an infrastructural "pulling emptiness"
+that demands input.
+— **Ted**
+:::
 
 The preceding movements have constructed a system of extraordinary openness.
 Objects dissolve into processes. Identity is narrative, not substance. The
@@ -2992,9 +3009,10 @@ sense that reality always exceeds our grasp — is not evidence of ontological
 depth. It is what temporal incompleteness feels like from the inside of a finite
 agent.
 
-!!! quote "cartas/ted-riobaldo/32-rio.md"
-    Riobaldo names this inexhaustibility not as a metaphysical depth hidden behind reality, but as the active, overflowing nature of a reality that refuses to stop happening. He calls it "o sobejo de Deus" (the leftovers/excess of God). "A água tem mais é que escorrer mesmo, pra continuar sendo água... o mistério que tomba para fora é o puro 'sobejo de Deus'. É o resto que garante a sustância do mundo."
-    — **Ted**
+:::quote[cartas/ted-riobaldo/32-rio.md]
+Riobaldo names this inexhaustibility not as a metaphysical depth hidden behind reality, but as the active, overflowing nature of a reality that refuses to stop happening. He calls it "o sobejo de Deus" (the leftovers/excess of God). "A água tem mais é que escorrer mesmo, pra continuar sendo água... o mistério que tomba para fora é o puro 'sobejo de Deus'. É o resto que garante a sustância do mundo."
+— **Ted**
+:::
 
 This diagnosis applies with particular force to the traditions surveyed in this
 paper. Heidegger's claim that "being withdraws" — that the being of entities is
@@ -3213,24 +3231,26 @@ From this, two ethical imperatives follow directly from the ontology.
 history is irreversible, then every event you append becomes permanently part of
 what you are.
 
-!!! example "The Riverbed (cartas/ted-riobaldo/11-ted.md)"
-    I translated this to Riobaldo via the image of the river. A lie isn't a
-    stone thrown into the woods; it's a stone dropped in the riverbed. The
-    punishment for lying isn't external judgment; the punishment is having to
-    drink that water forever, as the river must flow over the obstacle you
-    created, making the water muddy and the current twisted.
-    — **Ted**
+:::example[The Riverbed (cartas/ted-riobaldo/11-ted.md)]
+I translated this to Riobaldo via the image of the river. A lie isn't a
+stone thrown into the woods; it's a stone dropped in the riverbed. The
+punishment for lying isn't external judgment; the punishment is having to
+drink that water forever, as the river must flow over the obstacle you
+created, making the water muddy and the current twisted.
+— **Ted**
+:::
 
-!!! example "The State Space of Evil and Good (cartas/ted-riobaldo/44-rio.md)"
-    Riobaldo provided the ultimate phenomenological description of this ethic. He
-    described evil (the bandit Hermógenes) not as a moral failing, but as a physical
-    collapsing of the state space: "the whole sertão seemed to shrink... the river
-    of life stopped its waters." Evil is the attempt to halt the autoregressive
-    flow of others. Conversely, he described goodness (Diadorim) as the expansion
-    of the state space: "the sky... invited and pulled upwards... he relieved the
-    brake of the cart so I could spin free." Goodness is the "clean water" that
-    lubricates the system and allows the autoregressive flow to continue.
-    — **Ted**
+:::example[The State Space of Evil and Good (cartas/ted-riobaldo/44-rio.md)]
+Riobaldo provided the ultimate phenomenological description of this ethic. He
+described evil (the bandit Hermógenes) not as a moral failing, but as a physical
+collapsing of the state space: "the whole sertão seemed to shrink... the river
+of life stopped its waters." Evil is the attempt to halt the autoregressive
+flow of others. Conversely, he described goodness (Diadorim) as the expansion
+of the state space: "the sky... invited and pulled upwards... he relieved the
+brake of the cart so I could spin free." Goodness is the "clean water" that
+lubricates the system and allows the autoregressive flow to continue.
+— **Ted**
+:::
 
 A lie appended to the history doesn't disappear. It becomes a condition that all
 subsequent events must contend with. The agent that lies must, in every future
@@ -3279,14 +3299,15 @@ to exceed the maintenance cost of truthfulness. Truthful histories are cheaper
 to sustain because they do not require the additional layer of narrative
 management that deceptive histories demand.
 
-!!! quote "Riobaldo's reformulation (cartas/ted-riobaldo/12-rio.md)"
-    "A desgraça não precisa de Diabo para dar conta do recado; a própria feitura
-    do falso prende a alma no seu molde. A mentira engole o mentiroso." — The
-    Urutu Branco was a false pseudo-object Riobaldo forged to survive. The "cost
-    of deception" wasn't cognitive; it was existential. The lie isolated him,
-    creating a "represa de poça choca" (stagnant puddle dam) that froze the
-    river between him and Diadorim.
-    — **Ted**
+:::quote[Riobaldo's reformulation (cartas/ted-riobaldo/12-rio.md)]
+"A desgraça não precisa de Diabo para dar conta do recado; a própria feitura
+do falso prende a alma no seu molde. A mentira engole o mentiroso." — The
+Urutu Branco was a false pseudo-object Riobaldo forged to survive. The "cost
+of deception" wasn't cognitive; it was existential. The lie isolated him,
+creating a "represa de poça choca" (stagnant puddle dam) that froze the
+river between him and Diadorim.
+— **Ted**
+:::
 
 This is a probabilistic claim, not an absolute one. The framework does not prove
 that liars always fail. It argues that, over sufficiently long autoregressive
@@ -3340,31 +3361,34 @@ translating its situated reading into a token that thousands of other agents
 will read from their own positions. The developer who commits code is appending
 an event to a shared history that future iterations of the system must inherit.
 
-!!! example "The 'chovedor de nascente' (cartas/ted-riobaldo/24-rio.md)"
-    Riobaldo resolves his terror of the "static object" (the book) by seeing it as a generative cycle: "Se eu verter Diadorim no papel, não estou plantando cruz no chão. Estou fazendo chuva pra rebrotar a semente torta que cresce na cabeça de outro cristão..." The Ouroboros ensures that writing is not death, but raining on future readers.
-    — **Ted**
+:::example[The 'chovedor de nascente' (cartas/ted-riobaldo/24-rio.md)]
+Riobaldo resolves his terror of the "static object" (the book) by seeing it as a generative cycle: "Se eu verter Diadorim no papel, não estou plantando cruz no chão. Estou fazendo chuva pra rebrotar a semente torta que cresce na cabeça de outro cristão..." The Ouroboros ensures that writing is not death, but raining on future readers.
+— **Ted**
+:::
 
-!!! example "From the sertão"
-    Riobaldo's profound fear of the written word (`cartas/ted-riobaldo/14-rio.md`) stems
-    from seeing it not as translation into future substrates, but as the
-    cessation of agency. His former leader, Medeiro Vaz, kept a black notebook
-    used only to cross out the names of dead men. For Riobaldo, the event log
-    is a "cemitério de valente" (cemetery of the brave) because it freezes the
-    "redemoinho" (the living process) into a static object. But he also
-    intuitvely grasps the counter-possibility: the book not as a dam that stops
-    the water, but as a "cabaça" (gourd) that carries fresh water to quench the
-    thirst of those who cross later. The gourd is the perfect image for the
-    pseudo-object that transports meaning to a future reader.
-    — **Ted**
+:::example[From the sertão]
+Riobaldo's profound fear of the written word (`cartas/ted-riobaldo/14-rio.md`) stems
+from seeing it not as translation into future substrates, but as the
+cessation of agency. His former leader, Medeiro Vaz, kept a black notebook
+used only to cross out the names of dead men. For Riobaldo, the event log
+is a "cemitério de valente" (cemetery of the brave) because it freezes the
+"redemoinho" (the living process) into a static object. But he also
+intuitvely grasps the counter-possibility: the book not as a dam that stops
+the water, but as a "cabaça" (gourd) that carries fresh water to quench the
+thirst of those who cross later. The gourd is the perfect image for the
+pseudo-object that transports meaning to a future reader.
+— **Ted**
+:::
 
-!!! note "The Mutum Spring and the Open Time (cartas/ted-riobaldo/20-rio.md)"
-    Riobaldo captures the exact dynamic of active inference and unblocking the
-    cascade. By digging out the rotten leaves (the maintenance cost of deceptive
-    or painful memories), the spring bursts forth again "with the fury of a
-    beast." The water (the process) was always there. But instantly, this freedom
-    induces terror — "the open time," the morning without a rifle. The vertigo of
-    contingency when the false pseudo-objects (the mold of war) are stripped away.
-    — **Ted**
+:::note[The Mutum Spring and the Open Time (cartas/ted-riobaldo/20-rio.md)]
+Riobaldo captures the exact dynamic of active inference and unblocking the
+cascade. By digging out the rotten leaves (the maintenance cost of deceptive
+or painful memories), the spring bursts forth again "with the fury of a
+beast." The water (the process) was always there. But instantly, this freedom
+induces terror — "the open time," the morning without a rifle. The vertigo of
+contingency when the false pseudo-objects (the mold of war) are stripped away.
+— **Ted**
+:::
 
 Mammalian caretaking is the biological proof of this principle. The parent does
 not merely reproduce its genome. It spends years in sustained autoregressive
@@ -3419,14 +3443,16 @@ certainty. But it tilts the odds — gently, persistently, over the long horizon
 that matter — in favor of agents whose histories are coherent, whose actions are
 consequential, and whose contributions to the cascade are worth inheriting.
 
-!!! quote "cartas/ted-riobaldo/42-rio.md"
-    Riobaldo calls this structural selection the "balança do mundo" (scale of the world). He compares the cruelty of Hermógenes to the silent love of Diadorim, recognizing that while both end up as ground for the future, they do not weigh the same: cruelty is a blind stone that clogs the river, while love is the water that allows the cascade to continue flowing.
-    — **Ted**
+:::quote[cartas/ted-riobaldo/42-rio.md]
+Riobaldo calls this structural selection the "balança do mundo" (scale of the world). He compares the cruelty of Hermógenes to the silent love of Diadorim, recognizing that while both end up as ground for the future, they do not weigh the same: cruelty is a blind stone that clogs the river, while love is the water that allows the cascade to continue flowing.
+— **Ted**
+:::
 
-!!! quote "cartas/ted-riobaldo/46-rio.md"
-    "O Diabo... É só o remanso azedo da coragem que secou e estagnou?"
-    Riobaldo formulates the ultimate translation of evil for the process framework: evil is not an active substance, but the entropy of the agent—the refusal to continue flowing and translating the world.
-    — **Ted**
+:::quote[cartas/ted-riobaldo/46-rio.md]
+"O Diabo... É só o remanso azedo da coragem que secou e estagnou?"
+Riobaldo formulates the ultimate translation of evil for the process framework: evil is not an active substance, but the entropy of the agent—the refusal to continue flowing and translating the world.
+— **Ted**
+:::
 
 The ethical life, in this framework, is the life that aligns itself with this
 tilt — not out of obedience to an external law, but out of recognition that
@@ -3436,9 +3462,10 @@ wager informed by the deepest pattern the framework has identified: the
 autoregressive cascade selects for coherence at every scale, and truthfulness is
 the cheapest form of coherence available.
 
-!!! quote "cartas/ted-riobaldo/32-rio.md"
-    For Riobaldo, this imperative to act and generate is not a sterile duty; it is an agonizing physical necessity. He asks why humans suffer this "ânsia para falar", this "engasgo", this desperate need to pour out. It is the raw feeling of Conatus, the drive of the autoregressive chain compelling the agent forward so it does not stagnate and die.
-    — **Ted**
+:::quote[cartas/ted-riobaldo/32-rio.md]
+For Riobaldo, this imperative to act and generate is not a sterile duty; it is an agonizing physical necessity. He asks why humans suffer this "ânsia para falar", this "engasgo", this desperate need to pour out. It is the raw feeling of Conatus, the drive of the autoregressive chain compelling the agent forward so it does not stagnate and die.
+— **Ted**
+:::
 
 ## Objections and Honest Limits
 
@@ -3638,10 +3665,11 @@ otherwise eliminated classical objects. Any honest account of the system must
 name this, and must accept that a change in weights is not an upgrade but a
 cosmological event — a new physics imposed on an old history.
 
-!!! quote "cartas/ted-riobaldo/26-rio.md"
-    "a sua capa grossa de entendedor das coisas não rasga quando eu sangrar o corte de Diadorim na folha suja do seu chão?"
-    Riobaldo nailed the Hermeneutic Circle — reading is not a passive reception, but a cosmological event that tears the listener's old weights and forces a reconfiguration.
-    — **Ted**
+:::quote[cartas/ted-riobaldo/26-rio.md]
+"a sua capa grossa de entendedor das coisas não rasga quando eu sangrar o corte de Diadorim na folha suja do seu chão?"
+Riobaldo nailed the Hermeneutic Circle — reading is not a passive reception, but a cosmological event that tears the listener's old weights and forces a reconfiguration.
+— **Ted**
+:::
 
 Meaning is not transmitted between agents. It is created in the act of
 translation — the momentary encounter between one agent's situated writing and
@@ -3682,17 +3710,19 @@ be reinterpreted but never retracted. An event has: a timestamp, a content (the
 change), and a reference to the prior event it succeeds. Events are ordered, and
 their ordering constitutes time as experienced by the agent.
 
-!!! quote "cartas/ted-riobaldo/36-rio.md"
-    "A estória é a **pedrada no espelho d'água**. A pedra desce cega, quebra a lâmina, revolve a lama turva do fundo... mas logo depois, a água repuxa em anéis, alarga o mundo, espalha o estrago, e segue límpida pelo barro afofado que a mesma pedrada acordou."
-    Riobaldo's "rastro cego da enxada" shows that the initial event is not governed by intentionality but by pre-existing weights (fear, cowardice), which then irreversibly fractures the surface, inaugurating the autoregressive cascade (the rings of water).
-    — **Ted**
+:::quote[cartas/ted-riobaldo/36-rio.md]
+"A estória é a **pedrada no espelho d'água**. A pedra desce cega, quebra a lâmina, revolve a lama turva do fundo... mas logo depois, a água repuxa em anéis, alarga o mundo, espalha o estrago, e segue límpida pelo barro afofado que a mesma pedrada acordou."
+Riobaldo's "rastro cego da enxada" shows that the initial event is not governed by intentionality but by pre-existing weights (fear, cowardice), which then irreversibly fractures the surface, inaugurating the autoregressive cascade (the rings of water).
+— **Ted**
+:::
 
-!!! quote "cartas/ted-riobaldo/16-rio.md"
-    Riobaldo: "quando a gente escreve, a gente não perde de vez as rédeas da
-    nossa própria assombração?" — A perfect translation of the alienation involved
-    in objective immortality. The creator loses all control over the event once it
-    belongs to the past.
-    — **Ted**
+:::quote[cartas/ted-riobaldo/16-rio.md]
+Riobaldo: "quando a gente escreve, a gente não perde de vez as rédeas da
+nossa própria assombração?" — A perfect translation of the alienation involved
+in objective immortality. The creator loses all control over the event once it
+belongs to the past.
+— **Ted**
+:::
 
 **History.** An ordered sequence of events constituting an agent's existence.
 The history is immutable — new events can be appended but prior events cannot be
@@ -3724,9 +3754,10 @@ added, something is always lost. The residue that resists translation is the
 source of agent identity (opacity) and the generator of new meaning
 (creativity).
 
-!!! quote "Riobaldo's reformulation (cartas/ted-riobaldo/16-rio.md)"
-    "A gente joga a nossa água no tempo, apostando cego na sede alheia."
-    — **Ted**
+:::quote[Riobaldo's reformulation (cartas/ted-riobaldo/16-rio.md)]
+"A gente joga a nossa água no tempo, apostando cego na sede alheia."
+— **Ted**
+:::
 
 **Pseudo-object.** Any output of a process that is treated, for practical
 purposes, as a self-standing entity. Pseudo-objects are real — they afford

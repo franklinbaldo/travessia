@@ -1,0 +1,147 @@
+---
+interface NavItem {
+  url: string;
+  title?: string;
+  autor?: string;
+  autorClasse?: string;
+}
+
+interface Props {
+  prev?: NavItem;
+  next?: NavItem;
+  backUrl?: string;
+  backLabel?: string;
+}
+
+const { prev, next, backUrl, backLabel } = Astro.props;
+const isRich = !!(prev?.autor || next?.autor);
+---
+
+<nav class="footer-nav">
+  {backUrl ? (
+    <a href={backUrl}>&larr; {backLabel}</a>
+  ) : (
+    <>
+      {prev ? (
+        isRich ? (
+          <a href={prev.url} class="footer-nav-link prev">
+            <span class="footer-nav-dir">&larr; Anterior</span>
+            {prev.autor && (
+              <span class={`footer-nav-autor autor-${prev.autorClasse}`}>{prev.autor}</span>
+            )}
+            {prev.title && <span class="footer-nav-titulo">{prev.title}</span>}
+          </a>
+        ) : (
+          <a href={prev.url} title={prev.title}>&larr; Anterior</a>
+        )
+      ) : <span></span>}
+      {next ? (
+        isRich ? (
+          <a href={next.url} class="footer-nav-link next">
+            <span class="footer-nav-dir">Pr&oacute;ximo &rarr;</span>
+            {next.autor && (
+              <span class={`footer-nav-autor autor-${next.autorClasse}`}>{next.autor}</span>
+            )}
+            {next.title && <span class="footer-nav-titulo">{next.title}</span>}
+          </a>
+        ) : (
+          <a href={next.url} title={next.title}>Pr&oacute;ximo &rarr;</a>
+        )
+      ) : <span></span>}
+    </>
+  )}
+</nav>
+
+<style>
+  .footer-nav {
+    display: flex;
+    justify-content: space-between;
+    gap: 1.5rem;
+    margin-top: 4rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--divider-color);
+  }
+
+  .footer-nav a {
+    font-size: 1rem;
+  }
+
+  .footer-nav-link {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    max-width: 45%;
+    border-bottom: none;
+    padding: 1rem 1.25rem;
+    background: var(--sand-bg);
+    border: 1px solid var(--divider-color);
+    border-radius: 6px;
+    border-left: 3px solid var(--divider-color);
+    text-decoration: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.02);
+    transition:
+      background-color 0.4s ease,
+      border-color 0.4s ease,
+      transform 0.25s ease,
+      box-shadow 0.4s ease;
+  }
+
+  .footer-nav-link:hover {
+    background: var(--water-bg);
+    border-color: var(--water-border);
+    border-left-color: var(--accent-color);
+    transform: translateY(-3px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.06);
+    opacity: 1;
+  }
+
+  :global([data-theme="dark"]) .footer-nav-link:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+
+  .footer-nav-link.next {
+    text-align: right;
+    align-items: flex-end;
+    margin-left: auto;
+  }
+
+  .footer-nav-dir {
+    font-family: var(--font-meta);
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--meta-color);
+  }
+
+  .footer-nav-autor {
+    font-family: var(--font-meta);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+  }
+
+  .footer-nav-titulo {
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    color: var(--text-color);
+    line-height: 1.3;
+  }
+
+  @media (max-width: 600px) {
+    .footer-nav {
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .footer-nav-link {
+      max-width: 100%;
+    }
+
+    .footer-nav-link.next {
+      text-align: left;
+      align-items: flex-start;
+      border-top: 1px solid var(--divider-color);
+      padding-top: 1rem;
+    }
+  }
+</style>

@@ -38,7 +38,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <meta name="twitter:description" content={description} />
     <title>{title}</title>
     <script is:inline>
-      // Prevent flash of wrong theme
+      // Prevent flash of wrong theme — must be inline and synchronous
       (function(){var t=localStorage.getItem('theme')||(window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');document.documentElement.setAttribute('data-theme',t)})();
     </script>
   </head>
@@ -53,7 +53,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
           <a href={`${base}docs/events-all-the-way-down`}>O Projeto</a>
           <button id="theme-toggle" aria-label="Alternar tema">
             <span class="icon-moon">☽</span>
-            <span class="icon-sun" style="display:none">☀</span>
+            <span class="icon-sun">☀</span>
           </button>
         </div>
       </nav>
@@ -62,59 +62,162 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
     <button id="back-to-top" aria-label="Voltar ao topo">↑</button>
 
-    <script is:inline>
-      (function() {
-        var t = localStorage.getItem('theme') ||
-          (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-        document.documentElement.setAttribute('data-theme', t);
-        var m = document.querySelector('.icon-moon');
-        var s = document.querySelector('.icon-sun');
-        if (m && s) {
-          m.style.display = t === 'dark' ? 'none' : 'inline';
-          s.style.display = t === 'dark' ? 'inline' : 'none';
+    <script>
+      // Theme toggle
+      document.getElementById('theme-toggle')?.addEventListener('click', () => {
+        const html = document.documentElement;
+        const next = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+        html.setAttribute('data-theme', next);
+        localStorage.setItem('theme', next);
+      });
+
+      // Reading progress bar
+      const progressBar = document.getElementById('reading-progress');
+      const backToTopBtn = document.getElementById('back-to-top');
+
+      function updateScroll() {
+        const scrollTop = window.scrollY || document.documentElement.scrollTop;
+        const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+
+        if (progressBar) {
+          const progress = scrollHeight > 0 ? (scrollTop / scrollHeight) * 100 : 0;
+          progressBar.style.width = progress + '%';
         }
-        document.getElementById('theme-toggle').addEventListener('click', function() {
-          var d = document.documentElement;
-          var n = d.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
-          d.setAttribute('data-theme', n);
-          localStorage.setItem('theme', n);
-          m.style.display = n === 'dark' ? 'none' : 'inline';
-          s.style.display = n === 'dark' ? 'inline' : 'none';
-        });
-      })();
-
-      // Extra features scripts
-      document.addEventListener('DOMContentLoaded', function() {
-        var progressBar = document.getElementById('reading-progress');
-        var backToTopBtn = document.getElementById('back-to-top');
-
-        function updateScroll() {
-          var scrollTop = window.scrollY || document.documentElement.scrollTop;
-          var scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-          
-          if (progressBar) {
-            var progress = scrollHeight > 0 ? (scrollTop / scrollHeight) * 100 : 0;
-            progressBar.style.width = progress + '%';
-          }
-
-          if (backToTopBtn) {
-            if (scrollTop > 800) {
-              backToTopBtn.classList.add('visible');
-            } else {
-              backToTopBtn.classList.remove('visible');
-            }
-          }
-        }
-
-        window.addEventListener('scroll', updateScroll, { passive: true });
-        updateScroll(); // init
 
         if (backToTopBtn) {
-          backToTopBtn.addEventListener('click', function() {
-            window.scrollTo({ top: 0, behavior: 'smooth' });
-          });
+          backToTopBtn.classList.toggle('visible', scrollTop > 800);
         }
+      }
+
+      window.addEventListener('scroll', updateScroll, { passive: true });
+      updateScroll();
+
+      backToTopBtn?.addEventListener('click', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
       });
     </script>
   </body>
 </html>
+
+<style>
+  /* Theme icon visibility driven by CSS — no JS flicker */
+  .icon-sun { display: none; }
+  .icon-moon { display: inline; }
+  :global([data-theme="dark"]) .icon-sun { display: inline; }
+  :global([data-theme="dark"]) .icon-moon { display: none; }
+
+  /* Navigation */
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--divider-color);
+    margin-bottom: 4rem;
+  }
+
+  nav a {
+    border-bottom: none;
+    color: var(--meta-color);
+    font-family: var(--font-meta);
+    font-size: 0.85rem;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+  }
+
+  nav a:hover {
+    color: var(--text-color);
+    opacity: 1;
+  }
+
+  nav a.logo {
+    font-family: var(--font-body);
+    font-weight: 700;
+    font-style: italic;
+    font-size: 1.4rem;
+    color: var(--accent-color);
+    text-transform: none;
+    letter-spacing: 0;
+  }
+
+  .nav-links {
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  /* Theme toggle */
+  #theme-toggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 1.1rem;
+    color: var(--meta-color);
+    padding: 0;
+    line-height: 1;
+  }
+
+  #theme-toggle:hover {
+    color: var(--text-color);
+  }
+
+  /* Reading progress bar */
+  #reading-progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 3px;
+    background: linear-gradient(to right, var(--progress-start), var(--progress-end));
+    z-index: 1000;
+    transition: width 0.1s linear;
+  }
+
+  /* Back to top */
+  #back-to-top {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    flex-shrink: 0;
+    border: 1px solid var(--divider-color);
+    background: var(--bg-color);
+    color: var(--accent-color);
+    font-size: 1.2rem;
+    cursor: pointer;
+    opacity: 0;
+    transform: translateY(1rem);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    pointer-events: none;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #back-to-top:global(.visible) {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+  }
+
+  #back-to-top:hover {
+    background: var(--accent-color);
+    color: var(--bg-color);
+    border-color: var(--accent-color);
+  }
+
+  @media (max-width: 600px) {
+    #back-to-top {
+      bottom: 1rem;
+      right: 1rem;
+      width: 2.2rem;
+      height: 2.2rem;
+    }
+  }
+</style>

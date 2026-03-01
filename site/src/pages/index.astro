@@ -1,30 +1,14 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
+import BlogCard from '../components/BlogCard.astro';
+import FeaturedPost from '../components/FeaturedPost.astro';
+import { getExcerpt } from '../lib/utils';
 
 const base = import.meta.env.BASE_URL;
 
 const allDialogo = await getCollection('dialogo');
 const allManuscrito = await getCollection('manuscrito');
-
-function stripMarkdown(md: string | undefined): string {
-  return md?.replace(/^#+\s+/gm, '').replace(/[*_~`\[\]()]/g, '').replace(/\n+/g, ' ').trim() || '';
-}
-
-function getExcerpt(body: string | undefined, len = 180): string {
-  const plain = stripMarkdown(body);
-  if (plain.length <= len) return plain;
-  return plain.slice(0, len).replace(/\s+\S*$/, '') + '…';
-}
-
-function formatDate(date: Date): string {
-  return new Intl.DateTimeFormat('pt-BR', {
-    day: 'numeric',
-    month: 'long',
-    year: 'numeric',
-    timeZone: 'UTC',
-  }).format(date);
-}
 
 interface BlogPost {
   slug: string;
@@ -118,21 +102,14 @@ const tipoLabels: Record<string, string> = {
 
   <!-- Featured Post — Última Carta -->
   {featuredPost && (
-    <a href={featuredPost.url} class={`featured-post autor-border-${featuredPost.autorClasse}`} data-autor={featuredPost.autorClasse}>
-      <div class="featured-label">Última Carta</div>
-      <h2 class="card-titulo">{featuredPost.titulo}</h2>
-      <p class="card-excerpt">{featuredPost.longExcerpt || featuredPost.excerpt}</p>
-      <div class="card-meta">
-        {featuredPost.autor && (
-          <span class={`card-autor autor-${featuredPost.autorClasse}`}>{featuredPost.autor}</span>
-        )}
-        {featuredPost.data && (
-          <time datetime={featuredPost.data.toISOString()}>
-            {formatDate(featuredPost.data)}
-          </time>
-        )}
-      </div>
-    </a>
+    <FeaturedPost
+      url={featuredPost.url}
+      titulo={featuredPost.titulo}
+      autorClasse={featuredPost.autorClasse}
+      autor={featuredPost.autor}
+      excerpt={featuredPost.longExcerpt || featuredPost.excerpt}
+      data={featuredPost.data}
+    />
   )}
 
   <!-- Veredas — Category Navigation -->
@@ -155,51 +132,227 @@ const tipoLabels: Record<string, string> = {
   ) : (
     <div class="blog-feed">
       {gridPosts.map((post) => (
-        <a href={post.url} class="blog-card" data-tipo={post.tipo} data-autor={post.autorClasse}>
-          <span class={`card-tipo tipo-${post.tipo}`}>
-            {tipoLabels[post.tipo] || post.tipo}
-          </span>
-          <h2 class="card-titulo">{post.titulo}</h2>
-          {post.subtitulo && <p class="card-subtitulo">{post.subtitulo}</p>}
-          <p class="card-excerpt">{post.excerpt}</p>
-          <div class="card-meta">
-            {post.autor && (
-              <span class={`card-autor autor-${post.autorClasse}`}>{post.autor}</span>
-            )}
-            {post.data && (
-              <time datetime={post.data.toISOString()}>
-                {formatDate(post.data)}
-              </time>
-            )}
-          </div>
-        </a>
+        <BlogCard
+          url={post.url}
+          titulo={post.titulo}
+          tipo={post.tipo}
+          tipoLabel={tipoLabels[post.tipo] || post.tipo}
+          subtitulo={post.subtitulo}
+          autor={post.autor}
+          autorClasse={post.autorClasse}
+          excerpt={post.excerpt}
+          data={post.data}
+        />
       ))}
     </div>
   )}
 
-  <!-- Category filter script -->
-  <script is:inline>
-    (function() {
-      var buttons = document.querySelectorAll('.vereda');
-      if (!buttons.length) return;
+  <!-- Category filter -->
+  <script>
+    const buttons = document.querySelectorAll<HTMLButtonElement>('.vereda');
 
-      buttons.forEach(function(btn) {
-        btn.addEventListener('click', function() {
-          var filter = this.getAttribute('data-filter');
+    buttons.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const filter = btn.getAttribute('data-filter');
 
-          buttons.forEach(function(b) { b.classList.remove('active'); });
-          this.classList.add('active');
+        buttons.forEach((b) => b.classList.remove('active'));
+        btn.classList.add('active');
 
-          document.querySelectorAll('.blog-card').forEach(function(card) {
-            if (filter === 'todos' || card.getAttribute('data-tipo') === filter) {
-              card.style.display = '';
-            } else {
-              card.style.display = 'none';
-            }
-          });
+        document.querySelectorAll<HTMLElement>('[data-tipo]').forEach((card) => {
+          card.style.display =
+            filter === 'todos' || card.getAttribute('data-tipo') === filter ? '' : 'none';
         });
       });
-    })();
+    });
   </script>
 
 </Layout>
+
+<style>
+  /* Hero — Split Layout */
+  .blog-hero {
+    margin-bottom: 2.5rem;
+  }
+
+  .hero-split {
+    display: grid;
+    grid-template-columns: 45% 55%;
+    margin: 0 -2rem 0;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 1px solid var(--divider-color);
+    min-height: 400px;
+  }
+
+  .hero-image-col {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hero-image-col img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    filter: sepia(0.15) contrast(0.95);
+  }
+
+  .hero-image-col::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    box-shadow: inset 0 0 60px rgba(0, 0, 0, 0.5);
+    pointer-events: none;
+  }
+
+  :global([data-theme="dark"]) .hero-image-col img {
+    filter: sepia(0.1) contrast(0.9) brightness(0.7);
+  }
+
+  .hero-text-col {
+    padding: 3rem 2.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.6rem;
+    background: var(--sand-bg);
+  }
+
+  .blog-hero h1 {
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    margin: 0;
+    letter-spacing: -0.01em;
+    line-height: 1.1;
+  }
+
+  .hero-quote {
+    font-style: italic;
+    font-size: clamp(0.95rem, 1.4vw, 1.15rem);
+    color: var(--accent-color);
+    margin: 0.25rem 0 0;
+    line-height: 1.5;
+    border-left: 2px solid var(--accent-color);
+    padding-left: 1rem;
+  }
+
+  .hero-sub {
+    font-family: var(--font-meta);
+    font-size: 0.78rem;
+    color: var(--meta-color);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin: 0;
+    line-height: 1.6;
+  }
+
+  .hero-characters {
+    display: flex;
+    gap: 0.6rem;
+    margin-top: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .character-badge {
+    display: inline-block;
+    padding: 0.3rem 0.9rem;
+    border: 1px solid currentColor;
+    letter-spacing: 0.1em;
+    font-family: var(--font-meta);
+    font-size: 0.62rem;
+    text-transform: uppercase;
+    border-radius: 4px;
+    background: var(--sand-bg);
+  }
+
+  .badge-riobaldo {
+    color: var(--secondary-color);
+  }
+
+  .badge-ted {
+    color: #5a908b;
+  }
+
+  :global([data-theme="dark"]) .badge-ted {
+    color: #7ab5b0;
+  }
+
+  @media (max-width: 700px) {
+    .hero-split {
+      grid-template-columns: 1fr;
+      margin: 0 -1rem 0;
+      border-radius: 0;
+      min-height: auto;
+    }
+
+    .hero-image-col {
+      height: 200px;
+    }
+
+    .hero-text-col {
+      padding: 1.5rem 1.25rem;
+      gap: 0.5rem;
+    }
+  }
+
+  /* Veredas — Category Navigation */
+  .veredas {
+    display: flex;
+    gap: 0.6rem;
+    overflow-x: auto;
+    padding: 0 0 1.5rem;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid var(--divider-color);
+    border-top: none;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .veredas::-webkit-scrollbar {
+    display: none;
+  }
+
+  .vereda {
+    background: none;
+    border: 1px solid var(--divider-color);
+    color: var(--meta-color);
+    font-family: var(--font-meta);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 0.35rem 0.9rem;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+    cursor: pointer;
+    white-space: nowrap;
+    transition:
+      background-color 0.3s ease,
+      border-color 0.3s ease,
+      color 0.3s ease;
+  }
+
+  .vereda:hover {
+    border-color: var(--accent-color);
+    color: var(--accent-color);
+  }
+
+  .vereda:global(.active) {
+    background: var(--accent-color);
+    border-color: var(--accent-color);
+    color: var(--bg-color);
+  }
+
+  /* Blog Feed Grid */
+  .blog-feed {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2.5rem;
+  }
+
+  @media (max-width: 700px) {
+    .blog-feed {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

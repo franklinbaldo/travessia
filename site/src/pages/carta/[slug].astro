@@ -1,16 +1,30 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import FooterNav from '../../components/FooterNav.astro';
+import { formatDate } from '../../lib/utils';
 
 export async function getStaticPaths() {
-  const entries = await getCollection('dialogo');
-  return entries.map(entry => ({
-    params: { slug: entry.id },
-    props: { entry },
-  }));
+  const all = await getCollection('dialogo');
+  const sorted = [...all].sort((a, b) =>
+    (a.data.data ? new Date(a.data.data).getTime() : 0) -
+    (b.data.data ? new Date(b.data.data).getTime() : 0)
+  );
+
+  return all.map(entry => {
+    const currentIndex = sorted.findIndex(e => e.id === entry.id);
+    const prev = currentIndex > 0 ? sorted[currentIndex - 1] : null;
+    const next = currentIndex < sorted.length - 1 ? sorted[currentIndex + 1] : null;
+
+    return {
+      params: { slug: entry.id },
+      props: { entry, sorted, prev, next },
+    };
+  });
 }
 
-const { entry } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const { entry, sorted, prev, next } = Astro.props;
 const { Content } = await render(entry);
 
 const isRio = entry.data.autor.includes('Riobaldo');
@@ -18,48 +32,26 @@ const isTed = !isRio;
 const autor = entry.data.autor;
 const titulo = entry.data.titulo;
 
-function formatDate(date: Date): string {
-  return new Intl.DateTimeFormat('pt-BR', {
-    day: 'numeric',
-    month: 'long',
-    year: 'numeric',
-    timeZone: 'UTC',
-  }).format(date);
+function autorClasse(autorName: string): string {
+  return autorName.includes('Riobaldo') ? 'rio' : 'ted';
 }
-
-// Navigation: chronological order
-const allDialogo = await getCollection('dialogo');
-const sorted = allDialogo.sort((a, b) =>
-  (a.data.data ? new Date(a.data.data).getTime() : 0) -
-  (b.data.data ? new Date(b.data.data).getTime() : 0)
-);
-const currentIndex = sorted.findIndex(e => e.id === entry.id);
-const prevEntry = currentIndex > 0 ? sorted[currentIndex - 1] : null;
-const nextEntry = currentIndex < sorted.length - 1 ? sorted[currentIndex + 1] : null;
-
-// Correspondence context
-const correspondenceFlow = {
-  isTedResponding: isTed && prevEntry ? !prevEntry.data.autor.includes('Riobaldo') : false,
-  isRioResponding: isRio && prevEntry ? prevEntry.data.autor.includes('Riobaldo') : false,
-  previousAuthor: prevEntry?.data.autor || null,
-};
 ---
 
 <Layout title={`${titulo} | Travessia`}>
   <article>
     <header class="manuscrito-header">
-      {prevEntry && (
+      {prev && (
         <div class="correspondence-context">
           <div class={`correspondence-flow ${isTed ? 'ted-responding' : 'rio-responding'}`}>
             <span class="correspondence-label">Resposta a</span>
-            <span class={`correspondence-author ${prevEntry.data.autor.includes('Riobaldo') ? 'autor-rio' : 'autor-ted'}`}>
-              {prevEntry.data.autor}
+            <span class={`correspondence-author autor-${autorClasse(prev.data.autor)}`}>
+              {prev.data.autor}
             </span>
           </div>
         </div>
       )}
       <div class="carta-autor-badge">
-        <span class={`autor-badge ${isRio ? 'autor-rio' : 'autor-ted'}`}>{autor}</span>
+        <span class={`autor-badge autor-${isRio ? 'rio' : 'ted'}`}>{autor}</span>
       </div>
       <h1>{titulo}</h1>
       <div class="post-meta">
@@ -78,12 +70,12 @@ const correspondenceFlow = {
   <div class="correspondence-timeline">
     <span class="timeline-label">Sequência da correspondência</span>
     <div class="timeline-dots">
-      {sorted.map((item, index) => {
+      {sorted.map((item: any, index: number) => {
         const isCurrentItem = item.id === entry.id;
         const isItemTed = !item.data.autor.includes('Riobaldo');
         return (
           <a
-            href={`${import.meta.env.BASE_URL}carta/${item.id}`}
+            href={`${base}carta/${item.id}`}
             class={`timeline-dot ${isCurrentItem ? 'current' : ''} ${isItemTed ? 'ted' : 'rio'}`}
             aria-label={`Carta ${index + 1}: ${item.data.autor}`}
             title={item.data.titulo}
@@ -95,24 +87,195 @@ const correspondenceFlow = {
     </div>
   </div>
 
-  <nav class="footer-nav">
-    {prevEntry ? (
-      <a href={`${import.meta.env.BASE_URL}carta/${prevEntry.id}`} class="footer-nav-link prev">
-        <span class="footer-nav-dir">&larr; Anterior</span>
-        <span class={`footer-nav-autor ${prevEntry.data.autor.includes('Riobaldo') ? 'autor-rio' : 'autor-ted'}`}>
-          {prevEntry.data.autor}
-        </span>
-        <span class="footer-nav-titulo">{prevEntry.data.titulo}</span>
-      </a>
-    ) : <span></span>}
-    {nextEntry ? (
-      <a href={`${import.meta.env.BASE_URL}carta/${nextEntry.id}`} class="footer-nav-link next">
-        <span class="footer-nav-dir">Pr&oacute;ximo &rarr;</span>
-        <span class={`footer-nav-autor ${nextEntry.data.autor.includes('Riobaldo') ? 'autor-rio' : 'autor-ted'}`}>
-          {nextEntry.data.autor}
-        </span>
-        <span class="footer-nav-titulo">{nextEntry.data.titulo}</span>
-      </a>
-    ) : <span></span>}
-  </nav>
+  <FooterNav
+    prev={prev ? {
+      url: `${base}carta/${prev.id}`,
+      title: prev.data.titulo,
+      autor: prev.data.autor,
+      autorClasse: autorClasse(prev.data.autor),
+    } : undefined}
+    next={next ? {
+      url: `${base}carta/${next.id}`,
+      title: next.data.titulo,
+      autor: next.data.autor,
+      autorClasse: autorClasse(next.data.autor),
+    } : undefined}
+  />
 </Layout>
+
+<style>
+  /* Correspondence Context */
+  .correspondence-context {
+    margin-bottom: 1.5rem;
+    padding: 0.75rem 1rem;
+    background: var(--sand-bg);
+    border-left: 3px solid var(--accent-color);
+    border-radius: 3px;
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    font-family: var(--font-meta);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  .correspondence-flow {
+    display: contents;
+  }
+
+  .correspondence-label {
+    color: var(--meta-color);
+    opacity: 0.7;
+  }
+
+  .correspondence-author {
+    font-weight: 600;
+  }
+
+  .correspondence-author.autor-rio {
+    color: var(--secondary-color);
+  }
+
+  .correspondence-author.autor-ted {
+    color: var(--meta-color);
+  }
+
+  /* Carta Author Badge */
+  .carta-autor-badge {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+
+  .autor-badge {
+    display: inline-block;
+    font-family: var(--font-meta);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 0.3rem 0.9rem;
+    border-radius: 3px;
+  }
+
+  .autor-badge.autor-rio {
+    background: rgba(139, 58, 42, 0.1);
+    color: var(--secondary-color);
+  }
+
+  .autor-badge.autor-ted {
+    background: rgba(122, 111, 98, 0.1);
+    color: var(--meta-color);
+  }
+
+  /* Post Meta */
+  .post-meta {
+    font-family: var(--font-meta);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--meta-color);
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0.75rem;
+  }
+
+  /* Correspondence Timeline */
+  .correspondence-timeline {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--divider-color);
+    text-align: center;
+  }
+
+  .timeline-label {
+    display: block;
+    font-family: var(--font-meta);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--meta-color);
+    margin-bottom: 1rem;
+  }
+
+  .timeline-dots {
+    display: flex;
+    justify-content: flex-start;
+    gap: 0.5rem;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    scrollbar-width: none;
+    padding-bottom: 0.5rem;
+  }
+
+  .timeline-dots::-webkit-scrollbar {
+    display: none;
+  }
+
+  .timeline-dot {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    flex-shrink: 0;
+    border-radius: 50%;
+    border: 2px solid var(--divider-color);
+    background: var(--sand-bg);
+    color: var(--text-color);
+    font-family: var(--font-meta);
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-decoration: none;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.05), 0 2px 4px rgba(0, 0, 0, 0.08);
+    transition:
+      background-color 0.3s ease,
+      border-color 0.3s ease,
+      transform 0.2s ease,
+      box-shadow 0.3s ease;
+  }
+
+  .timeline-dot.ted {
+    border-color: var(--meta-color);
+  }
+
+  .timeline-dot.rio {
+    border-color: var(--secondary-color);
+  }
+
+  .timeline-dot:hover {
+    transform: translateY(-2px) scale(1.05);
+    background: var(--water-bg);
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.02), 0 6px 12px rgba(0, 0, 0, 0.1);
+  }
+
+  .timeline-dot.current {
+    background: var(--accent-color);
+    color: var(--bg-color);
+    border-color: var(--accent-color);
+    font-weight: 700;
+    transform: translateY(2px);
+    box-shadow: inset 0 4px 6px rgba(0, 0, 0, 0.2), 0 1px 2px rgba(0, 0, 0, 0.1);
+  }
+
+  :global([data-theme="dark"]) .timeline-dot.current {
+    box-shadow: inset 0 4px 6px rgba(0, 0, 0, 0.4), 0 1px 2px rgba(0, 0, 0, 0.3);
+  }
+
+  :global([data-theme="dark"]) .timeline-dot {
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.15);
+  }
+
+  :global([data-theme="dark"]) .timeline-dot:hover {
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1), 0 6px 12px rgba(0, 0, 0, 0.25);
+  }
+
+  @media (max-width: 600px) {
+    .timeline-dot {
+      width: 2.2rem;
+      height: 2.2rem;
+      font-size: 0.65rem;
+    }
+  }
+</style>

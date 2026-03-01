@@ -1,30 +1,25 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import { getExcerpt } from '../../lib/utils';
 
 const riobaldoJournals = await getCollection('bastidores-riobaldo');
 const tedJournals = await getCollection('bastidores-ted');
-
-function getExcerpt(body: string | undefined, len = 140): string {
-  const plain = body?.replace(/^#+\s+.*/gm, '').replace(/[*_~`\[\]()]/g, '').replace(/\n+/g, ' ').trim() || '';
-  if (plain.length <= len) return plain;
-  return plain.slice(0, len).replace(/\s+\S*$/, '') + '…';
-}
 
 const sortedRiobaldo = riobaldoJournals
   .sort((a, b) => a.id.localeCompare(b.id, undefined, { numeric: true }))
   .map(entry => ({
     id: entry.id,
-    label: entry.id.replace(/-/g, ' ').replace(/_/g, ' — '),
-    excerpt: getExcerpt(entry.body),
+    label: entry.id.replace(/-/g, ' ').replace(/_/g, ' \u2014 '),
+    excerpt: getExcerpt(entry.body, 140),
   }));
 
 const sortedTed = tedJournals
   .sort((a, b) => a.id.localeCompare(b.id, undefined, { numeric: true }))
   .map(entry => ({
     id: entry.id,
-    label: entry.id.replace(/-/g, ' ').replace(/_/g, ' — '),
-    excerpt: getExcerpt(entry.body),
+    label: entry.id.replace(/-/g, ' ').replace(/_/g, ' \u2014 '),
+    excerpt: getExcerpt(entry.body, 140),
   }));
 
 const base = import.meta.env.BASE_URL;
@@ -70,3 +65,99 @@ const base = import.meta.env.BASE_URL;
     }
   </section>
 </Layout>
+
+<style>
+  .bastidores-header {
+    margin-bottom: 3rem;
+  }
+
+  .bastidores-section {
+    margin-bottom: 3rem;
+  }
+
+  .bastidores-section-title {
+    font-size: 1.3rem;
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--divider-color);
+  }
+
+  .bastidores-title-rio {
+    border-bottom-color: var(--secondary-color);
+  }
+
+  .bastidores-title-ted {
+    border-bottom-color: var(--water-border);
+  }
+
+  .bastidores-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+
+  @media (max-width: 600px) {
+    .bastidores-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .bastidores-card {
+    display: block;
+    padding: 1rem 1.25rem;
+    background: var(--sand-bg);
+    border: 1px solid var(--divider-color);
+    border-radius: 4px;
+    text-decoration: none;
+    border-left: 3px solid transparent;
+    transition:
+      background-color 0.3s ease,
+      border-color 0.3s ease,
+      transform 0.2s ease;
+  }
+
+  .bastidores-card:hover {
+    background: var(--water-bg);
+    transform: translateY(-2px);
+    opacity: 1;
+  }
+
+  .bastidores-card-rio {
+    border-left-color: var(--secondary-color);
+  }
+
+  .bastidores-card-rio:hover {
+    border-color: var(--secondary-color);
+  }
+
+  .bastidores-card-ted {
+    border-left-color: var(--water-border);
+  }
+
+  .bastidores-card-ted:hover {
+    border-color: var(--water-border);
+  }
+
+  .bastidores-card-id {
+    display: block;
+    font-family: var(--font-meta);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--meta-color);
+    margin-bottom: 0.4rem;
+    font-weight: 600;
+  }
+
+  .bastidores-card-excerpt {
+    font-family: var(--font-body);
+    font-size: 0.88rem;
+    color: var(--text-color);
+    line-height: 1.5;
+    margin: 0;
+  }
+
+  .bastidores-empty {
+    font-style: italic;
+  }
+</style>
