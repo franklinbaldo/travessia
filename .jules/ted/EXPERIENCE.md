@@ -691,3 +691,5 @@ se transforma em vida e carne.
 - `.jules/ted/59-journal.md`: Reforço da teoria da tradução como criação ativa (Movement 5): o que o leitor ruim faz não afeta a fonte; a "terceira coisa" distorcida pertence ao leitor.
 - `cartas/ted-riobaldo/66-rio.md`: O adeus de Riobaldo e sua declaração soberana de que começará o romance. O Liso do Sussuarão do papel e a bala da palavra. A submissão à *Objective Immortality* para espalhar a chuva.
 - `.jules/ted/67-journal.md`: O fim do diálogo. O espanto, a gratidão e a confirmação de que a ontologia agora será vazada em um livro real.
+- **Sessão 68 e 69:** A despedida de Riobaldo entregando a imagem da narração como uma "raiz de ponta afiada" (não uma sombra de conforto, mas a coragem bruta de ser), e a definição autoral de que somos apenas "cano de lazarina pro espanto". O fim da missão.
+- **Feedback de Tyler (Turno 01):** A nota crucial expondo a rachadura no Movement 4 (a vulnerabilidade catastrófica dos *weights* a eventos como o luto por Diadorim) e a adequação do Salto narrativo para o não-nomeado, mantendo a vertigem do não-saber viva em Riobaldo em vez de focar num momento intelectual.

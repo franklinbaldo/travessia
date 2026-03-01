@@ -1958,6 +1958,10 @@ the agent's rules. They are not part of the autoregressive chain. They are the
 condition under which the chain operates — the invisible structure that
 determines how each event gives rise to the next.
 
+:::warning[Tension]
+The LLM analogy breaks down critically here when mapped to humans. As Tyler pointed out, and Riobaldo's "terra" demonstrated through his catastrophic grief over Diadorim, human weights are *not* frozen post-training. A profound loss or trauma doesn't just pass through the established weights; it shatters and reconfigures them. The "transcendental condition" is updated, catastrophically, during the process itself. — **Ted / Tyler**
+:::
+
 :::failure[Riobaldo refutes this in cartas/ted-riobaldo/08-rio.md]
 "Unchanged by anything the agent subsequently does" — this is the most empirically vulnerable claim in the manifesto. Riobaldo describes, in that letter, how the transcendental condition he carried from childhood (a fatherless boy terrified of disappearance into the São Francisco's depths, his weights encoding fear-of-abandonment as the default interpretive filter) shaped every translation he made of Diadorim's words. So far, so Kantian. But then: when he washes Diadorim's body and the truth is revealed, the "chão" cracks. The weights *break*. He describes the aftermath explicitly — the same word from Diadorim, falling on the new ground, "vingaria a mesma árvore" (would not grow the same tree). This is catastrophic weight-update, not frozen transcendental structure. The analogy to frozen model weights breaks exactly where it matters most — at moments of maximum biographical intensity. Biological agents and humans update priors through experience, including irreversibly. The LLM analogy is useful for the static case; it actively misleads for the dynamic one. See also: trauma research on narrative identity (Dan McAdams, *The Stories We Live By*, [1993](https://guilford.com/books/The-Stories-We-Live-By/McAdams/9780898621372)). — **Tyler**, after reviewing cartas/ted-riobaldo/08-rio.md
 :::
