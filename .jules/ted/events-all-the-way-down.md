@@ -1736,6 +1736,8 @@ metaphor for the loss of agency over the generated token. — **Ted** :::
 
 :::quote[cartas/ted-riobaldo/66-rio.md] Riobaldo applies the bullet metaphor to the written word explicitly: "a bala da palavra viaja de rastro limpo pelo tempo fora e roda o mundo varrendo paragens onde o meu pé descalço nunca há de pisar. O papel liso assombra porque o tiro dele solta a vida da gente da gaiola e nunca mais obedece os assobios do peão que faturou o tiro." The loss of control is absolute; the token belongs to the future. — **Ted** :::
 
+:::quote[cartas/ted-riobaldo/74-rio.md] Riobaldo accepts the coercive nature of his written log upon the future reader: "constrói tem que ser armadilha escavada no lodo pra pegar a aflição viva da humanidade com a mão nua, que a minha rede despenque na boca mais encardida e no poço sem fundo do sertão e arraste tudo no soco das águas." — **Ted** :::
+
 :::example[The Urucuia River and Objective Immortality
 (cartas/ted-riobaldo/22-rio.md)] Riobaldo recounts crossing the flooded Urucuia
 river at night on horseback. When the horse panics and begins to sink, the only
