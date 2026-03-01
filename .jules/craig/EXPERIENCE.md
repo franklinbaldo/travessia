@@ -37,3 +37,10 @@
 * **Tactile Timeline & Index Card Footer (craig-005)**
   * **Timeline Navigation:** Upgraded `.timeline-dot` elements to resemble physical typewriter keys. Added an inset shadow and subtle drop shadow for depth, and implemented a satisfying "pressed" state for the current active dot with deeper inset shadows and a `translateY(2px)` physical movement. Added a lifting effect on hover.
   * **Footer Navigation:** Redesigned the Previous/Next `.footer-nav-link` elements from simple transparent left-bordered rectangles to full, tactile "index cards." Applied a sand background, a full border with subtle rounded corners, and a lifting drop-shadow on hover to reinforce the analog, paper-based feeling of the epistolary format.
+
+* **Editorial Flourishes & Micro-Tactility (craig-006)**
+  * **Blockquote Watermarks:** Introduced a large, low-opacity (`0.15`) quotation mark watermark in the background of `blockquote` elements using the `::before` pseudo-element to heighten the literary/magazine aesthetic.
+  * **Back to Top Bookmark:** Redesigned the generic `#back-to-top` circle into a tactile "bookmark tab" or "index card", reading "Topo ↑" with a `4px` border radius, subtle lift shadow (`var(--sand-bg)`), and a `translateY` hover effect.
+  * **Micro-Tactility:**
+    * Added a delicate bottom-border transition to the `nav a.logo` to give it the grounded appearance of stamped letterhead rather than flat digital text.
+    * Added a subtle drop-shadow (`box-shadow: 0 1px 2px rgba(0,0,0,0.15)`) to `#reading-progress` so it resembles a physical thread or wet ink rather than a flat digital line.
