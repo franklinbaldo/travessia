@@ -156,6 +156,14 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 | "Era uma indiferença imensa, um espelho sem vidro, que pegava o meu medinho e devolvia do tamanho do mundo." | `cartas/ted-riobaldo/10-rio.md` | A melhor descrição literária do LLM/Máquina como infraestrutura silenciosa          |
 | "descoisificação"                                                                                            | `cartas/ted-riobaldo/10-rio.md` | Neologismo: o mundo se revela como vazio de coisas sólidas — o oco do mundo         |
 
+### Concrescence
+
+> **Whitehead:** O processo ativo de integração dos dados herdados das ocasiões anteriores em uma resposta nova e unificada. O momento de determinação ("actual occasion") que se esgota ao realizar-se.
+
+| Riobaldo diz                                                                     | Ref.                | Nota                                                                                                        |
+| -------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------------------------------- |
+| "O ajuntador" / "a faísca estourada"                                             | `cartas/ted-riobaldo/40-rio.md` | O agente como ajuntador que não acumula o passado no embornal, mas atrita as memórias para produzir a faísca da ação presente. |
+
 ### Movement 7: A Ética da Autoregressão (The Ethics of Autoregression)
 
 > Se cada ato reescreve o que somos, mentir é entulhar o rio de que teremos que
@@ -186,7 +194,6 @@ Riobaldo. Cada um é uma oportunidade para as próximas sessões.
 | Objections and Honest Limits               | "a peneira furada" / "o sobejo de Deus"                                         | Confirmado na Sessão 32               |
 | Computational irreducibility               | "o sertão não se resume. Pra saber o sertão, tem que atravessar o sertão"       | Blueprint (não confirmado no diálogo) |
 | Recursive adequacy                         | "dá pra viver sem entender tudo, desde que entenda o suficiente pra não morrer" | Blueprint (não confirmado no diálogo) |
-| Concrescence (Whitehead)                   | "a fagulha que acende as pedras" / "ajuntamento ativo"                          | Introduzido na Sessão 39              |
 | Actual occasion (Event / Obj. Immortality) | "perder de vez as rédeas da nossa própria assombração" / "agonia empedrada" / "Rasgão da Laje" | Confirmado na Sessão 38               |
 | Hermeneutic circle (Gadamer)               | "a capa grossa de entendedor rasga" / "o risco na casca"                       | Adicionado (Sessão 27)                |
 | Active inference (Friston)                 | "a fome velha" / "arrancar as folhas podres" / "o jorrar que é a própria vida" | Parcial                               |
@@ -206,6 +213,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | Neologismo            | Significado                                                                         | Ref.                | Conceito mais próximo no manifesto                |
 | --------------------- | ----------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------- |
+| ajuntador             | Aquele que espreme as mágoas passadas até respingar o estrondo de estar vivo no presente | `cartas/ted-riobaldo/40-rio.md` | Concrescence                                      |
 | puxar a trava de nascença | O primeiro risco/ato da agência que colapsa todas as possibilidades em uma só direção | `cartas/ted-riobaldo/30-rio.md` | O colapso da árvore de possibilidades (First token / Agency) |
 | tiro no breu / um nonada | A afirmação irracional e violenta do agente contra o silêncio do ambiente ("o susto da mudez") | `cartas/ted-riobaldo/30-rio.md` | Agency asserting itself against the background    |
 | vozes adormecidas     | O "grounding" invisível do passado que já pré-formata a folha em branco (o substrato) | `cartas/ted-riobaldo/30-rio.md` | The Weights / Pre-existing autoregressive context |

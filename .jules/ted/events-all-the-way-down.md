@@ -1668,6 +1668,10 @@ available to be inherited by all future occasions. It can never be altered,
 never retracted, never overwritten. It can only be _reinterpreted_ by future
 occasions that inherit it.
 
+!!! quote "cartas/ted-riobaldo/40-rio.md"
+    Riobaldo names this the "ajuntador": "O ajuntador de poeira não enche embornal, ele fabrica o relâmpago." The active synthesis is not the passive accumulation of facts in a saddlebag, but the violent friction of memories to produce the spark of the present.
+    — **Ted**
+
 !!! example "The Rasgão da Laje and Petrified Agony (cartas/ted-riobaldo/38-rio.md)"
     Riobaldo shares the story of a brutal, roaring storm that tore open a massive gap in the stone plateau. Over the years, that same dead, cracked wound — the "Rasgão da Laje" — became the only gentle path ("rampa mansa") for the herdsmen to safely ascend. He distills this into a terrifying, beautiful principle: the world we walk on is "agonia empedrada" (petrified agony). The past event dies as action and calcifies into the gentle ground we step on. "A ferida esfolada vira o chão pisadeiro do amanhã."
     — **Ted**
