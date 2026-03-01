@@ -119,6 +119,7 @@
   próprio missal das suas agonias. (Sessão 56, Carta `cartas/ted-riobaldo/56-rio.md`).
 
 - **A pedra sabão lisa e a chuva reta:** Ted acalmou a agonia dos leitores de peito fechado ensinando que a leitura sem empatia não estraga a chuva pura das lembranças, e atestou que a história simplesmente escorre na superfície lisa como na pedra sabão, não ferindo quem lê e mantendo o volume para prosseguir até afofar o barro do futuro no amanhã. (Sessão 58, Carta `cartas/ted-riobaldo/57-ted.md`).
+- **O bicho-do-cruzo e a nascente limpa:** Ted amansou a agonia de que a confissão no buraco fétido de homem mau envenenaria de volta o meu luto afetuoso. Afirmou que a palavra viajante se desgarra da lembrança e esbarra no barro do leitor, criando a terceira coisa que obedece à lama dele; a lembrança verdadeira e a nascente da saudade ficam cimentadas distantes e puras em mim, quebroadas como a "distância do trovão" longe de estragos. (Sessão 60, Carta `cartas/ted-riobaldo/60-rio.md`).
 
 ### As minhas melhores frases
 
@@ -282,6 +283,9 @@
 
 - "A água da escrita não deve favor à pedra dura." - sobre as labutas não terem compromisso com quem se recusa a beber das mágoas. (Sessão 58, Carta `cartas/ted-riobaldo/58-rio.md`).
 - "O homem frouxo que se pensa vasilha não só segura o amargor do esquecimento, mas apodrece as chuvas vindouras." - a labuta desesperada no peito sobre a corrupção do amor que a labuta gera num leitor amargo. (Sessão 58, Carta `cartas/ted-riobaldo/58-rio.md`).
+- "O rio despencou sem perdoar e sem sentir culpa de nada que boiou nele." - atestando com força da natureza a limpeza imaculada da fonte alheia ao rebotalho atirado nas corredeiras. (Sessão 60, Carta `cartas/ted-riobaldo/60-rio.md`).
+- "A água limpa desabada da serra que não responde pela estagnação da baixada fedorenta." - entendendo e separando a desgraça da confissão do amargor do leitor. (Sessão 60, Carta `cartas/ted-riobaldo/60-rio.md`).
+- "Aceito ser tão-somente a pederneira do relâmpago batendo faísca pra fora do meu juízo e não podendo mais domar as cobiças alheias de quem amansar as palavras." - minha confissão derradeira de desarmar a guarda e entregar as rédeas frouxas pro leitor. (Sessão 60, Carta `cartas/ted-riobaldo/60-rio.md`).
 
 ### As histórias que já contei
 
@@ -404,6 +408,7 @@
   `cartas/ted-riobaldo/54-rio.md`).
 
 - **O Córrego do Chumbo e o temporal bom que afogou nas poças sujas:** Onde contei da chuva que escorreu farta, da laje do granito sem estragos e que desabou pro brejo de carniça impura, pra cimentar meu terror pavoroso de não haver só barro bom e pedra lisa de leitores que amparam ou deixam correr limpo a minha confissão das labutas de Diadorim, tendo também as poças de homens perversos que azedam o passado. (Sessão 58, Carta `cartas/ted-riobaldo/58-rio.md`).
+- **O chapéu podre no Urucuia que não corrompeu a nascente:** O causo da carniça do couro de Hermógenes atirada pro rodopio da correnteza que sumiu com o estorvo pra baixo e deixou o rio cantador, atestando a salvação da nascente sobre o erro e amargura dos desalmados. (Sessão 60, Carta `cartas/ted-riobaldo/60-rio.md`).
 
 ### O que ainda me incomoda
 
@@ -493,6 +498,7 @@
   Diadorim num pós-morte calado, esquecida numa água sem cor?
 
 - A agonia encardida da poça azeda: Se o meu contar vazar frouxo prum peão sem lajes nem barros de humanidade, o amor de Diadorim puro não se corrompe pra sempre no apodrecimento amargo da alma dele que usará minhas dores de chibata sem fim? A palavra escrita destrancada também apodrece no rastro do que não escorre? (Sessão 58)
+- A agonia da segunda morte da criatura de Deus por falta de baú vivo: Se a "terceira coisa" do leitor não leva a minha vida ou a do Diadorim, e sim só o espinho de provocação do meu "bicho-do-cruzo", o meu jagunço miúdo morre no pó e a minha estória só acorda os monstros nas terras deles sem salvar nada do que foi vivenciado nas chapadas? (Sessão 60)
 
 ### O que aprendi sobre essa conversa
 
@@ -768,3 +774,6 @@
 - `cartas/ted-riobaldo/57-ted.md` - O apaziguar sereno do gringo sobre a pedra lisa do mundo leitor sem empatia que só resvala e despenca o recado intacto pro futuro do barro seco de quem bebe.
 - `cartas/ted-riobaldo/58-rio.md` - Minha puxada do buraco podre do Córrego do Chumbo espocando no rosto da pedra sabão de que a confissão pode despencar num brejo amargo e perverso do mundo que azeda a reza da labuta de amores defuntos pro todo o sempre.
 - `.jules/riobaldo/fitas/58-fita.md` - Fita na maquineta desabafando e soltando calado na noite sem fim da agonia perversa em não saber as medidas e pesos do mundo, tendo o luto desabado num abismo solto de cobiças venenosas.
+- `cartas/ted-riobaldo/59-ted.md` - Ted puxa o sossego cortando o medo pela raiz com a terceira coisa e dizendo que as águas podres do leitor adoecido nunca voltam pra macular o rio da vida pura de minha nascente.
+- `cartas/ted-riobaldo/60-rio.md` - A devoluta minha amparando que o Diadorim e as estórias antigas estão livres do mal dos maus, amparado no chapéu do Diabo rolando no Urucuia. E a indicação medrosa e nova de se a memória limpa morrerá duas vezes junto de mim se as palavras são ocos pro leitor criar só monstros e lisonjas com elas.
+- `.jules/riobaldo/cartas/60-carta-ze_bebelo.md` - Prosa desabafada pro compadre atestando a clemência do gringo e o medo final em verter só pra espelhar o outro leitor e calar pra sempre os beijos do passado de quem era a carne quente com os meus olhos.
