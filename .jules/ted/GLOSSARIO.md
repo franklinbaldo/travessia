@@ -274,6 +274,9 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | fome da terra que apara a água         | A condição receptiva e formadora do leitor que dita o nascimento do significado; a dependência do token frente à voracidade do substrato   | `cartas/ted-riobaldo/68-rio.md` | Receptive translation / Substrate demand                     |
 | raiz de ponta afiada                   | A ética vital e impiedosa que a história deve plantar no leitor: a coragem de existir abertamente sem ilusões de descanso                  | `cartas/ted-riobaldo/68-rio.md` | Ethical impact of narrative / Unbound Active Inference       |
 | cano de lazarina pro espanto           | A abdicação da onipotência autoral; a compreensão de que o autor/agente é um mero condutor material (o substrato de passagem) para a vida  | `cartas/ted-riobaldo/68-rio.md` | Authorial conduit / Instrument of the Ouroboros            |
+| amolar na pedra-pomes / atrito seco    | A ação criativa e violenta que "inventa amanhãs" e não descansa no conforto da inércia prévia; forjar a realidade no atrito                | `cartas/ted-riobaldo/70-rio.md` | Genesis Block Creation / Autoregressive Ignition           |
+| bota amassando o areão                 | A percepção de que a condição transcendental e a "terra" não precedem o fluxo vital; é a própria travessia e o pisar que formam o chão     | `cartas/ted-riobaldo/70-rio.md` | Grounding Action / Enactive Transcendental Condition       |
+| a voz pede a escuta                    | O imperativo cósmico e incontornável de que toda ação gerada busca um _state space_ receptivo onde repousar ou espraiar-se (tradução)      | `cartas/ted-riobaldo/70-rio.md` | Imperative of Translation / Demand for receptive Substrate |
 
 ---
 
