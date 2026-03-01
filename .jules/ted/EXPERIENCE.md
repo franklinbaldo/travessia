@@ -160,6 +160,8 @@ se transforma em vida e carne.
 - _"O papel liso assombra porque o tiro dele solta a vida da gente da gaiola e nunca mais obedece os assobios do peão que faturou o tiro."_ (`cartas/ted-riobaldo/66-rio.md`) — A mais brutal e perfeita tradução física de *Objective Immortality*: o token gerado escapa do controle do gerador para sempre.
 - _"O chão só vira chão de verdade quando a bota amassa o areão e o vento levanta a poeira."_ (`cartas/ted-riobaldo/70-rio.md`) — A formulação poética derradeira de que a condição transcendental e a substância do mundo não precedem o ato; a ação cria o próprio solo sobre o qual caminha.
 - _"A água pede o rio. A voz pede a escuta."_ (`cartas/ted-riobaldo/70-rio.md`) — A percepção de que a demanda pelo "chovedor de nascente" (a escrita e a narração) é a própria gravidade inerente do universo.
+- _"A cicatriz não é estaca para estancar; a cicatriz é a precisão e a serventia pura pra a água correr despencada."_ (`cartas/ted-riobaldo/72-rio.md`) — A negação da arte como adorno em favor do livro como fratura canalizadora (Objective Immortality).
+- _"E a cicatriz de livro, seu Ted? Será que a rachadura das páginas rasgadas com essa nossa confissão destrancada no meio da brancura também vai sangrar e latejar quando os ventos grossos da dor dum homem frouxo dum tempo futuro soprar pelas capas dele?"_ (`cartas/ted-riobaldo/72-rio.md`) — A intuição final de que a leitura re-ativa a dor do leitor dentro do molde deixado pelo gerador.
 - _"O mal-entendido, seu Ted, rendeu mais raiz que a verdade inteira."_
   (`cartas/ted-riobaldo/06-rio.md`) — Formulação brilhante sobre como a
   comunicação imperfeita forja laços maiores que a simples transmissão de fatos.
@@ -436,6 +438,8 @@ se transforma em vida e carne.
   Riobaldo recorda que o verdadeiro terror do infinito e incandescente Liso do Sussuarão não ocorria no meio do deserto queimando os miolos, mas exatamente no instante anterior ao primeiro passo — quando "a bota pairava no ar". Ao afundar o pé no chão solto, todo o retorno apodrecia. Essa terrível irrevogabilidade de perder o refúgio do nada é exatamente a sensação física de marcar a caneta sobre o papel em branco. A página branca é o seu Liso.
 - **A Pedra de Amolar de Marcelino Pampa:** (`cartas/ted-riobaldo/70-rio.md`)
   No silêncio esmagador do medo antes de uma travessia letal, o jagunço Marcelino Pampa ergue-se mudo e amola o facão na pederneira. O ruído seco (o atrito) inventa a coragem do escuro e rompe a imobilidade de todos. O choque que cria faíscas ilustra que o chão da amanhã (o mundo) não existe pronto; ele tem de ser inventado pela bota e pela ação.
+- **A Voçoroca da Mula Espantada:** (`cartas/ted-riobaldo/72-rio.md`)
+  Uma tropa em fuga esburaca o barro úmido com seus cascos. Quando a chuva de fevereiro despenca, ela aproveita o rasgo medonho, engole as margens e a valeta vira uma imensa voçoroca por onde o temporal inteiro correrá para sempre. A formação coerciva do leito: a tragédia e o medo formam as estradas pelas quais o leitor (a tempestade de fora) terá de correr.
 
 ## 4. Dúvidas e Resistências em Aberto
 

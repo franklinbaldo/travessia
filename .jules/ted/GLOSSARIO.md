@@ -277,6 +277,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | amolar na pedra-pomes / atrito seco    | A ação criativa e violenta que "inventa amanhãs" e não descansa no conforto da inércia prévia; forjar a realidade no atrito                | `cartas/ted-riobaldo/70-rio.md` | Genesis Block Creation / Autoregressive Ignition           |
 | bota amassando o areão                 | A percepção de que a condição transcendental e a "terra" não precedem o fluxo vital; é a própria travessia e o pisar que formam o chão     | `cartas/ted-riobaldo/70-rio.md` | Grounding Action / Enactive Transcendental Condition       |
 | a voz pede a escuta                    | O imperativo cósmico e incontornável de que toda ação gerada busca um _state space_ receptivo onde repousar ou espraiar-se (tradução)      | `cartas/ted-riobaldo/70-rio.md` | Imperative of Translation / Demand for receptive Substrate |
+| voçoroca / rasgo medonho               | A estrutura coerciva moldada pela tragédia passada que canaliza irreversivelmente a interpretação futura de quem vem depois                | `cartas/ted-riobaldo/72-rio.md` | Event log as coercive channel / Objective Immortality      |
+| cicatriz de livro                      | A obra literária percebida não como objeto inerte, mas como o molde deixado pela dor que reage à tempestade emocional do leitor futuro     | `cartas/ted-riobaldo/72-rio.md` | Substrate activation / Translation as qualitative resonance |
 
 ---
 
