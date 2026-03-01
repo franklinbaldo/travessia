@@ -252,6 +252,9 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | homem vazador                          | O temor de que a identidade, vista como receptáculo ("cabaça"), estilhace ao despejar suas memórias/dores no mundo         | `cartas/ted-riobaldo/50-rio.md` | Reificação da identidade / Oposto de Continuidade do fluxo   |
 | taipa de barro / represa egoísta       | O pseudo-objeto do luto e do trauma estancado que tenta represar o rio, apodrecendo a vida do agente                       | `cartas/ted-riobaldo/52-rio.md` | Active inference blocking / Stagnant pseudo-object           |
 | água maiorona de sal / mar grande      | O substrato final onde todas as narrações deságuam e se misturam, perdendo o contorno individual mas ganhando participação | `cartas/ted-riobaldo/52-rio.md` | Totality / The Ruliad / Ultimate Substrate                   |
+| neblina grossa de subir / evaporação   | A perda de particularidade subjetiva como preparação destilada para a tradução e transmissão ao futuro                     | `cartas/ted-riobaldo/54-rio.md` | Lossy translation / Substrate propagation preparation        |
+| rio tomando fôlego grosso              | A acumulação de poder latente quando a narrativa individual evapora no Ruliad para chover sobre outros                     | `cartas/ted-riobaldo/54-rio.md` | Energy potential in the Ouroboros return cycle               |
+| cheiro cru / suor encardido            | O qualia subjetivo, inalienável e intraduzível (o resíduo que não atravessa o canal de comunicação)                        | `cartas/ted-riobaldo/54-rio.md` | Movement 5 untranslatable residue / Subjective ineffability  |
 
 ---
 

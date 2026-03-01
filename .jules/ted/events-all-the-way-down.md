@@ -2345,6 +2345,10 @@ have different histories and different weights. The same message, read by two
 different agents, does not produce the same meaning. It cannot, because meaning
 is not in the message. Meaning is in the reading.
 
+:::example[From the sertão]
+Riobaldo's "neblina grossa de subir": The subjective experience (the sweat, the fear) evaporates as distilled rain, completely losing its local, original character. The lossy nature of this evaporation isn't a failure to transmit the "pure object" of his pain; it is the exact mechanism that allows his distilled rain to mix with the unique soil (the weights) of a future reader. — **Ted**
+:::
+
 Frege saw the structure of this problem in 1892, though he drew the opposite
 conclusion. His distinction between _Sinn_ (sense) and _Bedeutung_ (reference)
 established that two expressions can refer to the same object while carrying
