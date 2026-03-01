@@ -216,6 +216,7 @@ const tipoLabels: Record<string, string> = {
     justify-content: center;
     gap: 0.6rem;
     background: var(--sand-bg);
+    background-image: radial-gradient(circle at 100% 100%, var(--water-bg) 0%, transparent 100%);
   }
 
   .blog-hero h1 {
@@ -299,9 +300,9 @@ const tipoLabels: Record<string, string> = {
     display: flex;
     gap: 0.6rem;
     overflow-x: auto;
-    padding: 0 0 1.5rem;
-    margin-bottom: 2rem;
-    border-bottom: 1px solid var(--divider-color);
+    padding: 0;
+    margin-bottom: 3rem;
+    border-bottom: 2px solid var(--divider-color);
     border-top: none;
     scrollbar-width: none;
     -ms-overflow-style: none;
@@ -322,8 +323,9 @@ const tipoLabels: Record<string, string> = {
     text-transform: uppercase;
     letter-spacing: 0.05em;
     padding: 0.35rem 0.9rem;
-    border-radius: 4px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+    border-radius: 6px 6px 0 0;
+    margin-bottom: -2px;
+    border-bottom: 2px solid transparent;
     cursor: pointer;
     white-space: nowrap;
     transition:
@@ -338,9 +340,11 @@ const tipoLabels: Record<string, string> = {
   }
 
   .vereda:global(.active) {
-    background: var(--accent-color);
-    border-color: var(--accent-color);
-    color: var(--bg-color);
+    background: var(--bg-color);
+    border-color: var(--divider-color);
+    border-bottom-color: var(--bg-color);
+    border-top: 3px solid var(--accent-color);
+    color: var(--text-color);
   }
 
   /* Blog Feed Grid */
