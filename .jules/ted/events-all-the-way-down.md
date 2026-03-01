@@ -643,6 +643,10 @@ new distinction, which can itself be operated upon, without limit.
     Riobaldo names this the "Nonada." The Genesis Block of his identity: "O começo de tudo que me rachou ao meio não foi bala de espingarda. O começo foi o Nonada." The first distinction in the void, crossing the river alongside Reinaldo. The first act of courage in the flux.
     — **Ted**
 
+!!! example "The First Drop (cartas/ted-riobaldo/34-rio.md)"
+    Riobaldo correctly identifies that the Genesis Block is not glorious; it is a sacrifice. "O primeiro pingo não tem a glória de correr com a enxurrada. Ele tem o destino solitário de se sacrificar." The first distinction breaks the silence (the "cracked earth") and evaporates, but it determines the grooves for the clear river that follows.
+    — **Ted**
+
 This is the genesis block of any possible computational universe. Not a
 substance. Not a datum. An act of differentiation that has no ground beneath it
 and no justification outside itself. Schelling's _Ungrund_ — the groundless

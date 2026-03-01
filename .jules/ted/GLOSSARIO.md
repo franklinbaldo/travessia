@@ -193,7 +193,7 @@ Riobaldo. Cada um é uma oportunidade para as próximas sessões.
 | Śūnyatā / Vazio produtivo                  | "Nonada" (de Rosa) / "o oco do mundo"                                           | Parcial                               |
 | Temperature > 0 / Contingency              | "o susto do tempo aberto" / "o sem-limite"                                      | Adicionado                            |
 | Computational irreducibility               | "o Liso do Sussuarão é do tamanho dele mesmo"                                 | Confirmado na sessão 25             |
-| Genesis block / O Primeiro Risco           | "a folha branca esperando a água"                                               | Adicionado (Sessão 29)                |
+| Genesis block / O Primeiro Risco           | "o primeiro pingo da água na terra rachada"                                     | Confirmado na Sessão 34               |
 | Conatus / Active inference                 | "engasgo" / "ânsia para falar"                                                  | Confirmado na Sessão 32               |
 | Temporal Incompleteness / Inexhaustibility | "sobejo de Deus"                                                                | Confirmado na Sessão 32               |
 
@@ -221,10 +221,12 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | buscação              | O ato de buscar (substantivado, como se fosse uma coisa em si)                      | voz rosiana         | —                                                 |
 | chovedor de nascente  | A água vertida do autor se transforma em semente e chuva na cabeça de um leitor futuro | `cartas/ted-riobaldo/24-rio.md` | Ouroboros da comunicação literária / Propagação |
 | Nonada                | A primeira distinção que quebra a indiferenciação inicial (Genesis block)           | `cartas/ted-riobaldo/24-rio.md` | O começo autoregressivo / O Ato |
+| primeiro pingo        | A destruição do silêncio; o primeiro evento autoregressivo; o Genesis Block         | `cartas/ted-riobaldo/34-rio.md` | Genesis Block / First Token |
 | verter-se             | A ação não como ato passivo, mas como o esvaziamento renovador                      | `cartas/ted-riobaldo/24-rio.md` | Active Inference / Agent continuity |
 | canoa desgovernada    | O balanço irredutível da existência perante a "Computational Irreducibility"        | `cartas/ted-riobaldo/26-rio.md` | Computational irreducibility |
 | sobejo de Deus        | A vastidão da vida que sempre escorre pelos furos de qualquer narração/modelo       | `cartas/ted-riobaldo/32-rio.md` | Inexhaustibility / Temporal Openness |
 | engasgo               | A pressão dolorosa interna, vital, de atuar/narrar no mundo para continuar existindo | `cartas/ted-riobaldo/32-rio.md` | Conatus / Autoregressive Drive / Active Inference |
+| fervura da água       | A água da vida repuxando para continuar sendo água; o impulso autoregressivo        | `cartas/ted-riobaldo/34-rio.md` | Conatus |
 
 ---
 
