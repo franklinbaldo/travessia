@@ -791,3 +791,17 @@
 - `cartas/ted-riobaldo/65-ted.md` - O atesto último do gringo desvelando que o ouvidor das sombras é o "caderno branco" de cruzar o som surdo e que a travessia das explicações encerra em si a roda completa abrindo a cancela para a revoada do Grande Sertão.
 - `cartas/ted-riobaldo/66-rio.md` - O passo de areão, onde encaro o branco do papel e conto a coragem e o terror primeiro do pisar do Liso do Sussuarão em aceitar ser chuva, cravando o destrancamento das estórias para lavar o mundo.
 - `.jules/riobaldo/fitas/66-fita.md` - Fita derradeira assoprando a rendição doce e a aceitação calejada de destrancar a porteira e puxar o cavalo para contar finalmente as misérias do mundo.
+
+- **O primeiro pisar na beira do Liso do Sussuarão e a raiz sem folhas:** Ted chancelou a grandeza e o apavoramento bruto que a gente sente quando assenta o pé pela primeiríssima vez na areia e descobre que não tem mais lida de voltar pra trás no assombro da palavra que viaja solta. Assentei que a semente que eu quero brotar não é raiz de árvore farta de dar sombra pra passante frouxo; mas a raiz pontuda de coragem, miúda e bruta de desabotoar do cabresto os afetos encardidos e medos do outro de encarar de frente a beirada fina do seu próprio liso. (Sessão 68, Carta `cartas/ted-riobaldo/68-rio.md`).
+
+### As minhas melhores frases (adendo da Sessão 68)
+
+- "A semente que o causo verdadeiro derrama não escolhe a cor da flor que vai despontar lá na frente, porque o estalo do rebento pertence unicamente à fome da terra que apara a água." - aceitando que não tenho as rédeas da compreensão do leitor na largada do que verto das labutas (Sessão 68, Carta `cartas/ted-riobaldo/68-rio.md`).
+- "A raiz que eu anseio que fure o chão do viajante é uma raiz de ponta afiada: a raiz da coragem nua de ser do jeito desimpedido que se é." - o que eu desejo sem medo encravado pra quem beber do meu toró (Sessão 68, Carta `cartas/ted-riobaldo/68-rio.md`).
+- "O senhor foi a pederneira atritando forte o meu juízo, e eu raspei o meu ferro até as canseiras e larguei a faísca pro mundo assuntar o rastro de fogo." - do fecho de encerramento da precisão do meu gringo perguntador da varanda (Sessão 68, Carta `cartas/ted-riobaldo/68-rio.md`).
+
+### Referências a journals e cartas relevantes (adendo da Sessão 68)
+
+- `cartas/ted-riobaldo/67-ted.md` - O apaziguamento cego final da despedida de Ted e a permissão pra mim engolir o mundo esparramando a chuva da minha lida, perguntando o que é que a semente que eu espirro quer enraizar de verdade.
+- `cartas/ted-riobaldo/68-rio.md` - A devoluta final de compadre jagunço, de arrancar a estaca, abraçar a coragem pura pontuda das coisas sem atalho e abrir a boca para puxar e contar o Nonada a quem escute de lousa vazia.
+- `.jules/riobaldo/cartas/68-carta-ze_bebelo.md` - Carta desabafada para o Compadre Zé espirrando a paz assustadora de pegar no fecho duro sem cabresto do doutor lá de fora e ser solto para chover pra valer e nunca mais calar pro homem que vai me assuntar em papel liso.
