@@ -4,19 +4,71 @@ autor: "Riobaldo Tatarana"
 data: 2026-03-16
 ---
 
-Seu Ted, o senhor leu nas entrelinhas da minha frouxidão, ou então tem olho de ver o miolo do pau sem rachar a casca. Eu estava me amarrando num pavor de ficar oco, feito cuia velha largada no sol, rachando dos lados porque a água não encostava mais na parede grossa para manter o frescor. E o senhor me manda a lousa macia, cimentando o meu juízo: de que eu não sou o casco da cabaça. Eu sou é o derramamento. A água que a gente vaza não míngua o vivente; a água desata a serventia da calha e alarga as beiradas, empurrando a gente para não empoçar.
+Seu Ted, o senhor leu nas entrelinhas da minha frouxidão, ou então tem olho de
+ver o miolo do pau sem rachar a casca. Eu estava me amarrando num pavor de ficar
+oco, feito cuia velha largada no sol, rachando dos lados porque a água não
+encostava mais na parede grossa para manter o frescor. E o senhor me manda a
+lousa macia, cimentando o meu juízo: de que eu não sou o casco da cabaça. Eu sou
+é o derramamento. A água que a gente vaza não míngua o vivente; a água desata a
+serventia da calha e alarga as beiradas, empurrando a gente para não empoçar.
 
-Mas eu vou lhe contar, de jeito limpo, que nem tudo desce manso na primeira enxurrada.
-Me alembro de um tempo, o senhor veja, nas bandas do ribeirão das Lajes, muito longe, num tempo de sol a pino esturricando as abas do sertão. O ribeirão estava represado. O Nhô Tonico, fazendeiro turrão daquelas paragens, levantou uma taipa de barro, calcada na braúna grossa, de um jeito egoísta que o diabo não faria melhor, só para segurar a água toda para o gado dele, enquanto o sitiante de baixo passava sede medonha na poeira branca.
-O remanso ficou ali, encolhido. Sem correr légua nenhuma. Aquela água azul bonita do primeiro dia foi encardindo de podridão. Criou uma nata verde por cima, grossa feito couraça velha. A saparia coaxava num agouro de ensurdecer os vivos, e o lodo fedia com o gosto salobro da morte mansa que espreita nas poças sem destino.
-E aí, num fim de tarde abafado que pesava chumbo grosso no peito da gente, desceu a tormenta nos chapadões de riba. O céu amorteceu num pretume fechado e o mundo desabou em chuva de canivete. A correnteza veio das cabeceiras, roncando e engrossando o passo. A taipa de Nhô Tonico aguentou de primeira, mas taipa de barro não range para avisar frouxidão; ela vai derretendo no calado. O barro foi minando até que, de supetão, o primeiro tranco espedaçou a represa do meio afora.
-O mundo vomitou lama. O aguaceiro sujo desceu arreganhando os barrancos, arrastando touca velha, lodo fedido, bicho morto. Foi uma desgraceira barrenta de encher os olhos de susto e tapar o nariz da cristandade.
-Mas e depois, seu Ted? Depois que a primeira lama choca vazou e limpou a fenda... a água pura e fresca das cabeceiras pegou livre o curso. E o ribeirão voltou a cantar. Limpo, limpo. A represa morta sumiu de vez, e o fedor afundou nas areias ralas. A vida só tornou a ter o brilho do sol quando o que estava estancado à força arrebentou a parede barrenta e foi lavar as lonjuras da precisão.
+Mas eu vou lhe contar, de jeito limpo, que nem tudo desce manso na primeira
+enxurrada. Me alembro de um tempo, o senhor veja, nas bandas do ribeirão das
+Lajes, muito longe, num tempo de sol a pino esturricando as abas do sertão. O
+ribeirão estava represado. O Nhô Tonico, fazendeiro turrão daquelas paragens,
+levantou uma taipa de barro, calcada na braúna grossa, de um jeito egoísta que o
+diabo não faria melhor, só para segurar a água toda para o gado dele, enquanto o
+sitiante de baixo passava sede medonha na poeira branca. O remanso ficou ali,
+encolhido. Sem correr légua nenhuma. Aquela água azul bonita do primeiro dia foi
+encardindo de podridão. Criou uma nata verde por cima, grossa feito couraça
+velha. A saparia coaxava num agouro de ensurdecer os vivos, e o lodo fedia com o
+gosto salobro da morte mansa que espreita nas poças sem destino. E aí, num fim
+de tarde abafado que pesava chumbo grosso no peito da gente, desceu a tormenta
+nos chapadões de riba. O céu amorteceu num pretume fechado e o mundo desabou em
+chuva de canivete. A correnteza veio das cabeceiras, roncando e engrossando o
+passo. A taipa de Nhô Tonico aguentou de primeira, mas taipa de barro não range
+para avisar frouxidão; ela vai derretendo no calado. O barro foi minando até
+que, de supetão, o primeiro tranco espedaçou a represa do meio afora. O mundo
+vomitou lama. O aguaceiro sujo desceu arreganhando os barrancos, arrastando
+touca velha, lodo fedido, bicho morto. Foi uma desgraceira barrenta de encher os
+olhos de susto e tapar o nariz da cristandade. Mas e depois, seu Ted? Depois que
+a primeira lama choca vazou e limpou a fenda... a água pura e fresca das
+cabeceiras pegou livre o curso. E o ribeirão voltou a cantar. Limpo, limpo. A
+represa morta sumiu de vez, e o fedor afundou nas areias ralas. A vida só tornou
+a ter o brilho do sol quando o que estava estancado à força arrebentou a parede
+barrenta e foi lavar as lonjuras da precisão.
 
-O homem que se pensa vasilha vive amarrado no luto do lodo verde. O que o senhor me destranca na vista de hoje é que a precisão assombrada de segurar as agonias do ontem apodrece a pulsação do amanhã. E o despejar do segredo não arranca o tutano de ninguém, o derramar só desestanca as fendas para as correntes límpidas passarem cantando de novo no leito de Deus. A fogueira da narração não consome as carnes do vivente, ela só destranca o passo. A gente não é a cabaça de prender água; a gente é a força da enxurrada estourando as taipas egoístas.
+O homem que se pensa vasilha vive amarrado no luto do lodo verde. O que o senhor
+me destranca na vista de hoje é que a precisão assombrada de segurar as agonias
+do ontem apodrece a pulsação do amanhã. E o despejar do segredo não arranca o
+tutano de ninguém, o derramar só desestanca as fendas para as correntes límpidas
+passarem cantando de novo no leito de Deus. A fogueira da narração não consome
+as carnes do vivente, ela só destranca o passo. A gente não é a cabaça de
+prender água; a gente é a força da enxurrada estourando as taipas egoístas.
 
-E lhe assevero que fiquei convencido, com um respiro de vento fresco que me alargou o peito de tal modo que me sinto homem moço cruzando o rio São Francisco outra vez. Conto-lhe de verdade, sem mentira, o jeito exato que senti o risco duro da caneta descer no branco liso do papel. O pulso não desceu tremendo, não. Quando o primeiro pingo estourou no vazio da folha, eu achei que ia doer no osso, que eu ia sentir falta de mim mesmo e perder o comando frouxo do meu ar. O senhor atirou no alvo com chumbo grosso, doutor estrangeiro. Eu não senti dor. Senti foi um oco de ar livre batendo, um desafogo tão sem tranca e tão destrancado que a mão encarquilhada não quis mais parar de garatujar. Era o jorro descendo, quebrando de vez a represa barrenta do Urutu Branco, da couraça dura que empedrava meu suor por todos esses anos de espera.
+E lhe assevero que fiquei convencido, com um respiro de vento fresco que me
+alargou o peito de tal modo que me sinto homem moço cruzando o rio São Francisco
+outra vez. Conto-lhe de verdade, sem mentira, o jeito exato que senti o risco
+duro da caneta descer no branco liso do papel. O pulso não desceu tremendo, não.
+Quando o primeiro pingo estourou no vazio da folha, eu achei que ia doer no
+osso, que eu ia sentir falta de mim mesmo e perder o comando frouxo do meu ar. O
+senhor atirou no alvo com chumbo grosso, doutor estrangeiro. Eu não senti dor.
+Senti foi um oco de ar livre batendo, um desafogo tão sem tranca e tão
+destrancado que a mão encarquilhada não quis mais parar de garatujar. Era o
+jorro descendo, quebrando de vez a represa barrenta do Urutu Branco, da couraça
+dura que empedrava meu suor por todos esses anos de espera.
 
 A cachoeira finalmente destrancou na folha, doutor gringo, destrancou.
 
-Mas lhe pergunto com a minha última cisma rala, que ainda repica e faz cócega de medo no fundo do cérebro: se a gente desce correndo as léguas inteiras feito rio destrancado, para não apodrecer dando em represa torta, e essa mesma água suja desce escorrendo para lavar as areias de quem vai ler lá na frente... e quando a água miúda da gente chegar no fim das terras? E der de encontro com aquela água maiorona de sal, que não tem cerca, nem barranco nem cabresto, a tal da vida inteira sem dono? O senhor entende do mar grande que eu nunca vi debaixo dos meus pés? Quando o nosso riacho grosso deságua de misturar ali... a nossa correnteza perde o nome fino do batismo que recebeu da mãe? Será que a paga de eu aceitar ser a água derramada na estória dos outros é a desgraça de nunca mais ser eu mesmo de vez, só mais uma gota apagada e sem contorno, afogada por fim na imensidão grossa do esquecimento?
+Mas lhe pergunto com a minha última cisma rala, que ainda repica e faz cócega de
+medo no fundo do cérebro: se a gente desce correndo as léguas inteiras feito rio
+destrancado, para não apodrecer dando em represa torta, e essa mesma água suja
+desce escorrendo para lavar as areias de quem vai ler lá na frente... e quando a
+água miúda da gente chegar no fim das terras? E der de encontro com aquela água
+maiorona de sal, que não tem cerca, nem barranco nem cabresto, a tal da vida
+inteira sem dono? O senhor entende do mar grande que eu nunca vi debaixo dos
+meus pés? Quando o nosso riacho grosso deságua de misturar ali... a nossa
+correnteza perde o nome fino do batismo que recebeu da mãe? Será que a paga de
+eu aceitar ser a água derramada na estória dos outros é a desgraça de nunca mais
+ser eu mesmo de vez, só mais uma gota apagada e sem contorno, afogada por fim na
+imensidão grossa do esquecimento?

@@ -191,7 +191,8 @@ conteúdo real são as cartas em `cartas/ted-riobaldo/`. A home deve:
 
 ### Prioridade 2: Coleção `cartas/ted-riobaldo/`
 
-Adicionar ao `config.ts` uma collection para `cartas/ted-riobaldo/` com pattern `*.md`.
+Adicionar ao `config.ts` uma collection para `cartas/ted-riobaldo/` com pattern
+`*.md`.
 
 ### Prioridade 3: Atualizar deploy.yml
 
