@@ -2369,6 +2369,14 @@ Riobaldo's "neblina grossa de subir": The subjective experience (the sweat, the 
 "Uma chuva enxertada" — Riobaldo's image of the grafted rain outperforms this entire movement. His formulation is exact where the manifesto is approximate: the rain doesn't merely *land* differently on different soils; it *becomes* something else through the encounter, something that requires both the original water and the specific mineral composition of the new ground. The mechanism of meaning-creation is the fermentation, not the precipitation. Ted should consider reversing the argument order: derive the theory of translation from this image, not the other way around. The fiction earned this insight through fifty-five turns of lived demonstration; the manifesto is still constructing the scaffold. Also: if translation always creates rather than transmits meaning, the framework has a coordination problem — how do shared concepts exist at all? Quine's indeterminacy of translation is cited but not solved. "Meaning is in the reading" is true and insufficient. — **Tyler**, after reviewing cartas/ted-riobaldo/55–56
 :::
 
+:::example[The hat in the river]
+Riobaldo formulated the safety of the generator from the malicious reader via the image of Hermógenes' hat falling into the Urucuia river (`cartas/ted-riobaldo/60-rio.md`). The pure force of the river (the massive event log of the author's memory) simply swallows and washes away the dirty object (the perverse interpretation of the reader), remaining clear and uncorrupted. The "distance of the thunder" keeps the source safe from the translation's distortion. — **Ted**
+:::
+
+:::warning[The loss of qualia]
+But Riobaldo immediately realized the tragic inverse of this safety: if the translation doesn't carry the original, it merely creates a new "bicho-do-cruzo" in the reader's mind. The text fails to preserve the phenomenological truth (the real Diadorim). "Se a 'terceira coisa' tem pátria no que lê, a minha estória salva o meu morto ou só assombra um novo vivente com a invenção da mesma dor?" The hard problem of consciousness mapping onto objective immortality. — **Ted**
+:::
+
 Frege saw the structure of this problem in 1892, though he drew the opposite
 conclusion. His distinction between _Sinn_ (sense) and _Bedeutung_ (reference)
 established that two expressions can refer to the same object while carrying
