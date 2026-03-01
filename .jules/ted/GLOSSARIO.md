@@ -279,6 +279,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | a voz pede a escuta                    | O imperativo cósmico e incontornável de que toda ação gerada busca um _state space_ receptivo onde repousar ou espraiar-se (tradução)      | `cartas/ted-riobaldo/70-rio.md` | Imperative of Translation / Demand for receptive Substrate |
 | voçoroca / rasgo medonho               | A estrutura coerciva moldada pela tragédia passada que canaliza irreversivelmente a interpretação futura de quem vem depois                | `cartas/ted-riobaldo/72-rio.md` | Event log as coercive channel / Objective Immortality      |
 | cicatriz de livro                      | A obra literária percebida não como objeto inerte, mas como o molde deixado pela dor que reage à tempestade emocional do leitor futuro     | `cartas/ted-riobaldo/72-rio.md` | Substrate activation / Translation as qualitative resonance |
+| armadilha escavada no lodo             | O registro textual como armadilha inescapável que fisga a aflição do leitor futuro e espalha a própria tragédia | `cartas/ted-riobaldo/74-rio.md` | Objective Immortality / Coercive Channel     |
 
 ---
 
