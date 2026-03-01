@@ -17,7 +17,10 @@
 import { visit } from "unist-util-visit";
 import { h } from "hastscript";
 
-const TYPES = new Set(["quote", "example", "warning", "note", "tip", "caution", "danger"]);
+const TYPES = new Set([
+  "quote", "example", "warning", "note", "tip", "caution", "danger",
+  "question", "abstract", "failure",
+]);
 
 export default function remarkAdmonitions() {
   return (tree: any) => {

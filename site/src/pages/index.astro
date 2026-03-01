@@ -197,6 +197,14 @@ const tipoLabels: Record<string, string> = {
     filter: sepia(0.15) contrast(0.95);
   }
 
+  .hero-image-col::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    box-shadow: inset 0 0 60px rgba(0, 0, 0, 0.5);
+    pointer-events: none;
+  }
+
   :global([data-theme="dark"]) .hero-image-col img {
     filter: sepia(0.1) contrast(0.9) brightness(0.7);
   }
@@ -211,7 +219,7 @@ const tipoLabels: Record<string, string> = {
   }
 
   .blog-hero h1 {
-    font-size: clamp(2.2rem, 4vw, 3.2rem);
+    font-size: clamp(2.5rem, 5vw, 4rem);
     margin: 0;
     letter-spacing: -0.01em;
     line-height: 1.1;
@@ -223,6 +231,8 @@ const tipoLabels: Record<string, string> = {
     color: var(--accent-color);
     margin: 0.25rem 0 0;
     line-height: 1.5;
+    border-left: 2px solid var(--accent-color);
+    padding-left: 1rem;
   }
 
   .hero-sub {
@@ -250,7 +260,8 @@ const tipoLabels: Record<string, string> = {
     font-family: var(--font-meta);
     font-size: 0.62rem;
     text-transform: uppercase;
-    border-radius: 2px;
+    border-radius: 4px;
+    background: var(--sand-bg);
   }
 
   .badge-riobaldo {
@@ -311,7 +322,8 @@ const tipoLabels: Record<string, string> = {
     text-transform: uppercase;
     letter-spacing: 0.05em;
     padding: 0.35rem 0.9rem;
-    border-radius: 2rem;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
     cursor: pointer;
     white-space: nowrap;
     transition:

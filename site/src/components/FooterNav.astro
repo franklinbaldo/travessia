@@ -72,20 +72,31 @@ const isRich = !!(prev?.autor || next?.autor);
     gap: 0.25rem;
     max-width: 45%;
     border-bottom: none;
-    padding: 1rem;
+    padding: 1rem 1.25rem;
+    background: var(--sand-bg);
+    border: 1px solid var(--divider-color);
     border-radius: 6px;
     border-left: 3px solid var(--divider-color);
+    text-decoration: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.02);
     transition:
-      background-color 0.3s ease,
-      border-color 0.3s ease,
-      transform 0.2s ease;
+      background-color 0.4s ease,
+      border-color 0.4s ease,
+      transform 0.25s ease,
+      box-shadow 0.4s ease;
   }
 
   .footer-nav-link:hover {
     background: var(--water-bg);
+    border-color: var(--water-border);
     border-left-color: var(--accent-color);
-    transform: translateX(4px);
+    transform: translateY(-3px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.06);
     opacity: 1;
+  }
+
+  :global([data-theme="dark"]) .footer-nav-link:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
   }
 
   .footer-nav-link.next {

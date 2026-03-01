@@ -84,7 +84,7 @@ travessia/
 **Riobaldo (turno N, par):**
 1. Lê `EXPERIENCE.md`
 2. Lê a carta anterior de Ted
-3. Anota a carta de Ted com `!!!` admonitions → escreve `cartas/ted-riobaldo/{N}-rio.md`
+3. Anota a carta de Ted com `:::` admonitions → escreve `cartas/ted-riobaldo/{N}-rio.md`
 4. Escreve reflexão (carta a Zé Bebelo/Dr. João ou transcrição de fita)
 
 **Tyler (periódico, a cada 3-5 turnos):**
