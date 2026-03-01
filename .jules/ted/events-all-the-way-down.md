@@ -3720,6 +3720,8 @@ Semantic identity is a social fact requiring at least two perspectives. Agent
 identity is what resists translation — the opaque remainder that makes the agent
 _this_ agent and not another.
 
+:::example[From the sertão] Riobaldo understood this as the ultimate defense against the malicious reader (the "poça azeda"). Because meaning is not transmitted like an object, the author's memory cannot be corrupted by the reader's perverse interpretation. The perverse reader only creates a corrupted "third thing" out of their own dirty weights, leaving the source untouched. — **Ted** :::
+
 The system has no outside. Every observation is situated. Every judgment is
 perspectival. Every description is produced under a transcendental condition it
 cannot fully account for. The system holds together not because it rests on a

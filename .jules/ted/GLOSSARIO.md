@@ -259,6 +259,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | chuva enxertada                        | A história que necessita da "terra" (peso/histórico) do ouvinte para vingar na tradução                                    | `cartas/ted-riobaldo/56-rio.md` | Translation meaning co-creation                              |
 | pedra sabão                            | O leitor/sistema com pesos fechados, onde o texto (chuva) apenas escorre sem interagir ou causar tradução interna profunda | `cartas/ted-riobaldo/56-rio.md` | Unreceptive reader / closed state space                      |
 | barro vermelho                         | O leitor/sistema receptivo, com _weights_ ávidos pela tradução da água/texto do autor                                      | `cartas/ted-riobaldo/56-rio.md` | Receptive reader / fertile state space                       |
+| poça azeda / buracão fedido de esgoto  | O leitor/sistema com _weights_ corrompidos, onde a história é deformada em malícia na criação da "terceira coisa"          | `cartas/ted-riobaldo/58-rio.md` | Corrupted weights / Malicious semantic translation           |
 
 ---
 
