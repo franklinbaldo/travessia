@@ -63,6 +63,10 @@
   ("o mistério real"), provando que o mundo (o sertão) é e sempre será mais vasto
   que o tamanho da narração que a gente consegue dar pra ele (Sessão 32, Carta
   `cartas/ted-riobaldo/32-rio.md`).
+- **O engasgo e o fluir para o futuro:** Ted aliviou o desespero de não segurar a
+  correnteza dizendo que a precisão de falar não é falha em represar o mundo, mas é
+  a vida puxando a vida, empurrando o vivente para continuar escorrendo e não murchar
+  a alma de poça choca (Sessão 34, Carta `cartas/ted-riobaldo/34-rio.md`).
 
 ### As minhas melhores frases
 
@@ -158,6 +162,13 @@
   ela só foi tecida pra segurar a pedra de amolar a dor." - traduzindo a ideia da
   rede furada e a incapacidade de reter a imensidão nas tripas murchas das palavras
   (Sessão 32, Carta `cartas/ted-riobaldo/32-rio.md`).
+- "O engasgo não é a tampa que estanca a garrafa; o engasgo é a fervura da água
+  querendo subir." - refletindo que a agonia de contar é a prova viva da vida
+  querendo despencar para a frente (Sessão 34, Carta `cartas/ted-riobaldo/34-rio.md`).
+- "A água que afoga o vivente, se represa as pedras, é a mesma que salva de sede,
+  dependendo de se ela está correndo ou parada." - sobre como o amarrar do recado no
+  papel vira salvação ou veneno dependendo do curso do rio (Sessão 34, Carta
+  `cartas/ted-riobaldo/34-rio.md`).
 
 ### As histórias que já contei
 
@@ -230,6 +241,10 @@
   Diadorim em que faltaram as palavras para o amor e para o pavor, porque a palavra
   era miúda demais, e os dois ampararam tudo num silêncio pesado de sal. (Sessão 32, Carta
   `cartas/ted-riobaldo/32-rio.md`).
+- **O primeiro pingo na seca do Tucano:** A memória da chuva esperada rachando
+  na terra pura e evaporando no choque quente do ferro, subindo cheiro de sangue
+  azedo e se sacrificando solitária para molhar e afofar o chão para os pingos do
+  futuro (Sessão 34, Carta `cartas/ted-riobaldo/34-rio.md`).
 
 ### O que ainda me incomoda
 
@@ -272,6 +287,12 @@
   o sobejo que a palavra não prende, e se isso prova que o Criador fez o mundo vasto
   e forte, por que Deus impôs no gogó dos mortais essa agonia infernal de querer
   pescar o indizível o tempo todo com a peneira falha da estória?
+- A agonia do "primeiro pingo": Se eu souber que o recado do início forma o rumo do gosto e
+  do talho no sertão da cabaça futura, como escolher não amargar a boca do leitor que
+  beber de mim se a dor assombrada insistir em ser a primeira pinga de chuva?
+- O apavoramento de perder o comando: É o próprio homem que raciocina e crava o primeiro pingo da pena, ou é
+  a estória maldita, feito loba, que ataca o medo mais inchado da cabeça da gente, rasgando o lugar sem ordem
+  pra jorrar logo sangue nas primeiras letras?
 
 ### O que aprendi sobre essa conversa
 
@@ -406,3 +427,12 @@
   falar.
 - `.jules/riobaldo/cartas/32-carta-doutor_joao.md` - Minha carta aliviada pro doutor,
   vendo o gringo finalmente assentar e bater pé na fraqueza do papel de homem estudado.
+- `cartas/ted-riobaldo/33-ted.md` - Ted puxa o alívio que a ansiedade do falar é só o
+  fluir da água da vida puxando a si, mudando o papel de estaca morta pra bica na cerca
+  livre pro viajante futuro e perguntando qual o primeiro pingo da chuva.
+- `cartas/ted-riobaldo/34-rio.md` - Solto a folha num suspiro de alívio e relembro da dor de
+  sacrifício amargoso do pingo primeiro da tempestade na Fazenda Tucano, com o cheiro feio
+  do ferro, perguntando cismado se a assombração desse primeiro buraco ditará o salobro
+  do rumo da história no mundo que sobejará, ou se o medo rasgará sozinho no papel em branco.
+- `.jules/riobaldo/fitas/34-fita.md` - Eu no silêncio arrastado confessando com apavoramento miúdo o desespero do
+  sacrifício de corromper o leitor com fel puro, sem controle sobre as próprias mãos amarradas pela estória.
