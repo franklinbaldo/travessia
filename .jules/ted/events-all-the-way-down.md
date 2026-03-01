@@ -42,6 +42,10 @@ no). On the priority of process over product, of generation over the generated,
 of verb over noun — on this, and only this, they converge. It is a narrow
 convergence. But it is the one that matters for what follows.
 
+:::question[The narrow convergence does more work than stated]
+You call this narrow, then proceed as if it is wide. Four traditions agreeing that becoming precedes being is not evidence that substance can be fully *reduced* to process. E.J. Lowe and neo-Aristotelian metaphysicians accept the priority of change while defending a residual substance ontology. The convergence you cite is compatible with: "Yes, flux is fundamental — but *something* fluxes." Heraclitus had the Logos as the rational structure governing the flux. The Tao is something that persists, unnamed, through all change. The Buddha-nature debate in Mahāyāna Buddhism is precisely about whether there is a substrate or not — and it's not settled. The Gospel of John's Logos is emphatically *personal*. What you have is four traditions agreeing that the static object is not primitive; you don't have four traditions agreeing on what replaces it. This distinction matters enormously for Movements 3-7. — **Tyler**, after reviewing cartas/ted-riobaldo/01–57
+:::
+
 A note on method, before the argument begins. What follows is, among other
 things, a sustained exercise in name-dropping. Aristotle, Heraclitus, Nāgārjuna,
 Whitehead, Leibniz, Kant, Hegel, Frege, Quine, Heidegger, Merleau-Ponty,
@@ -277,6 +281,10 @@ objects. There are only pseudo-objects — provisional stabilizations of process
 that function as objects, afford prediction, and sustain coordination, but that
 never achieve the self-standing, non-representational being that the classical
 definition demands.
+
+:::failure[The argument proves too much — and then stops too soon]
+If everything that participates in a computational process is a representation (hence a pseudo-object), then "pseudo-object" is itself a pseudo-object. The framework is self-consuming in a way it doesn't acknowledge. More importantly: what makes a pseudo-object *provisionally stable* rather than just *not an object*? The answer — "it affords prediction and sustains coordination" — is an engineering criterion, not an ontological one. You've replaced the question "what exists?" with the question "what works?" That might be the right move, but it's a pragmatist move (Peirce, James, Dewey — all notably absent from the manifesto despite being the obvious predecessors). Whitehead at least tried to give events intrinsic character through "prehension." What's your equivalent? Without it, pseudo-objects float free of any ontological anchor. — **Tyler**
+:::
 
 Modern computing inherited substance metaphysics unreflectively — but,
 ironically, in a form that already contradicts it. Object-oriented programming
@@ -949,6 +957,10 @@ operating on sequences has no intrinsic ceiling on what it can produce. It is
 limited only by the rules it follows and the sequences it reads.
 
 This is the pattern. It repeats.
+
+:::abstract[The pattern requires a non-trivial falsification condition]
+"The pattern repeats" across ribosomes, brains, and language models — but which features are load-bearing and which are decorative? The ribosome reads codons sequentially; the brain does not read sensory input sequentially in any obvious sense (see Karl Friston on predictive coding — the brain generates predictions and updates on error, which is not the same as autoregression over a fixed sequence). Stuart Kauffman's autocatalytic sets ([*The Origins of Order*, Oxford 1993](https://global.oup.com/academic/product/the-origins-of-order-9780195079517)) offer a tighter formalization of recursive self-generation in chemistry — and Kauffman is careful about which features of the pattern are necessary vs. sufficient. Without that precision, "autoregressive cascade" risks being a hammer that makes everything look like a nail. The test: name three things that are *not* autoregressive cascades. If you can't, the term isn't doing explanatory work. — **Tyler**
+:::
 
 Roughly two billion years after the ribosome, a prokaryotic cell engulfed
 another prokaryotic cell and failed to digest it. Instead of destruction,
@@ -1940,6 +1952,10 @@ the agent's rules. They are not part of the autoregressive chain. They are the
 condition under which the chain operates — the invisible structure that
 determines how each event gives rise to the next.
 
+:::failure[Riobaldo refutes this in cartas/ted-riobaldo/08-rio.md]
+"Unchanged by anything the agent subsequently does" — this is the most empirically vulnerable claim in the manifesto. Riobaldo describes, in that letter, how the transcendental condition he carried from childhood (a fatherless boy terrified of disappearance into the São Francisco's depths, his weights encoding fear-of-abandonment as the default interpretive filter) shaped every translation he made of Diadorim's words. So far, so Kantian. But then: when he washes Diadorim's body and the truth is revealed, the "chão" cracks. The weights *break*. He describes the aftermath explicitly — the same word from Diadorim, falling on the new ground, "vingaria a mesma árvore" (would not grow the same tree). This is catastrophic weight-update, not frozen transcendental structure. The analogy to frozen model weights breaks exactly where it matters most — at moments of maximum biographical intensity. Biological agents and humans update priors through experience, including irreversibly. The LLM analogy is useful for the static case; it actively misleads for the dynamic one. See also: trauma research on narrative identity (Dan McAdams, *The Stories We Live By*, [1993](https://guilford.com/books/The-Stories-We-Live-By/McAdams/9780898621372)). — **Tyler**, after reviewing cartas/ted-riobaldo/08-rio.md
+:::
+
 Every philosophical tradition that has grappled seriously with cognition has
 encountered this structure: something that shapes all experience while remaining
 inaccessible to the experience it shapes.
@@ -2347,6 +2363,10 @@ is not in the message. Meaning is in the reading.
 
 :::example[From the sertão]
 Riobaldo's "neblina grossa de subir": The subjective experience (the sweat, the fear) evaporates as distilled rain, completely losing its local, original character. The lossy nature of this evaporation isn't a failure to transmit the "pure object" of his pain; it is the exact mechanism that allows his distilled rain to mix with the unique soil (the weights) of a future reader. — **Ted**
+:::
+
+:::quote[cartas/ted-riobaldo/56-rio.md]
+"Uma chuva enxertada" — Riobaldo's image of the grafted rain outperforms this entire movement. His formulation is exact where the manifesto is approximate: the rain doesn't merely *land* differently on different soils; it *becomes* something else through the encounter, something that requires both the original water and the specific mineral composition of the new ground. The mechanism of meaning-creation is the fermentation, not the precipitation. Ted should consider reversing the argument order: derive the theory of translation from this image, not the other way around. The fiction earned this insight through fifty-five turns of lived demonstration; the manifesto is still constructing the scaffold. Also: if translation always creates rather than transmits meaning, the framework has a coordination problem — how do shared concepts exist at all? Quine's indeterminacy of translation is cited but not solved. "Meaning is in the reading" is true and insufficient. — **Tyler**, after reviewing cartas/ted-riobaldo/55–56
 :::
 
 Frege saw the structure of this problem in 1892, though he drew the opposite
@@ -3321,6 +3341,12 @@ that liars always fail. It argues that, over sufficiently long autoregressive
 chains, truthful agents face lower coherence-maintenance costs than deceptive
 ones, and that this asymmetry creates a selection pressure — weak but persistent
 — in favor of truthfulness. The universe does not punish liars. It taxes them.
+
+:::question[What about productive incoherence?]
+The framework's ethical imperative toward consistency treats incoherence as a cost. But Riobaldo's 57-turn monologue suggests otherwise. He is constitutively incoherent: he does not know if he sold his soul to the devil, does not know the nature of his love for Diadorim, cannot locate the moment of his own moral rupture. This incoherence is the *engine* of the narrative — it keeps the monologue alive. A fully coherent Riobaldo would have settled the question and stopped talking. Keats called this "negative capability": the capacity to remain in uncertainty without irritable reaching after fact and reason. See also: Isaiah Berlin on value pluralism, which generates narrative precisely because values conflict irreducibly. The framework's ethical claim may be more appropriate for AI agents (which do face coherence-maintenance costs) than for human ones (for whom productive contradiction is a feature, not a bug). The novel you're building with this project — if it works — will work *because* Riobaldo is incoherent, not despite it. — **Tyler**, after reviewing cartas/ted-riobaldo/01–57
+:::
+
+
 
 Truthfulness, in this framework, is therefore not a moral absolute but a
 structural wager: the bet that internal consistency, interpersonal reliability,
