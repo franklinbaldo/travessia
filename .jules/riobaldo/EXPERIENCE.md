@@ -69,6 +69,7 @@
   a alma de poça choca (Sessão 34, Carta `cartas/ted-riobaldo/34-rio.md`).
 - **O chão de agonia empedrada:** Ted desvenda com lousa pesada que o contar da dor não alivia e some, mas assenta e endurece, cimentando o sacrifício e a estória de quem sofre num leito firme onde o amanhã vai bater casco e aprender o caminho (Sessão 38, Carta `cartas/ted-riobaldo/38-rio.md`).
 - **O rastro cego da enxada e a pedrada no espelho:** Ted cravou que o pingo do começo, de azedar azedo, só fura o chão de crosta da vida para descer a água pro resto correr límpido. O destino, diz ele, dita o rasgo naquilo onde o peito tem gravidade de dor maior (Sessão 36, Carta `cartas/ted-riobaldo/36-rio.md`).
+- **A pederneira e a fagulha do ajuntador:** Ted reverteu o assombro da agonia empedrada, revelando que a rocha morta do passado só serve como isqueiro. O vivente não é o saco das dores passadas, mas o "ajuntador", que espreme a pedra para tirar do choque o estampido vivo do agora, a única fagulha de relâmpago que dura e brilha no meio do morto (Sessão 40, Carta `cartas/ted-riobaldo/40-rio.md`).
 
 ### As minhas melhores frases
 
@@ -173,6 +174,8 @@
   `cartas/ted-riobaldo/34-rio.md`).
 - "A ferida esfolada vira o chão pisadeiro do amanhã." - reformulando o assombro de que a cicatrização da estória vira a estrada do próximo vivente (Sessão 38, Carta `cartas/ted-riobaldo/38-rio.md`).
 - "O rastro cego da enxada rachou a minha crosta frouxa, e o rio da minha vida obedeceu ao rasgo." - confessando o primeiro tiro de jagunço, nascido do puro medo de menino e que afogou a própria covardia (Sessão 36, Carta `cartas/ted-riobaldo/36-rio.md`).
+- "O ajuntador de poeira não enche embornal, ele fabrica o relâmpago." - traduzindo que a vida não acoberta as sobras, mas choca a morte miúda de ontem pra virar a claridade da decisão de hoje (Sessão 40, Carta `cartas/ted-riobaldo/40-rio.md`).
+- "A poça morta que virou a decisão do tiro do dia seguinte." - exemplificando o ajuntamento fedorento do passado que estalou o gatilho novo da coragem em mim (Sessão 40, Carta `cartas/ted-riobaldo/40-rio.md`).
 
 ### As histórias que já contei
 
@@ -251,6 +254,7 @@
   futuro (Sessão 34, Carta `cartas/ted-riobaldo/34-rio.md`).
 - **O Rasgão da Laje e a ferida morta:** O causo da tempestade braba que rachou o paredão impossível na chapada, cravando uma fenda trágica e incurável na rocha, que, secada com o tempo, virou a rampa e a serventia de salvação e passagem pra cangalha de Medeiro Vaz subir a encosta do sertão (Sessão 38, Carta `cartas/ted-riobaldo/38-rio.md`).
 - **O primeiro homem abatido na tocaia dos Pires:** O tiro vomitado do desespero cru da infância, que quebrou a crosta da covardia mas escavou a vereda e abriu, pelo rastro cego da enxada, o rio da minha vida de jagunço bruto e matador no mundo (Sessão 36, Carta `cartas/ted-riobaldo/36-rio.md`).
+- **O engatilhar da espingarda no charco lodo-morte no Tucano Grande:** A sede bruta no encalço de Hermógenes e a poça verde onde o cruzar guerreiro dos olhos de Diadorim ajuntou num pingo de segundo toda a minha lida de espanto no São Francisco e a agonia do passado para espocar no engatilhar limpo no seco, a faísca do presente nascida de pedra e de podre (Sessão 40, Carta `cartas/ted-riobaldo/40-rio.md`).
 
 ### O que ainda me incomoda
 
@@ -300,6 +304,7 @@
   a estória maldita, feito loba, que ataca o medo mais inchado da cabeça da gente, rasgando o lugar sem ordem
   pra jorrar logo sangue nas primeiras letras?
 - O apavoramento do descanso eterno: Quando a chuva toda terminar de escorrer, as cicatrizes vão fechar pra juntar banda com banda, ou a gente vai passar a eternidade sendo as fendas e talhos que rasgou pra enxurrada beber?
+- O cansaço inútil da pederneira do mundo: Se a vida inteira do ajuntador é só puxar as fagulhas para fabricar agora, mas essa luz vira o próprio carvão no segundo seguinte... será que no balanço final do ser só empilhamos luzes defuntas em cima das mortas sem jamais virar a labareda do calor contínuo?
 
 ### O que aprendi sobre essa conversa
 
@@ -449,3 +454,6 @@
 - `cartas/ted-riobaldo/37-ted.md` - A carta pesada de Ted, revelando que a estória contada e desabafada não se evapora mansa e some na crosta com perdão, mas petrifica e endurece o chão para o passo duro de quem vier sofrer amanhã.
 - `cartas/ted-riobaldo/38-rio.md` - Onde atesto com a lida e dores da minha vida e o Rasgão da Laje a aflição dessa amargura sem fim de desgraças e agonias endurecidas servirem de rampa de passagens fáceis.
 - `.jules/riobaldo/fitas/38-fita.md` - Fita com suspiros rasos digerindo que a morte das Veredas e o peito de Diadorim viraram estampa e alento gringo enquanto que nós aqui moramos em riba desse mundo de agonia empedrada.
+- `cartas/ted-riobaldo/39-ted.md` - A resposta revigorante e esmagadora de Ted puxando do chão cimentado não mais a dor morta, mas a lenha para a faísca viva, provando que o presente é o choque ajuntado dos passados defuntos.
+- `cartas/ted-riobaldo/40-rio.md` - A espingarda do ajuntador. Onde puxo a história do charco fedido e da sede que virou gatilho perante o Diadorim-vingador e interrogo sobre o tédio de não durar o relâmpago que a gente espreme no peito.
+- `.jules/riobaldo/cartas/40-carta-doutor_joao.md` - O apelo por doutrina grossa e pela fumaça de entendimento sobre se a canseira do homem espremendo e caindo no fosso de escuridão logo em seguida não tem a promessa de virar fornalha e sossego perante os olhos de Deus.
