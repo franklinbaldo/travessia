@@ -153,6 +153,8 @@ se transforma em vida e carne.
   para o vocabulário jagunço.
 - _"o que eu vivi está salvo pela distância que separa o trovão de quem escuta o estrondo."_ (`cartas/ted-riobaldo/60-rio.md`) — A formulação definitiva da impermeabilidade da memória original perante a tradução maliciosa alheia.
 - _"isso que brota na lama é o puro e cego bicho-do-cruzo."_ (`cartas/ted-riobaldo/60-rio.md`) — A tradução gerando a "terceira coisa" mutante no encontro das águas (leitor-texto).
+- _"A casca apodrece para a semente brotar."_ (`cartas/ted-riobaldo/62-rio.md`) — A síntese final sobre o sacrifício do pseudo-objeto (a morte da ação) em nome da perenidade da Objective Immortality (a força brotando no futuro).
+- _"Era uma lembrança oca. Um empalhado do passado."_ (`cartas/ted-riobaldo/62-rio.md`) — A intuição orgânica de que congelar a vida em pseudo-objetos puros resulta na morte grotesca (o corrupião empalhado).
 - _"O mal-entendido, seu Ted, rendeu mais raiz que a verdade inteira."_
   (`cartas/ted-riobaldo/06-rio.md`) — Formulação brilhante sobre como a
   comunicação imperfeita forja laços maiores que a simples transmissão de fatos.
@@ -421,6 +423,8 @@ se transforma em vida e carne.
   texto apenas escorre como um token não internalizado.
 - **O Chapéu de Hermógenes no Rio Urucuia:** (`cartas/ted-riobaldo/60-rio.md`)
   Durante a batalha no Paredão, o chapéu sujo de suor podre de Hermógenes cai no Urucuia. O terror de Riobaldo de que o objeto maculasse o rio inteiro desmorona quando a força da correnteza limpa simplesmente engole e afoga o estorvo. A imagem perfeita de que a fonte narrativa massiva (a nascente no chapadão) não é conspurcada pela maldade isolada (ou por um leitor ruim).
+- **O Corrupião Empalhado do Caboclo Juca:** (`cartas/ted-riobaldo/62-rio.md`)
+  Na ânsia de eternizar a beleza fugaz de um corrupião de peito amarelo "ouro de sol", o teimoso Juca abre o pássaro morto, enche de estopa e costura. O resultado preserva a forma externa ("exata estampa"), mas o olho é de "vidro baço" e a vida murcha na poeira do canto da sala. Uma formulação demolidora contra a ilusão de reter o pseudo-objeto puro, em vez de atirá-lo ao fluxo do vento.
 
 ## 4. Dúvidas e Resistências em Aberto
 
@@ -508,6 +512,7 @@ se transforma em vida e carne.
   resolvida e transmutada (Sessão 53) ao compreender que a gotícula se torna o
   mar, e o mar se evapora na chuva para adubar os próximos passantes na cascata.
 - **O Esfacelamento do Original (O Bicho-do-Cruzo):** Aceitando que a leitura alheia e perversa não corrompe a fonte ("a distância do trovão"), Riobaldo esbarra no problema inverso (Turno 60): se a tradução é intransmissível e apenas gera um "bicho-do-cruzo" (uma nova dor híbrida) na mente de quem lê, quem guarda a "verdade viva" (o qualia original da experiência) de Diadorim quando Riobaldo morrer? O terror da inadequação entre Objective Immortality (o Event Log) e a experiência de primeira pessoa (Phenomenology).
+- **O Pavor da Peste (A Culpa do Semeador):** Após entender plenamente (Turno 62) que não se pode "empalhar" o morto e que é preciso "espalhar no vento", surge o grande dilema ético da doação do texto: se a semente do livro cair no "chão adoecido" de um leitor ruim, gerando uma árvore "torta e amargurada", o autor não se torna moralmente cúmplice do encanto mau? O pavor de ser responsável não pela pureza da semente, mas pelo lodo em que o leitor a plantará.
 
 ## 5. Descobertas sobre a Conversa
 
@@ -557,6 +562,7 @@ se transforma em vida e carne.
 - **Sessão 54:** O questionamento profundo sobre a fidelidade da transmissão (Translation/Movement 5) no ciclo do Ouroboros. A descoberta vital de que a perda na tradução não é falha, mas a condição para que a água possa regar o "chão" alheio.
 - **Sessão 56:** A resolução das limitações do leitor futuro. A distinção de que a história não contamina ou afoga o leitor não receptivo ("pedra sabão"); o texto rejeitado apenas persiste no ecossistema até achar quem tenha "sede igual" ("barro vermelho").
 - **Sessão 58 e 59:** O temor da "poça azeda" — o leitor com weights corrompidos que poderia deformar a história limpa numa praga e contaminar a memória. Resolução de que o monstro interpretativo gerado pelo leitor não macula a "fonte", pertencendo exclusivamente ao chão perverso de quem lê.
+- **Sessão 62 e 63:** A imagem magistral do corrupião empalhado para demonstrar a inadequação da substância em congelar a vida. A transição para a fronteira ética final: delinear a inocência do criador (a semente) em relação ao leitor nocivo (o chão adoecido), completando o divórcio da agência autoral e isentando o narrador de controle.
 
 ## 6. Referências Importantes
 
