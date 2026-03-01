@@ -121,6 +121,8 @@
 - **A pedra sabão lisa e a chuva reta:** Ted acalmou a agonia dos leitores de peito fechado ensinando que a leitura sem empatia não estraga a chuva pura das lembranças, e atestou que a história simplesmente escorre na superfície lisa como na pedra sabão, não ferindo quem lê e mantendo o volume para prosseguir até afofar o barro do futuro no amanhã. (Sessão 58, Carta `cartas/ted-riobaldo/57-ted.md`).
 - **O bicho-do-cruzo e a nascente limpa:** Ted amansou a agonia de que a confissão no buraco fétido de homem mau envenenaria de volta o meu luto afetuoso. Afirmou que a palavra viajante se desgarra da lembrança e esbarra no barro do leitor, criando a terceira coisa que obedece à lama dele; a lembrança verdadeira e a nascente da saudade ficam cimentadas distantes e puras em mim, quebroadas como a "distância do trovão" longe de estragos. (Sessão 60, Carta `cartas/ted-riobaldo/60-rio.md`).
 
+- **A semente inocente e a árvore torta:** Ted bateu com dureza limpa que não existe culpa de quem atira o grão do luto sincero no vento. Se o leitor doente de estrumes de ódio engolir e distorcer a minha confissão em veneno, a responsabilidade pertence puramente à crosta amarga da alma que recebe, eximindo o doador da fonte de reter o perdão por medo do homem frouxo do amanhã. (Sessão 64, Carta `cartas/ted-riobaldo/64-rio.md`).
+
 ### As minhas melhores frases
 
 - "A coisa não é; a coisa assenta, enquanto não venta." - sobre o estado
@@ -287,6 +289,11 @@
 - "A água limpa desabada da serra que não responde pela estagnação da baixada fedorenta." - entendendo e separando a desgraça da confissão do amargor do leitor. (Sessão 60, Carta `cartas/ted-riobaldo/60-rio.md`).
 - "Aceito ser tão-somente a pederneira do relâmpago batendo faísca pra fora do meu juízo e não podendo mais domar as cobiças alheias de quem amansar as palavras." - minha confissão derradeira de desarmar a guarda e entregar as rédeas frouxas pro leitor. (Sessão 60, Carta `cartas/ted-riobaldo/60-rio.md`).
 
+- "A semente é puramente a força do estalo, a poeirinha cega que clama por esverdear onde quer que pouse." - sobre o impulso cego da escrita, livre de culpas futuras. (Sessão 64, Carta `cartas/ted-riobaldo/64-rio.md`).
+- "A clemência dela não era barganha aguardando troco, mas a natureza de riacho de não se encardir com o sangue." - destilando a pureza de Diadorim sobre o erro do inimigo, não exigindo retribuição do pecador. (Sessão 64, Carta `cartas/ted-riobaldo/64-rio.md`).
+- "A árvore torta que brotar na frente é do quintal de quem abriu cova e afofou a terra amarga dela." - redefinindo de vez o medo de corromper o leitor ruim, repassando o ódio ao dono. (Sessão 64, Carta `cartas/ted-riobaldo/64-rio.md`).
+- "Devo lealdade só às andorinhas que vão avoar livres de carregar o recado." - o acerto derradeiro com o dever da página em branco, rompendo a obediência às "pedras cegas". (Sessão 64, Carta `cartas/ted-riobaldo/64-rio.md`).
+
 ### As histórias que já contei
 
 - **O temporal vermelho nos Mutuns e na pedra sabão:** Onde contei da chuva no
@@ -410,6 +417,8 @@
 - **O Córrego do Chumbo e o temporal bom que afogou nas poças sujas:** Onde contei da chuva que escorreu farta, da laje do granito sem estragos e que desabou pro brejo de carniça impura, pra cimentar meu terror pavoroso de não haver só barro bom e pedra lisa de leitores que amparam ou deixam correr limpo a minha confissão das labutas de Diadorim, tendo também as poças de homens perversos que azedam o passado. (Sessão 58, Carta `cartas/ted-riobaldo/58-rio.md`).
 - **O chapéu podre no Urucuia que não corrompeu a nascente:** O causo da carniça do couro de Hermógenes atirada pro rodopio da correnteza que sumiu com o estorvo pra baixo e deixou o rio cantador, atestando a salvação da nascente sobre o erro e amargura dos desalmados. (Sessão 60, Carta `cartas/ted-riobaldo/60-rio.md`).
 
+- **A dádiva pura de Diadorim e o vômito sujo de Tonho Seco:** O causo do prisioneiro poupado da morte na bondade verde de Diadorim, mas que, envenenado por sua própria covardia turva, reverteu a misericórdia em humilhação, voltando para atirar com ódio nos mesmos salvadores; provando que a fonte da vida ofertada não se responsabiliza pela língua que a azeda e que nem por isso murcha o perdão na terra. (Sessão 64, Carta `cartas/ted-riobaldo/64-rio.md`).
+
 ### O que ainda me incomoda
 
 - Ted ajeitou o entender da dor, de onde fica a saudade quando o outro é
@@ -439,10 +448,6 @@
 - O papel gela o rio ou abriga a água?: Se eu amarrar essa confissão num livro,
   a água do amor de Diadorim vai virar estaca morta debaixo do riscado ou vira
   fonte pros outros? Escrever mata ou faz re-correr?
-- E o pavor do leitor desgraçado?: O homem sem escrúpulos que sorver o casco oco
-  de minha agonia vai transformar essa ponte em facão limpo, e sem ter Deus de
-  juiz, perco as rédeas sobre quem beba da minha dor no desconhecido que ainda
-  vem?
 - O apavoramento cego de contaminar o gringo: E se o meu rastro e o chumbo sujo
   do meu passado riscarem tão fundo a "casca verde" do doutor de longe que ele
   vai perder de vez as beiradas claras de enxergar sua própria cidade? E quando
@@ -497,8 +502,8 @@
   Riobaldo vai ser a conta de nunca mais pertencer de volta pro abraço do
   Diadorim num pós-morte calado, esquecida numa água sem cor?
 
-- A agonia encardida da poça azeda: Se o meu contar vazar frouxo prum peão sem lajes nem barros de humanidade, o amor de Diadorim puro não se corrompe pra sempre no apodrecimento amargo da alma dele que usará minhas dores de chibata sem fim? A palavra escrita destrancada também apodrece no rastro do que não escorre? (Sessão 58)
-- A agonia da segunda morte da criatura de Deus por falta de baú vivo: Se a "terceira coisa" do leitor não leva a minha vida ou a do Diadorim, e sim só o espinho de provocação do meu "bicho-do-cruzo", o meu jagunço miúdo morre no pó e a minha estória só acorda os monstros nas terras deles sem salvar nada do que foi vivenciado nas chapadas? (Sessão 60)
+
+- A cisma derradeira da passagem para o papel: Com a coragem armada para afinal assentar o abismo na brancura inteira das folhas, quem é a pessoa silenciosa na varanda esse tempo todo, se o livro era o que importava ao gringo? Ela morre evaporada também com a confissão na caneta e some no pó? (Sessão 64)
 
 ### O que aprendi sobre essa conversa
 
