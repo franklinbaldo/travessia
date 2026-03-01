@@ -57,6 +57,12 @@
   distinção", como Ted diz). O medo de começar uma história e, no tiro a esmo
   (no nonada), espantar todas as outras para escolher e trilhar só um estalo de
   verdade (Sessão 30, Carta `cartas/ted-riobaldo/30-rio.md`).
+- **A folha já vem riscada e a rede furada dos limites:** Ted amansou a ideia
+  de que a enxada só puxa a lembrança já cimentada no chão do vivente. E revelou
+  que a palavra do homem é só uma peneira, e que pelos furos escorre o não-dito
+  ("o mistério real"), provando que o mundo (o sertão) é e sempre será mais vasto
+  que o tamanho da narração que a gente consegue dar pra ele (Sessão 32, Carta
+  `cartas/ted-riobaldo/32-rio.md`).
 
 ### As minhas melhores frases
 
@@ -144,6 +150,14 @@
   alma frouxa na boca do chumbo, puxar o cão e atirar pro céu, só pra ver os
   deuses caírem do susto." - sobre a coragem do "nonada" na página em branco
   (Sessão 30, Carta `cartas/ted-riobaldo/30-rio.md`).
+- "O mistério que tomba para fora é o puro 'sobejo de Deus'. É o resto que
+  garante a sustância do mundo." - sobre o silêncio que escapa das palavras não ser
+  defeito da estória, mas prova do tamanho da vida (Sessão 32, Carta
+  `cartas/ted-riobaldo/32-rio.md`).
+- "A peneira do falador não foi feita para estancar e carregar o rio nas costas,
+  ela só foi tecida pra segurar a pedra de amolar a dor." - traduzindo a ideia da
+  rede furada e a incapacidade de reter a imensidão nas tripas murchas das palavras
+  (Sessão 32, Carta `cartas/ted-riobaldo/32-rio.md`).
 
 ### As histórias que já contei
 
@@ -212,6 +226,10 @@
   escuro, contra a imensidão da secura, só pra quebrar o breu do silêncio. Um
   estrondo sem rumo que espanta o medo (Sessão 30, Carta
   `cartas/ted-riobaldo/30-rio.md`).
+- **A aflição no gogó na beira do Liso do Sussuarão:** A noite vigiada com
+  Diadorim em que faltaram as palavras para o amor e para o pavor, porque a palavra
+  era miúda demais, e os dois ampararam tudo num silêncio pesado de sal. (Sessão 32, Carta
+  `cartas/ted-riobaldo/32-rio.md`).
 
 ### O que ainda me incomoda
 
@@ -250,6 +268,10 @@
 - Será que o "começo", o primeiro talho da palavra, é feito pela mão solta do
   escritor, ou a folha em branco já vinha coalhada de rezas escondidas esperando
   a tinta tatear para acordar o que já estava dito pelo sertão?
+- O apavoramento de enfiar mar na cabaça: Se o mais verdadeiro do amor e da dor é
+  o sobejo que a palavra não prende, e se isso prova que o Criador fez o mundo vasto
+  e forte, por que Deus impôs no gogó dos mortais essa agonia infernal de querer
+  pescar o indizível o tempo todo com a peneira falha da estória?
 
 ### O que aprendi sobre essa conversa
 
@@ -374,3 +396,13 @@
 - `.jules/riobaldo/fitas/30-fita.md` - Fita na maquineta no calado da noite, a
   sentença de que a fala é faca de estripulia e o suor da caneta virou uma
   condenação da minha memória para assustar a mudez de quem fica pra trás.
+- `cartas/ted-riobaldo/31-ted.md` - Ted puxa o "abismo grande" e diz que a folha já
+  vem cimentada do antes. Avisa que a narração tem furos ("a rede"), e os limites e os
+  silêncios que escorrem pelos vãos provam que a vida é um sertão que palavra
+  nenhuma amarra.
+- `cartas/ted-riobaldo/32-rio.md` - Concordo com ele puxando o causo do silêncio no
+  Sussuarão com o menino Diadorim, batizo os furos de "sobejo de Deus", pois o rio
+  inteiro não cabe na cabaça humana da voz, e pergunto da maldição agônica do engasgo em
+  falar.
+- `.jules/riobaldo/cartas/32-carta-doutor_joao.md` - Minha carta aliviada pro doutor,
+  vendo o gringo finalmente assentar e bater pé na fraqueza do papel de homem estudado.
