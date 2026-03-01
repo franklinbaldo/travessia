@@ -1,6 +1,8 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
+import FooterNav from '../../../components/FooterNav.astro';
+import { slugToLabel } from '../../../lib/utils';
 
 export async function getStaticPaths() {
   const entradas = await getCollection('bastidores-riobaldo');
@@ -10,15 +12,16 @@ export async function getStaticPaths() {
   }));
 }
 
+const base = import.meta.env.BASE_URL;
 const { entry } = Astro.props;
 const { Content } = await render(entry);
-
+const label = slugToLabel(entry.id);
 ---
 
-<Layout title={`Riobaldo — ${entry.id.replace(/-/g, ' ').replace(/_/g, ' — ')} | Travessia`} isBastidores={true}>
+<Layout title={`Riobaldo — ${label} | Travessia`} isBastidores={true}>
   <article class="bastidores-content">
     <header class="journal-header">
-      <h1>Riobaldo — {entry.id.replace(/-/g, ' ').replace(/_/g, ' — ')}</h1>
+      <h1>Riobaldo — {label}</h1>
     </header>
 
     <div class="journal-body">
@@ -26,7 +29,5 @@ const { Content } = await render(entry);
     </div>
   </article>
 
-  <nav class="footer-nav">
-    <a href={`${import.meta.env.BASE_URL}bastidores`}>&larr; Voltar para Bastidores</a>
-  </nav>
+  <FooterNav backUrl={`${base}bastidores`} backLabel="Voltar para Bastidores" />
 </Layout>

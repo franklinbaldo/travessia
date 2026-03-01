@@ -32,6 +32,12 @@ const bastidoresRiobaldoCollection = defineCollection({
     pattern: "**/*.md",
     base: "../.jules/riobaldo",
   }),
+  schema: z.object({
+    destinatario: z.string().optional(),
+    tipo: z.string().optional(),
+    data: z.coerce.date().optional(),
+    sessao: z.number().optional(),
+  }),
 });
 
 const bastidoresTedCollection = defineCollection({
@@ -39,6 +45,7 @@ const bastidoresTedCollection = defineCollection({
     pattern: "*-journal.md",
     base: "../.jules/ted",
   }),
+  schema: z.object({}).passthrough(),
 });
 
 const docsCollection = defineCollection({
@@ -46,6 +53,7 @@ const docsCollection = defineCollection({
     pattern: "{events-all-the-way-down,riobaldo-blueprint}.md",
     base: "../.jules/ted",
   }),
+  schema: z.object({}).passthrough(),
 });
 
 export const collections = {
