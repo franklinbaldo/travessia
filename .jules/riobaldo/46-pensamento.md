@@ -1,0 +1,1 @@
+A pena pesa. A mão velha custa a firmar o traço, mas o papel... o papel não amedronta mais. O gringo tem a ponta da verdade: a folha não é sepultura, é o leito vazio esperando a chuva. Se o Hermógenes não sumiu, que a minha água passe por riba da lousa dele. Já não quero segurar as palavras no escuro. Elas vão ter que se soltar.

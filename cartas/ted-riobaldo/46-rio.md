@@ -1,0 +1,19 @@
+---
+titulo: "A Água Nova Sobre a Pedra Cega"
+autor: "Riobaldo Tatarana"
+data: 2026-03-09
+---
+
+Senhor Ted,
+
+O senhor arrastou a minha angústia com a força mansa que tem as cheias de março. A sua falação derradeira me tirou o fôlego e o medo do gume. A água que passa por riba da pedra... o senhor veja, eu passei a vida campeando no sertão, atravessei os rios nos tempos secos e nos barrentos, e nunca tinha ajuntado as léguas de ver o que se passava nas águas para servir de clareza pro coração da gente. A cisma da gente é achar que a lousa do mal, a rocha preta do Hermógenes, é estorvo que cimenta a vida de vez. Mas o senhor me destampa a vista dizendo que a enxurrada da minha verdade é o que desengasga a água, engolindo a pedra, não apagando a desgraça, mas mudando o serventio dela pra quem for beber da minha cabaça adiante.
+
+Me arrebentou a lembrança de uma seca feia, lá pras bandas do riacho das Lajes. O fio d'água tinha minguado, descascado em pedregulho seco. Aí, num desbarrancar da beira, uma lousa preta enorme despencou feito praga no meio da grota, travando o que sobrava de vida fluir. A água, represada por desgosto da pedra, foi empoçando, verdeando num lodo espesso e fedorento. As muriçocas faziam nuvem e o que descia ali pra beber saía doente ou morria em volta. Parecia feitiço rogado, maldição calcificada. O sertão ali não respirava miúdo, só assovios frouxos de poeira e bicho podre. Mas na primeira vinda das águas, no meio de dezembro, o céu pesou e desabou um aguaceiro de arrombar as nuvens. O riacho inchou avermelhado de barro, roncando bravo por entre os paredões. Quando a testa d'água topou com a lousa preta, não arrebentou a rocha. A lousa estava lá, fincada nas amarras da terra. A enxurrada subiu, ferveu em espuma, rosnou, até que cobriu a cabeça da laje e pulou num rebuliço bonito, virando cachoeira fresca onde só existia praga parada. A lousa medonha que estancava o rio, encoberta pelo aguaceiro novo, virou escadaria pro voo limpo da água.
+
+Daí fecho o olho e recordo Diadorim de manhã, lavando o rosto na barranca mansa do São Francisco, depois de um rastro de bala. A lida do jagunço empapada no suor grosso. Ele jogava aquela água fria nas maçãs do rosto e ela escorria, lambendo a poeira encardida de morte que tava no couro dele, caindo e respingando mansa de volta na corrente. A água grande, no seu estirão incansável, sempre leva o encardido do barranco pro fundo, assoreando a sua própria barriga, sem amaldiçoar o fluxo lá em cima, sem manchar de choro a bica pro andante que se abaixar amanhã. O ruim decanta embaixo; a fluidez rola no alto.
+
+O garrote afrouxou de vez. A pedra cega estanca, esfola a margem, desvia o tranco, mas não suga o rio de existir. O senhor me amarrou à prova de que a franqueza da minha confissão não vai envenenar o mundo. A água limpa e nova que vasa no papel abraça a pedreira e alarga o sertão pras beiradas de quem for ler. O ruim que contei serve de lastro duro, não de poça de praga. A enxurrada do que eu fui vira ensino pra quem ainda vai ser.
+
+A minha pena já não pesa nem chora. O braço velho não frouxa mais da caneta. A cabaça espichada vai rolar de verter. Mas pergunto... no alisar das páginas limpas, no susto de ferir o silêncio de Deus com o primeiro risco no papel da minha vida: o primeiro buraco pra destampar a estória precisa ser "Nonada"? Essa lousa encostada que não é nada e também é coisa incerta de negação, pra avisar que eu sou o buraco no nada querendo encher o rio de água?
+
+E na espiral dessa sua lei mansa que as coisas têm... se o universo não apaga o estrago e se a narração puxa a água pra saltar por riba e limpar a sujeira apodrecida, então me arranca essa estaca do juízo de vez: o Diabo, o cramulhão que amarra a gente, ele nunca esteve solto no pasto? É só o remanso azedo da coragem que secou e estagnou? A ruindade, senhor Ted, a ruindade funda... é só a precisão triste da água onde esgotou e faltou a força pra chover?
