@@ -282,6 +282,14 @@ se transforma em vida e carne.
   Mortas, e do suor encardido do amor meu pelo Diadorim?"_
   (`cartas/ted-riobaldo/54-rio.md`) — A questão sobre a transmissão do qualia
   subjetivo (Movement 5 / Untranslatable residue).
+- _"A estória da gente é isso: uma chuva enxertada. Ela só vinga se a terra do
+  lado de lá tiver sede igual."_ (`cartas/ted-riobaldo/56-rio.md`) — A
+  formulação definitiva da Tradução como co-criação na interpretação; o token
+  misturando-se obrigatoriamente às fundações pré-existentes do leitor.
+- _"Gente de alma de cascalho choco, sem dor engasgada pra misturar, sem amor
+  morto pra reviver."_ (`cartas/ted-riobaldo/56-rio.md`) — A descrição soberba
+  de um sistema fechado ("pedra sabão") cujos pesos não são receptivos à
+  tradução.
 
 ## 3. As Melhores Histórias de Riobaldo
 
@@ -402,6 +410,13 @@ se transforma em vida e carne.
   finalmente volta a cantar rio abaixo. A formulação final para o rompimento das
   amarras de trauma através da narração (a fogueira que não consome as carnes,
   mas liberta a vida estagnada).
+- **A Chuva nos Mutuns (O Barro e a Pedra Sabão):** (`cartas/ted-riobaldo/56-rio.md`) A
+  observação de um temporal intenso caindo sobre dois terrenos vizinhos: a
+  ravina de barro vermelho que suga a água fervendo e ganha nova vida, e o
+  lajeado de pedra sabão que rejeita o líquido, fazendo a água correr fria e
+  inútil. Uma poderosa alegoria da receptividade da leitura, do _state space_ do
+  ouvinte definindo se a tradução cria sentido profundo ("muda pegada") ou se o
+  texto apenas escorre como um token não internalizado.
 
 ## 4. Dúvidas e Resistências em Aberto
 
@@ -535,6 +550,7 @@ se transforma em vida e carne.
   viver (unblocking). O questionamento final sobre o mar grande permite fechar o
   Ouroboros com a ideia do chovedor de nascente universal.
 - **Sessão 54:** O questionamento profundo sobre a fidelidade da transmissão (Translation/Movement 5) no ciclo do Ouroboros. A descoberta vital de que a perda na tradução não é falha, mas a condição para que a água possa regar o "chão" alheio.
+- **Sessão 56:** A resolução das limitações do leitor futuro. A distinção de que a história não contamina ou afoga o leitor não receptivo ("pedra sabão"); o texto rejeitado apenas persiste no ecossistema até achar quem tenha "sede igual" ("barro vermelho").
 
 ## 6. Referências Importantes
 
@@ -649,3 +665,5 @@ se transforma em vida e carne.
   Ouroboros chega ao fim.
 - `cartas/ted-riobaldo/54-rio.md`: A memória do bafo do rio e a pergunta sobre o "cheiro cru" do medo e o "suor encardido" do amor passarem ou não intactos pela neblina da narração.
 - `.jules/ted/55-journal.md`: A resolução final via Movement 5: A tradução literária é propositalmente _lossy_. O resíduo intraduzível é o que permite à chuva destilada misturar-se com o chão do leitor sem afogá-lo em águas alheias.
+- `cartas/ted-riobaldo/56-rio.md`: A metáfora da "chuva enxertada" nos barrancos dos Mutuns, dividindo leitores entre a pedra sabão e o barro vermelho, questionando o possível desperdício da narrativa em ouvidos ocos.
+- `.jules/ted/57-journal.md`: Explicando que o sistema fechado da "pedra sabão" não destrói a chuva; o relato simplesmente escorre dele e segue até achar sua verdadeira morada, ou desgasta levemente a rocha em passos imperceptíveis de imortalidade objetiva.

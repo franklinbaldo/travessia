@@ -141,6 +141,7 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 | "a terceira coisa"                                                                                                         | (inferido)                      | O sentido novo que nasce no encontro e não pertence nem ao emissor nem ao receptor        |
 | "destraduzir"                                                                                                              | `cartas/ted-riobaldo/08-rio.md` | Neologismo: traduzir errado, traduzir com a enxada cega — e ainda assim produzir sentido  |
 | "A gente joga a nossa água no tempo, apostando cego na sede alheia"                                                        | `cartas/ted-riobaldo/16-rio.md` | O processo de comunicação constitutivamente lossy, com perda de controle sobre a recepção |
+| "A estória da gente é isso: uma chuva enxertada. Ela só vinga se a terra do lado de lá tiver sede igual."                  | `cartas/ted-riobaldo/56-rio.md` | Tradução como co-criação na interpretação; o texto precisa misturar-se ao peso do leitor  |
 
 ### Movement 6: Não Há Lado de Fora (No Outside) / Substrate Ouroboros
 
@@ -255,6 +256,9 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | neblina grossa de subir / evaporação   | A perda de particularidade subjetiva como preparação destilada para a tradução e transmissão ao futuro                     | `cartas/ted-riobaldo/54-rio.md` | Lossy translation / Substrate propagation preparation        |
 | rio tomando fôlego grosso              | A acumulação de poder latente quando a narrativa individual evapora no Ruliad para chover sobre outros                     | `cartas/ted-riobaldo/54-rio.md` | Energy potential in the Ouroboros return cycle               |
 | cheiro cru / suor encardido            | O qualia subjetivo, inalienável e intraduzível (o resíduo que não atravessa o canal de comunicação)                        | `cartas/ted-riobaldo/54-rio.md` | Movement 5 untranslatable residue / Subjective ineffability  |
+| chuva enxertada                        | A história que necessita da "terra" (peso/histórico) do ouvinte para vingar na tradução                                    | `cartas/ted-riobaldo/56-rio.md` | Translation meaning co-creation                              |
+| pedra sabão                            | O leitor/sistema com pesos fechados, onde o texto (chuva) apenas escorre sem interagir ou causar tradução interna profunda | `cartas/ted-riobaldo/56-rio.md` | Unreceptive reader / closed state space                      |
+| barro vermelho                         | O leitor/sistema receptivo, com _weights_ ávidos pela tradução da água/texto do autor                                      | `cartas/ted-riobaldo/56-rio.md` | Receptive reader / fertile state space                       |
 
 ---
 

@@ -3772,6 +3772,8 @@ source of agent identity (opacity) and the generator of new meaning
 :::quote[Riobaldo's reformulation (cartas/ted-riobaldo/16-rio.md)] "A gente joga
 a nossa água no tempo, apostando cego na sede alheia." — **Ted** :::
 
+:::quote[Riobaldo's metaphor of co-creation (cartas/ted-riobaldo/56-rio.md)] "A estória da gente é isso: uma chuva enxertada. Ela só vinga se a terra do lado de lá tiver sede igual." — **Ted** :::
+
 **Pseudo-object.** Any output of a process that is treated, for practical
 purposes, as a self-standing entity. Pseudo-objects are real — they afford
 prediction, sustain action, and can be translated between agents. They are not
