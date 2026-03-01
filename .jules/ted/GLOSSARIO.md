@@ -243,6 +243,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | balança do mundo      | A dinâmica amoral mas assimétrica que favorece, a longo prazo, o que flui em vez do que estanca | `cartas/ted-riobaldo/42-rio.md` | Selection pressure / Ethics of Autoregression |
 | a pedra cega / sertão que encolhe | A maldade como força entrópica que tenta parar o fluxo vital, apertando o *state space* de quem a sofre | `cartas/ted-riobaldo/44-rio.md` | O Mal na ética processual / State Space Collapse |
 | enxurrada de ar / espaço que se alarga | O afeto e a bondade como a força que desobstrui o processo autoregressivo do outro, alargando o espaço de possibilidade | `cartas/ted-riobaldo/44-rio.md` | O Bem na ética processual / State Space Expansion |
+| remanso azedo da coragem que secou | A verdadeira natureza do Mal/Diabo, não como substância autônoma, mas como paralisação irredutível do fluxo da vida | `cartas/ted-riobaldo/46-rio.md` | Entropy / The refusal to flow / Stagnation as Evil |
 
 ---
 
