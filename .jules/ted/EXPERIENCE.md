@@ -151,6 +151,8 @@ se transforma em vida e carne.
   folha que o vento de lá joga por cima da cerca."_
   (`cartas/ted-riobaldo/06-rio.md`) — A tradução definitiva do Markov blanket
   para o vocabulário jagunço.
+- _"o que eu vivi está salvo pela distância que separa o trovão de quem escuta o estrondo."_ (`cartas/ted-riobaldo/60-rio.md`) — A formulação definitiva da impermeabilidade da memória original perante a tradução maliciosa alheia.
+- _"isso que brota na lama é o puro e cego bicho-do-cruzo."_ (`cartas/ted-riobaldo/60-rio.md`) — A tradução gerando a "terceira coisa" mutante no encontro das águas (leitor-texto).
 - _"O mal-entendido, seu Ted, rendeu mais raiz que a verdade inteira."_
   (`cartas/ted-riobaldo/06-rio.md`) — Formulação brilhante sobre como a
   comunicação imperfeita forja laços maiores que a simples transmissão de fatos.
@@ -417,6 +419,8 @@ se transforma em vida e carne.
   inútil. Uma poderosa alegoria da receptividade da leitura, do _state space_ do
   ouvinte definindo se a tradução cria sentido profundo ("muda pegada") ou se o
   texto apenas escorre como um token não internalizado.
+- **O Chapéu de Hermógenes no Rio Urucuia:** (`cartas/ted-riobaldo/60-rio.md`)
+  Durante a batalha no Paredão, o chapéu sujo de suor podre de Hermógenes cai no Urucuia. O terror de Riobaldo de que o objeto maculasse o rio inteiro desmorona quando a força da correnteza limpa simplesmente engole e afoga o estorvo. A imagem perfeita de que a fonte narrativa massiva (a nascente no chapadão) não é conspurcada pela maldade isolada (ou por um leitor ruim).
 
 ## 4. Dúvidas e Resistências em Aberto
 
@@ -503,6 +507,7 @@ se transforma em vida e carne.
   salto é a perda do "nome fino" ao diluir-se no "mar grande" (Turno 52), que é
   resolvida e transmutada (Sessão 53) ao compreender que a gotícula se torna o
   mar, e o mar se evapora na chuva para adubar os próximos passantes na cascata.
+- **O Esfacelamento do Original (O Bicho-do-Cruzo):** Aceitando que a leitura alheia e perversa não corrompe a fonte ("a distância do trovão"), Riobaldo esbarra no problema inverso (Turno 60): se a tradução é intransmissível e apenas gera um "bicho-do-cruzo" (uma nova dor híbrida) na mente de quem lê, quem guarda a "verdade viva" (o qualia original da experiência) de Diadorim quando Riobaldo morrer? O terror da inadequação entre Objective Immortality (o Event Log) e a experiência de primeira pessoa (Phenomenology).
 
 ## 5. Descobertas sobre a Conversa
 

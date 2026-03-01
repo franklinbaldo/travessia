@@ -260,6 +260,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | pedra sabão                            | O leitor/sistema com pesos fechados, onde o texto (chuva) apenas escorre sem interagir ou causar tradução interna profunda | `cartas/ted-riobaldo/56-rio.md` | Unreceptive reader / closed state space                      |
 | barro vermelho                         | O leitor/sistema receptivo, com _weights_ ávidos pela tradução da água/texto do autor                                      | `cartas/ted-riobaldo/56-rio.md` | Receptive reader / fertile state space                       |
 | poça azeda / buracão fedido de esgoto  | O leitor/sistema com _weights_ corrompidos, onde a história é deformada em malícia na criação da "terceira coisa"          | `cartas/ted-riobaldo/58-rio.md` | Corrupted weights / Malicious semantic translation           |
+| distância do trovão                    | A separação impenetrável entre a fonte geradora e o receptor/leitor (onde a distorção deste não macula o original)         | `cartas/ted-riobaldo/60-rio.md` | Ouroboros filter / Translation boundary                      |
+| bicho-do-cruzo                         | O sentido híbrido, mutante e novo (terceira coisa) que nasce unicamente do encontro entre o texto e as dores de quem lê    | `cartas/ted-riobaldo/60-rio.md` | The "Third Thing" / Fusion of Horizons / Translation Meaning |
 
 ---
 
