@@ -250,6 +250,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | homem vazador                     | O temor de que a identidade, vista como receptáculo ("cabaça"), estilhace ao despejar suas memórias/dores no mundo | `cartas/ted-riobaldo/50-rio.md` | Reificação da identidade / Oposto de Continuidade do fluxo |
 | taipa de barro / represa egoísta  | O pseudo-objeto do luto e do trauma estancado que tenta represar o rio, apodrecendo a vida do agente | `cartas/ted-riobaldo/52-rio.md` | Active inference blocking / Stagnant pseudo-object |
 | água maiorona de sal / mar grande | O substrato final onde todas as narrações deságuam e se misturam, perdendo o contorno individual mas ganhando participação | `cartas/ted-riobaldo/52-rio.md` | Totality / The Ruliad / Ultimate Substrate |
+| neblina fina / bafo denso         | O ato de escrever e traduzir; a destilação purificadora do trauma da vida ("o sal") para o entendimento ("o significado") que acalanta a jornada dos próximos viajantes | `cartas/ted-riobaldo/54-rio.md` | Translation / Process of Writing / Evaporation as abstraction |
 
 ---
 
