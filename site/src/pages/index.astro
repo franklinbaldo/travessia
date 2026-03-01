@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 import BlogCard from '../components/BlogCard.astro';
 import FeaturedPost from '../components/FeaturedPost.astro';
-import { getExcerpt } from '../lib/utils';
+import { getExcerpt, getFileNum } from '../lib/utils';
 
 const base = import.meta.env.BASE_URL;
 
@@ -28,6 +28,7 @@ const posts: BlogPost[] = [];
 
 for (const entry of allDialogo) {
   const isRio = entry.data.autor.includes('Riobaldo');
+  const fileNum = getFileNum(entry.id);
 
   posts.push({
     slug: entry.id,
@@ -38,8 +39,8 @@ for (const entry of allDialogo) {
     excerpt: getExcerpt(entry.body),
     longExcerpt: getExcerpt(entry.body, 320),
     url: `${base}carta/${entry.id}`,
-    data: entry.data.data ? new Date(entry.data.data) : new Date(),
-    ordem: entry.data.data ? new Date(entry.data.data).getTime() : Date.now(),
+    data: entry.data.data ? new Date(entry.data.data) : undefined,
+    ordem: 1e6 + fileNum,
   });
 }
 

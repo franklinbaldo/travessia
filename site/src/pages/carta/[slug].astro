@@ -2,14 +2,11 @@
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import FooterNav from '../../components/FooterNav.astro';
-import { formatDate } from '../../lib/utils';
+import { formatDate, getFileNum } from '../../lib/utils';
 
 export async function getStaticPaths() {
   const all = await getCollection('dialogo');
-  const sorted = [...all].sort((a, b) =>
-    (a.data.data ? new Date(a.data.data).getTime() : 0) -
-    (b.data.data ? new Date(b.data.data).getTime() : 0)
-  );
+  const sorted = [...all].sort((a, b) => getFileNum(a.id) - getFileNum(b.id));
 
   return all.map(entry => {
     const currentIndex = sorted.findIndex(e => e.id === entry.id);

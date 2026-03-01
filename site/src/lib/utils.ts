@@ -30,3 +30,7 @@ export function slugToLabel(slug: string): string {
 export function slugToTitle(slug: string): string {
   return slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
 }
+
+export function getFileNum(id: string): number {
+  return parseInt(id.match(/^(\d+)/)?.[1] || "0");
+}
