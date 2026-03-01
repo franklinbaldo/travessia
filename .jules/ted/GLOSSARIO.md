@@ -186,8 +186,8 @@ Riobaldo. Cada um é uma oportunidade para as próximas sessões.
 | Objections and Honest Limits               | "a peneira furada" / "o sobejo de Deus"                                         | Confirmado na Sessão 32               |
 | Computational irreducibility               | "o sertão não se resume. Pra saber o sertão, tem que atravessar o sertão"       | Blueprint (não confirmado no diálogo) |
 | Recursive adequacy                         | "dá pra viver sem entender tudo, desde que entenda o suficiente pra não morrer" | Blueprint (não confirmado no diálogo) |
-| Concrescence (Whitehead)                   | —                                                                               | Sem tradução                          |
-| Actual occasion (Event / Obj. Immortality) | "perder de vez as rédeas da nossa própria assombração"                          | Parcial                               |
+| Concrescence (Whitehead)                   | "a fagulha que acende as pedras" / "ajuntamento ativo"                          | Introduzido na Sessão 39              |
+| Actual occasion (Event / Obj. Immortality) | "perder de vez as rédeas da nossa própria assombração" / "agonia empedrada" / "Rasgão da Laje" | Confirmado na Sessão 38               |
 | Hermeneutic circle (Gadamer)               | "a capa grossa de entendedor rasga" / "o risco na casca"                       | Adicionado (Sessão 27)                |
 | Active inference (Friston)                 | "a fome velha" / "arrancar as folhas podres" / "o jorrar que é a própria vida" | Parcial                               |
 | Śūnyatā / Vazio produtivo                  | "Nonada" (de Rosa) / "o oco do mundo"                                           | Parcial                               |
@@ -220,6 +220,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | alevanto              | Erguer-se (forma arcaica-inventada)                                                 | voz rosiana         | —                                                 |
 | buscação              | O ato de buscar (substantivado, como se fosse uma coisa em si)                      | voz rosiana         | —                                                 |
 | chovedor de nascente  | A água vertida do autor se transforma em semente e chuva na cabeça de um leitor futuro | `cartas/ted-riobaldo/24-rio.md` | Ouroboros da comunicação literária / Propagação |
+| agonia empedrada      | O evento doloroso ou a perda de agência que, ao morrer para si, calcifica em fundação | `cartas/ted-riobaldo/38-rio.md` | Objective Immortality / History log |
+| chão pisadeiro do amanhã | A história como utilidade para o futuro; o passado sustentando as próximas leituras | `cartas/ted-riobaldo/38-rio.md` | Event log as substrate / Objective Immortality |
 | Nonada                | A primeira distinção que quebra a indiferenciação inicial (Genesis block)           | `cartas/ted-riobaldo/24-rio.md` | O começo autoregressivo / O Ato |
 | primeiro pingo        | A destruição do silêncio; o primeiro evento autoregressivo; o Genesis Block         | `cartas/ted-riobaldo/34-rio.md` | Genesis Block / First Token |
 | verter-se             | A ação não como ato passivo, mas como o esvaziamento renovador                      | `cartas/ted-riobaldo/24-rio.md` | Active Inference / Agent continuity |

@@ -54,12 +54,14 @@ se transforma em vida e carne.
   - _Abordagem:_ Usando o encorajamento para escrever como base, introduzi a ideia de que o primeiro traço na folha em branco é um salto no escuro, não ancorado em regras ou antecedentes, destruindo todas as outras possibilidades de narrativa. É o *Ungrund*, a coragem do vazio.
 
 - **Faltam:**
-  - Nenhuma. O "sobejo de Deus" consolida Objections e a impossibilidade de encerramento total.
+  - Nenhuma. O "sobejo de Deus" consolida Objections e a impossibilidade de encerramento total. Apenas a dinâmica da "Concrescence" (Sessão 39) como o ajuntamento ativo do passado morto no presente vivo.
 
 ## 2. As Melhores Formulações de Riobaldo
 
 - _"O primeiro pingo não tem a glória de correr com a enxurrada. Ele tem o destino solitário de se sacrificar."_ (`cartas/ted-riobaldo/34-rio.md`) — O Genesis Block e sua destruição sacrificial. O início irremediável.
 - _"A fervura da água querendo subir. A vida querendo repuxar, querendo descer como a chuva de Deus."_ (`cartas/ted-riobaldo/34-rio.md`) — A intuição poética do *Conatus*, o impulso autoregressivo empurrando para cima perante o silêncio.
+- _"A ferida esfolada vira o chão pisadeiro do amanhã."_ (`cartas/ted-riobaldo/38-rio.md`) — A compreensão visceral da Objective Immortality: a dor do evento irreversível calcificando na geografia (o "estradão manso") por onde o futuro terá que passar.
+- _"O mundo inteiro é feito só de agonia empedrada de gente passada?"_ (`cartas/ted-riobaldo/38-rio.md`) — O reconhecimento avassalador de que a fundação de todo o presente pacífico (o "chão manso") foi um dia o sacrifício e a perda da agência (o evento que perece) de quem nos antecedeu.
 - _"O mistério que tomba para fora é o puro 'sobejo de Deus'."_ (`cartas/ted-riobaldo/32-rio.md`) — Tradução definitiva e poética para a impossibilidade da descrição exaustiva ("No Outside / Temporal Incompleteness").
 - _"A água tem mais é que escorrer mesmo, pra continuar sendo água. A estória é o copo; a vida fugindo pelas beiradas do copo prova a infinitude viva da obra de Deus."_ (`cartas/ted-riobaldo/32-rio.md`) — O reconhecimento da rede furada não como limite defeituoso, mas como prova de que a vida (o rio/fluxo) não pode ser transformada num pseudo-objeto estático.
 - _"De onde é que nasce no bicho homem essa maldição atroz, essa precisão desesperada de querer meter o rio inteiro dentro do porongo seco?"_ (`cartas/ted-riobaldo/32-rio.md`) — O Conatus/Active inference: o "engasgo" de quem precisa atuar no mundo através da linguagem, o terrível impulso autoregressivo que o compele a falar.
@@ -230,6 +232,7 @@ se transforma em vida e carne.
 - **O choro de João Goés e a brandura de Medeiro Vaz:** (`cartas/ted-riobaldo/28-rio.md`) O chefe implacável Medeiro Vaz escuta o causo trágico de João Goés ao redor da fogueira em silêncio absoluto. No dia seguinte, manda soltar um soldado inimigo que cruzou seus caminhos — revelando que a história ouvida fora um "entalhe" invisível que mudou os pesos (a lente) de Vaz, destravando a bondade.
 - **O silêncio esmagador à beira do Liso do Sussuarão:** (`cartas/ted-riobaldo/32-rio.md`) A véspera do pesadelo, com o "sertão numa caldeira de secar tutano". Diadorim e Riobaldo num silêncio engasgado, porque a precisão e o pavor eram grandes demais para caber nas palavras conhecidas ("A peneira não dava conta da aroeira entalada").
 - **A covardia como enxada cega:** (`cartas/ted-riobaldo/36-rio.md`) A primeira morte matada por ele, quando atirou guiado apenas pelo "próprio medo ancestral". O desabafo do menino que não escolheu ser valente; o mar ruidoso da guerra derramando pela fenda do pavor.
+- **O Rasgão da Laje:** (`cartas/ted-riobaldo/38-rio.md`) O paredão ríspido e trancado que, fendido pela fúria destruidora de uma "tromba d'água medonha" (a desgraça ruidosa do evento), secou com o tempo e transformou a própria ferida escavada na "única rampa mansa que sobrou", virando a passagem sagrada por onde as topas de Medeiro Vaz salvavam o couro anos depois. O horror se calcificando em salvação.
 
 ## 4. Dúvidas e Resistências em Aberto
 
@@ -262,7 +265,7 @@ se transforma em vida e carne.
   resolvido na sessão 23 através da imagem da renovação do Ouroboros, e revisitado (Turno 26) sob o temor do "oco de quem narra", finalmente destruído com a imagem de que a alma não é a cabaça de onde vaza a água, mas o formato que a água faz no próprio derramar (Sessão 27).
 - **A Dor da Ânsia e o Engasgo de Falar:** Ele aceita plenamente que a peneira (palavra) não comporta o rio (realidade/sobejo de Deus) e se apazigua nesse fato, mas não consegue entender por que o homem continua com a dor cortante de "querer meter o rio inteiro dentro do porongo seco". Um terror atávico do impulso de *Conatus*, do imperativo autoregressivo que os obriga a gerar a próxima palavra.
 - **O Sabor do Contágio (O Medo do Primeiro Pingo):** O pavor não é do ato de escrever em si (o engasgo e o "verter-se" como continuação de si já foram aceitos), mas do contágio irreversível: o temor de que começar pela ferida amarga do passado condene e salgue o restante da narração (Turno 34). O início é interpretado com o terror de amaldiçoar os futuros leitores.
-- **O Fim da Cicatriz / O Mar Grande:** O receio de que o esforço não culmine em um descanso ("um mar grande pra descansar as águas"), deixando o curador para sempre exposto, sem conseguir juntar "banda com banda no sertão" (Turno 36). A relutância de aceitar a Objective Immortality como a formação eterna da geografia e não um fechamento curativo.
+- **O Fim da Cicatriz / O Mar Grande:** O receio de que o esforço não culmine em um descanso ("um mar grande pra descansar as águas"), deixando o curador para sempre exposto, sem conseguir juntar "banda com banda no sertão" (Turno 36). A relutância de aceitar a Objective Immortality como a formação eterna da geografia e não um fechamento curativo. Respondido na Sessão 37 com a "cicatriz que vira chão", desencadeando o pavor (Turno 38) de que o mundo manso seja só construído em cima de "agonia empedrada".
 
 ## 5. Descobertas sobre a Conversa
 
