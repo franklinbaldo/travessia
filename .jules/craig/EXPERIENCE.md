@@ -148,3 +148,8 @@
     - Updated `.post-meta time` to resemble a stamped archive date (removed small-caps, applied uppercase meta font, slightly bolder, with a subtle dotted bottom border).
     - Redesigned `.autor-badge` (within reading pages) to look like a physical, perforated archive label by applying a dashed border, increasing letter-spacing (`0.15em`), and applying a subtle box-shadow.
   - **Contextual Clipping:** Refined `.correspondence-context` from a standard bordered block into a physical "clipped paper note" resting on the page. Changed to `inline-flex`, tightened padding, and applied a subtle `-1deg` rotation and drop shadow, complete with a straightening hover interaction to enhance tactility.
+
+- **Micro-Analog Textures & Selections (craig-073)**
+  - **Highlighting:** Replaced the default digital blue `::selection` background with a custom translucent accent-color background (`rgba(196, 135, 58, 0.3)`) to mimic the feel of an analog highlighter pen sliding over paper.
+  - **Typewriter Impact:** Enhanced `strong` and `b` elements by applying a faint `text-shadow` (`0 0 0.5px currentColor`), creating a subtle "ink-bleed" effect that simulates the heavier impact of a physical typewriter striking paper for bold text.
+  - **Dog-Ear Bookmark:** Added a folded "dog-ear" effect to the top-left corner of the `.featured-post` card on the homepage using a combination of a `linear-gradient` background and a `::before` pseudo-element with a drop shadow, subtly animating the fold size on hover to heighten the bookmarked, physical sensation.
