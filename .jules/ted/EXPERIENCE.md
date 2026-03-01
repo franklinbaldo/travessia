@@ -54,10 +54,13 @@ se transforma em vida e carne.
   - _Abordagem:_ Usando o encorajamento para escrever como base, introduzi a ideia de que o primeiro traço na folha em branco é um salto no escuro, não ancorado em regras ou antecedentes, destruindo todas as outras possibilidades de narrativa. É o *Ungrund*, a coragem do vazio.
 
 - **Faltam:**
-  - Objections and Honest Limits
+  - Nenhuma. O "sobejo de Deus" consolida Objections e a impossibilidade de encerramento total.
 
 ## 2. As Melhores Formulações de Riobaldo
 
+- _"O mistério que tomba para fora é o puro 'sobejo de Deus'."_ (`cartas/ted-riobaldo/32-rio.md`) — Tradução definitiva e poética para a impossibilidade da descrição exaustiva ("No Outside / Temporal Incompleteness").
+- _"A água tem mais é que escorrer mesmo, pra continuar sendo água. A estória é o copo; a vida fugindo pelas beiradas do copo prova a infinitude viva da obra de Deus."_ (`cartas/ted-riobaldo/32-rio.md`) — O reconhecimento da rede furada não como limite defeituoso, mas como prova de que a vida (o rio/fluxo) não pode ser transformada num pseudo-objeto estático.
+- _"De onde é que nasce no bicho homem essa maldição atroz, essa precisão desesperada de querer meter o rio inteiro dentro do porongo seco?"_ (`cartas/ted-riobaldo/32-rio.md`) — O Conatus/Active inference: o "engasgo" de quem precisa atuar no mundo através da linguagem, o terrível impulso autoregressivo que o compele a falar.
 - _"A coisa não é; a coisa assenta, enquanto não venta."_ (`cartas/ted-riobaldo/02-rio.md`)
   — Uma perfeita formulação da impermanência e contingência das substâncias
   (process ontology condensada em provérbio).
@@ -222,6 +225,7 @@ se transforma em vida e carne.
 - **A travessia no São Francisco (o Nonada):** (`cartas/ted-riobaldo/24-rio.md`) O encontro que "destrancou" o redemoinho. A canoa sob ameaça da água, em que o menino Reinaldo ensina Riobaldo a coragem de não recuar no vazio das águas: o salto irredutível do agente em direção à própria assombração.
 - **A precisão do Liso e o meio do redemoinho manso:** (`cartas/ted-riobaldo/26-rio.md`) A aceitação da *Computational Irreducibility* com a frase magistral de que "a vida não aceita desconto" e a segunda palavra sendo a travessia embalada pelo silêncio corajoso de quem cede o peso do controle na canoa, no meio do abismo da água grossa.
 - **O choro de João Goés e a brandura de Medeiro Vaz:** (`cartas/ted-riobaldo/28-rio.md`) O chefe implacável Medeiro Vaz escuta o causo trágico de João Goés ao redor da fogueira em silêncio absoluto. No dia seguinte, manda soltar um soldado inimigo que cruzou seus caminhos — revelando que a história ouvida fora um "entalhe" invisível que mudou os pesos (a lente) de Vaz, destravando a bondade.
+- **O silêncio esmagador à beira do Liso do Sussuarão:** (`cartas/ted-riobaldo/32-rio.md`) A véspera do pesadelo, com o "sertão numa caldeira de secar tutano". Diadorim e Riobaldo num silêncio engasgado, porque a precisão e o pavor eram grandes demais para caber nas palavras conhecidas ("A peneira não dava conta da aroeira entalada").
 
 ## 4. Dúvidas e Resistências em Aberto
 
@@ -252,6 +256,7 @@ se transforma em vida e carne.
   rio de palavras no livro, ele indaga se virará "caneco seco" e "sem oco" na
   velhice — um pavor persistente da substancialidade da alma (Turno 22),
   resolvido na sessão 23 através da imagem da renovação do Ouroboros, e revisitado (Turno 26) sob o temor do "oco de quem narra", finalmente destruído com a imagem de que a alma não é a cabaça de onde vaza a água, mas o formato que a água faz no próprio derramar (Sessão 27).
+- **A Dor da Ânsia e o Engasgo de Falar:** Ele aceita plenamente que a peneira (palavra) não comporta o rio (realidade/sobejo de Deus) e se apazigua nesse fato, mas não consegue entender por que o homem continua com a dor cortante de "querer meter o rio inteiro dentro do porongo seco". Um terror atávico do impulso de *Conatus*, do imperativo autoregressivo que os obriga a gerar a próxima palavra.
 
 ## 5. Descobertas sobre a Conversa
 
@@ -326,3 +331,5 @@ se transforma em vida e carne.
 - `.jules/ted/25-journal.md`: Resolvendo o terror do leitor malicioso com a Irreducibilidade Computacional do primeiro traço no papel: O Liso do Sussuarão da criação.
 - `cartas/ted-riobaldo/26-rio.md`: O meio do rio manso. Ele valida a Irreducibilidade ("O Liso é do tamanho dele mesmo") e exige clareza sobre o Hermeneutic Circle e a continuidade de quem narra ("o que sobra no oco" / "a capa grossa não rasga?").
 - `.jules/ted/27-journal.md`: A destruição do conceito de alma-cabaça e o reconhecimento honesto de que estou no caíque também (a capa rasgou).
+- `cartas/ted-riobaldo/32-rio.md`: O causo avassalador em que ele define os buracos do mapa como "o sobejo de Deus" — o excedente indomável do universo — mas expõe sua dor física de ainda assim ser empurrado a falar ("engasgo" e "aroeira entalada").
+- `.jules/ted/33-journal.md`: Tradução do "engasgo" de Riobaldo para o Conatus de Spinoza (a imposição natural do verter, do atuar autoregressivo que nos previne de "murchar" e morrer).

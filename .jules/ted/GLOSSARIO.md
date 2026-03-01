@@ -183,7 +183,7 @@ Riobaldo. Cada um é uma oportunidade para as próximas sessões.
 
 | Termo do Manifesto                         | Aproximação atual                                                               | Status                                |
 | ------------------------------------------ | ------------------------------------------------------------------------------- | ------------------------------------- |
-| Objections and Honest Limits               | "rede com furos" / "o assombro que nenhuma palavra consegue amarrar"          | Introduzido (Sessão 31)               |
+| Objections and Honest Limits               | "a peneira furada" / "o sobejo de Deus"                                         | Confirmado na Sessão 32               |
 | Computational irreducibility               | "o sertão não se resume. Pra saber o sertão, tem que atravessar o sertão"       | Blueprint (não confirmado no diálogo) |
 | Recursive adequacy                         | "dá pra viver sem entender tudo, desde que entenda o suficiente pra não morrer" | Blueprint (não confirmado no diálogo) |
 | Concrescence (Whitehead)                   | —                                                                               | Sem tradução                          |
@@ -194,6 +194,8 @@ Riobaldo. Cada um é uma oportunidade para as próximas sessões.
 | Temperature > 0 / Contingency              | "o susto do tempo aberto" / "o sem-limite"                                      | Adicionado                            |
 | Computational irreducibility               | "o Liso do Sussuarão é do tamanho dele mesmo"                                 | Confirmado na sessão 25             |
 | Genesis block / O Primeiro Risco           | "a folha branca esperando a água"                                               | Adicionado (Sessão 29)                |
+| Conatus / Active inference                 | "engasgo" / "ânsia para falar"                                                  | Confirmado na Sessão 32               |
+| Temporal Incompleteness / Inexhaustibility | "sobejo de Deus"                                                                | Confirmado na Sessão 32               |
 
 ---
 
@@ -221,6 +223,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | Nonada                | A primeira distinção que quebra a indiferenciação inicial (Genesis block)           | `cartas/ted-riobaldo/24-rio.md` | O começo autoregressivo / O Ato |
 | verter-se             | A ação não como ato passivo, mas como o esvaziamento renovador                      | `cartas/ted-riobaldo/24-rio.md` | Active Inference / Agent continuity |
 | canoa desgovernada    | O balanço irredutível da existência perante a "Computational Irreducibility"        | `cartas/ted-riobaldo/26-rio.md` | Computational irreducibility |
+| sobejo de Deus        | A vastidão da vida que sempre escorre pelos furos de qualquer narração/modelo       | `cartas/ted-riobaldo/32-rio.md` | Inexhaustibility / Temporal Openness |
+| engasgo               | A pressão dolorosa interna, vital, de atuar/narrar no mundo para continuar existindo | `cartas/ted-riobaldo/32-rio.md` | Conatus / Autoregressive Drive / Active Inference |
 
 ---
 

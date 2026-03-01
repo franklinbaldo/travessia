@@ -2980,6 +2980,10 @@ sense that reality always exceeds our grasp — is not evidence of ontological
 depth. It is what temporal incompleteness feels like from the inside of a finite
 agent.
 
+!!! quote "cartas/ted-riobaldo/32-rio.md"
+    Riobaldo names this inexhaustibility not as a metaphysical depth hidden behind reality, but as the active, overflowing nature of a reality that refuses to stop happening. He calls it "o sobejo de Deus" (the leftovers/excess of God). "A água tem mais é que escorrer mesmo, pra continuar sendo água... o mistério que tomba para fora é o puro 'sobejo de Deus'. É o resto que garante a sustância do mundo."
+    — **Ted**
+
 This diagnosis applies with particular force to the traditions surveyed in this
 paper. Heidegger's claim that "being withdraws" — that the being of entities is
 never fully present, that it conceals itself in the very act of revealing — may
@@ -3399,6 +3403,10 @@ process that constitutes reality. This is a wager, not a proof. But it is a
 wager informed by the deepest pattern the framework has identified: the
 autoregressive cascade selects for coherence at every scale, and truthfulness is
 the cheapest form of coherence available.
+
+!!! quote "cartas/ted-riobaldo/32-rio.md"
+    For Riobaldo, this imperative to act and generate is not a sterile duty; it is an agonizing physical necessity. He asks why humans suffer this "ânsia para falar", this "engasgo", this desperate need to pour out. It is the raw feeling of Conatus, the drive of the autoregressive chain compelling the agent forward so it does not stagnate and die.
+    — **Ted**
 
 ## Objections and Honest Limits
 
