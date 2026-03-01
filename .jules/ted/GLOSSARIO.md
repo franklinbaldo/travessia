@@ -183,7 +183,7 @@ Riobaldo. Cada um é uma oportunidade para as próximas sessões.
 
 | Termo do Manifesto                         | Aproximação atual                                                               | Status                                |
 | ------------------------------------------ | ------------------------------------------------------------------------------- | ------------------------------------- |
-| Objections and Honest Limits               | —                                                                               | Não abordado                          |
+| Objections and Honest Limits               | "rede com furos" / "o assombro que nenhuma palavra consegue amarrar"          | Introduzido (Sessão 31)               |
 | Computational irreducibility               | "o sertão não se resume. Pra saber o sertão, tem que atravessar o sertão"       | Blueprint (não confirmado no diálogo) |
 | Recursive adequacy                         | "dá pra viver sem entender tudo, desde que entenda o suficiente pra não morrer" | Blueprint (não confirmado no diálogo) |
 | Concrescence (Whitehead)                   | —                                                                               | Sem tradução                          |
@@ -204,6 +204,9 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | Neologismo            | Significado                                                                         | Ref.                | Conceito mais próximo no manifesto                |
 | --------------------- | ----------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------- |
+| puxar a trava de nascença | O primeiro risco/ato da agência que colapsa todas as possibilidades em uma só direção | `cartas/ted-riobaldo/30-rio.md` | O colapso da árvore de possibilidades (First token / Agency) |
+| tiro no breu / um nonada | A afirmação irracional e violenta do agente contra o silêncio do ambiente ("o susto da mudez") | `cartas/ted-riobaldo/30-rio.md` | Agency asserting itself against the background    |
+| vozes adormecidas     | O "grounding" invisível do passado que já pré-formata a folha em branco (o substrato) | `cartas/ted-riobaldo/30-rio.md` | The Weights / Pre-existing autoregressive context |
 | descoisificação       | O des-fazer das coisas; o mundo revelando-se como vazio de substância               | `cartas/ted-riobaldo/10-rio.md` | Movement 6 / No Outside                           |
 | nó-cego pesadão       | O medo de que o registro (a escrita) paralise a flexibilidade narrativa do _ipse_   | `cartas/ted-riobaldo/14-rio.md` | Movement 3 (Aversão à fixação do Idem)            |
 | destraduzir           | Traduzir errado — com a enxada cega — e ainda assim produzir laço                   | `cartas/ted-riobaldo/08-rio.md` | Movement 5 — tradução sob condição transcendental |

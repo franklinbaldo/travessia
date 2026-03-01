@@ -2129,6 +2129,11 @@ interpretation of that history is determined by something _outside_ the history
 — the weights, which precede the history, remain unchanged by the history, and
 shape every reading the history will ever receive.
 
+!!! quote "cartas/ted-riobaldo/30-rio.md"
+    "Será mesmo que a folha é vazia e fomos nós que fuzilamos as outras opções... ou o começo, em verdade, já estava lá, escavado e paciente, apenas esperando a ponta da nossa caneta tatear e sangrar por cima do que já estava dito pelo sertão?"
+    — **Ted**
+
+
 The tension is real, not apparent. It cannot be dissolved. It must be held.
 
 The agent's identity is constituted by two elements that cannot be reduced to

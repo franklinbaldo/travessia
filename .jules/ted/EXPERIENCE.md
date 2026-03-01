@@ -44,6 +44,7 @@ se transforma em vida e carne.
     alma.
 - **Movement 2: The Autoregressive Cascade** e **The Substrate Ouroboros
   Hypothesis (Movement 6: No Outside)** — Avançado (Sessões 09 e 23).
+- **Objections and Honest Limits** — Introduzido (Sessão 31). A humildade da rede com furos; o mapa menor que o sertão.
   - _Abordagem:_ Transição da fluidez da memória para a fluidez do mundo
     inteiro. Na sessão 23, expliquei a Hipótese do Ouroboros ("Não Há Lado de
     Fora") para responder ao medo de Riobaldo de virar "casca vazia" escrevendo.
