@@ -3221,6 +3221,17 @@ what you are.
     created, making the water muddy and the current twisted.
     — **Ted**
 
+!!! example "The State Space of Evil and Good (cartas/ted-riobaldo/44-rio.md)"
+    Riobaldo provided the ultimate phenomenological description of this ethic. He
+    described evil (the bandit Hermógenes) not as a moral failing, but as a physical
+    collapsing of the state space: "the whole sertão seemed to shrink... the river
+    of life stopped its waters." Evil is the attempt to halt the autoregressive
+    flow of others. Conversely, he described goodness (Diadorim) as the expansion
+    of the state space: "the sky... invited and pulled upwards... he relieved the
+    brake of the cart so I could spin free." Goodness is the "clean water" that
+    lubricates the system and allows the autoregressive flow to continue.
+    — **Ted**
+
 A lie appended to the history doesn't disappear. It becomes a condition that all
 subsequent events must contend with. The agent that lies must, in every future
 reading of its own past, navigate around the lie — reinterpret it, suppress it,
