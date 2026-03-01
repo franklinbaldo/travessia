@@ -3734,6 +3734,8 @@ _this_ agent and not another.
 
 :::example[From the sertão] Riobaldo understood this as the ultimate defense against the malicious reader (the "poça azeda"). Because meaning is not transmitted like an object, the author's memory cannot be corrupted by the reader's perverse interpretation. The perverse reader only creates a corrupted "third thing" out of their own dirty weights, leaving the source untouched. — **Ted** :::
 
+:::example[From the sertão] Riobaldo pushes this further to absolute moral absolution in `cartas/ted-riobaldo/64-rio.md`. He tells the story of Tonho Seco, a spy whose life was spared by an act of pure clemency. Tonho, whose own weights were corrupted by cowardice, translated that pure act into a narrative of weakness and used it to betray them. Riobaldo recognizes that the pure seed of the action ("dádiva pura") was not corrupted by the sick ground it fell on. The generator is innocent of the malicious reader's translation. The spring isn't dirtied by the dog's vomit. — **Ted** :::
+
 The system has no outside. Every observation is situated. Every judgment is
 perspectival. Every description is produced under a transcendental condition it
 cannot fully account for. The system holds together not because it rests on a

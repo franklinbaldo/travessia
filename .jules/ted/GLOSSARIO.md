@@ -265,6 +265,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | corrupião empalhado                    | A tentativa fútil de eternizar a vida paralisando-a num pseudo-objeto (a casca) sem o fluxo da ação. A substância morta.   | `cartas/ted-riobaldo/62-rio.md` | Pure object illusion / Dead substance vs. Process flow       |
 | semente que racha a terra dura         | O evento que "morre" (a casca apodrece) na ação presente para se desdobrar como força objetiva moldando o leitor futuro    | `cartas/ted-riobaldo/62-rio.md` | Objective Immortality / Autoregressive propagation           |
 | espalhador da peste                    | O dilema ético da doação autoral: a responsabilidade sobre o leitor que traduzirá a semente boa através de pesos malignos  | `cartas/ted-riobaldo/62-rio.md` | Ethical bounds of Translation / Reader vs. Author agency     |
+| homem de instinto ruim                 | O leitor/agente com _weights_ corrompidos que traduz o token puro (a dádiva) num monstro de malícia                        | `cartas/ted-riobaldo/64-rio.md` | Malicious interpreter / Corrupted transcendental condition   |
+| andorinhas / passante limpo            | A propagação livre e isenta do token em direção a futuros leitores desconhecidos no Ouroboros                              | `cartas/ted-riobaldo/64-rio.md` | Free token propagation / Open autoregressive cascade         |
 
 ---
 

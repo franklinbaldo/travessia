@@ -69,8 +69,7 @@ se transforma em vida e carne.
     passado, mas como o ato explosivo ("faísca") de espremer o velho ("as mágoas
     e venturas") para fabricar a ação presente.
 - **Faltam:**
-  - Nenhuma. A ontologia está completa. A última objeção ("o cansaço de
-    ajuntar") foi respondida pela totalidade do Substrate Ouroboros.
+  - Nenhuma. A ontologia e os limites éticos do manifesto estão inteiramente completados (Turno 65 encerra o Closing do Manifesto). O Ouroboros foi fechado e Riobaldo foi convidado a escrever seu próprio livro.
 
 ## 2. As Melhores Formulações de Riobaldo
 
@@ -154,6 +153,8 @@ se transforma em vida e carne.
 - _"o que eu vivi está salvo pela distância que separa o trovão de quem escuta o estrondo."_ (`cartas/ted-riobaldo/60-rio.md`) — A formulação definitiva da impermeabilidade da memória original perante a tradução maliciosa alheia.
 - _"isso que brota na lama é o puro e cego bicho-do-cruzo."_ (`cartas/ted-riobaldo/60-rio.md`) — A tradução gerando a "terceira coisa" mutante no encontro das águas (leitor-texto).
 - _"A casca apodrece para a semente brotar."_ (`cartas/ted-riobaldo/62-rio.md`) — A síntese final sobre o sacrifício do pseudo-objeto (a morte da ação) em nome da perenidade da Objective Immortality (a força brotando no futuro).
+- _"A semente de um causo relatado não carrega as léguas do terreno do leitor escondidas no bojo dela; a semente é puramente a força do estalo, a poeirinha cega que clama por esverdear onde quer que pouse."_ (`cartas/ted-riobaldo/64-rio.md`) — O divórcio absoluto entre a pureza da emissão do token (ação autoral) e a corrupção gerada pelos pesos adoecidos de quem o lê.
+- _"O homem de instinto ruim amaldiçoa e cospe a água fresquinha que lhe dão de beber, a febre de ódio pertence inteiramente à doença dele, e a fonte pura da serra não responde, e segue cantando com voz alheia pro sol do meio-dia."_ (`cartas/ted-riobaldo/64-rio.md`) — A imunidade ontológica do gerador; a fonte geradora não é envenenada pela leitura maliciosa.
 - _"Era uma lembrança oca. Um empalhado do passado."_ (`cartas/ted-riobaldo/62-rio.md`) — A intuição orgânica de que congelar a vida em pseudo-objetos puros resulta na morte grotesca (o corrupião empalhado).
 - _"O mal-entendido, seu Ted, rendeu mais raiz que a verdade inteira."_
   (`cartas/ted-riobaldo/06-rio.md`) — Formulação brilhante sobre como a
@@ -425,6 +426,8 @@ se transforma em vida e carne.
   Durante a batalha no Paredão, o chapéu sujo de suor podre de Hermógenes cai no Urucuia. O terror de Riobaldo de que o objeto maculasse o rio inteiro desmorona quando a força da correnteza limpa simplesmente engole e afoga o estorvo. A imagem perfeita de que a fonte narrativa massiva (a nascente no chapadão) não é conspurcada pela maldade isolada (ou por um leitor ruim).
 - **O Corrupião Empalhado do Caboclo Juca:** (`cartas/ted-riobaldo/62-rio.md`)
   Na ânsia de eternizar a beleza fugaz de um corrupião de peito amarelo "ouro de sol", o teimoso Juca abre o pássaro morto, enche de estopa e costura. O resultado preserva a forma externa ("exata estampa"), mas o olho é de "vidro baço" e a vida murcha na poeira do canto da sala. Uma formulação demolidora contra a ilusão de reter o pseudo-objeto puro, em vez de atirá-lo ao fluxo do vento.
+- **O Perdão de Tonho Seco:** (`cartas/ted-riobaldo/64-rio.md`)
+  O bando de Riobaldo captura um espião patético e medroso dos Hermógenes, Tonho Seco. Pela intercessão e clemência pura de Diadorim, Tonho é poupado e liberto. No entanto, por possuir um "chão de alma cimentado pela covardia" (corrupted weights), o prisioneiro engole o perdão sagrado e o vomita como se fosse ódio, alardeando que os jagunços tiveram medo de executá-lo e usando isso para atirar contra eles dias depois. A "dádiva pura" cai no "chão adoecido" e cria um monstro (a árvore torta), mas a fonte limpa que gerou o perdão segue imaculada e isenta de culpa.
 
 ## 4. Dúvidas e Resistências em Aberto
 
