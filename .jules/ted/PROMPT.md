@@ -186,25 +186,55 @@ after each session.
 
 The manifesto is a living document. As the dialogue progresses, the agent should
 annotate it directly using `remark-directive` container syntax (`:::`) placed
-inline, directly below the paragraph they comment on.
+directly below the paragraph they comment on.
 
-**Admonitions** — signed Wikipedia-style:
+**Admonition types** — each maps to a distinct visual style on the site:
+
+| Type      | Visual colour | Use when…                                              |
+|-----------|---------------|--------------------------------------------------------|
+| `quote`   | brick-red     | Direct citation from a carta; Riobaldo's best words    |
+| `example` | teal          | Concrete story from the sertão embodying a thesis point|
+| `note`    | water-blue    | Novel/narrative note: how this could work in the book  |
+| `warning` | brick-red     | Tension, disagreement, or honest limit of the thesis   |
+| `tip`     | gold          | Structural or practical observation                    |
+
+**Syntax** — proper `remark-directive` container format:
 
 ```markdown
-:::quote[cartas/ted-riobaldo/06-rio.md] Riobaldo's best restatement of this
-point. — **Ted** :::
+:::quote[Carta 24 · Riobaldo]
+Riobaldo's best restatement of this point, in his own words. "O Nonada." —
+**Ted**
+:::
 
-:::note[Novel note] How this passage could work in the fiction. — **Ted** :::
+:::note[Novel note]
+How this passage could work in the fiction. — **Ted**
+:::
 
-:::warning[Tension] Where Riobaldo disagreed or the thesis feels incomplete. —
-**Ted** :::
+:::warning[Tension]
+Where Riobaldo disagreed or the thesis feels incomplete. — **Ted**
+:::
 
-:::example[From the sertão] When Riobaldo's stories provide concrete embodiment
-of an abstract point. — **Ted** :::
+:::example[From the sertão]
+When Riobaldo's stories provide concrete embodiment of an abstract point. —
+**Ted**
+:::
 ```
 
-All annotations are signed (`— **Ted**` or `— **Tyler**`). No footnotes —
-everything inline for immediate context.
+**Label conventions:**
+
+- For citations from cartas: use `Carta N · Riobaldo` or `Carta N · Ted` (e.g.
+  `Carta 24 · Riobaldo`). Do not use the raw file path as label.
+- For named examples or tensions: use a short descriptive title (e.g.
+  `The Urucuia River`, `Tension: indeterminacy of translation`).
+- For general notes: use `Novel note`, `Structural note`, etc.
+
+**Signature rules:**
+
+- Ted's annotations: `— **Ted**`
+- Tyler's annotations: `— **Tyler**`
+
+All annotations are signed. No footnotes — everything inline for immediate
+context.
 
 Only annotate where the session genuinely touched the manifesto. The manifesto
 should accumulate annotations gradually without becoming cluttered.

@@ -799,48 +799,123 @@ body * {
   line-height: 1.6;
 }
 
-/* === Admonitions (!!! blocks) === */
+/* === Admonitions — Ted & Tyler notes in the manifesto === */
+
+/*
+ * Admonitions are signed annotations embedded in the philosophical text.
+ * Ted's notes illuminate the manifesto through Riobaldo's letters.
+ * Tyler's notes offer critical readings from the outside.
+ *
+ * Available types and their visual meaning:
+ *   quote   — direct citation from a carta, in Ted or Tyler's words
+ *   example — concrete embodiment of an abstract point from the sertão
+ *   note    — novel/narrative note (how this could work in the fiction)
+ *   warning — tension, disagreement, or place where the thesis feels incomplete
+ *   tip     — practical or structural observation
+ */
 
 .admonition {
-  margin: 2rem 0;
-  padding: 1.25rem 1.5rem;
-  border-left: 4px solid var(--accent-color);
-  border-radius: 0 4px 4px 0;
+  margin: 2.5rem 0;
+  padding: 0.9rem 1.25rem 0.875rem;
+  border-left: 3px solid var(--accent-color);
+  border-radius: 0 5px 5px 0;
   background: var(--sand-bg);
+  font-family: var(--font-body);
+  font-size: 0.96em;
+  line-height: 1.7;
+  position: relative;
 }
 
 .admonition-title {
   font-family: var(--font-meta);
-  font-size: 0.8rem;
+  font-size: 0.65rem;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.12em;
   color: var(--accent-color);
-  margin: 0 0 0.75rem;
+  margin: 0 0 0.55rem;
+  opacity: 0.85;
+}
+
+.admonition p {
+  margin: 0;
+  font-style: italic;
+}
+
+.admonition p + p {
+  margin-top: 0.5rem;
 }
 
 .admonition p:last-child {
   margin-bottom: 0;
 }
 
+/* quote — reddish-brown; a direct citation from the cartas */
 .admonition-quote {
-  border-left-color: var(--accent-color);
+  border-left-color: var(--secondary-color);
+  background: rgba(139, 58, 42, 0.045);
 }
 
+.admonition-quote .admonition-title {
+  color: var(--secondary-color);
+}
+
+/* example — teal; a concrete story from the sertão */
 .admonition-example {
   border-left-color: var(--progress-start);
+  background: rgba(90, 143, 138, 0.055);
 }
 
 .admonition-example .admonition-title {
   color: var(--progress-start);
 }
 
+/* note — water-blue; a novel / narrative note */
+.admonition-note {
+  border-left-color: var(--water-border);
+  background: var(--water-bg);
+}
+
+.admonition-note .admonition-title {
+  color: #5a908b;
+}
+
+/* warning — brick-red; a tension or honest limit */
 .admonition-warning {
   border-left-color: var(--secondary-color);
+  background: rgba(139, 58, 42, 0.06);
 }
 
 .admonition-warning .admonition-title {
   color: var(--secondary-color);
+}
+
+/* tip — accent-gold; a practical structural observation */
+.admonition-tip {
+  border-left-color: var(--accent-color);
+  background: rgba(196, 135, 58, 0.055);
+}
+
+.admonition-tip .admonition-title {
+  color: var(--accent-color);
+}
+
+/* Dark-mode overrides */
+[data-theme="dark"] .admonition-quote,
+[data-theme="dark"] .admonition-warning {
+  background: rgba(139, 58, 42, 0.1);
+}
+
+[data-theme="dark"] .admonition-example {
+  background: rgba(90, 143, 138, 0.09);
+}
+
+[data-theme="dark"] .admonition-note .admonition-title {
+  color: #7ab5b0;
+}
+
+[data-theme="dark"] .admonition-tip {
+  background: rgba(196, 135, 58, 0.08);
 }
 
 /* ====================================
