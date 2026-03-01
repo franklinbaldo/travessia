@@ -25,38 +25,4 @@ const { Content } = await render(entry);
   </article>
 
   <FooterNav backUrl={base} backLabel="Início" />
-
-  <!-- Admonition transform: Astro 5 Content Layer doesn't apply rehype plugins
-       to glob-loaded collections, so this runs client-side as a bundled script. -->
-  <script>
-    const ADMONITION_RE = /^!!!\s+(\w+)\s+"([^"]+)"\s*$/;
-
-    document.querySelectorAll('.docs-body p').forEach((p) => {
-      const text = p.textContent || '';
-      const firstLine = text.split('\n')[0];
-      const match = firstLine.match(ADMONITION_RE);
-      if (!match) return;
-
-      const type = match[1].toLowerCase();
-      const title = match[2];
-
-      const div = document.createElement('div');
-      div.className = `admonition admonition-${type}`;
-
-      const titleP = document.createElement('p');
-      titleP.className = 'admonition-title';
-      titleP.textContent = title;
-      div.appendChild(titleP);
-
-      const fullHtml = p.innerHTML;
-      const lineBreak = fullHtml.indexOf('\n');
-      if (lineBreak >= 0) {
-        const bodyP = document.createElement('p');
-        bodyP.innerHTML = fullHtml.slice(lineBreak + 1).trim();
-        div.appendChild(bodyP);
-      }
-
-      p.replaceWith(div);
-    });
-  </script>
 </Layout>

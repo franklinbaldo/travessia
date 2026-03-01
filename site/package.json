@@ -11,6 +11,7 @@
   "dependencies": {
     "@fontsource/cormorant-garamond": "^5.2.11",
     "@fontsource/inter": "^5.2.8",
-    "astro": "^5.17.1"
+    "astro": "^5.17.1",
+    "remark-directive": "^4.0.0"
   }
 }

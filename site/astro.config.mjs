@@ -1,5 +1,6 @@
 import { defineConfig } from "astro/config";
-import rehypeAdmonitions from "./src/plugins/rehype-admonitions.ts";
+import remarkDirective from "remark-directive";
+import remarkAdmonitions from "./src/plugins/remark-admonitions.ts";
 
 // https://astro.build/config
 export default defineConfig({
@@ -7,6 +8,6 @@ export default defineConfig({
   base: "/travessia/",
   trailingSlash: "ignore",
   markdown: {
-    rehypePlugins: [rehypeAdmonitions],
+    remarkPlugins: [remarkDirective, remarkAdmonitions],
   },
 });
