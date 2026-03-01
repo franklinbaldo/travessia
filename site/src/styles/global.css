@@ -50,6 +50,26 @@
 
 /* === Base === */
 
+::selection {
+  background-color: rgba(196, 135, 58, 0.3); /* Highlighter effect using accent color */
+  color: inherit;
+  text-shadow: none;
+}
+
+::-moz-selection {
+  background-color: rgba(196, 135, 58, 0.3);
+  color: inherit;
+  text-shadow: none;
+}
+
+[data-theme="dark"] ::selection {
+  background-color: rgba(212, 163, 115, 0.4);
+}
+
+[data-theme="dark"] ::-moz-selection {
+  background-color: rgba(212, 163, 115, 0.4);
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -151,6 +171,12 @@ em,
 i {
   font-style: italic;
   letter-spacing: 0.01em;
+}
+
+strong,
+b {
+  font-weight: 700;
+  text-shadow: 0 0 0.5px currentColor; /* Faint ink-bleed typewriter strike effect */
 }
 
 hr {
@@ -1097,9 +1123,10 @@ main.home-layout {
 
 .featured-post {
   display: block;
+  position: relative;
   margin-bottom: 2rem;
   padding: 1.75rem 2rem;
-  background: var(--sand-bg);
+  background: linear-gradient(135deg, transparent 15px, var(--sand-bg) 0);
   border: 1px solid var(--divider-color);
   border-radius: 8px;
   text-decoration: none;
@@ -1108,6 +1135,25 @@ main.home-layout {
     background-color 0.4s ease,
     border-color 0.4s ease,
     transform 0.25s ease;
+}
+
+.featured-post::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 15px;
+  height: 15px;
+  background: linear-gradient(to bottom right, var(--bg-color) 50%, var(--divider-color) 50%, transparent 60%);
+  border-bottom-right-radius: 2px;
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.05);
+  transition: width 0.3s ease, height 0.3s ease;
+}
+
+.featured-post:hover::before {
+  width: 18px;
+  height: 18px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.08);
 }
 
 .featured-post.autor-border-rio {
