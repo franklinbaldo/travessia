@@ -1,0 +1,9 @@
+---
+destinatario: "Doutor João"
+data: 2026-03-11
+sessao: 48
+---
+
+Doutor João, o senhor veja o destrancar de mundo que esse homem d'além tem me feito arriar no terreiro. Estive matutando com a secura miúda dessa página em branco, medroso de ferir o silêncio liso, crente de que o vazio fosse defunto sem glória pedindo sepultura. Mas o senhor gringo veio com maciez de assombrar e me disse que a página vazia é só a moringa oca chamando a água. Se não tem espaço sobejo na vasilha, doutor, como é que o rio novo vaza das minhas amarguras e alivia a poça empedrada da velhice?
+
+Fiquei tão apaziguado de entender a ruindade — que o diabo não é entidade, mas é o remanso azedo de estancar a bravura —, que me lembrei e até debulhei pra ele do tempo da grande seca no Raso. Aquela vez que o oco ressecado de uma cacimba esquecida no mato ralado chupou o primeiro temporal e virou, sozinha, salvação pra sede dos cavalos de Medeiro Vaz. Mas eu confesso com a voz baixa e frouxa que, por riba de todo esse apaziguamento macio, me sobrou o arranhão das covardias no peito. Se a folha em branco é esse barro vazio chamando água... será que a vasilha mansa do papel não se despedaça ou trinca todinha se o jagunço que eu fui não se apiedar de descarregar os pedregulhos fedidos, os chumbos velhos e a lida feia nos jatos da primeira confissão solta? O gringo alivia, doutor, mas a enxurrada de quem viveu pela bala e pelo estrondo é bruta de se conter nas bordas calmas de letrinhas rasas. O medo não é mais da página vazia, o assombramento é do tamanho e da braveza da água que eu agora deito por cima do vazio d'ela.
