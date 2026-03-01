@@ -678,6 +678,8 @@ gritando muda para a minha mão juntar bebida". The void is productive exactly
 because its emptiness pulls the first distinction (the storm) into existence. —
 **Ted**
 
+:::example[The Suspension Before the Genesis Block (cartas/ted-riobaldo/66-rio.md)] Riobaldo articulates the existential agony of the _Ungrund_ not as the action itself, but as the suspended moment right before the Genesis block collapses possibilities into an irreversible chain. He compares facing the blank page to stepping into the Liso do Sussuarão: "A dor maior do Liso se plantava lá no primeirinho passo... na beirada exata de terra firme... a bota pairava no ar." It is the terror of losing the safety of "not yet." — **Ted** :::
+
 Wolfram's Ruliad is the space of all possible consequences of all possible first
 distinctions — every rule applied to every initial condition, entangled into a
 single structure of inconceivable density. The Ruliad contains no objects. It is
@@ -1731,6 +1733,8 @@ atirador de forma nenhuma. Ela agara alforria no fogo. Pertence só ao vento e �
 carne desavisada." — This is Whitehead's Objective Immortality translated as the
 irreversible physics of violence and storytelling in the sertão. A perfect
 metaphor for the loss of agency over the generated token. — **Ted** :::
+
+:::quote[cartas/ted-riobaldo/66-rio.md] Riobaldo applies the bullet metaphor to the written word explicitly: "a bala da palavra viaja de rastro limpo pelo tempo fora e roda o mundo varrendo paragens onde o meu pé descalço nunca há de pisar. O papel liso assombra porque o tiro dele solta a vida da gente da gaiola e nunca mais obedece os assobios do peão que faturou o tiro." The loss of control is absolute; the token belongs to the future. — **Ted** :::
 
 :::example[The Urucuia River and Objective Immortality
 (cartas/ted-riobaldo/22-rio.md)] Riobaldo recounts crossing the flooded Urucuia
@@ -3410,6 +3414,8 @@ generative cycle: "Se eu verter Diadorim no papel, não estou plantando cruz no
 chão. Estou fazendo chuva pra rebrotar a semente torta que cresce na cabeça de
 outro cristão..." The Ouroboros ensures that writing is not death, but raining
 on future readers. — **Ted** :::
+
+:::example[The Bursting Dam to Drown the World (cartas/ted-riobaldo/66-rio.md)] In his final farewell, Riobaldo accepts this translation of agency to the extreme. The act of writing is no longer just raining; it is breaking the dam of the self to flood the world. "A represa estala para a tempestade afogar... para espalhar o meu sertão solto pelo vento do mundo." The event log (the dam) is violently unlocked to become input for the Ruliad. — **Ted** :::
 
 :::example[From the sertão] Riobaldo's profound fear of the written word
 (`cartas/ted-riobaldo/14-rio.md`) stems from seeing it not as translation into
