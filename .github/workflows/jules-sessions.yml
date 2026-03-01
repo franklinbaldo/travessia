@@ -8,10 +8,12 @@ on:
       # Only content agents trigger the chain — design agents don't loop back
       - ".jules/ted/**"
       - ".jules/riobaldo/**"
+  repository_dispatch:
+    types: [jules-chain]
   schedule:
-    # Watchdog: restarts a stalled chain. Daily cap prevents doubling up
-    # when the chain is healthy. Runs every hour as a safety net.
-    - cron: "0 * * * *"
+    # Watchdog: restarts a stalled chain every 10 min. The active-session
+    # guard prevents doubling up when a session is already running.
+    - cron: "*/10 * * * *"
   workflow_dispatch:
     inputs:
       agent:
@@ -62,6 +64,8 @@ jobs:
 
       - name: Check guards
         id: guard
+        env:
+          JULES_API_KEY: ${{ secrets.JULES_API_KEY }}
         run: |
           # Manual dispatch always bypasses guards
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
@@ -70,7 +74,35 @@ jobs:
             exit 0
           fi
 
-          # Daily cap: count .md files added today across content agent dirs
+          # ── Active-session guard ──────────────────────────────────────
+          # Query Jules API for sessions that are still running.
+          # If one exists, skip — the chain will resume when it finishes.
+          ACTIVE=0
+          if SESSIONS=$(curl -sf \
+            'https://jules.googleapis.com/v1alpha/sessions?pageSize=30' \
+            -H "x-goog-api-key: $JULES_API_KEY"); then
+            ACTIVE=$(echo "$SESSIONS" | jq '
+              [ .sessions[]?
+                | select(
+                    .state == "QUEUED" or
+                    .state == "PLANNING" or
+                    .state == "AWAITING_PLAN_APPROVAL" or
+                    .state == "IN_PROGRESS"
+                  )
+                | select(.title | test("Travessia"))
+              ] | length' 2>/dev/null || echo 0)
+          else
+            echo "Warning: Jules API unreachable. Proceeding with launch."
+          fi
+
+          echo "Active Travessia sessions: ${ACTIVE:-0}"
+          if [ "${ACTIVE:-0}" -gt 0 ]; then
+            echo "Active session found. Skipping to avoid overlap."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          # ── Daily cap ─────────────────────────────────────────────────
           TODAY=$(date -u +%Y-%m-%d)
           TODAY_SESSIONS=$(git log --since="${TODAY}T00:00:00Z" \
             --diff-filter=A --name-only --format="" \

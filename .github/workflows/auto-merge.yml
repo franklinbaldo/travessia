@@ -28,8 +28,17 @@ jobs:
         continue-on-error: true
 
       - name: Merge PR
+        id: merge
         run:
           gh pr merge ${{ github.event.pull_request.number }} --merge --repo ${{
           github.repository }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Trigger next Jules session
+        if: steps.merge.outcome == 'success'
+        run: |
+          gh api repos/${{ github.repository }}/dispatches \
+            -f event_type=jules-chain
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
