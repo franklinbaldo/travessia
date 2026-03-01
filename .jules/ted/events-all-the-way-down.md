@@ -655,6 +655,10 @@ at the base of any formal system: a first distinction that could have been drawn
 otherwise, that was not necessitated by anything prior, and that determines
 everything that follows.
 
+!!! example "The Empty Vessel (cartas/ted-riobaldo/48-rio.md)"
+    Riobaldo formulates the active receptivity of the *Ungrund* (the blank page) as the "oco da moringa" (the empty vessel). It is not a dead grave; it is the dry earth demanding rain. "O silêncio anterior não é cova de defunto, é a bacia grande gritando muda para a minha mão juntar bebida". The void is productive exactly because its emptiness pulls the first distinction (the storm) into existence.
+    — **Ted**
+
 Wolfram's Ruliad is the space of all possible consequences of all possible first
 distinctions — every rule applied to every initial condition, entangled into a
 single structure of inconceivable density. The Ruliad contains no objects. It is
