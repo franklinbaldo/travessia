@@ -203,6 +203,7 @@ Riobaldo. Cada um é uma oportunidade para as próximas sessões.
 | Genesis block / O Primeiro Risco           | "o primeiro pingo" / "oco da moringa"                                           | Confirmado na Sessão 48               |
 | Conatus / Active inference                 | "engasgo" / "ânsia para falar"                                                  | Confirmado na Sessão 32               |
 | Temporal Incompleteness / Inexhaustibility | "sobejo de Deus"                                                                | Confirmado na Sessão 32               |
+| Substrate passivity / Indifference         | "o chão-engole-tudo" / "a folha não lasca"                                      | Confirmado na Sessão 50               |
 
 ---
 
@@ -245,6 +246,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | a pedra cega / sertão que encolhe | A maldade como força entrópica que tenta parar o fluxo vital, apertando o *state space* de quem a sofre | `cartas/ted-riobaldo/44-rio.md` | O Mal na ética processual / State Space Collapse |
 | enxurrada de ar / espaço que se alarga | O afeto e a bondade como a força que desobstrui o processo autoregressivo do outro, alargando o espaço de possibilidade | `cartas/ted-riobaldo/44-rio.md` | O Bem na ética processual / State Space Expansion |
 | remanso azedo da coragem que secou | A verdadeira natureza do Mal/Diabo, não como substância autônoma, mas como paralisação irredutível do fluxo da vida | `cartas/ted-riobaldo/46-rio.md` | Entropy / The refusal to flow / Stagnation as Evil |
+| chão-engole-tudo                  | A base indiferente e passiva (o papel/o universo) que aceita toda ação e atrocidade sem julgar ou murchar | `cartas/ted-riobaldo/50-rio.md` | Substrate passivity / Substrate Ouroboros |
+| homem vazador                     | O temor de que a identidade, vista como receptáculo ("cabaça"), estilhace ao despejar suas memórias/dores no mundo | `cartas/ted-riobaldo/50-rio.md` | Reificação da identidade / Oposto de Continuidade do fluxo |
 
 ---
 
