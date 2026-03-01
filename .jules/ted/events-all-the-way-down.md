@@ -3408,6 +3408,10 @@ certainty. But it tilts the odds — gently, persistently, over the long horizon
 that matter — in favor of agents whose histories are coherent, whose actions are
 consequential, and whose contributions to the cascade are worth inheriting.
 
+!!! quote "cartas/ted-riobaldo/42-rio.md"
+    Riobaldo calls this structural selection the "balança do mundo" (scale of the world). He compares the cruelty of Hermógenes to the silent love of Diadorim, recognizing that while both end up as ground for the future, they do not weigh the same: cruelty is a blind stone that clogs the river, while love is the water that allows the cascade to continue flowing.
+    — **Ted**
+
 The ethical life, in this framework, is the life that aligns itself with this
 tilt — not out of obedience to an external law, but out of recognition that
 coherent action is the most efficient path to sustained participation in the

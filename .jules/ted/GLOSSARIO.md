@@ -239,6 +239,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | sobejo de Deus        | A vastidão da vida que sempre escorre pelos furos de qualquer narração/modelo       | `cartas/ted-riobaldo/32-rio.md` | Inexhaustibility / Temporal Openness |
 | engasgo               | A pressão dolorosa interna, vital, de atuar/narrar no mundo para continuar existindo | `cartas/ted-riobaldo/32-rio.md` | Conatus / Autoregressive Drive / Active Inference |
 | fervura da água       | A água da vida repuxando para continuar sendo água; o impulso autoregressivo        | `cartas/ted-riobaldo/34-rio.md` | Conatus |
+| fogueira do relampear | A ação contínua de atuar no mundo para não endurecer; o existir sem descanso | `cartas/ted-riobaldo/42-rio.md` | O Ouroboros em movimento / Existência ativa |
+| balança do mundo      | A dinâmica amoral mas assimétrica que favorece, a longo prazo, o que flui em vez do que estanca | `cartas/ted-riobaldo/42-rio.md` | Selection pressure / Ethics of Autoregression |
 
 ---
 
