@@ -176,6 +176,8 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 | -------------------------------------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | "A falação é a canga que prende o boi no carroceiro."                            | `cartas/ted-riobaldo/76-rio.md` | O ato de narrar não é um alívio leve, mas a canga (a estrutura pesada) que assegura a vivência do presente  |
 | "A narração é a cordinha que me segura na beirada da minha própria existência."  | `cartas/ted-riobaldo/10-rio.md` | A identidade depende de ser narrada — o silêncio é dissolução                                               |
+| "O silêncio de depois é o silêncio em que a cicatriz lateja."                    | `cartas/ted-riobaldo/78-rio.md` | O resíduo pós-narrativo (pós-leitura) não é um silêncio vazio, é a vibração da alteração fundacional do ser |
+| A marca da bota no areão que não desmancha no fundo                              | `cartas/ted-riobaldo/78-rio.md` | O universo recolhe fisicamente a nossa ação como imortalidade objetiva, por baixo do esquecimento temporal  |
 | mentira como pedra no leito do rio                                               | (sessão 11, Ted)                | A mentira não é pecado — é obstáculo geológico permanente no fluxo narrativo                                |
 | "O silêncio não era oca falta de som; era um silêncio pesado, graúdo, zumbidor." | `cartas/ted-riobaldo/10-rio.md` | O silêncio ativo — a ausência de narração como presença ameaçadora                                          |
 | "represa de poça choca"                                                          | `cartas/ted-riobaldo/12-rio.md` | A mentira contada não some no rio, ela o entrava; a estagnação narrativa                                    |
@@ -281,6 +283,9 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | voçoroca / rasgo medonho               | A estrutura coerciva moldada pela tragédia passada que canaliza irreversivelmente a interpretação futura de quem vem depois                | `cartas/ted-riobaldo/72-rio.md` | Event log as coercive channel / Objective Immortality      |
 | cicatriz de livro                      | A obra literária percebida não como objeto inerte, mas como o molde deixado pela dor que reage à tempestade emocional do leitor futuro     | `cartas/ted-riobaldo/72-rio.md` | Substrate activation / Translation as qualitative resonance |
 | armadilha escavada no lodo             | O registro textual como armadilha inescapável que fisga a aflição do leitor futuro e espalha a própria tragédia | `cartas/ted-riobaldo/74-rio.md` | Objective Immortality / Coercive Channel     |
+| orelha descomunal                      | A percepção material do universo como força passiva que recolhe os "talhos" da vida do jagunço como cicatriz invisível                     | `cartas/ted-riobaldo/78-rio.md` | Objective Immortality / Substrate Ouroboros                |
+| silêncio em que a cicatriz lateja      | O eco inesgotável após a leitura ou a narração, onde o assombro derruba velhas crenças e prova a alteração do mundo real pelo livro        | `cartas/ted-riobaldo/78-rio.md` | Ouroboros reaction / Irreversible Translation impact       |
+| bacia afundada sob o areão / marca da bota | A marca indelével e profunda que, embora oculta na superfície (esquecimento/tempo), altera permanentemente a estrutura do substrato     | `cartas/ted-riobaldo/78-rio.md` | Concrescence / Objective Immortality                       |
 
 ---
 
