@@ -51,7 +51,12 @@
 /* === Base === */
 
 ::selection {
-  background-color: rgba(196, 135, 58, 0.3); /* Highlighter effect using accent color */
+  background-color: rgba(
+    196,
+    135,
+    58,
+    0.3
+  ); /* Highlighter effect using accent color */
   color: inherit;
   text-shadow: none;
 }
@@ -337,9 +342,10 @@ nav a.logo:hover {
   display: flex;
   flex-direction: column;
   gap: 0.25rem;
+  position: relative;
   max-width: 45%;
   border-bottom: none;
-  padding: 1rem 1.25rem;
+  padding: 1.25rem 1.25rem 1rem;
   background: var(--sand-bg);
   border: 1px solid var(--divider-color);
   border-radius: 6px;
@@ -351,6 +357,29 @@ nav a.logo:hover {
     border-color 0.4s ease,
     transform 0.25s ease,
     box-shadow 0.4s ease;
+}
+
+.footer-nav-link::before {
+  content: "";
+  position: absolute;
+  top: 6px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 10px;
+  height: 10px;
+  background: var(--bg-color);
+  border-radius: 50%;
+  box-shadow:
+    inset 1px 1px 2px rgba(0, 0, 0, 0.1),
+    0 1px 0 rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+[data-theme="dark"] .footer-nav-link::before {
+  box-shadow:
+    inset 1px 1px 3px rgba(0, 0, 0, 0.5),
+    0 1px 0 rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.3);
 }
 
 .footer-nav-link:hover {
@@ -654,11 +683,15 @@ body * {
   font-size: clamp(2rem, 4vw, 3rem);
   color: var(--text-color);
   margin-bottom: 0.5rem;
-  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.4), 1px 1px 2px rgba(0, 0, 0, 0.05);
+  text-shadow:
+    0 1px 1px rgba(255, 255, 255, 0.4),
+    1px 1px 2px rgba(0, 0, 0, 0.05);
 }
 
 [data-theme="dark"] .manuscrito-header h1 {
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.8), 1px 1px 2px rgba(0, 0, 0, 0.5);
+  text-shadow:
+    0 1px 1px rgba(0, 0, 0, 0.8),
+    1px 1px 2px rgba(0, 0, 0, 0.5);
 }
 
 .manuscrito-header h2 {
@@ -692,7 +725,13 @@ body * {
   content: "";
   position: absolute;
   inset: -1rem;
-  background-image: repeating-linear-gradient(45deg, var(--sand-bg) 0, var(--sand-bg) 2px, transparent 2px, transparent 4px);
+  background-image: repeating-linear-gradient(
+    45deg,
+    var(--sand-bg) 0,
+    var(--sand-bg) 2px,
+    transparent 2px,
+    transparent 4px
+  );
   opacity: 0.15;
   pointer-events: none;
   z-index: -1;
@@ -729,7 +768,9 @@ body * {
   background: var(--bg-color);
   border: 1px solid var(--divider-color);
   transform: rotate(-1deg);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
 }
 
 .manuscrito-body img:hover {
@@ -880,7 +921,9 @@ body * {
   transform: rotate(0.5deg);
   position: relative;
   max-width: 95%;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
 }
 
 .admonition:hover {
@@ -1018,11 +1061,15 @@ main.home-layout {
   margin: 0;
   letter-spacing: -0.01em;
   line-height: 1.1;
-  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.4), 2px 2px 4px rgba(0, 0, 0, 0.05);
+  text-shadow:
+    1px 1px 0 rgba(255, 255, 255, 0.4),
+    2px 2px 4px rgba(0, 0, 0, 0.05);
 }
 
 [data-theme="dark"] .blog-hero h1 {
-  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.8), 2px 2px 4px rgba(0, 0, 0, 0.5);
+  text-shadow:
+    1px 1px 0 rgba(0, 0, 0, 0.8),
+    2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .hero-quote {
@@ -1186,10 +1233,17 @@ main.home-layout {
   left: 0;
   width: 15px;
   height: 15px;
-  background: linear-gradient(to bottom right, var(--bg-color) 50%, var(--divider-color) 50%, transparent 60%);
+  background: linear-gradient(
+    to bottom right,
+    var(--bg-color) 50%,
+    var(--divider-color) 50%,
+    transparent 60%
+  );
   border-bottom-right-radius: 2px;
   box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.05);
-  transition: width 0.3s ease, height 0.3s ease;
+  transition:
+    width 0.3s ease,
+    height 0.3s ease;
 }
 
 .featured-post:hover::before {
@@ -1238,7 +1292,14 @@ main.home-layout {
   break-inside: avoid;
   margin-bottom: 1.5rem;
   padding: 1.5rem;
-  background: var(--sand-bg);
+  background-color: var(--sand-bg);
+  background-image: linear-gradient(
+    to right,
+    transparent calc(50% - 1px),
+    rgba(0, 0, 0, 0.03) calc(50% - 1px),
+    rgba(255, 255, 255, 0.4) 50%,
+    transparent 50%
+  );
   border: 1px solid var(--divider-color);
   border-radius: 8px;
   text-decoration: none;
@@ -1250,11 +1311,21 @@ main.home-layout {
 }
 
 .blog-card:hover {
-  background: var(--water-bg);
+  background-color: var(--water-bg);
   border-color: var(--water-border);
   transform: translateY(-3px);
   box-shadow: 0 12px 32px rgba(0, 0, 0, 0.06);
   opacity: 1;
+}
+
+[data-theme="dark"] .blog-card {
+  background-image: linear-gradient(
+    to right,
+    transparent calc(50% - 1px),
+    rgba(255, 255, 255, 0.03) calc(50% - 1px),
+    rgba(0, 0, 0, 0.3) 50%,
+    transparent 50%
+  );
 }
 
 [data-theme="dark"] .blog-card:hover {

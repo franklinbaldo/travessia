@@ -18,38 +18,56 @@ const isRich = !!(prev?.autor || next?.autor);
 ---
 
 <nav class="footer-nav">
-  {backUrl ? (
-    <a href={backUrl}>&larr; {backLabel}</a>
-  ) : (
-    <>
-      {prev ? (
-        isRich ? (
-          <a href={prev.url} class="footer-nav-link prev">
-            <span class="footer-nav-dir">&larr; Anterior</span>
-            {prev.autor && (
-              <span class={`footer-nav-autor autor-${prev.autorClasse}`}>{prev.autor}</span>
-            )}
-            {prev.title && <span class="footer-nav-titulo">{prev.title}</span>}
-          </a>
+  {
+    backUrl ? (
+      <a href={backUrl}>&larr; {backLabel}</a>
+    ) : (
+      <>
+        {prev ? (
+          isRich ? (
+            <a href={prev.url} class="footer-nav-link prev">
+              <span class="footer-nav-dir">&larr; Anterior</span>
+              {prev.autor && (
+                <span class={`footer-nav-autor autor-${prev.autorClasse}`}>
+                  {prev.autor}
+                </span>
+              )}
+              {prev.title && (
+                <span class="footer-nav-titulo">{prev.title}</span>
+              )}
+            </a>
+          ) : (
+            <a href={prev.url} title={prev.title}>
+              &larr; Anterior
+            </a>
+          )
         ) : (
-          <a href={prev.url} title={prev.title}>&larr; Anterior</a>
-        )
-      ) : <span></span>}
-      {next ? (
-        isRich ? (
-          <a href={next.url} class="footer-nav-link next">
-            <span class="footer-nav-dir">Pr&oacute;ximo &rarr;</span>
-            {next.autor && (
-              <span class={`footer-nav-autor autor-${next.autorClasse}`}>{next.autor}</span>
-            )}
-            {next.title && <span class="footer-nav-titulo">{next.title}</span>}
-          </a>
+          <span />
+        )}
+        {next ? (
+          isRich ? (
+            <a href={next.url} class="footer-nav-link next">
+              <span class="footer-nav-dir">Pr&oacute;ximo &rarr;</span>
+              {next.autor && (
+                <span class={`footer-nav-autor autor-${next.autorClasse}`}>
+                  {next.autor}
+                </span>
+              )}
+              {next.title && (
+                <span class="footer-nav-titulo">{next.title}</span>
+              )}
+            </a>
+          ) : (
+            <a href={next.url} title={next.title}>
+              Pr&oacute;ximo &rarr;
+            </a>
+          )
         ) : (
-          <a href={next.url} title={next.title}>Pr&oacute;ximo &rarr;</a>
-        )
-      ) : <span></span>}
-    </>
-  )}
+          <span />
+        )}
+      </>
+    )
+  }
 </nav>
 
 <style>
@@ -70,9 +88,10 @@ const isRich = !!(prev?.autor || next?.autor);
     display: flex;
     flex-direction: column;
     gap: 0.25rem;
+    position: relative;
     max-width: 45%;
     border-bottom: none;
-    padding: 1rem 1.25rem;
+    padding: 1.25rem 1.25rem 1rem;
     background: var(--sand-bg);
     border: 1px solid var(--divider-color);
     border-radius: 6px;
@@ -84,6 +103,29 @@ const isRich = !!(prev?.autor || next?.autor);
       border-color 0.4s ease,
       transform 0.25s ease,
       box-shadow 0.4s ease;
+  }
+
+  .footer-nav-link::before {
+    content: "";
+    position: absolute;
+    top: 6px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 10px;
+    height: 10px;
+    background: var(--bg-color);
+    border-radius: 50%;
+    box-shadow:
+      inset 1px 1px 2px rgba(0, 0, 0, 0.1),
+      0 1px 0 rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+  }
+
+  :global([data-theme="dark"]) .footer-nav-link::before {
+    box-shadow:
+      inset 1px 1px 3px rgba(0, 0, 0, 0.5),
+      0 1px 0 rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(0, 0, 0, 0.3);
   }
 
   .footer-nav-link:hover {
