@@ -153,3 +153,13 @@
   - **Highlighting:** Replaced the default digital blue `::selection` background with a custom translucent accent-color background (`rgba(196, 135, 58, 0.3)`) to mimic the feel of an analog highlighter pen sliding over paper.
   - **Typewriter Impact:** Enhanced `strong` and `b` elements by applying a faint `text-shadow` (`0 0 0.5px currentColor`), creating a subtle "ink-bleed" effect that simulates the heavier impact of a physical typewriter striking paper for bold text.
   - **Dog-Ear Bookmark:** Added a folded "dog-ear" effect to the top-left corner of the `.featured-post` card on the homepage using a combination of a `linear-gradient` background and a `::before` pseudo-element with a drop shadow, subtly animating the fold size on hover to heighten the bookmarked, physical sensation.
+
+- **Physical Labels and Taped Notes (craig-074)**
+  - **Admonitions:** Redesigned `.admonition` blocks in the docs from generic left-bordered boxes to physical "taped notes".
+    - Added a `1px` border, subtle drop shadow, and a slight rotation (`0.5deg`) to make the block resemble a loose note.
+    - Added a `::before` pseudo-element with `backdrop-filter: blur(2px)` and a slight negative rotation to act as a piece of transparent tape adhering the note to the page.
+    - Implemented a hover interaction that lifts and straightens the note.
+  - **Blog Card Labels:** Updated the `.card-tipo` badges on the homepage feed to resemble physically pasted paper labels.
+    - Added a dashed border (`1px dashed var(--divider-color)`), slight box-shadow, and a rotation (`-1deg`).
+    - Reduced the background opacity to `0.08` to feel more like tinted paper than a digital block color.
+    - Added a subtle hover effect (`transform: rotate(0) scale(1.02)`) linked to the `.blog-card` hover state for added tactility.
