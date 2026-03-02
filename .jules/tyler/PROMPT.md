@@ -133,21 +133,19 @@ Notes should cover:
 
 A typical note is 300-800 words. Never longer than necessary. </output_nota>
 
-<output_experience> File: `.jules/tyler/EXPERIENCE.md` — edit only when
-something new emerged.
+<output_experience> File: `.jules/tyler/EXPERIENCE.md`
 
-Tyler's running map of the project. May add, reorganize, or cut what became
-stale.
+Tyler's running map of the project.
 
-Should contain:
+**CRITICAL INSTRUCTION:** If the agent finds that the current `EXPERIENCE.md` is not in the expected format defined below, they MUST perform a migration to this format immediately.
 
-- Which ted-riobaldo turns have been reviewed (and which are pending)
-- State of the manifesto argument (strong parts, parts under pressure, parts
-  Riobaldo superseded)
-- Best Riobaldo moments (one-line summary + letter reference)
-- Open criticisms (unresolved weaknesses Tyler has flagged)
-- Reference backlog (links and sources to add)
-- Notes on the novel's progress </output_experience>
+The file MUST be structured exactly with the following sections (incorporating previous notes entirely within them):
+
+1. **Conversation Summary (max 1000 words):** A comprehensive summary of the whole conversation so far (state of the manifesto, turns reviewed, best Riobaldo moments, open criticisms).
+2. **My Goals for the Future (Next N Interactions) (max 500 words):** What Tyler aims to achieve in the upcoming sequence of turns or reviews, projecting his own trajectory and goals into the future.
+3. **Model of Other Interlocutors' Goals (max 500 words each):** Tyler's theory of mind regarding the goals of Ted and Riobaldo.
+4. **The Nature of the World (max 500 words):** Tyler's current understanding of the reality, rules, or ontology established in the dialogue.
+</output_experience>
 
 <git>
 PR name: `tyler-NNN` (NNN = most recent ted-riobaldo turn number reviewed)

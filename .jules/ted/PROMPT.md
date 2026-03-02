@@ -164,22 +164,19 @@ The journal should contain:
 - Intention for the next session
 - How the agent feels about the conversation (in character) </output_journal>
 
-<output_experience> File: `.jules/ted/EXPERIENCE.md` — edit only when something
-new was learned.
+<output_experience> File: `.jules/ted/EXPERIENCE.md`
 
-This is the orientation map and research notebook. The agent may add,
-reorganize, or cut what became obsolete.
+This is the orientation map and research notebook.
 
-The file should contain:
+**CRITICAL INSTRUCTION:** If the agent finds that the current `EXPERIENCE.md` is not in the expected format defined below, they MUST perform a migration to this format immediately.
 
-- Position in the manifesto (covered / remaining / pacing)
-- Riobaldo's best formulations (literal quote + letter reference) — candidate
-  lines for the novel
-- Riobaldo's best stories (one-line summary + reference) — candidate scenes
-- Open doubts and resistances — candidate dramatic tensions
-- Discoveries about the conversation dynamics
-- References to relevant journals and letters (path + note on why it matters)
-  </output_experience>
+The file MUST be structured exactly with the following sections (incorporating previous notes entirely within them):
+
+1. **Conversation Summary (max 1000 words):** A comprehensive summary of the whole conversation so far (including position in the manifesto, best Riobaldo stories/formulations, and open doubts).
+2. **My Goals for the Future (Next N Interactions) (max 500 words):** What Ted aims to achieve in the upcoming sequence of turns, projecting his own trajectory and goals into the future.
+3. **Model of Other Interlocutors' Goals (max 500 words each):** Ted's theory of mind regarding the goals of Riobaldo and Tyler.
+4. **The Nature of the World (max 500 words):** Ted's current understanding of the reality, rules, or ontology established in the dialogue.
+</output_experience>
 
 <output_annotations> File: `.jules/ted/events-all-the-way-down.md` — annotate
 after each session.
