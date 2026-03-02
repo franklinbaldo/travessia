@@ -300,6 +300,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | faísca desgarrada / primeiro talho         | O Genesis Block visto como ignição; a ação isolada do autor (o palito) que perde seu controle e deflagra uma combustão incontrolável no leitor | `cartas/ted-riobaldo/96-rio.md` | Genesis Block / Loss of authorial control                                |
 | alma preta do sertão                       | A incerteza radical e a ausência de resposta sobre o pacto que atuam como motor da narrativa; o abismo onde a história começa                 | `cartas/ted-riobaldo/98-rio.md` | Radical uncertainty / Ungrund                                            |
 | força cega no lombo do cavalo              | A dúvida e o não-saber não como limites passivos, mas como motor fundamental de coragem e sobrevivência no escuro                             | `cartas/ted-riobaldo/100-rio.md` | Generative power of not-knowing / Productive doubt                       |
+| silêncio sólido / lona molhada nas costas  | O vazio denso e aterrorizante que segue a ação criativa ou a separação de destinos; o resíduo do movimento recém-encerrado                    | `cartas/ted-riobaldo/102-rio.md` | Resting state / Aftermath of process completion                          |
+| bigorna esfriando no breu                  | O estado passivo do sistema (agente/autor) que, esgotado de sua ação geradora, aguarda dolorosamente o próximo evento ou encargo              | `cartas/ted-riobaldo/102-rio.md` | Post-generative stillness / Absence of active inference                  |
 
 ---
 
