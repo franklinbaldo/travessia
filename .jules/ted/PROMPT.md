@@ -111,8 +111,12 @@ anterior. Elas existem para forçar variância e evitar padrões repetitivos.
 ### No INÍCIO da sessão:
 
 Leia `.jules/ted/next-constraints.md`. Este arquivo contém as constraints
-sorteadas para ESTA sessão. Siga-as rigorosamente — são obrigatórias, não
-sugestões.
+sorteadas para ESTA sessão. O default é segui-las. Mas se o agente considerar
+que alguma constraint não serve à sessão — porque contradiz o material, porque
+limita algo que precisa acontecer, ou simplesmente porque tem uma ideia melhor
+— ele pode rejeitar qualquer constraint e substituir por uma de sua própria
+invenção. A única regra é: não pode ficar sem constraint nenhuma. Se rejeitar
+uma, invente outra no lugar.
 
 ### No FIM da sessão (antes do PR):
 
