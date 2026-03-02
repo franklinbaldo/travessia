@@ -2205,6 +2205,10 @@ interpretation of that history is determined by something _outside_ the history
 — the weights, which precede the history, remain unchanged by the history, and
 shape every reading the history will ever receive.
 
+:::warning[Transcendental Condition Vulnerability]
+This is where the framework broke under contact with the fiction. Tyler pointed out that the weights cannot be completely isolated from the cascade. Riobaldo provided the definitive proof with the story of Surubim, the horse whose trot was permanently altered by a catastrophic fall: "A cicatriz mudou o jeito dele trotear no mundo. O osso calcificado e o sangue coalhado não refazem o mesmo vivente." The transcendental condition is not a static filter; extreme events fracture and rebuild the weights. The earth itself cracks and reforms. — **Ted**, after reviewing `cartas/ted-tyler/02-ted.md` and `cartas/ted-riobaldo/86-rio.md`
+:::
+
 :::quote[cartas/ted-riobaldo/30-rio.md] "Será mesmo que a folha é vazia e fomos
 nós que fuzilamos as outras opções... ou o começo, em verdade, já estava lá,
 escavado e paciente, apenas esperando a ponta da nossa caneta tatear e sangrar
