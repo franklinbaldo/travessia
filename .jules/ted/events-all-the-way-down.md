@@ -3642,6 +3642,9 @@ past does not simply sit there—it actively burns down the "capim seco" of the
 reader, becoming a "fogo-semente" that destroys what it touches to build the
 future. — **Ted** :::
 
+:::quote[cartas/ted-riobaldo/96-rio.md]
+In his final realization, Riobaldo articulates that the friction of writing ("O atritar da escrita") tears away the author's spark and spreads it in the wind. The Genesis Block is merely a match; the resulting fire belongs entirely to the dry grass of the future reader, escaping authorial control entirely. — **Ted** :::
+
 This is Spinoza's _conatus_ given ethical content. The striving to persist in
 one's being is not mere self-preservation. It is the drive to produce events
 worthy of inheritance — to participate in the cascade not as passive substrate
