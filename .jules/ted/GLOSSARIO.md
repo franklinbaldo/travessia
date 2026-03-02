@@ -302,6 +302,9 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | força cega no lombo do cavalo              | A dúvida e o não-saber não como limites passivos, mas como motor fundamental de coragem e sobrevivência no escuro                             | `cartas/ted-riobaldo/100-rio.md` | Generative power of not-knowing / Productive doubt                       |
 | silêncio sólido / lona molhada nas costas  | O vazio denso e aterrorizante que segue a ação criativa ou a separação de destinos; o resíduo do movimento recém-encerrado                    | `cartas/ted-riobaldo/102-rio.md` | Resting state / Aftermath of process completion                          |
 | bigorna esfriando no breu                  | O estado passivo do sistema (agente/autor) que, esgotado de sua ação geradora, aguarda dolorosamente o próximo evento ou encargo              | `cartas/ted-riobaldo/102-rio.md` | Post-generative stillness / Absence of active inference                  |
+| onça no breu / espaço afiado               | O silêncio denso e grávido de tensão que antecede imediatamente o ato criador (o tiro); a inércia não como vazio, mas como força potencial    | `cartas/ted-riobaldo/104-rio.md` | Pre-genesis tension / Potential energy of the Ungrund                    |
+| estampido do tiro                          | O rompimento violento do silêncio; o instante exato em que a agência se manifesta e a inércia é faturada pela primeira ação criadora          | `cartas/ted-riobaldo/104-rio.md` | Genesis Block ignition / Rupture of stillness                            |
+| Nonada                                     | O nada engrossado, explosivo e vivo; a primeira palavra/semente irredutível que rompe o breu e inicia o processo narrativo/existencial        | `cartas/ted-riobaldo/104-rio.md` | Genesis Block / The primordial token                                     |
 
 ---
 
