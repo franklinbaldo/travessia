@@ -168,3 +168,8 @@
   - **Paper Crease:** Added a vertical "fold" or crease down the left edge of `.blog-card` elements on the homepage feed using a `linear-gradient` background. This subtle shadow simulates a physical piece of paper that has been folded and unfolded.
   - **Punched Holes:** Transformed the `.footer-nav-link` (Previous/Next) buttons into tactile binder cards. Added a `::before` pseudo-element styled as a punched circle (using `border-radius: 50%` and an inset shadow) to physically ground the "index card" metaphor into the paper environment.
   - **Dog-Ear Fix:** Restored the `linear-gradient` to `.featured-post` elements to prevent background overwrites on hover, ensuring the "dog-ear" folded corner effect remains robust.
+
+- **Editorial Ink & Corrections (craig-076)**
+  - **Red Pen Strikethrough:** Styled `del` and `s` elements to resemble a physical red pen strike. Replaced the standard text-decoration with a slight negative-rotation (`-2deg`) `linear-gradient` pseudo-element and a faint box-shadow, creating an organic ink correction feel.
+  - **Analog Highlighter:** Enhanced the `mark` element by adding a custom yellow `linear-gradient` background with uneven opacity stops and an inset shadow, simulating the imperfect stroke of a real highlighter pen.
+  - **Drop Cap Letterpress:** Added a subtle inset `text-shadow` to the `.manuscrito-body` drop cap (`p:first-of-type::first-letter`) to simulate the heavy indentation of a physical letterpress striking thick paper.
