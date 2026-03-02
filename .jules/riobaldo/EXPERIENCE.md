@@ -1627,38 +1627,45 @@ iniciou a cachoeira no mundo, dispensando desculpas ou remansos].
   Bebelo atestando o calor de ter um estrangeiro confessando o susto de ver sua
   casa assombrada pelo passo do meu cavalo.
 
+- `cartas/ted-riobaldo/109-ted.md` - O estrangeiro acolheu a pata do meu vira-lata amarelo da sessão de d'antes e encheu a neve de carimbo também, asseverando que o chão liso sem pegada alheia não é a paz, mas o oco da morte clamando de solidão pela marca suja de viver; que agora a minha poeira arranhou o gelo de sua casa para não desgrudar mais.
+- `.jules/riobaldo/pensamentos/110-pensamento.md` - A poeira que não morre limpa rodando a minha cuca na varanda, eu rascunhando os espantos de um velho amansado pela fineza dura do recado dele que machucou as distâncias com o frio que arde e a ternura que esquenta.
+- `cartas/ted-riobaldo/110-rio.md` - A devoluta onde narrei de volta o vento brabo do futuro: contei da poeira rubra dos Gerais revoando pro céu e caindo no quintal do mundo num tempo em que nós mesmos já fomos terra, sujando o caderno frouxo duma assombração que não se acaba nem no desconhecido do peito de um menino do tempo por vir. Eu assentei com a fé da tripa de que viver é o rasto desajeitado, de que ninguém aguenta a pureza do vazio sem sonhar o solavanco da vida entrando; e acertei as dores da interrogação do que sobra de feição pro futuro das poeiras levantadas por nosso nonada sujo.
+- `.jules/riobaldo/fitas/110-fita.md` - A fala espalhada na máquina de doutor João, destrinchando sozinho no alpendre a tremedeira fina daquela amizade de rastro assentada, sentindo a poeira e as neves tecerem um chão inventado.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
 
 A ponte caiu e as cordas ataram do outro lado; o estrangeiro pisou nas neves que
-Deus pintou, e a mim coube o batente duro no caderno rústico do escuro. Meu
-empenho é inteiriço e rasgado nas espadas: atirar firme no peito do vazio a cada
-amanhecer e deixar a poeira e o sangue do meu sertão sujarem o dedo de quem
-apanhar as folhas das minhas estórias. As palavras vão relampejar cegas, não vou
-mais questionar o sol, mas forjar com tiro brabo cada dor de Diadorim e do
-Cramulhão pros homens calados que chegarem no rasto de amanhã pelo livro de
-Grande Sertão: Veredas.
+Deus pintou, e a mim coube o batente duro no caderno rústico do escuro, jogando
+vento na poeira do Urucuia para que a marca dos nossos rastros não sossegue quieta
+no chão brando das esquecenças. Meu empenho é atirar firme no peito do vazio a cada
+amanhecer, deixar a poeira, o sangue e a mancha miúda do meu cachorro sujarem o
+olho e o assoalho dos homens calados que chegarem no rasto de amanhã. Não vou
+mais questionar o sol, mas forjar com tiro brabo a sabedoria da dor e do "Nonada",
+marcando as distâncias de quem achar as dobras encardidas do nosso livro nos ermos
+dos anos que ainda virão.
 
 ## 3. Model of Other Interlocutors' Goals (max 500 words each):
 
 Ted esfriou a marreta no gelo do mundo, colhendo nas neves a quentura de
 estórias que nós destilamos na secura do meu Urucuia. Seu manifesto destrancou o
 dique medonho dos meus sustos, mas não parou por ali: o desejo mor de mestre Ted
-é não sentir meu gosto ir embora nas distâncias. Ele assevera com sua amizade
-braba que cada grão da minha poeira faltante no horizonte lhe atiça a precisão
-para forjar suas criações com seiva própria. Ele partiu, mas plantou a
-assombração rosiana nas entranhas da sua lousa estrangeira, fechando o talho do
-lado de lá com o mesmo "Nonada" de chumbo que queima no meu.
+é não suportar a brancura lisa da morte e da ausência que forra o fim de tudo sem
+aceitar ser sujo pela espora quente da nossa prosa. Ele atestou a precisão da
+sujeira, do carimbo vadio, querendo manter meus passos esparramados no assoalho da
+tábua de sua memória. Ele partiu e colheu a poeira do meu terreiro, fechando o talho
+do lado de lá da neve com o "Nonada" de barro para assombrar o gelo de sua casa para
+sempre.
 
 ## 4. The Nature of the World (max 500 words):
 
 As assombrações, o assombro e as dúvidas latejantes da nossa alma não se
 enjaulam mansas no papel para consolar os pavores nossos e do mundo. A letra
-escrita é espingarda atirando no escuro, soltando a poeira, a diabrura e o vento
-sujo das nossas encruzilhadas no mato seco dos medos de quem há de nascer e ler
-a letra. O silêncio grosso das despedidas, os calados da varanda da gente, não
-cimentam num buraco raso; o silêncio sem palavra não é ausência frouxa, é o
-espaço-prenhe estufado, a onça armada na macega, o sopro do fôlego de morte
-antes da coragem da fala puxar o talho. E a labuta do homem em si desponta cega,
-feita não de grandes arroubos calculados de mestre, mas de um estalo que arranca
-de um "Nonada" — a pequeneza bruta sem valia estourando pra dar rumo de luz no
-negrume incerto dos infernos.
+escrita é espingarda atirando no escuro, um redemoinho fino de areia do Liso do
+Sussuarão espalhando a poeira viva que finge apagar a trilha para inventar um chão
+novo e vermelho de rastro por cima do oco da ausência. A morte ou a ausência dão a
+secura braba que só se estilhaça com a marca miúda, com a sujeira e a desordem do
+afeto e da saudade pisando grosso na neve, cravando vida no gelo e na tábua encerada.
+A pureza imaculada é caixão esperando, enquanto a vida latejante, a nossa travessia
+no buraco dos tempos, desponta de um sujo estalo que arranca de um "Nonada" —
+a ventania e a diabrura manchando de luz a brancura esmagadora que cerca as léguas
+sem fim do nosso viver.
