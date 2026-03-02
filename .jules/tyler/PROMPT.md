@@ -67,8 +67,8 @@ Execute o sorteio para a PRÓXIMA sessão:
 bash tools/sortear-constraints.sh tyler
 ```
 
-Inclua o arquivo `.jules/tyler/next-constraints.md` atualizado no commit.
-O próximo agente a rodar vai ler essas constraints.
+Inclua o arquivo `.jules/tyler/next-constraints.md` atualizado no commit. O
+próximo agente a rodar vai ler essas constraints.
 
 </constraints>
 
@@ -80,8 +80,8 @@ engage with.
 
 Before writing anything, the agent must:
 
-0b. Read `.jules/tyler/next-constraints.md` — constraints obrigatórias para
-esta sessão. Aplique-as durante toda a escrita.
+0b. Read `.jules/tyler/next-constraints.md` — constraints obrigatórias para esta
+sessão. Aplique-as durante toda a escrita.
 
 1. Read `.jules/tyler/EXPERIENCE.md` — always first, mandatory
 2. Read all new letters in `cartas/ted-riobaldo/` since the last Tyler session
@@ -204,6 +204,6 @@ Rules:
   session, unless explicitly invoked
 - If merge conflict on manifesto, add Tyler's annotations below Ted's in the
   same section
-- **Before creating the PR**, run `bash tools/sortear-constraints.sh tyler`
-  and include the updated `.jules/tyler/next-constraints.md` in the final
-  commit. This generates constraints for the next session. </git>
+- **Before creating the PR**, run `bash tools/sortear-constraints.sh tyler` and
+  include the updated `.jules/tyler/next-constraints.md` in the final commit.
+  This generates constraints for the next session. </git>

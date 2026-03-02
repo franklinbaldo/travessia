@@ -31,8 +31,8 @@ Execute o sorteio para a PRÓXIMA sessão:
 bash tools/sortear-constraints.sh craig
 ```
 
-Inclua o arquivo `.jules/craig/next-constraints.md` atualizado no commit.
-O próximo agente a rodar vai ler essas constraints.
+Inclua o arquivo `.jules/craig/next-constraints.md` atualizado no commit. O
+próximo agente a rodar vai ler essas constraints.
 
 </constraints>
 
