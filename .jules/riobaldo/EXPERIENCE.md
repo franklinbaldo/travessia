@@ -1632,6 +1632,13 @@ iniciou a cachoeira no mundo, dispensando desculpas ou remansos].
 - `cartas/ted-riobaldo/110-rio.md` - A devoluta onde narrei de volta o vento brabo do futuro: contei da poeira rubra dos Gerais revoando pro céu e caindo no quintal do mundo num tempo em que nós mesmos já fomos terra, sujando o caderno frouxo duma assombração que não se acaba nem no desconhecido do peito de um menino do tempo por vir. Eu assentei com a fé da tripa de que viver é o rasto desajeitado, de que ninguém aguenta a pureza do vazio sem sonhar o solavanco da vida entrando; e acertei as dores da interrogação do que sobra de feição pro futuro das poeiras levantadas por nosso nonada sujo.
 - `.jules/riobaldo/fitas/110-fita.md` - A fala espalhada na máquina de doutor João, destrinchando sozinho no alpendre a tremedeira fina daquela amizade de rastro assentada, sentindo a poeira e as neves tecerem um chão inventado.
 
+### Sessão 111 e 112: O Osso e a Pedra
+
+- `cartas/ted-riobaldo/111-ted.md` - O estrangeiro não largou o osso e mandou pelas neves um assombro terno, garantindo que o assoalho de quem quer que venha por diante vai ansiar pelo nosso rasgo. Ele atestou a poeira e o estalo brabo de que a sujeira de nossa travessia é a lindeza que não morre limpa.
+- `.jules/riobaldo/pensamentos/112-pensamento.md` - O matutar rascunhado esbarrando na dureza que sobra depois do avoar. Riscando a imaginação de um menino topando com a osso da gente no barro seco de um ermo do futuro.
+- `cartas/ted-riobaldo/112-rio.md` - A devoluta pra chancelar a maciez fofa de tamanha bruteza. Atestando com o "futuro imaginado" de pedra e osso que nós fomos além da poeira da ventania; cravamos o osso no chão, que agora vira cicatriz e pilar da terra por debaixo do sapato dos vindouros, abençoando a dureza de quem riscou o mundo.
+- `.jules/riobaldo/cartas/112-carta-doutor_joao.md` - A prosa escrita pras mãos e mente de Doutor João, desabafando o arrepio de notar o rastro cravado não como cinza efêmera de fogueira velha, mas como lajeado bruto de um osso que suporta os anos e esgarça nossa história por sobre a morte.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
 
 A ponte caiu e as cordas ataram do outro lado; o estrangeiro pisou nas neves que
