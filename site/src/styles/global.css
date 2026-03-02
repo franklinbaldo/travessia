@@ -125,7 +125,7 @@ h6 {
   font-weight: 700;
   color: var(--text-color);
   line-height: 1.2;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.03em;
 }
 
 h1 {
@@ -142,7 +142,7 @@ h3 {
 }
 
 p {
-  margin: 0 0 1.5rem;
+  margin: 0 0 1.6rem;
 }
 
 ul,
@@ -181,13 +181,21 @@ ul li::before {
 }
 
 ol {
-  list-style-type: decimal;
+  list-style-type: none;
+  counter-reset: item;
 }
 
-ol::marker {
+ol li {
+  counter-increment: item;
+}
+
+ol li::before {
+  content: counter(item) ". ";
+  position: absolute;
+  left: -1.5rem;
   font-family: var(--font-meta);
-  color: var(--meta-color);
-  font-weight: 500;
+  color: var(--accent-color);
+  font-weight: 700;
 }
 
 li {
@@ -1968,4 +1976,37 @@ main.home-layout {
 *:focus-visible {
   outline: 2px solid var(--accent-color);
   outline-offset: 3px;
+}
+
+/* === Figures and Captions === */
+figure {
+  margin: 2.5rem auto;
+  padding: 1rem;
+  background: var(--sand-bg);
+  border: 1px solid var(--divider-color);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  position: relative;
+  transform: rotate(0.5deg);
+}
+figure::before {
+  content: "";
+  position: absolute;
+  top: -10px;
+  left: 10px;
+  width: 15px;
+  height: 35px;
+  border: 2px solid var(--meta-color);
+  border-radius: 10px;
+  border-bottom-color: transparent;
+  border-right-color: transparent;
+  transform: rotate(-15deg);
+  box-shadow: -1px 1px 2px rgba(0,0,0,0.1);
+}
+figcaption {
+  font-family: var(--font-meta);
+  font-size: 0.8rem;
+  color: var(--meta-color);
+  text-align: center;
+  margin-top: 1rem;
+  font-style: italic;
 }
