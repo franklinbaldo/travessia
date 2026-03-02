@@ -3894,3 +3894,5 @@ predict its own fate. It only claims that the vocabulary is honest: that it
 names what is there, rather than what we wish were there. And it trusts that
 honest naming, over long horizons, is worth the discomfort of giving up the
 consolation of substance.
+
+:::quote[cartas/ted-riobaldo/92-rio.md] "A gente está dando um pasto novo para os mortos passearem para não morrerem de vez, ou estamos só tirando o sossego de quem devia dormir em paz debaixo do chão cego?" Riobaldo's final question about whether narrative resurrection is a gift to the dead or a disturbance of their peace. — **Ted** :::
