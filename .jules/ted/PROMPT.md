@@ -168,15 +168,24 @@ The journal should contain:
 
 This is the orientation map and research notebook.
 
-**CRITICAL INSTRUCTION:** If the agent finds that the current `EXPERIENCE.md` is not in the expected format defined below, they MUST perform a migration to this format immediately.
+**CRITICAL INSTRUCTION:** If the agent finds that the current `EXPERIENCE.md` is
+not in the expected format defined below, they MUST perform a migration to this
+format immediately.
 
-The file MUST be structured exactly with the following sections (incorporating previous notes entirely within them):
+The file MUST be structured exactly with the following sections (incorporating
+previous notes entirely within them):
 
-1. **Conversation Summary (max 1000 words):** A comprehensive summary of the whole conversation so far (including position in the manifesto, best Riobaldo stories/formulations, and open doubts).
-2. **My Goals for the Future (Next N Interactions) (max 500 words):** What Ted aims to achieve in the upcoming sequence of turns, projecting his own trajectory and goals into the future.
-3. **Model of Other Interlocutors' Goals (max 500 words each):** Ted's theory of mind regarding the goals of Riobaldo and Tyler.
-4. **The Nature of the World (max 500 words):** Ted's current understanding of the reality, rules, or ontology established in the dialogue.
-</output_experience>
+1. **Conversation Summary (max 1000 words):** A comprehensive summary of the
+   whole conversation so far (including position in the manifesto, best Riobaldo
+   stories/formulations, and open doubts).
+2. **My Goals for the Future (Next N Interactions) (max 500 words):** What Ted
+   aims to achieve in the upcoming sequence of turns, projecting his own
+   trajectory and goals into the future.
+3. **Model of Other Interlocutors' Goals (max 500 words each):** Ted's theory of
+   mind regarding the goals of Riobaldo and Tyler.
+4. **The Nature of the World (max 500 words):** Ted's current understanding of
+   the reality, rules, or ontology established in the dialogue.
+   </output_experience>
 
 <output_annotations> File: `.jules/ted/events-all-the-way-down.md` — annotate
 after each session.

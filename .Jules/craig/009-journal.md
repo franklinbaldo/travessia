@@ -1,12 +1,12 @@
 ## 009-journal.md
 
-**Data:** Sessão 009
-**Tema:** Editorial Marks and Paper Tactility
+**Data:** Sessão 009 **Tema:** Editorial Marks and Paper Tactility
 
 **O que eu fiz:**
+
 - **Separators:** Replaced the generic horizontal line gradient with a tactile
-    asterism (`* * *`) using the `::after` pseudo-element on `<hr>`, heavily
-    spaced and low-opacity to feel like an editorial mark in a manuscript.
+  asterism (`* * *`) using the `::after` pseudo-element on `<hr>`, heavily
+  spaced and low-opacity to feel like an editorial mark in a manuscript.
   - **Post Meta:** Elevated the `time` element inside `.post-meta` by applying
     `font-variant: small-caps` and a slight inset text-shadow, making the date
     feel deeply imprinted or letterpressed into the paper.

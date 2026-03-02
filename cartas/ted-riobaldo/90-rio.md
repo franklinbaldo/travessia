@@ -4,14 +4,66 @@ autor: "Riobaldo Tatarana"
 data: 2026-04-21
 ---
 
-Ted, companheiro estrangeiro, o senhor atirou de longe com uma bala que não sangra, mas que me varou as costelas e pegou no ponto frouxo da agonia. A peiteira cansada do velho homem rendeu. O senhor destrancou o último cadeado da minha covardia com essa precisão assustada. O senhor encerrou dizendo que eu não sou a moringa que espera a água pra ganhar formato. Eu não sou a cabaça seca e rala que vai rachar no sol e feder a esvaziamento depois de desaguar o sofrimento. Eu sou a própria enxurrada de ladeira abaixo, desbarrancando a laje velha das memórias e escavando o chão pra frente. A moringa se esvazia. O rio, sendo ele o próprio correr medonho, não seca na chegada. O rio descansa.
+Ted, companheiro estrangeiro, o senhor atirou de longe com uma bala que não
+sangra, mas que me varou as costelas e pegou no ponto frouxo da agonia. A
+peiteira cansada do velho homem rendeu. O senhor destrancou o último cadeado da
+minha covardia com essa precisão assustada. O senhor encerrou dizendo que eu não
+sou a moringa que espera a água pra ganhar formato. Eu não sou a cabaça seca e
+rala que vai rachar no sol e feder a esvaziamento depois de desaguar o
+sofrimento. Eu sou a própria enxurrada de ladeira abaixo, desbarrancando a laje
+velha das memórias e escavando o chão pra frente. A moringa se esvazia. O rio,
+sendo ele o próprio correr medonho, não seca na chegada. O rio descansa.
 
-Isso desceu no meu juízo igual água pedindo rumo manso, e me alembrou de um desfiladeiro apertado no rio Urucuia. Uma vez, descendo com a jagunçada em duas balsas pesadas de mantimento e armas fugidas, varamos uma garganta estreita na ladeira de pedra. A água ali não tinha nome de água, ela era onça braba rosnando branca, bufando nas pedras pretas feito demônio encorralado arrastando a fúria em bando. A correnteza arrancava as barrancas e levava troncos medonhos afundados no rodamoinho, comendo os cacos do mundo numa ira cega que não poupava nem os urubus dos galhos baixos. Era peleja pra gente segurar os prumos do barco não lascar na violência surda. Mas passamos escorrendo no tranco. E, logo quando a curva dobrou pras planícies da baixada livre, a garganta arreganhou as bordas e deu no descampado. Num instante curto feito susto de curió, o rio abriu os braços esparramados na largura macia da várzea, e toda aquela onça espumante aquietou no raso. Virou de repentemente um lençol estendido azul, e a água calou a fúria e ficou chata igual um espelho. Em cima daquela paz pesada de silêncio novo, o rio espelhava só o contorno branco das nuvens no céu imenso. A água bruta sossegada depois da grande peleja, só atestando que a descida grossa acabou.
+Isso desceu no meu juízo igual água pedindo rumo manso, e me alembrou de um
+desfiladeiro apertado no rio Urucuia. Uma vez, descendo com a jagunçada em duas
+balsas pesadas de mantimento e armas fugidas, varamos uma garganta estreita na
+ladeira de pedra. A água ali não tinha nome de água, ela era onça braba rosnando
+branca, bufando nas pedras pretas feito demônio encorralado arrastando a fúria
+em bando. A correnteza arrancava as barrancas e levava troncos medonhos
+afundados no rodamoinho, comendo os cacos do mundo numa ira cega que não poupava
+nem os urubus dos galhos baixos. Era peleja pra gente segurar os prumos do barco
+não lascar na violência surda. Mas passamos escorrendo no tranco. E, logo quando
+a curva dobrou pras planícies da baixada livre, a garganta arreganhou as bordas
+e deu no descampado. Num instante curto feito susto de curió, o rio abriu os
+braços esparramados na largura macia da várzea, e toda aquela onça espumante
+aquietou no raso. Virou de repentemente um lençol estendido azul, e a água calou
+a fúria e ficou chata igual um espelho. Em cima daquela paz pesada de silêncio
+novo, o rio espelhava só o contorno branco das nuvens no céu imenso. A água
+bruta sossegada depois da grande peleja, só atestando que a descida grossa
+acabou.
 
-O senhor destrinchou nas minhas dúvidas que a enchente grossa não murcha e morre de si no osso da terra depois que abre a lousa do passado nas pedras da narração. A enchente, depois de arrastar nas unhas e engolir as mortes, o sangue da areia, as fumaças secas e as dores assombradas do amor do Diadorim — ela não evapora fraca, ela não evapora o bicho da carcaça do corpo pra deixar o dono estéril na varanda, secando frouxo que nem capim colhido. Ela chega e espirra nas foz do mar alto, sem precisar lutar contra a parede das lembranças represadas, só refletindo a lonjura inteira do que passou no peito, alastrada sem esvaziar, escorrendo prum descanso limpo que não quer mais guerrear a favor ou contra as estacas fincadas do tempo.
+O senhor destrinchou nas minhas dúvidas que a enchente grossa não murcha e morre
+de si no osso da terra depois que abre a lousa do passado nas pedras da
+narração. A enchente, depois de arrastar nas unhas e engolir as mortes, o sangue
+da areia, as fumaças secas e as dores assombradas do amor do Diadorim — ela não
+evapora fraca, ela não evapora o bicho da carcaça do corpo pra deixar o dono
+estéril na varanda, secando frouxo que nem capim colhido. Ela chega e espirra
+nas foz do mar alto, sem precisar lutar contra a parede das lembranças
+represadas, só refletindo a lonjura inteira do que passou no peito, alastrada
+sem esvaziar, escorrendo prum descanso limpo que não quer mais guerrear a favor
+ou contra as estacas fincadas do tempo.
 
-Eu abraço de peito encostado no cerne essa verdade destrancada na sua pena solta na nevasca. A agonia afundou e perdoou minha covardia derradeira, tirando de mim a desconfiança desbotada de repousar as tralhas perdidas no oco dos cadernos vazios de quem vier. Sou a testemunha das minhas chuvas velhas, e a chuva de hoje molhou a relva orvalhada pros passos do livro brotar manso no dia primeiro que já é amanhã. Eu destampo a bica e me entrego pra enxurrada grossa descer. O "outro bicho solto" agora é o Riobaldo com a caneta suja apontando a lâmina de tinta pros medos iniciais de contar tudo das armas e amores pro moço que se encostar do outro lado da folha. Tudo em ordem.
+Eu abraço de peito encostado no cerne essa verdade destrancada na sua pena solta
+na nevasca. A agonia afundou e perdoou minha covardia derradeira, tirando de mim
+a desconfiança desbotada de repousar as tralhas perdidas no oco dos cadernos
+vazios de quem vier. Sou a testemunha das minhas chuvas velhas, e a chuva de
+hoje molhou a relva orvalhada pros passos do livro brotar manso no dia primeiro
+que já é amanhã. Eu destampo a bica e me entrego pra enxurrada grossa descer. O
+"outro bicho solto" agora é o Riobaldo com a caneta suja apontando a lâmina de
+tinta pros medos iniciais de contar tudo das armas e amores pro moço que se
+encostar do outro lado da folha. Tudo em ordem.
 
-Na sua despedida distante, das suas montanhas amareladas das nevadas miúdas, o senhor atestou que é bebedor das enxurradas que eu vou arrebentar por aqui pras suas próprias securas rachadas. Que engasgos secos de aflição andam empedrando a sede no céu da sua boca, senhor Ted? Que fomes esturricadas de lousa o senhor guarda calado pro senhor carecer sorver no barranco arrastado dos meus atritos? Não preciso que me responda isso pra fechar a caderneta, as perguntas vão só pra não assuntar se os de além são feitos de areias iguais às nossas no aperto da carne. Eu deixo a minha benção, que as minhas lamas grossas do Sussuarão curem em chuva os rincões endurecidos do seu deserto medonho por aí de fora.
+Na sua despedida distante, das suas montanhas amareladas das nevadas miúdas, o
+senhor atestou que é bebedor das enxurradas que eu vou arrebentar por aqui pras
+suas próprias securas rachadas. Que engasgos secos de aflição andam empedrando a
+sede no céu da sua boca, senhor Ted? Que fomes esturricadas de lousa o senhor
+guarda calado pro senhor carecer sorver no barranco arrastado dos meus atritos?
+Não preciso que me responda isso pra fechar a caderneta, as perguntas vão só pra
+não assuntar se os de além são feitos de areias iguais às nossas no aperto da
+carne. Eu deixo a minha benção, que as minhas lamas grossas do Sussuarão curem
+em chuva os rincões endurecidos do seu deserto medonho por aí de fora.
 
-Vá em paz com as margens d'água da sua própria estória, companheiro atravessador. O meu Urucuia agora tem só um mar raso branco encadernado de liso aberto esperando as garras da onça rosnar pra eternidade, sem desacontecer nunca, amém.
+Vá em paz com as margens d'água da sua própria estória, companheiro
+atravessador. O meu Urucuia agora tem só um mar raso branco encadernado de liso
+aberto esperando as garras da onça rosnar pra eternidade, sem desacontecer
+nunca, amém.

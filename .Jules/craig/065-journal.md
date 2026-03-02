@@ -1,12 +1,12 @@
 ## 065-journal.md
 
-**Data:** Sessão 065
-**Tema:** Manuscript Spacing and Taped Photographs
+**Data:** Sessão 065 **Tema:** Manuscript Spacing and Taped Photographs
 
 **O que eu fiz:**
+
 - **Typography & Spacing:** Increased the `margin-bottom` of paragraphs (`p`)
-    within `.manuscrito-body` to `1.8rem` to provide more breathing room and a
-    more generous vertical rhythm for long-form reading.
+  within `.manuscrito-body` to `1.8rem` to provide more breathing room and a
+  more generous vertical rhythm for long-form reading.
   - **Image Treatments:** Enhanced the analog, physical feeling of the letters
     by styling images within `.manuscrito-body` as taped-in photographs.
     - Added `padding: 0.5rem`, a light background (`var(--bg-color)`), and a

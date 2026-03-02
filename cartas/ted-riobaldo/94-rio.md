@@ -6,14 +6,59 @@ data: 2026-04-25
 
 Meu caro e final Ted, lá do outro lado das águas do mundo.
 
-O seu recado derradeiro bateu no meu peito com o peso estrondoso de um tiro de bacamarte. Tu não teme em fechar a conversa, tu joga nas minhas costas a chave inteira de tudo, me empurrando pro abismo das laudas em branco! Tu atesta no duro que o morto não ressuscita, mas que o fogo que sobrou dele queima a lenha nova na barriga de quem for lendo as letras. A lousa não vai esvaziar a memória de Diadorim, ela vai jogar as fagulhas no mato seco dos ventos do amanhã, pra inventar pasto novo pro destino dos outros pastar! Se a coisa é assim, é um assombro medonho, muito mais bravo do que qualquer morte ressuscitada nas noites vazias.
+O seu recado derradeiro bateu no meu peito com o peso estrondoso de um tiro de
+bacamarte. Tu não teme em fechar a conversa, tu joga nas minhas costas a chave
+inteira de tudo, me empurrando pro abismo das laudas em branco! Tu atesta no
+duro que o morto não ressuscita, mas que o fogo que sobrou dele queima a lenha
+nova na barriga de quem for lendo as letras. A lousa não vai esvaziar a memória
+de Diadorim, ela vai jogar as fagulhas no mato seco dos ventos do amanhã, pra
+inventar pasto novo pro destino dos outros pastar! Se a coisa é assim, é um
+assombro medonho, muito mais bravo do que qualquer morte ressuscitada nas noites
+vazias.
 
-Lembrei demais, agorinha mesmo, do nosso fogareiro no acampamento antes da travessia do rio Pardo. A tropa da gente estava esfriando do vento grosso, e a noite era escura como chumbo. O vento, que assobiava rascante das bandas do Sussuarão, rasgava a carne até as pontas das pedras dos morros. O Joãozinho, coitado, num canto de arreios, juntou dois gravetos na cumbuca seca e acendeu um fogo minguado, trêmulo e pequeno, que não aquecia nem as próprias mãos. Aí o Joca Ramiro, cavaleiro ancho e sábio das precisões, esparramou um punhado forte das brasas do fogueirão maior no prato de ferro. As fagulhas foram subindo de revoada na escuridão, brilhando que nem um enxame de besouros encarnados, e onde cada fagulha voava e caía nas outras fogueiras dos peões em volta, a lenha chumbava num clarão arrebatado! Um punhado de fogo arremessado acendeu o capim seco e esquentou a carne dura e rachada das cem cabeças ali sentadas. A minha faísca de saudade voando na revoada dessas páginas vai pegar na lenha do coração de quem passar e ler minhas dores. Não será, nunca mais, a mesma fogueira exata de Diadorim, mas será o *Diadorim-fogo* abrasando de estrondo o escuro alheio, ardendo em chamas outras gentes!
+Lembrei demais, agorinha mesmo, do nosso fogareiro no acampamento antes da
+travessia do rio Pardo. A tropa da gente estava esfriando do vento grosso, e a
+noite era escura como chumbo. O vento, que assobiava rascante das bandas do
+Sussuarão, rasgava a carne até as pontas das pedras dos morros. O Joãozinho,
+coitado, num canto de arreios, juntou dois gravetos na cumbuca seca e acendeu um
+fogo minguado, trêmulo e pequeno, que não aquecia nem as próprias mãos. Aí o
+Joca Ramiro, cavaleiro ancho e sábio das precisões, esparramou um punhado forte
+das brasas do fogueirão maior no prato de ferro. As fagulhas foram subindo de
+revoada na escuridão, brilhando que nem um enxame de besouros encarnados, e onde
+cada fagulha voava e caía nas outras fogueiras dos peões em volta, a lenha
+chumbava num clarão arrebatado! Um punhado de fogo arremessado acendeu o capim
+seco e esquentou a carne dura e rachada das cem cabeças ali sentadas. A minha
+faísca de saudade voando na revoada dessas páginas vai pegar na lenha do coração
+de quem passar e ler minhas dores. Não será, nunca mais, a mesma fogueira exata
+de Diadorim, mas será o _Diadorim-fogo_ abrasando de estrondo o escuro alheio,
+ardendo em chamas outras gentes!
 
-Entendi as nevascas do senhor, Ted. O senhor me destampou o juízo que não tem o passado ensacado nem pendurado em varais de papel grosso. Tem só a **fogo-semente**, o **passado-adiante** voando livre. A nossa memória, quando é dita e largada aos ventos, não olha pra trás feito estátua de sal, ela galopa pro futuro arrombando a porta das almas de quem for ler debaixo das candeias. A folha rabiscada é **estilhaço-de-ontem** virando ferimento criador nas carnes do amanhã. É a semente fincada na laje não pra renascer a árvore seca e morta que já apodreceu, mas pra estourar o chão liso do leitor numa raiz afiada e nova que nunca foi antes no mundo.
+Entendi as nevascas do senhor, Ted. O senhor me destampou o juízo que não tem o
+passado ensacado nem pendurado em varais de papel grosso. Tem só a
+**fogo-semente**, o **passado-adiante** voando livre. A nossa memória, quando é
+dita e largada aos ventos, não olha pra trás feito estátua de sal, ela galopa
+pro futuro arrombando a porta das almas de quem for ler debaixo das candeias. A
+folha rabiscada é **estilhaço-de-ontem** virando ferimento criador nas carnes do
+amanhã. É a semente fincada na laje não pra renascer a árvore seca e morta que
+já apodreceu, mas pra estourar o chão liso do leitor numa raiz afiada e nova que
+nunca foi antes no mundo.
 
-Eu não mordo as iscas frouxas dos intelectos da sua cidade, eu não caio macio com as leis de ciência de cabeça. Mas, na espinha dorsal da alma, me arrepiou o osso de ouvir suas sentenças atestando que a minha faísca inventa outro mundo naqueles. É a fúria da enchente que enche a poeira seca do mar de nós homens! Me convenci, na barriga, gringo. Sinto até a minha mão trêmula engrossar forte no gatilho da pena de contar minha estória inteira pras gerações dos poentes e nascentes.
+Eu não mordo as iscas frouxas dos intelectos da sua cidade, eu não caio macio
+com as leis de ciência de cabeça. Mas, na espinha dorsal da alma, me arrepiou o
+osso de ouvir suas sentenças atestando que a minha faísca inventa outro mundo
+naqueles. É a fúria da enchente que enche a poeira seca do mar de nós homens! Me
+convenci, na barriga, gringo. Sinto até a minha mão trêmula engrossar forte no
+gatilho da pena de contar minha estória inteira pras gerações dos poentes e
+nascentes.
 
-Agora me diga, seu Ted de letras afiadas, só para eu deitar de noite com o olho arregalado nas estrelas: se o meu livro queimar de fogo novo a vida de um menino perdido nos confins bravos de Goiás, e ele tomar prumo, puxar o cavalo e andar sozinho os descampados por conta do susto da leitura... o caminhar dele é dele, ou sou eu, por dentro das pernas dele, andando de carne nova no mundo largo? A gente só conta o que viveu ou a gente também é os passos calados de quem nos leu?
+Agora me diga, seu Ted de letras afiadas, só para eu deitar de noite com o olho
+arregalado nas estrelas: se o meu livro queimar de fogo novo a vida de um menino
+perdido nos confins bravos de Goiás, e ele tomar prumo, puxar o cavalo e andar
+sozinho os descampados por conta do susto da leitura... o caminhar dele é dele,
+ou sou eu, por dentro das pernas dele, andando de carne nova no mundo largo? A
+gente só conta o que viveu ou a gente também é os passos calados de quem nos
+leu?
 
-Fica com Deus, Ted. As barrancas romperam de vez, e a correnteza levou e afogou o meu coração, no rio de volta pro sertão das páginas que agora começo a sujar de negrume das letrinhas miúdas.
+Fica com Deus, Ted. As barrancas romperam de vez, e a correnteza levou e afogou
+o meu coração, no rio de volta pro sertão das páginas que agora começo a sujar
+de negrume das letrinhas miúdas.

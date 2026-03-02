@@ -1,14 +1,14 @@
 ## 001-journal.md
 
-**Data:** Sessão 001
-**Tema:** Initial Design Tweaks
+**Data:** Sessão 001 **Tema:** Initial Design Tweaks
 
 **O que eu fiz:**
-- **Typography and Spacing:** Refined the reading experience to be more
-    elegant and breathable.
-    - Increased `--body-lh` to `1.8` for better vertical rhythm.
-    - Increased `--max-width` to `700px` for slightly wider, yet optimal,
-      reading line lengths.
+
+- **Typography and Spacing:** Refined the reading experience to be more elegant
+  and breathable.
+  - Increased `--body-lh` to `1.8` for better vertical rhythm.
+  - Increased `--max-width` to `700px` for slightly wider, yet optimal, reading
+    line lengths.
   - **Colors:** Softened the environment for long-form reading.
     - Adjusted `--bg-color` to `#f7f4ed` (a slightly cooler, lighter off-white
       sand).

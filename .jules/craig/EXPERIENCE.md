@@ -143,54 +143,112 @@
       interaction.
 
 - **Letter Readability & Analog Details (craig-066)**
-  - **Typography & Letterpress:** Reverted the `.manuscrito-header h1` title color from the bright accent to the grounded `--text-color` for an authentic ink feel, and added a subtle letterpress `text-shadow` effect.
+  - **Typography & Letterpress:** Reverted the `.manuscrito-header h1` title
+    color from the bright accent to the grounded `--text-color` for an authentic
+    ink feel, and added a subtle letterpress `text-shadow` effect.
   - **Archive Stamps & Labels:**
-    - Updated `.post-meta time` to resemble a stamped archive date (removed small-caps, applied uppercase meta font, slightly bolder, with a subtle dotted bottom border).
-    - Redesigned `.autor-badge` (within reading pages) to look like a physical, perforated archive label by applying a dashed border, increasing letter-spacing (`0.15em`), and applying a subtle box-shadow.
-  - **Contextual Clipping:** Refined `.correspondence-context` from a standard bordered block into a physical "clipped paper note" resting on the page. Changed to `inline-flex`, tightened padding, and applied a subtle `-1deg` rotation and drop shadow, complete with a straightening hover interaction to enhance tactility.
+    - Updated `.post-meta time` to resemble a stamped archive date (removed
+      small-caps, applied uppercase meta font, slightly bolder, with a subtle
+      dotted bottom border).
+    - Redesigned `.autor-badge` (within reading pages) to look like a physical,
+      perforated archive label by applying a dashed border, increasing
+      letter-spacing (`0.15em`), and applying a subtle box-shadow.
+  - **Contextual Clipping:** Refined `.correspondence-context` from a standard
+    bordered block into a physical "clipped paper note" resting on the page.
+    Changed to `inline-flex`, tightened padding, and applied a subtle `-1deg`
+    rotation and drop shadow, complete with a straightening hover interaction to
+    enhance tactility.
 
 - **Micro-Analog Textures & Selections (craig-073)**
-  - **Highlighting:** Replaced the default digital blue `::selection` background with a custom translucent accent-color background (`rgba(196, 135, 58, 0.3)`) to mimic the feel of an analog highlighter pen sliding over paper.
-  - **Typewriter Impact:** Enhanced `strong` and `b` elements by applying a faint `text-shadow` (`0 0 0.5px currentColor`), creating a subtle "ink-bleed" effect that simulates the heavier impact of a physical typewriter striking paper for bold text.
-  - **Dog-Ear Bookmark:** Added a folded "dog-ear" effect to the top-left corner of the `.featured-post` card on the homepage using a combination of a `linear-gradient` background and a `::before` pseudo-element with a drop shadow, subtly animating the fold size on hover to heighten the bookmarked, physical sensation.
+  - **Highlighting:** Replaced the default digital blue `::selection` background
+    with a custom translucent accent-color background
+    (`rgba(196, 135, 58, 0.3)`) to mimic the feel of an analog highlighter pen
+    sliding over paper.
+  - **Typewriter Impact:** Enhanced `strong` and `b` elements by applying a
+    faint `text-shadow` (`0 0 0.5px currentColor`), creating a subtle
+    "ink-bleed" effect that simulates the heavier impact of a physical
+    typewriter striking paper for bold text.
+  - **Dog-Ear Bookmark:** Added a folded "dog-ear" effect to the top-left corner
+    of the `.featured-post` card on the homepage using a combination of a
+    `linear-gradient` background and a `::before` pseudo-element with a drop
+    shadow, subtly animating the fold size on hover to heighten the bookmarked,
+    physical sensation.
 
 - **Physical Labels and Taped Notes (craig-074)**
-  - **Admonitions:** Redesigned `.admonition` blocks in the docs from generic left-bordered boxes to physical "taped notes".
-    - Added a `1px` border, subtle drop shadow, and a slight rotation (`0.5deg`) to make the block resemble a loose note.
-    - Added a `::before` pseudo-element with `backdrop-filter: blur(2px)` and a slight negative rotation to act as a piece of transparent tape adhering the note to the page.
+  - **Admonitions:** Redesigned `.admonition` blocks in the docs from generic
+    left-bordered boxes to physical "taped notes".
+    - Added a `1px` border, subtle drop shadow, and a slight rotation (`0.5deg`)
+      to make the block resemble a loose note.
+    - Added a `::before` pseudo-element with `backdrop-filter: blur(2px)` and a
+      slight negative rotation to act as a piece of transparent tape adhering
+      the note to the page.
     - Implemented a hover interaction that lifts and straightens the note.
-  - **Blog Card Labels:** Updated the `.card-tipo` badges on the homepage feed to resemble physically pasted paper labels.
-    - Added a dashed border (`1px dashed var(--divider-color)`), slight box-shadow, and a rotation (`-1deg`).
-    - Reduced the background opacity to `0.08` to feel more like tinted paper than a digital block color.
-    - Added a subtle hover effect (`transform: rotate(0) scale(1.02)`) linked to the `.blog-card` hover state for added tactility.
+  - **Blog Card Labels:** Updated the `.card-tipo` badges on the homepage feed
+    to resemble physically pasted paper labels.
+    - Added a dashed border (`1px dashed var(--divider-color)`), slight
+      box-shadow, and a rotation (`-1deg`).
+    - Reduced the background opacity to `0.08` to feel more like tinted paper
+      than a digital block color.
+    - Added a subtle hover effect (`transform: rotate(0) scale(1.02)`) linked to
+      the `.blog-card` hover state for added tactility.
 
 - **Punched Holes & Creased Paper Tactility (craig-075)**
-  - **Paper Crease:** Added a vertical "fold" or crease down the left edge of `.blog-card` elements on the homepage feed using a `linear-gradient` background. This subtle shadow simulates a physical piece of paper that has been folded and unfolded.
-  - **Punched Holes:** Transformed the `.footer-nav-link` (Previous/Next) buttons into tactile binder cards. Added a `::before` pseudo-element styled as a punched circle (using `border-radius: 50%` and an inset shadow) to physically ground the "index card" metaphor into the paper environment.
-  - **Dog-Ear Fix:** Restored the `linear-gradient` to `.featured-post` elements to prevent background overwrites on hover, ensuring the "dog-ear" folded corner effect remains robust.
+  - **Paper Crease:** Added a vertical "fold" or crease down the left edge of
+    `.blog-card` elements on the homepage feed using a `linear-gradient`
+    background. This subtle shadow simulates a physical piece of paper that has
+    been folded and unfolded.
+  - **Punched Holes:** Transformed the `.footer-nav-link` (Previous/Next)
+    buttons into tactile binder cards. Added a `::before` pseudo-element styled
+    as a punched circle (using `border-radius: 50%` and an inset shadow) to
+    physically ground the "index card" metaphor into the paper environment.
+  - **Dog-Ear Fix:** Restored the `linear-gradient` to `.featured-post` elements
+    to prevent background overwrites on hover, ensuring the "dog-ear" folded
+    corner effect remains robust.
 
 - **Editorial Ink & Corrections (craig-076)**
-  - **Red Pen Strikethrough:** Styled `del` and `s` elements to resemble a physical red pen strike. Replaced the standard text-decoration with a slight negative-rotation (`-2deg`) `linear-gradient` pseudo-element and a faint box-shadow, creating an organic ink correction feel.
-  - **Analog Highlighter:** Enhanced the `mark` element by adding a custom yellow `linear-gradient` background with uneven opacity stops and an inset shadow, simulating the imperfect stroke of a real highlighter pen.
-  - **Drop Cap Letterpress:** Added a subtle inset `text-shadow` to the `.manuscrito-body` drop cap (`p:first-of-type::first-letter`) to simulate the heavy indentation of a physical letterpress striking thick paper.
+  - **Red Pen Strikethrough:** Styled `del` and `s` elements to resemble a
+    physical red pen strike. Replaced the standard text-decoration with a slight
+    negative-rotation (`-2deg`) `linear-gradient` pseudo-element and a faint
+    box-shadow, creating an organic ink correction feel.
+  - **Analog Highlighter:** Enhanced the `mark` element by adding a custom
+    yellow `linear-gradient` background with uneven opacity stops and an inset
+    shadow, simulating the imperfect stroke of a real highlighter pen.
+  - **Drop Cap Letterpress:** Added a subtle inset `text-shadow` to the
+    `.manuscrito-body` drop cap (`p:first-of-type::first-letter`) to simulate
+    the heavy indentation of a physical letterpress striking thick paper.
 
 - **Vintage Code Prints and Ledger Tables (craig-077)**
-  - **Ledger Tables:** Redesigned standard Markdown `table` elements to resemble vintage accounting ledgers.
-    - Added a subtle paper background (`var(--sand-bg)`), complete with a top and bottom border to ground the table.
-    - Styled `th` elements with the `var(--accent-color)` to look like stamped headers, adding a dashed bottom border.
-    - Added faint vertical gridlines (`border-right`) to `td` and `th` cells to mimic ledger ruling.
-  - **Typewriter Code Blocks:** Enhanced `code` and `pre` elements to feel like strips of mechanical typewriter output or vintage computing paper.
-    - Applied a `dashed` border and a faint, repeating linear-gradient "paper banding" texture to `pre` blocks.
-    - Added a subtle negative text-shadow to inline `code` to simulate the physical impact of a typewriter key striking paper.
+  - **Ledger Tables:** Redesigned standard Markdown `table` elements to resemble
+    vintage accounting ledgers.
+    - Added a subtle paper background (`var(--sand-bg)`), complete with a top
+      and bottom border to ground the table.
+    - Styled `th` elements with the `var(--accent-color)` to look like stamped
+      headers, adding a dashed bottom border.
+    - Added faint vertical gridlines (`border-right`) to `td` and `th` cells to
+      mimic ledger ruling.
+  - **Typewriter Code Blocks:** Enhanced `code` and `pre` elements to feel like
+    strips of mechanical typewriter output or vintage computing paper.
+    - Applied a `dashed` border and a faint, repeating linear-gradient "paper
+      banding" texture to `pre` blocks.
+    - Added a subtle negative text-shadow to inline `code` to simulate the
+      physical impact of a typewriter key striking paper.
 
 - **Archival Index Cards and Stamped Typography (craig-078)**
-  - **Archival Index Cards:** Enhanced `.bastidores-card` elements to resemble physical ruled index cards from a library archive.
+  - **Archival Index Cards:** Enhanced `.bastidores-card` elements to resemble
+    physical ruled index cards from a library archive.
     - Added a repeating linear gradient for faint horizontal ruling.
-    - Added a subtle alternating rotation using `nth-child(odd)` and `nth-child(even)` to make them appear organically scattered.
+    - Added a subtle alternating rotation using `nth-child(odd)` and
+      `nth-child(even)` to make them appear organically scattered.
     - Added a physical drop-shadow.
-    - Updated the hover state to straighten the card (`rotate(0)`) and subtly increase the ruling lines' contrast, enhancing tactility.
+    - Updated the hover state to straighten the card (`rotate(0)`) and subtly
+      increase the ruling lines' contrast, enhancing tactility.
 
 - **Archival Folder Headers and Manuscript Stains (craig-079)**
-  - **Archival Headers:** Restyled the `.manuscrito-header` on letter reading pages to resemble the top tab of a physical archival folder.
-    - Added a `var(--sand-bg)` background, a dashed bottom border, and subtle top border radii (`6px 6px 0 0`) with a slight drop shadow.
-  - **Manuscript Paper Stains:** Enhanced the analog tactility of `.manuscrito-body` by adding subtle, uneven radial gradients to the `::before` pseudo-element background, simulating faint water or ink stains on the paper.
+  - **Archival Headers:** Restyled the `.manuscrito-header` on letter reading
+    pages to resemble the top tab of a physical archival folder.
+    - Added a `var(--sand-bg)` background, a dashed bottom border, and subtle
+      top border radii (`6px 6px 0 0`) with a slight drop shadow.
+  - **Manuscript Paper Stains:** Enhanced the analog tactility of
+    `.manuscrito-body` by adding subtle, uneven radial gradients to the
+    `::before` pseudo-element background, simulating faint water or ink stains
+    on the paper.

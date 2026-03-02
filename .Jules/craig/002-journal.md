@@ -1,11 +1,11 @@
 ## 002-journal.md
 
-**Data:** Sessão 002
-**Tema:** Editorial and Grid Polish
+**Data:** Sessão 002 **Tema:** Editorial and Grid Polish
 
 **O que eu fiz:**
+
 - **Typography:** Tightened the headings for a more editorial feel.
-    - Added a `-0.02em` letter spacing to all headers (`h1`-`h6`).
+  - Added a `-0.02em` letter spacing to all headers (`h1`-`h6`).
   - **Blockquotes:** Upgraded from simple left-bordered text to distinct
     editorial callouts.
     - Added `var(--sand-bg)` background, `4px` border radius, and `1.5rem 2rem`

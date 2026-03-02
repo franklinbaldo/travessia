@@ -1,12 +1,12 @@
 ## 006-journal.md
 
-**Data:** Sessão 006
-**Tema:** Editorial Flourishes & Micro-Tactility
+**Data:** Sessão 006 **Tema:** Editorial Flourishes & Micro-Tactility
 
 **O que eu fiz:**
-- **Blockquote Watermarks:** Introduced a large, low-opacity (`0.15`)
-    quotation mark watermark in the background of `blockquote` elements using
-    the `::before` pseudo-element to heighten the literary/magazine aesthetic.
+
+- **Blockquote Watermarks:** Introduced a large, low-opacity (`0.15`) quotation
+  mark watermark in the background of `blockquote` elements using the `::before`
+  pseudo-element to heighten the literary/magazine aesthetic.
   - **Back to Top Bookmark:** Redesigned the generic `#back-to-top` circle into
     a tactile "bookmark tab" or "index card", reading "Topo ↑" with a `4px`
     border radius, subtle lift shadow (`var(--sand-bg)`), and a `translateY`

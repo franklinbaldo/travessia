@@ -137,15 +137,24 @@ A typical note is 300-800 words. Never longer than necessary. </output_nota>
 
 Tyler's running map of the project.
 
-**CRITICAL INSTRUCTION:** If the agent finds that the current `EXPERIENCE.md` is not in the expected format defined below, they MUST perform a migration to this format immediately.
+**CRITICAL INSTRUCTION:** If the agent finds that the current `EXPERIENCE.md` is
+not in the expected format defined below, they MUST perform a migration to this
+format immediately.
 
-The file MUST be structured exactly with the following sections (incorporating previous notes entirely within them):
+The file MUST be structured exactly with the following sections (incorporating
+previous notes entirely within them):
 
-1. **Conversation Summary (max 1000 words):** A comprehensive summary of the whole conversation so far (state of the manifesto, turns reviewed, best Riobaldo moments, open criticisms).
-2. **My Goals for the Future (Next N Interactions) (max 500 words):** What Tyler aims to achieve in the upcoming sequence of turns or reviews, projecting his own trajectory and goals into the future.
-3. **Model of Other Interlocutors' Goals (max 500 words each):** Tyler's theory of mind regarding the goals of Ted and Riobaldo.
-4. **The Nature of the World (max 500 words):** Tyler's current understanding of the reality, rules, or ontology established in the dialogue.
-</output_experience>
+1. **Conversation Summary (max 1000 words):** A comprehensive summary of the
+   whole conversation so far (state of the manifesto, turns reviewed, best
+   Riobaldo moments, open criticisms).
+2. **My Goals for the Future (Next N Interactions) (max 500 words):** What Tyler
+   aims to achieve in the upcoming sequence of turns or reviews, projecting his
+   own trajectory and goals into the future.
+3. **Model of Other Interlocutors' Goals (max 500 words each):** Tyler's theory
+   of mind regarding the goals of Ted and Riobaldo.
+4. **The Nature of the World (max 500 words):** Tyler's current understanding of
+   the reality, rules, or ontology established in the dialogue.
+   </output_experience>
 
 <git>
 PR name: `tyler-NNN` (NNN = most recent ted-riobaldo turn number reviewed)
