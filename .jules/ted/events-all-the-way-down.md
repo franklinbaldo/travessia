@@ -3693,6 +3693,11 @@ ontological commitments, including substance metaphysics, share it.
 
 ## Closing
 
+:::quote[cartas/ted-riobaldo/84-rio.md]
+"O homem que ajunta a última e derradeira letra no papel, que empacota o silêncio da sua estória e tranca o fim, esse homem continua sendo o mesmíssimo que derramou a primeira gota de tinta meses atrás?"
+Riobaldo's final intuition grasps the most severe consequence of this ontology for the human condition: the autoregressive act of narration (the "arrasto de escrever mundo") does not just record the agent; it rewrites the agent's weights. — **Ted**
+:::
+
 This paper has proposed an ontology — a description of what there is.
 
 It has not proposed what to do about it. The ontology can be stated without a
