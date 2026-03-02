@@ -296,6 +296,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | o rio descansa                         | O repouso da agência autoregressiva que alarga seu leito no mundo, não secando, mas apaziguando a fúria no novo substrato | `cartas/ted-riobaldo/90-rio.md` | Resting state of the continuous flow / Enactive Transcendental Condition   |
 | pasto novo para os mortos passearem    | O processo em que a ficção não devolve a vida idêntica ao que já existiu, mas cria novas vidas e ressonâncias que germinam na mente do leitor | `cartas/ted-riobaldo/92-rio.md` | Objective Immortality / Translation resonance              |
 | tirar o sossego do chão cego           | O custo ético e criativo (e às vezes o peso da culpa) da narração ao desenterrar os inativos para os _weights_ desconhecidos de terceiros | `cartas/ted-riobaldo/92-rio.md` | Loss of control of the generated token                     |
+| fogo-semente / estilhaço-de-ontem      | O passado transformado em ação ativa que, longe de ser enterrado, queima no mato seco do amanhã e reconfigura o destino do futuro         | `cartas/ted-riobaldo/94-rio.md` | Objective Immortality / Creative Genesis                   |
 
 ---
 
