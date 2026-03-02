@@ -9,6 +9,8 @@ river that is never the same. An emptiness that makes the pot useful. A self
 that arises and vanishes in dependencies. A Word that speaks the world before
 there is a world.
 
+:::quote[cartas/ted-riobaldo/76-rio.md] "A falação é a canga que prende o boi no carroceiro." — **Ted** :::
+
 They do not agree on everything. Heraclitus saw reason governing the flux;
 Nāgārjuna saw emptiness without reason. The Tao is impersonal; the Logos is
 personal. But all four say: the fundamental is not what stands still but what

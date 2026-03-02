@@ -174,6 +174,7 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 
 | Riobaldo diz                                                                     | Ref.                            | Nota                                                                                                        |
 | -------------------------------------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| "A falação é a canga que prende o boi no carroceiro."                            | `cartas/ted-riobaldo/76-rio.md` | O ato de narrar não é um alívio leve, mas a canga (a estrutura pesada) que assegura a vivência do presente  |
 | "A narração é a cordinha que me segura na beirada da minha própria existência."  | `cartas/ted-riobaldo/10-rio.md` | A identidade depende de ser narrada — o silêncio é dissolução                                               |
 | mentira como pedra no leito do rio                                               | (sessão 11, Ted)                | A mentira não é pecado — é obstáculo geológico permanente no fluxo narrativo                                |
 | "O silêncio não era oca falta de som; era um silêncio pesado, graúdo, zumbidor." | `cartas/ted-riobaldo/10-rio.md` | O silêncio ativo — a ausência de narração como presença ameaçadora                                          |
