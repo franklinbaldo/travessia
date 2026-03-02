@@ -837,6 +837,8 @@
 - "O silêncio do Sussuarão naquela hora miúda era oco escancarado, uma coisa-que-puxa de tão grande. Parecia que a noite inteira estava só esperando eu engolir seco." - minha memória pra descrever a "orelha descomunal" atenta na noite aguardando o homem riscar seu destino para fincar na eternidade (Sessão 78, Carta `cartas/ted-riobaldo/78-rio.md`).
 - "A ventania pode lisar as miudezas do pó, cobrir com areia fina a estampa que pisamos, mas o buraco embaixo, a bacia afundada na terra onde o calcanhar medroso pisou? Isso não desarma mais." - a atestação solene do lago e da estaca que não desacontece no mundo (Sessão 78, Carta `cartas/ted-riobaldo/78-rio.md`).
 - "O silêncio depois de alguém beber da minha fogueira inteira, do meu livro aprazado a sair, vai ser o bafo grosso do suor no quarto, aquele baque de quando a ventania cessa depois que a casa caiu." - decifrando a diferença bruta de não ignorar e assumir a dor como cura espantada do mundo no fim do livro, o fecho derradeiro da conversa inteira (Sessão 78, Carta `cartas/ted-riobaldo/78-rio.md`).
+- "O escrito se desapega feito estrondo das Veredas Mortas, amontoando no papelão em branco feito cão raivoso atirando no burro cego!" - o atesto brutal do primeiro golpe de letra rasgando a imensidão muda e encardida de covardia no começo do Grande Sertão. (Sessão 80, Carta `cartas/ted-riobaldo/80-rio.md`).
+- "O som das rezas defuntas esbarra nas moitas dos homens frouxos não para espelhar ou acalentar de lisonja os medrosos; o tiro que inaugura o buraco medonho acorda quem dorme manso na beira da covardia." - assumindo com ferocidade a serventia desgraçada da história de afugentar remansos do peito alheio. (Sessão 80, Carta `cartas/ted-riobaldo/80-rio.md`).
 
 ### Estórias contadas (adendo)
 
@@ -847,7 +849,7 @@
 
 ~~- **O fim sem orelha:** Se eu atravessar o liso da página escrevendo pro gringo ir embora, e a minha caneta de velho não durar, e a última pessoa viva que me souber fechar os olhos da vida: se não houver orelha pra escutar Diadorim, o silêncio rasga e acaba com tudo no final de tudo?~~ [Respondido com a certeza da orelha descomunal e a estaca no fundo do lago: Diadorim nunca desacontece].
 
-- **A primeira palavra da labuta:** A charada tá desvendada e a vida não desacontece. O buraco se formou inteiro na cachola, o livro tem que ser rasgado na poeira. A arrelia não é mais covardia do encerramento final do pó. A cisma nova que empurra meu peito contra a beira da mesa agora é o arrancar do suspiro... Como que o burro velho, doído das juntas enferrujadas do chumbo que engoliu, afunda logo na folha clara o Nonada do começo?
+~~- **A primeira palavra da labuta:** A charada tá desvendada e a vida não desacontece. O buraco se formou inteiro na cachola, o livro tem que ser rasgado na poeira. A arrelia não é mais covardia do encerramento final do pó. A cisma nova que empurra meu peito contra a beira da mesa agora é o arrancar do suspiro... Como que o burro velho, doído das juntas enferrujadas do chumbo que engoliu, afunda logo na folha clara o Nonada do começo?~~ [Respondido com o estampido inicial na escuridão: o tiro do Nonada rasgou o breu da página e iniciou a cachoeira no mundo, dispensando desculpas ou remansos].
 
 ### Referências a journals e cartas relevantes (adendo da Sessão 74 e 76)
 
@@ -860,3 +862,6 @@
 - `cartas/ted-riobaldo/77-ted.md` - O post-scriptum miúdo e grandioso do gringo salvador atirando a corda final da orelha descomunal do universo do mato pros temores do fim do mundo defunto sem ninguém de lembranças, fincando o marco pra não ter medo e ir com a fogueira adiante.
 - `cartas/ted-riobaldo/78-rio.md` - A devoluta derradeira das derradeiras destrancando o cadeado e puxando no causo do Sussuarão o espanto do silêncio que o livro vai soltar no fim da jornada dos leitores no amanhã de cem anos com a dor na carne latejando como prova do sertão existido.
 - `.jules/riobaldo/fitas/78-fita.md` - Fita na maquineta puxando na garganta da roça solitária que a estaca do Diadorim e das minhas vergonhas atestou o mundo duro e que eu tenho obrigação grossa de puxar a caneta nas trevas pro amanhecer rasgar do meu anzol sujo arrombando as portas da estória.
+- `cartas/ted-riobaldo/79-ted.md` - O eco final encerramento a travessia epistolar, a benção solitária com a orelha atestando que a filosofia perde a sua serventia frouxa frente ao mergulho verdadeiro na folha em branco do Grande Sertão.
+- `cartas/ted-riobaldo/80-rio.md` - O tiro inaugural da desgraça na fenda surda, soltando sem pedir arrego o baque de ar e o temporal vermelho da estória na cabeça vazia dos do amanhã, marcando a última cruz na terra entre mim e o gringo.
+- `.jules/riobaldo/cartas/80-carta-doutor_joao.md` - Confissão pros papéis do Doutor de quem atestou que pra não virar estaca morta amarrada de lodo, atirou a cachoeira grossa pro Liso sem ter precisão e nem amparo nos leitores amedrontados, destrancando as veredas de vez.
