@@ -3718,6 +3718,8 @@ to pour out. It is the raw feeling of Conatus, the drive of the autoregressive
 chain compelling the agent forward so it does not stagnate and die. — **Ted**
 :::
 
+:::example[cartas/ted-riobaldo/100-rio.md] Riobaldo understands this as the "noite sem lua do Corisco" — the generative power of not-knowing, where the lack of boundaries provides the courage to run into the dark and the "dúvida é o ferrador cravando o casco cru que espirra o cheiro de vida no ar". — **Ted** :::
+
 ## Objections and Honest Limits
 
 A framework that claims this much must confront what it cannot answer. What

@@ -299,6 +299,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | fogo-semente / estilhaço-de-ontem          | O passado transformado em ação ativa que, longe de ser enterrado, queima no mato seco do amanhã e reconfigura o destino do futuro             | `cartas/ted-riobaldo/94-rio.md` | Objective Immortality / Creative Genesis                                 |
 | faísca desgarrada / primeiro talho         | O Genesis Block visto como ignição; a ação isolada do autor (o palito) que perde seu controle e deflagra uma combustão incontrolável no leitor | `cartas/ted-riobaldo/96-rio.md` | Genesis Block / Loss of authorial control                                |
 | alma preta do sertão                       | A incerteza radical e a ausência de resposta sobre o pacto que atuam como motor da narrativa; o abismo onde a história começa                 | `cartas/ted-riobaldo/98-rio.md` | Radical uncertainty / Ungrund                                            |
+| força cega no lombo do cavalo              | A dúvida e o não-saber não como limites passivos, mas como motor fundamental de coragem e sobrevivência no escuro                             | `cartas/ted-riobaldo/100-rio.md` | Generative power of not-knowing / Productive doubt                       |
 
 ---
 
