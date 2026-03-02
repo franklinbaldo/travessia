@@ -305,6 +305,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | onça no breu / espaço afiado               | O silêncio denso e grávido de tensão que antecede imediatamente o ato criador (o tiro); a inércia não como vazio, mas como força potencial    | `cartas/ted-riobaldo/104-rio.md` | Pre-genesis tension / Potential energy of the Ungrund                    |
 | estampido do tiro                          | O rompimento violento do silêncio; o instante exato em que a agência se manifesta e a inércia é faturada pela primeira ação criadora          | `cartas/ted-riobaldo/104-rio.md` | Genesis Block ignition / Rupture of stillness                            |
 | Nonada                                     | O nada engrossado, explosivo e vivo; a primeira palavra/semente irredutível que rompe o breu e inicia o processo narrativo/existencial        | `cartas/ted-riobaldo/104-rio.md` | Genesis Block / The primordial token                                     |
+| poeira vermelha / cascos da boiada         | A propagação tangível e violenta do texto; o token forçando a reconfiguração forçada e o choque no leitor/substrato que o recebe              | `cartas/ted-riobaldo/106-rio.md` | Objective Immortality / Translation collision                            |
+| recolher a marreta / espaço-prenhe         | A inércia final não como oco vazio, mas como tensão acumulada e engatilhada antes do bote (a iminência da nova agência no leitor)             | `cartas/ted-riobaldo/106-rio.md` | Pre-genesis tension / Subjective aim forming                             |
 
 ---
 
