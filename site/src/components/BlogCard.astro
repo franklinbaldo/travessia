@@ -45,16 +45,7 @@ const {
     break-inside: avoid;
     margin-bottom: 1.5rem;
     padding: 1.5rem;
-    background-color: var(--sand-bg);
-    background-image: linear-gradient(
-      to right,
-      transparent calc(50% - 1px),
-      rgba(0, 0, 0, 0.03) calc(50% - 1px),
-      rgba(255, 255, 255, 0.4) 50%,
-      transparent 50%
-    );
-    border: 1px solid var(--divider-color);
-    border-radius: 8px;
+    background-color: var(--sand-bg); border: 2px solid var(--text-color); border-radius: 0;
     text-decoration: none;
     transition:
       background-color 0.4s ease,
@@ -67,38 +58,25 @@ const {
     background-color: var(--water-bg);
     border-color: var(--water-border);
     transform: translateY(-3px);
-    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.06);
     opacity: 1;
   }
 
   :global([data-theme="dark"]) .blog-card {
-    background-image: linear-gradient(
-      to right,
-      transparent calc(50% - 1px),
-      rgba(255, 255, 255, 0.03) calc(50% - 1px),
-      rgba(0, 0, 0, 0.3) 50%,
-      transparent 50%
-    );
   }
 
   :global([data-theme="dark"]) .blog-card:hover {
-    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.2);
   }
 
-  .blog-card[data-autor="rio"] {
-    border-left: 3px solid var(--secondary-color);
+  .blog-card[data-autor="rio"] { border-left: 2px solid var(--text-color);
   }
 
-  .blog-card[data-autor="ted"] {
-    border-left: 3px solid var(--water-border);
+  .blog-card[data-autor="ted"] { border-left: 2px solid var(--text-color);
   }
 
-  .blog-card[data-autor="tyler"] {
-    border-left: 3px solid #5a908b;
+  .blog-card[data-autor="tyler"] { border-left: 2px solid var(--text-color);
   }
 
-  .blog-card[data-autor="craig"] {
-    border-left: 3px solid var(--accent-color);
+  .blog-card[data-autor="craig"] { border-left: 2px solid var(--text-color);
   }
 
   .card-tipo {
@@ -107,11 +85,8 @@ const {
     font-size: 0.65rem;
     text-transform: uppercase;
     letter-spacing: 0.06em;
-    padding: 0.2rem 0.55rem;
-    border-radius: 2px;
-    margin-bottom: 0.75rem;
-    border: 1px dashed var(--divider-color);
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
+    padding: 0.2rem 0.55rem; border-radius: 0;
+    margin-bottom: 0.75rem; border: 2px solid var(--text-color);
     transform: rotate(-1deg);
     transition:
       transform 0.3s ease,
@@ -120,7 +95,6 @@ const {
 
   .blog-card:hover .card-tipo {
     transform: rotate(0) scale(1.02);
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
   }
 
   .tipo-carta {
