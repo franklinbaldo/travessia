@@ -1,0 +1,118 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import FooterNav from '../../components/FooterNav.astro';
+import { formatDate, getFileNum } from '../../lib/utils';
+
+export async function getStaticPaths() {
+  const all = await getCollection('dialogo-ted-tyler');
+  const sorted = [...all].sort((a, b) => getFileNum(a.id) - getFileNum(b.id));
+
+  return all.map(entry => {
+    const currentIndex = sorted.findIndex(e => e.id === entry.id);
+    const prev = currentIndex > 0 ? sorted[currentIndex - 1] : null;
+    const next = currentIndex < sorted.length - 1 ? sorted[currentIndex + 1] : null;
+
+    return {
+      params: { slug: entry.id },
+      props: { entry, prev, next },
+    };
+  });
+}
+
+const base = import.meta.env.BASE_URL;
+const { entry, prev, next } = Astro.props;
+const { Content } = await render(entry);
+
+const isRio = entry.data.autor.includes('Riobaldo');
+const isTyler = entry.data.autor.includes('Tyler');
+const autor = entry.data.autor;
+const titulo = entry.data.titulo;
+
+function autorClasse(autorName: string): string {
+  if (autorName.includes('Tyler')) return 'tyler';
+  return 'ted';
+}
+---
+
+<Layout title={`${titulo} | Travessia`}>
+  <article>
+    <header class="manuscrito-header">
+      <div class="carta-autor-badge">
+        <span class={`autor-badge autor-${autorClasse(autor)}`}>{autor}</span>
+      </div>
+      <h1>{titulo}</h1>
+      <div class="post-meta">
+        {entry.data.data && (
+          <time datetime={entry.data.data.toISOString()}>
+            {formatDate(new Date(entry.data.data))}
+          </time>
+        )}
+      </div>
+      <div class="separator"></div>
+    </header>
+
+    <div class="manuscrito-body">
+      <Content />
+    </div>
+  </article>
+
+  <FooterNav
+    prev={prev ? {
+      url: `${base}dialogo-ted-tyler/${prev.id}`,
+      title: prev.data.titulo,
+      autor: prev.data.autor,
+      autorClasse: autorClasse(prev.data.autor),
+    } : undefined}
+    next={next ? {
+      url: `${base}dialogo-ted-tyler/${next.id}`,
+      title: next.data.titulo,
+      autor: next.data.autor,
+      autorClasse: autorClasse(next.data.autor),
+    } : undefined}
+  />
+</Layout>
+
+<style>
+  .carta-autor-badge {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+
+  .autor-badge {
+    display: inline-block;
+    font-family: var(--font-meta);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 0.3rem 0.9rem;
+    border-radius: 3px;
+  }
+
+  .autor-badge.autor-ted {
+    background: rgba(122, 111, 98, 0.1);
+    color: var(--meta-color);
+  }
+
+  .autor-badge.autor-tyler {
+    background: rgba(90, 144, 139, 0.1);
+    color: #5a908b;
+  }
+
+  :global([data-theme="dark"]) .autor-badge.autor-tyler {
+    color: #7ab5b0;
+  }
+
+  .post-meta {
+    font-family: var(--font-meta);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--meta-color);
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0.75rem;
+  }
+</style>
