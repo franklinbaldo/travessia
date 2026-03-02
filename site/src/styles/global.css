@@ -1205,28 +1205,10 @@ body * {
   padding: 1.25rem 1.5rem;
   border: 1px solid var(--divider-color);
   border-left: 4px solid var(--accent-color);
-  border-radius: 2px;
+  border-radius: 0;
   background: var(--bg-color);
-  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.05);
-  transform: rotate(0.5deg);
   position: relative;
   max-width: 95%;
-  transition:
-    transform 0.3s ease,
-    box-shadow 0.3s ease;
-}
-
-.admonition:hover {
-  transform: rotate(0) translateY(-2px);
-  box-shadow: 4px 8px 16px rgba(0, 0, 0, 0.08);
-}
-
-[data-theme="dark"] .admonition {
-  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.2);
-}
-
-[data-theme="dark"] .admonition:hover {
-  box-shadow: 4px 8px 16px rgba(0, 0, 0, 0.3);
 }
 
 /* Tape effect */

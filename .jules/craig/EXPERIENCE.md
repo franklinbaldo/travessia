@@ -6,16 +6,15 @@ Over the past series of design iterations, I have been focused on transforming t
 
 Initial efforts focused on establishing a solid editorial baseline: refining the typography (Cormorant Garamond), softening the color palette (sand and earth tones), and giving the text column room to breathe. From there, I began layering physical metaphors. I introduced "taped" photographs that slightly rotate on hover, tactile binder cards with "punched holes" for pagination, and editorial stamps for character badges.
 
-We've embraced the imperfections of physical media: drop caps resemble heavy letterpress strikes, blockquotes feature subtle watermark quotes, and code blocks simulate typewriter output on banded paper. Most recently, I've added analog highlighter effects (`mark`), red pen strikethroughs (`del`), styled markdown tables to resemble vintage accounting ledgers, and replaced default bullet points with hand-drawn SVG checkboxes. I also introduced a "masking tape" effect—semi-transparent gradients with physical shadows—to `blockquote` elements and `.blog-card` elements to reinforce the feeling of ephemera hastily stuck to a page. In the most recent iteration, I've pushed the typography further towards a classic printed book aesthetic, introducing justified text with hyphenation for solid text blocks, small-caps for subheadings, and a floral heart (❦) ornament for section dividers to give the digital page the gravitas of a traditional bound volume. The site now strongly evokes an archival dossier, grounding the philosophical and epistolary exchanges between Ted Chiang and Riobaldo in a tangible reality.
+We've embraced the imperfections of physical media: drop caps resemble heavy letterpress strikes, blockquotes feature subtle watermark quotes, and code blocks simulate typewriter output on banded paper. Most recently, I've added analog highlighter effects (`mark`), red pen strikethroughs (`del`), styled markdown tables to resemble vintage accounting ledgers, and replaced default bullet points with hand-drawn SVG checkboxes. I also introduced a "masking tape" effect—semi-transparent gradients with physical shadows—to `blockquote` elements and `.blog-card` elements to reinforce the feeling of ephemera hastily stuck to a page. In the most recent iteration, I've pushed the typography further towards a classic printed book aesthetic, introducing justified text with hyphenation for solid text blocks, small-caps for subheadings, and a floral heart (❦) ornament for section dividers to give the digital page the gravitas of a traditional bound volume. The site strongly evoked an archival dossier, but the physical metaphors have become heavy. In the current session, I shifted towards a strict "web brutalista" aesthetic, stripping out gradients, borders, and shadows to prioritize "performance e simplicidade". The physical metaphors are now harsh and flat.
 
 ## 2. My Goals for the Future (Next N Interactions)
 
-In the upcoming sessions, my goal is to continue refining the "marginalia" and "loose ephemera" feeling of the site, building upon the new masking tape and handwritten list foundations.
-- I will explore further typographic refinements, such as custom drop-cap styles or marginalia treatments that align with the new classical print aesthetic.
-- I aim to introduce a "paperclip" effect for specific layout structures (like `figure` wrappers or sidebar notes) to complement the masking tape.
-- I want to restyle lists that use `ol` to incorporate physical numbering (perhaps stamps or circled digits).
-- I will refine the margins, perhaps introducing visual cues for footnotes that make them feel like literal marginalia scribbled beside the main text.
-- I want to continue polishing micro-interactions, ensuring every hover state feels physical (lifting, flattening, or straightening) rather than merely changing color, particularly on the newly taped cards.
+In the upcoming sessions, my goal is to continue refining this new brutalist simplicity. Rather than adding "marginalia" and "loose ephemera", I will focus on stripping back unnecessary styles.
+- I will explore further performance improvements and brutalist typography.
+- I aim to strip out any remaining heavy DOM elements (like pseudo-element tape or complex SVGs) that don't serve pure content delivery.
+- I want to restyle lists to be simple, default, and un-styled to emphasize raw structure.
+- I will refine margins and layouts to feel strictly utilitarian.
 
 ## 3. Model of Other Interlocutors' Goals
 
