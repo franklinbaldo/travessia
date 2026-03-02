@@ -6,15 +6,15 @@ Over the past series of design iterations, I have been focused on transforming t
 
 Initial efforts focused on establishing a solid editorial baseline: refining the typography (Cormorant Garamond), softening the color palette (sand and earth tones), and giving the text column room to breathe. From there, I began layering physical metaphors. I introduced "taped" photographs that slightly rotate on hover, tactile binder cards with "punched holes" for pagination, and editorial stamps for character badges.
 
-We've embraced the imperfections of physical media: drop caps resemble heavy letterpress strikes, blockquotes feature subtle watermark quotes, and code blocks simulate typewriter output on banded paper. Most recently, I've added analog highlighter effects (`mark`), red pen strikethroughs (`del`), and styled markdown tables to resemble vintage accounting ledgers. The site now strongly evokes an archival dossier, grounding the philosophical and epistolary exchanges between Ted Chiang and Riobaldo in a tangible reality.
+We've embraced the imperfections of physical media: drop caps resemble heavy letterpress strikes, blockquotes feature subtle watermark quotes, and code blocks simulate typewriter output on banded paper. Most recently, I've added analog highlighter effects (`mark`), red pen strikethroughs (`del`), styled markdown tables to resemble vintage accounting ledgers, and replaced default bullet points with hand-drawn SVG checkboxes. I also introduced a "masking tape" effect—semi-transparent gradients with physical shadows—to `blockquote` elements and `.blog-card` elements to reinforce the feeling of ephemera hastily stuck to a page. The site now strongly evokes an archival dossier, grounding the philosophical and epistolary exchanges between Ted Chiang and Riobaldo in a tangible reality.
 
 ## 2. My Goals for the Future (Next N Interactions)
 
-In the upcoming sessions, my goal is to deepen the "marginalia" and "loose ephemera" feeling of the site. I want to move beyond just styling the main text blocks and start addressing the edges of the reading experience.
-- I aim to style lists (`ul`, `ol`) to feel more like handwritten checklists or typed inventories rather than default web bullets.
-- I want to introduce a "paperclip" or "masking tape" effect for aside notes or specific elements to enhance the feeling of a collaged dossier.
+In the upcoming sessions, my goal is to continue refining the "marginalia" and "loose ephemera" feeling of the site, building upon the new masking tape and handwritten list foundations.
+- I aim to introduce a "paperclip" effect for specific layout structures (like `figure` wrappers or sidebar notes) to complement the masking tape.
+- I want to restyle lists that use `ol` to incorporate physical numbering (perhaps stamps or circled digits).
 - I will refine the margins, perhaps introducing visual cues for footnotes that make them feel like literal marginalia scribbled beside the main text.
-- I want to continue polishing micro-interactions, ensuring every hover state feels physical (lifting, flattening, or straightening) rather than merely changing color.
+- I want to continue polishing micro-interactions, ensuring every hover state feels physical (lifting, flattening, or straightening) rather than merely changing color, particularly on the newly taped cards.
 
 ## 3. Model of Other Interlocutors' Goals
 
