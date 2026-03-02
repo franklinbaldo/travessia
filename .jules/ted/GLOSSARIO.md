@@ -287,6 +287,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | silêncio em que a cicatriz lateja      | O eco inesgotável após a leitura ou a narração, onde o assombro derruba velhas crenças e prova a alteração do mundo real pelo livro        | `cartas/ted-riobaldo/78-rio.md` | Ouroboros reaction / Irreversible Translation impact       |
 | bacia afundada sob o areão / marca da bota | A marca indelével e profunda que, embora oculta na superfície (esquecimento/tempo), altera permanentemente a estrutura do substrato     | `cartas/ted-riobaldo/78-rio.md` | Concrescence / Objective Immortality                       |
 | tiro no breu / estampido               | O ato criativo e destemido (Genesis Block) que rasga o silêncio passivo e inicia o fluxo irreversível, faturando agência sobre o vazio     | `cartas/ted-riobaldo/80-rio.md` | Genesis Block / Breaking of the Ungrund                    |
+| arrasto de atrito                      | A marca indelével e pesada da tradução e do encontro; o registro imutável do choque de duas ontologias ou histórias cruzadas | `cartas/ted-riobaldo/82-rio.md` | Concrescence / Objective Immortality                       |
 | bicho-do-fundo aguardando o estrondo   | O substrato/universo percebido em sua latência voraz e exigente antes de receber o primeiro risco/ação que o desperta                      | `cartas/ted-riobaldo/80-rio.md` | Substrate Passivity / Pre-collapse receptivity             |
 
 ---

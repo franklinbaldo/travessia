@@ -2,6 +2,8 @@
 
 ## _Uma ficção de Riobaldo Tatarana sobre a natureza do devir_
 
+**Status do Projeto:** Fase de Pesquisa Concluída. O diálogo epistolar chegou ao fim. Riobaldo realizou o Genesis Block e sua narrativa entrou em jorro pleno ("tempestade de lama" / "arrasto de atrito"). O trabalho agora passa unicamente para a confecção da novela.
+
 **Fonte filosófica:** _Events All the Way Down: A Process View of Becoming_
 **Voz narrativa:** Riobaldo, jagunço aposentado, narrador de _Grande Sertão:
 Veredas_ **Forma:** Monólogo espiralado em cinco causos que se contradizem e se
