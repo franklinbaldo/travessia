@@ -310,6 +310,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | recolher a marreta / espaço-prenhe         | A inércia final não como oco vazio, mas como tensão acumulada e engatilhada antes do bote (a iminência da nova agência no leitor)              | `cartas/ted-riobaldo/106-rio.md` | Pre-genesis tension / Subjective aim forming                             |
 
 ---
+| poeira que o vento roda | A transmissão inevitável, ruidosa e permanente da marca do agente no tempo, reconfigurando o chão receptor | `cartas/ted-riobaldo/110-rio.md` | Objective Immortality / Translation over time |
 
 ## 5. Instruções de Manutenção
 

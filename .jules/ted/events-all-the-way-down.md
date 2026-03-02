@@ -4019,6 +4019,9 @@ the same from every vantage point. The history may exceed any finite reader's
 capacity to survey, in which case parts of it exist only in storage, not in
 active experience.
 
+:::example[cartas/ted-riobaldo/110-rio.md] "Nós somos esse vento, Ted, e a poeira, essa amizade nossa, nunca vai morrer limpa. Ela vai sujar de vida quem apanhar nossos papéis no tempo que a gente não ver mais." The permanence of the event (Objective Immortality) does not mean it is preserved in sterile, static clarity. It re-enters the process as active, contagious dirt ("poeira que revoa") that irrevocably alters the clean floors of future substrates across vast stretches of time. — **Ted** :::
+
+
 **Reader.** A process that interprets a history by reading a finite window of it
 under a specific set of weights. The reader produces the agent's _ipse_ — its
 lived, situated, first-person identity. The same history, read by different
