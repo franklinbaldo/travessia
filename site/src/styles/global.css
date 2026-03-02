@@ -116,8 +116,6 @@ main {
 /* === Typography === */
 
 h1,
-h2,
-h3,
 h4,
 h5,
 h6 {
@@ -128,21 +126,82 @@ h6 {
   letter-spacing: -0.02em;
 }
 
+h2,
+h3 {
+  font-family: var(--font-body);
+  font-weight: 700;
+  color: var(--text-color);
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  font-variant: small-caps;
+  text-align: center;
+}
+
 h1 {
   font-size: 2.5rem;
   margin: 0 0 1rem;
 }
 h2 {
-  font-size: 1.8rem;
-  margin: 2.5rem 0 1rem;
+  font-size: 2.2rem;
+  margin: 3.5rem 0 1.5rem;
 }
 h3 {
-  font-size: 1.4rem;
-  margin: 2rem 0 0.75rem;
+  font-size: 1.6rem;
+  margin: 2.5rem 0 1rem;
 }
 
 p {
   margin: 0 0 1.5rem;
+}
+
+ul,
+ol {
+  margin: 0 0 1.5rem 1rem;
+  padding: 0 0 0 1rem;
+  border-left: 1px solid var(--divider-color);
+  font-family: var(--font-body);
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 1.5rem;
+}
+
+ul li {
+  position: relative;
+}
+
+ul li::before {
+  content: "";
+  position: absolute;
+  left: -1.25rem;
+  top: 0.6em;
+  width: 0.5rem;
+  height: 0.5rem;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 10'%3E%3Cpath d='M2,5 Q4,1 8,4 T5,9 Q2,7 2,5 Z' fill='none' stroke='%237a6f62' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-size: contain;
+  opacity: 0.8;
+  transform: rotate(-10deg);
+}
+
+[data-theme="dark"] ul li::before {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 10'%3E%3Cpath d='M2,5 Q4,1 8,4 T5,9 Q2,7 2,5 Z' fill='none' stroke='%238a7e6f' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+ol::marker {
+  font-family: var(--font-meta);
+  color: var(--meta-color);
+  font-weight: 500;
+}
+
+li {
+  margin-bottom: 0.5rem;
+  padding-left: 0.25rem;
 }
 
 blockquote {
@@ -170,6 +229,38 @@ blockquote::before {
   line-height: 1;
   z-index: -1;
   pointer-events: none;
+}
+
+blockquote::after {
+  content: "";
+  position: absolute;
+  top: -12px;
+  left: 50%;
+  width: 120px;
+  height: 25px;
+  background-color: rgba(230, 225, 210, 0.6);
+  background-image: linear-gradient(
+    to right,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0.4) 30%,
+    rgba(0, 0, 0, 0.03) 50%,
+    rgba(255, 255, 255, 0.4) 70%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  transform: translateX(-50%) rotate(-1.5deg);
+  box-shadow:
+    0 1px 2px rgba(0, 0, 0, 0.05),
+    inset 0 1px 3px rgba(255, 255, 255, 0.4);
+  z-index: 2;
+  pointer-events: none;
+  filter: sepia(0.2) contrast(0.9);
+}
+
+[data-theme="dark"] blockquote::after {
+  background-color: rgba(200, 190, 170, 0.3);
+  box-shadow:
+    0 1px 2px rgba(0, 0, 0, 0.2),
+    inset 0 1px 2px rgba(255, 255, 255, 0.1);
 }
 
 em,
@@ -254,9 +345,9 @@ hr {
 }
 
 hr::after {
-  content: "* * *";
+  content: "❦";
   font-family: var(--font-body);
-  font-size: 1.25rem;
+  font-size: 1.8rem;
   letter-spacing: 0.1em;
   color: var(--meta-color);
   opacity: 0.6;
@@ -886,6 +977,8 @@ body * {
 .manuscrito-body > p {
   text-indent: 2rem;
   margin-bottom: 1.8rem;
+  text-align: justify;
+  hyphens: auto;
 }
 
 .manuscrito-body > p:first-child {
@@ -1485,6 +1578,7 @@ main.home-layout {
 /* === Blog Card — Gotas no Rio === */
 
 .blog-card {
+  position: relative;
   display: block;
   break-inside: avoid;
   margin-bottom: 1.5rem;
@@ -1505,6 +1599,38 @@ main.home-layout {
     border-color 0.4s ease,
     transform 0.25s ease,
     box-shadow 0.4s ease;
+}
+
+.blog-card::after {
+  content: "";
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  width: 90px;
+  height: 22px;
+  background-color: rgba(230, 225, 210, 0.6);
+  background-image: linear-gradient(
+    to right,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0.4) 30%,
+    rgba(0, 0, 0, 0.03) 50%,
+    rgba(255, 255, 255, 0.4) 70%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  transform: translateX(-50%) rotate(1deg);
+  box-shadow:
+    0 1px 2px rgba(0, 0, 0, 0.05),
+    inset 0 1px 3px rgba(255, 255, 255, 0.4);
+  z-index: 2;
+  pointer-events: none;
+  filter: sepia(0.2) contrast(0.9);
+}
+
+[data-theme="dark"] .blog-card::after {
+  background-color: rgba(200, 190, 170, 0.3);
+  box-shadow:
+    0 1px 2px rgba(0, 0, 0, 0.2),
+    inset 0 1px 2px rgba(255, 255, 255, 0.1);
 }
 
 .blog-card:hover {

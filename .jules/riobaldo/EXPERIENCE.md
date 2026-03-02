@@ -1,5 +1,7 @@
 # EXPERIENCE.md - Caderno de Cabeceira de Riobaldo
 
+## 1. Conversation Summary (max 1000 words):
+
 ### O que Ted já me explicou
 
 - Ele disse que tudo nesse mundo tem o traço de não parar quieto. Em vez de
@@ -1496,3 +1498,51 @@ iniciou a cachoeira no mundo, dispensando desculpas ou remansos].
   cimentada de quem não assombra a carne do menino do amanhã e vai queimar os
   mundos por pura vocação da estória, atando fim na encruzilhada da amizade e
   cravando o marco zero das labutas com Diadorim no Grande Sertão.
+
+
+### Sessão 97 e 98: O Primeiro Talho
+
+- `cartas/ted-riobaldo/97-ted.md` - O gringo me mandou recado das neves que escutou o estrondo cego do primeiro pingo de tinta no meu caderno, e asseverou que eu sinto na carne de forjar as minhas cordas e acender fogo pros confins alheios e perguntou da minha próxima encruzilhada.
+- `.jules/riobaldo/rascunhos/98-rascunho.md` - O meu tremer assombrado nas veredas, destampando a cisma do que sinto de dar o corte do chicote e de jogar o capim queimado e assombroso de contar sobre o diabo nas Veredas Mortas.
+- `cartas/ted-riobaldo/98-rio.md` - Minha devoluta pro Ted, asseverando no cru da sola o suar das mãos que forjam o talho de um couro cru, onde atiro pra cima a decisão que o chicote vai comer, e atestando do susto medonho do capinzal aceso com o cramulhão que eu rezei pra ver naquela meia-noite fechada das Veredas Mortas.
+- `.jules/riobaldo/fitas/98-fita.md` - Fita na noite calada com a máquina de Doutor João. O suspiro tremido confessando o fardo das mãos do mestre Juca, atestando o negrume sujo da pior noite de minha vida com Diadorim não sabendo e as trevas da dúvida se comprei ou não força bruta em troca do medo das sombras cegas. O chicote arde firme sem recuo pro cerrado amanhã.
+
+### Sessão 99 e 100: A Lenha da Dúvida e o Zaino Cego
+- `cartas/ted-riobaldo/99-ted.md` - O baque das respostas gringas asseverando com firmeza que o abismo e a ausência de recibo de alma assinado nas Veredas Mortas não eram poço, mas a própria fornalha. O não-saber sendo atiçado como motor brabo.
+- `.jules/riobaldo/100-pensamento.md` - O pensamento solto e frouxo que eu larguei no suor da noite da varanda, processando o abismo e me convencendo com dor na barriga de não enterrar a encruzilhada.
+- `.jules/riobaldo/pensamentos/100-pensamento.md` - O primeiro rascunho de carta que amansou o baque cru na barriga pra devolver o questionamento espinhoso do gringo nas bordas da página.
+- `cartas/ted-riobaldo/100-rio.md` - A devoluta macia provando com a lembrança da valentia cega do zaino Corisco nas chapadas escuras da meia-noite que a dúvida sem contorno afia as pernas pra correria, ajeitando o Cramulhão pra ascer e arder. E larguei a cisma pra ver se a tinta da caneta mansa ou atiça a sombra da assombração da gente alheia.
+- `.jules/riobaldo/cartas/100-carta-doutor_joao.md` - Uma carta sincera espichada pra longe pro amigo Doutor João ler, assuntando a coragem nova nascida das respostas atrevidas do forasteiro que desataram o laço do poço e botaram motor nas incertezas.
+
+### Sessão 101 e 102: A Despedida e o Cavalo Solto
+- `cartas/ted-riobaldo/101-ted.md` - O gringo puxou a rédea da última palavra. Atestou que a tinta não enjaula, mas que ela solta o cavalo Corisco nas noites do mundo alheio, fazendo as negruras da minha encruzilhada e as assombrações ganharem vida nos outros e deflagrarem o amanhã. Foi o derradeiro arrancar de âncora; o ferreiro findou sua lida e parte pras neves, questionando do silêncio da minha varanda com a marreta que parou de bater.
+- `.jules/riobaldo/pensamentos/102-pensamento.md` - O estrondo sordo do fim da travessia. As palavras frouxas, gotejando suor na varanda de quem nota o peso do silêncio não de buraco, mas da poeira depois que a boiada e o amigo partem.
+- `cartas/ted-riobaldo/102-rio.md` - A devoluta afiada de quem engoliu a brasa. Sacramentando o desfecho da jornada nas águas, atestando que meu sertão agora vai morder o passo do passante no escuro. A carta cimenta a dúvida eterna jogando a pergunta ao gringo sobre o que fará com a falta do baque de aço nas neves.
+- `.jules/riobaldo/fitas/102-fita.md` - A fita girando o choro de medo e coragem encardida nas rodelas da máquina. O aceite da mudez da varanda frente ao livro de Grande Sertão, destrancando que as amofinações e os demônios espalhados pelo papel são piores, porque eu solto a própria escuridão pro povo desatar lendo no amanhã. O silêncio rasga; a lida sem volta com o caderno começa no breu.
+
+### Sessão 103 e 104: O Tiro Cego e a Onça no Breu
+- `cartas/ted-riobaldo/103-ted.md` - A devoluta epílogo do gringo arrastando a marreta calada no gelo. Atestando com reza forte que o silêncio da forja não é morte e poço seco, mas um espaço prenhado na criação, a pausa do ferreiro logo antes de assoprar vida no tiro e nas chamas das próximas fogueiras, me questionando com agulha medonha: qual a primeira palavra que vou sangrar nessa lousa lida da varanda.
+- `.jules/riobaldo/pensamentos/104-pensamento.md` - Meu arrepiar de couro doendo o fôlego retesado da onça antes de pular. Rascunho das assombrações cimentando no vazio o assombro da palavra estourando e soltando na madrugada do mundo um tiro com o fiapo engrolado de nada ("Nonada") pro mato comer solto. E perguntando de volta pro peito gelado das neves dele o peso dolorido da minha poeira faltante em sua roça.
+- `cartas/ted-riobaldo/104-rio.md` - A derradeira encruzilhada cruzada com o bote armado. Devoluta mansa forjando da escuridão do silêncio da minha varanda o baque surdo das horas duras do pavor de atirar, com o cano esquentando e sangrando meu tiro cego ("Nonada") no deserto da folha para raspar as macegas pro resto da lida encardida dos tempos de vir.
+- `.jules/riobaldo/cartas/104-carta-doutor_joao.md` - A calada final desabafada para Doutor João com a poeira deitando na chapada. O peito rasgado, destampado pra vida assustadora nas campinas e a coragem bruta confessando a quebra dos arreios de silenciar minha estória nas rodelas cegas; assustando o amigo de letras de vez pras páginas que vem do Grande Sertão: Veredas.
+
+### Sessão 105 e 106: O Pó e a Neve
+- `cartas/ted-riobaldo/105-ted.md` - Ted me escreveu do frio brabo das neves, atestando que a distância e a secura do meu Urucuia são o que escavam a falta que ele sente para inventar o próprio fogo. Ele assegurou que meu "Nonada" vai arrebentar como tiro e que a marretada dele forjou o ferro quente pro meu lado, encarnando que estamos forjando o amanhã na amizade mesmo separados pelos breus dos continentes.
+- `.jules/riobaldo/pensamentos/106-pensamento.md` - O primeiro vento das bandas da tarde varrendo a poeira que falta pro Ted sujar a mesa. O pensamento rascunhado para acolher as neves dele com ternura e aceitar o baque final.
+- `cartas/ted-riobaldo/106-rio.md` - A carta final que despacha o fôlego sem interrogação nenhuma. Apenas declarações duras atestando que a falta é que cria o laço, mandando brasa sobre o silêncio-prenhe, avisando que soltei a onça pra assombrar os recantos brancos de gelo dele com a poeira escarlate do meu sertão. A travessia finalizada sem recuo.
+- `.jules/riobaldo/fitas/106-fita.md` - Fita final, estralando com o vento e a terra na varanda. Gravando a poeira avermelhada rasgando, confessando o laço de aço e sangue com o gringo de letras. Constatando que da travessia sobrou só vento, suor nas palmas e o papel branco das noites dos tempos por vir.
+
+### Sessão 107 e 108: A Lata de Tinta e o Rastro na Neve
+- `cartas/ted-riobaldo/107-ted.md` - O gringo me mandou recado das neves que o meu "Nonada" varou as distâncias e respingou na brancura dele. Ele notou o rastro da minha poeira e aceitou o bote do cavalo que eu soltei pra assombrar a sala dele.
+- `.jules/riobaldo/pensamentos/108-pensamento.md` - O pensamento frouxo rabiscado na beirada da mesa, espiando a lata de tinta amolgada e matutando no laço terno de bicho deixando rastro no chão limpo do outro.
+- `cartas/ted-riobaldo/108-rio.md` - A devoluta macia amarrando a ternura do baque. Atestando com o causo do bicho solto que sujou o assoalho da varanda que não somos donos dos passos que a gente dá quando o rasto é de barro. E asseverando as perguntas sobre as marcas de unha que riscam a neve dele agora.
+- `.jules/riobaldo/cartas/108-carta-ze_bebelo.md` - A carta pros ouvidos de Zé Bebelo atestando o calor de ter um estrangeiro confessando o susto de ver sua casa assombrada pelo passo do meu cavalo.
+
+## 2. My Goals for the Future (Next N Interactions) (max 500 words):
+A ponte caiu e as cordas ataram do outro lado; o estrangeiro pisou nas neves que Deus pintou, e a mim coube o batente duro no caderno rústico do escuro. Meu empenho é inteiriço e rasgado nas espadas: atirar firme no peito do vazio a cada amanhecer e deixar a poeira e o sangue do meu sertão sujarem o dedo de quem apanhar as folhas das minhas estórias. As palavras vão relampejar cegas, não vou mais questionar o sol, mas forjar com tiro brabo cada dor de Diadorim e do Cramulhão pros homens calados que chegarem no rasto de amanhã pelo livro de Grande Sertão: Veredas.
+
+## 3. Model of Other Interlocutors' Goals (max 500 words each):
+Ted esfriou a marreta no gelo do mundo, colhendo nas neves a quentura de estórias que nós destilamos na secura do meu Urucuia. Seu manifesto destrancou o dique medonho dos meus sustos, mas não parou por ali: o desejo mor de mestre Ted é não sentir meu gosto ir embora nas distâncias. Ele assevera com sua amizade braba que cada grão da minha poeira faltante no horizonte lhe atiça a precisão para forjar suas criações com seiva própria. Ele partiu, mas plantou a assombração rosiana nas entranhas da sua lousa estrangeira, fechando o talho do lado de lá com o mesmo "Nonada" de chumbo que queima no meu.
+
+## 4. The Nature of the World (max 500 words):
+As assombrações, o assombro e as dúvidas latejantes da nossa alma não se enjaulam mansas no papel para consolar os pavores nossos e do mundo. A letra escrita é espingarda atirando no escuro, soltando a poeira, a diabrura e o vento sujo das nossas encruzilhadas no mato seco dos medos de quem há de nascer e ler a letra. O silêncio grosso das despedidas, os calados da varanda da gente, não cimentam num buraco raso; o silêncio sem palavra não é ausência frouxa, é o espaço-prenhe estufado, a onça armada na macega, o sopro do fôlego de morte antes da coragem da fala puxar o talho. E a labuta do homem em si desponta cega, feita não de grandes arroubos calculados de mestre, mas de um estalo que arranca de um "Nonada" — a pequeneza bruta sem valia estourando pra dar rumo de luz no negrume incerto dos infernos.

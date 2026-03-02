@@ -3,12 +3,23 @@ import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 import BlogCard from '../components/BlogCard.astro';
 import FeaturedPost from '../components/FeaturedPost.astro';
-import { getExcerpt, getFileNum } from '../lib/utils';
+import { getExcerpt, getFileNum, slugToLabel } from '../lib/utils';
 
 const base = import.meta.env.BASE_URL;
 
+// Load all collections
 const allDialogo = await getCollection('dialogo');
 const allManuscrito = await getCollection('manuscrito');
+const allCartasDoutorJoao = await getCollection('cartas-doutor-joao');
+const allCartasZeBebelo = await getCollection('cartas-ze-bebelo');
+const allDialogoTedTyler = await getCollection('dialogo-ted-tyler');
+const allBastidoresRiobaldo = await getCollection('bastidores-riobaldo');
+const allBastidoresTed = await getCollection('bastidores-ted');
+// Craig journals have inconsistent frontmatter; skipped for now
+// const allBastidoresCraig = await getCollection('bastidores-craig');
+
+// Non-content files to exclude from bastidores
+const excludeFiles = new Set(['PROMPT', 'EXPERIENCE', 'GLOSSARIO']);
 
 interface BlogPost {
   slug: string;
@@ -26,6 +37,7 @@ interface BlogPost {
 
 const posts: BlogPost[] = [];
 
+// Cartas Ted-Riobaldo (diálogo principal)
 for (const entry of allDialogo) {
   const isRio = entry.data.autor.includes('Riobaldo');
   const fileNum = getFileNum(entry.id);
@@ -44,6 +56,7 @@ for (const entry of allDialogo) {
   });
 }
 
+// Manuscritos
 for (const entry of allManuscrito) {
   posts.push({
     slug: entry.id,
@@ -56,24 +69,146 @@ for (const entry of allManuscrito) {
   });
 }
 
-// Reverse chronological — newest first (blog convention)
-posts.sort((a, b) => b.ordem - a.ordem);
+// Cartas a Doutor João
+for (const entry of allCartasDoutorJoao) {
+  const fileNum = getFileNum(entry.id);
+  posts.push({
+    slug: entry.id,
+    titulo: `Carta a ${entry.data.destinatario || 'Doutor João'}`,
+    tipo: 'carta-pessoal',
+    autor: 'Riobaldo Tatarana',
+    autorClasse: 'rio',
+    excerpt: getExcerpt(entry.body),
+    url: `${base}carta-pessoal/cartas-doutor-joao/${entry.id}`,
+    data: entry.data.data ? new Date(entry.data.data) : undefined,
+    ordem: 1e6 + fileNum,
+  });
+}
 
-// Featured post: most recent carta
+// Cartas a Zé Bebelo
+for (const entry of allCartasZeBebelo) {
+  const fileNum = getFileNum(entry.id);
+  posts.push({
+    slug: entry.id,
+    titulo: `Carta a ${entry.data.destinatario || 'Zé Bebelo'}`,
+    tipo: 'carta-pessoal',
+    autor: 'Riobaldo Tatarana',
+    autorClasse: 'rio',
+    excerpt: getExcerpt(entry.body),
+    url: `${base}carta-pessoal/cartas-ze-bebelo/${entry.id}`,
+    data: entry.data.data ? new Date(entry.data.data) : undefined,
+    ordem: 1e6 + fileNum,
+  });
+}
+
+// Diálogo Ted-Tyler
+for (const entry of allDialogoTedTyler) {
+  const isTyler = entry.data.autor.includes('Tyler');
+  const fileNum = getFileNum(entry.id);
+  posts.push({
+    slug: entry.id,
+    titulo: entry.data.titulo,
+    tipo: 'carta-ted-tyler',
+    autor: entry.data.autor,
+    autorClasse: isTyler ? 'tyler' : 'ted',
+    excerpt: getExcerpt(entry.body),
+    url: `${base}dialogo-ted-tyler/${entry.id}`,
+    data: entry.data.data ? new Date(entry.data.data) : undefined,
+    ordem: 1e6 + fileNum,
+  });
+}
+
+// Bastidores Riobaldo (journals, fitas, pensamentos, cartas pessoais, rascunhos)
+for (const entry of allBastidoresRiobaldo) {
+  const baseName = entry.id.split('/').pop() || entry.id;
+  const nameWithoutExt = baseName.replace(/\.md$/, '');
+  if (excludeFiles.has(nameWithoutExt) || excludeFiles.has(baseName)) continue;
+
+  const fileNum = getFileNum(baseName);
+  const isFita = entry.data.tipo === 'transcricao' || entry.id.includes('fitas/');
+  const isCarta = entry.id.includes('cartas/');
+  const isPensamento = entry.id.includes('pensamento');
+  const isRascunho = entry.id.includes('rascunhos/');
+
+  let tipo = 'journal-rio';
+  let titulo = `Riobaldo — ${slugToLabel(baseName)}`;
+
+  if (isFita) {
+    tipo = 'fita';
+    titulo = `Fita ${fileNum}`;
+  } else if (isCarta) {
+    tipo = 'carta-pessoal';
+    titulo = `Carta a ${entry.data.destinatario || 'desconhecido'}`;
+  } else if (isPensamento) {
+    tipo = 'pensamento';
+    titulo = `Pensamento — sessão ${fileNum}`;
+  } else if (isRascunho) {
+    tipo = 'rascunho';
+    titulo = `Rascunho — sessão ${fileNum}`;
+  }
+
+  posts.push({
+    slug: entry.id,
+    titulo,
+    tipo,
+    autor: 'Riobaldo',
+    autorClasse: 'rio',
+    excerpt: getExcerpt(entry.body),
+    url: `${base}bastidores/riobaldo/${entry.id}`,
+    data: entry.data.data ? new Date(entry.data.data) : undefined,
+    ordem: 1e6 + fileNum,
+  });
+}
+
+// Bastidores Ted (journals)
+for (const entry of allBastidoresTed) {
+  const fileNum = getFileNum(entry.id);
+  posts.push({
+    slug: entry.id,
+    titulo: `Ted — journal ${fileNum}`,
+    tipo: 'journal-ted',
+    autor: 'Ted Chiang',
+    autorClasse: 'ted',
+    excerpt: getExcerpt(entry.body),
+    url: `${base}bastidores/ted/${entry.id}`,
+    ordem: 1e6 + fileNum,
+  });
+}
+
+// Craig journals have inconsistent frontmatter; skipped for now
+
+// Sort: by date descending where available, then by ordem descending
+posts.sort((a, b) => {
+  if (a.data && b.data) return b.data.getTime() - a.data.getTime();
+  if (a.data && !b.data) return -1;
+  if (!a.data && b.data) return 1;
+  return b.ordem - a.ordem;
+});
+
+// Featured post: most recent carta ted-riobaldo
 const featuredPost = posts.find(p => p.tipo === 'carta');
 const gridPosts = posts.filter(p => p !== featuredPost);
 
-const tiposSet = new Set(gridPosts.map(p => p.tipo));
-const tipos = ['todos', ...Array.from(tiposSet)];
-
+// Build tipo labels and categories
 const tipoLabels: Record<string, string> = {
   todos: 'Tudo',
-  carta: 'Cartas',
+  carta: 'Cartas Ted-Riobaldo',
+  'carta-pessoal': 'Cartas Pessoais',
+  'carta-ted-tyler': 'Cartas Ted-Tyler',
+  fita: 'Fitas',
+  pensamento: 'Pensamentos',
+  rascunho: 'Rascunhos',
+  'journal-rio': 'Journals Riobaldo',
+  'journal-ted': 'Journals Ted',
+  'journal-craig': 'Journals Craig',
   abertura: 'Abertura',
   causo: 'Causos',
   fechamento: 'Fechamento',
   fragmento: 'Fragmentos',
 };
+
+const tiposSet = new Set(gridPosts.map(p => p.tipo));
+const tipos = ['todos', ...Array.from(tiposSet)];
 ---
 
 <Layout title="Travessia" isHome={true}>
@@ -120,6 +255,7 @@ const tipoLabels: Record<string, string> = {
         <button
           class={`vereda ${tipo === 'todos' ? 'active' : ''}`}
           data-filter={tipo}
+          aria-pressed={tipo === 'todos' ? 'true' : 'false'}
         >
           {tipoLabels[tipo] || tipo}
         </button>
@@ -156,8 +292,12 @@ const tipoLabels: Record<string, string> = {
       btn.addEventListener('click', () => {
         const filter = btn.getAttribute('data-filter');
 
-        buttons.forEach((b) => b.classList.remove('active'));
+        buttons.forEach((b) => {
+          b.classList.remove('active');
+          b.setAttribute('aria-pressed', 'false');
+        });
         btn.classList.add('active');
+        btn.setAttribute('aria-pressed', 'true');
 
         document.querySelectorAll<HTMLElement>('[data-tipo]').forEach((card) => {
           card.style.display =

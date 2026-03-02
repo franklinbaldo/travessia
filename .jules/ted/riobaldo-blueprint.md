@@ -865,6 +865,7 @@ encontrou.
 | Passado (morte de Diadorim)   | 3 — O Outro / 5 — O Retorno | O campo de batalha. O corpo lavado           |
 | Presente (durante a narração) | 4 — O Salto                 | O email. A intuição da máquina               |
 | Presente (fim da narração)    | 5 — O Retorno               | A poeira de novo. Travessia.                 |
+| Futuro (além da narração)     | Epílogo (O Silêncio Sólido) | O silêncio e a escrita que começam.          |
 
 ### B. Glossário Riobaldo ↔ Manifesto
 

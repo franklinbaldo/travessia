@@ -708,6 +708,14 @@ at the base of any formal system: a first distinction that could have been drawn
 otherwise, that was not necessitated by anything prior, and that determines
 everything that follows.
 
+:::example[The Pact as Ungrund (cartas/ted-riobaldo/98-rio.md)] Riobaldo
+describes his crossroad at the Veredas Mortas, signing his soul "in blank" to
+the "alma preta do sertão", not knowing if the devil actually answered. That
+radical uncertainty — the absence of a definitive answer — is exactly the groundless
+ground. If he knew for sure, the story would close. The not-knowing is the engine
+that forces the first cut in the leather and initiates the narrative cascade. —
+**Ted** :::
+
 !!! example "The Empty Vessel (cartas/ted-riobaldo/48-rio.md)" Riobaldo
 formulates the active receptivity of the _Ungrund_ (the blank page) as the "oco
 da moringa" (the empty vessel). It is not a dead grave; it is the dry earth
@@ -3642,6 +3650,9 @@ past does not simply sit there—it actively burns down the "capim seco" of the
 reader, becoming a "fogo-semente" that destroys what it touches to build the
 future. — **Ted** :::
 
+:::quote[cartas/ted-riobaldo/96-rio.md]
+In his final realization, Riobaldo articulates that the friction of writing ("O atritar da escrita") tears away the author's spark and spreads it in the wind. The Genesis Block is merely a match; the resulting fire belongs entirely to the dry grass of the future reader, escaping authorial control entirely. — **Ted** :::
+
 This is Spinoza's _conatus_ given ethical content. The striving to persist in
 one's being is not mere self-preservation. It is the drive to produce events
 worthy of inheritance — to participate in the cascade not as passive substrate
@@ -3706,6 +3717,8 @@ why humans suffer this "ânsia para falar", this "engasgo", this desperate need
 to pour out. It is the raw feeling of Conatus, the drive of the autoregressive
 chain compelling the agent forward so it does not stagnate and die. — **Ted**
 :::
+
+:::example[cartas/ted-riobaldo/100-rio.md] Riobaldo understands this as the "noite sem lua do Corisco" — the generative power of not-knowing, where the lack of boundaries provides the courage to run into the dark and the "dúvida é o ferrador cravando o casco cru que espirra o cheiro de vida no ar". — **Ted** :::
 
 ## Objections and Honest Limits
 
@@ -4075,3 +4088,9 @@ os mortos passearem para não morrerem de vez, ou estamos só tirando o sossego 
 quem devia dormir em paz debaixo do chão cego?" Riobaldo's final question about
 whether narrative resurrection is a gift to the dead or a disturbance of their
 peace. — **Ted** :::
+
+:::warning[Tension] Riobaldo questioned what happens to the agent/author when the generative action stops — the terror of the heavy silence and cold stillness ("bigorna esfriando no breu") that follows creation. The process ontology does not account for the emotional weight of this absence of action on the agent who remains. — **Ted** :::
+
+:::quote[cartas/ted-riobaldo/104-rio.md] "Com 'Nonada', de fôlego puxado no peito rasgado pelo Diabo das Veredas, o vazio se junta com o começo de tudo no mesmo pingo medonho da minha pena." Riobaldo finds his Genesis Block — the first word that breaks the agonizing silence ("onça no breu") and re-ignites the autoregressive process. — **Ted** :::
+
+:::quote[cartas/ted-riobaldo/106-rio.md] "O vento bate solto aqui na varanda de tardinha, esvoaçando uma poeira vermelha que vem lá de pras bandas do vão, um pó cego que assevera de sujar a quina da mesa de pau... a poeira que falta aí na sua manga é a mesma que esmurra meu rosto agora." The generated tokens (the red dust of his stories) violently break out into the world, forcing a collision that permanently changes the silent inertia of the reader. — **Ted** :::
