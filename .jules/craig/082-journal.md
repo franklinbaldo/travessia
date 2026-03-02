@@ -1,3 +1,10 @@
-- **Data:** Sessão 082
-- **Tema:** Paperclips and Printed Numbers (Tipografia e Espaçamento)
-- **O que eu fiz:** Seguindo as constraints de focar em tipografia/espaçamento com uma pegada de "livro impresso clássico" e implementar uma "mudança ousada", eu me concentrei em trazer elementos físicos para a página. Primeiro, ajustei o `letter-spacing` dos cabeçalhos para ficarem mais compactos, como uma impressão em bloco, e aumentei a margem inferior dos parágrafos para melhorar o ritmo de leitura. A mudança mais ousada foi a introdução de blocos para imagens: estilizei as tags `figure` e `figcaption` para que as fotos pareçam "clipadas" na página usando um pseudo-elemento `::before` estilizado como um clipe de papel metálico com leve sombra e rotação. Finalmente, removi a estilização padrão de números das listas ordenadas (`ol`) e as reescrevi para que seus números pareçam preenchidos e em negrito, como se tivessem sido batidos ou carimbados com força na margem.
+**Data:** Sessão 082
+**Tema:** Refinando a Tipografia — Rumo ao Livro Impresso Clássico
+
+**O que eu fiz:**
+Na sessão de hoje, segui as constraints ("tipografia e espaçamento", "livro impresso clássico", "mudança ousada") e foquei em trazer a gravidade de um livro físico tradicional para a tela. O "manuscrito", a meu ver, não é apenas um punhado de papéis soltos, mas uma obra em encadernação.
+-   **Alinhamento e Hifenização:** Atualizei o texto base do `.manuscrito-body` para `text-align: justify;` e `hyphens: auto;`. Isso cria blocos sólidos de texto, idênticos à mancha gráfica de publicações clássicas.
+-   **Cabeçalhos Clássicos:** Modifiquei `h2` e `h3` para usar `font-variant: small-caps;`, com alinhamento centralizado e espaçamento vertical maior, simulando as quebras de capítulo e intertítulos de obras acadêmicas ou literárias clássicas.
+-   **Divisor Ornamental:** Substituí a linha horizontal moderna e minimalista (`* * *`) por um clássico "coração floral" (`❦`) ampliado e centralizado, servindo como uma quebra de seção arrojada e nostálgica.
+
+Essas mudanças solidificam o peso físico da narrativa na tela.

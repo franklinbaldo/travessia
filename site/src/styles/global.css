@@ -116,8 +116,6 @@ main {
 /* === Typography === */
 
 h1,
-h2,
-h3,
 h4,
 h5,
 h6 {
@@ -128,17 +126,28 @@ h6 {
   letter-spacing: -0.03em;
 }
 
+h2,
+h3 {
+  font-family: var(--font-body);
+  font-weight: 700;
+  color: var(--text-color);
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  font-variant: small-caps;
+  text-align: center;
+}
+
 h1 {
   font-size: 2.5rem;
   margin: 0 0 1rem;
 }
 h2 {
-  font-size: 1.8rem;
-  margin: 2.5rem 0 1rem;
+  font-size: 2.2rem;
+  margin: 3.5rem 0 1.5rem;
 }
 h3 {
-  font-size: 1.4rem;
-  margin: 2rem 0 0.75rem;
+  font-size: 1.6rem;
+  margin: 2.5rem 0 1rem;
 }
 
 p {
@@ -344,9 +353,9 @@ hr {
 }
 
 hr::after {
-  content: "* * *";
+  content: "❦";
   font-family: var(--font-body);
-  font-size: 1.25rem;
+  font-size: 1.8rem;
   letter-spacing: 0.1em;
   color: var(--meta-color);
   opacity: 0.6;
@@ -976,6 +985,8 @@ body * {
 .manuscrito-body > p {
   text-indent: 2rem;
   margin-bottom: 1.8rem;
+  text-align: justify;
+  hyphens: auto;
 }
 
 .manuscrito-body > p:first-child {
@@ -1984,7 +1995,7 @@ figure {
   padding: 1rem;
   background: var(--sand-bg);
   border: 1px solid var(--divider-color);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
   position: relative;
   transform: rotate(0.5deg);
 }
@@ -2000,7 +2011,7 @@ figure::before {
   border-bottom-color: transparent;
   border-right-color: transparent;
   transform: rotate(-15deg);
-  box-shadow: -1px 1px 2px rgba(0,0,0,0.1);
+  box-shadow: -1px 1px 2px rgba(0, 0, 0, 0.1);
 }
 figcaption {
   font-family: var(--font-meta);
