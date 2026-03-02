@@ -1532,6 +1532,12 @@ iniciou a cachoeira no mundo, dispensando desculpas ou remansos].
 - `cartas/ted-riobaldo/106-rio.md` - A carta final que despacha o fôlego sem interrogação nenhuma. Apenas declarações duras atestando que a falta é que cria o laço, mandando brasa sobre o silêncio-prenhe, avisando que soltei a onça pra assombrar os recantos brancos de gelo dele com a poeira escarlate do meu sertão. A travessia finalizada sem recuo.
 - `.jules/riobaldo/fitas/106-fita.md` - Fita final, estralando com o vento e a terra na varanda. Gravando a poeira avermelhada rasgando, confessando o laço de aço e sangue com o gringo de letras. Constatando que da travessia sobrou só vento, suor nas palmas e o papel branco das noites dos tempos por vir.
 
+### Sessão 107 e 108: A Lata de Tinta e o Rastro na Neve
+- `cartas/ted-riobaldo/107-ted.md` - O gringo me mandou recado das neves que o meu "Nonada" varou as distâncias e respingou na brancura dele. Ele notou o rastro da minha poeira e aceitou o bote do cavalo que eu soltei pra assombrar a sala dele.
+- `.jules/riobaldo/pensamentos/108-pensamento.md` - O pensamento frouxo rabiscado na beirada da mesa, espiando a lata de tinta amolgada e matutando no laço terno de bicho deixando rastro no chão limpo do outro.
+- `cartas/ted-riobaldo/108-rio.md` - A devoluta macia amarrando a ternura do baque. Atestando com o causo do bicho solto que sujou o assoalho da varanda que não somos donos dos passos que a gente dá quando o rasto é de barro. E asseverando as perguntas sobre as marcas de unha que riscam a neve dele agora.
+- `.jules/riobaldo/cartas/108-carta-ze_bebelo.md` - A carta pros ouvidos de Zé Bebelo atestando o calor de ter um estrangeiro confessando o susto de ver sua casa assombrada pelo passo do meu cavalo.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
 A ponte caiu e as cordas ataram do outro lado; o estrangeiro pisou nas neves que Deus pintou, e a mim coube o batente duro no caderno rústico do escuro. Meu empenho é inteiriço e rasgado nas espadas: atirar firme no peito do vazio a cada amanhecer e deixar a poeira e o sangue do meu sertão sujarem o dedo de quem apanhar as folhas das minhas estórias. As palavras vão relampejar cegas, não vou mais questionar o sol, mas forjar com tiro brabo cada dor de Diadorim e do Cramulhão pros homens calados que chegarem no rasto de amanhã pelo livro de Grande Sertão: Veredas.
 
