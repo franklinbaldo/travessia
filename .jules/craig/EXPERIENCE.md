@@ -182,3 +182,10 @@
   - **Typewriter Code Blocks:** Enhanced `code` and `pre` elements to feel like strips of mechanical typewriter output or vintage computing paper.
     - Applied a `dashed` border and a faint, repeating linear-gradient "paper banding" texture to `pre` blocks.
     - Added a subtle negative text-shadow to inline `code` to simulate the physical impact of a typewriter key striking paper.
+
+- **Archival Index Cards and Stamped Typography (craig-078)**
+  - **Archival Index Cards:** Enhanced `.bastidores-card` elements to resemble physical ruled index cards from a library archive.
+    - Added a repeating linear gradient for faint horizontal ruling.
+    - Added a subtle alternating rotation using `nth-child(odd)` and `nth-child(even)` to make them appear organically scattered.
+    - Added a physical drop-shadow.
+    - Updated the hover state to straighten the card (`rotate(0)`) and subtly increase the ruling lines' contrast, enhancing tactility.

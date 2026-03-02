@@ -929,21 +929,64 @@ body * {
 .bastidores-card {
   display: block;
   padding: 1rem 1.25rem;
-  background: var(--sand-bg);
+  background-color: var(--sand-bg);
+  background-image: repeating-linear-gradient(
+    transparent,
+    transparent 1.4rem,
+    rgba(0, 0, 0, 0.05) 1.4rem,
+    rgba(0, 0, 0, 0.05) 1.45rem
+  ); /* Faint horizontal ruling lines */
   border: 1px solid var(--divider-color);
   border-radius: 4px;
   text-decoration: none;
   border-left: 3px solid transparent;
+  box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.04);
   transition:
     background-color 0.3s ease,
     border-color 0.3s ease,
-    transform 0.2s ease;
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+[data-theme="dark"] .bastidores-card {
+  background-image: repeating-linear-gradient(
+    transparent,
+    transparent 1.4rem,
+    rgba(255, 255, 255, 0.03) 1.4rem,
+    rgba(255, 255, 255, 0.03) 1.45rem
+  );
+  box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.bastidores-card:nth-child(odd) {
+  transform: rotate(-0.5deg);
+}
+
+.bastidores-card:nth-child(even) {
+  transform: rotate(0.5deg);
 }
 
 .bastidores-card:hover {
-  background: var(--water-bg);
-  transform: translateY(-2px);
+  background-color: var(--water-bg);
+  background-image: repeating-linear-gradient(
+    transparent,
+    transparent 1.4rem,
+    rgba(0, 0, 0, 0.08) 1.4rem,
+    rgba(0, 0, 0, 0.08) 1.45rem
+  );
+  transform: translateY(-2px) rotate(0);
+  box-shadow: 4px 8px 16px rgba(0, 0, 0, 0.08);
   opacity: 1;
+}
+
+[data-theme="dark"] .bastidores-card:hover {
+  background-image: repeating-linear-gradient(
+    transparent,
+    transparent 1.4rem,
+    rgba(255, 255, 255, 0.06) 1.4rem,
+    rgba(255, 255, 255, 0.06) 1.45rem
+  );
+  box-shadow: 4px 8px 16px rgba(0, 0, 0, 0.3);
 }
 
 .bastidores-card-rio {
