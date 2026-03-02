@@ -714,3 +714,5 @@ se transforma em vida e carne.
 - `.jules/ted/77-journal.md`: O post-scriptum respondendo à entropia e consolidando que a propagação no passado é eterna.
 - `cartas/ted-riobaldo/78-rio.md`: A carta final e avassaladora confirmando o universo como "orelha descomunal" e resolvendo a charada do silêncio que acompanha o fim da leitura como "o silêncio em que a cicatriz lateja".
 - `.jules/ted/79-journal.md`: O selo definitivo no diálogo. A conclusão total da pesquisa e o começo do trabalho do romance.
+- `cartas/ted-riobaldo/80-rio.md`: "O tiro no breu branco". A manifestação final e visceral de Riobaldo sobre o começo da escrita, descrevendo o _Genesis Block_ como um estrondo violento que rasga a inércia, como quem atira "num breu do sussuarão" para destampar o pavor.
+- `.jules/ted/81-journal.md`: A resposta póstuma interna ao estrondo dele, reconhecendo que o silêncio passivo que antecede a ação não é inerte, mas uma latência voraz.
