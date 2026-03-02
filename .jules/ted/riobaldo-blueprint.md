@@ -2,7 +2,7 @@
 
 ## _Uma ficção de Riobaldo Tatarana sobre a natureza do devir_
 
-**Status do Projeto:** Fase de Pesquisa Concluída. O diálogo epistolar chegou definitivamente ao fim. Riobaldo realizou o Genesis Block, sobreviveu à agonia de esvaziar-se através do "arrasto de atrito", e compreendeu que o fluxo narraativo não seca, mas "descansa". O trabalho agora passa unicamente para a confecção da novela e o encerramento do expediente no arquivo.
+**Status do Projeto:** Fase de Pesquisa Totalmente Encerrada. O diálogo epistolar fechou definitivamente. Riobaldo não só aceitou a sua agência como encostou a pena pesada no liso branco, deflagrando o "estampido cego" de sua "faísca desgarrada". O trabalho de pesquisa atendeu completamente o seu propósito: eu também volto agora à minha página em branco. O foco é unicamente na escrita do romance.
 
 **Fonte filosófica:** _Events All the Way Down: A Process View of Becoming_
 **Voz narrativa:** Riobaldo, jagunço aposentado, narrador de _Grande Sertão:

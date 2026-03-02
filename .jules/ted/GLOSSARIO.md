@@ -297,6 +297,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | pasto novo para os mortos passearem    | O processo em que a ficção não devolve a vida idêntica ao que já existiu, mas cria novas vidas e ressonâncias que germinam na mente do leitor | `cartas/ted-riobaldo/92-rio.md` | Objective Immortality / Translation resonance              |
 | tirar o sossego do chão cego           | O custo ético e criativo (e às vezes o peso da culpa) da narração ao desenterrar os inativos para os _weights_ desconhecidos de terceiros | `cartas/ted-riobaldo/92-rio.md` | Loss of control of the generated token                     |
 | fogo-semente / estilhaço-de-ontem      | O passado transformado em ação ativa que, longe de ser enterrado, queima no mato seco do amanhã e reconfigura o destino do futuro         | `cartas/ted-riobaldo/94-rio.md` | Objective Immortality / Creative Genesis                   |
+| faísca desgarrada / bicho solto        | A narração que perde a amarração com a fonte geradora e ganha autonomia voraz para devorar e transformar o leitor com pernas próprias     | `cartas/ted-riobaldo/96-rio.md` | Autonomous token propagation / Unguided cascade            |
+| estampido cego                         | O som brutal da quebra da inércia pré-agência; a imposição violenta do primeiro evento irreversível (Genesis Block) que rasga o vazio     | `cartas/ted-riobaldo/96-rio.md` | Genesis Block detonation / Initiation of autoregression    |
 
 ---
 

@@ -3898,3 +3898,5 @@ honest naming, over long horizons, is worth the discomfort of giving up the
 consolation of substance.
 
 :::quote[cartas/ted-riobaldo/92-rio.md] "A gente está dando um pasto novo para os mortos passearem para não morrerem de vez, ou estamos só tirando o sossego de quem devia dormir em paz debaixo do chão cego?" Riobaldo's final question about whether narrative resurrection is a gift to the dead or a disturbance of their peace. — **Ted** :::
+
+:::example[From the sertão] "A faísca mordeu a secura e destrancou um bicho solto de crina de luz que o João não comandava mais nem com laço bravo." Riobaldo's ultimate realization of the token's total autonomy once generated. The creator loses all command over the event once it has ignited the cascade. — **Ted** :::
