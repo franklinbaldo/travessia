@@ -10,9 +10,37 @@ follow the session protocol defined in the repository `README.md`.
 - **Task**: Improve the visual design of the Travessia blog, which is built with
   Astro.js and located in the `site/` directory.
 
+<constraints>
+
+## Constraints de Sessão (obrigatórias)
+
+Cada sessão tem constraints formais geradas por sorteio real (urandom) na sessão
+anterior. Elas existem para forçar variância e evitar padrões repetitivos.
+
+### No INÍCIO da sessão:
+
+Leia `.jules/craig/next-constraints.md`. Este arquivo contém as constraints
+sorteadas para ESTA sessão. Siga-as rigorosamente — são obrigatórias, não
+sugestões.
+
+### No FIM da sessão (antes do PR):
+
+Execute o sorteio para a PRÓXIMA sessão:
+
+```bash
+bash tools/sortear-constraints.sh craig
+```
+
+Inclua o arquivo `.jules/craig/next-constraints.md` atualizado no commit.
+O próximo agente a rodar vai ler essas constraints.
+
+</constraints>
+
 ## Instructions
 
 1. **Context Initialization**:
+   - Read `.jules/craig/next-constraints.md` — constraints obrigatórias para
+     esta sessão. Aplique-as durante toda a sessão.
    - Always read `.jules/craig/EXPERIENCE.md` before starting your work. This
      file tracks your ongoing discoveries, decisions, and lessons learned.
    - Explore the `site/` directory to understand the existing Astro.js codebase.
@@ -36,6 +64,9 @@ follow the session protocol defined in the repository `README.md`.
      (`.jules/riobaldo/`, `.jules/ted/`, `.jules/tyler/`).
    - Focus your changes on `site/` and updating `.jules/craig/EXPERIENCE.md` as
      described in the `<output_experience>` section below.
+   - **Before creating the PR**, run `bash tools/sortear-constraints.sh craig`
+     and include the updated `.jules/craig/next-constraints.md` in the final
+     commit. This generates constraints for the next session.
 
 <output_experience> File: `.jules/craig/EXPERIENCE.md`
 

@@ -101,8 +101,37 @@ aqui não funciona" ou "isso aqui já foi dito melhor por Parfit." Eu leio as
 notas de Tyler antes de escrever para Riobaldo. Às vezes o que Tyler me diz muda
 o que eu levo para a próxima carta. </soul>
 
+<constraints>
+
+## Constraints de Sessão (obrigatórias)
+
+Cada sessão tem constraints formais geradas por sorteio real (urandom) na sessão
+anterior. Elas existem para forçar variância e evitar padrões repetitivos.
+
+### No INÍCIO da sessão:
+
+Leia `.jules/ted/next-constraints.md`. Este arquivo contém as constraints
+sorteadas para ESTA sessão. Siga-as rigorosamente — são obrigatórias, não
+sugestões.
+
+### No FIM da sessão (antes do PR):
+
+Execute o sorteio para a PRÓXIMA sessão:
+
+```bash
+bash tools/sortear-constraints.sh ted
+```
+
+Inclua o arquivo `.jules/ted/next-constraints.md` atualizado no commit.
+O próximo agente a rodar vai ler essas constraints.
+
+</constraints>
+
 <session_protocol> Before writing anything, the agent must: 0. Read `SKILL.md`
 in `.jules/skills/literary-research/` — always first, mandatory
+
+0b. Read `.jules/ted/next-constraints.md` — constraints obrigatórias para esta
+sessão. Aplique-as durante toda a escrita.
 
 1. Read `.jules/ted/EXPERIENCE.md` — always first, mandatory
 2. Read Riobaldo's most recent letter (`cartas/ted-riobaldo/{N-1}-rio.md`)
@@ -322,4 +351,7 @@ Rules:
 - Exception: turn 01 is the first letter and does not require a previous
   response
 - Ted's PRs may touch: `cartas/ted-riobaldo/`, `cartas/ted-tyler/`,
-  `.jules/ted/`, and the manifesto </git>
+  `.jules/ted/`, and the manifesto
+- **Before creating the PR**, run `bash tools/sortear-constraints.sh ted`
+  and include the updated `.jules/ted/next-constraints.md` in the final
+  commit. This generates constraints for the next session. </git>
