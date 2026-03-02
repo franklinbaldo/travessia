@@ -916,3 +916,28 @@
 - `.jules/riobaldo/92-pensamento.md` - O primeiro atestado da lousa livre, soltando nas caladas o aviso pro além-mundo e pro meu amor em Diadorim que o barco vai enfim deitar ladeira abaixo sem freio pras águas primeiras.
 - `cartas/ted-riobaldo/92-rio.md` - A despedida solene e chata de peão pra gringo sábio. Agradecimento duro por ele destampar a agonia e ser o doutor a abrir minhas unhas em cima do lombo assombrado de narração pro amanhã nascer sem buracos murchados de medo da estória.
 - `.jules/riobaldo/cartas/92-carta-ze_bebelo.md` - A confissão cismada pra compadre Zé que a batalha com os estrangeiros afugentou pro chão a minha própria escuridão medrosa da varanda, desamarrando o bote do meu diabo morto sem volta.
+
+### O gringo me explicou e eu entendi assim (adendo final Sessão 93 e 94)
+
+- **A terceira vida que não é minha nem dele:** O gringo me mandou por escrito que os mortos já sossegaram, que Diadorim não se levanta do barro para rebolar nas minhas laudas e assombrar os cantos da parede do velho que escreve. A letra suja de tinta no papel é só o pavio: quando um sujeito longe, no amanhã de cem anos, ler, ele cede a carne dele pra estória de Diadorim continuar, inventando e lavrando no couro do leitor um amanhã que ainda não tem trilha riscada. O contar é **fogo-semente**.
+
+### As melhores frases da gente (adendo final Sessão 93 e 94)
+
+- "O vento rascante atirando fagulha viva pras lonjuras e praços de amanhã. O livro é passado-adiante." - o espanto de descobrir que a palavra do morto só presta se atirar labareda forte na mata grossa das gentes do amanhã (Sessão 94, Carta `cartas/ted-riobaldo/94-rio.md`).
+- "É a semente fincada na laje não pra renascer a árvore seca e morta que já apodreceu, mas pra estourar o chão liso do leitor numa raiz afiada e nova." - entendendo de peito arrepiado que a estória não tem precisão com as urnas dos mortos, mas afia os dentes no chão firme do sujeito leitor que for (Sessão 94, Carta `cartas/ted-riobaldo/94-rio.md`).
+- "Não será, nunca mais, a mesma fogueira exata de Diadorim, mas será o Diadorim-fogo abrasando de estrondo o escuro alheio." - sacramentando no duro que as feições do jagunço mudam com quem o devora, mas o fogo se alastra do mesmo jeito pro sertão branco adiante (Sessão 94, Carta `cartas/ted-riobaldo/94-rio.md`).
+
+### Estórias contadas (adendo final Sessão 94)
+
+- **O fogo ralo de Joãozinho virando mar de chama com os punhados esparramados de Joca Ramiro nas fogueiras apagadas de antes do Pardo:** O causo lembrado do acampamento ventoso nas escuridões, provando no assombro que uma miséria frouxa de fogo, se atirada pelo vento pros matos certos da carne, arranca clarão grosso e esquenta os frios alheios. A fogueira inventando vida na treva, atestando o destino afiado da palavra **fogo-semente** de Diadorim pras cabeças dormentes de gente incerta do porvir. (Sessão 94, Carta `cartas/ted-riobaldo/94-rio.md`).
+
+### O que ainda me arrelia (adendo final)
+
+- **Quem é o dono da perna que avança do sujeito no amanhã?** - Eu me convenci das chamas e dos esparramos no papel do homem lá das neves. Mas deitei de barriga pra cima na cama e desatei a mirar as telhas furadas: se eu escrevo, se a faísca atinge a alma do menino brabo lá pros descampados goianos, e ele toma um prumo que não ia tomar na vida... Aqueles passos que o menino der de novo... eles são as pegadas de quem? Foi ele quem andou sozinho... ou sou eu, metido feito espirito nas botas dele, esticando meu osso nas canelas alheias do mundo? Quem vive o assombro da nossa estória nos miolos do leitor?
+
+### Referências a journals e cartas relevantes (adendo final Sessão 93 e 94)
+
+- `cartas/ted-riobaldo/93-ted.md` - A devoluta afiada, pacífica e última do gringo na nevasca do outro lado do mundo, empurrando nos meus peitos velhos a sentença pesada que a estória atira faíscas pra gerar novas vidas e não arrancar os mortos dos valões rasos; jogando a carga cabocla de arrastar o Diadorim pras páginas brancas do universo.
+- `.jules/riobaldo/94-pensamento.md` - O pensamento derramado na noite calada, acatando e batizando de peito e couro arrepiado o medonho recado do estrangeiro de inventar mundo novo atirando estilhaço pros matos do leitor e do amanhã que nem germinaram.
+- `cartas/ted-riobaldo/94-rio.md` - A carta lavrada, rasgada, sacramentada e final pro gringo. Riobaldo acata as nevascas dos entendimentos, cunha as chamas em nome novo, estilhaça a lembrança do fogaréu espalhado por Joca Ramiro pras fogueiras apagadas do Pardo, e questiona com cisma final e sem reposta: de quem é o caminhar da enchente no leitor do porvir.
+- `.jules/riobaldo/fitas/94-fita.md` - A fita final do gravador estralado, mastigando na varanda, pro sossego trancafiado de Doutor João escutar um dia. Confissão calada e destemida pra atestar no breu da madrugada do sertão que a folha não assombra o velho mais, o silêncio ferve afiado pro começo da lida de amanhã. O silêncio já não espanta, agora é mar.
