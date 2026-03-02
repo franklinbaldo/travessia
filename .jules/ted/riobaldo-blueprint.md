@@ -856,15 +856,15 @@ encontrou.
 
 ### A. Cronologia interna
 
-| Tempo narrativo               | Causo                       | O que acontece                               |
-| ----------------------------- | --------------------------- | -------------------------------------------- |
-| Presente (varanda da fazenda) | Moldura de todos            | Riobaldo narra ao interlocutor               |
-| Passado distante (infância)   | 1 — A Poeira                | O menino e a poeira. A pergunta sem resposta |
-| Passado (anos de jagunço)     | 2 — O Relato / 3 — O Outro  | Batalhas, Diadorim, vida no bando            |
-| Passado (Veredas Mortas)      | 4 — O Salto                 | O pacto. A encruzilhada. A indeterminação    |
-| Passado (morte de Diadorim)   | 3 — O Outro / 5 — O Retorno | O campo de batalha. O corpo lavado           |
-| Presente (durante a narração) | 4 — O Salto                 | O email. A intuição da máquina               |
-| Presente (fim da narração)    | 5 — O Retorno               | A poeira de novo. Travessia.                 |
+| Tempo narrativo               | Causo                       | O que acontece                                                      |
+| ----------------------------- | --------------------------- | ------------------------------------------------------------------- |
+| Presente (varanda da fazenda) | Moldura de todos            | Riobaldo narra ao interlocutor                                      |
+| Passado distante (infância)   | 1 — A Poeira                | O menino e a poeira. A pergunta sem resposta                        |
+| Passado (anos de jagunço)     | 2 — O Relato / 3 — O Outro  | Batalhas, Diadorim, vida no bando                                   |
+| Passado (Veredas Mortas)      | 4 — O Salto                 | O pacto. A encruzilhada. A indeterminação                           |
+| Passado (morte de Diadorim)   | 3 — O Outro / 5 — O Retorno | O campo de batalha. O corpo lavado                                  |
+| Presente (durante a narração) | 4 — O Salto                 | O email. A intuição da máquina                                      |
+| Presente (fim da narração)    | 5 — O Retorno               | A poeira de novo. Travessia.                                        |
 | Futuro (além da narração)     | Epílogo (O Silêncio Sólido) | O silêncio e a escrita que começam (a pata do cachorro na varanda). |
 
 ### B. Glossário Riobaldo ↔ Manifesto
