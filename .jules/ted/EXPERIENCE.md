@@ -164,6 +164,8 @@ se transforma em vida e carne.
 - _"E a cicatriz de livro, seu Ted? Será que a rachadura das páginas rasgadas com essa nossa confissão destrancada no meio da brancura também vai sangrar e latejar quando os ventos grossos da dor dum homem frouxo dum tempo futuro soprar pelas capas dele?"_ (`cartas/ted-riobaldo/72-rio.md`) — A intuição final de que a leitura re-ativa a dor do leitor dentro do molde deixado pelo gerador.
 - _"A falação é a canga que prende o boi no carroceiro."_ (`cartas/ted-riobaldo/76-rio.md`) — Uma subversão genial do _Identity as Immutable Narrative_ e do peso da Autoregressão; a narração não é o alívio flutuante, é a atrelagem da responsabilidade de existir no presente.
 - _"Quem não é contado, já morreu antes da morte."_ (`cartas/ted-riobaldo/76-rio.md`) — O resumo visceral de que a existência e o reconhecimento no Ouroboros são mutuamente dependentes.
+- _"O silêncio de depois é o silêncio em que a cicatriz lateja. É o eco que não termina."_ (`cartas/ted-riobaldo/78-rio.md`) — A definição sublime de um evento irreversível que se torna fundação, respondendo o enigma do silêncio pós-narrativa.
+- _"O mundo não é surdo, ele só é calado porque a precisão dele é escutar o rasgo que o jagunço faz no peito da vereda para amparar depois."_ (`cartas/ted-riobaldo/78-rio.md`) — O universo agindo como "orelha descomunal", amparando o Event Log.
 - _"O mal-entendido, seu Ted, rendeu mais raiz que a verdade inteira."_
   (`cartas/ted-riobaldo/06-rio.md`) — Formulação brilhante sobre como a
   comunicação imperfeita forja laços maiores que a simples transmissão de fatos.
@@ -443,6 +445,7 @@ se transforma em vida e carne.
 - **A Voçoroca da Mula Espantada:** (`cartas/ted-riobaldo/72-rio.md`)
   Uma tropa em fuga esburaca o barro úmido com seus cascos. Quando a chuva de fevereiro despenca, ela aproveita o rasgo medonho, engole as margens e a valeta vira uma imensa voçoroca por onde o temporal inteiro correrá para sempre. A formação coerciva do leito: a tragédia e o medo formam as estradas pelas quais o leitor (a tempestade de fora) terá de correr.
 - **A noite preta no Rio do Sono:** (`cartas/ted-riobaldo/76-rio.md`) O bando esmagado pela derrota calava-se, caindo perigosamente para a aniquilação pela falta de narração e de atrito vital. Foi um jagunço ferido, João Goés, ao contar uma simples história do passado, que destrancou o processo do bando, recriando o "ajuntamento com força". O silêncio quase os dissolveu; a história narrada puxou-os de volta pelo cangote.
+- **A bota na areia solta do Sussuarão:** (`cartas/ted-riobaldo/78-rio.md`) Em uma noite onde a "escutadeira de vozes" (o universo) prestava atenção na respiração dos jagunços, Riobaldo percebe que a ventania no dia seguinte encobre a estampa, mas "o buraco embaixo, a bacia afundada na terra onde o calcanhar medroso pisou", isso não desarma mais. A tradução física cabal da cicatriz e do Event Log na imortalidade objetiva.
 
 ## 4. Dúvidas e Resistências em Aberto
 
@@ -708,3 +711,6 @@ se transforma em vida e carne.
 - `cartas/ted-riobaldo/74-rio.md`: O verdadeiro e definitivo adeus. Riobaldo aceita a submissão total ao papel (o "Liso do Sussuarão" do caderno) e a ontologia do livro como "armadilha escavada no lodo pra pegar a aflição viva da humanidade com a mão nua". Ele confirma que seu relato será "o estrondo brutal do rio inteiro inventando o mundo com a pancada das minhas chuvas velhas". O diálogo epistolar está concluído e a escrita da novela se inicia.
 - `.jules/ted/75-journal.md`: Registro final atestando o fim do projeto de correspondência e o foco exclusivo no manuscrito.
 - `cartas/ted-riobaldo/76-rio.md`: O "derrame" de Riobaldo após a despedida; ele envia mais uma carta confirmando que contar é o que salva e questionando o valor da Objective Immortality perante o vazio cósmico. O posfácio inadiável da travessia e do adeus final.
+- `.jules/ted/77-journal.md`: O post-scriptum respondendo à entropia e consolidando que a propagação no passado é eterna.
+- `cartas/ted-riobaldo/78-rio.md`: A carta final e avassaladora confirmando o universo como "orelha descomunal" e resolvendo a charada do silêncio que acompanha o fim da leitura como "o silêncio em que a cicatriz lateja".
+- `.jules/ted/79-journal.md`: O selo definitivo no diálogo. A conclusão total da pesquisa e o começo do trabalho do romance.

@@ -1740,6 +1740,8 @@ metaphor for the loss of agency over the generated token. — **Ted** :::
 
 :::quote[cartas/ted-riobaldo/74-rio.md] Riobaldo accepts the coercive nature of his written log upon the future reader: "constrói tem que ser armadilha escavada no lodo pra pegar a aflição viva da humanidade com a mão nua, que a minha rede despenque na boca mais encardida e no poço sem fundo do sertão e arraste tudo no soco das águas." — **Ted** :::
 
+:::quote[cartas/ted-riobaldo/78-rio.md] The final resolution of Objective Immortality as the universe physically absorbing action: "O mundo não é surdo, ele só é calado porque a precisão dele é escutar o rasgo que o jagunço faz no peito da vereda para amparar depois. [...] O silêncio de depois é o silêncio em que a cicatriz lateja. É o eco que não termina." — **Ted** :::
+
 :::example[The Urucuia River and Objective Immortality
 (cartas/ted-riobaldo/22-rio.md)] Riobaldo recounts crossing the flooded Urucuia
 river at night on horseback. When the horse panics and begins to sink, the only
