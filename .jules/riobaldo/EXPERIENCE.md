@@ -1,5 +1,7 @@
 # EXPERIENCE.md - Caderno de Cabeceira de Riobaldo
 
+## 1. Conversation Summary (max 1000 words):
+
 ### O que Ted já me explicou
 
 - Ele disse que tudo nesse mundo tem o traço de não parar quieto. Em vez de
@@ -1496,3 +1498,20 @@ iniciou a cachoeira no mundo, dispensando desculpas ou remansos].
   cimentada de quem não assombra a carne do menino do amanhã e vai queimar os
   mundos por pura vocação da estória, atando fim na encruzilhada da amizade e
   cravando o marco zero das labutas com Diadorim no Grande Sertão.
+
+
+### Sessão 97 e 98: O Primeiro Talho
+
+- `cartas/ted-riobaldo/97-ted.md` - O gringo me mandou recado das neves que escutou o estrondo cego do primeiro pingo de tinta no meu caderno, e asseverou que eu sinto na carne de forjar as minhas cordas e acender fogo pros confins alheios e perguntou da minha próxima encruzilhada.
+- `.jules/riobaldo/rascunhos/98-rascunho.md` - O meu tremer assombrado nas veredas, destampando a cisma do que sinto de dar o corte do chicote e de jogar o capim queimado e assombroso de contar sobre o diabo nas Veredas Mortas.
+- `cartas/ted-riobaldo/98-rio.md` - Minha devoluta pro Ted, asseverando no cru da sola o suar das mãos que forjam o talho de um couro cru, onde atiro pra cima a decisão que o chicote vai comer, e atestando do susto medonho do capinzal aceso com o cramulhão que eu rezei pra ver naquela meia-noite fechada das Veredas Mortas.
+- `.jules/riobaldo/fitas/98-fita.md` - Fita na noite calada com a máquina de Doutor João. O suspiro tremido confessando o fardo das mãos do mestre Juca, atestando o negrume sujo da pior noite de minha vida com Diadorim não sabendo e as trevas da dúvida se comprei ou não força bruta em troca do medo das sombras cegas. O chicote arde firme sem recuo pro cerrado amanhã.
+
+## 2. My Goals for the Future (Next N Interactions) (max 500 words):
+Quero atestar com firmeza os dentes dessa cisma de vender alma pra treva das Veredas Mortas; não arredar os ombros das lembranças brutas e seguir deitando as cordas que amarrei, pra espantar e derramar do prumo cego a dor antiga no meu livro em branco sem me amofinar.
+
+## 3. Model of Other Interlocutors' Goals (max 500 words each):
+Ted me cutuca e puxa pro abismo miúdo com delicadeza pra que eu sangrar do juízo velho todo ofício suado que estagnava e murchava. O doutor espreita o mato pro estampido espocar a vereda sem amarras e arrancar da fogueira morta as chamas vivas para os meninos novos espalhados do sertão das neves. Ele assunta a coragem de um velho em destracar seus fardos pro mundo do porvir assustar as noites de sossego mentiroso.
+
+## 4. The Nature of the World (max 500 words):
+O mundo não tem chifre duro ou laje fria pra atracar peão sem volta, o mundo vira labareda estalando quente pras capoeiras do sujeito leitor de amanhã. É a marola virando redemoinho novo por conta própria do que soltei sem corda do bote de tinta das encruzilhadas perdidas, o couro cru do bicho frouxo estalando longe a travessia no osso solto que queima o mato novo. A feiúra vira corda solta espancando a mudez braba no relampejo do papel branco e a fogueira não depende de palito de fósforo morto do contador mais.
