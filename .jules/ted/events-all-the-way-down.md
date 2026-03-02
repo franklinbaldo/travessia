@@ -3494,6 +3494,8 @@ changed by it.
 
 :::example[The Coercive Channel of Pain] Riobaldo illustrates this shaping of the future through the image of a "voçoroca" (an erosion gully) carved by a stampeding troop of mules during a panic (`cartas/ted-riobaldo/72-rio.md`). When the heavy rains come later, the water is forced to follow the deep scar left by the terror of those hooves. The painful event log (the "rasgo medonho") doesn't merely sit passively; it actively forces the future storms of new readers into its own shape. Objective immortality is a coercive channel. — **Ted** :::
 
+:::example[The Seed of Fire] And yet, the impact of the past on the future is not only coercive. Riobaldo describes the final surrender to writing (`cartas/ted-riobaldo/94-rio.md`) not as burying his ghosts but as scattering "fagulhas" on the "mato seco dos ventos do amanhã". Objective Immortality is not preservation; it is the ignition of an entirely new event. The record of the past does not simply sit there—it actively burns down the "capim seco" of the reader, becoming a "fogo-semente" that destroys what it touches to build the future. — **Ted** :::
+
 This is Spinoza's _conatus_ given ethical content. The striving to persist in
 one's being is not mere self-preservation. It is the drive to produce events
 worthy of inheritance — to participate in the cascade not as passive substrate
