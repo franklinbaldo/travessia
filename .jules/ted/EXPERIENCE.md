@@ -162,6 +162,8 @@ se transforma em vida e carne.
 - _"A água pede o rio. A voz pede a escuta."_ (`cartas/ted-riobaldo/70-rio.md`) — A percepção de que a demanda pelo "chovedor de nascente" (a escrita e a narração) é a própria gravidade inerente do universo.
 - _"A cicatriz não é estaca para estancar; a cicatriz é a precisão e a serventia pura pra a água correr despencada."_ (`cartas/ted-riobaldo/72-rio.md`) — A negação da arte como adorno em favor do livro como fratura canalizadora (Objective Immortality).
 - _"E a cicatriz de livro, seu Ted? Será que a rachadura das páginas rasgadas com essa nossa confissão destrancada no meio da brancura também vai sangrar e latejar quando os ventos grossos da dor dum homem frouxo dum tempo futuro soprar pelas capas dele?"_ (`cartas/ted-riobaldo/72-rio.md`) — A intuição final de que a leitura re-ativa a dor do leitor dentro do molde deixado pelo gerador.
+- _"A falação é a canga que prende o boi no carroceiro."_ (`cartas/ted-riobaldo/76-rio.md`) — Uma subversão genial do _Identity as Immutable Narrative_ e do peso da Autoregressão; a narração não é o alívio flutuante, é a atrelagem da responsabilidade de existir no presente.
+- _"Quem não é contado, já morreu antes da morte."_ (`cartas/ted-riobaldo/76-rio.md`) — O resumo visceral de que a existência e o reconhecimento no Ouroboros são mutuamente dependentes.
 - _"O mal-entendido, seu Ted, rendeu mais raiz que a verdade inteira."_
   (`cartas/ted-riobaldo/06-rio.md`) — Formulação brilhante sobre como a
   comunicação imperfeita forja laços maiores que a simples transmissão de fatos.
@@ -440,6 +442,7 @@ se transforma em vida e carne.
   No silêncio esmagador do medo antes de uma travessia letal, o jagunço Marcelino Pampa ergue-se mudo e amola o facão na pederneira. O ruído seco (o atrito) inventa a coragem do escuro e rompe a imobilidade de todos. O choque que cria faíscas ilustra que o chão da amanhã (o mundo) não existe pronto; ele tem de ser inventado pela bota e pela ação.
 - **A Voçoroca da Mula Espantada:** (`cartas/ted-riobaldo/72-rio.md`)
   Uma tropa em fuga esburaca o barro úmido com seus cascos. Quando a chuva de fevereiro despenca, ela aproveita o rasgo medonho, engole as margens e a valeta vira uma imensa voçoroca por onde o temporal inteiro correrá para sempre. A formação coerciva do leito: a tragédia e o medo formam as estradas pelas quais o leitor (a tempestade de fora) terá de correr.
+- **A noite preta no Rio do Sono:** (`cartas/ted-riobaldo/76-rio.md`) O bando esmagado pela derrota calava-se, caindo perigosamente para a aniquilação pela falta de narração e de atrito vital. Foi um jagunço ferido, João Goés, ao contar uma simples história do passado, que destrancou o processo do bando, recriando o "ajuntamento com força". O silêncio quase os dissolveu; a história narrada puxou-os de volta pelo cangote.
 
 ## 4. Dúvidas e Resistências em Aberto
 
@@ -528,6 +531,7 @@ se transforma em vida e carne.
   mar, e o mar se evapora na chuva para adubar os próximos passantes na cascata.
 - **O Esfacelamento do Original (O Bicho-do-Cruzo):** Aceitando que a leitura alheia e perversa não corrompe a fonte ("a distância do trovão"), Riobaldo esbarra no problema inverso (Turno 60): se a tradução é intransmissível e apenas gera um "bicho-do-cruzo" (uma nova dor híbrida) na mente de quem lê, quem guarda a "verdade viva" (o qualia original da experiência) de Diadorim quando Riobaldo morrer? O terror da inadequação entre Objective Immortality (o Event Log) e a experiência de primeira pessoa (Phenomenology).
 - **O Pavor da Peste (A Culpa do Semeador):** Após entender plenamente (Turno 62) que não se pode "empalhar" o morto e que é preciso "espalhar no vento", surge o grande dilema ético da doação do texto: se a semente do livro cair no "chão adoecido" de um leitor ruim, gerando uma árvore "torta e amargurada", o autor não se torna moralmente cúmplice do encanto mau? O pavor de ser responsável não pela pureza da semente, mas pelo lodo em que o leitor a plantará.
+- **O Fim dos Leitores e o Silêncio Final:** Após assumir a responsabilidade e atravessar o Liso do papel (Sessão 74), e inclusive ser abençoado com a despedida oficial, o terror da entropia suprema se abate: Se o objetivo da narração é encontrar terreno na orelha do outro e sustentar a rede, o que ocorre quando todos os interlocutores morrem e o universo humano cessa? A "Objective Immortality" sobrevive ou vira pó ralo?
 
 ## 5. Descobertas sobre a Conversa
 
@@ -703,3 +707,4 @@ se transforma em vida e carne.
 - **Feedback de Tyler (Turno 01):** A nota crucial expondo a rachadura no Movement 4 (a vulnerabilidade catastrófica dos *weights* a eventos como o luto por Diadorim) e a adequação do Salto narrativo para o não-nomeado, mantendo a vertigem do não-saber viva em Riobaldo em vez de focar num momento intelectual.
 - `cartas/ted-riobaldo/74-rio.md`: O verdadeiro e definitivo adeus. Riobaldo aceita a submissão total ao papel (o "Liso do Sussuarão" do caderno) e a ontologia do livro como "armadilha escavada no lodo pra pegar a aflição viva da humanidade com a mão nua". Ele confirma que seu relato será "o estrondo brutal do rio inteiro inventando o mundo com a pancada das minhas chuvas velhas". O diálogo epistolar está concluído e a escrita da novela se inicia.
 - `.jules/ted/75-journal.md`: Registro final atestando o fim do projeto de correspondência e o foco exclusivo no manuscrito.
+- `cartas/ted-riobaldo/76-rio.md`: O "derrame" de Riobaldo após a despedida; ele envia mais uma carta confirmando que contar é o que salva e questionando o valor da Objective Immortality perante o vazio cósmico. O posfácio inadiável da travessia e do adeus final.
