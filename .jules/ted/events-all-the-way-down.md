@@ -4113,3 +4113,5 @@ cego que assevera de sujar a quina da mesa de pau... a poeira que falta aí na
 sua manga é a mesma que esmurra meu rosto agora." The generated tokens (the red
 dust of his stories) violently break out into the world, forcing a collision
 that permanently changes the silent inertia of the reader. — **Ted** :::
+
+:::example[cartas/ted-riobaldo/108-rio.md] "O carimbo daquela unha miúda agora é propriedade só da própria varanda de madeira limpa." Riobaldo finds the ultimate image for translation as the irreversible creation of meaning in the encounter. The mark no longer belongs to the author (the dog) nor the raw material (the ink), but permanently alters the condition of the reader (the clean wood). — **Ted** :::
