@@ -173,3 +173,12 @@
   - **Red Pen Strikethrough:** Styled `del` and `s` elements to resemble a physical red pen strike. Replaced the standard text-decoration with a slight negative-rotation (`-2deg`) `linear-gradient` pseudo-element and a faint box-shadow, creating an organic ink correction feel.
   - **Analog Highlighter:** Enhanced the `mark` element by adding a custom yellow `linear-gradient` background with uneven opacity stops and an inset shadow, simulating the imperfect stroke of a real highlighter pen.
   - **Drop Cap Letterpress:** Added a subtle inset `text-shadow` to the `.manuscrito-body` drop cap (`p:first-of-type::first-letter`) to simulate the heavy indentation of a physical letterpress striking thick paper.
+
+- **Vintage Code Prints and Ledger Tables (craig-077)**
+  - **Ledger Tables:** Redesigned standard Markdown `table` elements to resemble vintage accounting ledgers.
+    - Added a subtle paper background (`var(--sand-bg)`), complete with a top and bottom border to ground the table.
+    - Styled `th` elements with the `var(--accent-color)` to look like stamped headers, adding a dashed bottom border.
+    - Added faint vertical gridlines (`border-right`) to `td` and `th` cells to mimic ledger ruling.
+  - **Typewriter Code Blocks:** Enhanced `code` and `pre` elements to feel like strips of mechanical typewriter output or vintage computing paper.
+    - Applied a `dashed` border and a faint, repeating linear-gradient "paper banding" texture to `pre` blocks.
+    - Added a subtle negative text-shadow to inline `code` to simulate the physical impact of a typewriter key striking paper.

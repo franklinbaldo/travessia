@@ -536,48 +536,83 @@ table {
   border-collapse: collapse;
   margin: 2rem 0;
   font-size: 0.9em;
+  background-color: var(--sand-bg);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  border-top: 1px solid var(--divider-color);
+  border-bottom: 1px solid var(--divider-color);
 }
 
 th,
 td {
   text-align: left;
-  padding: 0.5rem 0.75rem;
-  border-bottom: 1px solid var(--divider-color);
+  padding: 0.75rem 1rem;
+  border: none;
+  border-right: 1px solid var(--divider-color); /* Gridlines simulating a physical ledger */
+}
+
+th:last-child,
+td:last-child {
+  border-right: none;
 }
 
 th {
   font-weight: 700;
   color: var(--accent-color);
+  background-color: rgba(0, 0, 0, 0.02); /* Slight tint for table header like ledger paper */
+  border-bottom: 1px dashed var(--divider-color);
 }
 
 /* === Code (docs) === */
 
 code {
+  font-family: var(--font-mono, monospace);
   font-size: 0.85em;
-  background: rgba(0, 0, 0, 0.05);
+  background: rgba(0, 0, 0, 0.06);
   padding: 0.15em 0.35em;
-  border-radius: 3px;
+  border-radius: 2px;
+  border: 1px solid rgba(0, 0, 0, 0.04); /* Subtle border for inline code */
+  text-shadow: 0 -0.5px 0 rgba(0, 0, 0, 0.1); /* Physical typewriter impact */
 }
 
 [data-theme="dark"] code {
   background: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.05);
+  text-shadow: 0 -0.5px 0 rgba(255, 255, 255, 0.1);
 }
 
 pre {
   overflow-x: auto;
-  padding: 1rem;
-  background: rgba(0, 0, 0, 0.04);
-  border-radius: 4px;
-  margin: 1.5rem 0;
+  padding: 1.25rem 1.5rem;
+  background-color: var(--sand-bg); /* Paper-like background for blocks */
+  background-image: repeating-linear-gradient(
+    transparent,
+    transparent 1.4rem,
+    rgba(0, 0, 0, 0.02) 1.4rem,
+    rgba(0, 0, 0, 0.02) 2.8rem
+  ); /* Vintage printer paper banding texture */
+  border-radius: 3px;
+  border: 1px solid var(--divider-color);
+  border-left: 3px dashed var(--divider-color); /* Tear-off edge effect */
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.02), 0 2px 4px rgba(0, 0, 0, 0.03); /* Tactile depth */
+  margin: 2rem 0;
+  position: relative;
 }
 
 [data-theme="dark"] pre {
-  background: rgba(255, 255, 255, 0.05);
+  background-image: repeating-linear-gradient(
+    transparent,
+    transparent 1.4rem,
+    rgba(255, 255, 255, 0.01) 1.4rem,
+    rgba(255, 255, 255, 0.01) 2.8rem
+  );
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 pre code {
   background: none;
   padding: 0;
+  border: none; /* Reset inline code style within pre */
+  line-height: 1.4rem; /* Match the background banding */
 }
 
 /* === Transitions === */
