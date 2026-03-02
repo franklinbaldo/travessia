@@ -1,0 +1,107 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import FooterNav from '../../components/FooterNav.astro';
+import { formatDate, getFileNum } from '../../lib/utils';
+
+export async function getStaticPaths() {
+  const doutorJoao = await getCollection('cartas-doutor-joao');
+  const zeBebelo = await getCollection('cartas-ze-bebelo');
+
+  const all = [
+    ...doutorJoao.map(e => ({ ...e, colecao: 'cartas-doutor-joao' as const })),
+    ...zeBebelo.map(e => ({ ...e, colecao: 'cartas-ze-bebelo' as const })),
+  ];
+
+  const sorted = [...all].sort((a, b) => getFileNum(a.id) - getFileNum(b.id));
+
+  return all.map(entry => {
+    const currentIndex = sorted.findIndex(e => e.id === entry.id && e.colecao === entry.colecao);
+    const prev = currentIndex > 0 ? sorted[currentIndex - 1] : null;
+    const next = currentIndex < sorted.length - 1 ? sorted[currentIndex + 1] : null;
+
+    const slug = `${entry.colecao}/${entry.id}`;
+    return {
+      params: { slug },
+      props: { entry, prev, next },
+    };
+  });
+}
+
+const base = import.meta.env.BASE_URL;
+const { entry, prev, next } = Astro.props;
+const { Content } = await render(entry);
+
+const destinatario = entry.data.destinatario || 'Desconhecido';
+const titulo = `Carta a ${destinatario}`;
+---
+
+<Layout title={`${titulo} | Travessia`}>
+  <article>
+    <header class="manuscrito-header">
+      <div class="carta-autor-badge">
+        <span class="autor-badge autor-rio">Riobaldo Tatarana</span>
+      </div>
+      <h1>{titulo}</h1>
+      <div class="post-meta">
+        {entry.data.data && (
+          <time datetime={entry.data.data.toISOString()}>
+            {formatDate(new Date(entry.data.data))}
+          </time>
+        )}
+        {entry.data.sessao && <span>Sessão {entry.data.sessao}</span>}
+      </div>
+      <div class="separator"></div>
+    </header>
+
+    <div class="manuscrito-body carta-riobaldo">
+      <Content />
+    </div>
+  </article>
+
+  <FooterNav
+    prev={prev ? {
+      url: `${base}carta-pessoal/${prev.colecao}/${prev.id}`,
+      title: `Carta a ${prev.data.destinatario || 'Desconhecido'}`,
+    } : undefined}
+    next={next ? {
+      url: `${base}carta-pessoal/${next.colecao}/${next.id}`,
+      title: `Carta a ${next.data.destinatario || 'Desconhecido'}`,
+    } : undefined}
+  />
+</Layout>
+
+<style>
+  .carta-autor-badge {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+
+  .autor-badge {
+    display: inline-block;
+    font-family: var(--font-meta);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 0.3rem 0.9rem;
+    border-radius: 3px;
+  }
+
+  .autor-badge.autor-rio {
+    background: rgba(139, 58, 42, 0.1);
+    color: var(--secondary-color);
+  }
+
+  .post-meta {
+    font-family: var(--font-meta);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--meta-color);
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0.75rem;
+  }
+</style>
