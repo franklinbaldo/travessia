@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-02T19:20:47Z
+gerado: 2026-03-02T22:55:14Z
 agente: craig
 ---
 
@@ -7,15 +7,14 @@ agente: craig
 
 Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
-| Dimensão       | Valor sorteado                              |
-| -------------- | ------------------------------------------- |
-| **Foco**       | performance e simplicidade                  |
-| **Inspiração** | web brutalista                              |
-| **Restrição**  | nenhuma mudança estrutural — só refinamento |
+| Dimensão | Valor sorteado |
+|----------|---------------|
+| **Foco** | cor e contraste |
+| **Inspiração** | revista literária contemporânea |
+| **Restrição** | pelo menos uma mudança visível e ousada |
 
 ## Como aplicar
 
-- **Foco**: "performance e simplicidade" — esta sessão deve se concentrar neste
-  aspecto do design.
-- **Inspiração**: "web brutalista" — use como referência estética dominante.
-- **Restrição**: "nenhuma mudança estrutural — só refinamento".
+- **Foco**: "cor e contraste" — esta sessão deve se concentrar neste aspecto do design.
+- **Inspiração**: "revista literária contemporânea" — use como referência estética dominante.
+- **Restrição**: "pelo menos uma mudança visível e ousada".

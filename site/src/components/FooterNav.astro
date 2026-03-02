@@ -76,8 +76,7 @@ const isRich = !!(prev?.autor || next?.autor);
     justify-content: space-between;
     gap: 1.5rem;
     margin-top: 4rem;
-    padding-top: 2rem;
-    border-top: 1px solid var(--divider-color);
+    padding-top: 2rem; border-top: 2px solid var(--text-color);
   }
 
   .footer-nav a {
@@ -89,15 +88,10 @@ const isRich = !!(prev?.autor || next?.autor);
     flex-direction: column;
     gap: 0.25rem;
     position: relative;
-    max-width: 45%;
-    border-bottom: none;
+    max-width: 45%; border-bottom: 2px solid var(--text-color);
     padding: 1.25rem 1.25rem 1rem;
-    background: var(--sand-bg);
-    border: 1px solid var(--divider-color);
-    border-radius: 6px;
-    border-left: 3px solid var(--divider-color);
+    background: var(--sand-bg); border: 2px solid var(--text-color); border-radius: 0; border-left: 2px solid var(--text-color);
     text-decoration: none;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.02);
     transition:
       background-color 0.4s ease,
       border-color 0.4s ease,
@@ -113,19 +107,10 @@ const isRich = !!(prev?.autor || next?.autor);
     transform: translateX(-50%);
     width: 10px;
     height: 10px;
-    background: var(--bg-color);
-    border-radius: 50%;
-    box-shadow:
-      inset 1px 1px 2px rgba(0, 0, 0, 0.1),
-      0 1px 0 rgba(255, 255, 255, 0.8);
-    border: 1px solid rgba(0, 0, 0, 0.05);
+    background: var(--bg-color); border-radius: 0; border: 2px solid var(--text-color);
   }
 
-  :global([data-theme="dark"]) .footer-nav-link::before {
-    box-shadow:
-      inset 1px 1px 3px rgba(0, 0, 0, 0.5),
-      0 1px 0 rgba(255, 255, 255, 0.1);
-    border: 1px solid rgba(0, 0, 0, 0.3);
+  :global([data-theme="dark"]) .footer-nav-link::before { border: 2px solid var(--text-color);
   }
 
   .footer-nav-link:hover {
@@ -133,12 +118,10 @@ const isRich = !!(prev?.autor || next?.autor);
     border-color: var(--water-border);
     border-left-color: var(--accent-color);
     transform: translateY(-3px);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.06);
     opacity: 1;
   }
 
   :global([data-theme="dark"]) .footer-nav-link:hover {
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
   }
 
   .footer-nav-link.next {
@@ -181,8 +164,7 @@ const isRich = !!(prev?.autor || next?.autor);
 
     .footer-nav-link.next {
       text-align: left;
-      align-items: flex-start;
-      border-top: 1px solid var(--divider-color);
+      align-items: flex-start; border-top: 2px solid var(--text-color);
       padding-top: 1rem;
     }
   }

@@ -105,9 +105,7 @@ function autorClasse(autorName: string): string {
   .correspondence-context {
     margin-bottom: 1.5rem;
     padding: 0.75rem 1rem;
-    background: var(--sand-bg);
-    border-left: 3px solid var(--accent-color);
-    border-radius: 3px;
+    background: var(--sand-bg); border-left: 2px solid var(--text-color); border-radius: 0;
     display: flex;
     gap: 0.5rem;
     align-items: center;
@@ -150,8 +148,7 @@ function autorClasse(autorName: string): string {
     font-size: 0.75rem;
     text-transform: uppercase;
     letter-spacing: 0.08em;
-    padding: 0.3rem 0.9rem;
-    border-radius: 3px;
+    padding: 0.3rem 0.9rem; border-radius: 0;
   }
 
   .autor-badge.autor-rio {
@@ -181,8 +178,7 @@ function autorClasse(autorName: string): string {
   /* Correspondence Timeline */
   .correspondence-timeline {
     margin-top: 3rem;
-    padding-top: 2rem;
-    border-top: 1px solid var(--divider-color);
+    padding-top: 2rem; border-top: 2px solid var(--text-color);
     text-align: center;
   }
 
@@ -216,16 +212,13 @@ function autorClasse(autorName: string): string {
     justify-content: center;
     width: 2.5rem;
     height: 2.5rem;
-    flex-shrink: 0;
-    border-radius: 50%;
-    border: 2px solid var(--divider-color);
+    flex-shrink: 0; border-radius: 0; border: 2px solid var(--text-color);
     background: var(--sand-bg);
     color: var(--text-color);
     font-family: var(--font-meta);
     font-size: 0.75rem;
     font-weight: 600;
     text-decoration: none;
-    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.05), 0 2px 4px rgba(0, 0, 0, 0.08);
     transition:
       background-color 0.3s ease,
       border-color 0.3s ease,
@@ -244,7 +237,6 @@ function autorClasse(autorName: string): string {
   .timeline-dot:hover {
     transform: translateY(-2px) scale(1.05);
     background: var(--water-bg);
-    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.02), 0 6px 12px rgba(0, 0, 0, 0.1);
   }
 
   .timeline-dot.current {
@@ -253,19 +245,15 @@ function autorClasse(autorName: string): string {
     border-color: var(--accent-color);
     font-weight: 700;
     transform: translateY(2px);
-    box-shadow: inset 0 4px 6px rgba(0, 0, 0, 0.2), 0 1px 2px rgba(0, 0, 0, 0.1);
   }
 
   :global([data-theme="dark"]) .timeline-dot.current {
-    box-shadow: inset 0 4px 6px rgba(0, 0, 0, 0.4), 0 1px 2px rgba(0, 0, 0, 0.3);
   }
 
   :global([data-theme="dark"]) .timeline-dot {
-    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.15);
   }
 
   :global([data-theme="dark"]) .timeline-dot:hover {
-    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1), 0 6px 12px rgba(0, 0, 0, 0.25);
   }
 
   @media (max-width: 600px) {
