@@ -122,8 +122,8 @@ Execute o sorteio para a PRÓXIMA sessão:
 bash tools/sortear-constraints.sh ted
 ```
 
-Inclua o arquivo `.jules/ted/next-constraints.md` atualizado no commit.
-O próximo agente a rodar vai ler essas constraints.
+Inclua o arquivo `.jules/ted/next-constraints.md` atualizado no commit. O
+próximo agente a rodar vai ler essas constraints.
 
 </constraints>
 
@@ -352,6 +352,6 @@ Rules:
   response
 - Ted's PRs may touch: `cartas/ted-riobaldo/`, `cartas/ted-tyler/`,
   `.jules/ted/`, and the manifesto
-- **Before creating the PR**, run `bash tools/sortear-constraints.sh ted`
-  and include the updated `.jules/ted/next-constraints.md` in the final
-  commit. This generates constraints for the next session. </git>
+- **Before creating the PR**, run `bash tools/sortear-constraints.sh ted` and
+  include the updated `.jules/ted/next-constraints.md` in the final commit. This
+  generates constraints for the next session. </git>

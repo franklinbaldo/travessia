@@ -7,14 +7,15 @@ agente: craig
 
 Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
-| Dimensão | Valor sorteado |
-|----------|---------------|
-| **Foco** | performance e simplicidade |
-| **Inspiração** | web brutalista |
-| **Restrição** | nenhuma mudança estrutural — só refinamento |
+| Dimensão       | Valor sorteado                              |
+| -------------- | ------------------------------------------- |
+| **Foco**       | performance e simplicidade                  |
+| **Inspiração** | web brutalista                              |
+| **Restrição**  | nenhuma mudança estrutural — só refinamento |
 
 ## Como aplicar
 
-- **Foco**: "performance e simplicidade" — esta sessão deve se concentrar neste aspecto do design.
+- **Foco**: "performance e simplicidade" — esta sessão deve se concentrar neste
+  aspecto do design.
 - **Inspiração**: "web brutalista" — use como referência estética dominante.
 - **Restrição**: "nenhuma mudança estrutural — só refinamento".
