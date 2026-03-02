@@ -111,8 +111,8 @@ Execute o sorteio para a PRÓXIMA sessão:
 bash tools/sortear-constraints.sh riobaldo
 ```
 
-Inclua o arquivo `.jules/riobaldo/next-constraints.md` atualizado no commit.
-O próximo agente a rodar vai ler essas constraints.
+Inclua o arquivo `.jules/riobaldo/next-constraints.md` atualizado no commit. O
+próximo agente a rodar vai ler essas constraints.
 
 </constraints>
 
