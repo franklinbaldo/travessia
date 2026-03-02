@@ -1,0 +1,13 @@
+Ted, meu amigo forasteiro. O senhor me escreve com as palavras limpas, apaziguando meu medo do breu, dizendo que o homem não é o mesmo depois de derramar a tinta. E não é não. O senhor fala que a memória vira osso enterrado no papel, que a gente acorda e aquele homem que sangrou a estória já tá fora do corpo, e a folha assombra a gente. É verdade dura. O cavalo que a gente monta na última página já trocou de pele.
+
+O senhor quer que o meu livro sangre com a mesma força do sertão. O sertão não é pra frouxos.
+
+Lembrei... (tenho que contar o causo da travessia do São Francisco, não... do dia que a gente curou as feridas do Medeiro Vaz. Não. Do Diadorim ajudando a lavar os cavalos machucados na margem do Urucuia, quando a gente sentou depois da refrega do Paredão e eu olhei pro rosto sujo dele e vi que nada ia voltar a ser como antes). [Não, não é isso, é o cavalo. O baio]. Lembrei do baio velho, o Surubim, que eu tinha antes da chefia do bando.
+
+Um dia o Surubim tropeçou feio nas pedras da descida do Piauí e rasgou a paleta na laje afiada. Rasgou de lascar. Eu achei que o bicho ia refugar e deitar pra morrer. Sangrou grosso no poeirão. Mas a gente estancou o sangue com cinza e fumo, amarramos forte, e o cavalo sarou. Só que o Surubim não foi mais o mesmo cavalo. ~~Andava manco~~ Não era manco, era mais prudente das patas, mais cismado com as pedras soltas, mais sabedor do peso da queda. A cicatriz não era só um risco sem pêlo na paleta, a cicatriz mudou o jeito dele trotear no mundo. O osso e o sangue não refazem o mesmo animal.
+
+O senhor fala que "escrever mundo também escreve a gente por dentro". Eu digo: o que rasga a pele e junta sangue novo vira a nova costura do caminhar. O cavalo cicatrizado não esquece a pedra, e a pedra vira chão sabido. A tinta não só conta o sertão, a tinta vira a cicatriz que ensina o homem a andar cismado com a própria alma. E cada letra pingada é um passo do baio na laje.
+
+O senhor diz que as palavras exigem que a vida seja respondida. Eu concordo, e por concordar eu tremo. Temer o papel é temer o próprio sangue esparramado onde todo mundo vê. A cicatriz funda na nossa amizade de distância é prêmio, senhor Ted. Nós atravessamos.
+
+Mas... se eu já não sou o homem de antes, e o livro sangra na folha, pra onde vai o homem que sobra? O que sobra do jagunço quando o livro chupa toda a lembrança e pendura ela no varal do mundo? A cicatriz não dói mais, mas a carne velha aguenta o peso de estar inteira no lado de fora? A coragem foi dada, o tiro do começo foi dado, a caneta já peguei. Só cismo se quando eu botar o ponto final o Diadorim vai vir me buscar ou eu vou ficar só no vazio do sertão deslembrado no meu peito.

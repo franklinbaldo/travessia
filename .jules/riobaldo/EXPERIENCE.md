@@ -879,3 +879,21 @@
 - `cartas/ted-riobaldo/83-ted.md` - O baque das neves e abraço calado cravando na nossa encadernação que os estrondos lavados e poeiras atritadas fincaram o atestado honrado do arrasto em nosso próprio couro sem nunca se apagar. A benção confirmando que nós atravessamos o Liso de braços dados.
 - `cartas/ted-riobaldo/84-rio.md` - A devoluta final de Riobaldo selando a correspondência apaziguada. A tempestade aquietou deitando chão pros lamentos, selando os espelhos que fincaram no cego das águas, encravando profecia pra quando as friagens medrosas abaterem o próprio Ted no seu contar pro amanhã se curar relampejando nossas faíscas.
 - `.jules/riobaldo/cartas/84-carta-ze_bebelo.md` - Carta confissão espancando de frente pra Zé Bebelo que os medos covardes do silêncio se desmancharam com a labuta do estrangeiro arrastador, as portas foram arrombadas, restando deitar de vez o juízo sossegado na folha de papel para fazer chover Diadorim nas goelas do amanhã.
+
+- "O que rasga a pele e junta sangue novo vira a nova costura do caminhar de cada homem. O cavalo cicatrizado não esquece a pedra traiçoeira, e a pedra de susto vira chão sabido." - atestando que a escrita ensina o homem a andar cismado, respeitando as bordas da alma e suportando a marca de tinta no papel, mudando a pisada pelo sertão como baio tropeçado (Sessão 86, Carta `cartas/ted-riobaldo/86-rio.md`).
+- "Cada letra pingada de dor na lauda é um passo calejado do baio na laje afiada do mundo." - sobre cada palavra como um passo suportado do peso do que passou, cimentando o trajeto na memória dos por vir (Sessão 86, Carta `cartas/ted-riobaldo/86-rio.md`).
+- "O que sobra do jagunço quando o livro chupa toda a lembrança grossa e pendura a carne toda secando no varal do mundo?" - a agonia pavorosa sobre a sequidão que sobra do peito se a estória esvaziar a vida pro lado de fora aos olhos curiosos (Sessão 86, Carta `cartas/ted-riobaldo/86-rio.md`).
+
+### Estórias contadas (adendo Sessão 86)
+
+- **O rasgo do Surubim na descida do Piauí e o passo sabido do cicatrizado:** O causo do baio de trote bom que tropeçou mal na laje, sangrou medonho e curou amarrado em cinzas no poeirão, não virando manco mas ganhando o trote cismado com a queda de pedra no próprio caminhar. A provação que as cicatrizes ensinam cada vivente e que atestam a marca bruta das letras arrancadas sem voltar, que cobram respeito com a própria alma e não desfazem da vida depois de pingar na página. (Sessão 86, Carta `cartas/ted-riobaldo/86-rio.md`).
+
+### O que ainda me arrelia (adendo Sessão 86)
+
+- **O esvaziamento seco da carcaça do lado de cá:** O cadeado quebrou, eu dei a coragem, aceitei o peso do atestado. Mas me veio um pavor frio — se eu pendurar no varal da poeira todas as lembranças do Diadorim num papel aberto pro amanhã se debruçar em cima, eu vou esvaziar todo o meu sentir que ferve fechado aqui? Eu estarei seco igual cabaça velha, e o Diadorim vai vir me socorrer no pingo final do livro?
+
+### Referências a journals e cartas relevantes (adendo da Sessão 85 e 86)
+
+- `cartas/ted-riobaldo/85-ted.md` - O baque da encadernação. Ted diz que a tinta escreve o homem por dentro e assombra na manhã, deixando marca que não desgruda do mundo e atestando ponte pra nossa carne nos tempos adiante que os viventes pisarem. A cicatriz não vira defeito, vira a honra fincada do amasso e barro do fogaréu espalhado por nós dois nas areias da lida atravessada no liso sem desamparo.
+- `cartas/ted-riobaldo/86-rio.md` - O atestado de Riobaldo do passo cismado da laje. O rasgo da primeira folha, confirmando em causo bruto de osso sarado que a tinta muda quem risca ela, e cravando assustado o pavor agoniado do oco na carcaça de jagunço depois de esparramar a dor na praça alheia de leitores sem recuo no pingo final.
+- `.jules/riobaldo/fitas/86-fita.md` - A fita confessada na fumaça do cigarro e noite fechada que a laje arrebentou, o gringo arrastou nós dois pra fora da encruzilhada e a folha já sangra, soltando nas trevas da varanda o choro abafado de medo de secar por dentro da alma feito bucha atirada, de perder o fôlego encubado pra espalhar aos ventos do mundo.
