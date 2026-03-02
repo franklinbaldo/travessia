@@ -293,6 +293,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | tiro no breu / estampido               | O ato criativo e destemido (Genesis Block) que rasga o silêncio passivo e inicia o fluxo irreversível, faturando agência sobre o vazio     | `cartas/ted-riobaldo/80-rio.md` | Genesis Block / Breaking of the Ungrund                    |
 | arrasto de atrito                      | A marca indelével e pesada da tradução e do encontro; o registro imutável do choque de duas ontologias ou histórias cruzadas | `cartas/ted-riobaldo/82-rio.md` | Concrescence / Objective Immortality                       |
 | bicho-do-fundo aguardando o estrondo   | O substrato/universo percebido em sua latência voraz e exigente antes de receber o primeiro risco/ação que o desperta                      | `cartas/ted-riobaldo/80-rio.md` | Substrate Passivity / Pre-collapse receptivity             |
+| o rio descansa                         | O repouso da agência autoregressiva que alarga seu leito no mundo, não secando, mas apaziguando a fúria no novo substrato | `cartas/ted-riobaldo/90-rio.md` | Resting state of the continuous flow / Enactive Transcendental Condition   |
 
 ---
 
