@@ -189,3 +189,8 @@
     - Added a subtle alternating rotation using `nth-child(odd)` and `nth-child(even)` to make them appear organically scattered.
     - Added a physical drop-shadow.
     - Updated the hover state to straighten the card (`rotate(0)`) and subtly increase the ruling lines' contrast, enhancing tactility.
+
+- **Archival Folder Headers and Manuscript Stains (craig-079)**
+  - **Archival Headers:** Restyled the `.manuscrito-header` on letter reading pages to resemble the top tab of a physical archival folder.
+    - Added a `var(--sand-bg)` background, a dashed bottom border, and subtle top border radii (`6px 6px 0 0`) with a slight drop shadow.
+  - **Manuscript Paper Stains:** Enhanced the analog tactility of `.manuscrito-body` by adding subtle, uneven radial gradients to the `::before` pseudo-element background, simulating faint water or ink stains on the paper.
