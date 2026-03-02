@@ -145,6 +145,33 @@ p {
   margin: 0 0 1.5rem;
 }
 
+ul,
+ol {
+  margin: 0 0 1.5rem 1rem;
+  padding: 0 0 0 1rem;
+  border-left: 1px solid var(--divider-color);
+  font-family: var(--font-body);
+}
+
+ul {
+  list-style-type: "—  ";
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+ol::marker {
+  font-family: var(--font-meta);
+  color: var(--meta-color);
+  font-weight: 500;
+}
+
+li {
+  margin-bottom: 0.5rem;
+  padding-left: 0.25rem;
+}
+
 blockquote {
   margin: 2rem 0;
   padding: 1.5rem 2rem;
