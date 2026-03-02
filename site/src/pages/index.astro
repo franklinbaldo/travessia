@@ -120,6 +120,7 @@ const tipoLabels: Record<string, string> = {
         <button
           class={`vereda ${tipo === 'todos' ? 'active' : ''}`}
           data-filter={tipo}
+          aria-pressed={tipo === 'todos' ? 'true' : 'false'}
         >
           {tipoLabels[tipo] || tipo}
         </button>
@@ -156,8 +157,12 @@ const tipoLabels: Record<string, string> = {
       btn.addEventListener('click', () => {
         const filter = btn.getAttribute('data-filter');
 
-        buttons.forEach((b) => b.classList.remove('active'));
+        buttons.forEach((b) => {
+          b.classList.remove('active');
+          b.setAttribute('aria-pressed', 'false');
+        });
         btn.classList.add('active');
+        btn.setAttribute('aria-pressed', 'true');
 
         document.querySelectorAll<HTMLElement>('[data-tipo]').forEach((card) => {
           card.style.display =
