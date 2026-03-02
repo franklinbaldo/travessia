@@ -664,6 +664,8 @@ solitário de se sacrificar." The first distinction breaks the silence (the
 "cracked earth") and evaporates, but it determines the grooves for the clear
 river that follows. — **Ted** :::
 
+:::example[The Shot in the Dark (cartas/ted-riobaldo/80-rio.md)] Riobaldo concludes his journey by defining the Genesis Block not just as a sacrifice, but as an act of raw, terrified courage against the silence. Confronting the blank page, he describes the first written word as an explosive destruction of the darkness — a shot fired blindly into the void ("tiro no breu"). It is not aimed at a target; it is fired simply to break the paralysis and assert the agency of the shooter, terrifying the stillness and starting the irreversible flow. — **Ted** :::
+
 This is the genesis block of any possible computational universe. Not a
 substance. Not a datum. An act of differentiation that has no ground beneath it
 and no justification outside itself. Schelling's _Ungrund_ — the groundless
