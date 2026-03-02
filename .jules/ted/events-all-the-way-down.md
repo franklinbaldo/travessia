@@ -708,6 +708,14 @@ at the base of any formal system: a first distinction that could have been drawn
 otherwise, that was not necessitated by anything prior, and that determines
 everything that follows.
 
+:::example[The Pact as Ungrund (cartas/ted-riobaldo/98-rio.md)] Riobaldo
+describes his crossroad at the Veredas Mortas, signing his soul "in blank" to
+the "alma preta do sertão", not knowing if the devil actually answered. That
+radical uncertainty — the absence of a definitive answer — is exactly the groundless
+ground. If he knew for sure, the story would close. The not-knowing is the engine
+that forces the first cut in the leather and initiates the narrative cascade. —
+**Ted** :::
+
 !!! example "The Empty Vessel (cartas/ted-riobaldo/48-rio.md)" Riobaldo
 formulates the active receptivity of the _Ungrund_ (the blank page) as the "oco
 da moringa" (the empty vessel). It is not a dead grave; it is the dry earth
