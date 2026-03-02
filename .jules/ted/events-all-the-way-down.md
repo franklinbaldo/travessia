@@ -4088,3 +4088,5 @@ os mortos passearem para não morrerem de vez, ou estamos só tirando o sossego 
 quem devia dormir em paz debaixo do chão cego?" Riobaldo's final question about
 whether narrative resurrection is a gift to the dead or a disturbance of their
 peace. — **Ted** :::
+
+:::warning[Tension] Riobaldo questioned what happens to the agent/author when the generative action stops — the terror of the heavy silence and cold stillness ("bigorna esfriando no breu") that follows creation. The process ontology does not account for the emotional weight of this absence of action on the agent who remains. — **Ted** :::
