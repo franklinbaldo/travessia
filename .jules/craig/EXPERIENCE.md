@@ -25,9 +25,10 @@ and the stark beauty of the sertão.
 Most recently, constrained by the inspiration of a "livro impresso clássico"
 (classic printed book) and focusing on micro-interactions on a single component,
 I introduced subtle "letterpress" deboss effects (`text-shadow` and `box-shadow`)
-to typography and interface elements (like the timeline dots and author badges).
-This softened the harshness of the magazine aesthetic, bridging the contemporary
-layout with the tactile, indented reality of ink pressed firmly into heavy paper.
+to typography and interface elements. Specifically, on the letter reading page,
+the "Correspondence Context" and author badges now feature inset shadows that
+simulate the physical pressure of ink pressed firmly into heavy paper, alongside
+tactile hover states that mimic running a finger over indented text.
 
 ## 2. My Goals for the Future (Next N Interactions)
 
@@ -78,7 +79,8 @@ The ontology of the site's design is now based on these editorial rules:
 - **The Tension of Forms:** The design balances the sophisticated, clean lines of
   contemporary publishing with the raw, visceral content of the sertão narrative.
   It is a polished lens focusing on a rugged reality.
-- **Tactile Micro-interactions:** The digital interface responds to interaction with
-  the logic of physical objects. Hover states don't just change color; they change
-  perceived depth, mimicking the pressing of paper or the reflection of light
-  off indented ink (letterpress).
+- **Tactile Micro-interactions (Letterpress):** The digital interface responds to
+  interaction with the logic of physical objects. Hover states don't just change
+  color; they change perceived depth, mimicking the pressing of paper or the
+  reflection of light off indented ink (letterpress deboss), creating a tangible
+  connection between the reader and the "printed" word.

@@ -105,7 +105,8 @@ function autorClasse(autorName: string): string {
   .correspondence-context {
     margin-bottom: 1.5rem;
     padding: 0.75rem 1rem;
-    background: var(--sand-bg); border-left: 2px solid var(--text-color); border-radius: 0;
+    background: var(--sand-bg);
+    border-radius: 2px;
     display: flex;
     gap: 0.5rem;
     align-items: center;
@@ -113,6 +114,24 @@ function autorClasse(autorName: string): string {
     font-size: 0.8rem;
     text-transform: uppercase;
     letter-spacing: 0.04em;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.06), inset 0 0 1px rgba(0, 0, 0, 0.1), 0 1px 0 rgba(255, 255, 255, 1);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94), box-shadow 0.2s ease;
+    cursor: default;
+  }
+
+  :global([data-theme="dark"]) .correspondence-context {
+    box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.5), inset 0 0 1px rgba(0, 0, 0, 0.8), 0 1px 0 rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.02);
+  }
+
+  .correspondence-context:hover {
+    transform: translateY(1px) scale(0.995);
+    box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.08), inset 0 0 2px rgba(0, 0, 0, 0.12), 0 1px 0 rgba(255, 255, 255, 1);
+  }
+
+  :global([data-theme="dark"]) .correspondence-context:hover {
+    box-shadow: inset 0 3px 7px rgba(0, 0, 0, 0.6), inset 0 0 2px rgba(0, 0, 0, 0.9), 0 1px 0 rgba(255, 255, 255, 0.05);
   }
 
   .correspondence-flow {
@@ -148,14 +167,26 @@ function autorClasse(autorName: string): string {
     font-size: 0.75rem;
     text-transform: uppercase;
     letter-spacing: 0.08em;
-    padding: 0.3rem 0.9rem; border-radius: 0;
-    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05), 0 1px 0 rgba(255, 255, 255, 0.8);
-    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.8);
+    padding: 0.3rem 0.9rem;
+    border-radius: 2px;
+    box-shadow: inset 0 2px 3px rgba(0, 0, 0, 0.08), inset 0 0 1px rgba(0, 0, 0, 0.15), 0 1px 0 rgba(255, 255, 255, 1);
+    text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.1), 0 1px 1px rgba(255, 255, 255, 0.8);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    cursor: default;
+  }
+
+  .autor-badge:hover {
+    transform: translateY(1px);
+    box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.12), inset 0 0 2px rgba(0, 0, 0, 0.2), 0 1px 0 rgba(255, 255, 255, 1);
   }
 
   :global([data-theme="dark"]) .autor-badge {
-    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.1);
-    text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.5);
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.4), inset 0 0 1px rgba(0, 0, 0, 0.6), 0 1px 0 rgba(255, 255, 255, 0.05);
+    text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.6), 0 1px 1px rgba(255, 255, 255, 0.05);
+  }
+
+  :global([data-theme="dark"]) .autor-badge:hover {
+    box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.5), inset 0 0 2px rgba(0, 0, 0, 0.8), 0 1px 0 rgba(255, 255, 255, 0.05);
   }
 
   .autor-badge.autor-rio {
