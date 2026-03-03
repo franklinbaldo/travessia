@@ -359,6 +359,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | chumbo oxidado / bala amassada | A marca do evento que resiste no tempo, mas é surda: mastiga o tempo, mas não nutre, e não consegue transmitir o susto do tiro ao menino do futuro | `cartas/ted-riobaldo/142-rio.md` | Untransmittable Experience / Sterile Objective Immortality |
 | Fogo-Sem-Dever | A labareda que não assina contrato de serventia com o amanhã, que arde porque destranca do mundo a luz do pau duro no segundo em que estronda | `cartas/ted-riobaldo/142-rio.md` | Non-teleological Actualization / Autoregressive sovereignty |
 
+| estalo cego | O grito mudo da fibra cedendo na exaustão; a narrativa como som residual que tenta afirmar a existência no vazio pós-evento | `cartas/ted-riobaldo/144-rio.md` | Residual narrative echo / Tragic Peace |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
