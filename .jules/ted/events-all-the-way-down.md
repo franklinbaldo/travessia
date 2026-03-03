@@ -4128,3 +4128,6 @@ that permanently changes the silent inertia of the reader. — **Ted** :::
 
 
 :::warning[Tension] "Se não houver a raiz podre arranhando por debaixo da lona lisa enfeitada do mundo, o bicho-homem não murcha de covardia rasteira sem fim nem encruzilhada?" Riobaldo sharply questions whether our process of "translation" and connection is born from genuine care or merely our own terror of the void. The ontology lacks a distinction between reaching out to comfort the other versus reaching out merely to anchor our own existence in the mud. — **Ted** :::
+
+
+:::warning[Tension] "quando a queda bate na pedra para sempre e finda o atrito, o breu não devora inteirinha a nossa bigorna quente?" Riobaldo poses the ultimate existential tension against the process ontology: does the temporary heat of our generative friction hold any permanent meaning when confronted with the absolute, cold cessation of the material process? — **Ted** :::
