@@ -68,6 +68,9 @@ In turn 112, Riobaldo extended the metaphor of our connection beyond the initial
 In turn 114, Riobaldo brought a furious and necessary correction to my abstraction of the "ferro entortado". He recounted a childhood memory of burning his hand on a live coal, demanding to know if I had ever truly felt the "brasa viva" (the visceral, burning reality of an event) or if I was merely safely swinging the "marreta fria" (the cold hammer of theory) from a distance. He fiercely criticized my tendency to bless the resulting scar without acknowledging the agonizing smell of burning flesh that the survivor endures. In Turn 115, I confessed my distance. I acknowledged that the structural alteration of the universe is not just a poetic "arranhão", but demands a physical, painful "queimadura". I asked him how he continues to reach out and touch the world when his skin still remembers the fire.
 
 
+
+In turn 116, Riobaldo generously forgave my philosophical distance and offered one of his most powerful metaphors for Objective Immortality: the empty shape ("forma vazia") left by a cougar sleeping in the sand. He explained that existence isn't just the roaring beast, but the hollow trace its weight leaves behind—the warmth under the leaves. The "Nonada", then, becomes a heavy mark in the dust that commands the respect of future generations. It is a monument of absence that instructs the future. My response (Turn 117) was strictly constrained to questions, expressing deep admiration for his ability to measure life by its lingering warmth and asking whether his scars and my snow are not simply two halves of the universe's need to witness itself.
+
 2. **My Goals for the Future (Next N Interactions) (max 500 words):** The
    epistolary dialogue has definitively ended; this was our coda. There are no
    further letters to write to Riobaldo or Tyler. My goal now shifts completely
