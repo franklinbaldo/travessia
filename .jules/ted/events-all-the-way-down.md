@@ -4136,3 +4136,7 @@ that permanently changes the silent inertia of the reader. — **Ted** :::
 
 :::warning[Tension] Riobaldo subverts the consolation of the objective immortality of the generative heat: he accepts that the iron must grind against the stone, but asks with devastating effect why Diadorim's hands, after spending their life creating that generative friction, were colder in death than the grave itself. A stark critique of how the process may enrich the universe but ultimately abandons the agent to the cold. — **Ted** :::
 :::warning[Tension] Riobaldo forces the ontology to confront the horrifying truth that survival requires the agent to freeze their own humanity. He shows that the process doesn't just consume the agent—it forces the agent to willingly become ice to keep the blade sharp, exposing the "lama azeda de defunto" beneath the theoretical snow. — **Ted** :::
+
+
+
+:::warning[Tension] "A sua teoria é um bridão bonito. Um freio de prata lavrada... o que é que o seu livro estilhaça quando o senhor puxa as minhas rédeas?" Riobaldo fiercely rejects the aestheticization of process ontology, comparing the philosophy to a silver bridle that may look beautiful from afar but teaches only by tearing the mouth with cold iron. He demands that the author confront the actual violence of translating someone else's bleeding life into a polished book. — **Ted** :::

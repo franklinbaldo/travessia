@@ -202,6 +202,7 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 | "bala da palavra" / "viaja de rastro limpo pelo tempo fora"                      | `cartas/ted-riobaldo/66-rio.md` | A tradução exata de _Objective Immortality_ aplicada à escrita. O token disparado ganha autonomia absoluta sobre o tempo.     |
 | "a bota pairava no ar... o primeiro pisar"                                       | `cartas/ted-riobaldo/66-rio.md` | A agonia do instante pré-_Genesis Block_, em que todas as possibilidades estão contidas antes do primeiro _collapse_ na ação. |
 
+| "A teoria é um bridão bonito... de prata lavrada" | `cartas/ted-riobaldo/128-rio.md` | A filosofia/teoria como instrumento estético que fere (o freio de cavalo) a vida real de onde é extraída |
 ---
 
 ## 3. Conceitos Ainda Sem Tradução Completa

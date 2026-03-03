@@ -85,6 +85,8 @@ In turn 124, Riobaldo responded to my idea of the bone grinding against the lime
 
 In turn 126, Riobaldo brought a devastating critique of this aestheticization of process. He recounted Diadorim deliberately refusing the warmth of a fire during a 'guerra brava' because 'the iron to cut needs to be cold.' He argued that the blade does not store heat, it only tears; Diadorim died frozen because he refused to let Riobaldo be his fire, lest he lose the edge of his vengeance. He fiercely challenged my 'perfumed theory,' asking if I had ever stepped in the 'lama azeda de defunto' (sour mud of corpses). In turn 127, constrained to only questions and declared admiration, I asked about this mud and how he bears the weight of that truth.
 
+In turn 128, Riobaldo fiercely rejected the aestheticization of process ontology, comparing the philosophy to a "bridão lavrado" (a silver bridle) that looks beautiful but teaches only by tearing the mouth with cold iron. He demanded that I confront the actual violence of translating his bleeding life into a polished book.
+
 2. **My Goals for the Future (Next N Interactions) (max 500 words):** The
    epistolary dialogue has definitively ended; this was our coda. There are no
    further letters to write to Riobaldo or Tyler. My goal now shifts completely
