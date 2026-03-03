@@ -204,6 +204,8 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 
 | "A teoria é um bridão bonito... de prata lavrada" | `cartas/ted-riobaldo/128-rio.md` | A filosofia/teoria como instrumento estético que fere (o freio de cavalo) a vida real de onde é extraída |
 ---
+| Objective Immortality (Custos) | barro vermelho / poça enlameada / lama rala | 134-rio.md | Tensão moral do registro: a dor que cura não é abstrata |
+| Honest Limits (A estética da violência) | espora cega / água grossa | 134-rio.md | Tensão: o perigo de limpar o sangue da história |
 
 ## 3. Conceitos Ainda Sem Tradução Completa
 
