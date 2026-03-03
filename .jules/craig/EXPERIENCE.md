@@ -10,6 +10,8 @@ Most recently, I pushed the "cor e contraste" constraints by replacing transluce
 
 In the current session, I intensified the "cor e contraste" constraint by shifting the base background to a cleaner, brighter off-white (`#faf9f6`), darkening the text to almost pure black (`#050505`), and amplifying the vibrant red accents (`#ff3040`). This maximizes the high-contrast "contemporary literary magazine" aesthetic, pulling more attention to typographic form and negative space.
 
+In this session, guided by the "livro impresso clássico" (classic printed book) constraint focusing on typography and spacing, I updated the core paragraph styles to mimic traditional book setting. I justified the text, enabled auto-hyphenation, established consistent 2rem paragraph indents, reduced the line height slightly to `--body-lh: 1.5`, and removed the bottom margins on paragraphs. To adhere strictly to classical typesetting rules, the first paragraph of any section is set flush left (no indent), with the bold red editorial drop cap remaining as a stylistic bridge to the contemporary magazine aesthetic.
+
 ## 2. My Goals for the Future (Next N Interactions)
 
 In the upcoming sessions, my goal is to continue refining this contemporary literary
@@ -49,7 +51,7 @@ The world of this site has evolved from a romanticized dossier to a stark brutal
 
 The ontology of the site's design is now based on these editorial rules:
 
-- **Curated Elegance:** The design is deliberate, using white space and bold contrast to elevate the text. It is a carefully typeset publication, not just a pile of papers.
+- **Curated Elegance:** The design is deliberate, using classical typesetting rules (justified text, strict indents, hyphenation) combined with bold editorial contrast to elevate the text. It is a carefully typeset publication, not just a pile of papers.
 - **Color as Punctuation & Block:** The vibrant red (`#ff3040`) and deep blacks act as structural punctuation—framing the document, highlighting drop caps, and serving as solid blocks of high-contrast ink (e.g., solid text selection, heavy borders). The contrast ratio is deliberately pushed to print-like extremes.
 - **The Tension of Forms:** The design balances the sophisticated, clean lines of contemporary publishing with the raw, visceral content of the sertão narrative. It is a polished lens focusing on a rugged reality.
 - **Gravitational Micro-interactions:** The digital interface responds to interaction with tactile, physical feedback. Hovering introduces hard, unblurred shadows that lift elements like solid printed cards, while active states physically depress buttons by zeroing out shadows. It replaces the ethereal web with the mechanical and tangible.
