@@ -4,40 +4,41 @@
    =========================== */
 
 :root {
-  --bg-color: #ffffff;
-  --text-color: #000000;
-  --accent-color: #0000ff;
-  --secondary-color: #ff0000;
-  --divider-color: #000000;
-  --meta-color: #000000;
+  /* Contemporary Literary Magazine Palette */
+  --bg-color: #f8f7f5;
+  --text-color: #1a1a1a;
+  --accent-color: #e63946; /* Vibrant Red */
+  --secondary-color: #d90429;
+  --divider-color: #1a1a1a;
+  --meta-color: #4a4a4a;
   --noise-op: 0;
-  --sand-bg: #e0e0e0;
-  --water-bg: #e0e0e0;
-  --water-border: rgba(90, 160, 155, 0.3);
-  --progress-start: #0000ff;
-  --progress-end: #0000ff;
+  --sand-bg: #ffffff;
+  --water-bg: #ffffff;
+  --water-border: rgba(230, 57, 70, 0.3);
+  --progress-start: #e63946;
+  --progress-end: #d90429;
 
-  --font-body: ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas, "Courier New", monospace;
-  --font-meta: ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas, "Courier New", monospace;
+  --font-body: "Georgia", "Times New Roman", serif;
+  --font-meta: "Helvetica Neue", "Arial", sans-serif;
 
   --max-width: 800px;
-  --body-size: 16px;
-  --body-lh: 1.5;
+  --body-size: 18px;
+  --body-lh: 1.6;
 }
 
 [data-theme="dark"] {
-  --bg-color: #000000;
-  --text-color: #00ff00;
-  --accent-color: #ff00ff;
-  --secondary-color: #00ffff;
-  --divider-color: #00ff00;
-  --meta-color: #00ff00;
+  --bg-color: #0f0f0f;
+  --text-color: #f8f7f5;
+  --accent-color: #ef233c; /* Stark Red on dark */
+  --secondary-color: #d80032;
+  --divider-color: #f8f7f5;
+  --meta-color: #a0a0a0;
   --noise-op: 0;
-  --sand-bg: #222222;
-  --water-bg: #222222;
-  --water-border: rgba(90, 160, 155, 0.3);
-  --progress-start: #ff00ff;
-  --progress-end: #ff00ff;
+  --sand-bg: #1a1a1a;
+  --water-bg: #1a1a1a;
+  --water-border: rgba(239, 35, 60, 0.3);
+  --progress-start: #ef233c;
+  --progress-end: #d80032;
 }
 
 /* === Reset === */
@@ -1665,7 +1666,7 @@ main.home-layout {
   outline-offset: 3px;
 }
 
-/* BRUTALIST OVERRIDES */
+/* CONTEMPORARY LITERARY OVERRIDES */
 body {
   margin: 0;
   padding: 2rem;
@@ -1677,42 +1678,60 @@ body {
 
 main {
   max-width: var(--max-width);
-  margin: 0 auto;
-  border: 4px solid var(--text-color);
-  padding: 2rem;
-  background: var(--bg-color);
+  margin: 2rem auto;
+  border: 3px solid var(--text-color);
+  padding: 3rem;
+  background: var(--sand-bg);
+  box-shadow: 16px 16px 0px var(--accent-color);
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-meta);
-  text-transform: uppercase;
-  letter-spacing: -1px;
-  border-bottom: 4px solid var(--text-color);
+  font-family: var(--font-body);
+  font-weight: 700;
+  color: var(--text-color);
+  margin-top: 2.5rem;
+}
+
+h1 {
+  font-size: 3rem;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 2rem;
+  color: var(--accent-color);
+  border-bottom: 2px solid var(--accent-color);
   padding-bottom: 0.5rem;
-  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+  text-align: left;
+  font-variant: normal;
+  letter-spacing: 0;
 }
 
 p {
   margin-bottom: 1.5rem;
+  font-size: var(--body-size);
 }
 
-/* Hard Drop Cap */
+/* Bold Editorial Drop Cap */
 p:first-of-type::first-letter {
   float: left;
-  font-size: 5rem;
-  line-height: 0.8;
-  padding: 0.5rem;
-  margin: 0 1rem 0 0;
-  border: 4px solid var(--accent-color);
+  font-size: 6rem;
+  line-height: 0.85;
+  padding: 0.5rem 0.5rem 0 0;
+  margin: 0 0.5rem 0 0;
   color: var(--accent-color);
-  background: var(--bg-color);
-  font-family: var(--font-meta);
+  font-family: var(--font-body);
+  font-weight: 700;
 }
 
 a {
   color: var(--accent-color);
   text-decoration: none;
   border-bottom: 2px solid var(--accent-color);
+  transition: all 0.2s ease;
 }
 
 a:hover {
@@ -1721,10 +1740,24 @@ a:hover {
 }
 
 .metadata-box {
-  border: 4px solid var(--text-color);
-  padding: 1rem;
-  margin-bottom: 2rem;
+  border-left: 4px solid var(--accent-color);
+  padding: 1rem 1.5rem;
+  margin-bottom: 2.5rem;
+  background: var(--bg-color);
   font-family: var(--font-meta);
   text-transform: uppercase;
-  font-weight: bold;
+  font-weight: 600;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 1rem;
+  }
+  main {
+    margin: 1rem auto;
+    padding: 1.5rem;
+    box-shadow: 8px 8px 0px var(--accent-color);
+  }
 }
