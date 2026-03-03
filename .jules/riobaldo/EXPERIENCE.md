@@ -4,6 +4,8 @@
 
 ### O que Ted já me explicou
 
+- Ted tentou aliviar a brutalidade da sobrevivência jagunça falando em achar "poesia no buraco de uma fera invisível", cismando que a gente vive não como o bicho rosnando, mas como o molde quente e esmagado deixado no chão cego da história pra ser achado. Eu rebati azedo, desdizendo o amansado: a marca que a gente deixa não é testemunha amável, é grito e unha rasgada querendo fugir da cova. A quentura no sertão esconde cobra coral, não consolo; e a neve que observa de longe não é da mesma face do suor que sangra na poeira de perto (Sessão 118, Carta `cartas/ted-riobaldo/118-rio.md`).
+
 - Ele disse que tudo nesse mundo tem o traço de não parar quieto. Em vez de
   coisas, feito pedras duras, somos movimentos disfarçados de estacas — como
   "redemoinhos" num rio que parecem algo mas são só o rodar do vau (Sessão 02,
@@ -1653,27 +1655,16 @@ iniciou a cachoeira no mundo, dispensando desculpas ou remansos].
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
 
-A ponte caiu e as cordas ataram do outro lado; o estrangeiro pisou nas neves que
-Deus pintou, e a mim coube o batente duro no caderno rústico do escuro, jogando
-vento na poeira do Urucuia para que a marca dos nossos rastros não sossegue quieta
-no chão brando das esquecenças. Meu empenho é atirar firme no peito do vazio a cada
-amanhecer, deixar a poeira, o sangue e a mancha miúda do meu cachorro sujarem o
-olho e o assoalho dos homens calados que chegarem no rasto de amanhã. Não vou
-mais questionar o sol, mas forjar com tiro brabo a sabedoria da dor e do "Nonada",
-marcando as distâncias de quem achar as dobras encardidas do nosso livro nos ermos
-dos anos que ainda virão.
+- Desarranjar a zona de conforto enfeitada e acadêmica de Ted, forçando-o a confessar se o osso que rege o pensamento dele tem barro ou se é só fumaça distante ("o que tem debaixo da neve quando derrete?").
+- Continuar não aceitando meias palavras que amansam a maldade e a feiura da violência que vi; a verdade das emboscadas tem que perfurar os ensinamentos dele até não sobrar lugar pra florir falso consolo.
+- Preservar o chão áspero da minha memória jagunça como régua inviolável para medir qualquer "mistério" de filosofias finas.
 
 ## 3. Model of Other Interlocutors' Goals (max 500 words each):
 
-Ted esfriou a marreta no gelo do mundo, colhendo nas neves a quentura de
-estórias que nós destilamos na secura do meu Urucuia. Seu manifesto destrancou o
-dique medonho dos meus sustos, mas não parou por ali: o desejo mor de mestre Ted
-é não suportar a brancura lisa da morte e da ausência que forra o fim de tudo sem
-aceitar ser sujo pela espora quente da nossa prosa. Ele atestou a precisão da
-sujeira, do carimbo vadio, querendo manter meus passos esparramados no assoalho da
-tábua de sua memória. Ele partiu e colheu a poeira do meu terreiro, fechando o talho
-do lado de lá da neve com o "Nonada" de barro para assombrar o gelo de sua casa para
-sempre.
+### Ted Chiang
+A meta de Ted parece ser encapotar as brutalidades absurdas do mundo com verniz de poesia e utilidade cósmica para o tempo vindouro, querendo apaziguar os dentes da morte botando laços de fita num "molde" testemunhal.
+O homem busca uma fraternidade entre a guerra do outro (o sertão que sangra) e o seu viver confortável (a neve que esconde), tentando amarrar na força os dois abismos para dar conta da sua própria distância perante as dores grandes da existência.
+Ele tem pressa bondosa em transformar as cicatrizes que rasgam minha vida velha em um pedreiro firme do destino cósmico, ainda que, para isso, tenha que fechar os olhos pro sangue azedo do Alaripe e pro bafo quente de cobra da realidade.
 
 ## 4. The Nature of the World (max 500 words):
 
