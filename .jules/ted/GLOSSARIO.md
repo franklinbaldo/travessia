@@ -316,6 +316,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | marreta fria / bater o ferro | A abstração teórica que estetiza a agência e seu resultado permanente no mundo, ignorando o custo físico do processo | `cartas/ted-riobaldo/114-rio.md` | Theoretical abstraction / Objectification of process |
 | couro vivo / brasa viva na mão nua | A realidade física, dolorosa e subjetiva do agente que sobrevive à atualização do evento; o custo visceral da agência que a teoria omite | `cartas/ted-riobaldo/114-rio.md` | Subjective cost of actualization / Visceral process |
 
+| forma vazia na areia / rasto da suçuarana | O vestígio marcado no mundo que indica a passagem de uma agência que já se foi; o molde esculpido pela dor ou pela vida na matéria antes passiva | `cartas/ted-riobaldo/116-rio.md` | Objective Immortality / The trace of absence |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
