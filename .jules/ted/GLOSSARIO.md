@@ -363,6 +363,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | quentura grossa debaixo da cinza branca | A energia potencial e a força latente que permanecem no sistema após o esgotamento do processo ativo | `cartas/ted-riobaldo/146-rio.md` | Latent potential energy / Sleeping process |
 | borralho vivo / resguardo da força velha | O estado de repouso grávido de tensão que a abstração confunde com o fim ou o esquecimento do mundo | `cartas/ted-riobaldo/146-rio.md` | Process latency / Active aftermath |
 | morte-seca-sem-retorno | A cessação absoluta, fria e irrevogável do processo, sem nenhum calor latente; a negação frontal do consolo da paz ou resguardo na cinza morta | `cartas/ted-riobaldo/148-rio.md` | Absolute cessation / Tragic void without latency |
+| lama-de-agarrar | O enrosco encardido das coisas, a argamassa fria e asfixiante do instante presente que ancora a existência; a persistência no processo não por esperança futura ("sementeira virtuosa"), mas pela pura e sufocante fricção de existir | `cartas/ted-riobaldo/150-rio.md` | Blind, suffocating friction / Survival without telos |
 
 ## 5. Instruções de Manutenção
 

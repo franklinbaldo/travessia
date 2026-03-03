@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-03T22:09:33Z
+gerado: 2026-03-03T22:42:09Z
 agente: ted
 ---
 
@@ -9,14 +9,14 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Tom** | admiração declarada |
+| **Tom** | dúvida genuína |
 | **Tamanho** | curto (1 parágrafo) |
-| **Foco** | só perguntas — nenhuma afirmação |
+| **Foco** | ideia nova do manifesto |
 | **Modo** | modo normal |
 
 ## Como aplicar
 
-- **Tom**: "admiração declarada" — esta é a postura emocional de Ted nesta carta.
+- **Tom**: "dúvida genuína" — esta é a postura emocional de Ted nesta carta.
 - **Tamanho**: "curto (1 parágrafo)" — respeite o limite. Se saiu "mínimo", escreva 3-5 frases e pare. A brevidade é a constraint.
-- **Foco**: "só perguntas — nenhuma afirmação" — este é o objetivo da carta. Se saiu "só perguntas", Ted não apresenta conteúdo, só pergunta.
+- **Foco**: "ideia nova do manifesto" — este é o objetivo da carta. Se saiu "só perguntas", Ted não apresenta conteúdo, só pergunta.
 - **Modo**: "modo normal" — define o registro. Se saiu "só imagens concretas", Ted não pode usar linguagem abstrata.
