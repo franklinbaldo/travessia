@@ -55,10 +55,19 @@ const {
   }
 
   .blog-card:hover {
-    background-color: var(--water-bg);
-    border-color: var(--water-border);
+    background-color: var(--text-color);
+    border-color: var(--text-color);
+    color: var(--bg-color);
     transform: translateY(-3px);
     opacity: 1;
+  }
+
+  .blog-card:hover .card-titulo,
+  .blog-card:hover .card-subtitulo,
+  .blog-card:hover .card-excerpt,
+  .blog-card:hover .card-autor,
+  .blog-card:hover .card-meta {
+    color: var(--bg-color);
   }
 
   :global([data-theme="dark"]) .blog-card {
@@ -98,77 +107,77 @@ const {
   }
 
   .tipo-carta {
-    background: rgba(139, 58, 42, 0.08);
-    color: var(--secondary-color);
-    border-color: rgba(139, 58, 42, 0.3);
+    background: var(--text-color);
+    color: var(--bg-color);
+    border-color: var(--text-color);
   }
 
   .tipo-abertura,
   .tipo-causo {
-    background: rgba(196, 135, 58, 0.08);
-    color: var(--accent-color);
-    border-color: rgba(196, 135, 58, 0.3);
+    background: var(--accent-color);
+    color: var(--bg-color);
+    border-color: var(--accent-color);
   }
 
   .tipo-fechamento {
-    background: rgba(139, 58, 42, 0.08);
-    color: var(--secondary-color);
-    border-color: rgba(139, 58, 42, 0.3);
+    background: var(--text-color);
+    color: var(--bg-color);
+    border-color: var(--text-color);
   }
 
   .tipo-fragmento {
-    background: rgba(122, 111, 98, 0.08);
-    color: var(--meta-color);
-    border-color: rgba(122, 111, 98, 0.3);
+    background: var(--meta-color);
+    color: var(--bg-color);
+    border-color: var(--meta-color);
   }
 
   .tipo-carta-pessoal,
   .tipo-carta-pessoal-rio {
-    background: rgba(139, 58, 42, 0.06);
-    color: var(--secondary-color);
-    border-color: rgba(139, 58, 42, 0.25);
+    background: var(--text-color);
+    color: var(--bg-color);
+    border-color: var(--text-color);
   }
 
   .tipo-carta-ted-tyler {
-    background: rgba(90, 144, 139, 0.08);
-    color: #5a908b;
-    border-color: rgba(90, 144, 139, 0.3);
+    background: #5a908b;
+    color: var(--bg-color);
+    border-color: #5a908b;
   }
 
   .tipo-fita {
-    background: rgba(196, 135, 58, 0.08);
-    color: var(--accent-color);
-    border-color: rgba(196, 135, 58, 0.3);
+    background: var(--accent-color);
+    color: var(--bg-color);
+    border-color: var(--accent-color);
   }
 
   .tipo-pensamento {
-    background: rgba(122, 111, 98, 0.06);
-    color: var(--meta-color);
-    border-color: rgba(122, 111, 98, 0.25);
+    background: var(--meta-color);
+    color: var(--bg-color);
+    border-color: var(--meta-color);
   }
 
   .tipo-rascunho {
-    background: rgba(122, 111, 98, 0.04);
-    color: var(--meta-color);
-    border-color: rgba(122, 111, 98, 0.2);
+    background: var(--meta-color);
+    color: var(--bg-color);
+    border-color: var(--meta-color);
   }
 
   .tipo-journal-rio {
-    background: rgba(139, 58, 42, 0.05);
-    color: var(--secondary-color);
-    border-color: rgba(139, 58, 42, 0.2);
+    background: var(--text-color);
+    color: var(--bg-color);
+    border-color: var(--text-color);
   }
 
   .tipo-journal-ted {
-    background: rgba(90, 144, 139, 0.05);
-    color: #5a908b;
-    border-color: rgba(90, 144, 139, 0.2);
+    background: #5a908b;
+    color: var(--bg-color);
+    border-color: #5a908b;
   }
 
   .tipo-journal-craig {
-    background: rgba(196, 135, 58, 0.05);
-    color: var(--accent-color);
-    border-color: rgba(196, 135, 58, 0.2);
+    background: var(--accent-color);
+    color: var(--bg-color);
+    border-color: var(--accent-color);
   }
 
   .card-titulo {

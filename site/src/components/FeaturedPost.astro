@@ -67,9 +67,19 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
   }
 
   .featured-post:hover {
-    border-color: var(--water-border);
+    background-color: var(--text-color);
+    border-color: var(--text-color);
+    color: var(--bg-color);
     transform: translateY(-2px);
     opacity: 1;
+  }
+
+  .featured-post:hover .card-titulo,
+  .featured-post:hover .card-excerpt,
+  .featured-post:hover .card-autor,
+  .featured-post:hover .featured-label,
+  .featured-post:hover .card-meta {
+    color: var(--bg-color);
   }
 
   .featured-label {
