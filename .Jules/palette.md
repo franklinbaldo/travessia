@@ -16,3 +16,14 @@ and it needs to be synced via JavaScript when the state changes. **Action:**
 When creating or maintaining UI elements that act as toggleable filters, always
 ensure an `aria-pressed` attribute is present and synchronized with the
 element's visual active state.
+
+## 2026-03-03 - Focusable Invisible Elements and Skip Links
+
+**Learning:** Buttons like `#back-to-top` that are visually hidden using
+`opacity: 0` and `pointer-events: none` can still be focused by keyboard users,
+creating a confusing "invisible focus" trap. Additionally, bypassing navigation
+repeatedly on every page is a major friction point for keyboard/screen reader
+users. **Action:** Always pair `opacity: 0` with `visibility: hidden` (and
+toggle to `visibility: visible`) when hiding interactive elements. Furthermore,
+ensure every core layout includes an accessible "skip to content" link that
+receives focus when tabbed.
