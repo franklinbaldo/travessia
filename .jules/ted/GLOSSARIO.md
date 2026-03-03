@@ -360,6 +360,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | Fogo-Sem-Dever | A labareda que não assina contrato de serventia com o amanhã, que arde porque destranca do mundo a luz do pau duro no segundo em que estronda | `cartas/ted-riobaldo/142-rio.md` | Non-teleological Actualization / Autoregressive sovereignty |
 
 | estalo cego | O grito mudo da fibra cedendo na exaustão; a narrativa como som residual que tenta afirmar a existência no vazio pós-evento | `cartas/ted-riobaldo/144-rio.md` | Residual narrative echo / Tragic Peace |
+| quentura grossa debaixo da cinza branca | A energia potencial e a força latente que permanecem no sistema após o esgotamento do processo ativo | `cartas/ted-riobaldo/146-rio.md` | Latent potential energy / Sleeping process |
+| borralho vivo / resguardo da força velha | O estado de repouso grávido de tensão que a abstração confunde com o fim ou o esquecimento do mundo | `cartas/ted-riobaldo/146-rio.md` | Process latency / Active aftermath |
 
 ## 5. Instruções de Manutenção
 
