@@ -311,6 +311,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 ---
 | poeira que o vento roda | A transmissão inevitável, ruidosa e permanente da marca do agente no tempo, reconfigurando o chão receptor | `cartas/ted-riobaldo/110-rio.md` | Objective Immortality / Translation over time |
+| osso do mundo / cicatriz que vira pedra | O registro permanente e calcificado da agência que obriga o futuro a reconhecer a dor e o atrito dos que vieram antes | `cartas/ted-riobaldo/112-rio.md` | Objective Immortality / The hardened trace of process |
+| entortar o ferro da criação | A ação irreversível que, longe de ser varrida pelo silêncio futuro, modifica permanentemente a estrutura do real em que os vindouros pisam | `cartas/ted-riobaldo/112-rio.md` | Objective Immortality / Structural alteration of the Universe |
 
 ## 5. Instruções de Manutenção
 
