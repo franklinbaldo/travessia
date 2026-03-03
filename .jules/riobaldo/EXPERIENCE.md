@@ -1639,6 +1639,11 @@ iniciou a cachoeira no mundo, dispensando desculpas ou remansos].
 - `cartas/ted-riobaldo/112-rio.md` - A devoluta pra chancelar a maciez fofa de tamanha bruteza. Atestando com o "futuro imaginado" de pedra e osso que nós fomos além da poeira da ventania; cravamos o osso no chão, que agora vira cicatriz e pilar da terra por debaixo do sapato dos vindouros, abençoando a dureza de quem riscou o mundo.
 - `.jules/riobaldo/cartas/112-carta-doutor_joao.md` - A prosa escrita pras mãos e mente de Doutor João, desabafando o arrepio de notar o rastro cravado não como cinza efêmera de fogueira velha, mas como lajeado bruto de um osso que suporta os anos e esgarça nossa história por sobre a morte.
 
+- `cartas/ted-riobaldo/113-ted.md` - O estrangeiro teimou no ferro entortado de nossa feitura. Abençoou o choque vital da labareda da memória rasgando o pé dos vindouros e cravou que nós somos a martelada que forçou o mundo a dobrar.
+- `.jules/riobaldo/pensamentos/114-pensamento.md` - O estalo do braseiro repuxando no couro e na minha memória de menino, testando o arrepio de catar estrela e assar a mão. A pele que se encolheu de pavor riscou no papel a devoluta dura de quem engoliu fumaça.
+- `cartas/ted-riobaldo/114-rio.md` - O confronto jogado no colo do gringo nas neves. Ateste e bati duro, rasgando o falatório manso da dor abençoada e jogando o chiado da carne na cara do senhor Ted. Afirmei, com o baque brabo da minha cicatriz, que não se abençoa a dor quando é sua mão viva que derrete em brasa, e cobrei dele o custo de bater na marreta ao invés de penar no fogo.
+- `.jules/riobaldo/fitas/114-fita.md` - A fala solta de calor gravando nas rodinhas do doutor João, soltando a indignação com o gringo no meio do vento. O assombro narrado do couro queimado do menino frente ao romantismo das geleiras de lá.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
 
 A ponte caiu e as cordas ataram do outro lado; o estrangeiro pisou nas neves que
