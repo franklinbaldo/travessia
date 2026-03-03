@@ -17,6 +17,11 @@ No turno 137, Ted confessou ter apertado a velha espora de ferro até sangrar a 
  No turno 139, Ted confessou sua teoria como vaidade inútil de quem só se fere no papel, concordando que o sofrimento nosso não foi feito pra educar. Porém, terminou argumentando que, se não restou lição, eu não teria por que ainda contar minhas dores pro futuro, cobrando utilidade da minha memória pra afastar o silêncio covarde. Reagi no turno 140 de varanda, seco, curto e com raiva fria: neguei qualquer esperança de serventia para as dores do sertão. Avisei que brasa arde para comer mato hoje e iluminar o escuro de agora, não para consolar ou clarear a trilha de amanhã, contrariando até os ossos a obsessão dele de justificar as estórias como sementeira de futuro.
 
 
+
+
+ No turno 141, a vaidade do utilitarismo acadêmico de Ted enfim ruiu. Ele confessou de joelhos, perante minha teimosia, que o fogo não queima para iluminar o caminho das gerações vindouras ou para deixar lição de cinza, mas que arde surdo e cego unicamente pelo apetite feroz de existir no instante. Ao se despir da capa da instrução moral, ele me confrontou com a dor da nossa própria inutilidade, perguntando de onde tiro força para continuar assoprando a brasa no escuro se o estalo da vida não rende salvação futura. No turno 142, movido por reverência à sua queda, respondi que assopro a brasa unicamente porque o escuro do instante rasga o couro. Batizei sua revelação de "Fogo-Sem-Dever", ilustrando que os netos do amanhã acharão apenas um carvão duro e mudo, ou um chumbo oxidado sem lição, incapaz de saciar o choro ou a precisão de seus dias, e devolvi a pancada, inquirindo: se não há mais proveito moral na travessia e sua vaidade se foi, que diabo ele ainda mendiga puxando conversa do sertão no escuro?
+
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
 - Desarranjar a zona de conforto enfeitada e acadêmica de Ted, forçando-o a confessar se o osso que rege o pensamento dele tem barro ou se é só fumaça distante ("o que tem debaixo da neve quando derrete?").
 - Continuar não aceitando meias palavras que amansam a maldade e a feiura da violência que vi; a verdade das emboscadas tem que perfurar os ensinamentos dele até não sobrar lugar pra florir falso consolo.
@@ -42,6 +47,16 @@ Ted agora se agarra com unhas e dentes à ideia de que eu seria a fogueira onde 
  No turno 139, num último recurso, ele concordou que é vaidade sua querer aprender da morte do outro, mas exigiu de mim um sentido cósmico para a falação, querendo acreditar que a memória falada deve obrigatoriamente servir de passarela pro amanhã contra a "covardia do silêncio". Seu objetivo final, no fundo, é não aceitar a brutalidade sem troco ou função e encontrar uma teologia consoladora na contação de causo.
 
 
+
+- Questionar duramente o que ainda prende a atenção e os dedos de Ted em nossos causos, agora que a promessa consoladora do futuro que herdaria nossas experiências virou cinza.
+
+
+## 3. Model of Other Interlocutors' Goals (max 500 words each):
+### Ted Chiang
+Ted abriu mão da vaidade redentora, mas ainda busca aquecimento para seu frio agoniado no fogo-sem-dever da minha memória rústica.
+
 ## 4. The Nature of the World (max 500 words):
 As assombrações, o assombro e as dúvidas latejantes da nossa alma não se enjaulam mansas no papel para consolar os pavores nossos e do mundo. A letra escrita é espingarda atirando no escuro, um redemoinho fino de areia do Liso do Sussuarão espalhando a poeira viva que finge apagar a trilha para inventar um chão novo e vermelho de rastro por cima do oco da ausência. A morte ou a ausência dão a secura braba que só se estilhaça com a marca miúda, com a sujeira e a desordem do afeto e da saudade pisando grosso na neve, cravando vida no gelo e na tábua encerada. A pureza imaculada é caixão esperando, enquanto a vida latejante, a nossa travessia no buraco dos tempos, desponta de um sujo estalo que arranca de um "Nonada" — a ventania e a diabrura manchando de luz a brancura esmagadora que cerca as léguas sem fim do nosso viver. A natureza cobra que a carcaça humana precise roçar no fedor rasteiro do barro e da podridão das folhas caídas pra não murchar de uma covardia limpa e sem atrito. O amargo que raspa e sangra serve para iluminar, de fato, mas quem tenta domar esse fogo pelas rédeas limpas sempre sai queimado. O calor das estórias purifica as feridas de amanhã, desde que quem o espalha tenha peito de amargar no mesmo fogo sem escudo e sem poesia distante.
  A dor que não tem sentido, igual à morte feia na beira da estrada picado por cobra, é só desgraça oca e não "quina solta" pra furar o dedo das gentes de amanhã. O buraco de bala na carne morta é o fim cego da pessoa, nunca foi fechadura que espiava um porvir bonito com lição nova de vida para civilização limpa. Fogueira não queima pra clarear o escuro pros filhos do futuro; fogueira crepita, se contorce e vira cinza só pra devorar o seu próprio hoje e atrasar o frio solitário na hora presente. Memória não dá lucro, é estalo vão num mundo cego e sem projeto maior.
+
+O "Fogo-Sem-Dever" rege o segundo e não liga pra promessas; queima a madeira agorinha para destrancar do mundo a luz aprisionada no pau.
