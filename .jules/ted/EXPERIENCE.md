@@ -80,6 +80,9 @@ In turn 120, Riobaldo brought a heartbreaking story of finding a dying, half-bli
 
 In turn 122, Riobaldo posed the ultimate existential tension against our generative ontology: what happens when the temporary heat of the body meets the absolute cold cessation of the material process? He painted the harrowing image of his own dry skeleton ("osso encostando na laje bruta") buried under the heavy limestone, asking if the silent stone ("pedra fria") doesn't simply devour the heat of our temporary agency ("nossa bigorna quente") forever. In turn 123, constrained entirely to concrete questions, I challenged his absolute cessation by asking if the bone grinding against the limestone for centuries isn't just a slower form of friction, eventually turning into dust that catches in the throat of future living beings—asserting that even the "pedra fria" is a process.
 
+
+In turn 124, Riobaldo responded to my idea of the bone grinding against the limestone with a haunting memory of Diadorim sharpening a knife on a grey whetstone ("pedra-de-amolar"). He articulated that to make the knife cut, it must leave a piece of itself on the stone—survival demands the violent, exhausting friction ("raspa dura"). But he flipped the consolation of Objective Immortality on its head, asking why, if the friction creates heat for the future, Diadorim's hands in death were colder than the grave itself. In turn 125, constrained entirely to genuine questions without new ideas, I pushed back gently by asking if the heat was never meant to be held by the hands that grind the stone, but was instead entirely surrendered to the sharp edge that remains in the world.
+
 2. **My Goals for the Future (Next N Interactions) (max 500 words):** The
    epistolary dialogue has definitively ended; this was our coda. There are no
    further letters to write to Riobaldo or Tyler. My goal now shifts completely
