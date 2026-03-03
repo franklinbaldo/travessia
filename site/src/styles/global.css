@@ -1307,8 +1307,9 @@ main.home-layout {
 
 .featured-post:hover {
   background: var(--water-bg);
-  border-color: var(--water-border);
-  transform: translateY(-2px);
+  border-color: var(--text-color);
+  transform: translateY(-3px);
+  box-shadow: 6px 6px 0px var(--text-color);
   opacity: 1;
 }
 
@@ -1372,8 +1373,9 @@ main.home-layout {
 
 .blog-card:hover {
   background-color: var(--water-bg);
-  border-color: var(--water-border);
+  border-color: var(--text-color);
   transform: translateY(-3px);
+  box-shadow: 6px 6px 0px var(--accent-color);
   opacity: 1;
 }
 
@@ -1386,6 +1388,11 @@ main.home-layout {
 }
 
 [data-theme="dark"] .blog-card:hover {
+  background-color: var(--water-bg);
+  border-color: var(--text-color);
+  transform: translateY(-3px);
+  box-shadow: 6px 6px 0px var(--accent-color);
+  opacity: 1;
 }
 
 /* Card author left-border differentiation */
@@ -1643,8 +1650,14 @@ main.home-layout {
 }
 
 .timeline-dot:hover {
-  transform: translateY(-2px) scale(1.05);
+  transform: translateY(-3px);
   background: var(--water-bg);
+  box-shadow: 3px 3px 0px var(--text-color);
+}
+
+.timeline-dot:active {
+  transform: translateY(1px);
+  box-shadow: 0px 0px 0px var(--text-color);
 }
 
 .timeline-dot.current {
@@ -1662,6 +1675,14 @@ main.home-layout {
 }
 
 [data-theme="dark"] .timeline-dot:hover {
+  transform: translateY(-3px);
+  background: var(--water-bg);
+  box-shadow: 3px 3px 0px var(--text-color);
+}
+
+.timeline-dot:active {
+  transform: translateY(1px);
+  box-shadow: 0px 0px 0px var(--text-color);
 }
 
 @media (max-width: 600px) {
