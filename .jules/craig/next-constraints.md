@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-03T05:36:07Z
+gerado: 2026-03-03T07:52:39Z
 agente: craig
 ---
 
@@ -9,12 +9,12 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Foco** | microinterações e detalhes |
+| **Foco** | cor e contraste |
 | **Inspiração** | revista literária contemporânea |
 | **Restrição** | sem restrição |
 
 ## Como aplicar
 
-- **Foco**: "microinterações e detalhes" — esta sessão deve se concentrar neste aspecto do design.
+- **Foco**: "cor e contraste" — esta sessão deve se concentrar neste aspecto do design.
 - **Inspiração**: "revista literária contemporânea" — use como referência estética dominante.
 - **Restrição**: "sem restrição".
