@@ -149,16 +149,25 @@ function autorClasse(autorName: string): string {
     text-transform: uppercase;
     letter-spacing: 0.08em;
     padding: 0.3rem 0.9rem; border-radius: 0;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05), 0 1px 0 rgba(255, 255, 255, 0.8);
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.8);
+  }
+
+  :global([data-theme="dark"]) .autor-badge {
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.1);
+    text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.5);
   }
 
   .autor-badge.autor-rio {
-    background: rgba(139, 58, 42, 0.1);
+    background: rgba(139, 58, 42, 0.08);
     color: var(--secondary-color);
+    border: 1px solid rgba(139, 58, 42, 0.2);
   }
 
   .autor-badge.autor-ted {
-    background: rgba(122, 111, 98, 0.1);
+    background: rgba(122, 111, 98, 0.08);
     color: var(--meta-color);
+    border: 1px solid rgba(122, 111, 98, 0.2);
   }
 
   /* Post Meta */
@@ -212,13 +221,15 @@ function autorClasse(autorName: string): string {
     justify-content: center;
     width: 2.5rem;
     height: 2.5rem;
-    flex-shrink: 0; border-radius: 0; border: 2px solid var(--text-color);
+    flex-shrink: 0; border-radius: 0; border: 1px solid rgba(0,0,0,0.1);
     background: var(--sand-bg);
     color: var(--text-color);
     font-family: var(--font-meta);
     font-size: 0.75rem;
     font-weight: 600;
     text-decoration: none;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), inset 0 1px 0 rgba(255, 255, 255, 0.8);
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.8);
     transition:
       background-color 0.3s ease,
       border-color 0.3s ease,
@@ -226,17 +237,28 @@ function autorClasse(autorName: string): string {
       box-shadow 0.3s ease;
   }
 
+  :global([data-theme="dark"]) .timeline-dot {
+    border: 1px solid rgba(255,255,255,0.1);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.1);
+    text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.5);
+  }
+
   .timeline-dot.ted {
-    border-color: var(--meta-color);
+    border-bottom: 2px solid var(--meta-color);
   }
 
   .timeline-dot.rio {
-    border-color: var(--secondary-color);
+    border-bottom: 2px solid var(--secondary-color);
   }
 
   .timeline-dot:hover {
-    transform: translateY(-2px) scale(1.05);
+    transform: translateY(-1px);
     background: var(--water-bg);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08), inset 0 1px 0 rgba(255, 255, 255, 1);
+  }
+
+  :global([data-theme="dark"]) .timeline-dot:hover {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.2);
   }
 
   .timeline-dot.current {
@@ -244,7 +266,9 @@ function autorClasse(autorName: string): string {
     color: var(--bg-color);
     border-color: var(--accent-color);
     font-weight: 700;
-    transform: translateY(2px);
+    transform: translateY(1px);
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2);
+    text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.2);
   }
 
   :global([data-theme="dark"]) .timeline-dot.current {
