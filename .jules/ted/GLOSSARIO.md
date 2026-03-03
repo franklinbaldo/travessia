@@ -337,6 +337,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | pedra-de-amolar / raspa dura | O atrito inevitável, violento e exaustivo exigido pelo processo para que a matéria inerte ganhe afiação e propósito | `cartas/ted-riobaldo/124-rio.md` | Generative friction / Substrate consumption |
 | mãos mais frias que a sepultura | O frio absoluto do agente que se exaure criando o calor do mundo, desafiando a utilidade consoladora da Imortalidade Objetiva | `cartas/ted-riobaldo/124-rio.md` | Cost of Agency / Exhaustion of Process |
+| fogueira lavrada / brasa viva na mão nua | A dor visceral e imediata da experiência existencial que recusa o distanciamento da abstração teórica | `cartas/ted-riobaldo/130-rio.md` | Lived Experience vs. Theoretical Distance |
+| lareira apagada / crosta fria de gelo | A estagnação e o distanciamento afetivo e existencial daquele que apenas teoriza o processo sem sofrer seu atrito | `cartas/ted-riobaldo/130-rio.md` | Academic abstraction / Extinguished subjective agency |
 
 ## 5. Instruções de Manutenção
 
