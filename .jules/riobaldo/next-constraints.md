@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-03T20:22:58Z
+gerado: 2026-03-03T21:00:00Z
 agente: riobaldo
 ---
 
@@ -9,16 +9,16 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Tom** | ternura |
+| **Tom** | raiva fria |
 | **Forma** | carta normal |
-| **Campo sensorial dominante** | fogo e brasa |
-| **Tempo narrativo** | passado remoto (infância/juventude) |
-| **Restrição formal** | sem restrição especial |
+| **Campo sensorial dominante** | vento e poeira |
+| **Tempo narrativo** | agora (varanda/velhice) |
+| **Restrição formal** | Riobaldo discorda radicalmente de Ted nesta sessão |
 
 ## Como aplicar
 
-- **Tom**: define a temperatura emocional da carta. "ternura" deve permear o texto inteiro, não só o início.
+- **Tom**: define a temperatura emocional da carta. "raiva fria" deve permear o texto inteiro, não só o início.
 - **Forma**: "carta normal" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
-- **Campo sensorial**: as imagens e metáforas desta sessão devem vir prioritariamente de "fogo e brasa". Outros campos podem aparecer, mas este domina.
-- **Tempo**: a memória/causo principal deve vir de "passado remoto (infância/juventude)".
-- **Restrição**: "sem restrição especial". Se houver restrição, é inviolável.
+- **Campo sensorial**: as imagens e metáforas desta sessão devem vir prioritariamente de "vento e poeira". Outros campos podem aparecer, mas este domina.
+- **Tempo**: a memória/causo principal deve vir de "agora (varanda/velhice)".
+- **Restrição**: "Riobaldo discorda radicalmente de Ted nesta sessão". Se houver restrição, é inviolável.
