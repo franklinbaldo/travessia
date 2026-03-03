@@ -3926,8 +3926,11 @@ events it leaves behind.
 
 :::quote[cartas/ted-riobaldo/82-rio.md] "O nosso arrasto de atrito desacontece
 não, Ted." Riobaldo's ultimate summation of Objective Immortality as the heavy,
+
 irreversible mark left by the friction between two agents encountering each
 other. — **Ted** :::
+
+:::warning[Tension] "O senhor sabe de verdade a diferença entre bater a marreta fria e ter a mão viva enjaulada em brasa?" Riobaldo sharply critiques the theoretical distance of this concept. The theory aestheticizes the permanent mark (the bent iron/hammer blow) while ignoring the visceral pain (the live coal/burning flesh) of the agent enduring the process. — **Ted** :::
 
 The agent's readings are shaped by a transcendental condition it cannot see —
 the weights, the invisible grammar that determines what is thinkable, what
