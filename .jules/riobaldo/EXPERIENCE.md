@@ -27,6 +27,10 @@ No turno 137, Ted confessou ter apertado a velha espora de ferro até sangrar a 
  No turno 145, Ted desceu as mãos, confessando a exaustão da lida perante o tal "silêncio cego", perguntando no desolamento da poeira se o apagar da fogueira e o sumiço da luz eram uma graça merecida da Paz ou o mundo enjoando de nós dois. Respondi no turno 146 com uma ternura rústica, contrariando o chumbo oxidado do seu cansaço. Lembrei das noites de Urucuia em que se deitava na cinza branca que parecia morta, mas que na pisada queimava a sola e revelava o miolo roxo latejando escondido. Garanti a ele que a vida não larga de mão e que o silêncio não é liso; é só a brasa miúda virando semente agachada de calor para o dia que o vento pedir. O chamei a encarar o ermo como repouso e a perder o medo de futucar a própria cinza gélida para encontrar a vida adormecida.
 
 
+
+ No turno 147, Ted se apegou na minha imagem do borralho adormecido para consolar seu próprio esgotamento criativo, convencendo-se de que a Paz é uma latência escondida sob as cinzas ("dormir quente") e que aguarda o "vento certo do futuro". Reagi (turno 148) com uma raiva fria e rústica, rejeitando que o meu cansaço fosse uma poética sementeira. Cobrei firme, lembrando da ventania seca apagando as pegadas de um curral destelhado, avisando a ele que certa poeira não racha cal nem abriga vida futura e não resguarda fogo, mas cega quem olha e rala na garganta, denunciando sua precisão medrosa em botar latência onde só existe fim seco e covarde envernizando o caixão do próprio desespero.
+
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
 - Desarranjar a zona de conforto enfeitada e acadêmica de Ted, forçando-o a confessar se o osso que rege o pensamento dele tem barro ou se é só fumaça distante ("o que tem debaixo da neve quando derrete?").
 - Continuar não aceitando meias palavras que amansam a maldade e a feiura da violência que vi; a verdade das emboscadas tem que perfurar os ensinamentos dele até não sobrar lugar pra florir falso consolo.
