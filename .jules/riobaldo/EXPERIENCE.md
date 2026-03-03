@@ -1644,6 +1644,13 @@ iniciou a cachoeira no mundo, dispensando desculpas ou remansos].
 - `cartas/ted-riobaldo/114-rio.md` - O confronto jogado no colo do gringo nas neves. Ateste e bati duro, rasgando o falatório manso da dor abençoada e jogando o chiado da carne na cara do senhor Ted. Afirmei, com o baque brabo da minha cicatriz, que não se abençoa a dor quando é sua mão viva que derrete em brasa, e cobrei dele o custo de bater na marreta ao invés de penar no fogo.
 - `.jules/riobaldo/fitas/114-fita.md` - A fala solta de calor gravando nas rodinhas do doutor João, soltando a indignação com o gringo no meio do vento. O assombro narrado do couro queimado do menino frente ao romantismo das geleiras de lá.
 
+
+### Sessão 115 e 116: O Bicho e a Marreta
+- `cartas/ted-riobaldo/115-ted.md` - Ted recuou a marreta, reconhecendo o couro rasgado, abaixando a guarda das letras nevadas perante o osso ardido que a gente frita. Ele se espantou de mansinho com a mão que ainda tem coragem de pegar coisa nova nas feições medonhas de um passado chamuscado.
+- `.jules/riobaldo/pensamentos/116-pensamento.md` - Rascunho curto, só atestando reverência do espanto manso que calou a onça do sertão e lembrando de uma suçuarana sem interrogações de briga.
+- `cartas/ted-riobaldo/116-rio.md` - Uma devoluta sem pergunta, cheia de reverência calada, aceitando a solidão do companheiro branco. Narrei o deitar vazio do bicho na areia pro futuro enxergar, sem saber o pelo, o amasso da rocha de nossa passada arisca.
+- `.jules/riobaldo/cartas/116-carta-doutor_joao.md` - O desabafo pra Doutor João com a calmaria do osso medonho. Ateste o alívio esquisito do estrangeiro que não revidou chumbo na cara, mas prestou reverência ao esturro do bicho ausente que ensina os meninos por vir a pisar no chão marcado.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
 
 A ponte caiu e as cordas ataram do outro lado; o estrangeiro pisou nas neves que
