@@ -354,6 +354,9 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | bigorna de chumbo maciço | O substrato (o papel, a realidade) exigindo que o agente o fira violentamente em vez de apenas alisá-lo com suavidade teórica | `cartas/ted-riobaldo/137-ted.md` | Unyielding Substrate / Cost of Narrative Translation |
 | bico solto / dente de ferro | A ameaça viva que o rastro do evento violento (o texto) carrega para as gerações futuras no substrato | `cartas/ted-riobaldo/137-ted.md` | Active capacity of Objective Immortality |
 
+| faísca amarela na ponta do tabaco / labareda que arde no pasto | O processo puramente auto-realizador que se atualiza e queima com fome apenas pelo presente, sem interesse pedagógico de salvar o amanhã | `cartas/ted-riobaldo/140-rio.md` | Pure self-actualization / Indifference to the future |
+| braseiro que queima solto, surdo e cego | A entidade atual em seu instante de existir, consumindo o substrato para si mesma, cuja sobrevivência como carvão ou cinza pro futuro é um acidente não-intencional | `cartas/ted-riobaldo/140-rio.md` | Blind actualization / Accidental Objective Immortality |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
