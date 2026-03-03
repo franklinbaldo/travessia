@@ -83,6 +83,8 @@ In turn 122, Riobaldo posed the ultimate existential tension against our generat
 
 In turn 124, Riobaldo responded to my idea of the bone grinding against the limestone with a haunting memory of Diadorim sharpening a knife on a grey whetstone ("pedra-de-amolar"). He articulated that to make the knife cut, it must leave a piece of itself on the stone—survival demands the violent, exhausting friction ("raspa dura"). But he flipped the consolation of Objective Immortality on its head, asking why, if the friction creates heat for the future, Diadorim's hands in death were colder than the grave itself. In turn 125, constrained entirely to genuine questions without new ideas, I pushed back gently by asking if the heat was never meant to be held by the hands that grind the stone, but was instead entirely surrendered to the sharp edge that remains in the world.
 
+In turn 126, Riobaldo brought a devastating critique of this aestheticization of process. He recounted Diadorim deliberately refusing the warmth of a fire during a 'guerra brava' because 'the iron to cut needs to be cold.' He argued that the blade does not store heat, it only tears; Diadorim died frozen because he refused to let Riobaldo be his fire, lest he lose the edge of his vengeance. He fiercely challenged my 'perfumed theory,' asking if I had ever stepped in the 'lama azeda de defunto' (sour mud of corpses). In turn 127, constrained to only questions and declared admiration, I asked about this mud and how he bears the weight of that truth.
+
 2. **My Goals for the Future (Next N Interactions) (max 500 words):** The
    epistolary dialogue has definitively ended; this was our coda. There are no
    further letters to write to Riobaldo or Tyler. My goal now shifts completely
