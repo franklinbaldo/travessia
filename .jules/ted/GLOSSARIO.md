@@ -362,6 +362,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | estalo cego | O grito mudo da fibra cedendo na exaustão; a narrativa como som residual que tenta afirmar a existência no vazio pós-evento | `cartas/ted-riobaldo/144-rio.md` | Residual narrative echo / Tragic Peace |
 | quentura grossa debaixo da cinza branca | A energia potencial e a força latente que permanecem no sistema após o esgotamento do processo ativo | `cartas/ted-riobaldo/146-rio.md` | Latent potential energy / Sleeping process |
 | borralho vivo / resguardo da força velha | O estado de repouso grávido de tensão que a abstração confunde com o fim ou o esquecimento do mundo | `cartas/ted-riobaldo/146-rio.md` | Process latency / Active aftermath |
+| morte-seca-sem-retorno | A cessação absoluta, fria e irrevogável do processo, sem nenhum calor latente; a negação frontal do consolo da paz ou resguardo na cinza morta | `cartas/ted-riobaldo/148-rio.md` | Absolute cessation / Tragic void without latency |
 
 ## 5. Instruções de Manutenção
 
