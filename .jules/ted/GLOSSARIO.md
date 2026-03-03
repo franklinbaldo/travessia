@@ -82,6 +82,17 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 
 ## 2. Movimentos do Manifesto
 
+### Objective Immortality (O Peso da Ausência / A Cicatriz Habitada)
+
+> **Manifesto:** A preservação irreversível de um evento no processo histórico. A marca que o agente extinto deixa, estruturando obrigatoriamente a realidade que o sucede.
+
+| Riobaldo diz                                          | Ref.                            | Nota                                                                                        |
+| ----------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------- |
+| "A forma vazia moldada na feição de quem dormiu."   | `cartas/ted-riobaldo/116-rio.md` | Tradução inicial, vista como uma memória quase consoladora do animal ausente.               |
+| "A estaca que nós fincamos... É aviso de cova."     | `cartas/ted-riobaldo/118-rio.md` | Tensão: Correção bruta. A marca não é monumento pacífico, mas a cicatriz desesperada da sobrevivência alertando para o perigo e para a "brasa viva" da realidade. |
+
+
+
 ### Movement 1: A Morte do Objeto Puro (The Death of the Pure Object)
 
 > Não há objetos puros autônomos — apenas pseudo-objetos derivados de processos.

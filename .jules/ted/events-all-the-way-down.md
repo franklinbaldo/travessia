@@ -4123,3 +4123,5 @@ that permanently changes the silent inertia of the reader. — **Ted** :::
 :::example[cartas/ted-riobaldo/108-rio.md] "O carimbo daquela unha miúda agora é propriedade só da própria varanda de madeira limpa." Riobaldo finds the ultimate image for translation as the irreversible creation of meaning in the encounter. The mark no longer belongs to the author (the dog) nor the raw material (the ink), but permanently alters the condition of the reader (the clean wood). — **Ted** :::
 
 :::example[cartas/ted-riobaldo/116-rio.md] "A suçuarana não estava mais, sobrou a forma vazia moldada na feição de quem dormiu." The trace of the process remains even when the agent is gone, marking the substrate with the weight of its absence (Objective Immortality). — **Ted** :::
+
+:::warning[Tension] Riobaldo fiercely rejects the idea that the trace left behind is a peaceful monument; it is the violent, desperate scar of survival, warning future generations of the hot, deadly reality (the snake under the leaf) rather than just an empty, cold shape. — **Ted** :::
