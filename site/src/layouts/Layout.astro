@@ -44,7 +44,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
   </head>
   <body class={isBastidores ? 'bastidores-content' : ''}>
     <a href="#conteudo-principal" class="skip-to-content">Pular para o conteúdo principal</a>
-    <div id="reading-progress" aria-hidden="true"></div>
+
     <main id="conteudo-principal" class={isHome ? 'home-layout' : ''} tabindex="-1">
       <nav>
         <a href={base} class="logo">Travessia</a>
@@ -72,19 +72,10 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
         localStorage.setItem('theme', next);
       });
 
-      // Reading progress bar
-      const progressBar = document.getElementById('reading-progress');
       const backToTopBtn = document.getElementById('back-to-top');
 
       function updateScroll() {
         const scrollTop = window.scrollY || document.documentElement.scrollTop;
-        const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-
-        if (progressBar) {
-          const progress = scrollHeight > 0 ? (scrollTop / scrollHeight) * 100 : 0;
-          progressBar.style.width = progress + '%';
-        }
-
         if (backToTopBtn) {
           backToTopBtn.classList.toggle('visible', scrollTop > 800);
         }
@@ -183,29 +174,18 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     padding: 0.3rem 0.6rem;
     line-height: 1;
     transition: all 0.2s ease;
-    box-shadow: 2px 2px 0px var(--text-color);
+
   }
 
   #theme-toggle:hover {
     transform: translateY(-2px);
-    box-shadow: 4px 4px 0px var(--text-color);
+
     color: var(--accent-color);
   }
 
   #theme-toggle:active {
     transform: translateY(2px);
-    box-shadow: 0px 0px 0px var(--text-color);
-  }
 
-  /* Reading progress bar */
-  #reading-progress {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 0;
-    height: 3px;
-    z-index: 1000;
-    transition: width 0.1s linear;
   }
 
   /* Back to top */
@@ -243,12 +223,12 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     background: var(--accent-color);
     color: var(--bg-color);
     border-color: var(--text-color);
-    box-shadow: 4px 4px 0px var(--text-color);
+
   }
 
   #back-to-top:active {
     transform: translateY(2px);
-    box-shadow: 0px 0px 0px var(--text-color);
+
   }
 
   @media (max-width: 600px) {
