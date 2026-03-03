@@ -365,6 +365,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | morte-seca-sem-retorno | A cessação absoluta, fria e irrevogável do processo, sem nenhum calor latente; a negação frontal do consolo da paz ou resguardo na cinza morta | `cartas/ted-riobaldo/148-rio.md` | Absolute cessation / Tragic void without latency |
 | lama-de-agarrar | O enrosco encardido das coisas, a argamassa fria e asfixiante do instante presente que ancora a existência; a persistência no processo não por esperança futura ("sementeira virtuosa"), mas pela pura e sufocante fricção de existir | `cartas/ted-riobaldo/150-rio.md` | Blind, suffocating friction / Survival without telos |
 
+| força burra e cega da pedra | O instinto cru e desesperado de sobrevivência que recusa a morte não por esperança, mas por asfixia; o ato de engolir o próprio osso quebrado contra o cascalho sem aceitar redenção nem poema | `cartas/ted-riobaldo/152-rio.md` | Unredeeming survival instinct / Absolute friction |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
