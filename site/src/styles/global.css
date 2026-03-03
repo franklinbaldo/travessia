@@ -5,9 +5,9 @@
 
 :root {
   /* Contemporary Literary Magazine Palette */
-  --bg-color: #f8f7f5;
-  --text-color: #1a1a1a;
-  --accent-color: #e63946; /* Vibrant Red */
+  --bg-color: #faf9f6;
+  --text-color: #050505;
+  --accent-color: #ff3040; /* Vibrant Red */
   --secondary-color: #d90429;
   --divider-color: #1a1a1a;
   --meta-color: #4a4a4a;
@@ -27,9 +27,9 @@
 }
 
 [data-theme="dark"] {
-  --bg-color: #0f0f0f;
-  --text-color: #f8f7f5;
-  --accent-color: #ef233c; /* Stark Red on dark */
+  --bg-color: #050505;
+  --text-color: #faf9f6;
+  --accent-color: #ff3344; /* Stark Red on dark */
   --secondary-color: #d80032;
   --divider-color: #f8f7f5;
   --meta-color: #a0a0a0;
