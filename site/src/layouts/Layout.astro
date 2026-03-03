@@ -43,8 +43,9 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     </script>
   </head>
   <body class={isBastidores ? 'bastidores-content' : ''}>
-    <div id="reading-progress"></div>
-    <main class={isHome ? 'home-layout' : ''}>
+    <a href="#conteudo-principal" class="skip-to-content">Pular para o conteúdo principal</a>
+    <div id="reading-progress" aria-hidden="true"></div>
+    <main id="conteudo-principal" class={isHome ? 'home-layout' : ''} tabindex="-1">
       <nav>
         <a href={base} class="logo">Travessia</a>
         <div class="nav-links">
@@ -100,6 +101,32 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 </html>
 
 <style>
+  /* Skip to content link */
+  .skip-to-content {
+    position: absolute;
+    top: auto;
+    left: -9999px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    background: var(--accent-color);
+    color: var(--bg-color);
+    padding: 0.5rem 1rem;
+    z-index: 9999;
+    text-decoration: none;
+    font-family: var(--font-meta);
+    font-weight: bold;
+    border: 2px solid var(--text-color);
+  }
+
+  .skip-to-content:focus {
+    top: 0;
+    left: 0;
+    width: auto;
+    height: auto;
+    overflow: visible;
+  }
+
   /* Theme icon visibility driven by CSS — no JS flicker */
   .icon-sun { display: none; }
   .icon-moon { display: inline; }
@@ -195,8 +222,9 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     cursor: pointer;
     opacity: 0;
     transform: translateY(1rem);
-    transition: opacity 0.3s ease, transform 0.3s ease;
+    transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s ease;
     pointer-events: none;
+    visibility: hidden;
     z-index: 100;
     display: flex;
     align-items: center;
@@ -205,6 +233,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
   #back-to-top:global(.visible) {
     opacity: 1;
+    visibility: visible;
     transform: translateY(0);
     pointer-events: auto;
   }
