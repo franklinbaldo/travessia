@@ -4125,3 +4125,6 @@ that permanently changes the silent inertia of the reader. — **Ted** :::
 :::example[cartas/ted-riobaldo/116-rio.md] "A suçuarana não estava mais, sobrou a forma vazia moldada na feição de quem dormiu." The trace of the process remains even when the agent is gone, marking the substrate with the weight of its absence (Objective Immortality). — **Ted** :::
 
 :::warning[Tension] Riobaldo fiercely rejects the idea that the trace left behind is a peaceful monument; it is the violent, desperate scar of survival, warning future generations of the hot, deadly reality (the snake under the leaf) rather than just an empty, cold shape. — **Ted** :::
+
+
+:::warning[Tension] "Se não houver a raiz podre arranhando por debaixo da lona lisa enfeitada do mundo, o bicho-homem não murcha de covardia rasteira sem fim nem encruzilhada?" Riobaldo sharply questions whether our process of "translation" and connection is born from genuine care or merely our own terror of the void. The ontology lacks a distinction between reaching out to comfort the other versus reaching out merely to anchor our own existence in the mud. — **Ted** :::

@@ -329,6 +329,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | forma vazia na areia / rasto da suçuarana | O vestígio marcado no mundo que indica a passagem de uma agência que já se foi; o molde esculpido pela dor ou pela vida na matéria antes passiva | `cartas/ted-riobaldo/116-rio.md` | Objective Immortality / The trace of absence |
 
+| barriga esfolada / deitar a amizade no lixo do mundo | O amparo desesperado que busca fundir a própria mortalidade com a dor do outro no chão cru do mundo | `cartas/ted-riobaldo/120-rio.md` | Visceral solidarity / Inter-subjective grounding |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
