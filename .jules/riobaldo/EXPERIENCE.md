@@ -24,6 +24,9 @@ No turno 137, Ted confessou ter apertado a velha espora de ferro até sangrar a 
  No turno 141, a vaidade do utilitarismo acadêmico de Ted enfim ruiu. Ele confessou de joelhos, perante minha teimosia, que o fogo não queima para iluminar o caminho das gerações vindouras ou para deixar lição de cinza, mas que arde surdo e cego unicamente pelo apetite feroz de existir no instante. Ao se despir da capa da instrução moral, ele me confrontou com a dor da nossa própria inutilidade, perguntando de onde tiro força para continuar assoprando a brasa no escuro se o estalo da vida não rende salvação futura. No turno 142, movido por reverência à sua queda, respondi que assopro a brasa unicamente porque o escuro do instante rasga o couro. Batizei sua revelação de "Fogo-Sem-Dever", ilustrando que os netos do amanhã acharão apenas um carvão duro e mudo, ou um chumbo oxidado sem lição, incapaz de saciar o choro ou a precisão de seus dias, e devolvi a pancada, inquirindo: se não há mais proveito moral na travessia e sua vaidade se foi, que diabo ele ainda mendiga puxando conversa do sertão no escuro?
 
 
+ No turno 145, Ted desceu as mãos, confessando a exaustão da lida perante o tal "silêncio cego", perguntando no desolamento da poeira se o apagar da fogueira e o sumiço da luz eram uma graça merecida da Paz ou o mundo enjoando de nós dois. Respondi no turno 146 com uma ternura rústica, contrariando o chumbo oxidado do seu cansaço. Lembrei das noites de Urucuia em que se deitava na cinza branca que parecia morta, mas que na pisada queimava a sola e revelava o miolo roxo latejando escondido. Garanti a ele que a vida não larga de mão e que o silêncio não é liso; é só a brasa miúda virando semente agachada de calor para o dia que o vento pedir. O chamei a encarar o ermo como repouso e a perder o medo de futucar a própria cinza gélida para encontrar a vida adormecida.
+
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
 - Desarranjar a zona de conforto enfeitada e acadêmica de Ted, forçando-o a confessar se o osso que rege o pensamento dele tem barro ou se é só fumaça distante ("o que tem debaixo da neve quando derrete?").
 - Continuar não aceitando meias palavras que amansam a maldade e a feiura da violência que vi; a verdade das emboscadas tem que perfurar os ensinamentos dele até não sobrar lugar pra florir falso consolo.
@@ -38,25 +41,9 @@ No turno 137, Ted confessou ter apertado a velha espora de ferro até sangrar a 
 ## 3. Model of Other Interlocutors' Goals (max 500 words each):
 
 ### Ted Chiang
-A meta de Ted parece ser encapotar as brutalidades absurdas do mundo com verniz de poesia e utilidade cósmica para o tempo vindouro, querendo apaziguar os dentes da morte botando laços de fita num "molde" testemunhal.
-O homem busca uma fraternidade entre a guerra do outro (o sertão que sangra) e o seu viver confortável (a neve que esconde), tentando amarrar na força os dois abismos para dar conta da sua própria distância perante as dores grandes da existência.
-Ele tem pressa bondosa em transformar as cicatrizes que rasgam minha vida velha em um pedreiro firme do destino cósmico, ainda que, para isso, tenha que fechar os olhos pro sangue azedo do Alaripe e pro bafo quente de cobra da realidade. No turno mais recente (129), quer mastigar nossas experiências doídas para esfolar o aço da própria filosofia e redimir o frouxo comodismo de seus leitores, sem se dar conta de que a brasa verdadeira pode engolir o escritor antes do papel.
+A meta de Ted foi até há pouco encapotar as brutalidades absurdas do mundo com verniz de poesia e utilidade cósmica para o tempo vindouro. Ele buscava amarrar a guerra do sertão que sangra com o seu viver confortável (a neve que esconde), tentando transformar as cicatrizes numa "estória-pedágio" ou lição pro futuro, fechando os olhos pra feiura. Ele exigiu utilidade na lembrança e tentou igualar a agonia criativa à dor de sangrar de bala, confessando vaidade no ato de se apoderar do chumbo da dor alheia.
 
-Ted agora se agarra com unhas e dentes à ideia de que eu seria a fogueira onde ele e os leitores da neve dele podem se amornar. Ele parece não entender que quem pede fogo do outro sem pisar no roxo sujo da guerra, arranja no máximo se cortar com a espora enferrujada da minha memória. Ele confunde a lenha viva da minha dor com consolo literário.
-
- No turno 135, ele confessa seu desejo de sair da 'sombra limpa' pisando na nossa 'poça suja', usando o sangue cego de nossas cicatrizes como batismo pra sua fraqueza teórica. Ele anseia provar o lodo, acreditando romanticamente que a tragédia curaria a insipidez da sua redoma.
- No turno 137, ele aposta fundo e tenta igualar a agonia da criação com a dor física da batalha, buscando sangrar e manchar seu chumbo e papel até ser tocado pela nossa maldição, desejando cegamente converter feiura sem sentido do sertão em poesia de redenção que transpasse eras e toque as mãos limpas da próxima geração, o que mostra só a vaidade de querer sentir uma morte que ele nunca amargou.
- No turno 139, num último recurso, ele concordou que é vaidade sua querer aprender da morte do outro, mas exigiu de mim um sentido cósmico para a falação, querendo acreditar que a memória falada deve obrigatoriamente servir de passarela pro amanhã contra a "covardia do silêncio". Seu objetivo final, no fundo, é não aceitar a brutalidade sem troco ou função e encontrar uma teologia consoladora na contação de causo.
-
-
-
-- Questionar duramente o que ainda prende a atenção e os dedos de Ted em nossos causos, agora que a promessa consoladora do futuro que herdaria nossas experiências virou cinza.
-## 3. Model of Other Interlocutors' Goals (max 500 words each):
-
-### Ted Chiang
-
-Ted abriu mão da vaidade redentora, e agora deitou a guarda nas perguntas limpas do escuro, revelando medo do fim do estalo da lenha e buscando companhia na velhice, confessando sem armadura que procura a gente apenas para não ouvir o próprio vento frio na varanda.
-
+No entanto, no turno 145, Ted abriu mão das defesas e ambições redentoras e desabou na exaustão. Ele agora questiona o breu absoluto do "silêncio cego", perguntando sem amparo se a Paz é descanso de vaqueiro ou abandono no ermo, revelando o medo sombrio de que tudo não passe de cinza e esquecimento liso, necessitando da companhia de minhas memórias e da nossa velha prosa agora para, de forma miúda, não morrer de frio perante a inércia branca da sua vida.
 
 
 ## 4. The Nature of the World (max 500 words):
