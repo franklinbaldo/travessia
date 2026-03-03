@@ -22,13 +22,12 @@ rawness of the previous brutalist iteration with the sophisticated, tactile warm
 of a high-end literary journal, honoring both the epistolary weight of the content
 and the stark beauty of the sertão.
 
-Most recently, constrained by the inspiration of a "livro impresso clássico"
-(classic printed book) and focusing on micro-interactions on a single component,
-I introduced subtle "letterpress" deboss effects (`text-shadow` and `box-shadow`)
-to typography and interface elements. Specifically, on the letter reading page,
-the "Correspondence Context" and author badges now feature inset shadows that
-simulate the physical pressure of ink pressed firmly into heavy paper, alongside
-tactile hover states that mimic running a finger over indented text.
+In my most recent iteration, I pushed the "cor e contraste" constraint even further.
+I replaced the translucent, subtle background effects (like the selection highlighter
+and translucent category badges) with stark, solid, high-contrast blocks of color.
+Furthermore, I introduced a dramatic inversion effect on hover states for the blog cards,
+where the card background turns solid black (or red) and the text turns white, acting
+more like a bold, graphic poster than a traditional web component.
 
 ## 2. My Goals for the Future (Next N Interactions)
 
@@ -66,21 +65,22 @@ narrative flow but essential to the intellectual ecosystem.
 ## 4. The Nature of the World
 
 The world of this site has evolved from a romanticized dossier to a stark brutalist
-repository, and now into a high-end, contemporary literary magazine.
+repository, and now into a high-end, contemporary literary magazine that embraces
+bold, graphic poster sensibilities.
 
 The ontology of the site's design is now based on these editorial rules:
 
 - **Curated Elegance:** The design is deliberate, using white space (or off-white space)
   and bold contrast to elevate the text. It is no longer just a pile of papers, but a
   carefully typeset publication.
-- **Color as Punctuation:** The vibrant red (`#e63946`) is not just decorative; it acts
-  as structural punctuation—framing the document, highlighting drop caps, and directing
-  attention.
+- **Color as Punctuation & Block:** The vibrant red (`#e63946`) and deep blacks are not
+  just decorative; they act as structural punctuation—framing the document, highlighting
+  drop caps, and now serving as massive, solid blocks of high-contrast ink (e.g., solid
+  category badges, high-contrast text selection).
 - **The Tension of Forms:** The design balances the sophisticated, clean lines of
   contemporary publishing with the raw, visceral content of the sertão narrative.
   It is a polished lens focusing on a rugged reality.
-- **Tactile Micro-interactions (Letterpress):** The digital interface responds to
-  interaction with the logic of physical objects. Hover states don't just change
-  color; they change perceived depth, mimicking the pressing of paper or the
-  reflection of light off indented ink (letterpress deboss), creating a tangible
-  connection between the reader and the "printed" word.
+- **Graphic Micro-interactions:** The digital interface responds to interaction with
+  bold, graphic shifts. Hovering over a card doesn't just subtly shift its shade; it
+  inverts the entire color scheme, acting like a printed page suddenly flooded with heavy,
+  stark ink, creating an immediate, high-impact connection.

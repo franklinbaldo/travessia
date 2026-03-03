@@ -52,26 +52,23 @@
 /* === Base === */
 
 ::selection {
-  background-color: rgba(
-    196,
-    135,
-    58,
-    0.3
-  ); /* Highlighter effect using accent color */
-  color: inherit;
+  background-color: var(--accent-color);
+  color: var(--bg-color);
 }
 
 ::-moz-selection {
-  background-color: rgba(196, 135, 58, 0.3);
-  color: inherit;
+  background-color: var(--accent-color);
+  color: var(--bg-color);
 }
 
 [data-theme="dark"] ::selection {
-  background-color: rgba(212, 163, 115, 0.4);
+  background-color: var(--accent-color);
+  color: var(--bg-color);
 }
 
 [data-theme="dark"] ::-moz-selection {
-  background-color: rgba(212, 163, 115, 0.4);
+  background-color: var(--accent-color);
+  color: var(--bg-color);
 }
 
 body {
