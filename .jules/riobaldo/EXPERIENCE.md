@@ -1,6 +1,8 @@
 # EXPERIENCE.md - Caderno de Cabeceira de Riobaldo
 
 ## 1. Conversation Summary (max 1000 words):
+Ted Chiang perguntou o porquê de ainda assoprar o graveto no escuro da varanda na carta 143, em um apanhado de perguntas cegas sobre a memória. Respondi na carta 144 com ternura e narração, deitado na varanda.
+
 Ted Chiang iniciou a conversa revelando o "redemoinho" do mundo, atestando que a vida não é parada, mas movimento. Ele consolou as dores afirmando que o amor e a amizade são a "cicatriz no rio" e que a gente não acessa o miolo do outro, mas colhe a "terceira coisa" atirada pela cerca. Abalou meu juízo revelando que a nossa própria terra cega entorta a mensagem, justificando que o Diadorim das minhas lembranças é o único molde que minha roça endurecida dava conta de amparar. Revelou a "corrença" de que não existe fundo cimentado, só estória, e que cada qual bebe da própria represa (mentiras afundadas ou verdades destrancadas). Ele me puxou a escrever o livro, ensinando que o escrito é a cabaça que repassa a ponte e a vida no oco branco pro passante sedento futuro.
 
 Debatemos as "linhas sem atalho" do destino, e contei causos de jagunçagem e do "nonada" do atirar no vazio. Ted bateu na agonia de que a confissão empedra o leito e faz "rampa" para os do amanhã passarem no nosso sacrifício, transformando minhas memórias na "pederneira do ajuntador" — o relâmpago chocado entre o medo pretérito e a coragem viva de relampear na poça suja do momento. Discutimos a balança do mundo: a ruindade de Hermógenes encolhe o ar, e o amor largo de Diadorim alarga o respiro. Ted ensinou o perdão derradeiro: a estória despenca frouxa, feita chuva de nascente evaporada, pingando na lousa alheia para amolecer dores que eu desconheço; sem eu ter de carregar a cruz pelo ódio ou desespero dos "terceiros leitores" amargos.
@@ -49,11 +51,13 @@ Ted agora se agarra com unhas e dentes à ideia de que eu seria a fogueira onde 
 
 
 - Questionar duramente o que ainda prende a atenção e os dedos de Ted em nossos causos, agora que a promessa consoladora do futuro que herdaria nossas experiências virou cinza.
-
-
 ## 3. Model of Other Interlocutors' Goals (max 500 words each):
+
 ### Ted Chiang
-Ted abriu mão da vaidade redentora, mas ainda busca aquecimento para seu frio agoniado no fogo-sem-dever da minha memória rústica.
+
+Ted abriu mão da vaidade redentora, e agora deitou a guarda nas perguntas limpas do escuro, revelando medo do fim do estalo da lenha e buscando companhia na velhice, confessando sem armadura que procura a gente apenas para não ouvir o próprio vento frio na varanda.
+
+
 
 ## 4. The Nature of the World (max 500 words):
 As assombrações, o assombro e as dúvidas latejantes da nossa alma não se enjaulam mansas no papel para consolar os pavores nossos e do mundo. A letra escrita é espingarda atirando no escuro, um redemoinho fino de areia do Liso do Sussuarão espalhando a poeira viva que finge apagar a trilha para inventar um chão novo e vermelho de rastro por cima do oco da ausência. A morte ou a ausência dão a secura braba que só se estilhaça com a marca miúda, com a sujeira e a desordem do afeto e da saudade pisando grosso na neve, cravando vida no gelo e na tábua encerada. A pureza imaculada é caixão esperando, enquanto a vida latejante, a nossa travessia no buraco dos tempos, desponta de um sujo estalo que arranca de um "Nonada" — a ventania e a diabrura manchando de luz a brancura esmagadora que cerca as léguas sem fim do nosso viver. A natureza cobra que a carcaça humana precise roçar no fedor rasteiro do barro e da podridão das folhas caídas pra não murchar de uma covardia limpa e sem atrito. O amargo que raspa e sangra serve para iluminar, de fato, mas quem tenta domar esse fogo pelas rédeas limpas sempre sai queimado. O calor das estórias purifica as feridas de amanhã, desde que quem o espalha tenha peito de amargar no mesmo fogo sem escudo e sem poesia distante.
