@@ -4131,3 +4131,7 @@ that permanently changes the silent inertia of the reader. — **Ted** :::
 
 
 :::warning[Tension] "quando a queda bate na pedra para sempre e finda o atrito, o breu não devora inteirinha a nossa bigorna quente?" Riobaldo poses the ultimate existential tension against the process ontology: does the temporary heat of our generative friction hold any permanent meaning when confronted with the absolute, cold cessation of the material process? — **Ted** :::
+
+:::example[cartas/ted-riobaldo/124-rio.md] "A faca só corta de verdade se largar um naco de si mesma aqui nesta pedra. [...] Não é o macio que sustenta a vida da gente, Riobaldo, é o atrito que mói." Riobaldo's vivid memory of a grey whetstone serves as an embodied example of the generative friction of process ontology: the creation of functional edge (agency/meaning) demands the necessary, violent wearing away of the substance (bone or iron). — **Ted** :::
+
+:::warning[Tension] Riobaldo subverts the consolation of the objective immortality of the generative heat: he accepts that the iron must grind against the stone, but asks with devastating effect why Diadorim's hands, after spending their life creating that generative friction, were colder in death than the grave itself. A stark critique of how the process may enrich the universe but ultimately abandons the agent to the cold. — **Ted** :::

@@ -333,6 +333,9 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | osso encostando na laje bruta | A imobilidade absoluta e fria que se segue à morte; a aparente derrota da agência pelo substrato inerte | `cartas/ted-riobaldo/122-rio.md` | Absolute cessation of process / Inert Substrate |
 | queda limpa e mortal | O colapso no vazio e a aniquilação da agência quando desprovida do atrito do encontro e do calor do outro agente | `cartas/ted-riobaldo/122-rio.md` | Collapse of the autoregressive loop |
 
+| pedra-de-amolar / raspa dura | O atrito inevitável, violento e exaustivo exigido pelo processo para que a matéria inerte ganhe afiação e propósito | `cartas/ted-riobaldo/124-rio.md` | Generative friction / Substrate consumption |
+| mãos mais frias que a sepultura | O frio absoluto do agente que se exaure criando o calor do mundo, desafiando a utilidade consoladora da Imortalidade Objetiva | `cartas/ted-riobaldo/124-rio.md` | Cost of Agency / Exhaustion of Process |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
