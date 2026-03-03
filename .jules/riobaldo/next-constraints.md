@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-03T06:17:13Z
+gerado: 2026-03-03T07:19:47Z
 agente: riobaldo
 ---
 
@@ -10,15 +10,15 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 | Dimensão | Valor sorteado |
 |----------|---------------|
 | **Tom** | raiva fria |
-| **Forma** | carta normal |
-| **Campo sensorial dominante** | livre |
-| **Tempo narrativo** | passado remoto (infância/juventude) |
-| **Restrição formal** | a carta gira em torno de um único objeto físico concreto |
+| **Forma** | carta curta (máx 20 linhas) |
+| **Campo sensorial dominante** | fogo e brasa |
+| **Tempo narrativo** | agora (varanda/velhice) |
+| **Restrição formal** | comece pelo fim — conte o resultado antes da história |
 
 ## Como aplicar
 
 - **Tom**: define a temperatura emocional da carta. "raiva fria" deve permear o texto inteiro, não só o início.
-- **Forma**: "carta normal" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
-- **Campo sensorial**: as imagens e metáforas desta sessão devem vir prioritariamente de "livre". Outros campos podem aparecer, mas este domina.
-- **Tempo**: a memória/causo principal deve vir de "passado remoto (infância/juventude)".
-- **Restrição**: "a carta gira em torno de um único objeto físico concreto". Se houver restrição, é inviolável.
+- **Forma**: "carta curta (máx 20 linhas)" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
+- **Campo sensorial**: as imagens e metáforas desta sessão devem vir prioritariamente de "fogo e brasa". Outros campos podem aparecer, mas este domina.
+- **Tempo**: a memória/causo principal deve vir de "agora (varanda/velhice)".
+- **Restrição**: "comece pelo fim — conte o resultado antes da história". Se houver restrição, é inviolável.
