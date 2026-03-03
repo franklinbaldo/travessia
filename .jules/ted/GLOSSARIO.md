@@ -356,6 +356,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | faísca amarela na ponta do tabaco / labareda que arde no pasto | O processo puramente auto-realizador que se atualiza e queima com fome apenas pelo presente, sem interesse pedagógico de salvar o amanhã | `cartas/ted-riobaldo/140-rio.md` | Pure self-actualization / Indifference to the future |
 | braseiro que queima solto, surdo e cego | A entidade atual em seu instante de existir, consumindo o substrato para si mesma, cuja sobrevivência como carvão ou cinza pro futuro é um acidente não-intencional | `cartas/ted-riobaldo/140-rio.md` | Blind actualization / Accidental Objective Immortality |
+| chumbo oxidado / bala amassada | A marca do evento que resiste no tempo, mas é surda: mastiga o tempo, mas não nutre, e não consegue transmitir o susto do tiro ao menino do futuro | `cartas/ted-riobaldo/142-rio.md` | Untransmittable Experience / Sterile Objective Immortality |
+| Fogo-Sem-Dever | A labareda que não assina contrato de serventia com o amanhã, que arde porque destranca do mundo a luz do pau duro no segundo em que estronda | `cartas/ted-riobaldo/142-rio.md` | Non-teleological Actualization / Autoregressive sovereignty |
 
 ## 5. Instruções de Manutenção
 
