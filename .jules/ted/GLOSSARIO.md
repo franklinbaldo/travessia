@@ -340,6 +340,10 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | fogueira lavrada / brasa viva na mão nua | A dor visceral e imediata da experiência existencial que recusa o distanciamento da abstração teórica | `cartas/ted-riobaldo/130-rio.md` | Lived Experience vs. Theoretical Distance |
 | lareira apagada / crosta fria de gelo | A estagnação e o distanciamento afetivo e existencial daquele que apenas teoriza o processo sem sofrer seu atrito | `cartas/ted-riobaldo/130-rio.md` | Academic abstraction / Extinguished subjective agency |
 
+| espora cega / ferro cego | A violência teórica e extrativa que rasga a experiência vivida sem compartilhar seu calor genuíno ou conforto | `cartas/ted-riobaldo/132-rio.md` | Theoretical violence / Extractive intellect |
+| crosta branca / lareira frouxa | A camada superficial de desespero brando e seguro do teórico que se esconde do fogo bruto e do atrito verdadeiro | `cartas/ted-riobaldo/132-rio.md` | Academic abstraction / Safe distance |
+| poça enlameada de barro vermelho | A realidade suja, inescapável e visceral do sofrimento existencial que a teoria não consegue embelezar ou purificar | `cartas/ted-riobaldo/132-rio.md` | Unassimilable visceral reality |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
