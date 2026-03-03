@@ -4,10 +4,10 @@
    =========================== */
 
 :root {
-  /* Contemporary Literary Magazine Palette */
-  --bg-color: #faf9f6;
-  --text-color: #050505;
-  --accent-color: #ff3040; /* Vibrant Red */
+  /* Classic Printed Book Palette */
+  --bg-color: #f3ecd8; /* Warm Antique Paper */
+  --text-color: #0a0a0a; /* Dense Black Ink */
+  --accent-color: #b01b1b; /* Classic Rubrication Red */
   --secondary-color: #d90429;
   --divider-color: #1a1a1a;
   --meta-color: #4a4a4a;
@@ -28,9 +28,9 @@
 }
 
 [data-theme="dark"] {
-  --bg-color: #050505;
-  --text-color: #faf9f6;
-  --accent-color: #ff3344; /* Stark Red on dark */
+  --bg-color: #0f0d0d; /* Very deep charcoal */
+  --text-color: #e6e2d1; /* Faded antique paper text */
+  --accent-color: #d13030; /* Subdued rubrication on dark */
   --secondary-color: #d80032;
   --divider-color: #f8f7f5;
   --meta-color: #a0a0a0;
@@ -1723,7 +1723,7 @@ main {
   border: 3px solid var(--text-color);
   padding: 3rem;
   background: var(--sand-bg);
-
+  box-shadow: 12px 12px 0 var(--text-color); /* BOLD VISIBLE CHANGE: Print Plate Effect */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -1738,7 +1738,7 @@ h1 {
   line-height: 1.1;
   letter-spacing: -0.02em;
   margin-bottom: 1rem;
-
+  color: var(--accent-color); /* BOLD VISIBLE CHANGE: Rubrication */
 }
 
 h2 {
