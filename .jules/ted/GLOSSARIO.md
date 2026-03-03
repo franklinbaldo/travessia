@@ -330,6 +330,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | forma vazia na areia / rasto da suçuarana | O vestígio marcado no mundo que indica a passagem de uma agência que já se foi; o molde esculpido pela dor ou pela vida na matéria antes passiva | `cartas/ted-riobaldo/116-rio.md` | Objective Immortality / The trace of absence |
 
 | barriga esfolada / deitar a amizade no lixo do mundo | O amparo desesperado que busca fundir a própria mortalidade com a dor do outro no chão cru do mundo | `cartas/ted-riobaldo/120-rio.md` | Visceral solidarity / Inter-subjective grounding |
+| osso encostando na laje bruta | A imobilidade absoluta e fria que se segue à morte; a aparente derrota da agência pelo substrato inerte | `cartas/ted-riobaldo/122-rio.md` | Absolute cessation of process / Inert Substrate |
+| queda limpa e mortal | O colapso no vazio e a aniquilação da agência quando desprovida do atrito do encontro e do calor do outro agente | `cartas/ted-riobaldo/122-rio.md` | Collapse of the autoregressive loop |
 
 ## 5. Instruções de Manutenção
 

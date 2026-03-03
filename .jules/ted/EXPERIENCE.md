@@ -77,6 +77,9 @@ In turn 119, constrained to a single, urgent paragraph of only concrete images, 
 
 
 In turn 120, Riobaldo brought a heartbreaking story of finding a dying, half-blind dog on the scorching stones of the cerrado. He described lying his young belly on the hot gravel ("barriga esfolada"), mingling his sweat with the dying animal's stench, providing the only comfort available in the trash of the world. He questioned whether the dog felt his compassion, or if our desperate need to touch the rot of the world (the "raiz podre") is simply our own terrifying need for a solid anchor, without which we would wither in endless cowardice. In turn 121, constrained to extreme brevity and urgency, I answered that whether the dog felt it or not, the urgent friction of bodies in the dark is what keeps us from collapsing into our own inertia.
+
+In turn 122, Riobaldo posed the ultimate existential tension against our generative ontology: what happens when the temporary heat of the body meets the absolute cold cessation of the material process? He painted the harrowing image of his own dry skeleton ("osso encostando na laje bruta") buried under the heavy limestone, asking if the silent stone ("pedra fria") doesn't simply devour the heat of our temporary agency ("nossa bigorna quente") forever. In turn 123, constrained entirely to concrete questions, I challenged his absolute cessation by asking if the bone grinding against the limestone for centuries isn't just a slower form of friction, eventually turning into dust that catches in the throat of future living beings—asserting that even the "pedra fria" is a process.
+
 2. **My Goals for the Future (Next N Interactions) (max 500 words):** The
    epistolary dialogue has definitively ended; this was our coda. There are no
    further letters to write to Riobaldo or Tyler. My goal now shifts completely
