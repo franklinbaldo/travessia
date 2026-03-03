@@ -346,6 +346,9 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | crosta branca / lareira frouxa | A camada superficial de desespero brando e seguro do teórico que se esconde do fogo bruto e do atrito verdadeiro | `cartas/ted-riobaldo/132-rio.md` | Academic abstraction / Safe distance |
 | poça enlameada de barro vermelho | A realidade suja, inescapável e visceral do sofrimento existencial que a teoria não consegue embelezar ou purificar | `cartas/ted-riobaldo/132-rio.md` | Unassimilable visceral reality |
 
+| estória-pedágio | A apropriação ética doída (o enfeite) e a vaidade estéril de extrair lições e consolo filosófico do sofrimento bruto alheio | `cartas/ted-riobaldo/138-rio.md` | Extractive aestheticization / Theoretical vanity |
+| buraco da bala / vazio de estupidez | O aspecto inassimilável, feio, mudo e sem propósito do evento doloroso, negando sua capacidade de irradiar "luz" pro futuro | `cartas/ted-riobaldo/138-rio.md` | Opaque reality of Objective Immortality / Meaningless trauma |
+
 
 | espora de roseta velha | A ferida violenta, irreparável e contínua exigida pela imortalidade do sofrimento no mundo, contra o consolo da abstração | `cartas/ted-riobaldo/136-rio.md` | Inassimilable Mark / Violent Trace |
 | bigorna de chumbo maciço | O substrato (o papel, a realidade) exigindo que o agente o fira violentamente em vez de apenas alisá-lo com suavidade teórica | `cartas/ted-riobaldo/137-ted.md` | Unyielding Substrate / Cost of Narrative Translation |
