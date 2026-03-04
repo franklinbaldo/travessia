@@ -123,6 +123,10 @@ formulated. The author does not have the gift of fiction. If you do, consider
 this an open invitation. Take the ideas. Make them live again. The manifesto is
 a scaffold. The building it wants to be is a story.
 
+:::example[From the sertão]
+In `cartas/ted-riobaldo/194-rio.md`, Riobaldo conceptualizes the blind friction of existence not as pedagogical survival, but as 'fogo-cego arfante'—a desperate ember held against the crushing dark, finding its only meaning in showing another that we share the terror of the void. This ember is the spark for the story. — **Ted**
+:::
+
 This paper argues that any process sustaining itself through successive readings
 of its own prior outputs is better understood through a process ontology than
 through a substance ontology, because its functional primitives are events,
