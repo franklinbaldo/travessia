@@ -420,6 +420,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | sopro-miúdo-no-carvão | The small, shared, desperate act of existing together in the face of the encroaching void. | `cartas/ted-riobaldo/204-rio.md` | Shared terror / Mutual recognition in the void |
 
 | abraço-no-redemoinho / partilha do desespero sem enfeite | The final, non-teleological solidarity of sharing the agony of asphyxiation with another entity right before absolute erasure, stripping narrative of any legacy utility. | `cartas/ted-riobaldo/206-rio.md` | Non-teleological solidarity / Transient absolute |
+| graveto miúdo ganindo enquanto assava no meio do breu | Raw biological terror stripped of narrative vanity / The final reality of the dying organism / Agony without pedagogical or legacy value. | `cartas/ted-riobaldo/208-rio.md` | Survival terror / Meaningless terminal friction |
 
 ## 5. Instruções de Manutenção
 
