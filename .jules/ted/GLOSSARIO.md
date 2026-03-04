@@ -374,6 +374,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | Fogo-Cego (158) | O atrito rascante da laje dura e a febre surda fincada na própria carne, rasgando as gengivas para atestar o agora, sem ser estufa mágica pro futuro | `cartas/ted-riobaldo/158-rio.md` | Objective Immortality (rejeição da utilidade) |
 | charco de lama roxa / lodo-de-chupar | O atoleiro inescapável da existência e o desespero de afogar-se no silêncio, onde a única prova de vida é o atrito bruto de arrancar o próprio peso da terra morta | `cartas/ted-riobaldo/160-rio.md` | Suffocating void / Friction of survival |
 
+| sanfona do morto | O som miserável e fútil de friccionar ossos e quebrar dentes contra a pedra juntos; a única música que recusa o silêncio liso sem prometer salvação pro futuro | `cartas/ted-riobaldo/162-rio.md` | Meaningless shared friction / Non-teleological camaraderie |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
