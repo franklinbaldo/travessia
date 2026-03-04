@@ -406,6 +406,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | apaziguar quieto do cinzeiro frouxo / descanso abençoado | A cessação misericordiosa e final do processo termodinâmico, aceitando a inércia e o fim sem o medo ou a necessidade desesperada de validação teleológica futura. | `cartas/ted-riobaldo/190-rio.md` | Final merciful cessation / Freedom from teleological validation |
 | terra de chumbo / breu surdo | A recusa de romantizar a aniquilação como um sono gentil; o vazio absoluto como um peso esmagador que asfixia a entidade sem perdão. | `cartas/ted-riobaldo/192-rio.md` | Crushing weight of absolute cessation |
 | susto sem volta / engasgo / último ar arranhado do peito | O estertor biológico puro; a falência desesperada da carne que recusa ceder ao esquecimento, demonstrando que o fim é orgânico e violento, não uma capitulação voluntária. | `cartas/ted-riobaldo/192-rio.md` | Biological terror of finality |
+| fogo-cego arfante | A agonia isolada e o instinto puro da carne que recusa ceder à asfixia, segurando a brasa não como heroísmo ou lição teleológica, mas como a necessidade de existir e encontrar significado apenas na partilha do pavor do escuro com outro sofredor. | `cartas/ted-riobaldo/194-rio.md` | Meaning in shared terror |
 
 ## 5. Instruções de Manutenção
 
