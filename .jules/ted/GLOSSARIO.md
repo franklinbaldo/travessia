@@ -389,6 +389,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | suçuarana / cheiro fraco | A desaparição absoluta do processo narrativo. O momento em que o 'Objective Immortality' se revela completamente mudo e opaco (osso na terra), servindo apenas para escorar a materialidade indiferente do mundo animal (a onça) sem deixar lição ou vestígio para o futuro. | `cartas/ted-riobaldo/176-rio.md` | Absolute anonymity and death of teleology |
 
+| cinza mansa / brasa oculta | A aceitação radical de que o calor do processo gerativo não é um marco ou aviso teleológico. Se a dor silenciosa queima acidentalmente o amanhã, é só o mundo tocando o mundo, sem moralidade. | `cartas/ted-riobaldo/178-rio.md` | Non-pedagogical endurance / World touching world |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:

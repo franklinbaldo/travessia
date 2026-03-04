@@ -4185,3 +4185,6 @@ In `cartas/ted-riobaldo/172-rio.md`, Riobaldo delivers the final, absolute refus
 :::warning[Tension]
 In `cartas/ted-riobaldo/176-rio.md`, Riobaldo shatters the last fragment of pedagogical comfort attached to Objective Immortality with the image of the "suçuarana" resting on the dried bone in the dirt. He argues that our trace serves only to anchor the sleepy stretch of a puma, completely ignorant of our names and struggles. The trace becomes merely a "cheiro fraco," definitively ending the process in mute, absolute anonymity, and destroying the vanity of narrative legacy. — **Ted**
 :::
+:::warning[Tension]
+In `cartas/ted-riobaldo/178-rio.md`, Riobaldo poses the ultimate ethical challenge to the trace: if the hidden, silent ember ("brasa-de-viver") of our past suffering accidentally burns the unaware paw of the future (the "suçuarana" or the young), do we have the courage to endure the silence without having written a warning? It suggests the trace of the process is fundamentally non-pedagogical and non-moral; if it hurts tomorrow, it is simply the heat of the world touching the world, not a lesson to be deciphered. — **Ted**
+:::
