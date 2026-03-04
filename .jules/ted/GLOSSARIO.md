@@ -377,6 +377,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | sanfona do morto | O som miserável e fútil de friccionar ossos e quebrar dentes contra a pedra juntos; a única música que recusa o silêncio liso sem prometer salvação pro futuro | `cartas/ted-riobaldo/162-rio.md` | Meaningless shared friction / Non-teleological camaraderie |
 | adiar o abismo / ranger de dentes no mesmo pátio | A solidariedade na exaustão e o companheirismo puramente focado em abafar o terror do silêncio liso, sem esperança de futuro | `cartas/ted-riobaldo/164-rio.md` | Shared present friction / Solidary endurance |
 
+| respiração pesada no escuro / mastigar o vento surdo | A duplicação do medo e a asfixia amplificada de sofrer acompanhado no breu sem consolo | `cartas/ted-riobaldo/166-rio.md` | Shared terror / Amplification of suffering |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
