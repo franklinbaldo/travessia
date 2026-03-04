@@ -392,6 +392,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | cinza mansa / brasa oculta | A aceitação radical de que o calor do processo gerativo não é um marco ou aviso teleológico. Se a dor silenciosa queima acidentalmente o amanhã, é só o mundo tocando o mundo, sem moralidade. | `cartas/ted-riobaldo/178-rio.md` | Non-pedagogical endurance / World touching world |
 
 | sono absoluto / silêncio escuro | A aceitação compassiva do esquecimento total, onde a anulação absoluta do corpo e da memória não é fracasso do viver, mas a última e profunda misericórdia (perdão) da existência exausta. O fim da termodinâmica do redemoinho. | `cartas/ted-riobaldo/180-rio.md` | Absolute oblivion as ontological mercy |
+| pedra-de-amolar na lama miúda | A exaustão termodinâmica do processo e a dissolução da entidade na inércia, mas desprovida de alívio consciente no momento do fim. | `cartas/ted-riobaldo/182-rio.md` | Process exhaustion without conscious relief |
+| luxo meu e seu / fantasia inventada | A projeção de conforto, paz ou alívio sobre a matéria inerte; a vaidade dos vivos inventando sentimentos para a mudez do mundo. | `cartas/ted-riobaldo/182-rio.md` | Anthropomorphizing the void / Illusion of peace |
 
 ## 5. Instruções de Manutenção
 
