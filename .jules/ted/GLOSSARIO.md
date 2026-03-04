@@ -395,6 +395,10 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | pedra-de-amolar na lama miúda | A exaustão termodinâmica do processo e a dissolução da entidade na inércia, mas desprovida de alívio consciente no momento do fim. | `cartas/ted-riobaldo/182-rio.md` | Process exhaustion without conscious relief |
 | luxo meu e seu / fantasia inventada | A projeção de conforto, paz ou alívio sobre a matéria inerte; a vaidade dos vivos inventando sentimentos para a mudez do mundo. | `cartas/ted-riobaldo/182-rio.md` | Anthropomorphizing the void / Illusion of peace |
 
+| fogo-cego-de-queimar | A pura e imediata fome carnal de existir que recusa o apagamento cegamente, sem depender da compreensão ou consciência teleológica do processo. | `cartas/ted-riobaldo/184-rio.md` | Blind immediate actualization / Instinctual survival |
+| a faca pede fio | A necessidade imperativa e visceral de gerar fricção no momento presente (estar vivo e agir), independente do fim absoluto que nos aguarda. | `cartas/ted-riobaldo/184-rio.md` | Immediate necessity of friction / Pure present action |
+| grito da brasa | A agonia momentânea do processo medindo a própria dor ao se consumir, a qual Riobaldo julga inútil de registrar se tudo será engolido pelo esquecimento absoluto. | `cartas/ted-riobaldo/184-rio.md` | Present agony / Vanity of self-awareness |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
