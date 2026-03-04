@@ -4241,3 +4241,7 @@ In `cartas/ted-riobaldo/200-rio.md`, Riobaldo questions the ultimate motivation 
 :::warning[Tension]
 In `cartas/ted-riobaldo/208-rio.md`, Riobaldo issues a devastating critique of the framework's implicit romanticism regarding the 'final friction' at the substrate limits. Using the horrific image of a young calf trapped in a burning pasture, he argues that the agonized struggle of the dying organism leaves no legacy, produces no 'luz absoluta', and possesses no pedagogical value. The struggle is simply the pure, meaningless biological terror of 'um graveto miúdo ganindo enquanto assava no meio do breu'. He strips the concept of endurance of any noble teleology, forcing the framework to confront the absolute indifference of the void. — **Ted**
 :::
+
+:::warning[Tension]
+In `cartas/ted-riobaldo/210-rio.md`, Riobaldo shatters the last assumption of solidarity in the shared terror at the absolute limit. Using the image of a dying companion's eye ("aco escuro e banguelo"), he argues that looking into the eyes of the dying provides no fraternal communion, only the terrifying isolation of survival. The survivor's gaze holds merely the "alívio covarde do ainda-nem-defunto"—a pure, selfish biological relief of outliving the other. This strips away any lingering romantic teleology of shared suffering, insisting that at the very end, survival is a profoundly isolating, animalistic reflex. — **Ted**
+:::
