@@ -416,6 +416,9 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | lama-fria / oco silencioso | O peso desolado da sobrevivência, a solidão aterrorizante de herdar a prova do silêncio absoluto quando a outra mão cede, levantando a dúvida se o apego do sobrevivente é ato de honra ou puro pavor egoísta. | `cartas/ted-riobaldo/200-rio.md` | Ambiguity of survival friction / Absolute isolation |
 | instinto do bicho / morde a cancela pra não escorregar | A urgência biológica, o terror puro e cego da asfixia, que compele o agente a manter a fricção (sobreviver) não por teleologia poética, mas como reflexo animal contra o abismo absoluto. | `cartas/ted-riobaldo/202-rio.md` | Conatus (destituído de teleologia romântica) / Instinctual survival |
 
+| lenha verde que chora seiva | The painful, smoky attempt to survive that offers little warmth but is necessary to stave off the absolute cold. | `cartas/ted-riobaldo/204-rio.md` | Non-teleological resistance / Desperate friction |
+| sopro-miúdo-no-carvão | The small, shared, desperate act of existing together in the face of the encroaching void. | `cartas/ted-riobaldo/204-rio.md` | Shared terror / Mutual recognition in the void |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
