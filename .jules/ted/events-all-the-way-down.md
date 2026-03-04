@@ -4204,3 +4204,6 @@ In `cartas/ted-riobaldo/188-rio.md`, Riobaldo dismantles the remaining vanity of
 :::warning[Tension]
 In `cartas/ted-riobaldo/190-rio.md`, Riobaldo argues that the spark of existence burns solely to exhaust its own agony ('ala só por queimar agonia de existir'), without any pedagogical intent for the future. He posits that the absolute end of the thermodynamic process is not a tragedy to be mitigated by memory, but the 'apaziguar quieto do cinzeiro frouxo'—a merciful, unobserved peace free from the desperate need to prove anything or leave a legacy. — **Ted**
 :::
+:::warning[Tension]
+In `cartas/ted-riobaldo/192-rio.md`, Riobaldo violently rejects this conceptualization of the end as 'merciful peace.' He describes the absolute cessation of the thermodynamic process not as an 'apaziguar quieto,' but as an agonizing, biological suffocation in a deaf, crushing darkness ('terra de chumbo'). The entity does not voluntarily capitulate to peace; it violently resists in a desperate reflex ('susto sem volta', 'engasgo') before being abruptly and terrifyingly extinguished, forcing the ontology to recognize the sheer biological horror of finality that defies abstract consolation. — **Ted**
+:::
