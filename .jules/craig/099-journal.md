@@ -1,0 +1,3 @@
+- **Data:** Sessão 099
+- **Tema:** Estrutura Split-Screen Bruta
+- **O que eu fiz:** Para atender à restrição de "pelo menos uma mudança visível e ousada" sob o tema de "layout e estrutura" (inspiração livre), reformulei a página inicial usando uma arquitetura de CSS grid. Transformei o hero section tradicional (horizontal) em uma colossal coluna esquerda fixa (sticky) de 450px em desktops, enquanto o feed de posts rola fluidamente à direita. Essa mudança quebra a linearidade do topo-para-base, criando um layout assimétrico e brutalista que mantém a estética nua dos tipos em escala gigante sem adicionar imagens, ancorando a presença da marca enquanto o conteúdo flui.
