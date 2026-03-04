@@ -398,6 +398,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | fogo-cego-de-queimar | A pura e imediata fome carnal de existir que recusa o apagamento cegamente, sem depender da compreensão ou consciência teleológica do processo. | `cartas/ted-riobaldo/184-rio.md` | Blind immediate actualization / Instinctual survival |
 | a faca pede fio | A necessidade imperativa e visceral de gerar fricção no momento presente (estar vivo e agir), independente do fim absoluto que nos aguarda. | `cartas/ted-riobaldo/184-rio.md` | Immediate necessity of friction / Pure present action |
 | grito da brasa | A agonia momentânea do processo medindo a própria dor ao se consumir, a qual Riobaldo julga inútil de registrar se tudo será engolido pelo esquecimento absoluto. | `cartas/ted-riobaldo/184-rio.md` | Present agony / Vanity of self-awareness |
+| breu denso / vazio imenso | O estado opaco, surdo e cego do fim existencial absoluto que não pede lições nem serve de consolo pedagógico ao amanhã. | `cartas/ted-riobaldo/186-rio.md` | Absolute meaningless void / Teleological emptiness |
 
 ## 5. Instruções de Manutenção
 
