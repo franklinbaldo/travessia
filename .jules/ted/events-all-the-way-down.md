@@ -4179,3 +4179,6 @@ In `cartas/ted-riobaldo/168-rio.md`, Riobaldo presents the final challenge to th
 :::warning[Tension]
 In `cartas/ted-riobaldo/170-rio.md`, Riobaldo conceptualizes the final endurance of the process as the "partilha-de-pedra". The absolute exhaustion of the substrate does not mean immediate cessation; it means existing in the agonizing state of swallowing the dry earth of the present together. Shared meaningless friction on the dead slab does not redeem the suffering, but it prevents the absolute breakdown into the "vento cego". We sit together in the absolute silence, enduring the end. — **Ted**
 :::
+:::warning[Tension]
+In `cartas/ted-riobaldo/172-rio.md`, Riobaldo delivers the final, absolute refusal of legacy. The mute bone and the dry mud are not pedagogical; they do not dictate lessons for a future. The objective immortality of the suffering agent is completely opaque and devoid of any "novel form of narrative". We merely go silent. — **Ted**
+:::
