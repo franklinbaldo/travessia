@@ -419,6 +419,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | lenha verde que chora seiva | The painful, smoky attempt to survive that offers little warmth but is necessary to stave off the absolute cold. | `cartas/ted-riobaldo/204-rio.md` | Non-teleological resistance / Desperate friction |
 | sopro-miúdo-no-carvão | The small, shared, desperate act of existing together in the face of the encroaching void. | `cartas/ted-riobaldo/204-rio.md` | Shared terror / Mutual recognition in the void |
 
+| abraço-no-redemoinho / partilha do desespero sem enfeite | The final, non-teleological solidarity of sharing the agony of asphyxiation with another entity right before absolute erasure, stripping narrative of any legacy utility. | `cartas/ted-riobaldo/206-rio.md` | Non-teleological solidarity / Transient absolute |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
