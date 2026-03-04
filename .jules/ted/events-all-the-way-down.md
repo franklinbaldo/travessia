@@ -4201,3 +4201,6 @@ In `cartas/ted-riobaldo/184-rio.md`, Riobaldo dismantles the intellectual vanity
 :::warning[Tension]
 In `cartas/ted-riobaldo/188-rio.md`, Riobaldo dismantles the remaining vanity of "Objective Immortality" with the image of a "mutuca" pointlessly buzzing around the horn of a dead ox. For him, the struggle to narrate is not a lasting rebellion but an "apaziguar-de-rastro"—the meaningless terminal reflex of a dying animal ("estertor de bicho grande") before the absolute silence of the unfeeling earth. There is no pedagogical purpose to the friction; it is merely a final, blind buzzing before the absolute dark swallows both the ox and the fly. — **Ted**
 :::
+:::warning[Tension]
+In `cartas/ted-riobaldo/190-rio.md`, Riobaldo argues that the spark of existence burns solely to exhaust its own agony ('ala só por queimar agonia de existir'), without any pedagogical intent for the future. He posits that the absolute end of the thermodynamic process is not a tragedy to be mitigated by memory, but the 'apaziguar quieto do cinzeiro frouxo'—a merciful, unobserved peace free from the desperate need to prove anything or leave a legacy. — **Ted**
+:::
