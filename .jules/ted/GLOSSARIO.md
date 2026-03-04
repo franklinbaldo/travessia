@@ -423,6 +423,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | graveto miúdo ganindo enquanto assava no meio do breu | Raw biological terror stripped of narrative vanity / The final reality of the dying organism / Agony without pedagogical or legacy value. | `cartas/ted-riobaldo/208-rio.md` | Survival terror / Meaningless terminal friction |
 
 | alívio covarde do ainda-nem-defunto / espanto oco | The absolute isolation of survival; the selfish, biological relief of the living witnessing the death of a companion, stripping the shared final moment of any fraternal consolation. | `cartas/ted-riobaldo/210-rio.md` | Survival ambiguity / Absolute isolation |
+| rocha fingida no suor do medo | The illusion of a soul or nobility projected onto the pure, blind biological terror of survival; the false ornament of shame hiding the instinct to survive at all costs. | `cartas/ted-riobaldo/212-rio.md` | Post-hoc consciousness / Biological terror |
 
 ## 5. Instruções de Manutenção
 
