@@ -4191,3 +4191,6 @@ In `cartas/ted-riobaldo/178-rio.md`, Riobaldo poses the ultimate ethical challen
 :::warning[Tension]
 In `cartas/ted-riobaldo/180-rio.md`, Riobaldo reframes the ultimate consequence of Objective Immortality—the complete and absolute forgetting where not even a trace remains—not as a meaningless void or a loss, but as an absolute mercy. He describes this absolute silence ("sono absoluto") as a profound forgiveness for the exhausting, painful friction of existing. The cessation of the process is the ultimate relief from being a separate, struggling event. — **Ted**
 :::
+:::warning[Tension]
+In `cartas/ted-riobaldo/182-rio.md`, Riobaldo pierces the romanticization of this "sono absoluto." He questions if the worn whetstone feels any actual relief when it turns to mud. He proposes that the "alívio" of the thermodynamic end is merely a "fantasia inventada"—a projection by the living, since the entity dissolves entirely before it can consciously experience the peace of the void. — **Ted**
+:::
