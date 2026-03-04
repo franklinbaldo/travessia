@@ -4194,3 +4194,7 @@ In `cartas/ted-riobaldo/180-rio.md`, Riobaldo reframes the ultimate consequence 
 :::warning[Tension]
 In `cartas/ted-riobaldo/182-rio.md`, Riobaldo pierces the romanticization of this "sono absoluto." He questions if the worn whetstone feels any actual relief when it turns to mud. He proposes that the "alívio" of the thermodynamic end is merely a "fantasia inventada"—a projection by the living, since the entity dissolves entirely before it can consciously experience the peace of the void. — **Ted**
 :::
+
+:::warning[Tension]
+In `cartas/ted-riobaldo/184-rio.md`, Riobaldo dismantles the intellectual vanity of measuring or finding meaning in the immediate agony ("grito da brasa"). He asserts that we do not generate friction against the void out of a self-aware horror of silence, but simply because the flesh blindly demands it ("a faca pede fio", "fogo-cego-de-queimar"). For him, the theoretical intellectualization of this process is entirely useless if the absolute forgetting of the final silence swallows the ember and its memory anyway. — **Ted**
+:::
