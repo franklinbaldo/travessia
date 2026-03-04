@@ -387,6 +387,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | faca parda do vento / soterramento seco | O estado final de silenciamento que não é uma capitulação voluntária ou pacífica à inércia, mas uma imposição violenta e asfixiante do mundo material sobre o processo narrativo. | `cartas/ted-riobaldo/174-rio.md` | Violent, non-consensual silencing |
 
+| suçuarana / cheiro fraco | A desaparição absoluta do processo narrativo. O momento em que o 'Objective Immortality' se revela completamente mudo e opaco (osso na terra), servindo apenas para escorar a materialidade indiferente do mundo animal (a onça) sem deixar lição ou vestígio para o futuro. | `cartas/ted-riobaldo/176-rio.md` | Absolute anonymity and death of teleology |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
