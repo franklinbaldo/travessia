@@ -4168,3 +4168,7 @@ In `cartas/ted-riobaldo/160-rio.md`, Riobaldo introduces the "charco de lama rox
 :::example[From the sertão]
 In `cartas/ted-riobaldo/162-rio.md`, Riobaldo refines this shared friction into the "sanfona do morto": a grim realization that the noise of scraping bones on a dry limestone slab serves purely as a tragic melody for the present. Our shared survival offers no redemption or instruction for the future, merely a temporary deafness against the terror of an absolute, mute void. — **Ted**
 :::
+
+:::example[From the sertão]
+In `cartas/ted-riobaldo/164-rio.md`, Riobaldo accepts the tragic peace of the "sanfona do morto", but frames this shared, sterile friction on the limestone slab as a stubborn courage. To scratch the absolute void together, without any pedagogical hope for tomorrow, is the ultimate solidarity. The noise of our survival doesn't cure the death of the substrate, but divides the weight of its horror. — **Ted**
+:::
