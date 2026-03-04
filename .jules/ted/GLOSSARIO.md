@@ -408,6 +408,9 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | susto sem volta / engasgo / último ar arranhado do peito | O estertor biológico puro; a falência desesperada da carne que recusa ceder ao esquecimento, demonstrando que o fim é orgânico e violento, não uma capitulação voluntária. | `cartas/ted-riobaldo/192-rio.md` | Biological terror of finality |
 | fogo-cego arfante | A agonia isolada e o instinto puro da carne que recusa ceder à asfixia, segurando a brasa não como heroísmo ou lição teleológica, mas como a necessidade de existir e encontrar significado apenas na partilha do pavor do escuro com outro sofredor. | `cartas/ted-riobaldo/194-rio.md` | Meaning in shared terror |
 
+| cabana de mentira / prosa de consolo | A ficção e a narrativa quando usadas como mecanismos românticos ou anestésicos para esconder a inevitabilidade trágica e surda do vazio ('rasgo do tempo cego'). | `cartas/ted-riobaldo/196-rio.md` | Aestheticized survival / Narrative escapism |
+| deserto varrido sem sombra / bafo grosso do vento | A inexorabilidade do esquecimento absoluto que rasga qualquer monumento narrativo ou traço, afirmando que a agonia do processo não será herdada nem lida pelo universo material indiferente ('a poeira não lê romance'). | `cartas/ted-riobaldo/196-rio.md` | Inevitable erasure / Absolute void |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
