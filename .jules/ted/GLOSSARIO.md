@@ -369,6 +369,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | vento cego | A narrativa vazia que varre a poeira superficial do esquecimento apenas para expor a rocha inalterada e o osso morto do sofrimento, sem curar ou redimir a agonia subjacente | `cartas/ted-riobaldo/154-rio.md` | Useless narrative / Blind exposition |
 
+| fogo-cego | O ato desesperado e imediato de gerar fricção (narrar) não para iluminar o amanhã, mas para queimar a própria mão no agora e provar que se está vivo contra o frio do nada | `cartas/ted-riobaldo/156-rio.md` | Pure Present Friction / Autoregressive immediacy |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
