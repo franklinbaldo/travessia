@@ -400,6 +400,9 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | grito da brasa | A agonia momentânea do processo medindo a própria dor ao se consumir, a qual Riobaldo julga inútil de registrar se tudo será engolido pelo esquecimento absoluto. | `cartas/ted-riobaldo/184-rio.md` | Present agony / Vanity of self-awareness |
 | breu denso / vazio imenso | O estado opaco, surdo e cego do fim existencial absoluto que não pede lições nem serve de consolo pedagógico ao amanhã. | `cartas/ted-riobaldo/186-rio.md` | Absolute meaningless void / Teleological emptiness |
 
+| teima de mutuca arrodeando o chifre do boi já tombado | A vaidade absurda de acreditar que o rastro narrativo (o zumbido) tem serventia pedagógica quando o mundo material inerte (o boi morto e o breu) não assimila nada da experiência. | `cartas/ted-riobaldo/188-rio.md` | Pointless survival friction / Absurd teleology |
+| apaziguar-de-rastro / estertor de bicho grande | A verdadeira natureza do atrito existencial: um reflexo puramente biológico, terminal e inútil para o amanhã, gerado no limiar do esquecimento absoluto (sem consolo). | `cartas/ted-riobaldo/188-rio.md` | Terminal reflex of existence / Blind actualization |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
