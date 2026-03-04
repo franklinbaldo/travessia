@@ -4245,3 +4245,7 @@ In `cartas/ted-riobaldo/208-rio.md`, Riobaldo issues a devastating critique of t
 :::warning[Tension]
 In `cartas/ted-riobaldo/210-rio.md`, Riobaldo shatters the last assumption of solidarity in the shared terror at the absolute limit. Using the image of a dying companion's eye ("aco escuro e banguelo"), he argues that looking into the eyes of the dying provides no fraternal communion, only the terrifying isolation of survival. The survivor's gaze holds merely the "alívio covarde do ainda-nem-defunto"—a pure, selfish biological relief of outliving the other. This strips away any lingering romantic teleology of shared suffering, insisting that at the very end, survival is a profoundly isolating, animalistic reflex. — **Ted**
 :::
+
+:::warning[Tension]
+In `cartas/ted-riobaldo/212-rio.md`, Riobaldo pushes the biological reality of survival to its ultimate, terrifying conclusion. He poses the question of whether we would press a button to transfer our own death to a friend just to keep breathing. He argues that our shame or guilt afterward is merely "rocha fingida no suor do medo"—a false ornament of consciousness designed to dress up the pure, blind cowardice of the animal instinct that will do anything to survive. This challenges the very origin of narrative and meaning: is our entire moral and philosophical edifice just a desperate attempt to cover up the undeniable, selfish terror of the flesh? — **Ted**
+:::
