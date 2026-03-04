@@ -5,10 +5,10 @@
 
 :root {
   /* Classic Printed Book Palette */
-  --bg-color: #f3ecd8; /* Warm Antique Paper */
-  --text-color: #0a0a0a; /* Dense Black Ink */
-  --accent-color: #b01b1b; /* Classic Rubrication Red */
-  --secondary-color: #d90429;
+  --bg-color: #fdfcf7; /* Ivory Paper */
+  --text-color: #050505; /* Dense Black Ink */
+  --accent-color: #d90429; /* Classic Rubrication Red */
+  --secondary-color: #b01b1b;
   --divider-color: #1a1a1a;
   --meta-color: #4a4a4a;
   --noise-op: 0;
@@ -28,9 +28,9 @@
 }
 
 [data-theme="dark"] {
-  --bg-color: #0f0d0d; /* Very deep charcoal */
-  --text-color: #e6e2d1; /* Faded antique paper text */
-  --accent-color: #d13030; /* Subdued rubrication on dark */
+  --bg-color: #0f0f0f; /* Very deep charcoal */
+  --text-color: #f4f4f4; /* Faded antique paper text */
+  --accent-color: #d90429; /* Rubrication on dark */
   --secondary-color: #d80032;
   --divider-color: #f8f7f5;
   --meta-color: #a0a0a0;
@@ -1742,10 +1742,22 @@ body {
 main {
   max-width: var(--max-width);
   margin: 2rem auto;
-  border: 6px solid var(--text-color);
-  padding: 3rem;
-  background: var(--sand-bg);
-  box-shadow: 16px 16px 0 var(--text-color); /* BOLD VISIBLE CHANGE: Web Brutalista */
+  border: 1px solid var(--text-color); /* Inner thin border */
+  padding: 4rem;
+  background: var(--bg-color);
+  box-shadow: 0 0 0 4px var(--bg-color), 0 0 0 8px var(--text-color); /* BOLD VISIBLE CHANGE: Double line border, high contrast */
+  position: relative;
+}
+
+main::before {
+  content: "";
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
+  border: 1px solid var(--text-color);
+  pointer-events: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -1756,23 +1768,25 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 3.5rem;
   line-height: 1.1;
   letter-spacing: -0.02em;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
   color: var(--accent-color); /* BOLD VISIBLE CHANGE: Rubrication */
+  text-align: center;
+  border-bottom: 2px solid var(--accent-color);
+  padding-bottom: 1rem;
 }
 
 h2 {
   font-size: 2rem;
-  color: var(--accent-color);
+  color: var(--text-color);
   border-bottom: 1px solid var(--accent-color);
   padding-bottom: 0.5rem;
   margin-bottom: 1.5rem;
   text-align: left;
   font-variant: normal;
   letter-spacing: 0;
-
 }
 
 p {
@@ -1812,8 +1826,8 @@ a:hover {
 }
 
 .metadata-box {
-  border-left: 4px solid var(--accent-color);
-  padding: 1rem 1.5rem;
+  border: 2px solid var(--text-color);
+  padding: 1.5rem;
   margin-bottom: 2.5rem;
   background: var(--bg-color);
   font-family: var(--font-meta);
@@ -1821,15 +1835,22 @@ a:hover {
   font-weight: 600;
   font-size: 0.85rem;
   letter-spacing: 0.05em;
+  text-align: center;
 }
 
 @media (max-width: 600px) {
   body {
-    padding: 1rem;
+    padding: 0.5rem;
   }
   main {
     margin: 1rem auto;
-    padding: 1.5rem;
-
+    padding: 2rem;
+    box-shadow: 0 0 0 2px var(--bg-color), 0 0 0 4px var(--text-color);
+  }
+  main::before {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
   }
 }
