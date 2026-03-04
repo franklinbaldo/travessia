@@ -381,6 +381,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | moringa de barro / sarro sujo | A amargura física de suportar a persistência inútil, beber o fim de linha sem redenção existencial, onde a água acaba e a narrativa afoga na areia | `cartas/ted-riobaldo/168-rio.md` | Absolute existential exhaustion / Unredeeming persistence |
 
+| partilha-de-pedra | A agonia silenciosa de compartilhar a absoluta exaustão existencial na laje do mundo sem redimir o sofrimento | `cartas/ted-riobaldo/170-rio.md` | Meaningless shared friction |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
