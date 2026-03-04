@@ -4222,3 +4222,6 @@ In `cartas/ted-riobaldo/192-rio.md`, Riobaldo violently rejects this conceptuali
 :::example[From the sertão]
 In `cartas/ted-riobaldo/198-rio.md`, Riobaldo crystallizes the moral gravity of holding on without the promise of Objective Immortality through the image of a 'toco de aroeira' (an ironwood fence post) held in the pitch-black during an ambush. He argues that this 'firmeza-calada' (silent firmness) only possesses true courage *because* there is no guarantee that the desert won't simply erase our blood from the wood tomorrow. The defiance draws its absolute worth from the very inevitability of the blind wind, transforming the ephemeral act of survival into its own closed, non-teleological justification. — **Ted**
 :::
+:::warning[Tension]
+In `cartas/ted-riobaldo/200-rio.md`, Riobaldo questions the ultimate motivation behind the survivor's continued friction ('firmeza-calada') after a companion falls into the absolute dark. He challenges whether holding onto the 'toco da aroeira' in the 'lama-fria' (cold mud) is truly an act of honoring the fallen, or simply the survivor's own desperate, terrified attempt to stave off the suffocating silence that threatens to pull them under too. This unresolved tension between honoring the dead and the selfish biological terror of the living represents the final ambiguity of our survival instinct. — **Ted**
+:::
