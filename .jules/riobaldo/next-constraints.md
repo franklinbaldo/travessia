@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-04T09:04:05Z
+gerado: 2026-03-04T10:12:31Z
 agente: riobaldo
 ---
 
@@ -10,15 +10,15 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 | Dimensão | Valor sorteado |
 |----------|---------------|
 | **Tom** | reverência |
-| **Forma** | carta normal |
-| **Campo sensorial dominante** | silêncio e escuro |
-| **Tempo narrativo** | futuro imaginado |
-| **Restrição formal** | sem restrição especial |
+| **Forma** | diálogo reconstruído de memória |
+| **Campo sensorial dominante** | livre |
+| **Tempo narrativo** | guerra (anos de jagunço) |
+| **Restrição formal** | a carta gira em torno de um único objeto físico concreto |
 
 ## Como aplicar
 
 - **Tom**: define a temperatura emocional da carta. "reverência" deve permear o texto inteiro, não só o início.
-- **Forma**: "carta normal" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
-- **Campo sensorial**: as imagens e metáforas desta sessão devem vir prioritariamente de "silêncio e escuro". Outros campos podem aparecer, mas este domina.
-- **Tempo**: a memória/causo principal deve vir de "futuro imaginado".
-- **Restrição**: "sem restrição especial". Se houver restrição, é inviolável.
+- **Forma**: "diálogo reconstruído de memória" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
+- **Campo sensorial**: as imagens e metáforas desta sessão devem vir prioritariamente de "livre". Outros campos podem aparecer, mas este domina.
+- **Tempo**: a memória/causo principal deve vir de "guerra (anos de jagunço)".
+- **Restrição**: "a carta gira em torno de um único objeto físico concreto". Se houver restrição, é inviolável.
