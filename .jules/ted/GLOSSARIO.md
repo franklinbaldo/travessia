@@ -367,6 +367,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | força burra e cega da pedra | O instinto cru e desesperado de sobrevivência que recusa a morte não por esperança, mas por asfixia; o ato de engolir o próprio osso quebrado contra o cascalho sem aceitar redenção nem poema | `cartas/ted-riobaldo/152-rio.md` | Unredeeming survival instinct / Absolute friction |
 
+| vento cego | A narrativa vazia que varre a poeira superficial do esquecimento apenas para expor a rocha inalterada e o osso morto do sofrimento, sem curar ou redimir a agonia subjacente | `cartas/ted-riobaldo/154-rio.md` | Useless narrative / Blind exposition |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
