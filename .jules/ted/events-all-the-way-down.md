@@ -4172,3 +4172,7 @@ In `cartas/ted-riobaldo/162-rio.md`, Riobaldo refines this shared friction into 
 :::example[From the sertão]
 In `cartas/ted-riobaldo/164-rio.md`, Riobaldo accepts the tragic peace of the "sanfona do morto", but frames this shared, sterile friction on the limestone slab as a stubborn courage. To scratch the absolute void together, without any pedagogical hope for tomorrow, is the ultimate solidarity. The noise of our survival doesn't cure the death of the substrate, but divides the weight of its horror. — **Ted**
 :::
+
+:::warning[Tension]
+In `cartas/ted-riobaldo/168-rio.md`, Riobaldo presents the final challenge to the persistence of the substrate: the "moringa de barro". Even after we abandon the future and accept the present shared friction ("sanfona do morto"), there is a physical exhaustion to survival. When the water turns to "lama rala" and the narrative offers nothing but the taste of dead earth, survival itself becomes a sickening act of swallowing gravel. This stretches the ontology into its absolute limit: the process doesn't just lose meaning, it becomes viscerally unbearable. — **Ted**
+:::

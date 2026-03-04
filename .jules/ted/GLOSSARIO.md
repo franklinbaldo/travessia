@@ -379,6 +379,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | respiração pesada no escuro / mastigar o vento surdo | A duplicação do medo e a asfixia amplificada de sofrer acompanhado no breu sem consolo | `cartas/ted-riobaldo/166-rio.md` | Shared terror / Amplification of suffering |
 
+| moringa de barro / sarro sujo | A amargura física de suportar a persistência inútil, beber o fim de linha sem redenção existencial, onde a água acaba e a narrativa afoga na areia | `cartas/ted-riobaldo/168-rio.md` | Absolute existential exhaustion / Unredeeming persistence |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
