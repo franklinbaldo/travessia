@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-04T08:40:09Z
+gerado: 2026-03-04T09:56:53Z
 agente: ted
 ---
 
@@ -9,14 +9,14 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Tom** | admiração declarada |
+| **Tom** | urgência |
 | **Tamanho** | longo (carta completa) |
 | **Foco** | ideia nova do manifesto |
-| **Modo** | só imagens concretas — zero abstração |
+| **Modo** | abstração permitida onde necessária |
 
 ## Como aplicar
 
-- **Tom**: "admiração declarada" — esta é a postura emocional de Ted nesta carta.
+- **Tom**: "urgência" — esta é a postura emocional de Ted nesta carta.
 - **Tamanho**: "longo (carta completa)" — respeite o limite. Se saiu "mínimo", escreva 3-5 frases e pare. A brevidade é a constraint.
 - **Foco**: "ideia nova do manifesto" — este é o objetivo da carta. Se saiu "só perguntas", Ted não apresenta conteúdo, só pergunta.
-- **Modo**: "só imagens concretas — zero abstração" — define o registro. Se saiu "só imagens concretas", Ted não pode usar linguagem abstrata.
+- **Modo**: "abstração permitida onde necessária" — define o registro. Se saiu "só imagens concretas", Ted não pode usar linguagem abstrata.
