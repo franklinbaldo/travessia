@@ -27,109 +27,17 @@ const {
 ---
 
 <a href={url} class="blog-card" data-tipo={tipo} data-autor={autorClasse}>
-  <span class={`card-tipo tipo-${tipo}`}>
-    {tipoLabel}
-  </span>
   <h2 class="card-titulo">{titulo}</h2>
   {subtitulo && <p class="card-subtitulo">{subtitulo}</p>}
   <p class="card-excerpt">{excerpt}</p>
   <div class="card-meta">
-    {autor && <span class={`card-autor autor-${autorClasse}`}>{autor}</span>}
-    {data && <time datetime={data.toISOString()}>{formatDate(data)}</time>}
+    <span class="card-tipo">{tipoLabel}</span>
+    {autor && <span class={`card-autor autor-${autorClasse}`}>/ {autor}</span>}
+    {data && <time datetime={data.toISOString()}>/ {formatDate(data)}</time>}
   </div>
 </a>
 
 <style>
-    .card-tipo {
-    display: inline-block;
-    font-family: var(--font-meta);
-    font-size: 0.65rem;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    padding: 0.2rem 0.55rem; border-radius: 0;
-    margin-bottom: 0.75rem; border: 2px solid var(--text-color);
-
-    transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
-  }
-
-  .blog-card:hover .card-tipo {
-
-  }
-
-  .tipo-carta {
-    background: var(--text-color);
-    color: var(--bg-color);
-    border-color: var(--text-color);
-  }
-
-  .tipo-abertura,
-  .tipo-causo {
-    background: var(--accent-color);
-    color: var(--bg-color);
-    border-color: var(--accent-color);
-  }
-
-  .tipo-fechamento {
-    background: var(--text-color);
-    color: var(--bg-color);
-    border-color: var(--text-color);
-  }
-
-  .tipo-fragmento {
-    background: var(--meta-color);
-    color: var(--bg-color);
-    border-color: var(--meta-color);
-  }
-
-  .tipo-carta-pessoal,
-  .tipo-carta-pessoal-rio {
-    background: var(--text-color);
-    color: var(--bg-color);
-    border-color: var(--text-color);
-  }
-
-  .tipo-carta-ted-tyler {
-    background: #5a908b;
-    color: var(--bg-color);
-    border-color: #5a908b;
-  }
-
-  .tipo-fita {
-    background: var(--accent-color);
-    color: var(--bg-color);
-    border-color: var(--accent-color);
-  }
-
-  .tipo-pensamento {
-    background: var(--meta-color);
-    color: var(--bg-color);
-    border-color: var(--meta-color);
-  }
-
-  .tipo-rascunho {
-    background: var(--meta-color);
-    color: var(--bg-color);
-    border-color: var(--meta-color);
-  }
-
-  .tipo-journal-rio {
-    background: var(--text-color);
-    color: var(--bg-color);
-    border-color: var(--text-color);
-  }
-
-  .tipo-journal-ted {
-    background: #5a908b;
-    color: var(--bg-color);
-    border-color: #5a908b;
-  }
-
-  .tipo-journal-craig {
-    background: var(--accent-color);
-    color: var(--bg-color);
-    border-color: var(--accent-color);
-  }
-
   .card-titulo {
     font-size: 1.25rem;
     margin: 0 0 0.5rem;
@@ -140,7 +48,7 @@ const {
 
   .card-subtitulo {
     font-style: italic;
-    color: var(--accent-color);
+    color: var(--text-color);
     font-size: 0.95rem;
     margin: 0 0 0.5rem;
   }
@@ -154,7 +62,8 @@ const {
 
   .card-meta {
     display: flex;
-    gap: 0.75rem;
+    flex-wrap: wrap;
+    gap: 0.4rem;
     align-items: center;
     font-family: var(--font-meta);
     font-size: 0.7rem;
@@ -163,27 +72,12 @@ const {
     color: var(--meta-color);
   }
 
+  .card-tipo {
+    font-weight: 700;
+    color: var(--text-color);
+  }
+
   .card-autor {
-    font-weight: 600;
-  }
-
-  .card-autor.autor-rio {
-    color: var(--secondary-color);
-  }
-
-  .card-autor.autor-ted {
     color: var(--meta-color);
-  }
-
-  .card-autor.autor-tyler {
-    color: #5a908b;
-  }
-
-  :global([data-theme="dark"]) .card-autor.autor-tyler {
-    color: #7ab5b0;
-  }
-
-  .card-autor.autor-craig {
-    color: var(--accent-color);
   }
 </style>

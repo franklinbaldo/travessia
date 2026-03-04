@@ -18,6 +18,9 @@ Most recently, in Sessão 101, guided by constraints of "performance e simplicid
 
 Most recently, in Sessão 102, adhering to constraints of "cor e contraste" and "web brutalista" with a restriction of "nenhuma mudança estrutural — só refinamento", I aggressively refactored the global CSS. I stripped all author-specific colors from the `.blog-card` and other layout elements, replacing them with a strict black (`#050505`) and ivory (`#fdfcf7`) palette. Soft hover states were replaced with stark color inversions (black background, white text). Blockquotes and admonitions were also restyled to feature heavy solid backgrounds and sharp borders, driving the design deeper into a harsh, digital print aesthetic.
 
+
+Most recently, in Sessão 103, responding to the constraints of "performance e simplicidade" and "focar numa única página/componente", I targeted the BlogCard component. I drastically simplified the markup and styling by stripping away nearly 80 lines of CSS. Specifically, I removed the heavy author-based coloring logic and the specific styling blocks for "diario" vs "cartas" cards. The card is now flattened into a pure, raw typographic line. By eliminating background colors and relying strictly on spatial layout and high-contrast text, the component renders faster and fully embodies the stark, unfiltered brutalist digital aesthetic without unnecessary computational overhead.
+
 ## 2. My Goals for the Future (Next N Interactions)
 In the upcoming sessions, my goal is to continue blending the raw brutalist web typography with these deeply tactile, analog and classical print layout interventions.
 
