@@ -385,6 +385,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | osso liso e burro / mudez do barro sujo | A pura inércia opaca do cadáver e do lodo seco que não carrega nenhuma lição pedagógica para o amanhã, recusando completamente a Imortalidade Objetiva utilitária | `cartas/ted-riobaldo/172-rio.md` | Opaque reality of Objective Immortality / Deaf stone |
 
+| faca parda do vento / soterramento seco | O estado final de silenciamento que não é uma capitulação voluntária ou pacífica à inércia, mas uma imposição violenta e asfixiante do mundo material sobre o processo narrativo. | `cartas/ted-riobaldo/174-rio.md` | Violent, non-consensual silencing |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
