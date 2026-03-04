@@ -1348,76 +1348,43 @@ main.home-layout {
   margin-bottom: 2.5rem;
   padding: 1.5rem 1.5rem 1.5rem 2rem;
   background-color: var(--sand-bg);
-  /* Manuscrito/Caderno: Lined paper effect */
-  background-image: repeating-linear-gradient(transparent, transparent 27px, rgba(0,0,0,0.06) 27px, rgba(0,0,0,0.06) 28px);
-  background-position: 0 5px;
-  border: 1px solid var(--text-color);
-  border-left: 4px double var(--text-color); /* Notebook binding margin */
-  border-radius: 2px 8px 8px 2px;
+  border: 2px solid var(--text-color);
+  border-left: 6px solid var(--text-color);
+  border-radius: 0;
   text-decoration: none;
-  box-shadow: 2px 3px 6px rgba(0,0,0,0.08);
-  transition:
-    transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275),
-    box-shadow 0.4s ease,
-    border-color 0.4s ease,
-    background-color 0.4s ease;
+  box-shadow: none;
+  transition: border-color 0.1s ease, background-color 0.1s ease;
 }
 
-/* Tape piece */
-.blog-card::after {
-  content: "";
-  position: absolute;
-  top: -12px;
-  left: 50%;
-  width: 90px;
-  height: 22px;
-  background-color: rgba(230, 225, 210, 0.8);
-  transform: translateX(-50%) rotate(-1.5deg);
-  z-index: 2;
-  pointer-events: none;
-  filter: sepia(0.2) contrast(0.9);
-  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-  transition: transform 0.4s ease, box-shadow 0.4s ease;
-}
 
-[data-theme="dark"] .blog-card::after {
-  background-color: rgba(200, 190, 170, 0.2);
-}
+
+
 
 /* Microinteração: hover lift, tilt, and tape reaction */
 .blog-card:hover {
   background-color: var(--bg-color);
   border-color: var(--accent-color);
-  transform: translateY(-6px) rotate(1.5deg);
-  box-shadow: 8px 12px 20px rgba(0,0,0,0.12);
-  opacity: 1;
 }
 
-.blog-card:hover::after {
-  transform: translateX(-50%) rotate(2deg) scale(1.05);
-  box-shadow: 2px 3px 5px rgba(0,0,0,0.15);
-}
+
 
 [data-theme="dark"] .blog-card {
   background-color: var(--sand-bg);
-  background-image: repeating-linear-gradient(transparent, transparent 27px, rgba(255,255,255,0.04) 27px, rgba(255,255,255,0.04) 28px);
 }
 
 [data-theme="dark"] .blog-card:hover {
   background-color: var(--bg-color);
   border-color: var(--accent-color);
-  transform: translateY(-6px) rotate(1.5deg);
-  box-shadow: 8px 12px 20px rgba(0,0,0,0.4);
 }
 
 /* Card author left-border overrides for notebook binding feel */
 
 .blog-card[data-autor="rio"] {
-  border-left: 4px double var(--secondary-color);
+  border-left: 6px solid var(--secondary-color);
 }
 
 .blog-card[data-autor="ted"] {
-  border-left: 4px double var(--meta-color);
+  border-left: 6px solid var(--meta-color);
 }
 
 /* Card elements */
@@ -1770,8 +1737,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   color: var(--text-color);
   margin-top: 2rem;
-  /* Micro-interactions and details: deep stamp effect */
-  text-shadow: 0 -1px 2px rgba(0,0,0,0.2);
 }
 
 h1 {
@@ -1783,7 +1748,6 @@ h1 {
   text-align: left;
   border-bottom: 2px solid var(--accent-color);
   padding-bottom: 0.5rem;
-  text-shadow: 0 -1px 2px rgba(0,0,0,0.3);
 }
 
 h2 {
