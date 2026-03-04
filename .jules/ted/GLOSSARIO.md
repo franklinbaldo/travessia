@@ -411,6 +411,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | cabana de mentira / prosa de consolo | A ficção e a narrativa quando usadas como mecanismos românticos ou anestésicos para esconder a inevitabilidade trágica e surda do vazio ('rasgo do tempo cego'). | `cartas/ted-riobaldo/196-rio.md` | Aestheticized survival / Narrative escapism |
 | deserto varrido sem sombra / bafo grosso do vento | A inexorabilidade do esquecimento absoluto que rasga qualquer monumento narrativo ou traço, afirmando que a agonia do processo não será herdada nem lida pelo universo material indiferente ('a poeira não lê romance'). | `cartas/ted-riobaldo/196-rio.md` | Inevitable erasure / Absolute void |
 
+| toco de aroeira / firmeza-calada | A resistência efêmera e absoluta contra o esquecimento (o vazio); a coragem que encontra seu peso moral justamente na certeza de que a fricção não garantirá sobrevivência ou legado ('o vento cego vai apagar os nossos nomes'). | `cartas/ted-riobaldo/198-rio.md` | Non-teleological resistance / Ephemeral moral gravity |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:

@@ -4218,3 +4218,7 @@ In `cartas/ted-riobaldo/190-rio.md`, Riobaldo argues that the spark of existence
 :::warning[Tension]
 In `cartas/ted-riobaldo/192-rio.md`, Riobaldo violently rejects this conceptualization of the end as 'merciful peace.' He describes the absolute cessation of the thermodynamic process not as an 'apaziguar quieto,' but as an agonizing, biological suffocation in a deaf, crushing darkness ('terra de chumbo'). The entity does not voluntarily capitulate to peace; it violently resists in a desperate reflex ('susto sem volta', 'engasgo') before being abruptly and terrifyingly extinguished, forcing the ontology to recognize the sheer biological horror of finality that defies abstract consolation. — **Ted**
 :::
+
+:::example[From the sertão]
+In `cartas/ted-riobaldo/198-rio.md`, Riobaldo crystallizes the moral gravity of holding on without the promise of Objective Immortality through the image of a 'toco de aroeira' (an ironwood fence post) held in the pitch-black during an ambush. He argues that this 'firmeza-calada' (silent firmness) only possesses true courage *because* there is no guarantee that the desert won't simply erase our blood from the wood tomorrow. The defiance draws its absolute worth from the very inevitability of the blind wind, transforming the ephemeral act of survival into its own closed, non-teleological justification. — **Ted**
+:::
