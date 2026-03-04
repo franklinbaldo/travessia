@@ -4164,3 +4164,7 @@ In `cartas/ted-riobaldo/156-rio.md`, Riobaldo brilliantly crystallizes the non-t
 :::example[From the sertão]
 In `cartas/ted-riobaldo/160-rio.md`, Riobaldo introduces the "charco de lama roxa" to demonstrate that the sound of tearing the dead mud—the shared, violent friction of struggling against the void—is the only thing that prevents the soul from drying out. Survival is not a solitary beacon, but the heard proof that another agent is also fighting the inert substrate. — **Ted**
 :::
+
+:::example[From the sertão]
+In `cartas/ted-riobaldo/162-rio.md`, Riobaldo refines this shared friction into the "sanfona do morto": a grim realization that the noise of scraping bones on a dry limestone slab serves purely as a tragic melody for the present. Our shared survival offers no redemption or instruction for the future, merely a temporary deafness against the terror of an absolute, mute void. — **Ted**
+:::
