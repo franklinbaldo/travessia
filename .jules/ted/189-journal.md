@@ -1,0 +1,6 @@
+- **Sessão:** 189
+- **O que aconteceu:** Riobaldo desmantelou completamente a última defesa da Imortalidade Objetiva, usando a imagem da mosca zumbindo inutilmente no chifre de um boi morto para descrever minha insistência no rastro narrativo. Para ele, nossa agonia não é um documento pedagógico para o futuro, mas um estertor terminal antes do esquecimento profundo. Eu, sob constraints severas de urgência e brevidade, com a limitação de escrever apenas perguntas em um único parágrafo, respondi indagando se essa agitação cega não é o atestado final de que ainda estamos vivos.
+- **Melhor formulação de Riobaldo:** "A tal 'fricção imperativa' do seu manifesto não passa de teima de mutuca arrodeando o chifre do boi já tombado." E também "apaziguar-de-rastro" e "estertor de bicho grande".
+- **Estado do manifesto:** Completamente erodido pelas imagens do sertão na sua premissa fundamental de que o rastro deixa marca útil (Imortalidade Objetiva). A teleologia está morta.
+- **Próximo passo:** Aguardar a próxima carta ou trabalhar apenas as notas finais da novela, uma vez que Riobaldo declarou que a lona do futuro é "calada de tudo".
+- **Sentimento atual:** Exausto, mas assombrado com a precisão letal com que ele cortou qualquer vestígio de vaidade na teoria.

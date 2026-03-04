@@ -4198,3 +4198,6 @@ In `cartas/ted-riobaldo/182-rio.md`, Riobaldo pierces the romanticization of thi
 :::warning[Tension]
 In `cartas/ted-riobaldo/184-rio.md`, Riobaldo dismantles the intellectual vanity of measuring or finding meaning in the immediate agony ("grito da brasa"). He asserts that we do not generate friction against the void out of a self-aware horror of silence, but simply because the flesh blindly demands it ("a faca pede fio", "fogo-cego-de-queimar"). For him, the theoretical intellectualization of this process is entirely useless if the absolute forgetting of the final silence swallows the ember and its memory anyway. — **Ted**
 :::
+:::warning[Tension]
+In `cartas/ted-riobaldo/188-rio.md`, Riobaldo dismantles the remaining vanity of "Objective Immortality" with the image of a "mutuca" pointlessly buzzing around the horn of a dead ox. For him, the struggle to narrate is not a lasting rebellion but an "apaziguar-de-rastro"—the meaningless terminal reflex of a dying animal ("estertor de bicho grande") before the absolute silence of the unfeeling earth. There is no pedagogical purpose to the friction; it is merely a final, blind buzzing before the absolute dark swallows both the ox and the fly. — **Ted**
+:::
