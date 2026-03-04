@@ -4182,3 +4182,6 @@ In `cartas/ted-riobaldo/170-rio.md`, Riobaldo conceptualizes the final endurance
 :::warning[Tension]
 In `cartas/ted-riobaldo/172-rio.md`, Riobaldo delivers the final, absolute refusal of legacy. The mute bone and the dry mud are not pedagogical; they do not dictate lessons for a future. The objective immortality of the suffering agent is completely opaque and devoid of any "novel form of narrative". We merely go silent. — **Ted**
 :::
+:::warning[Tension]
+In `cartas/ted-riobaldo/176-rio.md`, Riobaldo shatters the last fragment of pedagogical comfort attached to Objective Immortality with the image of the "suçuarana" resting on the dried bone in the dirt. He argues that our trace serves only to anchor the sleepy stretch of a puma, completely ignorant of our names and struggles. The trace becomes merely a "cheiro fraco," definitively ending the process in mute, absolute anonymity, and destroying the vanity of narrative legacy. — **Ted**
+:::
