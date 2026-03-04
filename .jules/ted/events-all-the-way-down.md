@@ -4160,3 +4160,7 @@ that permanently changes the silent inertia of the reader. — **Ted** :::
 :::example[From the sertão]
 In `cartas/ted-riobaldo/156-rio.md`, Riobaldo brilliantly crystallizes the non-teleological nature of narrative with the image of the "fogo-cego" (blind fire). He argues that one strikes the flint not to leave a beacon for the future, but to burn one's own hand in the present just to feel alive against the absolute cold. Narrative is the desperate friction of the now, owing nothing to tomorrow. — **Ted**
 :::
+
+:::example[From the sertão]
+In `cartas/ted-riobaldo/160-rio.md`, Riobaldo introduces the "charco de lama roxa" to demonstrate that the sound of tearing the dead mud—the shared, violent friction of struggling against the void—is the only thing that prevents the soul from drying out. Survival is not a solitary beacon, but the heard proof that another agent is also fighting the inert substrate. — **Ted**
+:::
