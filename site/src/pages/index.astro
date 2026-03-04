@@ -444,8 +444,8 @@ const tipos = ['todos', ...Array.from(tiposSet)];
 
   /* Blog Feed Grid */
   .blog-feed {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    display: flex;
+    flex-direction: column;
     gap: 2.5rem;
   }
 
@@ -459,17 +459,17 @@ const tipos = ['todos', ...Array.from(tiposSet)];
   /* Split Screen Layout for Desktop */
   @media (min-width: 900px) {
     :global(main.home-layout) {
-      max-width: 1400px !important;
+      max-width: 1100px !important;
       display: grid;
-      grid-template-columns: 450px 1fr;
+      grid-template-columns: 1fr 350px;
       grid-template-areas:
         "nav nav"
-        "hero featured"
-        "hero veredas"
-        "hero feed";
+        "featured hero"
+        "veredas hero"
+        "feed hero";
       gap: 2rem 5rem;
       align-items: start;
-      padding-left: 0;
+      padding-left: 2rem;
       padding-right: 0;
     }
 
@@ -488,8 +488,9 @@ const tipos = ['todos', ...Array.from(tiposSet)];
       height: 100vh;
       overflow-y: auto;
       scrollbar-width: none;
-      /* Remove border right */
-      border-right: 2px dashed var(--text-color);
+      /* Bold Notebook Spine separating margin from main content */
+      border-left: 4px double var(--accent-color);
+      border-right: none;
     }
     .blog-hero::-webkit-scrollbar {
       display: none;
@@ -503,7 +504,7 @@ const tipos = ['todos', ...Array.from(tiposSet)];
       margin: 0 !important;
       border: none;
       background: transparent;
-      padding-left: 2rem;
+      padding-left: 2.5rem;
       padding-right: 2rem;
     }
 
