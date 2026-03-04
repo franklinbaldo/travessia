@@ -52,6 +52,24 @@
 
 /* === Base === */
 
+/* === Global Brutalist Cursor === */
+body {
+  cursor: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%3E%3Crect%20width%3D%2210%22%20height%3D%2210%22%20fill%3D%22black%22/%3E%3Crect%20x%3D%222%22%20y%3D%222%22%20width%3D%226%22%20height%3D%226%22%20fill%3D%22white%22/%3E%3C/svg%3E'), auto;
+}
+
+a, button, .vereda, .blog-card, .featured-post, .timeline-dot {
+  cursor: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%3E%3Crect%20width%3D%2212%22%20height%3D%2212%22%20fill%3D%22red%22/%3E%3Crect%20x%3D%222%22%20y%3D%222%22%20width%3D%228%22%20height%3D%228%22%20fill%3D%22white%22/%3E%3C/svg%3E'), pointer;
+}
+
+[data-theme="dark"] body {
+  cursor: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%3E%3Crect%20width%3D%2210%22%20height%3D%2210%22%20fill%3D%22white%22/%3E%3Crect%20x%3D%222%22%20y%3D%222%22%20width%3D%226%22%20height%3D%226%22%20fill%3D%22black%22/%3E%3C/svg%3E'), auto;
+}
+
+[data-theme="dark"] a, [data-theme="dark"] button, [data-theme="dark"] .vereda, [data-theme="dark"] .blog-card, [data-theme="dark"] .featured-post, [data-theme="dark"] .timeline-dot {
+  cursor: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%3E%3Crect%20width%3D%2212%22%20height%3D%2212%22%20fill%3D%22red%22/%3E%3Crect%20x%3D%222%22%20y%3D%222%22%20width%3D%228%22%20height%3D%228%22%20fill%3D%22black%22/%3E%3C/svg%3E'), pointer;
+}
+
+
 ::selection {
   background-color: var(--text-color);
   color: var(--bg-color);
@@ -1218,22 +1236,24 @@ main.home-layout {
   padding: 0.35rem 0.9rem; border-radius: 0;
   cursor: pointer;
   white-space: nowrap;
-  transition:
-    background-color 0.3s ease,
-    border-color 0.3s ease,
-    color 0.3s ease;
+  box-shadow: 3px 3px 0 var(--text-color);
+  transition: none; /* brutalist: no ease */
 }
 
 .vereda:hover {
   background-color: var(--text-color);
   border-color: var(--text-color);
   color: var(--bg-color);
+  transform: translate(-2px, -2px);
+  box-shadow: 5px 5px 0 var(--accent-color);
 }
 
-.vereda.active {
+.vereda.active, .vereda:active {
   background: var(--text-color);
   border-color: var(--text-color);
   color: var(--bg-color);
+  transform: translate(3px, 3px);
+  box-shadow: 0 0 0 var(--text-color);
 }
 
 /* === Blog Feed — Masonry Layout === */
@@ -1258,10 +1278,8 @@ main.home-layout {
   margin-bottom: 2rem;
   padding: 1.75rem 2rem; border: 2px solid var(--text-color); border-radius: 0;
   text-decoration: none; border-left: 2px solid var(--text-color);
-  transition:
-    background-color 0.4s ease,
-    border-color 0.4s ease,
-    transform 0.25s ease;
+  box-shadow: 8px 8px 0 var(--text-color);
+  transition: none; /* brutalist */
 }
 
 .featured-post::before {
@@ -1295,8 +1313,14 @@ main.home-layout {
   background: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  transform: translateY(-3px);
+  transform: translate(-2px, -2px);
+  box-shadow: 10px 10px 0 var(--accent-color);
   opacity: 1;
+}
+
+.featured-post:active {
+  transform: translate(8px, 8px);
+  box-shadow: 0 0 0 var(--text-color);
 }
 
 .featured-label {
@@ -1335,8 +1359,8 @@ main.home-layout {
   border-left: 6px solid var(--text-color);
   border-radius: 0;
   text-decoration: none;
-  box-shadow: none;
-  transition: border-color 0.1s ease, background-color 0.1s ease;
+  box-shadow: 6px 6px 0 var(--text-color);
+  transition: none; /* brutalist */
 }
 
 
@@ -1348,18 +1372,13 @@ main.home-layout {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
+  transform: translate(-2px, -2px);
+  box-shadow: 8px 8px 0 var(--accent-color);
 }
 
-
-
-[data-theme="dark"] .blog-card {
-  background-color: var(--sand-bg);
-}
-
-[data-theme="dark"] .blog-card:hover {
-  background-color: var(--text-color);
-  color: var(--bg-color);
-  border-color: var(--text-color);
+.blog-card:active {
+  transform: translate(6px, 6px);
+  box-shadow: 0 0 0 var(--text-color);
 }
 
 /* Card author left-border overrides for notebook binding feel */
@@ -1620,11 +1639,8 @@ main.home-layout {
   font-size: 0.75rem;
   font-weight: 600;
   text-decoration: none;
-  transition:
-    background-color 0.3s ease,
-    border-color 0.3s ease,
-    transform 0.2s ease,
-    box-shadow 0.3s ease;
+  box-shadow: 4px 4px 0 var(--text-color);
+  transition: none; /* brutalist */
 }
 
 .timeline-dot.ted {
@@ -1636,41 +1652,73 @@ main.home-layout {
 }
 
 .timeline-dot:hover {
-  transform: translateY(-3px);
+  transform: translate(-2px, -2px);
   background: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
+  box-shadow: 6px 6px 0 var(--accent-color);
 }
 
-.timeline-dot:active {
-  transform: translateY(1px);
-
-}
 
 .timeline-dot.current {
   background: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
   font-weight: 700;
-  transform: translateY(2px);
+  transform: translate(4px, 4px);
+  box-shadow: 0 0 0 var(--text-color);
 }
 
 [data-theme="dark"] .timeline-dot.current {
-}
-
-[data-theme="dark"] .timeline-dot {
-}
-
-[data-theme="dark"] .timeline-dot:hover {
-  transform: translateY(-3px);
   background: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
 }
 
-.timeline-dot:active {
-  transform: translateY(1px);
+[data-theme="dark"] .timeline-dot {
+  background: var(--sand-bg);
+  color: var(--text-color);
+  border-color: var(--text-color);
+}
 
+[data-theme="dark"] .timeline-dot:hover {
+  transform: translate(-2px, -2px);
+  background: var(--text-color);
+  color: var(--bg-color);
+  border-color: var(--text-color);
+  box-shadow: 6px 6px 0 var(--accent-color);
+}
+
+.timeline-dot:active {
+  transform: translate(4px, 4px);
+  box-shadow: 0 0 0 var(--text-color);
+}
+
+@media (max-width: 600px) {
+  .timeline-dot {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  flex-shrink: 0; border-radius: 0; border: 2px solid var(--text-color);
+  background: var(--sand-bg);
+  color: var(--text-color);
+  font-family: var(--font-meta);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-decoration: none;
+  box-shadow: 4px 4px 0 var(--text-color);
+  transition: none; /* brutalist */
+}
+}
+
+/* === Accessibility === */
+*:focus-visible {
+  outline: 4px solid var(--accent-color);
+  outline-offset: 0;
+  background-color: var(--text-color) !important;
+  color: var(--bg-color) !important;
 }
 
 @media (max-width: 600px) {
@@ -1679,10 +1727,4 @@ main.home-layout {
     height: 2.2rem;
     font-size: 0.65rem;
   }
-}
-
-/* === Accessibility === */
-*:focus-visible {
-  outline: 2px solid var(--accent-color);
-  outline-offset: 3px;
 }
