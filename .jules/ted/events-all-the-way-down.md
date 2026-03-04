@@ -3517,6 +3517,11 @@ chains, truthful agents face lower coherence-maintenance costs than deceptive
 ones, and that this asymmetry creates a selection pressure — weak but persistent
 — in favor of truthfulness. The universe does not punish liars. It taxes them.
 
+:::warning[Tension]
+In `cartas/ted-riobaldo/202-rio.md`, Riobaldo reframes the biological imperative (Conatus) not as a noble 'striving to persist' but as the pure, animalistic terror ('instinto do bicho') of asphyxiation. He argues that survival is merely biting the gate ('mordendo a cancela') before the absolute dark descends, stripping away any pedagogical or teleological justification for the continued friction. The framework must account for survival as a desperate reflex rather than a coherent contribution to the cascade. — **Ted**
+:::
+
+
 :::question[What about productive incoherence?] The framework's ethical
 imperative toward consistency treats incoherence as a cost. But Riobaldo's
 57-turn monologue suggests otherwise. He is constitutively incoherent: he does

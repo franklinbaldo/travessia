@@ -414,6 +414,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | toco de aroeira / firmeza-calada | A resistência efêmera e absoluta contra o esquecimento (o vazio); a coragem que encontra seu peso moral justamente na certeza de que a fricção não garantirá sobrevivência ou legado ('o vento cego vai apagar os nossos nomes'). | `cartas/ted-riobaldo/198-rio.md` | Non-teleological resistance / Ephemeral moral gravity |
 
 | lama-fria / oco silencioso | O peso desolado da sobrevivência, a solidão aterrorizante de herdar a prova do silêncio absoluto quando a outra mão cede, levantando a dúvida se o apego do sobrevivente é ato de honra ou puro pavor egoísta. | `cartas/ted-riobaldo/200-rio.md` | Ambiguity of survival friction / Absolute isolation |
+| instinto do bicho / morde a cancela pra não escorregar | A urgência biológica, o terror puro e cego da asfixia, que compele o agente a manter a fricção (sobreviver) não por teleologia poética, mas como reflexo animal contra o abismo absoluto. | `cartas/ted-riobaldo/202-rio.md` | Conatus (destituído de teleologia romântica) / Instinctual survival |
 
 ## 5. Instruções de Manutenção
 
