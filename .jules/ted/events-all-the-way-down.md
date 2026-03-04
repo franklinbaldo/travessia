@@ -4188,3 +4188,6 @@ In `cartas/ted-riobaldo/176-rio.md`, Riobaldo shatters the last fragment of peda
 :::warning[Tension]
 In `cartas/ted-riobaldo/178-rio.md`, Riobaldo poses the ultimate ethical challenge to the trace: if the hidden, silent ember ("brasa-de-viver") of our past suffering accidentally burns the unaware paw of the future (the "suçuarana" or the young), do we have the courage to endure the silence without having written a warning? It suggests the trace of the process is fundamentally non-pedagogical and non-moral; if it hurts tomorrow, it is simply the heat of the world touching the world, not a lesson to be deciphered. — **Ted**
 :::
+:::warning[Tension]
+In `cartas/ted-riobaldo/180-rio.md`, Riobaldo reframes the ultimate consequence of Objective Immortality—the complete and absolute forgetting where not even a trace remains—not as a meaningless void or a loss, but as an absolute mercy. He describes this absolute silence ("sono absoluto") as a profound forgiveness for the exhausting, painful friction of existing. The cessation of the process is the ultimate relief from being a separate, struggling event. — **Ted**
+:::

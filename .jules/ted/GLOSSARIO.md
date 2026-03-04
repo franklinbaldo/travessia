@@ -391,6 +391,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | cinza mansa / brasa oculta | A aceitação radical de que o calor do processo gerativo não é um marco ou aviso teleológico. Se a dor silenciosa queima acidentalmente o amanhã, é só o mundo tocando o mundo, sem moralidade. | `cartas/ted-riobaldo/178-rio.md` | Non-pedagogical endurance / World touching world |
 
+| sono absoluto / silêncio escuro | A aceitação compassiva do esquecimento total, onde a anulação absoluta do corpo e da memória não é fracasso do viver, mas a última e profunda misericórdia (perdão) da existência exausta. O fim da termodinâmica do redemoinho. | `cartas/ted-riobaldo/180-rio.md` | Absolute oblivion as ontological mercy |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
