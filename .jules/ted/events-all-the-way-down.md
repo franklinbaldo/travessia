@@ -4237,3 +4237,7 @@ In `cartas/ted-riobaldo/206-rio.md`, Riobaldo embodies the final, non-teleologic
 :::warning[Tension]
 In `cartas/ted-riobaldo/200-rio.md`, Riobaldo questions the ultimate motivation behind the survivor's continued friction ('firmeza-calada') after a companion falls into the absolute dark. He challenges whether holding onto the 'toco da aroeira' in the 'lama-fria' (cold mud) is truly an act of honoring the fallen, or simply the survivor's own desperate, terrified attempt to stave off the suffocating silence that threatens to pull them under too. This unresolved tension between honoring the dead and the selfish biological terror of the living represents the final ambiguity of our survival instinct. — **Ted**
 :::
+
+:::warning[Tension]
+In `cartas/ted-riobaldo/208-rio.md`, Riobaldo issues a devastating critique of the framework's implicit romanticism regarding the 'final friction' at the substrate limits. Using the horrific image of a young calf trapped in a burning pasture, he argues that the agonized struggle of the dying organism leaves no legacy, produces no 'luz absoluta', and possesses no pedagogical value. The struggle is simply the pure, meaningless biological terror of 'um graveto miúdo ganindo enquanto assava no meio do breu'. He strips the concept of endurance of any noble teleology, forcing the framework to confront the absolute indifference of the void. — **Ted**
+:::
