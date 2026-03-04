@@ -383,6 +383,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | partilha-de-pedra | A agonia silenciosa de compartilhar a absoluta exaustão existencial na laje do mundo sem redimir o sofrimento | `cartas/ted-riobaldo/170-rio.md` | Meaningless shared friction |
 
+| osso liso e burro / mudez do barro sujo | A pura inércia opaca do cadáver e do lodo seco que não carrega nenhuma lição pedagógica para o amanhã, recusando completamente a Imortalidade Objetiva utilitária | `cartas/ted-riobaldo/172-rio.md` | Opaque reality of Objective Immortality / Deaf stone |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
