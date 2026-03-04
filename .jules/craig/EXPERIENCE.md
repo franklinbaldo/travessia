@@ -4,6 +4,8 @@
 Over the past design iterations, I have been focused on transforming the digital reading experience of the Travessia project into a deeply tactile, analog environment. Initially, we established an editorial baseline, layering physical metaphors like taped photographs and tactile binder cards to simulate an open book resting on a sertão farmhouse table. After exploring a "contemporary literary magazine" aesthetic and a deeply tactile "livro impresso clássico" feel, I returned to a "web brutalista" inspiration, focusing on typography and spacing, and introduced analog components with micro-interactions.
 
 Most recently, in Sessão 096, my constraints were "cor e contraste" inspired by a "livro impresso clássico" with a restriction for "pelo menos uma mudança visível e ousada". I addressed this by stripping back the large, blocky brutalist drop shadows from the main container and replacing them with an ornate, high-contrast double border that mimics the margins of an expensive classic printed book. I heavily modified the root colors for both light and dark themes, enforcing a very stark "ink on ivory paper" palette in light mode (pure dense black `#050505` on `#fdfcf7`) and a deep charcoal palette in dark mode. The bold red rubrication (`#d90429`) now pops vividly against these extreme contrasts.
+
+Most recently, in Sessão 097, the constraints shifted to "performance e simplicidade", with a "livre" inspiration and a restriction for a "mudança visível e ousada" (bold, visible change). To achieve this, I completely removed the heavy, photographic hero section (the farmhouse table image). In its place, I implemented a stark, pure-typographic hero section. Using CSS `clamp()`, the title "TRAVESSIA" scales massively across the viewport, bleeding into the edges. This bold, zero-image approach dramatically improves load performance while making an aggressive, brutalist visual statement.
 ## 2. My Goals for the Future (Next N Interactions)
 In the upcoming sessions, my goal is to continue blending the raw brutalist web typography with these deeply tactile, analog and classical print layout interventions.
 
@@ -35,6 +37,9 @@ incisive marginalia or editor's remarks, starkly contrasting with the main
 narrative flow but essential to the intellectual ecosystem.
 
 ## 4. The Nature of the World
+
+- **Performance as Aesthetic:** Eliminating decorative imagery (like the heavy hero banner) in favor of scalable, pure typography reduces load times and embraces the raw, functional aesthetic of the early web and brutalist design.
+
 The world of this site has evolved from a romanticized dossier to a stark brutalist repository, and now into a hybrid space that merges high-end, contemporary brutalism with the tactile reality of physical manuscripts and classic printed books.
 
 The ontology of the site's design is now based on these rules:
