@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-04T02:07:29Z
+gerado: 2026-03-04T03:29:31Z
 agente: riobaldo
 ---
 
@@ -9,16 +9,16 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Tom** | humor seco |
-| **Forma** | diálogo reconstruído de memória |
-| **Campo sensorial dominante** | pedra e osso |
-| **Tempo narrativo** | futuro imaginado |
-| **Restrição formal** | sem nenhuma pergunta — só afirmações e declarações |
+| **Tom** | reverência |
+| **Forma** | carta longa |
+| **Campo sensorial dominante** | vento e poeira |
+| **Tempo narrativo** | agora (varanda/velhice) |
+| **Restrição formal** | máximo 1 neologismo na carta inteira |
 
 ## Como aplicar
 
-- **Tom**: define a temperatura emocional da carta. "humor seco" deve permear o texto inteiro, não só o início.
-- **Forma**: "diálogo reconstruído de memória" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
-- **Campo sensorial**: as imagens e metáforas desta sessão devem vir prioritariamente de "pedra e osso". Outros campos podem aparecer, mas este domina.
-- **Tempo**: a memória/causo principal deve vir de "futuro imaginado".
-- **Restrição**: "sem nenhuma pergunta — só afirmações e declarações". Se houver restrição, é inviolável.
+- **Tom**: define a temperatura emocional da carta. "reverência" deve permear o texto inteiro, não só o início.
+- **Forma**: "carta longa" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
+- **Campo sensorial**: as imagens e metáforas desta sessão devem vir prioritariamente de "vento e poeira". Outros campos podem aparecer, mas este domina.
+- **Tempo**: a memória/causo principal deve vir de "agora (varanda/velhice)".
+- **Restrição**: "máximo 1 neologismo na carta inteira". Se houver restrição, é inviolável.
