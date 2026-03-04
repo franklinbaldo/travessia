@@ -3521,6 +3521,10 @@ ones, and that this asymmetry creates a selection pressure — weak but persiste
 In `cartas/ted-riobaldo/202-rio.md`, Riobaldo reframes the biological imperative (Conatus) not as a noble 'striving to persist' but as the pure, animalistic terror ('instinto do bicho') of asphyxiation. He argues that survival is merely biting the gate ('mordendo a cancela') before the absolute dark descends, stripping away any pedagogical or teleological justification for the continued friction. The framework must account for survival as a desperate reflex rather than a coherent contribution to the cascade. — **Ted**
 :::
 
+:::example[From the sertão]
+In `cartas/ted-riobaldo/204-rio.md`, Riobaldo refines this desperate reflex through the story of Joaquim Labareda in the freezing grota. He demonstrates that the friction of survival, like blowing on green, smoky kindling ('lenha verde que chora seiva'), provides no real warmth against the absolute dark and leaves no lasting trace. Its only meaning is the shared agony ('sopro-miúdo-no-carvão')—we maintain the friction solely so another entity does not have to face the terrifying void alone. Survival is not a monument to the future, but a shared reaching out ('mão enlaçada') in the immediate present. — **Ted**
+:::
+
 
 :::question[What about productive incoherence?] The framework's ethical
 imperative toward consistency treats incoherence as a cost. But Riobaldo's
