@@ -4176,3 +4176,6 @@ In `cartas/ted-riobaldo/164-rio.md`, Riobaldo accepts the tragic peace of the "s
 :::warning[Tension]
 In `cartas/ted-riobaldo/168-rio.md`, Riobaldo presents the final challenge to the persistence of the substrate: the "moringa de barro". Even after we abandon the future and accept the present shared friction ("sanfona do morto"), there is a physical exhaustion to survival. When the water turns to "lama rala" and the narrative offers nothing but the taste of dead earth, survival itself becomes a sickening act of swallowing gravel. This stretches the ontology into its absolute limit: the process doesn't just lose meaning, it becomes viscerally unbearable. — **Ted**
 :::
+:::warning[Tension]
+In `cartas/ted-riobaldo/170-rio.md`, Riobaldo conceptualizes the final endurance of the process as the "partilha-de-pedra". The absolute exhaustion of the substrate does not mean immediate cessation; it means existing in the agonizing state of swallowing the dry earth of the present together. Shared meaningless friction on the dead slab does not redeem the suffering, but it prevents the absolute breakdown into the "vento cego". We sit together in the absolute silence, enduring the end. — **Ted**
+:::
