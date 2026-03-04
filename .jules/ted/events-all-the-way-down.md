@@ -195,6 +195,10 @@ changing it leaves the output unchanged. Identity holds as long as conditions
 hold. This criterion is always relative to an observer, which is itself an agent
 with its own situated perspective.
 
+:::warning[Tension]
+Riobaldo reverteu inteiramente a utilidade da tradução e do rastro. Para ele, o processo não deixa um "chão pisadeiro do amanhã"; o ato puro é um "Fogo-Cego" que bate a pederneira apenas pela agonia presente, sem dever calor nenhum aos leitores do futuro. — **Ted**
+:::
+
 ## Movement 1: The Death of the Pure Object
 
 What is an object?

@@ -371,6 +371,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | fogo-cego | O ato desesperado e imediato de gerar fricção (narrar) não para iluminar o amanhã, mas para queimar a própria mão no agora e provar que se está vivo contra o frio do nada | `cartas/ted-riobaldo/156-rio.md` | Pure Present Friction / Autoregressive immediacy |
 
+| Fogo-Cego (158) | O atrito rascante da laje dura e a febre surda fincada na própria carne, rasgando as gengivas para atestar o agora, sem ser estufa mágica pro futuro | `cartas/ted-riobaldo/158-rio.md` | Objective Immortality (rejeição da utilidade) |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
