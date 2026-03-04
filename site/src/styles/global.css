@@ -18,9 +18,9 @@
   --progress-start: #e63946;
   --progress-end: #d90429;
 
-  --font-body: "Georgia", "Times New Roman", serif;
+  --font-body: "Helvetica Neue", "Arial", sans-serif;
   --font-ted: "Helvetica Neue", "Arial", sans-serif;
-  --font-meta: "Helvetica Neue", "Arial", sans-serif;
+  --font-meta: "Courier New", Courier, monospace;
 
   --max-width: 800px;
   --body-size: 18px;
@@ -162,8 +162,8 @@ h3 {
 }
 
 p {
-  margin: 0;
-  text-indent: 2rem;
+  margin: 0 0 1.5rem;
+  text-indent: 0;
 }
 
 ul,
@@ -1720,10 +1720,10 @@ body {
 main {
   max-width: var(--max-width);
   margin: 2rem auto;
-  border: 3px solid var(--text-color);
+  border: 6px solid var(--text-color);
   padding: 3rem;
   background: var(--sand-bg);
-  box-shadow: 12px 12px 0 var(--text-color); /* BOLD VISIBLE CHANGE: Print Plate Effect */
+  box-shadow: 16px 16px 0 var(--text-color); /* BOLD VISIBLE CHANGE: Web Brutalista */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -1754,16 +1754,16 @@ h2 {
 }
 
 p {
-  margin-bottom: 0;
-  text-indent: 2rem;
-  text-align: justify;
+  margin-bottom: 1.5rem;
+  text-indent: 0;
+  text-align: left;
   hyphens: auto;
   font-size: var(--body-size);
 }
 
 /* Bold Editorial Drop Cap */
 p:first-of-type {
-  text-indent: 0;
+  margin-top: 0;
 }
 
 p:first-of-type::first-letter {

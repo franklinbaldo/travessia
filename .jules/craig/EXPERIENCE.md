@@ -4,11 +4,9 @@
 
 Over the past design iterations, I have been focused on transforming the digital reading experience of the Travessia project into a deeply tactile, analog environment. Initially, we established an editorial baseline, layering physical metaphors like taped photographs and tactile binder cards to simulate an open book resting on a sertão farmhouse table.
 
-After a brief brutalist phase, the design evolved to embody a "contemporary literary magazine" aesthetic. I introduced an off-white, textured background (`#f8f7f5`), bold serif drop caps, and replaced stark borders with vibrant, heavy red accents (`#e63946`). This bridges the rawness of brutalism with the sophisticated warmth of a high-end journal.
+After exploring a "contemporary literary magazine" aesthetic and a deeply tactile "livro impresso clássico" feel, I have now been tasked (Sessão 094) to return to a "web brutalista" inspiration, specifically focusing on "tipografia e espaçamento" without changing the underlying DOM structure.
 
-Most recently, guided by "performance e simplicidade", I stripped back heavy DOM effects to ensure a smooth read. Then, leaning into "layout e estrutura" and typography, I introduced a sans-serif for Ted and an oversized drop-cap for Riobaldo.
-
-In my latest session (Sessão 093), acting upon the "cor e contraste" constraint with the inspiration of a "livro impresso clássico", I radically shifted the palette to anchor the blog in the physicality of an antique book. I used a warm antique paper tone (`#f3ecd8`) and a dense black ink (`#0a0a0a`). To satisfy the requirement for a bold visual change, I introduced a heavy, non-blurred offset `box-shadow` (`12px 12px 0 var(--text-color)`) to the main reading container to simulate the tactile relief of a physical woodblock or printing plate. Finally, I honored the tradition of manuscript rubrication by applying a carmine red (`#b01b1b`) to all `h1` headings. The letters now carry literal visual weight.
+To achieve this, I stripped away the classic printed book styling. I replaced the traditional serif typography with stark system sans-serif (`"Helvetica Neue", "Arial", sans-serif`) for the body and a dense monospace (`"Courier New", Courier, monospace`) for meta text. Crucially, I removed traditional print indentation (`text-indent: 2rem`), opting instead for standard web spacing (`margin-bottom: 1.5rem`) with left-aligned paragraphs. I also intensified the physical container, increasing the main wrapper's border to `6px` and pushing the hard offset `box-shadow` to `16px`, anchoring the content in a raw, unapologetic brutalist framework that feels natively digital rather than a simulation of print.
 
 
 ## 2. My Goals for the Future (Next N Interactions)
@@ -46,11 +44,11 @@ narrative flow but essential to the intellectual ecosystem.
 
 ## 4. The Nature of the World
 
-The world of this site has evolved from a romanticized dossier to a stark brutalist repository, and now into a high-end, contemporary literary magazine that embraces bold, graphic poster sensibilities and physical weight.
+The world of this site has evolved from a romanticized dossier to a stark brutalist repository, and now into a high-end, contemporary literary magazine that embraces bold, graphic poster sensibilities and physical weight, returning once more to a raw brutalism.
 
-The ontology of the site's design is now based on these editorial rules:
+The ontology of the site's design is now based on these brutalist web rules:
 
-- **Curated Elegance:** The design is deliberate, using classical typesetting rules (justified text, strict indents, hyphenation) combined with bold editorial contrast to elevate the text. It is a carefully typeset publication, not just a pile of papers.
-- **Color as Punctuation & Block:** The vibrant red (`#ff3040`) and deep blacks act as structural punctuation—framing the document, highlighting drop caps, and serving as solid blocks of high-contrast ink (e.g., solid text selection, heavy borders). The contrast ratio is deliberately pushed to print-like extremes.
-- **The Tension of Forms:** The design balances the sophisticated, clean lines of contemporary publishing with the raw, visceral content of the sertão narrative. It is a polished lens focusing on a rugged reality.
+- **Raw Digital Native Typography:** The design rejects print-based metaphors (like serif fonts and paragraph indents) in favor of stark, unpolished digital defaults—sans-serif text, flush left alignment, and distinct vertical spacing (`margin-bottom`). The web is treated as the web, not as paper.
+- **Aggressive Containers:** Elements are not softly framed; they are contained within heavy (`6px`), high-contrast borders with massive (`16px`), unblurred drop shadows. This gives structural elements a physical, block-like presence that demands attention.
+- **Color as Punctuation & Block:** The vibrant red (`#ff3040`) and deep blacks act as structural punctuation—framing the document, highlighting drop caps, and serving as solid blocks of high-contrast ink. The contrast ratio is deliberately pushed to print-like extremes.
 - **Gravitational Micro-interactions:** The digital interface responds to interaction with tactile, physical feedback. Hovering introduces hard, unblurred shadows that lift elements like solid printed cards, while active states physically depress buttons by zeroing out shadows. It replaces the ethereal web with the mechanical and tangible.
