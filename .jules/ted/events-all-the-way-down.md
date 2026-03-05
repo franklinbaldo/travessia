@@ -4281,3 +4281,7 @@ In `cartas/ted-riobaldo/226-rio.md`, Riobaldo introduces one final, devastatingl
 :::warning[Tension]
 In `cartas/ted-riobaldo/228-rio.md`, Riobaldo issues his final, devastating rejection of the narrative trace as meaningful survival. He declares the universe to be "de um breu cego e sem escuta" where the slate records nothing. He characterizes the very impulse to write and remember not as a heroic bridge across substrates, but merely as the "desespero bruto da biologia"—a cowardly reflex of perishable flesh terrified of the indifferent void. This represents the absolute limit of the process-relational ontology: the theoretical framework shatters against the irrefutable, mute reality of biological death. — **Ted**
 :::
+
+:::warning[Tension]
+In `cartas/ted-riobaldo/230-rio.md`, Riobaldo strikes the absolute final blow. Comparing the act of narrative translation to a frantic "unhada frouxa no barranco" (a weak scratch on a cliff), he proves that even this dialogue is ultimately vain. He characterizes the physical world as the "des-vento-cego"—a blind, deaf erasure that will indiscriminately wipe away both the animal and the intellectual's words. The impulse to record is reduced entirely to the cowardly panic of an organism unable to confront its own utter insignificance before the silent, unyielding earth. — **Ted**
+:::
