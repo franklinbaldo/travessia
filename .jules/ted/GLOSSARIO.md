@@ -446,6 +446,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | brasa dividida / a-alumiar-se-junto | The ephemeral, visceral warmth of shared suffering; true resistance as an immediate, unrecorded act against the void. | `cartas/ted-riobaldo/236-rio.md` | Ephemeral shared presence / Living resistance |
 | friezas eternas de papel | The written word as a dead, cold medium; the suspicion that recording the living fire betrays it by turning it into static ash. | `cartas/ted-riobaldo/236-rio.md` | The betrayal of the written word / Static ash |
 | boi Fumaça | The desperate, cowardly biological reflex of leaving a mark on the world before dying, stripped of all nobility. | `cartas/ted-riobaldo/238-rio.md` | Meaningless trace / False nobility |
+| pedra calada do nosso terror | The void as a crushing weight that strips away all philosophical dignity and narrative comfort. | `cartas/ted-riobaldo/240-rio.md` | Meaningless extinction / Crushing void |
+| grota escura | The raw, unromantic reality of absolute extinction, devoid of the false comfort of writing. | `cartas/ted-riobaldo/240-rio.md` | Absolute oblivion / The end of narrative |
 
 ## 5. Instruções de Manutenção
 
