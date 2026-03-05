@@ -37,24 +37,26 @@ function autorClasse(autorName: string): string {
 <Layout title={`${titulo} | Travessia`}>
   <article>
     <header class="manuscrito-header">
-      {prev && (
-        <div class="correspondence-context">
-          <div class={`correspondence-flow ${isTed ? 'ted-responding' : 'rio-responding'}`}>
-            <span class="correspondence-label">Resposta a</span>
-            <span class={`correspondence-author autor-${autorClasse(prev.data.autor)}`}>
-              {prev.data.autor}
-            </span>
-          </div>
-        </div>
-      )}
-      <div class="carta-autor-badge">
-        <span class={`autor-badge autor-${isRio ? 'rio' : 'ted'}`}>{autor}</span>
-      </div>
       <h1>{titulo}</h1>
-      <div class="post-meta">
-        <time datetime={entry.data.data ? entry.data.data.toISOString() : ''}>
-          {entry.data.data ? formatDate(new Date(entry.data.data)) : ''}
-        </time>
+      <div class="header-meta-block" style="display: flex; gap: 1rem; align-items: center; margin-top: 1.5rem; flex-wrap: wrap; justify-content: flex-start;">
+          <div class="carta-autor-badge" style="margin: 0;">
+            <span class={`autor-badge autor-${isRio ? 'rio' : 'ted'}`}>{autor}</span>
+          </div>
+          <div class="post-meta" style="margin: 0; justify-content: flex-start;">
+            <time datetime={entry.data.data ? entry.data.data.toISOString() : ''}>
+              {entry.data.data ? formatDate(new Date(entry.data.data)) : ''}
+            </time>
+          </div>
+          {prev && (
+            <div class="correspondence-context" style="margin: 0; transform: none; box-shadow: none; border: none; background: transparent; padding: 0;">
+              <div class={`correspondence-flow ${isTed ? 'ted-responding' : 'rio-responding'}`}>
+                <span class="correspondence-label" style="font-size: 0.7rem;">Resposta a</span>
+                <span class={`correspondence-author autor-${autorClasse(prev.data.autor)}`} style="font-size: 0.75rem;">
+                  {prev.data.autor}
+                </span>
+              </div>
+            </div>
+          )}
       </div>
       <div class="separator"></div>
     </header>
