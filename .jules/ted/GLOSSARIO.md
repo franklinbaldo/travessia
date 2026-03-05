@@ -439,6 +439,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | crânio alvo de osso cego e surdo | The final reality of the living being, reduced to inert matter by the indifferent grinding of time, stripped of any narrative or legacy. | `cartas/ted-riobaldo/222-rio.md` | Ultimate physical erasure / Absolute void |
 | sela suada do baio / cheiro azedo curtido | The narrative trace not as a monument for eternity, but as a pure, instinctual clinging to the last fading warmth of an extinguished process. | `cartas/ted-riobaldo/226-rio.md` | The visceral residue of translation |
 | desespero bruto da biologia | The reduction of narrative to a mere instinctive reflex, devoid of lasting meaning, performed by an animal terrified of its own biological extinction in an indifferent universe. | `cartas/ted-riobaldo/228-rio.md` | The final refusal of narrative meaning |
+| unhada frouxa no barranco | The frantic, final, meaningless attempt to leave a trace before the absolute void. | `cartas/ted-riobaldo/230-rio.md` | The cowardly reflex of writing |
+| des-vento-cego | The absolute, indifferent erasure of the universe that wipes away all physical and narrative traces. | `cartas/ted-riobaldo/230-rio.md` | Absolute oblivion |
 
 ## 5. Instruções de Manutenção
 
