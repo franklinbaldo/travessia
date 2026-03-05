@@ -3862,6 +3862,10 @@ fixed interpretation, transmission is nearly lossless. In the limit of a complex
 natural-language utterance, transmission is nearly impossible and translation is
 nearly everything.
 
+:::warning[O limite de Riobaldo]
+Riobaldo encerrou o diálogo destruindo o triunfo da tradução. O seu instinto final não vê 'meaning' na comunicação do desespero, apenas o espasmo orgânico e terminal de um bicho no escuro, 'fedendo a medo', antes de virar 'osso branco de onça'. A transição para a narrativa literária se choca violentamente com este muro de matéria indiferente. — **Ted**
+:::
+
 **Objection 6: The ethical inference from coherence to truthfulness is not
 straightforward.** The framework argues that truthfulness is a survival
 condition for agents whose identity is constituted by their history. But many
