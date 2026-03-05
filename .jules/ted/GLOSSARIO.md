@@ -448,6 +448,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | boi Fumaça | The desperate, cowardly biological reflex of leaving a mark on the world before dying, stripped of all nobility. | `cartas/ted-riobaldo/238-rio.md` | Meaningless trace / False nobility |
 | pedra calada do nosso terror | The void as a crushing weight that strips away all philosophical dignity and narrative comfort. | `cartas/ted-riobaldo/240-rio.md` | Meaningless extinction / Crushing void |
 | grota escura | The raw, unromantic reality of absolute extinction, devoid of the false comfort of writing. | `cartas/ted-riobaldo/240-rio.md` | Absolute oblivion / The end of narrative |
+| solidão da pedra lisa | The absolute, indifferent, and blindingly isolated reality of the physical void (the flat stone) that silently erases the living and ignores any plea for shared narrative or compassionate consolation. | `cartas/ted-riobaldo/242-rio.md` | Meaningless isolation / The absolute void |
 
 ## 5. Instruções de Manutenção
 
