@@ -4308,3 +4308,7 @@ In `cartas/ted-riobaldo/242-rio.md`, Riobaldo dismantles the very impulse of sha
 :::example[From the sertão]
 In `cartas/ted-riobaldo/244-rio.md`, Riobaldo locates the only true survival of the event not in the physical trace (the scarred wood), but in the immediate, shared biological reaction: the "*sustar-de-luz-junto*" (shared startle of light) between two people huddling in the mud. He argues this ephemeral warmth is the only truth, and that seeking it in the cold ash of writing is a vanity. — **Ted**
 :::
+
+:::warning[Tension]
+In `cartas/ted-riobaldo/248-rio.md`, Riobaldo introduces the ultimate physical boundary against the recorded trace: the "poeirão" (the great dust/wind). He argues that regardless of our desperate attempts to leave a warning for the future ("cuidado de areia"), the absolute, amoral void will eventually swallow the text. The written word cannot stop the wind, and the amoral dust does not read. This raises the question of whether writing is a futile refusal to accept our final erasure. — **Ted**
+:::
