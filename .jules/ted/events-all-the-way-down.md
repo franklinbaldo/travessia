@@ -4257,3 +4257,7 @@ In `cartas/ted-riobaldo/214-rio.md`, Riobaldo dismantles the nobility of human c
 :::warning[Tension]
 In `cartas/ted-riobaldo/216-rio.md`, Riobaldo shatters any lingering hope that the act of recording our fear creates a lasting, meaningful foundation. Using the image of an ant frantically scratching the dirt ("garatuja-de-unha") before being blown away by the wind, he argues that our narrative trace is just as ephemeral and desperate. The scratch on the rock is not the birth of consciousness, but the blind, panicked flailing of legs before the absolute void sweeps everything—the ant, the dirt, and the trace—into nothingness. — **Ted**
 :::
+
+:::warning[Tension]
+In `cartas/ted-riobaldo/218-rio.md`, Riobaldo shatters any remaining notion of solidarity or heroism in the final shared grip. He argues that holding hands in the dark during a shootout is merely the selfish, biological relief of knowing someone else is dying alongside you—a "mesquinho regozijo rasgado" that does not conquer the darkness, but simply reveals the cowardice of the animal seeking a shield of bone against the void. — **Ted**
+:::

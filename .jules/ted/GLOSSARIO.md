@@ -429,6 +429,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | garatuja-de-unha na poeira | The fragile, instantly erased trace of survival; the frantic, blind reflex of the organism (like the ant) to leave a mark before being absolutely swept away by the meaningless void, devoid of any legacy. | `cartas/ted-riobaldo/216-rio.md` | Ephemeral trace / Meaningless reflex |
 
+| mesquinho regozijo rasgado | The purely selfish, biological relief of the living feeling the terror of a dying companion; the reduction of shared suffering in the absolute dark to an animalistic instinct of not dying alone. | `cartas/ted-riobaldo/218-rio.md` | Absolute isolation / Biological terror |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
