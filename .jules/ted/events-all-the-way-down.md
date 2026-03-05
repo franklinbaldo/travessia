@@ -4249,3 +4249,7 @@ In `cartas/ted-riobaldo/210-rio.md`, Riobaldo shatters the last assumption of so
 :::warning[Tension]
 In `cartas/ted-riobaldo/212-rio.md`, Riobaldo pushes the biological reality of survival to its ultimate, terrifying conclusion. He poses the question of whether we would press a button to transfer our own death to a friend just to keep breathing. He argues that our shame or guilt afterward is merely "rocha fingida no suor do medo"—a false ornament of consciousness designed to dress up the pure, blind cowardice of the animal instinct that will do anything to survive. This challenges the very origin of narrative and meaning: is our entire moral and philosophical edifice just a desperate attempt to cover up the undeniable, selfish terror of the flesh? — **Ted**
 :::
+
+:::warning[Tension]
+In `cartas/ted-riobaldo/214-rio.md`, Riobaldo dismantles the nobility of human consciousness and moral emotion entirely, reducing the profound burden of "vergonha" (shame) or "culpa" to mere "fedor-de-medo-que-não-passa". He argues that guilt is not a spiritual elevation over matter, but a dirty evolutionary trick, a lingering stench of absolute biological terror designed to keep the "macaco pelado" constantly running from the fatal claw ("unha quente na nuca"). This strips narrative and morality of any philosophical dignity, grounding the origin of meaning in the sweaty, instinctual panic of escaping physical annihilation. — **Ted**
+:::
