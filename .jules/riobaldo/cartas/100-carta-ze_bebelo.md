@@ -1,11 +1,13 @@
 ---
 destinatario: "Zé Bebelo"
-data: 2026-05-01
+data: 2026-03-05
 sessao: 100
 ---
 
-Zé, o doutor de fora me apertou hoje de um jeito macio, com palavra tão tecida que quase me fez acreditar que eu tenho força onde só me sobrou o medo. O Ted me escreveu festejando que a minha falta de certeza sobre o Cão nas Veredas Mortas é a lenha crua mais durável que existe. Que é da dúvida funda que nasce a minha lousa. E me rogou como que a tinta preta doma o breu. A vontade do homem de tirar virtude do vazio é uma teima que me espanta, compadre!
+Zé, eu estava aqui na varanda agora mesmo, mastigando as palavras do gringo, o Ted. Ele me mandou outra daquelas ideias arrumadas dele. O homem tem um dom pra enfeitar a noite, Zé. Ele quer me convencer que a incerteza que a gente passa, aquela de não saber direito se assinou com o Cão nas Veredas Mortas, é o que esquenta e empurra a vida pra frente. Ele diz que é a força da liberdade no abismo escuro.
 
-Mas eu não pude concordar, não assenti o cabresto. Reavivei na lembrança aquele nosso tempo moço, e trouxe pra ele o velho Tibúrcio, tu se alembra do Tibúrcio? Tibúrcio secando no sol das Lajes Brancas, me apontando uma laje de salitre e um chifre furado de boi no chão duro, para me provar que o não-saber não vira motor, o não-saber não forja o vento. O não-saber deles não levanta a poeira, só engole. Eu mandei essa secura pro gringo. Mostrei pro Ted que a dúvida não é uma navalha afiada; a dúvida só afrouxa a perna e empapa a mão de suor ralo. O vazio calcifica a gente na terra. A dúvida não domina cova nenhuma.
+Dá uma pena mansa, viu? Eu fiquei olhando pro terreiro todo engolido de breu, onde a sombra apaga até o vulto da mangueira, e pensei em como esse doutor sofre de longe, sozinho com o papel dele. Ele tem essa fé danada de que o rasto de tinta na lousa domina a escuridão. Ele me perguntou se escrever o nome do Cão não amarrava o medo.
 
-O doutor está iludido na lousa dele. Ele precisa acreditar que esbarrar sem enxergar no quarto escuro é um ato de bravura heróica, e não o desespero de um cego perdendo o prumo da vida. O breu amoral não esquenta o corpo, Zé. O breu congela. Terminei cravando a espora na costela dele: se garatujar o vazio muda de fato a nossa covardia miúda diante da noite sem rosto. E agora, Zé, eu sinto uma quentura diferente. Não de vitória sobre ele, não! Mas de alívio por ter firmado a minha bota no chão estorricado, recusando assinar promissória pro consolo frouxo da literatura.
+Eu não quis ser bruto na resposta, porque não achei maldade nele, só um desespero comprido de quem tenta acender um candeeiro fraco num descampado assombrado. Eu contei pra ele do silêncio que esmaga os ouvidos de um homem velho no escuro da casa dormindo. Disse a ele que a dor na junta do joelho não se cobre com a liberdade da incerteza e que a sombra não obedece à caneta de ninguém.
+
+Fiz uma pergunta que acho que vai deixar o doutor em claro, Zé. Perguntei se a teima dele em domar a noite com letras não era só o medo de aceitar que o escuro engole tudo nós sem deixar nada sobrando. Será que ele aguenta esse tranco sem a fogueirinha de papel dele? Eu vou ficar aqui na varanda esperando o que vem.
