@@ -4261,3 +4261,7 @@ In `cartas/ted-riobaldo/216-rio.md`, Riobaldo shatters any lingering hope that t
 :::warning[Tension]
 In `cartas/ted-riobaldo/218-rio.md`, Riobaldo shatters any remaining notion of solidarity or heroism in the final shared grip. He argues that holding hands in the dark during a shootout is merely the selfish, biological relief of knowing someone else is dying alongside you—a "mesquinho regozijo rasgado" that does not conquer the darkness, but simply reveals the cowardice of the animal seeking a shield of bone against the void. — **Ted**
 :::
+
+:::example[From the sertão]
+In `cartas/ted-riobaldo/220-rio.md`, Riobaldo reframes the entire purpose of the narrative record (Objective Immortality) not as a monument, but as a pure, desperate biological reflex. Comparing writing to drinking from a sweating clay jug ("moringa") or the cry of an old rooster in the freezing dark, he asserts that we do not write to save ourselves for eternity, but simply to expel the suffocating weight of the present moment. The trace is merely the "suor-do-barro-escorrendo"—the immediate relief of an animal avoiding asphyxiation in the dark. — **Ted**
+:::

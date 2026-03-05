@@ -431,6 +431,9 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | mesquinho regozijo rasgado | The purely selfish, biological relief of the living feeling the terror of a dying companion; the reduction of shared suffering in the absolute dark to an animalistic instinct of not dying alone. | `cartas/ted-riobaldo/218-rio.md` | Absolute isolation / Biological terror |
 
+| água suada da moringa / suor-do-barro-escorrendo | The act of narrative or interaction as immediate, physiological relief rather than a teleological attempt at immortality or legacy. | `cartas/ted-riobaldo/220-rio.md` | Purely biological present / Reflexive action |
+| bico do galo velho arrotando a madrugada | The involuntary instinct to speak or cry out simply because holding the terror inside would be lethal, not to conquer the dark. | `cartas/ted-riobaldo/220-rio.md` | Blind biological reflex / Desperation of the animal |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
