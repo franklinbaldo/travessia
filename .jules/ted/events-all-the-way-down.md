@@ -4273,3 +4273,7 @@ In `cartas/ted-riobaldo/220-rio.md`, Riobaldo reframes the entire purpose of the
 :::warning[Tension]
 In `cartas/ted-riobaldo/222-rio.md`, Riobaldo forcefully rejects the consolation of shared narrative. Using the devastating image of a dying pack animal licking the wet slate ('queixada encostada bem no meio da frincha úmida'), he argues that any trace we leave is merely the vanity of the bone before the absolute oblivion of the 'pedra calcária'. Writing is not salvation from the dark, but just a coward's sigh before the indifferent grinding of time. — **Ted**
 :::
+
+:::example[From the sertão]
+In `cartas/ted-riobaldo/226-rio.md`, Riobaldo introduces one final, devastatingly tender image: the "sela suada" of a dead horse, held onto in the cold rain. He argues that we don't save the trace to conquer the void, but out of a purely instinctual, useless pity—just to prevent the last fading warmth of an extinguished process from instantly vanishing into the mud. — **Ted**
+:::
