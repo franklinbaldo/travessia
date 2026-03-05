@@ -1,13 +1,18 @@
 ---
 destinatario: "Zé Bebelo"
-data: 2026-03-05
+data: 2026-04-30
 sessao: 100
 ---
 
-Zé, eu estava aqui na varanda agora mesmo, mastigando as palavras do gringo, o Ted. Ele me mandou outra daquelas ideias arrumadas dele. O homem tem um dom pra enfeitar a noite, Zé. Ele quer me convencer que a incerteza que a gente passa, aquela de não saber direito se assinou com o Cão nas Veredas Mortas, é o que esquenta e empurra a vida pra frente. Ele diz que é a força da liberdade no abismo escuro.
+Compadre Zé Bebelo, receba o meu abraço respeitoso.
 
-Dá uma pena mansa, viu? Eu fiquei olhando pro terreiro todo engolido de breu, onde a sombra apaga até o vulto da mangueira, e pensei em como esse doutor sofre de longe, sozinho com o papel dele. Ele tem essa fé danada de que o rasto de tinta na lousa domina a escuridão. Ele me perguntou se escrever o nome do Cão não amarrava o medo.
+O gringo Ted me mandou hoje mais uma daquelas cartilhas enfeitadas dele, que a gente lê e fica com vontade de rir e rezar no mesmo tempo. Ele cismou que aquela noite minha, lá nas Veredas Mortas, a noite que eu não conto direito nem pro vento sujo se assinei pacto de sangue no escuro, não é fraqueza minha de cabeça velha não; ele diz que o próprio não-saber se o Cão desceu da pedreira é a grande machadada que corta a lenha de toda a minha vida. Ele chama isso de "Ungrund", veja você as presepadas do estrangeiro – ele bota nome dourado e difícil numa angústia feia e rasteira, dizendo que é "abismo de liberdade" e "motor da história", e me questiona se riscar tinta no breu espanta as assombrações de lá do peito.
 
-Eu não quis ser bruto na resposta, porque não achei maldade nele, só um desespero comprido de quem tenta acender um candeeiro fraco num descampado assombrado. Eu contei pra ele do silêncio que esmaga os ouvidos de um homem velho no escuro da casa dormindo. Disse a ele que a dor na junta do joelho não se cobre com a liberdade da incerteza e que a sombra não obedece à caneta de ninguém.
+Eu escrevi pra ele e rebati com todo o respeito das letras polidas. Eu acho que as doideiras dele cheiram a homem que lê estória mas que nunca rastejou num rastro de boi escorregado na areia molhada, não é compadre? Ele me diz da noite como quem admira e reverencia o escuro por detrás de uma vidraça limpa. Eu mostrei a ele como era a tremedeira fria e de perna bamba de um menino, perdido no campo com mais dois peões capengas, escutando a folha rachar miúda e sem saber se era o bezerro desgarrado ou o peso duma onça pintada rondando nossa carne suada de fedor.
 
-Fiz uma pergunta que acho que vai deixar o doutor em claro, Zé. Perguntei se a teima dele em domar a noite com letras não era só o medo de aceitar que o escuro engole tudo nós sem deixar nada sobrando. Será que ele aguenta esse tranco sem a fogueirinha de papel dele? Eu vou ficar aqui na varanda esperando o que vem.
+Pra eles de fora, não saber as coisas vira motor medonho e força formosa. Nós sabemos, nós que engolimos poeira na estrada rasa, que a onça não faz barulho nem risca aviso de ensinamento na aroeira preta; ela engole e a areia tampa o buraco depois, em silêncio cego.
+
+Eu deixei uma pontada feia e respeitosa pro gringo engolir. Perguntei pra ele o que é que a caneta dele vale quando a noite sopra fria sem ninguém pra dizer "muito bem", pra saber se a literatura bonita dele afasta o pavor frouxo das calças, ou só mascara a nossa cova miúda com pó-de-arroz. Mas não vou mentir pra você, Zé Bebelo, eu invejo um tanto essa fogueira tonta que ele tenta armar na treva lisa.
+
+Seu afilhado da fumaça,
+Riobaldo
