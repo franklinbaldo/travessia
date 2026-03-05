@@ -233,29 +233,16 @@ li {
 
 blockquote {
   margin: 2rem 0;
-  padding: 1.5rem 2rem;
-  background: var(--text-color);
-  color: var(--bg-color);
-  border: 4px solid var(--text-color);
-  border-radius: 8px;
+  padding: 0.5rem 0 0.5rem 1.5rem;
+  background: transparent;
+  color: var(--text-color);
+  border: none;
+  border-left: 4px solid var(--accent-color);
+  border-radius: 0;
   position: relative;
   z-index: 1;
   font-weight: 500;
-}
-
-blockquote::before {
-  content: "“";
-  position: absolute;
-  top: -1rem;
-  left: 1rem;
-  font-family: var(--font-body);
-  font-size: 6rem;
-  font-weight: 700;
-  color: var(--bg-color);
-  opacity: 0.2;
-  line-height: 1;
-  z-index: -1;
-  pointer-events: none;
+  font-style: italic;
 }
 
 
@@ -278,6 +265,11 @@ s {
   display: inline-block;
 }
 
+del, s {
+  text-decoration: none;
+  position: relative;
+}
+
 del::after,
 s::after {
   content: "";
@@ -286,6 +278,7 @@ s::after {
   left: -2px;
   right: -2px;
   height: 2px;
+  background-color: var(--text-color);
   transform: translateY(-50%) rotate(-2deg);
   pointer-events: none;
 }
@@ -302,23 +295,13 @@ mark {
 [data-theme="dark"] mark {
 }
 
-hr { border: 2px solid var(--text-color);
-  height: 2rem;
+hr {
+  border: none;
+  border-top: 2px dashed var(--meta-color);
+  height: 0;
   background: transparent;
   margin: 3.5rem 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-}
-
-hr::after {
-  content: "❦";
-  font-family: var(--font-body);
-  font-size: 1.8rem;
-  letter-spacing: 0.1em;
-  color: var(--meta-color);
-  opacity: 0.6;
+  opacity: 0.5;
 }
 
 /* === Links === */
