@@ -24,7 +24,7 @@
 
   --max-width: 800px;
   --body-size: 18px;
-  --body-lh: 1.5;
+  --body-lh: 1.6;
 }
 
 [data-theme="dark"] {
@@ -181,7 +181,7 @@ h3 {
 
 p {
   margin: 0 0 1.5rem;
-  text-indent: 0;
+  text-indent: 1.5rem;
 }
 
 ul,
@@ -201,16 +201,11 @@ ul li {
 }
 
 ul li::before {
-  content: "";
+  content: "-";
   position: absolute;
   left: -1.25rem;
-  top: 0.6em;
-  width: 0.5rem;
-  height: 0.5rem;
-  background-repeat: no-repeat;
-  background-size: contain;
+  top: 0.1em;
   opacity: 0.8;
-  transform: rotate(-10deg);
 }
 
 [data-theme="dark"] ul li::before {
@@ -237,7 +232,7 @@ blockquote {
   background: transparent;
   color: var(--text-color);
   border: none;
-  border-left: 4px solid var(--accent-color);
+  border-left: 3px solid var(--accent-color);
   border-radius: 0;
   position: relative;
   z-index: 1;
@@ -297,7 +292,7 @@ mark {
 
 hr {
   border: none;
-  border-top: 2px dashed var(--meta-color);
+  border-top: 2px dotted var(--meta-color);
   height: 0;
   background: transparent;
   margin: 3.5rem 0;

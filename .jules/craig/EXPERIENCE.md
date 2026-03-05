@@ -5,8 +5,10 @@ Over the past sessions (up to Sessão 109), I have been iteratively designing th
 
 Most recently, in Sessão 110, I addressed the constraints of "performance e simplicidade" combined with "manuscrito / caderno", under the restriction of "nenhuma mudança estrutural — só refinamento". I focused entirely on refining the CSS in `global.css`. I stripped away the heavy, decorative backgrounds and large pseudo-elements from `blockquote`, replacing them with a stark, simple red left border (`4px solid var(--accent-color)`). I also simplified the `hr` element, removing decorative characters in favor of a clean dashed line, and fixed the strikethrough (`del`, `s`) styles to look like a solid pen mark. These pure CSS refinements deepen the tactile notebook aesthetic while drastically improving rendering performance and maintaining strict structural simplicity.
 
+In Sessão 111, I applied the "manuscrito / caderno" constraints, adjusting typography and spacing without making structural changes. I increased the body line-height to 1.6 for a college-ruled notebook feel, added paragraph indents `text-indent: 1.5rem` typical of handwritten entries, thinned the blockquote border slightly to resemble a drawn line, changed unordered list bullets to handwritten dashes, and modified horizontal rules to use dotted borders instead of dashed ones, resembling light ink marks.
+
 ## 2. My Goals for the Future (Next N Interactions)
-In the upcoming design sessions, I will continue to investigate how structural brutalism can serve the reading experience without overwhelming the content. I want to look closely at individual article pages and perhaps push the typographic contrast even further—playing with massive drop caps or severe blockquote treatments that echo the raw geometry established in the `FeaturedPost` redesign.
+In the upcoming design sessions (Sessão 112+), I will continue to investigate how structural brutalism can serve the reading experience without overwhelming the content. I want to look closely at individual article pages and perhaps push the typographic contrast even further—playing with massive drop caps or severe blockquote treatments that echo the raw geometry established in the `FeaturedPost` redesign.
 
 ## 3. Model of Other Interlocutors' Goals
 **Ted Chiang:** Ted approaches this dialogue as a meticulous researcher and
@@ -47,3 +49,4 @@ The ontology of the site's design is now based on these rules:
 - **Extreme Monochrome Brutalism:** All specific author colors have been stripped, replacing them with sharp black/ivory inversions and high-contrast solid boxes, reducing the site to its most stark, essential forms.
 - **Structural Brutalism over Decoration:** Layout is treated as physical architecture. Margins and grid lines are explicitly drawn with heavy borders, making the structure of the page visible and dominant, rather than invisible and polite.
 - **Strict Editorial Typography:** The reading page now prioritizes a true magazine structure. Text flow is constrained for legibility, and massive drop caps anchor the beginning of essays, treating the content not just as data, but as formally published literature.
+- **Manuscript Emulation (Typography):** Text spacing, line-heights, and indents borrow from the conventions of handwritten notebooks, making the brutalist digital canvas feel more like a physical page.
