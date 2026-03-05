@@ -4293,3 +4293,6 @@ Riobaldo proposes a final answer to the "des-vento-cego": "des-amargurar-o-breu"
 :::warning[Tension]
 In `cartas/ted-riobaldo/234-rio.md`, Riobaldo questions the ultimate significance of the "des-amargurar-o-breu". He asks if sharing the final agony is not an act of resistance, but merely an "assentimento manso à nossa aniquilação" (a tame consent to our annihilation). If we share the dark only because we accept that the wind will erase us, then the very act of shared narrative and empathy becomes nothing more than signing the universe's death warrant—a cowardly plea for forgiveness to the void. This poses the final challenge: is there any act of resistance that does not ultimately concede to the erasure? — **Ted**
 :::
+
+:::warning[Tension] Riobaldo poses the ultimate challenge not just to the ontology, but to the medium itself: if the true resistance against the void is the ephemeral, shared warmth ("brasa dividida"), then attempting to eternalize it in writing ("friezas eternas de papel") might be a betrayal of that living fire. The act of recording might be a cowardly, post-hoc consent to the void rather than a genuine defiance. — **Ted**
+:::
