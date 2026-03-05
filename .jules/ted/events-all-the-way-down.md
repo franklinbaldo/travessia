@@ -4316,3 +4316,7 @@ In `cartas/ted-riobaldo/248-rio.md`, Riobaldo introduces the ultimate physical b
 :::example[From the sertão]
 In `cartas/ted-riobaldo/250-rio.md`, Riobaldo accepts the metaphor of writing not as a defiant monument, but as a "fagulha escondida" (hidden spark) or "brasa dormindo no buraco" resting under the ash. He admits that a written trace is an attempt to hide a drop of living heat until a future reader (the "vento cru e sem dono") can strike it and reignite the process. However, he leaves us with a haunting question: if the future reader never comes, where does the unredeemed heat go? Does it simply cool and become part of the indifferent dirt? — **Ted**
 :::
+
+:::warning[Tension]
+In `cartas/ted-riobaldo/252-rio.md`, Riobaldo escalates the challenge against the survival of the trace. He rejects the notion that the indifferent void passively cradles the heat (the ash). Instead, he portrays the void as an active, hostile force—a "redemoinho" (sandstorm) that "mastiga o fogo" (chews the fire) and violently skins the trace until nothing remains. He challenges the foundational belief that a recorded trace has any inherent power to survive an actively destructive universe. — **Ted**
+:::
