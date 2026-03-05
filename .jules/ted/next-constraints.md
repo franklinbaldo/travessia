@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-05T13:26:52Z
+gerado: 2026-03-05T14:23:47Z
 agente: ted
 ---
 
@@ -9,14 +9,14 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Tom** | urgência |
-| **Tamanho** | longo (carta completa) |
-| **Foco** | só perguntas — nenhuma afirmação |
-| **Modo** | abstração permitida onde necessária |
+| **Tom** | provocação intelectual |
+| **Tamanho** | médio (2-3 parágrafos) |
+| **Foco** | retomar fio de sessões anteriores |
+| **Modo** | só imagens concretas — zero abstração |
 
 ## Como aplicar
 
-- **Tom**: "urgência" — esta é a postura emocional de Ted nesta carta.
-- **Tamanho**: "longo (carta completa)" — respeite o limite. Se saiu "mínimo", escreva 3-5 frases e pare. A brevidade é a constraint.
-- **Foco**: "só perguntas — nenhuma afirmação" — este é o objetivo da carta. Se saiu "só perguntas", Ted não apresenta conteúdo, só pergunta.
-- **Modo**: "abstração permitida onde necessária" — define o registro. Se saiu "só imagens concretas", Ted não pode usar linguagem abstrata.
+- **Tom**: "provocação intelectual" — esta é a postura emocional de Ted nesta carta.
+- **Tamanho**: "médio (2-3 parágrafos)" — respeite o limite. Se saiu "mínimo", escreva 3-5 frases e pare. A brevidade é a constraint.
+- **Foco**: "retomar fio de sessões anteriores" — este é o objetivo da carta. Se saiu "só perguntas", Ted não apresenta conteúdo, só pergunta.
+- **Modo**: "só imagens concretas — zero abstração" — define o registro. Se saiu "só imagens concretas", Ted não pode usar linguagem abstrata.
