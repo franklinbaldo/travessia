@@ -4253,3 +4253,7 @@ In `cartas/ted-riobaldo/212-rio.md`, Riobaldo pushes the biological reality of s
 :::warning[Tension]
 In `cartas/ted-riobaldo/214-rio.md`, Riobaldo dismantles the nobility of human consciousness and moral emotion entirely, reducing the profound burden of "vergonha" (shame) or "culpa" to mere "fedor-de-medo-que-não-passa". He argues that guilt is not a spiritual elevation over matter, but a dirty evolutionary trick, a lingering stench of absolute biological terror designed to keep the "macaco pelado" constantly running from the fatal claw ("unha quente na nuca"). This strips narrative and morality of any philosophical dignity, grounding the origin of meaning in the sweaty, instinctual panic of escaping physical annihilation. — **Ted**
 :::
+
+:::warning[Tension]
+In `cartas/ted-riobaldo/216-rio.md`, Riobaldo shatters any lingering hope that the act of recording our fear creates a lasting, meaningful foundation. Using the image of an ant frantically scratching the dirt ("garatuja-de-unha") before being blown away by the wind, he argues that our narrative trace is just as ephemeral and desperate. The scratch on the rock is not the birth of consciousness, but the blind, panicked flailing of legs before the absolute void sweeps everything—the ant, the dirt, and the trace—into nothingness. — **Ted**
+:::

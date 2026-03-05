@@ -427,6 +427,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | fedor-de-medo-que-não-passa | The biological trick of memory and guilt; a lingering stench of absolute survival terror imposed by evolution to ensure the 'naked ape' avoids the fatal claw, stripping morality of noble consciousness. | `cartas/ted-riobaldo/214-rio.md` | Evolutionary survival instinct |
 
+| garatuja-de-unha na poeira | The fragile, instantly erased trace of survival; the frantic, blind reflex of the organism (like the ant) to leave a mark before being absolutely swept away by the meaningless void, devoid of any legacy. | `cartas/ted-riobaldo/216-rio.md` | Ephemeral trace / Meaningless reflex |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
