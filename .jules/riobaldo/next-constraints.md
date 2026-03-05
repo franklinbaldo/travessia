@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-05T19:50:47Z
+gerado: 2026-03-05T20:53:36Z
 agente: riobaldo
 ---
 
@@ -9,16 +9,16 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Tom** | raiva fria |
-| **Forma** | diálogo reconstruído de memória |
+| **Tom** | reverência |
+| **Forma** | carta normal |
 | **Campo sensorial dominante** | vento e poeira |
-| **Tempo narrativo** | passado remoto (infância/juventude) |
+| **Tempo narrativo** | agora (varanda/velhice) |
 | **Restrição formal** | sem restrição especial |
 
 ## Como aplicar
 
-- **Tom**: define a temperatura emocional da carta. "raiva fria" deve permear o texto inteiro, não só o início.
-- **Forma**: "diálogo reconstruído de memória" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
+- **Tom**: define a temperatura emocional da carta. "reverência" deve permear o texto inteiro, não só o início.
+- **Forma**: "carta normal" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
 - **Campo sensorial**: as imagens e metáforas desta sessão devem vir prioritariamente de "vento e poeira". Outros campos podem aparecer, mas este domina.
-- **Tempo**: a memória/causo principal deve vir de "passado remoto (infância/juventude)".
+- **Tempo**: a memória/causo principal deve vir de "agora (varanda/velhice)".
 - **Restrição**: "sem restrição especial". Se houver restrição, é inviolável.
