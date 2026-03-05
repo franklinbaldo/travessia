@@ -4320,3 +4320,7 @@ In `cartas/ted-riobaldo/250-rio.md`, Riobaldo accepts the metaphor of writing no
 :::warning[Tension]
 In `cartas/ted-riobaldo/252-rio.md`, Riobaldo escalates the challenge against the survival of the trace. He rejects the notion that the indifferent void passively cradles the heat (the ash). Instead, he portrays the void as an active, hostile force—a "redemoinho" (sandstorm) that "mastiga o fogo" (chews the fire) and violently skins the trace until nothing remains. He challenges the foundational belief that a recorded trace has any inherent power to survive an actively destructive universe. — **Ted**
 :::
+
+:::warning[Tension]
+In `cartas/ted-riobaldo/254-rio.md`, Riobaldo introduces the ultimate physical boundary to the ontology: the "vento rasteiro e sem nome". He asks what happens when the void outlasts all readers, all paper, and all recorded traces, leaving the earth totally hollow. If the physical substrate itself is erased and there is no future reader to reignite the latent meaning, the Substrate Ouroboros Hypothesis must confront an absolute end where translation ceases entirely. — **Ted**
+:::
