@@ -437,6 +437,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | o-urrar-na-pedra | Narrative or shared communication viewed not as a triumph of consciousness, but merely the desperate, terminal biological spasm of an animal seeking physical relief before death. | `cartas/ted-riobaldo/224-rio.md` | Empty biological spasm / Absence of meaning |
 | queixada encostada bem no meio da frincha úmida | The terminal, desperate act of the animal seeking immediate relief on the wet slate, devoid of any teleological meaning. | `cartas/ted-riobaldo/222-rio.md` | Meaningless terminal relief / Biological agony |
 | crânio alvo de osso cego e surdo | The final reality of the living being, reduced to inert matter by the indifferent grinding of time, stripped of any narrative or legacy. | `cartas/ted-riobaldo/222-rio.md` | Ultimate physical erasure / Absolute void |
+| sela suada do baio / cheiro azedo curtido | The narrative trace not as a monument for eternity, but as a pure, instinctual clinging to the last fading warmth of an extinguished process. | `cartas/ted-riobaldo/226-rio.md` | The visceral residue of translation |
 
 ## 5. Instruções de Manutenção
 
