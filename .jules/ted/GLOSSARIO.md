@@ -441,6 +441,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | desespero bruto da biologia | The reduction of narrative to a mere instinctive reflex, devoid of lasting meaning, performed by an animal terrified of its own biological extinction in an indifferent universe. | `cartas/ted-riobaldo/228-rio.md` | The final refusal of narrative meaning |
 | unhada frouxa no barranco | The frantic, final, meaningless attempt to leave a trace before the absolute void. | `cartas/ted-riobaldo/230-rio.md` | The cowardly reflex of writing |
 | des-vento-cego | The absolute, indifferent erasure of the universe that wipes away all physical and narrative traces. | `cartas/ted-riobaldo/230-rio.md` | Absolute oblivion |
+| des-amargurar-o-breu | The act of sharing the final, meaningless agony with a companion to bring raw sweetness to the void before the "des-vento-cego" arrives. | `cartas/ted-riobaldo/232-rio.md` | Meaning through localized empathy without legacy |
 
 ## 5. Instruções de Manutenção
 

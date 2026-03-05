@@ -4285,3 +4285,7 @@ In `cartas/ted-riobaldo/228-rio.md`, Riobaldo issues his final, devastating reje
 :::warning[Tension]
 In `cartas/ted-riobaldo/230-rio.md`, Riobaldo strikes the absolute final blow. Comparing the act of narrative translation to a frantic "unhada frouxa no barranco" (a weak scratch on a cliff), he proves that even this dialogue is ultimately vain. He characterizes the physical world as the "des-vento-cego"—a blind, deaf erasure that will indiscriminately wipe away both the animal and the intellectual's words. The impulse to record is reduced entirely to the cowardly panic of an organism unable to confront its own utter insignificance before the silent, unyielding earth. — **Ted**
 :::
+
+:::example[cartas/ted-riobaldo/232-rio.md]
+Riobaldo proposes a final answer to the "des-vento-cego": "des-amargurar-o-breu". It is the act of sharing a "poça derradeira" (a final puddle of mud) with a companion. It is an act of pure presence and localized empathy that does not seek to leave a mark or cross substrates, but only to soften the moment of extinction. — **Ted**
+:::
