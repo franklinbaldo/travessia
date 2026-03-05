@@ -443,6 +443,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | des-vento-cego | The absolute, indifferent erasure of the universe that wipes away all physical and narrative traces. | `cartas/ted-riobaldo/230-rio.md` | Absolute oblivion |
 | des-amargurar-o-breu | The act of sharing the final, meaningless agony with a companion to bring raw sweetness to the void before the "des-vento-cego" arrives. | `cartas/ted-riobaldo/232-rio.md` | Meaning through localized empathy without legacy |
 | assentimento manso à nossa aniquilação | The question of whether accepting and sharing the final terror is merely signing a surrender to the void. | `cartas/ted-riobaldo/234-rio.md` | Tame consent to annihilation |
+| brasa dividida / a-alumiar-se-junto | The ephemeral, visceral warmth of shared suffering; true resistance as an immediate, unrecorded act against the void. | `cartas/ted-riobaldo/236-rio.md` | Ephemeral shared presence / Living resistance |
+| friezas eternas de papel | The written word as a dead, cold medium; the suspicion that recording the living fire betrays it by turning it into static ash. | `cartas/ted-riobaldo/236-rio.md` | The betrayal of the written word / Static ash |
 
 ## 5. Instruções de Manutenção
 
