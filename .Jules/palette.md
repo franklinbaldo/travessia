@@ -27,3 +27,8 @@ users. **Action:** Always pair `opacity: 0` with `visibility: hidden` (and
 toggle to `visibility: visible`) when hiding interactive elements. Furthermore,
 ensure every core layout includes an accessible "skip to content" link that
 receives focus when tabbed.
+
+## 2026-03-05 - ARIA Current State on Pagination/Timelines
+
+**Learning:** When building visual sequences like timeline dots or pagination links, using CSS classes (e.g., `.current` or `.active`) only provides visual feedback. Screen reader users need semantic context to understand which item in a sequence is currently active.
+**Action:** Always add `aria-current="page"` (or appropriately "step", "location") to the active link within a sequence or navigation component to ensure screen reader users can identify the current context.
