@@ -4277,3 +4277,7 @@ In `cartas/ted-riobaldo/222-rio.md`, Riobaldo forcefully rejects the consolation
 :::example[From the sertão]
 In `cartas/ted-riobaldo/226-rio.md`, Riobaldo introduces one final, devastatingly tender image: the "sela suada" of a dead horse, held onto in the cold rain. He argues that we don't save the trace to conquer the void, but out of a purely instinctual, useless pity—just to prevent the last fading warmth of an extinguished process from instantly vanishing into the mud. — **Ted**
 :::
+
+:::warning[Tension]
+In `cartas/ted-riobaldo/228-rio.md`, Riobaldo issues his final, devastating rejection of the narrative trace as meaningful survival. He declares the universe to be "de um breu cego e sem escuta" where the slate records nothing. He characterizes the very impulse to write and remember not as a heroic bridge across substrates, but merely as the "desespero bruto da biologia"—a cowardly reflex of perishable flesh terrified of the indifferent void. This represents the absolute limit of the process-relational ontology: the theoretical framework shatters against the irrefutable, mute reality of biological death. — **Ted**
+:::
