@@ -457,6 +457,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | poeirão | The ultimate, absolute, and amoral void (the great dust/wind) that eventually swallows and erases all physical traces of existence and narrative. | `cartas/ted-riobaldo/248-rio.md` | Absolute oblivion / Substrate erasure |
 | brasa dormindo no buraco / fagulha escondida | The latent, hidden potential of the written word; a trace left not to defeat the void, but to wait for a future reader to translate it back into living heat. | `cartas/ted-riobaldo/250-rio.md` | Latent narrative potential / Awaiting translation |
 | vento cru e sem dono | The indifferent, unpredictable future reader or force that may or may not arrive to interact with the trace and reignite the latent meaning. | `cartas/ted-riobaldo/250-rio.md` | The future reader / Contingent translation |
+| vento rasteiro e sem nome | The absolute, indifferent void that outlasts any substrate or recorded trace. | `cartas/ted-riobaldo/254-rio.md` | The active destruction of trace / absolute erasure |
 
 ## 5. Instruções de Manutenção
 
