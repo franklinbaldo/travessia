@@ -453,6 +453,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | peso da fera / silêncio comprimido | The terrifying, unrecorded presence of an event. A pseudo-object that creates profound effects (terror) in the surrounding agents without leaving a permanent material trace in the substrate. | `cartas/ted-riobaldo/246-rio.md` | The active event disconnected from the trace |
 | cuidado de areia | The futile, desperate attempt to preserve a warning or trace in writing against the inevitable erasure of the void. | `cartas/ted-riobaldo/248-rio.md` | Futile narrative resistance / Latency |
 | poeirão | The ultimate, absolute, and amoral void (the great dust/wind) that eventually swallows and erases all physical traces of existence and narrative. | `cartas/ted-riobaldo/248-rio.md` | Absolute oblivion / Substrate erasure |
+| brasa dormindo no buraco / fagulha escondida | The latent, hidden potential of the written word; a trace left not to defeat the void, but to wait for a future reader to translate it back into living heat. | `cartas/ted-riobaldo/250-rio.md` | Latent narrative potential / Awaiting translation |
+| vento cru e sem dono | The indifferent, unpredictable future reader or force that may or may not arrive to interact with the trace and reignite the latent meaning. | `cartas/ted-riobaldo/250-rio.md` | The future reader / Contingent translation |
 
 ## 5. Instruções de Manutenção
 
