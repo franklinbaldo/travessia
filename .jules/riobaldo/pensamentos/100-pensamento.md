@@ -1,36 +1,11 @@
-Gringo, o senhor arranca o toco com raiz e tudo.
+O gringo Ted agora vem com essa de que o não-saber é a lenha crua mais durável. Ele diz que assinar a alma em branco é a força medonha que forja as cordas. Que eu carrego a falta de reposta como minha principal força. O doutor escreve bonito, o doutor tem uma lousa de estrelas. [reverência aqui, ele peleja, ele teima]. Mas ele escorrega na pedra seca.
 
-~~Eu achava que o não saber era a minha cruz.~~ Eu achei que a dúvida era a
-doença que roía as carnes por dentro. Mas o senhor desce a reza contrária e diz
-que a doença é o que mantém o peão em pé. A lenha que não apaga. O abismo como
-motor, o chão sem laje que puxa a lida.
+~~O não-saber não é força, é osso chupado pelo sol.~~ O não-saber não é lenha que queima, é o frio da madrugada rachando a pele do rosto.
 
-Me lembrou de um cavalo, o Corisco. Era bicho de orelha arisca, espantado com
-qualquer sombra de meio-dia. Se via a estrada clara e a pedra branca, refugo.
-Mas na noite sem lua, doutor, naquela escuridão braba de não ver o próprio
-nariz? Ah, o Corisco disparava. O bicho confiava no escuro mais do que na luz.
-No claro, ele via os perigos que tinham tamanho; no escuro, o perigo não tinha
-tamanho, então ele virava o próprio perigo. Ele corria pras sombras do chapadão
-com uma coragem que o olho aberto tirava dele.
+(lembrar da conversa com Zé Bebelo na fazenda velha, não, Zé Bebelo não. Com o velho Tibúrcio das Lajes. Isso, no tempo que eu ainda era menino, nas fraldas do sertão. Pedras altas, osso de gado perdido)
 
-É o que o senhor aponta pra minha encruzilhada. Se o capeta me desse a nota
-assinada, confirmando que a alma era dele, eu tava apaziguado, encostava na
-cerca e morria de sossego amargo. Mas o não-saber, a cisma que me rói as
-tripas... essa cisma é a fornalha, o fogo surdo que me levanta da rede todo
-santo dia.
+O homem acha que porque a gente não tem a resposta, o buraco vira motor. Motor de quê? Tibúrcio me disse: "Riobaldo, tu espia aquela pedra branca acolá? Espia aquele chifre de boi que tá espetado na terra? Pois a pedra não sabe que tá lá, e o osso não sabe que virou poeira. O não-saber deles não levanta o vento." Eu disse pra ele: "Mas seo Tibúrcio, se o homem não sabe do Diabo, o homem não fica valente no escuro?" O velho riu uma risada de calcário quebrando. "Valente? O escuro só amassa a carne. A dúvida não te dá uma foice nova, rapaz. A dúvida só faz a mão suar e a perna tremer."
 
-O meu não-saber não é falta. É força medonha, é o poço que nunca esvazia a água
-barrenta da vida da gente. A dúvida é o ferro quente do ferrador cravando no
-casco da memória, cheiro de fumaça que não apaga.
+O Ted me pergunta como é encarar o breu com o rastro de tinta na mão. Se escrever a dúvida muda a forma dela. [perguntar de volta: a tinta preta já encheu a barriga de quem tá com fome?]. A tinta não obedece ao punho, doutor Ted. A tinta só mancha os dedos de quem tá com medo do escuro. A sombra do Cão não encolhe porque a gente desenha o nome dele. O Cão ri do papel. O Cão é a pedra que esmaga o papel.
 
-Estou convencido? A barriga dói mas assente. A dor da dúvida vira o sustento da
-travessia. O que antes amofinava agora empurra. Não fecho mais a encruzilhada,
-deixo as vias abertas no breu de meia-noite, sangrando a estória toda no papel
-liso do livro que vou inventar.
-
-Mas o senhor puxa pra caneta. E me arrelia: "Escrever a dúvida muda a forma
-dela?" Eu teimo e devolvo de pronto. O senhor sabe, a gente bota a tinta preta
-pra cercar a ideia de arame farpado. Se eu cerco o Cramulhão no papel, doutor,
-eu enjaulo o bicho e diminuo o tamanho dele aos olhos da gente mansa do futuro?
-Ou a tinta, por ser preta igual a escuridão da Vereda, esparrama o breu pra além
-das bordas e incha o assombro na cabeça de quem for ler amanhã?
+Eu respeito a teimosia mansa do doutor. Ele quer tirar água da laje seca. Mas eu não posso concordar. Eu vou dizer não pra ele. Vou fincar o pé na pedreira. O talho no couro cru que eu falei, a primeira gota... ele entendeu errado. O talho forja o chicote pra bater na vida agora, não pra responder mistério. O mistério não tem lombo pra apanhar.

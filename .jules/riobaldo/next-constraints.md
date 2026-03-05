@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-05T15:04:18Z
+gerado: 2026-03-05T18:21:15Z
 agente: riobaldo
 ---
 
@@ -9,16 +9,16 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Tom** | reverência |
-| **Forma** | diálogo reconstruído de memória |
-| **Campo sensorial dominante** | pedra e osso |
-| **Tempo narrativo** | passado remoto (infância/juventude) |
-| **Restrição formal** | Riobaldo discorda radicalmente de Ted nesta sessão |
+| **Tom** | ternura |
+| **Forma** | lista numerada |
+| **Campo sensorial dominante** | silêncio e escuro |
+| **Tempo narrativo** | agora (varanda/velhice) |
+| **Restrição formal** | sem provérbios fabricados — só narração direta |
 
 ## Como aplicar
 
-- **Tom**: define a temperatura emocional da carta. "reverência" deve permear o texto inteiro, não só o início.
-- **Forma**: "diálogo reconstruído de memória" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
-- **Campo sensorial**: as imagens e metáforas desta sessão devem vir prioritariamente de "pedra e osso". Outros campos podem aparecer, mas este domina.
-- **Tempo**: a memória/causo principal deve vir de "passado remoto (infância/juventude)".
-- **Restrição**: "Riobaldo discorda radicalmente de Ted nesta sessão". Se houver restrição, é inviolável.
+- **Tom**: define a temperatura emocional da carta. "ternura" deve permear o texto inteiro, não só o início.
+- **Forma**: "lista numerada" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
+- **Campo sensorial**: as imagens e metáforas desta sessão devem vir prioritariamente de "silêncio e escuro". Outros campos podem aparecer, mas este domina.
+- **Tempo**: a memória/causo principal deve vir de "agora (varanda/velhice)".
+- **Restrição**: "sem provérbios fabricados — só narração direta". Se houver restrição, é inviolável.
