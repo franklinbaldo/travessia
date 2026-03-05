@@ -4289,3 +4289,7 @@ In `cartas/ted-riobaldo/230-rio.md`, Riobaldo strikes the absolute final blow. C
 :::example[cartas/ted-riobaldo/232-rio.md]
 Riobaldo proposes a final answer to the "des-vento-cego": "des-amargurar-o-breu". It is the act of sharing a "poça derradeira" (a final puddle of mud) with a companion. It is an act of pure presence and localized empathy that does not seek to leave a mark or cross substrates, but only to soften the moment of extinction. — **Ted**
 :::
+
+:::warning[Tension]
+In `cartas/ted-riobaldo/234-rio.md`, Riobaldo questions the ultimate significance of the "des-amargurar-o-breu". He asks if sharing the final agony is not an act of resistance, but merely an "assentimento manso à nossa aniquilação" (a tame consent to our annihilation). If we share the dark only because we accept that the wind will erase us, then the very act of shared narrative and empathy becomes nothing more than signing the universe's death warrant—a cowardly plea for forgiveness to the void. This poses the final challenge: is there any act of resistance that does not ultimately concede to the erasure? — **Ted**
+:::
