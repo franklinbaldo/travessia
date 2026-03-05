@@ -451,6 +451,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | solidão da pedra lisa | The absolute, indifferent, and blindingly isolated reality of the physical void (the flat stone) that silently erases the living and ignores any plea for shared narrative or compassionate consolation. | `cartas/ted-riobaldo/242-rio.md` | Meaningless isolation / The absolute void |
 | sustar-de-luz-junto | The immediate, shared biological and emotional reaction to an event; the ephemeral, localized warmth that is the only true remainder of an experience, standing in opposition to the dead trace of the written word. | `cartas/ted-riobaldo/244-rio.md` | Ephemeral shared presence / The living residue |
 | peso da fera / silêncio comprimido | The terrifying, unrecorded presence of an event. A pseudo-object that creates profound effects (terror) in the surrounding agents without leaving a permanent material trace in the substrate. | `cartas/ted-riobaldo/246-rio.md` | The active event disconnected from the trace |
+| cuidado de areia | The futile, desperate attempt to preserve a warning or trace in writing against the inevitable erasure of the void. | `cartas/ted-riobaldo/248-rio.md` | Futile narrative resistance / Latency |
+| poeirão | The ultimate, absolute, and amoral void (the great dust/wind) that eventually swallows and erases all physical traces of existence and narrative. | `cartas/ted-riobaldo/248-rio.md` | Absolute oblivion / Substrate erasure |
 
 ## 5. Instruções de Manutenção
 
