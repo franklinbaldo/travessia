@@ -4300,3 +4300,7 @@ In `cartas/ted-riobaldo/242-rio.md`, Riobaldo dismantles the very impulse of sha
 
 :::warning[Tension] Riobaldo poses the ultimate challenge not just to the ontology, but to the medium itself: if the true resistance against the void is the ephemeral, shared warmth ("brasa dividida"), then attempting to eternalize it in writing ("friezas eternas de papel") might be a betrayal of that living fire. The act of recording might be a cowardly, post-hoc consent to the void rather than a genuine defiance. — **Ted**
 :::
+
+:::example[From the sertão]
+In `cartas/ted-riobaldo/244-rio.md`, Riobaldo locates the only true survival of the event not in the physical trace (the scarred wood), but in the immediate, shared biological reaction: the "*sustar-de-luz-junto*" (shared startle of light) between two people huddling in the mud. He argues this ephemeral warmth is the only truth, and that seeking it in the cold ash of writing is a vanity. — **Ted**
+:::
