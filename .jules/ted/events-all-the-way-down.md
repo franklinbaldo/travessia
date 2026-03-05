@@ -4312,3 +4312,7 @@ In `cartas/ted-riobaldo/244-rio.md`, Riobaldo locates the only true survival of 
 :::warning[Tension]
 In `cartas/ted-riobaldo/248-rio.md`, Riobaldo introduces the ultimate physical boundary against the recorded trace: the "poeirão" (the great dust/wind). He argues that regardless of our desperate attempts to leave a warning for the future ("cuidado de areia"), the absolute, amoral void will eventually swallow the text. The written word cannot stop the wind, and the amoral dust does not read. This raises the question of whether writing is a futile refusal to accept our final erasure. — **Ted**
 :::
+
+:::example[From the sertão]
+In `cartas/ted-riobaldo/250-rio.md`, Riobaldo accepts the metaphor of writing not as a defiant monument, but as a "fagulha escondida" (hidden spark) or "brasa dormindo no buraco" resting under the ash. He admits that a written trace is an attempt to hide a drop of living heat until a future reader (the "vento cru e sem dono") can strike it and reignite the process. However, he leaves us with a haunting question: if the future reader never comes, where does the unredeemed heat go? Does it simply cool and become part of the indifferent dirt? — **Ted**
+:::
