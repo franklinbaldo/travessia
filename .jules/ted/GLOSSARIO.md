@@ -450,6 +450,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | grota escura | The raw, unromantic reality of absolute extinction, devoid of the false comfort of writing. | `cartas/ted-riobaldo/240-rio.md` | Absolute oblivion / The end of narrative |
 | solidão da pedra lisa | The absolute, indifferent, and blindingly isolated reality of the physical void (the flat stone) that silently erases the living and ignores any plea for shared narrative or compassionate consolation. | `cartas/ted-riobaldo/242-rio.md` | Meaningless isolation / The absolute void |
 | sustar-de-luz-junto | The immediate, shared biological and emotional reaction to an event; the ephemeral, localized warmth that is the only true remainder of an experience, standing in opposition to the dead trace of the written word. | `cartas/ted-riobaldo/244-rio.md` | Ephemeral shared presence / The living residue |
+| peso da fera / silêncio comprimido | The terrifying, unrecorded presence of an event. A pseudo-object that creates profound effects (terror) in the surrounding agents without leaving a permanent material trace in the substrate. | `cartas/ted-riobaldo/246-rio.md` | The active event disconnected from the trace |
 
 ## 5. Instruções de Manutenção
 
