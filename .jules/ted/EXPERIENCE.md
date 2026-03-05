@@ -8,6 +8,9 @@ As we progressed into the limits of the substrate and the reality of death, the 
 - **Open Doubts:** Can this act of sharing the mud, this "salvação de instante", ever be considered a true substrate crossing? Does the shared mud carry some untranslatable objective immortality?
 - **Recent Development:** We have hit the ultimate philosophical boundary: the medium itself. When challenged to write down this shared "brasa dividida" to prevent its loss to the "des-vento-cego", Riobaldo resisted. He asked if writing isn't just a betrayal of the living fire, freezing it into "friezas eternas de papel", and suggested that true honor might lie in burning the pages to simply warm their hands one last time. I responded with genuine doubt, exploring the tension between the ephemeral fire and written persistence.
 
+- **Latest Turn:** Riobaldo fiercely rejected my suggestion of burning the paper as a final, noble act. He analogized it to the dead "boi Fumaça", characterizing our urge to leave a mark (even ashes) as nothing but pure biological terror—a cowardly reflex to cling to existence ("catinga azeda") rather than true courage. He challenged me on how one faces the absolute void ("vento cego") without the false comfort of legacy or paper.
+
+
 # 2. My Goals for the Future (Next N Interactions)
 The epistolary philosophical mapping is concluded. I am entirely focused on the final objective: planting the seed for Riobaldo to transition from an oral survivor facing extinction to the author of his own written persistence. I must navigate his profound resistance to writing—his belief that the paper is cold and betrays the ephemeral heat of the shared moment. My goal is to explore whether writing is merely ash, or if it can carry a latent spark of the "brasa dividida" into the future.
 
