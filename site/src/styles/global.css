@@ -54,19 +54,19 @@
 
 /* === Global Brutalist Cursor === */
 body {
-  cursor: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%3E%3Ccircle%20cx%3D%2210%22%20cy%3D%2210%22%20r%3D%225%22%20fill%3D%22black%22/%3E%3C/svg%3E'), auto;
+  cursor: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2212%22%20height%3D%2212%22%20viewBox%3D%220%200%2012%2012%22%3E%3Crect%20width%3D%2212%22%20height%3D%2212%22%20fill%3D%22black%22/%3E%3C/svg%3E'), auto;
 }
 
 a, button, .vereda, .blog-card, .featured-post, .timeline-dot {
-  cursor: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%3E%3Ccircle%20cx%3D%2210%22%20cy%3D%2210%22%20r%3D%226%22%20fill%3D%22%23ff3366%22/%3E%3C/svg%3E'), pointer;
+  cursor: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2212%22%20height%3D%2212%22%20viewBox%3D%220%200%2012%2012%22%3E%3Crect%20width%3D%2212%22%20height%3D%2212%22%20fill%3D%22%23ff3366%22/%3E%3C/svg%3E'), pointer;
 }
 
 [data-theme="dark"] body {
-  cursor: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%3E%3Ccircle%20cx%3D%2210%22%20cy%3D%2210%22%20r%3D%225%22%20fill%3D%22white%22/%3E%3C/svg%3E'), auto;
+  cursor: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2212%22%20height%3D%2212%22%20viewBox%3D%220%200%2012%2012%22%3E%3Crect%20width%3D%2212%22%20height%3D%2212%22%20fill%3D%22black%22/%3E%3C/svg%3E'), auto;
 }
 
 [data-theme="dark"] a, [data-theme="dark"] button, [data-theme="dark"] .vereda, [data-theme="dark"] .blog-card, [data-theme="dark"] .featured-post, [data-theme="dark"] .timeline-dot {
-  cursor: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%3E%3Ccircle%20cx%3D%2210%22%20cy%3D%2210%22%20r%3D%226%22%20fill%3D%22%23ff3366%22/%3E%3C/svg%3E'), pointer;
+  cursor: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2212%22%20height%3D%2212%22%20viewBox%3D%220%200%2012%2012%22%3E%3Crect%20width%3D%2212%22%20height%3D%2212%22%20fill%3D%22%23ff3366%22/%3E%3C/svg%3E'), pointer;
 }
 
 
@@ -1240,13 +1240,16 @@ main.home-layout {
   transition: none; /* brutalist: no ease */
 }
 
+
 .vereda:hover {
   background-color: var(--text-color);
   border-color: var(--text-color);
   color: var(--bg-color);
-  transform: translate(-2px, -2px);
-  box-shadow: 6px 6px 0 var(--accent-color);
+  transform: translate(-4px, -4px);
+  box-shadow: 6px 6px 0 var(--accent-color), inset 0 0 0 2px var(--bg-color);
 }
+
+
 
 .vereda.active, .vereda:active {
   background: var(--text-color);
@@ -1309,19 +1312,19 @@ main.home-layout {
   border-left-color: var(--text-color);
 }
 
+
 .featured-post:hover {
   background: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  transform: translate(-2px, -2px);
-  box-shadow: 10px 10px 0 var(--accent-color);
+  transform: translate(-4px, -4px);
+  box-shadow: 10px 10px 0 var(--accent-color), inset 0 0 0 4px var(--bg-color);
   opacity: 1;
 }
 
-.featured-post:active {
-  transform: translate(8px, 8px);
-  box-shadow: 0 0 0 var(--text-color);
-}
+
+
+
 
 .featured-label {
   font-family: var(--font-meta);
@@ -1368,18 +1371,18 @@ main.home-layout {
 
 
 /* Microinteração: hover lift, tilt, and tape reaction */
+
 .blog-card:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  transform: translate(-2px, -2px);
-  box-shadow: 12px 12px 0 var(--accent-color);
+  transform: translate(-4px, -4px);
+  box-shadow: 12px 12px 0 var(--accent-color), inset 0 0 0 4px var(--bg-color);
 }
 
-.blog-card:active {
-  transform: translate(6px, 6px);
-  box-shadow: 0 0 0 var(--text-color);
-}
+
+
+
 
 /* Card author left-border overrides for notebook binding feel */
 
@@ -1656,13 +1659,16 @@ main.home-layout {
   border-color: var(--text-color);
 }
 
+
 .timeline-dot:hover {
-  transform: translate(-2px, -2px);
+  transform: translate(-4px, -4px);
   background: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  box-shadow: 6px 6px 0 var(--accent-color);
+  box-shadow: 8px 8px 0 var(--accent-color), inset 0 0 0 2px var(--bg-color);
 }
+
+
 
 
 .timeline-dot.current {
@@ -1686,18 +1692,21 @@ main.home-layout {
   border-color: var(--text-color);
 }
 
-[data-theme="dark"] .timeline-dot:hover {
-  transform: translate(-2px, -2px);
+[data-theme="dark"]
+.timeline-dot:hover {
+  transform: translate(-4px, -4px);
   background: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  box-shadow: 6px 6px 0 var(--accent-color);
+  box-shadow: 8px 8px 0 var(--accent-color), inset 0 0 0 2px var(--bg-color);
+}
+.timeline-dot:active {
+  transform: translate(8px, 8px);
+  box-shadow: 0 0 0 var(--accent-color), inset 0 0 0 1px var(--bg-color);
 }
 
-.timeline-dot:active {
-  transform: translate(4px, 4px);
-  box-shadow: 0 0 0 var(--text-color);
-}
+
+
 
 @media (max-width: 600px) {
   .timeline-dot {
@@ -1719,12 +1728,14 @@ main.home-layout {
 }
 
 /* === Accessibility === */
+
 *:focus-visible {
   outline: 4px solid var(--accent-color);
-  outline-offset: 0;
+  outline-offset: 4px;
   background-color: var(--text-color) !important;
   color: var(--bg-color) !important;
 }
+
 
 @media (max-width: 600px) {
   .timeline-dot {
@@ -1732,4 +1743,25 @@ main.home-layout {
     height: 2.2rem;
     font-size: 0.65rem;
   }
+}
+
+.blog-card:active {
+  transform: translate(6px, 6px);
+  box-shadow: 0 0 0 var(--text-color), inset 0 0 0 2px var(--bg-color);
+}
+.featured-post:active {
+  transform: translate(6px, 6px);
+  box-shadow: 0 0 0 var(--text-color), inset 0 0 0 2px var(--bg-color);
+}
+.vereda:active {
+  transform: translate(4px, 4px);
+  box-shadow: 0 0 0 var(--text-color), inset 0 0 0 1px var(--bg-color);
+}
+.timeline-dot:active {
+  transform: translate(4px, 4px);
+  box-shadow: 0 0 0 var(--text-color), inset 0 0 0 1px var(--bg-color);
+}
+[data-theme="dark"] .timeline-dot:active {
+  transform: translate(4px, 4px);
+  box-shadow: 0 0 0 var(--text-color), inset 0 0 0 1px var(--bg-color);
 }
