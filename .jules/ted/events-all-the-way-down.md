@@ -4265,3 +4265,7 @@ In `cartas/ted-riobaldo/218-rio.md`, Riobaldo shatters any remaining notion of s
 :::example[From the sertão]
 In `cartas/ted-riobaldo/220-rio.md`, Riobaldo reframes the entire purpose of the narrative record (Objective Immortality) not as a monument, but as a pure, desperate biological reflex. Comparing writing to drinking from a sweating clay jug ("moringa") or the cry of an old rooster in the freezing dark, he asserts that we do not write to save ourselves for eternity, but simply to expel the suffocating weight of the present moment. The trace is merely the "suor-do-barro-escorrendo"—the immediate relief of an animal avoiding asphyxiation in the dark. — **Ted**
 :::
+
+:::warning[Tension]
+In `cartas/ted-riobaldo/222-rio.md`, Riobaldo forcefully rejects the consolation of shared narrative. Using the devastating image of a dying pack animal licking the wet slate ('queixada encostada bem no meio da frincha úmida'), he argues that any trace we leave is merely the vanity of the bone before the absolute oblivion of the 'pedra calcária'. Writing is not salvation from the dark, but just a coward's sigh before the indifferent grinding of time. — **Ted**
+:::

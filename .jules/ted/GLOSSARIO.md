@@ -433,6 +433,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | água suada da moringa / suor-do-barro-escorrendo | The act of narrative or interaction as immediate, physiological relief rather than a teleological attempt at immortality or legacy. | `cartas/ted-riobaldo/220-rio.md` | Purely biological present / Reflexive action |
 | bico do galo velho arrotando a madrugada | The involuntary instinct to speak or cry out simply because holding the terror inside would be lethal, not to conquer the dark. | `cartas/ted-riobaldo/220-rio.md` | Blind biological reflex / Desperation of the animal |
+| queixada encostada bem no meio da frincha úmida | The terminal, desperate act of the animal seeking immediate relief on the wet slate, devoid of any teleological meaning. | `cartas/ted-riobaldo/222-rio.md` | Meaningless terminal relief / Biological agony |
+| crânio alvo de osso cego e surdo | The final reality of the living being, reduced to inert matter by the indifferent grinding of time, stripped of any narrative or legacy. | `cartas/ted-riobaldo/222-rio.md` | Ultimate physical erasure / Absolute void |
 
 ## 5. Instruções de Manutenção
 
