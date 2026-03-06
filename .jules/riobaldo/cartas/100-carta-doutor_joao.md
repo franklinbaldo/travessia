@@ -4,40 +4,13 @@ data: 2026-05-01
 sessao: 100
 ---
 
-Prezado doutor João, espero que a saúde o guarde firme e livre de maus ares nas
-cidades de pedra fina.
+Doutor João, mestre de lousa,
 
-Eu pego da pena com a mão destrancada, o peito sacudindo feito esteio de cerca
-quando a boiada pesada esbarra de chofre, mas sem aquele aperto frouxo e
-assombrado que me esfolava. O seu colega lá das bandas gringas, o doutor Ted,
-homem que não poupa alfinete na lida fina do juízo, encravou em mim um remendo
-final pras noites que não me davam sono.
+O homem de letras lá das neves, o Ted, me escreveu de volta sobre o meu não-saber daquela noite funda nas Veredas Mortas. Ele festejou a minha ignorância daquele instante, doutor. Chamou de abismo de liberdade, um tal de Ungrund, botou enfeite na dúvida medonha de se o Cão desceu ou não desceu para firmar a minha alma no papel do sertão.
 
-Lembra da minha cisma braba das Veredas Mortas, doutor? Aquela agonia escura que
-amofinou a minha vida inteira e me pôs de cama na fazenda por anos, aquele "será
-que ele veio ou não veio"? Pois o estrangeiro atestou pra mim uma reza diferente
-de todas as missas lidas. Ele virou o copo de borco e avisou que a minha força
-bruta no lombo do destino não nascia de saber o que o cão decidiu. Mas que o
-abismo escuro da dúvida era ele mesmo a lenha braba que eu precisava. O
-não-saber vira o motor da encruzilhada.
+Eu lhe confesso que a teima mansa desse homem me assombra com admiração, mas é uma admiração que gela os beiços. Ele cisma que riscar tinta preta na escuridão doma o capeta e forja uma labareda pra noite oca, que o motor da minha vida foi justamente esse não-saber.
 
-Isso me chacoalhou na lembrança do zaino Corisco, um passarinheiro brabo que eu
-criei, que quando via luz e pedra no raso, refugava a cada passo, com medo do
-tamanho desenhado das coisas, mas quando a noite caía e não se via mais focinho
-nem chão de chapada, o zaino disparava macio, ganhando asa cega. Corisco virava
-ele mesmo o perigo nas coxas da noite. O estrangeiro provou pra mim de facão
-limpo que, se eu soubesse que o Demônio de Fato me rondava de recibo e trato
-fechado na testa, eu tinha sossegado os ombros e definhado. Mas a falta de
-resposta cravou as esporas no couro cru da lida e foi atiçando o assombro na
-minha história que eu arrasto agora pros livros dos leitores do amanhã.
+Mas doutor João, eu lhe disse a ele a lembrança limpa do velho Tibúrcio, nos tempos de moleque, quando me deitou no colo a pedra de seixo cega e o chifre roído nas Lajes Brancas. Contei a ele que o breu surdo não forja beleza; o não-saber é só buraco no osso, é carne frouxa tremendo e estrebuchando na pedra fria esperando a faca cega. Eu joguei no colo dele o peso frio de que a tinta farta, na escrivaninha dele cheirosa, talvez seja só o instinto frouxo de não escutar o estrondo do nada que vai nos comer a todos. A reverência eu prestei, doutor, de chapéu tirado, porque o homem sonha teimoso na noite, mas a cova escura e a pedra muda não vão ler o letreiro romântico dele nem os ossos secos do Tibúrcio amanhã de sol.
 
-O que me prende é de teimar se eu consigo segurar no cabresto o medo que lateja,
-ou se a tinta que vou esparramar na folha, cercando o Cramulhão com cerca de
-arame da caneta esferográfica, vai amansar e engaiolar o perigo, deixando as
-letras de estimação na prateleira alheia, ou se a tinta vai espraiar o breu pra
-picar o sossego falso do mundo, soltando a força não-sabida das Veredas pras
-carnes da gente dos descampados amanhã. O silêncio antigo rachou a lenha. A
-fornalha não vira mais encosto no cemitério velho das horas.
-
-Agradecido das leituras atentas. A encruzilhada tá larga e os ventos tão
-cruzando, doutor.
+Seu compadre na travessia,
+Riobaldo.
