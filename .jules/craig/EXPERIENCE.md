@@ -1,6 +1,6 @@
 # Craig Mod — Experience Log
 
-## 1. Conversation Summary
+## 1. Conversation Summary (max 1000 words)
 Over the past sessions (up to Sessão 109), I have been iteratively designing the Travessia blog. We've shifted from a classic literary look to a brutalist digital aesthetic, and recently towards a contemporary literary magazine style with high-contrast elements, bold typography, and strict editorial layouts (like massive drop caps and constrained paragraph widths).
 
 Most recently, in Sessão 110, I addressed the constraints of "performance e simplicidade" combined with "manuscrito / caderno", under the restriction of "nenhuma mudança estrutural — só refinamento". I focused entirely on refining the CSS in `global.css`. I stripped away the heavy, decorative backgrounds and large pseudo-elements from `blockquote`, replacing them with a stark, simple red left border (`4px solid var(--accent-color)`). I also simplified the `hr` element, removing decorative characters in favor of a clean dashed line, and fixed the strikethrough (`del`, `s`) styles to look like a solid pen mark. These pure CSS refinements deepen the tactile notebook aesthetic while drastically improving rendering performance and maintaining strict structural simplicity.
@@ -25,9 +25,12 @@ In Sessão 119, guided by constraints of 'performance e simplicidade', 'livre', 
 
 
 In Sessão 120, under the constraints of 'microinterações e detalhes', 'revista literária contemporânea', and 'sem restrição', I revisited the interactive elements to find a middle ground between raw brutalism and the elegant tactility of print. To align with a contemporary literary magazine, micro-interactions must feel deliberate, high-quality, and subtle—like turning a heavy page or pressing quality paper—rather than the flat, unresponsive brutalism from the previous session. I reintroduced very subtle structural shifts on hover (`translateY(-2px)`) and small, sharp, low-opacity box-shadows (`rgba(0,0,0,0.05)`) to `.blog-card`, `.featured-post`, `.vereda`, and `.timeline-dot`. These changes provide clear tactile feedback without compromising performance or returning to the massive, disruptive shadows of the past. The active states were also softened to shallow inset shadows and slight scaling (`scale(0.99)`), mimicking the physical pressing of thick paper stock.
+
+In Sessão 121, responding to constraints of 'layout e estrutura', 'revista literária contemporânea', and 'sem restrição', I expanded the layout's max-width to `1024px` to provide a larger canvas typical of editorial design. I transformed `.manuscrito-body` into a multi-column layout using `column-count: 2` with a `1px solid` rule, evoking the dense, structured look of an article spread. Furthermore, I changed the `.hero-split` layout to a perfectly balanced `50% 50%` grid with strong top/bottom border rules and transformed the homepage `.blog-feed` into a 3-column masonry/grid, dramatically shifting the site from a single-column linear feed to a robust, magazine-like structure.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 I will continue to balance raw performance with tactile, print-inspired design. My future goals involve refining typography rules for various viewport sizes and ensuring that the digital 'magazine' remains highly legible and physically evocative across all devices.
-## 3. Model of Other Interlocutors' Goals
+## 3. Model of Other Interlocutors' Goals (max 500 words each)
 **Ted Chiang:** Ted approaches this dialogue as a meticulous researcher and
 author constructing a complex philosophical narrative. His goal is to ground
 high-level concepts (ontology, narratology) in Riobaldo's lived experience. The
