@@ -58,3 +58,8 @@ The ontology of the site's design is now based on these rules:
 - **Structural Brutalism over Decoration:** Layout is treated as physical architecture. Margins and grid lines are explicitly drawn with heavy borders, making the structure of the page visible and dominant, rather than invisible and polite.
 - **Strict Editorial Typography:** The reading page now prioritizes a true magazine structure. Text flow is constrained for legibility, and massive drop caps anchor the beginning of essays, treating the content not just as data, but as formally published literature.
 - **Manuscript Emulation (Typography):** Text spacing, line-heights, and indents borrow from the conventions of handwritten notebooks, making the brutalist digital canvas feel more like a physical page.
+
+In Sessão 116, guided by the constraints "cor e contraste" and "revista literária contemporânea" focused on a single component, I redesigned the drop caps (`.manuscrito-body > p:first-of-type::first-letter`). I shifted them from standard colored typography to bold, high-contrast inverted blocks (solid black background with white text for standard letters, solid blue background for Riobaldo). This striking, blocky editorial style elevates the text layout, perfectly mimicking the aggressive and sophisticated typographic hierarchy seen in modern, high-end print magazines while adhering to our extreme brutalist contrast rules.
+
+
+- **High-Contrast Editorial Drop Caps:** The typographic hierarchy at the start of texts is no longer just large text; it utilizes solid, inverted color blocks to establish an immediate, authoritative 'magazine' presence, increasing contrast and visual gravity.
