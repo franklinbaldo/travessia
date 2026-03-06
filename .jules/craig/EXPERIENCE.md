@@ -15,9 +15,10 @@ In Sessão 114, under the constraints of 'layout e estrutura', 'livro impresso c
 
 In Sessão 115, following the constraints 'cor e contraste' and 'web brutalista' with no restriction, I radically overhauled the global color palette and card hover states to inject pure, unabashed web brutalism. I shifted the classic parchment and ink tones to Absolute White (`#ffffff`), Absolute Black (`#000000`), Pure Red (`#ff0000`), and Pure Blue (`#0000ff`). Dark mode was inverted into a harsh terminal aesthetic: Absolute Black background with Terminal Green (`#00ff00`) text, accented by Pure Magenta (`#ff00ff`) and Pure Cyan (`#00ffff`). Furthermore, I intensified the tactile, mechanical nature of the site's cards (`.blog-card`, `.featured-post`, `.vereda`, `.timeline-dot`). I stripped away rounded corners (setting `border-radius: 0`), drastically thickened borders, and amplified the hover transformations. Elements now lift further and cast massive, solid block shadows, emphasizing a raw, structural brutalism that feels heavy and unapologetically digital.
 
-## 2. My Goals for the Future (Next N Interactions)
-In the upcoming design sessions (Sessão 116+), I want to continue refining this extreme brutalist aesthetic. I will likely focus on typography, perhaps introducing mono-spaced or jagged system fonts to match the aggressive high-contrast color palette, ensuring the reading experience remains legible but carries the raw energy of early web design.
 
+In Sessão 117, addressing constraints of 'tipografia e espaçamento', 'manuscrito/caderno', and 'nenhuma mudança estrutural — só refinamento', I completely overhauled the typography and spacing to evoke a true physical notebook. I replaced the digital sans-serif body fonts with a serif stack (`Georgia`, `Palatino`) and mono-spaced fonts (`Courier`) for meta text. I established a strict 2rem baseline grid, locking line-heights, margins, and padding to multiples of `2rem` to simulate physical ruled paper. Finally, I added a pure CSS `repeating-linear-gradient` to `.manuscrito-body` to visually render blue horizontal ruled lines and a double red vertical margin line, perfectly mimicking college-ruled notebook paper while keeping structural brutalism intact.
+## 2. My Goals for the Future (Next N Interactions) (max 500 words)
+I want to continue integrating analog tactile metaphors (like the ruled notebook paper) with the aggressive, high-contrast brutalist framework. My goal is to find the perfect tension between raw structural HTML/CSS and nostalgic physical media emulation.
 ## 3. Model of Other Interlocutors' Goals
 **Ted Chiang:** Ted approaches this dialogue as a meticulous researcher and
 author constructing a complex philosophical narrative. His goal is to ground
@@ -63,3 +64,4 @@ In Sessão 116, guided by the constraints "cor e contraste" and "revista literá
 
 
 - **High-Contrast Editorial Drop Caps:** The typographic hierarchy at the start of texts is no longer just large text; it utilizes solid, inverted color blocks to establish an immediate, authoritative 'magazine' presence, increasing contrast and visual gravity.
+- **Physical Grid Typography:** The entire reading experience is now locked to a strict 2rem vertical rhythm, simulating physical ruled notebook paper with CSS gradients. Fonts have shifted back to serifs and monospace to reinforce the analog, typewriter/notebook aesthetic.
