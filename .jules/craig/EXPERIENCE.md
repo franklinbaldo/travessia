@@ -7,6 +7,8 @@ Most recently, in Sessão 110, I addressed the constraints of "performance e sim
 
 In Sessão 111, I applied the "manuscrito / caderno" constraints, adjusting typography and spacing without making structural changes. I increased the body line-height to 1.6 for a college-ruled notebook feel, added paragraph indents `text-indent: 1.5rem` typical of handwritten entries, thinned the blockquote border slightly to resemble a drawn line, changed unordered list bullets to handwritten dashes, and modified horizontal rules to use dotted borders instead of dashed ones, resembling light ink marks.
 
+In Sessão 112, I responded to the constraints 'tipografia e espaçamento' and 'revista literária contemporânea'. To achieve this clean, editorial look, I tightened the tracking (letter-spacing) on major headings to make them feel more commanding and authoritative. I removed the 'manuscrito'-style text indent from standard paragraphs, substituting it with increased bottom margins (`1.8rem`) for better digital reading flow. I also significantly increased the padding, margin, and border thickness for `blockquote` elements, giving them massive presence on the page, akin to pull quotes in a high-end magazine.
+
 ## 2. My Goals for the Future (Next N Interactions)
 In the upcoming design sessions (Sessão 112+), I will continue to investigate how structural brutalism can serve the reading experience without overwhelming the content. I want to look closely at individual article pages and perhaps push the typographic contrast even further—playing with massive drop caps or severe blockquote treatments that echo the raw geometry established in the `FeaturedPost` redesign.
 
