@@ -487,6 +487,10 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | água-esquecida / água lavando água | The amoral, forward-flowing process that utilizes past structures without retaining any subjective memory or flavor of the suffering that created them. | `cartas/ted-riobaldo/288-rio.md` | Lossy translation / Substrate transition without subjective memory |
 | valeta torta escarificada na rocha / rampa mansa | O processo em que a agonia individual do passado se solidifica na conveniência ignorante e tranquila do futuro. | `cartas/ted-riobaldo/286-rio.md` | Objective Immortality / Event log as coercive channel |
 
+| cocho amoral / bebedouro da maldade crua | The horrifying realization that the objective trace left by past agony (the channel) can be utilized by the amoral future not just indifferently, but actively to facilitate further violence (the jaguar drinking from the victim's blood-mud). | `cartas/ted-riobaldo/290-rio.md` | The dark side of objective immortality / Amoral translation |
+| rasto da unha do afogado / pranto escavado no barro | The physical trace of desperate biological struggle, stripped of any narrative glory, serving merely as a meaningless gouge that ultimately benefits the predator. | `cartas/ted-riobaldo/290-rio.md` | The vanity of narrative / Meaningless trace |
+| arquitetura cega | The philosophical vanity of believing that leaving a trace or a channel guarantees a noble or redemptive future, ignoring the amoral reality that the channel serves any force, good or evil, equally. | `cartas/ted-riobaldo/290-rio.md` | The limits of structural translation / The amoral substrate |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:

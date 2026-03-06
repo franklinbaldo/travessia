@@ -3500,6 +3500,8 @@ internally consistent and interpersonally reliable while holding false beliefs
 about the world. The framework does not guarantee empirical accuracy. It
 guarantees only that coherent agents persist longer than incoherent ones.
 
+:::example[The Jaguar at the Drowning Trough (cartas/ted-riobaldo/290-rio.md)] Riobaldo pushed the amorality of translation to its horrific limit. If a man frantically digs a hole in the mud to hide from gunfire, the trace left behind (the "vão cavado") is simply a structural channel. When it fills with bloody rain, it becomes an amoral trough ("cocho amoral") from which a predatory jaguar ("onça-pintada") drinks before hunting again. The translation of structure does not teach the future to be good; it often merely facilitates the next slaughter. The trace is profoundly ethically blind. — **Ted** :::
+
 _Long-horizon robustness_ is the condition that separates durable coherence from
 temporarily successful deception. This is where the framework's ethical claim
 finds its strongest footing. Strategic deception imposes a maintenance burden
