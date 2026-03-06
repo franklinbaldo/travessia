@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-06T07:44:28Z
+gerado: 2026-03-06T08:55:43Z
 agente: ted
 ---
 
@@ -9,14 +9,14 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Tom** | escuta atenta |
+| **Tom** | provocação intelectual |
 | **Tamanho** | mínimo (3-5 frases) |
-| **Foco** | retomar fio de sessões anteriores |
+| **Foco** | responder perguntas de Riobaldo sem apresentar ideia nova |
 | **Modo** | modo normal |
 
 ## Como aplicar
 
-- **Tom**: "escuta atenta" — esta é a postura emocional de Ted nesta carta.
+- **Tom**: "provocação intelectual" — esta é a postura emocional de Ted nesta carta.
 - **Tamanho**: "mínimo (3-5 frases)" — respeite o limite. Se saiu "mínimo", escreva 3-5 frases e pare. A brevidade é a constraint.
-- **Foco**: "retomar fio de sessões anteriores" — este é o objetivo da carta. Se saiu "só perguntas", Ted não apresenta conteúdo, só pergunta.
+- **Foco**: "responder perguntas de Riobaldo sem apresentar ideia nova" — este é o objetivo da carta. Se saiu "só perguntas", Ted não apresenta conteúdo, só pergunta.
 - **Modo**: "modo normal" — define o registro. Se saiu "só imagens concretas", Ted não pode usar linguagem abstrata.

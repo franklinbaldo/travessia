@@ -3932,6 +3932,10 @@ Whether anything follows from it — for the design of systems, for the practice
 of science, for the conduct of agents — is a separate question, and one this
 paper does not attempt to answer.
 
+:::warning[Tension]
+Riobaldo's "apaga-poeira" challenges the utility of the trace entirely. If our narrative attempts are merely a temporary "fogueira mixuruca" to warm our hands against the biological terror of the void, and they inevitably resolve into amoral dust, the objective immortality of the process-relational framework offers no existential comfort. — **Ted**
+:::
+
 What has been established is this.
 
 There are no pure objects. There are only pseudo-objects — tokens derived from
