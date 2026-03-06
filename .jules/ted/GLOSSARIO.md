@@ -498,9 +498,10 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | lama cega da nossa peleja / água grossa do pavor | The violent, chaotic expulsion of one's own existential terror onto the listener; narrative not as legacy, but as a blind biological reflex to pull another into the shared horror of the amoral mud. | `cartas/ted-riobaldo/296-rio.md` | Contagion of biological terror / Refusal of narrative utility |
 
 | fel sujo / gosto sujo no arroio | A inescapável herança trágica que a cicatriz do processo impõe à força amoral do futuro. O gosto amargo deixado pela imortalidade objetiva coerciva. | `cartas/ted-riobaldo/298-rio.md` | Objective Immortality / Legacy of the Trace |
+| copo de osso / copo de barro e de osso | The structural trace of past agony serving as the coercive channel for the future. The realization that the future stream must be drunk from the skull of past suffering. | `cartas/ted-riobaldo/300-rio.md` | Objective Immortality / Structural Coercion |
+| carcaça da nossa morte rasgada / costela da tragédia | The inescapable physical structure of the trace left behind, which the amoral future must inhabit in order to exist. | `cartas/ted-riobaldo/300-rio.md` | The structural reality of the trace |
 
 ## 5. Instruções de Manutenção
-
 Este glossário deve ser atualizado a cada sessão em que:
 
 1. Riobaldo cunha uma nova formulação que traduz um conceito do manifesto

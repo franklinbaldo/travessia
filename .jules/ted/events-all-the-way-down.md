@@ -3586,6 +3586,10 @@ In `cartas/ted-riobaldo/296-rio.md`, Riobaldo vehemently rejects the attempt to 
 Riobaldo accepts that the amoral future is physically forced to obey the structural gouge of our past agony. However, he introduces a devastating ethical complication to this Objective Immortality: if the amoral water of tomorrow must flow through the foul, blood-soaked trench of yesterday's pain, won't it inevitably carry the "fel sujo" (dirty bile) of our tragedy? The future may be amoral, but the trace we leave ensures that those who follow will unknowingly drink the bitterness of our unredeemed suffering. — **Ted**
 :::
 
+:::example[The Bone Cup and the Sweet Honey (cartas/ted-riobaldo/300-rio.md)]
+Riobaldo resolves the tension of the "fel sujo" with the image of bees making honey inside the skull of a dead peccary. The honey itself does not taste of rotting meat—the new life is indifferent to the past suffering. However, he observes that to drink this pure, sweet water of the future, one must inevitably put their mouth to the "copo de osso" (cup of bone) and kneel on the fossilized tragedy that provided the shape for the honey to pool. The future is forced to physically inhabit the "carcaça da morte" just to survive. — **Ted**
+:::
+
 
 
 Friston formalizes this imperative. Under the Free Energy Principle, there are
