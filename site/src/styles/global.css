@@ -4,19 +4,19 @@
    =========================== */
 
 :root {
-  /* Classic Printed Book Palette */
-  --bg-color: #fcfbf9; /* Classic Book Parchment */
-  --text-color: #0a0a0a; /* Deep Print Ink */
-  --accent-color: #cc0000; /* Classic Rubrication Red */
-  --secondary-color: #cc0000;
-  --divider-color: #1a1a1a;
-  --meta-color: #4a4a4a;
+  /* Web Brutalista High Contrast Palette */
+  --bg-color: #ffffff; /* Absolute White */
+  --text-color: #000000; /* Absolute Black */
+  --accent-color: #ff0000; /* Pure Red */
+  --secondary-color: #0000ff; /* Pure Blue */
+  --divider-color: #000000;
+  --meta-color: #000000;
   --noise-op: 0;
-  --sand-bg: #fdfdfd;
-  --water-bg: #ffffff;
-  --water-border: rgba(230, 57, 70, 0.3);
-  --progress-start: #e63946;
-  --progress-end: #d90429;
+  --sand-bg: #ffffff;
+  --water-bg: #ffff00; /* Pure Yellow */
+  --water-border: #000000;
+  --progress-start: #ff0000;
+  --progress-end: #0000ff;
 
   --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --font-ted: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -28,18 +28,18 @@
 }
 
 [data-theme="dark"] {
-  --bg-color: #050505; /* Deep Charcoal Ink */
-  --text-color: #f5f5f0; /* Crisp Cream Paper */
-  --accent-color: #e62e2e; /* Brightened Rubrication Red */
-  --secondary-color: #e62e2e;
-  --divider-color: #f8f7f5;
-  --meta-color: #a0a0a0;
+  --bg-color: #000000; /* Absolute Black */
+  --text-color: #00ff00; /* Terminal Green */
+  --accent-color: #ff00ff; /* Pure Magenta */
+  --secondary-color: #00ffff; /* Pure Cyan */
+  --divider-color: #00ff00;
+  --meta-color: #00ff00;
   --noise-op: 0;
-  --sand-bg: #18181c;
-  --water-bg: #1a1a1a;
-  --water-border: rgba(239, 35, 60, 0.3);
-  --progress-start: #ef233c;
-  --progress-end: #d80032;
+  --sand-bg: #000000;
+  --water-bg: #ff00ff;
+  --water-border: #00ff00;
+  --progress-start: #ff00ff;
+  --progress-end: #00ffff;
 }
 
 /* === Reset === */
@@ -1225,16 +1225,16 @@ main.home-layout {
 }
 
 .vereda {
-  background: none; border: 2px solid var(--text-color);
+  background: none; border: 4px solid var(--text-color);
   color: var(--meta-color);
   font-family: var(--font-meta);
   font-size: 0.75rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  padding: 0.35rem 0.9rem; border-radius: 8px;
+  padding: 0.35rem 0.9rem; border-radius: 0px;
   cursor: pointer;
   white-space: nowrap;
-  box-shadow: 3px 3px 0 var(--text-color);
+  box-shadow: 6px 6px 0 var(--text-color);
   transition: none; /* brutalist: no ease */
 }
 
@@ -1243,8 +1243,8 @@ main.home-layout {
   background-color: var(--text-color);
   border-color: var(--text-color);
   color: var(--bg-color);
-  transform: translate(-4px, -4px);
-  box-shadow: 6px 6px 0 var(--accent-color), inset 0 0 0 2px var(--bg-color);
+  transform: translate(-6px, -6px);
+  box-shadow: 10px 10px 0 var(--accent-color), inset 0 0 0 2px var(--bg-color);
 }
 
 
@@ -1253,7 +1253,7 @@ main.home-layout {
   background: var(--text-color);
   border-color: var(--text-color);
   color: var(--bg-color);
-  transform: translate(3px, 3px);
+  transform: translate(6px, 6px);
   box-shadow: 0 0 0 var(--text-color);
 }
 
@@ -1277,9 +1277,9 @@ main.home-layout {
   display: block;
   position: relative;
   margin-bottom: 2rem;
-  padding: 1.75rem 2rem; border: 2px solid var(--text-color); border-radius: 8px;
-  text-decoration: none; border-left: 2px solid var(--text-color);
-  box-shadow: 8px 8px 0 var(--text-color);
+  padding: 1.75rem 2rem; border: 4px solid var(--text-color); border-radius: 0px;
+  text-decoration: none; border-left: 10px solid var(--text-color);
+  box-shadow: 12px 12px 0 var(--text-color);
   transition: none; /* brutalist */
 }
 
@@ -1315,8 +1315,8 @@ main.home-layout {
   background: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  transform: translate(-4px, -4px);
-  box-shadow: 10px 10px 0 var(--accent-color), inset 0 0 0 4px var(--bg-color);
+  transform: translate(-8px, -8px);
+  box-shadow: 16px 16px 0 var(--accent-color), inset 0 0 0 4px var(--bg-color);
   opacity: 1;
 }
 
@@ -1356,11 +1356,11 @@ main.home-layout {
   margin-bottom: 2.5rem;
   padding: 1.5rem 1.5rem 1.5rem 2rem;
   background-color: var(--sand-bg);
-  border: 2px solid var(--text-color);
-  border-left: 6px solid var(--text-color);
-  border-radius: 8px;
+  border: 4px solid var(--text-color);
+  border-left: 10px solid var(--text-color);
+  border-radius: 0px;
   text-decoration: none;
-  box-shadow: 8px 8px 0 var(--text-color);
+  box-shadow: 12px 12px 0 var(--text-color);
   transition: none; /* brutalist */
 }
 
@@ -1374,8 +1374,8 @@ main.home-layout {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  transform: translate(-4px, -4px);
-  box-shadow: 12px 12px 0 var(--accent-color), inset 0 0 0 4px var(--bg-color);
+  transform: translate(-8px, -8px);
+  box-shadow: 16px 16px 0 var(--accent-color), inset 0 0 0 4px var(--bg-color);
 }
 
 
@@ -1638,14 +1638,14 @@ main.home-layout {
   justify-content: center;
   width: 2.5rem;
   height: 2.5rem;
-  flex-shrink: 0; border-radius: 8px; border: 2px solid var(--text-color);
+  flex-shrink: 0; border-radius: 0px; border: 4px solid var(--text-color);
   background: var(--sand-bg);
   color: var(--text-color);
   font-family: var(--font-meta);
   font-size: 0.75rem;
   font-weight: 600;
   text-decoration: none;
-  box-shadow: 4px 4px 0 var(--text-color);
+  box-shadow: 6px 6px 0 var(--text-color);
   transition: none; /* brutalist */
 }
 
@@ -1659,11 +1659,11 @@ main.home-layout {
 
 
 .timeline-dot:hover {
-  transform: translate(-4px, -4px);
+  transform: translate(-6px, -6px);
   background: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  box-shadow: 8px 8px 0 var(--accent-color), inset 0 0 0 2px var(--bg-color);
+  box-shadow: 12px 12px 0 var(--accent-color), inset 0 0 0 2px var(--bg-color);
 }
 
 
@@ -1692,11 +1692,11 @@ main.home-layout {
 
 [data-theme="dark"]
 .timeline-dot:hover {
-  transform: translate(-4px, -4px);
+  transform: translate(-6px, -6px);
   background: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  box-shadow: 8px 8px 0 var(--accent-color), inset 0 0 0 2px var(--bg-color);
+  box-shadow: 12px 12px 0 var(--accent-color), inset 0 0 0 2px var(--bg-color);
 }
 .timeline-dot:active {
   transform: translate(8px, 8px);
@@ -1713,14 +1713,14 @@ main.home-layout {
   justify-content: center;
   width: 2.5rem;
   height: 2.5rem;
-  flex-shrink: 0; border-radius: 8px; border: 2px solid var(--text-color);
+  flex-shrink: 0; border-radius: 0px; border: 4px solid var(--text-color);
   background: var(--sand-bg);
   color: var(--text-color);
   font-family: var(--font-meta);
   font-size: 0.75rem;
   font-weight: 600;
   text-decoration: none;
-  box-shadow: 4px 4px 0 var(--text-color);
+  box-shadow: 6px 6px 0 var(--text-color);
   transition: none; /* brutalist */
 }
 }
