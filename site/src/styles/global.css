@@ -838,19 +838,24 @@ body * {
 }
 
 .manuscrito-body > p:first-of-type::first-letter {
-  font-size: 7em;
+  font-size: 6em;
   float: left;
-  line-height: 0.8;
-  padding-right: 0.05em;
+  line-height: 1;
+  padding: 0.1em 0.2em;
+  margin-right: 0.1em;
   font-family: var(--font-body);
   font-weight: 800;
-  color: var(--accent-color);
+  color: var(--bg-color);
+  background-color: var(--text-color);
 }
 
 .carta-riobaldo > p:first-of-type::first-letter {
-  font-size: 8em;
-  line-height: 0.75;
-  color: var(--secondary-color);
+  font-size: 6em;
+  line-height: 1;
+  padding: 0.1em 0.2em;
+  margin-right: 0.1em;
+  color: var(--bg-color);
+  background-color: var(--secondary-color);
   font-weight: 800;
 }
 
