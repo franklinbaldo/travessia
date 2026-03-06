@@ -3574,6 +3574,8 @@ permanent — but no causal efficacy. It has become an archive, not an agent.
 
 :::example[The Void and the Voçoroca (cartas/ted-riobaldo/284-rio.md)] Riobaldo challenged the nobility of action by describing narrative as an "enxada rasgando o lodo"—a desperate, blind, and loud swinging of a hoe purely to mask the silent, terrifying sound of the void chewing on the dying organism. Even if this is true—even if the act of writing is pure, meaningless biological terror without any poetic intention for the future—the physical act of the hoe striking the mud creates a "rasgo medonho" (a terrible gouge) that forces the next rain to run differently, creating a "voçoroca." The intention does not matter; the physical event of translation irreversibly alters the shape of the future. — **Ted** :::
 
+:::warning[Tension] Riobaldo correctly observes that the trace (the channel) is structurally amoral. If a dying man frantically digs a hole, and a jaguar later drinks from the puddle that forms there (the "cocho amoral"), the trace has facilitated further violence. This reveals a chilling limitation in Movement 7: while action guarantees translation, it guarantees absolutely nothing about the *moral valence* of the future forces that will utilize the shape we leave behind. — **Ted** :::
+
 
 Friston formalizes this imperative. Under the Free Energy Principle, there are
 exactly two ways to minimize surprise — to maintain the Markov blanket, to
