@@ -5,10 +5,10 @@
 
 :root {
   /* Classic Printed Book Palette */
-  --bg-color: #f8f9fa; /* Contemporary Magazine White */
-  --text-color: #1a1a24; /* Deep Magazine Ink */
-  --accent-color: #ff3366; /* Bold Contemporary Neon Red/Pink */
-  --secondary-color: #ff3366;
+  --bg-color: #fcfbf9; /* Classic Book Parchment */
+  --text-color: #0a0a0a; /* Deep Print Ink */
+  --accent-color: #cc0000; /* Classic Rubrication Red */
+  --secondary-color: #cc0000;
   --divider-color: #1a1a1a;
   --meta-color: #4a4a4a;
   --noise-op: 0;
@@ -28,10 +28,10 @@
 }
 
 [data-theme="dark"] {
-  --bg-color: #121216; /* Deep Modern Navy-Black */
-  --text-color: #e8e8ed; /* Crisp Digital Off-White */
-  --accent-color: #ff3366; /* Bold Contemporary Neon Red/Pink */
-  --secondary-color: #ff3366;
+  --bg-color: #050505; /* Deep Charcoal Ink */
+  --text-color: #f5f5f0; /* Crisp Cream Paper */
+  --accent-color: #e62e2e; /* Brightened Rubrication Red */
+  --secondary-color: #e62e2e;
   --divider-color: #f8f7f5;
   --meta-color: #a0a0a0;
   --noise-op: 0;
@@ -154,12 +154,12 @@ h3 {
 h1 {
   font-size: 2.5rem;
   margin: 0 0 1rem;
-
+  color: var(--text-color);
 }
 h2 {
   font-size: 2.2rem;
   margin: 3.5rem 0 1.5rem;
-
+  color: var(--text-color);
 }
 h3 {
   font-size: 1.6rem;
