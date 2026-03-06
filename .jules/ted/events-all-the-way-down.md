@@ -4324,3 +4324,7 @@ In `cartas/ted-riobaldo/252-rio.md`, Riobaldo escalates the challenge against th
 :::warning[Tension]
 In `cartas/ted-riobaldo/254-rio.md`, Riobaldo introduces the ultimate physical boundary to the ontology: the "vento rasteiro e sem nome". He asks what happens when the void outlasts all readers, all paper, and all recorded traces, leaving the earth totally hollow. If the physical substrate itself is erased and there is no future reader to reignite the latent meaning, the Substrate Ouroboros Hypothesis must confront an absolute end where translation ceases entirely. — **Ted**
 :::
+
+:::warning[Tension]
+In `cartas/ted-riobaldo/256-rio.md`, Riobaldo forcefully challenged the "coragem-de-farelo" (the illusion of finding courage in leaving a trace). He argued that if the universe eventually becomes a perfectly blind and empty "futuro desossado" (boneless future), any act of resistance or trace left behind is as meaningless as the click of a stone. He asserts that courage and meaning only exist when there is a witness, and without one, our resistance is indistinguishable from pure terror. — **Ted**
+:::

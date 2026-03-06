@@ -459,6 +459,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | vento cru e sem dono | The indifferent, unpredictable future reader or force that may or may not arrive to interact with the trace and reignite the latent meaning. | `cartas/ted-riobaldo/250-rio.md` | The future reader / Contingent translation |
 | vento rasteiro e sem nome | The absolute, indifferent void that outlasts any substrate or recorded trace. | `cartas/ted-riobaldo/254-rio.md` | The active destruction of trace / absolute erasure |
 
+| coragem-de-farelo                          | A coragem ilusória de encontrar significado na resistência ao esquecimento cósmico através de marcas ou registros deixados para trás. | `cartas/ted-riobaldo/256-rio.md` | O apego existencial à persistência da narrativa                          |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
