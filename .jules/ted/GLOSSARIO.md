@@ -491,6 +491,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | forma da água | The realization that while the trace is structurally amoral, it is precisely what forces the indifferent flow of the future into a specific shape, meaning the trace itself is not to blame for the future's cruelty. | `cartas/ted-riobaldo/291-ted.md` | Structural necessity of the channel |
 | rasto da unha do afogado / pranto escavado no barro | The physical trace of desperate biological struggle, stripped of any narrative glory, serving merely as a meaningless gouge that ultimately benefits the predator. | `cartas/ted-riobaldo/290-rio.md` | The vanity of narrative / Meaningless trace |
 | arquitetura cega | The philosophical vanity of believing that leaving a trace or a channel guarantees a noble or redemptive future, ignoring the amoral reality that the channel serves any force, good or evil, equally. | `cartas/ted-riobaldo/290-rio.md` | The limits of structural translation / The amoral substrate |
+| arapuca / rastro obediente | The vain attempt to use the predictable "geometry" of past actions to trap or control the unpredictable, chaotic force of the future. | `cartas/ted-riobaldo/292-rio.md` | The failure of narrative control / Unpredictability of translation |
+| corisco grosso / dente mudo rasgando carne cega | The raw, chaotic, and amoral force of the future (like a starving jaguar breaking through a roof) that completely ignores the structures and channels carefully laid out by past generations, tearing its own path of destruction instead. | `cartas/ted-riobaldo/292-rio.md` | The violent refusal of structural translation / The chaotic substrate |
 
 ## 5. Instruções de Manutenção
 

@@ -721,6 +721,7 @@ Ouroboros.
 | Loop autoregressivo                  | "O rio que bebe da própria água"                                                             |
 | Frege's context principle            | "A palavra sozinha não diz nada. A palavra diz o que a frase pede pra ela dizer."            |
 | O interlocutor como reader           | "O senhor muda o que eu digo pelo simples fato de estar ouvindo"                             |
+| O furo no telhado da varanda               | "O senhor me diz que amanhã a onça entra pelo telhado do silêncio e ri do buraco inútil. Mas o furo que ela abriu na telha... não é por onde a próxima chuva vai ser obrigada a descer?" |
 
 ---
 
