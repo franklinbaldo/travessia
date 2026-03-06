@@ -749,24 +749,37 @@ body * {
 
 .manuscrito-header {
   margin-bottom: 4rem;
-  text-align: left;
+  text-align: center;
   background-color: transparent;
-  border-bottom: 4px solid var(--text-color);
-  border-top: 4px solid var(--text-color);
-  padding: 3rem 0 2rem;
+  padding: 4rem 0 2rem;
+  border-bottom: 1px solid var(--text-color);
   border-radius: 0;
   margin-top: 2rem;
+  position: relative;
+}
+
+.manuscrito-header::after {
+  content: "";
+  position: absolute;
+  bottom: -4px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 50%;
+  height: 1px;
+  background-color: var(--text-color);
 }
 
 [data-theme="dark"] .manuscrito-header {
 }
 
 .manuscrito-header h1 {
-  font-size: clamp(3rem, 6vw, 5rem);
+  font-size: clamp(2.5rem, 5vw, 4rem);
   color: var(--text-color);
-  margin-bottom: 0.5rem;
-  line-height: 1.1;
-  letter-spacing: -0.02em;
+  margin-bottom: 1rem;
+  line-height: 1.2;
+  font-weight: normal;
+  font-family: var(--font-body);
+  letter-spacing: 0.02em;
 }
 
 [data-theme="dark"] .manuscrito-header h1 {

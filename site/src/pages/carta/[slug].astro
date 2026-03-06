@@ -38,11 +38,11 @@ function autorClasse(autorName: string): string {
   <article>
     <header class="manuscrito-header">
       <h1>{titulo}</h1>
-      <div class="header-meta-block" style="display: flex; gap: 1rem; align-items: center; margin-top: 1.5rem; flex-wrap: wrap; justify-content: flex-start;">
+      <div class="header-meta-block" style="display: flex; flex-direction: column; gap: 0.5rem; align-items: center; margin-top: 1.5rem; justify-content: center;">
           <div class="carta-autor-badge" style="margin: 0;">
             <span class={`autor-badge autor-${isRio ? 'rio' : 'ted'}`}>{autor}</span>
           </div>
-          <div class="post-meta" style="margin: 0; justify-content: flex-start;">
+          <div class="post-meta" style="margin: 0; justify-content: center;">
             <time datetime={entry.data.data ? entry.data.data.toISOString() : ''}>
               {entry.data.data ? formatDate(new Date(entry.data.data)) : ''}
             </time>
@@ -58,7 +58,7 @@ function autorClasse(autorName: string): string {
             </div>
           )}
       </div>
-      <div class="separator"></div>
+
     </header>
 
     <div class={`manuscrito-body ${isRio ? 'carta-riobaldo' : ''}`}>
