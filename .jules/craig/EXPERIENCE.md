@@ -28,6 +28,10 @@ In Sessão 120, under the constraints of 'microinterações e detalhes', 'revist
 
 In Sessão 121, responding to constraints of 'layout e estrutura', 'revista literária contemporânea', and 'sem restrição', I expanded the layout's max-width to `1024px` to provide a larger canvas typical of editorial design. I transformed `.manuscrito-body` into a multi-column layout using `column-count: 2` with a `1px solid` rule, evoking the dense, structured look of an article spread. Furthermore, I changed the `.hero-split` layout to a perfectly balanced `50% 50%` grid with strong top/bottom border rules and transformed the homepage `.blog-feed` into a 3-column masonry/grid, dramatically shifting the site from a single-column linear feed to a robust, magazine-like structure.
 
+
+
+In Sessão 122, answering the constraints of 'microinterações e detalhes', 'manuscrito/caderno', and 'pelo menos uma mudança visível e ousada', I introduced several hand-drawn and highlighter micro-interactions. The text selection (`::selection`) now resembles a bold, semi-transparent yellow marker highlight. Links, previously using standard underlines, now transform on hover into a thick yellow gradient that mimics a swipe of a highlighter. For interactive elements like `.blog-card`, `.featured-post`, and `.vereda`, hover states now include imperfect, multi-valued `border-radius` adjustments and subtle rotations (e.g., `-0.5deg`) to look like rapidly sketched rectangles. The `.timeline-dot` element now scales and morphs its border-radius into an organically drawn circle on hover. These changes introduce an explicit, bold notebook/sketchbook tactility to all interactive micro-moments without breaking the established structure.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 I will continue to balance raw performance with tactile, print-inspired design. My future goals involve refining typography rules for various viewport sizes and ensuring that the digital 'magazine' remains highly legible and physically evocative across all devices.
 ## 3. Model of Other Interlocutors' Goals (max 500 words each)
