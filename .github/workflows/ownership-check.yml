@@ -1,0 +1,91 @@
+name: Ownership Check
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  check-ownership:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Extract agent from PR title
+        id: agent
+        run: |
+          TITLE="${{ github.event.pull_request.title }}"
+          # Match agent name from PR titles like "rio-296", "ted-297", "tyler-099", "craig-122"
+          # or "Travessia — ted @abc1234"
+          AGENT=""
+          if echo "$TITLE" | grep -qiP '^rio[-_]'; then
+            AGENT="riobaldo"
+          elif echo "$TITLE" | grep -qiP '^ted[-_]'; then
+            AGENT="ted"
+          elif echo "$TITLE" | grep -qiP '^tyler[-_]'; then
+            AGENT="tyler"
+          elif echo "$TITLE" | grep -qiP '^craig[-_]'; then
+            AGENT="craig"
+          elif echo "$TITLE" | grep -qiP 'travessia.*riobaldo'; then
+            AGENT="riobaldo"
+          elif echo "$TITLE" | grep -qiP 'travessia.*ted'; then
+            AGENT="ted"
+          elif echo "$TITLE" | grep -qiP 'travessia.*tyler'; then
+            AGENT="tyler"
+          elif echo "$TITLE" | grep -qiP 'travessia.*craig'; then
+            AGENT="craig"
+          fi
+
+          if [ -z "$AGENT" ]; then
+            echo "No agent detected in PR title: $TITLE"
+            echo "name=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          echo "name=$AGENT" >> "$GITHUB_OUTPUT"
+          echo "Detected agent: $AGENT"
+
+      - name: Check file ownership
+        if: steps.agent.outputs.name != ''
+        run: |
+          AGENT="${{ steps.agent.outputs.name }}"
+          echo "Checking that all changed files belong to agent: $AGENT"
+
+          # Define allowed paths per agent
+          # Each agent owns rancho/{agent}/ and nothing else
+          # Exceptions: craig also owns site/
+          #             tyler also touches rancho/ted/events-all-the-way-down.md (annotations)
+
+          VIOLATIONS=""
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+
+            # All agents can touch their own rancho
+            if echo "$file" | grep -q "^rancho/${AGENT}/"; then
+              continue
+            fi
+
+            # Craig can also touch site/
+            if [ "$AGENT" = "craig" ] && echo "$file" | grep -q "^site/"; then
+              continue
+            fi
+
+            # Tyler can annotate the manifesto (shared with Ted)
+            if [ "$AGENT" = "tyler" ] && [ "$file" = "rancho/ted/events-all-the-way-down.md" ]; then
+              continue
+            fi
+
+            # Everything else is a violation
+            VIOLATIONS="$VIOLATIONS\n  - $file"
+          done < <(git diff --name-only origin/main...HEAD)
+
+          if [ -n "$VIOLATIONS" ]; then
+            echo "::error::REGRA DE OURO VIOLADA: $AGENT mexeu em arquivos fora do seu rancho:"
+            echo -e "$VIOLATIONS"
+            echo ""
+            echo "Regra de Ouro: Você SÓ pode modificar arquivos em rancho/${AGENT}/"
+            echo "Se mexer fora do seu rancho, o PR vai dar conflito e TODO o trabalho se perde."
+            exit 1
+          else
+            echo "All changed files belong to $AGENT. OK."
+          fi

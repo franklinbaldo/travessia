@@ -47,14 +47,22 @@ jobs:
       - name: Pull latest main (PRs may have been merged)
         run: git pull --rebase --autostash
 
-      - name: Commit heartbeat log and sessions map
+      - name: O Tropeiro — deliver letters from bruaca to balaio+cartas
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python tools/heartbeat.py tropeiro
+
+      - name: Commit heartbeat log, sessions map, and delivered letters
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .jules/heartbeats/ .jules/sessions.json
+          git add .jules/heartbeats/ .jules/sessions.json .jules/tropeiro-delivered.json
+          git add rancho/*/balaio/ 2>/dev/null || true
+          git add cartas/ 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "heartbeat: $(date -u +%Y-%m-%d) $(date -u +%H:%M) UTC"
+            git commit -m "tropeiro: $(date -u +%Y-%m-%d) $(date -u +%H:%M) UTC"
             git push
           fi

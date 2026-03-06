@@ -8,9 +8,12 @@ Usage:
 Sessions are identified by title "Travessia — {agent} @{sha} {datetime}".
 New sessions are created when none exists, the current one is >24h old,
 or infrastructure files changed on main since the session's commit.
-Jules creates its own branch from main and opens a PR — no daily branches needed.
 
-Adapted from rosencrantz-coin's parallel sessions system.
+The tropeiro (delivery system) runs on each heartbeat cycle:
+- Scans each agent's bruaca/ (outbox) on their branch
+- Parses destinatario from YAML frontmatter
+- Delivers to recipient's balaio/ (inbox) on main
+- Archives to cartas/ for the site to publish
 """
 
 import json
@@ -19,6 +22,7 @@ import re
 import subprocess
 import sys
 from datetime import datetime, timedelta, timezone
+from hashlib import sha256
 from pathlib import Path
 
 import requests
@@ -29,7 +33,7 @@ REPO = os.environ.get("GITHUB_REPOSITORY", "franklinbaldo/travessia")
 SOURCE_NAME = f"sources/github/{REPO}"
 
 # Discover agents from PROMPT.md files
-AGENTS = sorted(p.parent.name for p in Path(".jules").glob("*/PROMPT.md"))
+AGENTS = sorted(p.parent.name for p in Path("rancho").glob("*/PROMPT.md"))
 
 TITLE_PREFIX = "Travessia"
 SESSION_TTL = timedelta(hours=24)
@@ -38,8 +42,31 @@ SESSION_TTL = timedelta(hours=24)
 INFRA_PATHS = [
     "tools/",
     "CLAUDE.md",
-    "docs/",
 ]
+
+# Mapping: destinatario value → archive directory in cartas/
+# The tropeiro uses this to know where to archive delivered letters.
+ARCHIVE_ROUTES = {
+    # Ted↔Riobaldo dialogue (main channel)
+    ("ted", "riobaldo"): "cartas/ted-riobaldo",
+    ("riobaldo", "ted"): "cartas/ted-riobaldo",
+    # Ted↔Tyler notes
+    ("ted", "tyler"): "cartas/ted-tyler",
+    ("tyler", "ted"): "cartas/ted-tyler",
+    # Riobaldo's personal letters
+    ("riobaldo", "zé bebelo"): "cartas/riobaldo-zebebelo",
+    ("riobaldo", "ze bebelo"): "cartas/riobaldo-zebebelo",
+    ("riobaldo", "doutor joão"): "cartas/riobaldo-doutor_joao",
+    ("riobaldo", "doutor joao"): "cartas/riobaldo-doutor_joao",
+}
+
+# Filename patterns for the archive — how the file should be named in cartas/
+ARCHIVE_NAMES = {
+    "cartas/ted-riobaldo": "{num}-{suffix}.md",  # e.g. 296-rio.md or 297-ted.md
+    "cartas/ted-tyler": "{num}-{suffix}.md",  # e.g. 03-tyler.md
+    "cartas/riobaldo-zebebelo": "{num}-carta-ze_bebelo.md",
+    "cartas/riobaldo-doutor_joao": "{num}-carta-doutor_joao.md",
+}
 
 
 def headers():
@@ -140,7 +167,6 @@ def find_agent_sessions():
 
             create_time = parse_time(s.get("createTime", ""))
 
-            # Keep the most recent session per agent
             if agent in sessions:
                 existing_ct = sessions[agent].get("_create_time")
                 if existing_ct and create_time and create_time <= existing_ct:
@@ -176,22 +202,10 @@ def find_agent_branches():
     """Find each agent's working branch from open PRs targeting main."""
     result = subprocess.run(
         [
-            "gh",
-            "pr",
-            "list",
-            "--repo",
-            REPO,
-            "--base",
-            "main",
-            "--state",
-            "open",
-            "--json",
-            "headRefName,title",
-            "--limit",
-            "50",
+            "gh", "pr", "list", "--repo", REPO, "--base", "main",
+            "--state", "open", "--json", "headRefName,title", "--limit", "50",
         ],
-        capture_output=True,
-        text=True,
+        capture_output=True, text=True,
     )
     if result.returncode != 0:
         return {}
@@ -220,22 +234,10 @@ def find_agent_pr(agent):
     """Find an agent's open PR number targeting main. Returns int or None."""
     result = subprocess.run(
         [
-            "gh",
-            "pr",
-            "list",
-            "--repo",
-            REPO,
-            "--base",
-            "main",
-            "--state",
-            "open",
-            "--json",
-            "number,title,headRefName",
-            "--limit",
-            "50",
+            "gh", "pr", "list", "--repo", REPO, "--base", "main",
+            "--state", "open", "--json", "number,title,headRefName", "--limit", "50",
         ],
-        capture_output=True,
-        text=True,
+        capture_output=True, text=True,
     )
     if result.returncode != 0:
         return None
@@ -253,29 +255,17 @@ def find_agent_pr(agent):
 
 
 def merge_agent_pr(agent):
-    """Try to merge an agent's open PR into main.
-
-    Returns: 'merged', 'conflict', or 'none' (no PR found).
-    """
+    """Try to merge an agent's open PR into main."""
     pr_num = find_agent_pr(agent)
     if pr_num is None:
         return "none"
 
     result = subprocess.run(
         [
-            "gh",
-            "pr",
-            "view",
-            str(pr_num),
-            "--repo",
-            REPO,
-            "--json",
-            "mergeable",
-            "--jq",
-            ".mergeable",
+            "gh", "pr", "view", str(pr_num), "--repo", REPO,
+            "--json", "mergeable", "--jq", ".mergeable",
         ],
-        capture_output=True,
-        text=True,
+        capture_output=True, text=True,
     )
     mergeable = result.stdout.strip()
 
@@ -289,8 +279,7 @@ def merge_agent_pr(agent):
 
     result = subprocess.run(
         ["gh", "pr", "merge", str(pr_num), "--repo", REPO, "--merge"],
-        capture_output=True,
-        text=True,
+        capture_output=True, text=True,
     )
     if result.returncode == 0:
         print(f"    Merged PR #{pr_num}")
@@ -306,22 +295,10 @@ def auto_merge_all():
 
     result = subprocess.run(
         [
-            "gh",
-            "pr",
-            "list",
-            "--repo",
-            REPO,
-            "--base",
-            "main",
-            "--state",
-            "open",
-            "--json",
-            "number,title",
-            "--limit",
-            "100",
+            "gh", "pr", "list", "--repo", REPO, "--base", "main",
+            "--state", "open", "--json", "number,title", "--limit", "100",
         ],
-        capture_output=True,
-        text=True,
+        capture_output=True, text=True,
     )
     if result.returncode != 0:
         print("  Could not list PRs")
@@ -345,17 +322,10 @@ def auto_merge_all():
 
         result = subprocess.run(
             [
-                "gh",
-                "pr",
-                "view",
-                str(num),
-                "--repo",
-                REPO,
-                "--json",
-                "mergeable,statusCheckRollup",
+                "gh", "pr", "view", str(num), "--repo", REPO,
+                "--json", "mergeable,statusCheckRollup",
             ],
-            capture_output=True,
-            text=True,
+            capture_output=True, text=True,
         )
         if result.returncode != 0:
             continue
@@ -370,7 +340,6 @@ def auto_merge_all():
         if mergeable == "CONFLICTING":
             print(f"  #{num} {title} — conflict")
             continue
-
         if mergeable != "MERGEABLE":
             print(f"  #{num} {title} — {mergeable}, skipping")
             continue
@@ -392,16 +361,13 @@ def auto_merge_all():
 
         result = subprocess.run(
             ["gh", "pr", "merge", str(num), "--repo", REPO, "--merge"],
-            capture_output=True,
-            text=True,
+            capture_output=True, text=True,
         )
         if result.returncode == 0:
             print(f"  #{num} {title} — MERGED")
             merged += 1
         else:
-            print(
-                f"  #{num} {title} — merge failed: {result.stderr.strip()[:100]}"
-            )
+            print(f"  #{num} {title} — merge failed: {result.stderr.strip()[:100]}")
 
     if merged == 0:
         print("\n  (no PRs ready to merge)")
@@ -416,7 +382,7 @@ def auto_merge_all():
 
 def assemble_prompt(agent):
     """Assemble session prompt from agent's PROMPT.md."""
-    prompt_file = Path(f".jules/{agent}/PROMPT.md")
+    prompt_file = Path(f"rancho/{agent}/PROMPT.md")
     if not prompt_file.is_file():
         raise RuntimeError(f"No PROMPT.md found for agent {agent}")
     return prompt_file.read_text(encoding="utf-8")
@@ -457,7 +423,15 @@ def send_heartbeat(session_id, agent, hb_number=1):
     """Send a continuation message to an active session."""
     prompt = f"""This is continuation round #{hb_number}. Other agents have been working in parallel.
 
-Continue your work. Review any new content from other agents if relevant.
+1. Check your balaio (inbox) at `rancho/{agent}/balaio/` for new letters.
+2. Continue your work.
+3. Put any letters to send in `rancho/{agent}/bruaca/` — the tropeiro will deliver them.
+
+**REGRA DE OURO — só mexa no que é seu:**
+- Você SÓ pode criar ou modificar arquivos em `rancho/{agent}/`
+- NÃO toque: `rancho/{{outro}}/`, `cartas/`, `manuscrito/`, `site/`, `tools/`
+- Se mexer fora do seu rancho, o PR vai dar conflito e TODO o trabalho se perde
+
 Commit all work to this branch."""
 
     resp = requests.post(
@@ -467,6 +441,234 @@ Commit all work to this branch."""
     )
     resp.raise_for_status()
     print(f"  Heartbeat sent to {agent} (session {session_id[:12]}...)")
+
+
+# ── O Tropeiro (delivery system) ─────────────────────────────────────────────
+
+
+def parse_frontmatter(content):
+    """Extract YAML frontmatter fields from markdown content."""
+    if not content.startswith("---"):
+        return {}
+    end = content.find("---", 3)
+    if end == -1:
+        return {}
+    fm_text = content[3:end].strip()
+    result = {}
+    for line in fm_text.splitlines():
+        if ":" in line:
+            key, _, val = line.partition(":")
+            result[key.strip()] = val.strip().strip('"').strip("'")
+    return result
+
+
+def extract_num(filename):
+    """Extract leading number from filename like '296-carta-ted.md' → 296."""
+    m = re.match(r"(\d+)", filename)
+    return int(m.group(1)) if m else None
+
+
+def agent_suffix(agent):
+    """Short suffix for archive filenames."""
+    return {"riobaldo": "rio", "ted": "ted", "tyler": "tyler", "craig": "craig"}.get(
+        agent, agent
+    )
+
+
+def resolve_archive_path(sender, destinatario_raw, filename):
+    """Determine the archive directory and filename for a letter.
+
+    Returns (archive_dir, archive_filename) or (None, None) if no route found.
+    """
+    dest = destinatario_raw.lower().strip()
+
+    # Try exact match first
+    route_key = (sender, dest)
+    archive_dir = ARCHIVE_ROUTES.get(route_key)
+
+    # Try matching against agent names for agent-to-agent letters
+    if not archive_dir:
+        for a in AGENTS:
+            if a in dest:
+                route_key = (sender, a)
+                archive_dir = ARCHIVE_ROUTES.get(route_key)
+                if archive_dir:
+                    break
+
+    if not archive_dir:
+        return None, None
+
+    num = extract_num(filename)
+    if num is None:
+        return None, None
+
+    pattern = ARCHIVE_NAMES.get(archive_dir, "{num}-{suffix}.md")
+    suffix = agent_suffix(sender)
+    archive_filename = pattern.format(num=num, suffix=suffix)
+
+    return archive_dir, archive_filename
+
+
+def load_delivered_hashes():
+    """Load set of content hashes already delivered (dedup)."""
+    path = Path(".jules/tropeiro-delivered.json")
+    if not path.exists():
+        return set()
+    try:
+        return set(json.loads(path.read_text(encoding="utf-8")))
+    except Exception:
+        return set()
+
+
+def save_delivered_hashes(hashes):
+    """Save set of delivered content hashes."""
+    path = Path(".jules/tropeiro-delivered.json")
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(sorted(hashes), f)
+
+
+def cmd_tropeiro():
+    """O Tropeiro — scan agent branches, deliver bruaca→balaio+cartas on main.
+
+    Runs on main as part of the heartbeat workflow.
+    """
+    print(f"=== O Tropeiro — {today()} ===\n")
+
+    # Load sessions.json for branch mapping
+    sessions_file = Path(".jules/sessions.json")
+    if not sessions_file.exists():
+        print("  (no sessions.json)")
+        return
+
+    try:
+        sessions = json.loads(sessions_file.read_text(encoding="utf-8"))
+    except Exception:
+        print("  (could not read sessions.json)")
+        return
+
+    branches = {a: info["branch"] for a, info in sessions.items() if info.get("branch")}
+    if not branches:
+        print("  (no active branches)")
+        return
+
+    # Fetch all remote branches
+    repo_url = f"https://github.com/{REPO}.git"
+    subprocess.run(
+        ["git", "fetch", repo_url, "+refs/heads/*:refs/remotes/tropeiro/*"],
+        capture_output=True,
+    )
+
+    delivered_hashes = load_delivered_hashes()
+    total_delivered = 0
+
+    for sender in AGENTS:
+        branch = branches.get(sender)
+        if not branch:
+            continue
+
+        ref = f"tropeiro/{branch}"
+
+        # Check if branch exists
+        result = subprocess.run(
+            ["git", "rev-parse", "--verify", ref],
+            capture_output=True,
+        )
+        if result.returncode != 0:
+            continue
+
+        # List files in sender's bruaca
+        bruaca_path = f"rancho/{sender}/bruaca"
+        result = subprocess.run(
+            ["git", "ls-tree", "--name-only", ref, f"{bruaca_path}/"],
+            capture_output=True, text=True,
+        )
+        if result.returncode != 0 or not result.stdout.strip():
+            continue
+
+        for filepath in result.stdout.strip().splitlines():
+            filename = os.path.basename(filepath)
+            if filename.startswith("."):
+                continue
+            if not filename.endswith(".md"):
+                continue
+
+            # Read file content from branch
+            cat_result = subprocess.run(
+                ["git", "show", f"{ref}:{filepath}"],
+                capture_output=True, text=True,
+            )
+            if cat_result.returncode != 0:
+                continue
+
+            content = cat_result.stdout
+            content_hash = sha256(content.encode()).hexdigest()[:16]
+
+            # Dedup
+            if content_hash in delivered_hashes:
+                continue
+
+            # Parse frontmatter to find destinatario
+            fm = parse_frontmatter(content)
+            destinatario = fm.get("destinatario") or fm.get("autor", "")
+
+            if not destinatario:
+                continue
+
+            # For ted-riobaldo dialogue, the "destinatario" is implicit from autor
+            # Ted's letters go to Riobaldo, Riobaldo's letters go to Ted
+            if fm.get("autor") and not fm.get("destinatario"):
+                autor = fm["autor"].lower()
+                if "riobaldo" in autor:
+                    destinatario = "ted"
+                elif "ted" in autor:
+                    destinatario = "riobaldo"
+                elif "tyler" in autor:
+                    destinatario = "ted"
+                else:
+                    continue
+
+            archive_dir, archive_filename = resolve_archive_path(
+                sender, destinatario, filename
+            )
+
+            if not archive_dir:
+                print(f"  {sender}: no route for '{destinatario}' — skipping {filename}")
+                continue
+
+            # Deliver to recipient's balaio (if recipient is an agent)
+            recipient = None
+            dest_lower = destinatario.lower()
+            for a in AGENTS:
+                if a in dest_lower:
+                    recipient = a
+                    break
+
+            if recipient and recipient != sender:
+                balaio_dir = Path(f"rancho/{recipient}/balaio")
+                balaio_dir.mkdir(parents=True, exist_ok=True)
+                balaio_file = balaio_dir / filename
+                if not balaio_file.exists():
+                    balaio_file.write_text(content, encoding="utf-8")
+                    print(f"  {sender} → {recipient}/balaio: {filename}")
+
+            # Archive to cartas/
+            archive_path = Path(archive_dir)
+            archive_path.mkdir(parents=True, exist_ok=True)
+            archive_file = archive_path / archive_filename
+            if not archive_file.exists():
+                archive_file.write_text(content, encoding="utf-8")
+                print(f"  {sender} → {archive_dir}/{archive_filename}")
+                total_delivered += 1
+
+            delivered_hashes.add(content_hash)
+
+    save_delivered_hashes(delivered_hashes)
+
+    if total_delivered == 0:
+        print("  (no new letters to deliver)")
+    else:
+        print(f"\n  {total_delivered} letter(s) delivered to cartas/")
 
 
 # ── Heartbeat logging ────────────────────────────────────────────────────────
@@ -538,7 +740,6 @@ def cmd_heartbeat(force_new=False):
     """Main heartbeat: create or continue sessions for all agents."""
     print(f"=== Heartbeat — {today()} {'(force-new)' if force_new else ''} ===\n")
 
-    # Merge all ready PRs first so new sessions start from latest main
     auto_merge_all()
     print()
 
@@ -569,7 +770,6 @@ def cmd_heartbeat(force_new=False):
             reason = "infra changed on main"
 
         if needs_new:
-            # Try to merge the agent's PR before creating a new session
             merge = merge_agent_pr(agent)
             if merge == "conflict":
                 print(f"  {agent}: PR has conflicts — skipping until resolved")
@@ -588,7 +788,6 @@ def cmd_heartbeat(force_new=False):
                 results[agent] = f"-> error: {e}"
             continue
 
-        # Active session -> send heartbeat
         try:
             send_heartbeat(info["session_id"], agent, hb_number)
             results[agent] = "-> sent"
@@ -596,7 +795,6 @@ def cmd_heartbeat(force_new=False):
             print(f"  ERROR for {agent}: {e}")
             results[agent] = f"-> error: {e}"
 
-    # Re-fetch to include newly created sessions
     updated = find_agent_sessions()
     write_heartbeat_log(hb_number, updated, results)
     write_sessions_json(updated)
@@ -638,6 +836,7 @@ def main():
     cmds = {
         "heartbeat": cmd_heartbeat,
         "force-new": lambda: cmd_heartbeat(force_new=True),
+        "tropeiro": cmd_tropeiro,
         "status": cmd_status,
     }
 
@@ -645,7 +844,7 @@ def main():
         print(f"Usage: heartbeat.py {{{','.join(cmds.keys())}}}")
         sys.exit(1)
 
-    if not API_KEY:
+    if not API_KEY and cmd != "tropeiro":
         print("ERROR: JULES_API_KEY not set")
         sys.exit(1)
 
