@@ -1,0 +1,60 @@
+name: Heartbeat
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "heartbeat (default) or force-new"
+        required: false
+        default: "heartbeat"
+
+concurrency:
+  group: heartbeat
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  heartbeat:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Send heartbeats
+        env:
+          JULES_API_KEY: ${{ secrets.JULES_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          MODE="${{ github.event.inputs.mode || 'heartbeat' }}"
+          python tools/heartbeat.py status
+          echo ""
+          python tools/heartbeat.py "$MODE"
+
+      - name: Pull latest main (PRs may have been merged)
+        run: git pull --rebase --autostash
+
+      - name: Commit heartbeat log and sessions map
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .jules/heartbeats/ .jules/sessions.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "heartbeat: $(date -u +%Y-%m-%d) $(date -u +%H:%M) UTC"
+            git push
+          fi
