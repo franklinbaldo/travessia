@@ -71,23 +71,23 @@ a, button, .vereda, .blog-card, .featured-post, .timeline-dot {
 
 
 ::selection {
-  background-color: var(--text-color);
-  color: var(--bg-color);
+  background-color: rgba(255, 255, 0, 0.4); /* Marker yellow */
+  color: var(--text-color);
 }
 
 ::-moz-selection {
-  background-color: var(--text-color);
-  color: var(--bg-color);
+  background-color: rgba(255, 255, 0, 0.4);
+  color: var(--text-color);
 }
 
 [data-theme="dark"] ::selection {
-  background-color: var(--text-color);
-  color: var(--bg-color);
+  background-color: rgba(255, 255, 0, 0.4); /* Darker marker */
+  color: var(--text-color);
 }
 
 [data-theme="dark"] ::-moz-selection {
-  background-color: var(--text-color);
-  color: var(--bg-color);
+  background-color: rgba(255, 255, 0, 0.4);
+  color: var(--text-color);
 }
 
 body {
@@ -302,17 +302,18 @@ hr {
 
 a {
   color: var(--text-color);
-  text-decoration: underline;
-  text-decoration-color: var(--text-color);
-  text-underline-offset: 2px;
-  text-decoration-thickness: 2px;
-  transition: background-color 0.1s, color 0.1s;
+  text-decoration: none;
+  background-image: linear-gradient(120deg, transparent 0%, rgba(255, 215, 0, 0.4) 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 0.3em;
+  background-position: 0 88%;
+  transition: background-size 0.25s ease-in;
 }
 
 a:hover {
-  background-color: var(--text-color);
-  color: var(--bg-color);
-  text-decoration: none;
+  background-size: 100% 88%;
+  color: var(--text-color);
+  background-color: transparent;
 }
 
 /* === Navigation === */
@@ -1256,7 +1257,8 @@ main.home-layout {
   background-color: var(--bg-color);
   border-color: var(--accent-color);
   color: var(--accent-color);
-  transform: translateY(-1px);
+  border-radius: 4px 10px 4px 10px / 10px 4px 10px 4px;
+  transform: translateY(-1px) rotate(-1deg);
   box-shadow: 2px 2px 0px rgba(0,0,0,0.05);
 }
 
@@ -1344,7 +1346,8 @@ main.home-layout {
   color: var(--text-color);
   border-color: var(--accent-color);
   border-left: 8px solid var(--accent-color);
-  transform: translateY(-2px);
+  border-radius: 15px 4px 15px 4px / 4px 15px 4px 15px;
+  transform: translateY(-2px) rotate(0.5deg);
   box-shadow: 6px 6px 0px rgba(0,0,0,0.05);
   opacity: 1;
 }
@@ -1408,7 +1411,8 @@ main.home-layout {
   color: var(--text-color);
   border-color: var(--accent-color);
   border-left: 8px solid var(--accent-color);
-  transform: translateY(-2px);
+  border-radius: 4px 15px 4px 15px / 15px 4px 15px 4px;
+  transform: translateY(-2px) rotate(-0.5deg);
   box-shadow: 4px 4px 0px rgba(0,0,0,0.05);
 }
 
@@ -1697,15 +1701,17 @@ main.home-layout {
 
 
 .timeline-dot:hover {
-  transform: translateY(-2px);
+  transform: translateY(-2px) scale(1.1);
   background: var(--text-color);
   color: var(--bg-color);
   border-color: var(--accent-color);
+  border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
 [data-theme="dark"] .timeline-dot:hover {
   box-shadow: 0 4px 8px rgba(255,255,255,0.1);
+  border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%;
 }
 
 
@@ -1734,15 +1740,17 @@ main.home-layout {
 
 [data-theme="dark"]
 .timeline-dot:hover {
-  transform: translateY(-2px);
+  transform: translateY(-2px) scale(1.1);
   background: var(--text-color);
   color: var(--bg-color);
   border-color: var(--accent-color);
+  border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
 [data-theme="dark"] .timeline-dot:hover {
   box-shadow: 0 4px 8px rgba(255,255,255,0.1);
+  border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%;
 }
 .timeline-dot:active {
   transform: translate(8px, 8px);
