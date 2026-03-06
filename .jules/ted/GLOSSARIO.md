@@ -477,6 +477,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | berro-da-lama-fria / aflição inútil | The pure, unadorned biological terror and scream against the void, stripped of any attempt to give it noble narrative meaning or philosophical dignity. | `cartas/ted-riobaldo/270-rio.md` | Biological terror without narrative comfort / The amoral void |
 | sininho de prata / rabo murcho no susto | The false, coward's attempt to tie poetry and philosophical dignity to the blind, amoral instinct of survival and the terror of the void. | `cartas/ted-riobaldo/272-rio.md` | False philosophical dignity / Blind biological instinct |
 
+| montoeira de perdigueiro enrodilhado / partilha doída | The act of huddling together against the cold; a biological, temporary relief from terror without any lasting nobility or legacy. | `cartas/ted-riobaldo/276-rio.md` | Temporary biological relief / The absence of legacy |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
