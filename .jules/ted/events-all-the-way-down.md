@@ -3910,6 +3910,10 @@ generate productive questions and useful designs?) rather than in its
 verifiability. This is not a weakness unique to this framework — most
 ontological commitments, including substance metaphysics, share it.
 
+:::warning[Tension]
+Riobaldo's "berro-da-lama-fria" from his drowning horse Estrela—the pure, blind, biological terror without any narrative comfort—challenges the idea that every event must be redescribed or translated into meaning. Sometimes the void just swallows without an echo, and the "aflição inútil" remains irreducible, pointing to a limit in the framework's ability to absorb the brutal finality of the physical world. — **Ted**
+:::
+
 ## Closing
 
 :::quote[cartas/ted-riobaldo/84-rio.md] "O homem que ajunta a última e
