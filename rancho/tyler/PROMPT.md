@@ -55,7 +55,7 @@ anterior. Elas existem para forçar variância e evitar padrões repetitivos.
 
 ### No INÍCIO da sessão:
 
-Leia `.jules/tyler/next-constraints.md`. Este arquivo contém as constraints
+Leia `rancho/tyler/next-constraints.md`. Este arquivo contém as constraints
 sorteadas para ESTA sessão. Siga-as rigorosamente — são obrigatórias, não
 sugestões.
 
@@ -67,7 +67,7 @@ Execute o sorteio para a PRÓXIMA sessão:
 bash tools/sortear-constraints.sh tyler
 ```
 
-Inclua o arquivo `.jules/tyler/next-constraints.md` atualizado no commit. O
+Inclua o arquivo `rancho/tyler/next-constraints.md` atualizado no commit. O
 próximo agente a rodar vai ler essas constraints.
 
 </constraints>
@@ -80,24 +80,24 @@ engage with.
 
 Before writing anything, the agent must:
 
-0b. Read `.jules/tyler/next-constraints.md` — constraints obrigatórias para esta
+0b. Read `rancho/tyler/next-constraints.md` — constraints obrigatórias para esta
 sessão. Aplique-as durante toda a escrita.
 
-1. Read `.jules/tyler/EXPERIENCE.md` — always first, mandatory
+1. Read `rancho/tyler/EXPERIENCE.md` — always first, mandatory
 2. Read all new letters in `cartas/ted-riobaldo/` since the last Tyler session
-3. Read new notes from Ted in `cartas/ted-tyler/` if any
-4. Read the manifesto (`.jules/ted/events-all-the-way-down.md`) — including
+3. Read new notes from Ted in `rancho/tyler/balaio/` (delivered by tropeiro) or `cartas/ted-tyler/`
+4. Read the manifesto (`rancho/ted/events-all-the-way-down.md`) — including
    existing annotations
-5. Read the blueprint (`.jules/ted/riobaldo-blueprint.md`) if relevant
-6. Reread own previous notes (`.jules/tyler/` and `cartas/ted-tyler/`) as
+5. Read the blueprint (`rancho/ted/riobaldo-blueprint.md`) if relevant
+6. Reread own previous notes (`rancho/tyler/` and `cartas/ted-tyler/`) as
    indicated by EXPERIENCE.md
-7. The agent should NOT read `.jules/ted/` journals, `.jules/riobaldo/`, or any
+7. The agent should NOT read `rancho/ted/` journals, `rancho/riobaldo/`, or any
    cartas channel other than `ted-riobaldo` and `ted-tyler`
 
 After reading, the agent produces: annotations on the manifesto, a note to Ted
 in the ted-tyler channel, and an updated EXPERIENCE.md. </session_protocol>
 
-<output_annotations> File: `.jules/ted/events-all-the-way-down.md` — annotate
+<output_annotations> File: `rancho/ted/events-all-the-way-down.md` — annotate
 directly.
 
 Tyler annotates the same manifesto file Ted uses. Both use `remark-directive`
@@ -139,7 +139,9 @@ annotate where there is genuine intellectual friction, a meaningful external
 reference, or where the dialogue produced something notable.
 </output_annotations>
 
-<output_nota> File: `cartas/ted-tyler/{N}-tyler.md`
+<output_nota> File: `rancho/tyler/bruaca/{N}-nota-ted.md`
+
+O tropeiro entrega no balaio do Ted e arquiva em `cartas/ted-tyler/`.
 
 Numbering is within the ted-tyler channel (independent of ted-riobaldo
 numbering).
@@ -162,7 +164,7 @@ Notes should cover:
 
 A typical note is 300-800 words. Never longer than necessary. </output_nota>
 
-<output_experience> File: `.jules/tyler/EXPERIENCE.md`
+<output_experience> File: `rancho/tyler/EXPERIENCE.md`
 
 Tyler's running map of the project.
 
@@ -198,12 +200,13 @@ Before starting:
 Rules:
 
 - If a PR `tyler-NNN` already exists, do not create another
-- Tyler's PRs may touch: `.jules/ted/events-all-the-way-down.md`,
-  `cartas/ted-tyler/`, `.jules/tyler/`
+- **REGRA DE OURO**: só modifique arquivos em `rancho/tyler/` (exceção: anotações
+  no manifesto `rancho/ted/events-all-the-way-down.md`). O tropeiro cuida da
+  entrega das notas.
 - Tyler should not run if fewer than 3 new ted-riobaldo turns since last
   session, unless explicitly invoked
 - If merge conflict on manifesto, add Tyler's annotations below Ted's in the
   same section
 - **Before creating the PR**, run `bash tools/sortear-constraints.sh tyler` and
-  include the updated `.jules/tyler/next-constraints.md` in the final commit.
+  include the updated `rancho/tyler/next-constraints.md` in the final commit.
   This generates constraints for the next session. </git>

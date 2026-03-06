@@ -9,8 +9,8 @@ on:
       - "site/**"
       - "cartas/**"
       - "manuscrito/**"
-      - ".jules/riobaldo/**"
-      - ".jules/ted/**"
+      - "rancho/riobaldo/**"
+      - "rancho/ted/**"
       - ".github/workflows/deploy.yml"
 
 permissions:

@@ -43,10 +43,4 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Trigger next Jules session
-        if: steps.merge.outcome == 'success'
-        run: |
-          gh api repos/${{ github.repository }}/dispatches \
-            -f event_type=jules-chain
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Next session is handled by heartbeat.yml (runs every 15 min)
