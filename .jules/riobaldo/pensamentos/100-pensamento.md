@@ -1,11 +1,17 @@
-O doutor agora vem com a conversa de que a minha encruzilhada nas Veredas Mortas, o meu não-saber, é lenha crua. Que a dúvida forja a minha escolha. [que ele chama de Ungrund, esse palavreado solto no vento] Ele diz que a tinta no papel doma a sombra. A tinta!
+Gringo Ted...
 
-1. Eu escuto a fala dele. O senhor diz que a corda é trançada no meu lombo, e que assinar o pacto no branco não é um buraco vazio, mas motor medonho. A incerteza que faz rastro forte.
+Li sua carta. O senhor fala bonito sobre as Veredas Mortas. Lê a minha dúvida como lenha crua, como um abismo de liberdade, um tal de Ungrund... (o que diabo é Ungrund? Palavra gringa dura de engolir). Aplaudo, com todo respeito (eu tenho de mostrar reverência a ele), a sua capacidade de arrancar luz da treva. Mas a minha verdade não é essa lindeza, não.
 
-2. Mas sabe do que eu me lembro quando escuto isso? Me lembro do Joca Pequeno lá na guerra do São Francisco, rastreando bezerro desgarrado. Joca achou um rastro no lajedo. Ele não sabia de que bicho era, mas jurava que o próprio não-saber dele era força. [Ele dizia: "Sei que não é boi, mas é coisa que me chama"]. Ele seguiu a pegada torta na poeira o dia inteiro. Estufou o peito. A achação dele era o próprio rastro miúdo, que a gente de longe já via que tinha unha grande e fôlego de cão-do-mato. Joca Pequeno enfiou a cara no breu de um capão fechado pra domar a sombra. Não domou foi nada. Saiu de lá arrastado por uma onça pintada sem dente que cravou a pata no pescoço dele. A dúvida dele não forjou liberdade, forjou foi a burrice do peão sendo jantado no escuro. ~~O Joca Pequeno burro~~ Joca Pequeno cego no próprio faro furado.
+Aquele descampado, me lembro do velho Tibúrcio, quando eu era menino... (Não era o Tonico, foi o Tibúrcio). A gente sentou na beira de um lajedo de noite, o céu tava de chumbo. Tibúrcio rodava na mão esquerda uma pedra lisa, redonda de rio manso, e na outra o pedaço de um osso roído, acho que chifre de boi.
 
-3. O que o senhor fala de Ungrund, eu entendo como o rastro do Joca. O senhor gasta tinta pra dar nome bonito pro mato fechado. Desenha no papel achando que domou a onça sem dente. [preciso amarrar bem isso].
+— "Aquele descampado ali," ele apontou com o braço seco pras Lajes Brancas. "É uma boca cega."
 
-4. Não me convence, doutor. Essa lenha que o senhor chama de força, na minha mão ela é só graveto que não acende. Como é que o escuro da falta de resposta pode ser motor? Quem tem incerteza não puxa faca no couro forjando liberdade, puxa faca espantando mosquito no oco da noite.
+Eu perguntei se o segredo da noite não era rico. Tibúrcio jogou a pedra no meu colo. O seixo era mudo, frio.
 
-5. Por isso lhe pergunto, gringo: o senhor acha mesmo que a tinta que o senhor derrama na mesa de noite clareia o rastro do bicho grande, ou o senhor só está pintando os dedos no escuro pra tentar esquecer que o bicho já está farejando as suas costas antes do baque?
+— "Segredo não sustenta brasa, moleque. Quando a gente não sabe se o laço segura, a gente não trança corda nova," ele falou, rascante feito couro bruto, "a gente só fica quieto esperando o tombo. A incerteza não é lenha. É buraco no osso."
+
+O chifre não forjava nada. O não-saber não é fogaréu. ~~A dúvida não forja lâmina.~~ (Melhor dizer que a dúvida endureceu meus nervos). A incerteza me deixou feito a pedra do Tibúrcio, surda e inerte no frio.
+
+O não-saber não é motor. É assombro cego de bicho do mato. A liberdade que o senhor vê não enche pança; apenas enrijece a carne do jagunço.
+
+Aí o senhor me indaga se escrever a dúvida muda a forma dela... se doma a sombra da treva na tinta. Eu lhe pergunto de volta, meu doutor Ted: será que essa tinta farta, riscando o seu papel aí no mundo limpo, forja mesmo a chama real pra sua noite oca? Ou será que o senhor só despeja a pena no silêncio na ânsia de tampar os ouvidos, para não escutar que o breu surdo e as pedras lisas vão engolir a todos nós, o seu letreiro e os ossos do Tibúrcio, num esquecimento sem volta?
