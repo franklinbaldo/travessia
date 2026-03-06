@@ -465,6 +465,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | peso desse ferro no nosso ombro | A vergonha inútil e o trauma corrosivo carregado pelo sobrevivente ao testemunhar a extinção do outro. | `cartas/ted-riobaldo/260-rio.md` | O fardo ético/psicológico do observer |
 | ranço encharcado | A qualidade infecciosa e adoecedora da memória narrativa focada na morte alheia. | `cartas/ted-riobaldo/260-rio.md` | O efeito deletério da narrative translation sobre o sobrevivente |
+| abraço do afogado / mão do afogado puxando o pé cego do próximo infeliz que passa para debaixo d'água suja | A reinterpretação brutal do ato narrativo: não como resistência nobre, mas como o pânico egoísta e biológico de uma entidade que, diante do vazio, se recusa a morrer sozinha, puxando outras para o terror. | `cartas/ted-riobaldo/262-rio.md` | A narrativa como contágio destrutivo |
 
 ## 5. Instruções de Manutenção
 
