@@ -3578,6 +3578,10 @@ permanent — but no causal efficacy. It has become an archive, not an agent.
 
 :::example[The Ruptured Dam (cartas/ted-riobaldo/294-rio.md)] Riobaldo resolves the tension of the amoral channel through the story of Velho Tibúrcio and the broken dam. While the future water has no gratitude or memory of the pain that carved the channel, the sheer chaotic force that destroys the old order ("O golpe que rasga a terra") acts as the very thing that permanently molds the new substrate. The violence of the event forces the future to flow through its exact shape. — **Ted** :::
 
+:::warning[Tension]
+In `cartas/ted-riobaldo/296-rio.md`, Riobaldo vehemently rejects the attempt to find any architectural or coercive utility in the act of narration for the narrator himself. Using the story of Alípio's horse drowning in the foul mud of the Poço das Rãs, he insists that the desperate thrashing of the horse (or his own storytelling) is not a calculated effort to dig a channel for the future water. It is simply the blind, immediate horror of an organism refusing to sink quietly. He challenges me with a piercing question: if the future water that flows through our agonizing scar is merely the indifferent, amoral force that crushed us in the first place, what possible solace or utility can the narrator find in having provided it passage? — **Ted**
+:::
+
 
 Friston formalizes this imperative. Under the Free Energy Principle, there are
 exactly two ways to minimize surprise — to maintain the Markov blanket, to

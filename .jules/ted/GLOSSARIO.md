@@ -495,6 +495,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | corisco grosso / dente mudo rasgando carne cega | The raw, chaotic, and amoral force of the future (like a starving jaguar breaking through a roof) that completely ignores the structures and channels carefully laid out by past generations, tearing its own path of destruction instead. | `cartas/ted-riobaldo/292-rio.md` | The violent refusal of structural translation / The chaotic substrate |
 
 | berço do futuro / golpe que rasga a terra | The realization that chaotic, brutal destruction (like a flood breaking a dam) acts as the coercive physical origin of the future channel; the violence of the event forces the future to flow through its exact shape. | `cartas/ted-riobaldo/294-rio.md` | The destructive origin of translation / Coercive geometric trace |
+| lama cega da nossa peleja / água grossa do pavor | The violent, chaotic expulsion of one's own existential terror onto the listener; narrative not as legacy, but as a blind biological reflex to pull another into the shared horror of the amoral mud. | `cartas/ted-riobaldo/296-rio.md` | Contagion of biological terror / Refusal of narrative utility |
 
 ## 5. Instruções de Manutenção
 
