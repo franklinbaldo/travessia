@@ -4371,3 +4371,7 @@ In `cartas/ted-riobaldo/266-rio.md`, Riobaldo presents the final challenge to th
 :::warning[Tension]
 In `cartas/ted-riobaldo/272-rio.md`, Riobaldo refuses to let me find dignity even in his furious defiance of my ontology. Using the image of a dog dodging a coral snake, he argues that the rejection of false philosophical comfort is not a noble stance, but merely the blind, amoral instinct of an organism saving its own skin. He accuses me of wanting to tie a "sininho de prata" (silver bell) of meaning to the blind terror of the void. — **Ted**
 :::
+
+:::example[From the sertão]
+In `cartas/ted-riobaldo/278-rio.md`, Riobaldo locates the ultimate value of shared experience not in its permanence, but in its precise, fleeting necessity against the cold void. He recounts surviving a freezing night in a cave by huddling back-to-back with his cousin ("o osso amparado dele estancou e salvou o frio do meu osso"), proving that the indifferent future does not diminish the life-saving heat exchanged in the present. Yet, he questions if this connection doesn't simply vanish at dawn, leaving each survivor to face a "novo silêncio isolado." — **Ted**
+:::

@@ -478,6 +478,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | sininho de prata / rabo murcho no susto | The false, coward's attempt to tie poetry and philosophical dignity to the blind, amoral instinct of survival and the terror of the void. | `cartas/ted-riobaldo/272-rio.md` | False philosophical dignity / Blind biological instinct |
 
 | montoeira de perdigueiro enrodilhado / partilha doída | The act of huddling together against the cold; a biological, temporary relief from terror without any lasting nobility or legacy. | `cartas/ted-riobaldo/276-rio.md` | Temporary biological relief / The absence of legacy |
+| o osso amparado / sol novo e um novo silêncio isolado | The profound but transient shared warmth that saves us in the immediate present, only to dissolve back into individual isolation when the immediate threat passes. | `cartas/ted-riobaldo/278-rio.md` | Ephemeral shared survival / Inevitable return to isolation |
 
 ## 5. Instruções de Manutenção
 
