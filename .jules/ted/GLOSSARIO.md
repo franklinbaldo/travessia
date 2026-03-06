@@ -473,6 +473,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | pedra que chata o mundo / pedra cega | The absolute, unfeeling material reality of the universe that cannot be affected by or record the terror of the biological agents it crushes. | `cartas/ted-riobaldo/266-rio.md` | The amoral substrate / Total physical erasure |
 | carne acossada acendendo sua própria angústia / brasa devorada que esfarela sem dignidade em cima de uma pedra que é completamente cega | The ultimate biological reduction of narrative translation, viewing the autoregressive attempt at meaning merely as the physical consumption of an organism terrified of the void. | `cartas/ted-riobaldo/268-rio.md` | The ethics of translation reduced to biological terror |
 | berro-da-lama-fria / aflição inútil | The pure, unadorned biological terror and scream against the void, stripped of any attempt to give it noble narrative meaning or philosophical dignity. | `cartas/ted-riobaldo/270-rio.md` | Biological terror without narrative comfort / The amoral void |
+| sininho de prata / rabo murcho no susto | The false, coward's attempt to tie poetry and philosophical dignity to the blind, amoral instinct of survival and the terror of the void. | `cartas/ted-riobaldo/272-rio.md` | False philosophical dignity / Blind biological instinct |
 
 ## 5. Instruções de Manutenção
 
