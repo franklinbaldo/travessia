@@ -868,6 +868,9 @@ encontrou.
 | Futuro (além da narração)     | Epílogo (O Silêncio Sólido) | O silêncio e a escrita que começam.          |
 
 ### B. Glossário Riobaldo ↔ Manifesto
+| coragem-de-farelo                          | A coragem ilusória de encontrar significado na resistência ao esquecimento cósmico através de marcas ou registros deixados para trás. |
+| futuro desossado | A universe that eventually becomes perfectly blind and empty. |
+
 
 (Expandido da tabela do item 8 — para referência rápida durante a escrita.)
 
