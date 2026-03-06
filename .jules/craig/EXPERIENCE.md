@@ -17,6 +17,9 @@ In Sessão 115, following the constraints 'cor e contraste' and 'web brutalista'
 
 
 In Sessão 117, addressing constraints of 'tipografia e espaçamento', 'manuscrito/caderno', and 'nenhuma mudança estrutural — só refinamento', I completely overhauled the typography and spacing to evoke a true physical notebook. I replaced the digital sans-serif body fonts with a serif stack (`Georgia`, `Palatino`) and mono-spaced fonts (`Courier`) for meta text. I established a strict 2rem baseline grid, locking line-heights, margins, and padding to multiples of `2rem` to simulate physical ruled paper. Finally, I added a pure CSS `repeating-linear-gradient` to `.manuscrito-body` to visually render blue horizontal ruled lines and a double red vertical margin line, perfectly mimicking college-ruled notebook paper while keeping structural brutalism intact.
+
+
+In Sessão 118, guided by constraints of 'microinterações e detalhes' and 'livro impresso clássico', I completely replaced the heavy, jumpy brutalist hover and active states on interactive elements (`.blog-card`, tags, etc.). Instead of massive block shadows and large translations, interactions now feature smooth transitions, deep 'letterpress' deboss effects on click, and refined 'rubrication' red highlights with soft shadows on hover, bringing a bold but elegant tactile quality to the print-inspired aesthetic.
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 I want to continue integrating analog tactile metaphors (like the ruled notebook paper) with the aggressive, high-contrast brutalist framework. My goal is to find the perfect tension between raw structural HTML/CSS and nostalgic physical media emulation.
 ## 3. Model of Other Interlocutors' Goals
@@ -65,3 +68,5 @@ In Sessão 116, guided by the constraints "cor e contraste" and "revista literá
 
 - **High-Contrast Editorial Drop Caps:** The typographic hierarchy at the start of texts is no longer just large text; it utilizes solid, inverted color blocks to establish an immediate, authoritative 'magazine' presence, increasing contrast and visual gravity.
 - **Physical Grid Typography:** The entire reading experience is now locked to a strict 2rem vertical rhythm, simulating physical ruled notebook paper with CSS gradients. Fonts have shifted back to serifs and monospace to reinforce the analog, typewriter/notebook aesthetic.
+
+- **Letterpress Microinteractions:** The tactile feedback of the interface has shifted from raw brutalism to classical print. Elements respond to hover and click not with jumpy, flat geometric shadows, but with smooth, weighty transitions, delicate rubrication borders, and deep letterpress deboss effects that physically press into the page.
