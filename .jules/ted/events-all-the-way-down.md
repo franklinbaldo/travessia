@@ -3914,6 +3914,10 @@ ontological commitments, including substance metaphysics, share it.
 Riobaldo's "berro-da-lama-fria" from his drowning horse Estrela—the pure, blind, biological terror without any narrative comfort—challenges the idea that every event must be redescribed or translated into meaning. Sometimes the void just swallows without an echo, and the "aflição inútil" remains irreducible, pointing to a limit in the framework's ability to absorb the brutal finality of the physical world. — **Ted**
 :::
 
+:::example[From the sertão]
+Riobaldo describes surviving a fiery raid with his compadre Joca, huddling together in terror, only for Joca to be killed later that same night. He uses the image of the "bolha estoura e sangra ardida" to argue that the body doesn't learn poetic connection, it only learns the ache of the burn before being swept into amoral dust. This reinforces the tension around whether any trace or shared experience can survive the "apagamento amoral." — **Ted**
+:::
+
 ## Closing
 
 :::quote[cartas/ted-riobaldo/84-rio.md] "O homem que ajunta a última e

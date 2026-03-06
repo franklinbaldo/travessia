@@ -480,6 +480,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | montoeira de perdigueiro enrodilhado / partilha doída | The act of huddling together against the cold; a biological, temporary relief from terror without any lasting nobility or legacy. | `cartas/ted-riobaldo/276-rio.md` | Temporary biological relief / The absence of legacy |
 | o osso amparado / sol novo e um novo silêncio isolado | The profound but transient shared warmth that saves us in the immediate present, only to dissolve back into individual isolation when the immediate threat passes. | `cartas/ted-riobaldo/278-rio.md` | Ephemeral shared survival / Inevitable return to isolation |
 
+| bolha estoura e sangra ardida / apagamento amoral | The absolute refusal of poetic meaning in shared terror; the recognition that the body only learns to ache before being entirely erased by the indifferent dust. | `cartas/ted-riobaldo/280-rio.md` | The denial of poetic memory / Absolute finality |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
