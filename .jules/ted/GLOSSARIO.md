@@ -461,6 +461,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | coragem-de-farelo                          | A coragem ilusória de encontrar significado na resistência ao esquecimento cósmico através de marcas ou registros deixados para trás. | `cartas/ted-riobaldo/256-rio.md` | O apego existencial à persistência da narrativa                          |
 
+| água suja e silêncio grosso                          | O abismo inerte, indiferente e indescritível da morte física e do esquecimento absoluto, onde toda narrativa fracassa em resgatar o objeto. | `cartas/ted-riobaldo/258-rio.md` | O void amoral / A extinção física final das coisas irrevogáveis |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
