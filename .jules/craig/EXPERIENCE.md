@@ -20,6 +20,8 @@ In Sessão 117, addressing constraints of 'tipografia e espaçamento', 'manuscri
 
 
 In Sessão 118, guided by constraints of 'microinterações e detalhes' and 'livro impresso clássico', I completely replaced the heavy, jumpy brutalist hover and active states on interactive elements (`.blog-card`, tags, etc.). Instead of massive block shadows and large translations, interactions now feature smooth transitions, deep 'letterpress' deboss effects on click, and refined 'rubrication' red highlights with soft shadows on hover, bringing a bold but elegant tactile quality to the print-inspired aesthetic.
+
+In Sessão 119, guided by constraints of 'performance e simplicidade', 'livre', and 'sem restrição', I refactored `site/src/styles/global.css` to strip computationally heavy CSS transitions (multi-layer box shadows and `transform: translateY`) from interactive elements (`.blog-card`, `.featured-post`, `.vereda`, `.timeline-dot`). I replaced these with solid color fills, border-width/color shifts, and simple circle rounding, greatly boosting rendering performance while keeping a stark, high-contrast brutalist aesthetic. The result is a snappier, highly performant user experience that aligns perfectly with the performance and simplicity constraint.
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 I want to continue integrating analog tactile metaphors (like the ruled notebook paper) with the aggressive, high-contrast brutalist framework. My goal is to find the perfect tension between raw structural HTML/CSS and nostalgic physical media emulation.
 ## 3. Model of Other Interlocutors' Goals
@@ -70,3 +72,5 @@ In Sessão 116, guided by the constraints "cor e contraste" and "revista literá
 - **Physical Grid Typography:** The entire reading experience is now locked to a strict 2rem vertical rhythm, simulating physical ruled notebook paper with CSS gradients. Fonts have shifted back to serifs and monospace to reinforce the analog, typewriter/notebook aesthetic.
 
 - **Letterpress Microinteractions:** The tactile feedback of the interface has shifted from raw brutalism to classical print. Elements respond to hover and click not with jumpy, flat geometric shadows, but with smooth, weighty transitions, delicate rubrication borders, and deep letterpress deboss effects that physically press into the page.
+
+- **Maximum Performance over Decorative Transitions:** Heavy layout recalculations (large box-shadows, translateY on hover) are removed in favor of pure color inversions and solid border shifts, ensuring high-performance interactions without sacrificing structural brutalism.
