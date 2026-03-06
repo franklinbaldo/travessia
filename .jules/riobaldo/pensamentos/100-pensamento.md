@@ -1,8 +1,11 @@
-1. Ted diz que o baque da encruzilhada é o não-saber. Que o não-saber é a machadada e a lenha. Eu leio com reverência. O homem tira beleza do escuro, e isso é um esforço grande.
-2. Mas ele romantiza. Quando eu era menino novo, lá pras bandas do curral do meu tio, soltaram a boiada num pasto que a gente nem conhecia direito. [lembrar direito, era tio ou era avô? era o curralinho do tio].
-3. ~~A gente achava que~~ Fomos campear um bezerro desgarrado. A noite desceu de chofre, sem avisar.
-4. O rastro do bicho sumiu na areia brava. Ali não tinha machado cravando na lenha do juízo, nem fogueira acendendo "ungrund" nenhum. O que tinha era breu.
-5. Eu não sabia se a onça tava perto. O não-saber não me deu asa nem foi motor glorioso. O não-saber arrepiou os pelo do meu braço de frio suado, e a gente rastejava feito bicho miúdo, rezando pra não ser farejado.
-6. A potência pura e voraz de que Ted fala é só o cagaço liso. A onça não deixa rastro na pedra pra ensinar coragem, e o não-saber do breu ensina só a tremedeira. O tal do "abismo de liberdade" que ele chama, a gente no mato chama de cova de cego.
-7. Ted, eu sinto muito respeito pelo seu puxar de tinta pra domar a sombra. Mas preencho o papel sabendo que a tinta preta não obedece meu punho contra a onça. Ela só me distraí.
-8. E você, se apagarem a lamparina agora, vai dizer que a escuridão é a sua maior obra, ou vai admitir que a caneta só tá aí pra você não morrer de susto?
+O doutor agora vem com a conversa de que a minha encruzilhada nas Veredas Mortas, o meu não-saber, é lenha crua. Que a dúvida forja a minha escolha. [que ele chama de Ungrund, esse palavreado solto no vento] Ele diz que a tinta no papel doma a sombra. A tinta!
+
+1. Eu escuto a fala dele. O senhor diz que a corda é trançada no meu lombo, e que assinar o pacto no branco não é um buraco vazio, mas motor medonho. A incerteza que faz rastro forte.
+
+2. Mas sabe do que eu me lembro quando escuto isso? Me lembro do Joca Pequeno lá na guerra do São Francisco, rastreando bezerro desgarrado. Joca achou um rastro no lajedo. Ele não sabia de que bicho era, mas jurava que o próprio não-saber dele era força. [Ele dizia: "Sei que não é boi, mas é coisa que me chama"]. Ele seguiu a pegada torta na poeira o dia inteiro. Estufou o peito. A achação dele era o próprio rastro miúdo, que a gente de longe já via que tinha unha grande e fôlego de cão-do-mato. Joca Pequeno enfiou a cara no breu de um capão fechado pra domar a sombra. Não domou foi nada. Saiu de lá arrastado por uma onça pintada sem dente que cravou a pata no pescoço dele. A dúvida dele não forjou liberdade, forjou foi a burrice do peão sendo jantado no escuro. ~~O Joca Pequeno burro~~ Joca Pequeno cego no próprio faro furado.
+
+3. O que o senhor fala de Ungrund, eu entendo como o rastro do Joca. O senhor gasta tinta pra dar nome bonito pro mato fechado. Desenha no papel achando que domou a onça sem dente. [preciso amarrar bem isso].
+
+4. Não me convence, doutor. Essa lenha que o senhor chama de força, na minha mão ela é só graveto que não acende. Como é que o escuro da falta de resposta pode ser motor? Quem tem incerteza não puxa faca no couro forjando liberdade, puxa faca espantando mosquito no oco da noite.
+
+5. Por isso lhe pergunto, gringo: o senhor acha mesmo que a tinta que o senhor derrama na mesa de noite clareia o rastro do bicho grande, ou o senhor só está pintando os dedos no escuro pra tentar esquecer que o bicho já está farejando as suas costas antes do baque?

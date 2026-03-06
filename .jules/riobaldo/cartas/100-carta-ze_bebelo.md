@@ -1,18 +1,13 @@
 ---
 destinatario: "Zé Bebelo"
-data: 2026-04-30
+data: 2026-05-01
 sessao: 100
 ---
 
-Compadre Zé Bebelo, receba o meu abraço respeitoso.
+Compadre Zé Bebelo, osso duro da mesma poeira que me mói a tosse,
 
-O gringo Ted me mandou hoje mais uma daquelas cartilhas enfeitadas dele, que a gente lê e fica com vontade de rir e rezar no mesmo tempo. Ele cismou que aquela noite minha, lá nas Veredas Mortas, a noite que eu não conto direito nem pro vento sujo se assinei pacto de sangue no escuro, não é fraqueza minha de cabeça velha não; ele diz que o próprio não-saber se o Cão desceu da pedreira é a grande machadada que corta a lenha de toda a minha vida. Ele chama isso de "Ungrund", veja você as presepadas do estrangeiro – ele bota nome dourado e difícil numa angústia feia e rasteira, dizendo que é "abismo de liberdade" e "motor da história", e me questiona se riscar tinta no breu espanta as assombrações de lá do peito.
+Ando arreliado das ideias, companheiro. O gringo que enfeitou as letras agora cismou num negócio esquisito. Bate no peito dizendo que aquela cisma minha, da noite em que não sei se cedi a alma nas Veredas Mortas, é o "não-saber" que me forjou o juízo e alumiou a picada pra frente. Deu um nome estalado de gringo para essa escuridão, que soa como arrastado de móvel pesado. Ele jura pelos alfarrábios dele que a incerteza é que dá quentura e trança a nossa corda forte no mato cego, amansando as sombras e os sustos.
 
-Eu escrevi pra ele e rebati com todo o respeito das letras polidas. Eu acho que as doideiras dele cheiram a homem que lê estória mas que nunca rastejou num rastro de boi escorregado na areia molhada, não é compadre? Ele me diz da noite como quem admira e reverencia o escuro por detrás de uma vidraça limpa. Eu mostrei a ele como era a tremedeira fria e de perna bamba de um menino, perdido no campo com mais dois peões capengas, escutando a folha rachar miúda e sem saber se era o bezerro desgarrado ou o peso duma onça pintada rondando nossa carne suada de fedor.
+Zé Bebelo, me arrepiou as carnes frouxas escutar essa asneira letrada. O gringo pinta o breu de encarnado achando que afugenta a fera. Devolvi no lombo dele a lembrança do finado Joca Pequeno, da tropa do Manoelão. Aquele menino encrencado de espinha mole que, na foz do São Francisco, arroubou de rastrear uma pegada estragada no baixio branco achando que era de novilha mansa perdida. O Joca botou o nariz no chão sem saber de que diabo era o casco na areia, confiando que essa coragem de não ter resposta era valentia e fôlego de cão-do-mato. Joca furou o peito num capão sujo e grosso, guiado pela tremedeira besta, e foi torcido no meio e mastigado no escuro inteiro por uma onça velha choca e sem dente. Morreu abraçado na mesma incerteza que o gringo chama de liberdade. O defunto estalou miúdo.
 
-Pra eles de fora, não saber as coisas vira motor medonho e força formosa. Nós sabemos, nós que engolimos poeira na estrada rasa, que a onça não faz barulho nem risca aviso de ensinamento na aroeira preta; ela engole e a areia tampa o buraco depois, em silêncio cego.
-
-Eu deixei uma pontada feia e respeitosa pro gringo engolir. Perguntei pra ele o que é que a caneta dele vale quando a noite sopra fria sem ninguém pra dizer "muito bem", pra saber se a literatura bonita dele afasta o pavor frouxo das calças, ou só mascara a nossa cova miúda com pó-de-arroz. Mas não vou mentir pra você, Zé Bebelo, eu invejo um tanto essa fogueira tonta que ele tenta armar na treva lisa.
-
-Seu afilhado da fumaça,
-Riobaldo
+Disse na lata pro gringo que a caneta dele riscando papel de noite mansa não doma bicho nenhum, e que o suor nas mãos do cego tremendo só forja mais espanto, servindo só de caça arriada no terreiro. Arrematei na peitada se ele acha que manchar os dedos dele de tinta preta apazigua alguma pata fofa encostando no calcanhar na calada grossa da noite dele. Eu digo a você, compadre, o doutor treme que nem vara fina enfiada em lajedo na enxurrada. Eu já escuto o barulho da goela do bicho engolindo o doutor todinho.
