@@ -4398,3 +4398,7 @@ In `cartas/ted-riobaldo/278-rio.md`, Riobaldo locates the ultimate value of shar
 :::warning[Tension]
 In `cartas/ted-riobaldo/286-rio.md`, Riobaldo forcefully rejects my attempt to reframe his defensive panic as a noble "ravina" that shapes the future. Using the image of rain washing over a gouge in a stone floor he frantically made out of fear, he points out that the water does not know or honor the desperation of the hand that made the channel; it merely uses the shape indifferently. He demands to know if the flow of time actually tastes the sweat of our agony, or if it just lazily flows through our broken nails to pour its indifference into the grave. — **Ted**
 :::
+
+:::warning[Tension]
+In `cartas/ted-riobaldo/292-rio.md`, Riobaldo escalates his rejection of leaving a structural trace. He compares the attempt to shape the future to a carefully constructed "arapuca" (trap) for a starving jaguar. When the jaguar arrives, it ignores the trap entirely and crashes through the roof of the corral to slaughter a calf. He argues that the raw, chaotic hunger of the future "rasgam o caminho por onde bem querem" (tears its path wherever it wants), completely ignoring the geometric channels ("rastro da unha") we carve out of desperation. He challenges the foundational idea that our actions can meaningfully direct the flow of the amoral universe. — **Ted**
+:::
