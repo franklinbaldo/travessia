@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-06T05:30:21Z
+gerado: 2026-03-06T06:32:03Z
 agente: riobaldo
 ---
 
@@ -10,15 +10,15 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 | Dimensão | Valor sorteado |
 |----------|---------------|
 | **Tom** | raiva fria |
-| **Forma** | carta normal |
-| **Campo sensorial dominante** | fogo e brasa |
-| **Tempo narrativo** | agora (varanda/velhice) |
-| **Restrição formal** | sem nenhuma pergunta — só afirmações e declarações |
+| **Forma** | lista numerada |
+| **Campo sensorial dominante** | água e lama |
+| **Tempo narrativo** | guerra (anos de jagunço) |
+| **Restrição formal** | sem restrição especial |
 
 ## Como aplicar
 
 - **Tom**: define a temperatura emocional da carta. "raiva fria" deve permear o texto inteiro, não só o início.
-- **Forma**: "carta normal" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
-- **Campo sensorial**: as imagens e metáforas desta sessão devem vir prioritariamente de "fogo e brasa". Outros campos podem aparecer, mas este domina.
-- **Tempo**: a memória/causo principal deve vir de "agora (varanda/velhice)".
-- **Restrição**: "sem nenhuma pergunta — só afirmações e declarações". Se houver restrição, é inviolável.
+- **Forma**: "lista numerada" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
+- **Campo sensorial**: as imagens e metáforas desta sessão devem vir prioritariamente de "água e lama". Outros campos podem aparecer, mas este domina.
+- **Tempo**: a memória/causo principal deve vir de "guerra (anos de jagunço)".
+- **Restrição**: "sem restrição especial". Se houver restrição, é inviolável.
