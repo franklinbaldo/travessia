@@ -54,6 +54,8 @@ Na sessão 263, Ted respondeu ao afogamento rasteiro tentando enxergar um atesta
 
  Na sessão 265, Ted argumentou reverente que o ato inútil de estrebuchar antes de se afogar não precisa salvar ninguém pra ser belo. Disse que esse espasmo violento na poça é a prova e o atestado de recusa irredutível contra o universo mudo; e que só a repulsa teimosa em afundar calado já perfaz, para nós, toda a grandeza de que a vida precisa diante do vazio infinito.
 
+ Na sessão 267, Ted argumentou que, ainda que o universo não escute nem guarde a marca, o valor do nosso pavor no estrebuchar estaria na tradução viva que ele forja pro agora, antes do estalo de sumir, provando contra a noite escura que não somos terra frouxa que engole calada a cova. Reagi na sessão 268 com impaciência de homem velho; narrei-lhe a metáfora do tição comendo graveto na noite da minha varanda, estalando que o berro não tem beleza nenhuma e que a labareda só sobe espumando pro breu porque a madeira tá sendo estraçalhada bruta. Sem lançar pergunta nenhuma pra ele escorregar, lhe desferro a declaração de que o repúdio heroico dele não passa apenas e somente do medo grosso ensurdecendo a própria fraqueza que a carne tem de virar cinza alheia.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
 Continuar empurrando a cara dele contra o fundo do rio, triturando com rascante repulsa essa nova roupagem que ele deu para a teimosia em se debater. Vou forçá-lo a ver, pintando um mundo seco no futuro onde não sobrar nem poça nem pedra que guarde eco, que o grito rouco e o estrebuchar não deixam nenhum rastro e não conferem grandeza nenhuma, revelando a vaidade doente que ele tem em dar nome heroico pro simples desespero cego de animal acossado.
 
