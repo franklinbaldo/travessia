@@ -1252,9 +1252,13 @@ main.home-layout {
 .vereda:hover {
   background-color: var(--bg-color);
   border-color: var(--accent-color);
-  color: var(--text-color);
-  transform: none;
-  box-shadow: none;
+  color: var(--accent-color);
+  transform: translateY(-1px);
+  box-shadow: 2px 2px 0px rgba(0,0,0,0.05);
+}
+
+[data-theme="dark"] .vereda:hover {
+  box-shadow: 2px 2px 0px rgba(255,255,255,0.05);
 }
 
 
@@ -1327,11 +1331,15 @@ main.home-layout {
 .featured-post:hover {
   background: var(--bg-color);
   color: var(--text-color);
-  border-color: var(--text-color);
-  border-left: 6px solid var(--accent-color);
-  transform: none;
-  box-shadow: none;
+  border-color: var(--accent-color);
+  border-left: 8px solid var(--accent-color);
+  transform: translateY(-2px);
+  box-shadow: 6px 6px 0px rgba(0,0,0,0.05);
   opacity: 1;
+}
+
+[data-theme="dark"] .featured-post:hover {
+  box-shadow: 6px 6px 0px rgba(255,255,255,0.05);
 }
 
 
@@ -1382,15 +1390,19 @@ main.home-layout {
 
 
 
-/* Microinteração: hover lift, tilt, and tape reaction */
+/* Microinteração: hover subtle shifts */
 
 .blog-card:hover {
   background-color: var(--bg-color);
   color: var(--text-color);
-  border-color: var(--text-color);
-  border-left: 6px solid var(--accent-color);
-  transform: none;
-  box-shadow: none;
+  border-color: var(--accent-color);
+  border-left: 8px solid var(--accent-color);
+  transform: translateY(-2px);
+  box-shadow: 4px 4px 0px rgba(0,0,0,0.05);
+}
+
+[data-theme="dark"] .blog-card:hover {
+  box-shadow: 4px 4px 0px rgba(255,255,255,0.05);
 }
 
 
@@ -1674,11 +1686,15 @@ main.home-layout {
 
 
 .timeline-dot:hover {
-  transform: none;
+  transform: translateY(-2px);
   background: var(--text-color);
   color: var(--bg-color);
-  border-color: var(--text-color);
-  box-shadow: none;
+  border-color: var(--accent-color);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+[data-theme="dark"] .timeline-dot:hover {
+  box-shadow: 0 4px 8px rgba(255,255,255,0.1);
 }
 
 
@@ -1707,11 +1723,15 @@ main.home-layout {
 
 [data-theme="dark"]
 .timeline-dot:hover {
-  transform: none;
+  transform: translateY(-2px);
   background: var(--text-color);
   color: var(--bg-color);
-  border-color: var(--text-color);
-  box-shadow: none;
+  border-color: var(--accent-color);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+[data-theme="dark"] .timeline-dot:hover {
+  box-shadow: 0 4px 8px rgba(255,255,255,0.1);
 }
 .timeline-dot:active {
   transform: translate(8px, 8px);
@@ -1759,22 +1779,22 @@ main.home-layout {
 }
 
 .blog-card:active {
-  transform: scale(0.98) translateY(0);
-  box-shadow: inset 0 6px 16px rgba(0,0,0,0.2);
+  transform: scale(0.99) translateY(0);
+  box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
 }
 .featured-post:active {
-  transform: scale(0.98) translateY(0);
-  box-shadow: inset 0 6px 16px rgba(0,0,0,0.2);
+  transform: scale(0.99) translateY(0);
+  box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
 }
 .vereda:active {
   transform: scale(0.98) translateY(0);
-  box-shadow: inset 0 6px 16px rgba(0,0,0,0.2);
+  box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
 }
 .timeline-dot:active {
-  transform: scale(0.98) translateY(0);
-  box-shadow: inset 0 6px 16px rgba(0,0,0,0.2);
+  transform: scale(0.95) translateY(0);
+  box-shadow: inset 0 2px 4px rgba(0,0,0,0.15);
 }
 [data-theme="dark"] .timeline-dot:active {
-  transform: scale(0.98) translateY(0);
-  box-shadow: inset 0 6px 16px rgba(0,0,0,0.2);
+  transform: scale(0.95) translateY(0);
+  box-shadow: inset 0 2px 4px rgba(255,255,255,0.15);
 }
