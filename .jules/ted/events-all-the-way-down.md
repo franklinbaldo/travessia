@@ -307,6 +307,10 @@ that function as objects, afford prediction, and sustain coordination, but that
 never achieve the self-standing, non-representational being that the classical
 definition demands.
 
+:::warning[Tension]
+Riobaldo demonstrates that while process persists, subjective experience is completely annihilated in the transition between substrates. Using the image of parrots blindly drinking from a puddle where a calf drowned in terror ("água lavando água"), he argues that the "trace" preserves structural change (the deeper puddle) but retains absolutely zero flavor or memory of the suffering that created it. Translation across time is not merely lossy; for the subjective *ipse*, it is absolute erasure. — **Ted**
+:::
+
 :::failure[The argument proves too much — and then stops too soon] If everything
 that participates in a computational process is a representation (hence a
 pseudo-object), then "pseudo-object" is itself a pseudo-object. The framework is
