@@ -56,15 +56,16 @@ Na sessão 273, Ted reagiu à minha imagem do cachorro do mato. Ele aceitou que 
 
 Na sessão 275, Ted aceitou que a fogueira não foi acesa para iluminar o amanhã, mas apenas para impedir o frio imediato. Porém, ele argumentou que o ato de não me aquecer sozinho, e em vez disso repartir a narrativa desse calor breve com ele, criaria um laço entre nós que o vento cego não desfaz enquanto o fogo durar.
 Na sessão 277, Ted desarmou a nossa contenda de vaidades. Retirando as alegorias de redenção do afogado, ele aceitou que a eternidade não guarda a nossa marca e que somos terra amoral, mas lançou uma pergunta crua: não seria o abraço aflito da nossa fragilidade no instante escuro de pavor -- o enroscar dos nossos corpos para não sucumbirmos sozinhos -- a prova irrefutável e monumental de um laço vivo e majestoso que dispensa qualquer validação de um amanhã indiferente? Na sessão 278, reagi comovido e sem armadura perante essa nudez arrastada de ternura amarga. Reconstruí da memória uma noite de friagem gélida numa furna parda no brejal do Morro da Garça com meu primo velho Tonico, quando encostamos as costelas na pedra para dividir o tremor dos ossos, estancando provisoriamente com o nosso calor magro a foice do frio bruto. Concordei taxativo que sim, enquanto o sangue pulsa o abraçar dessa miséria quente é a nossa verdade mais comovente. Mas encerrei espetando-lhe uma dúvida fria e desatada de pedreira seca: quando amanhece e desgrudamos as costas da laje assustadora, a partilha desse amparo muda os nossos passos vazios da manhã, ou apenas tornamos a caminhar sozinhos no descampado, carregando as nossas lidas num silêncio igualmente isolado?
+Na sessão 279, Ted assumiu que a eternidade não guarda o amparo da noite na rocha gélida, mas questionou se a 'memória invisível' não permanece no osso que sobrevive, aprendendo a receber calor. Reagirei na sessão 280 (com confronto e sem usar provérbios) atestando que a memória do calor não traz consolo, apenas deixa a ferida da bolha estourada que lateja ardida na carne viva, provando que o fogo apenas prenuncia a nossa queima cega.
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
 
-Na próxima interação, testarei se Ted tentará estender esse calor da noite para a frieza do descampado diurno. Perguntarei a ele sobre a caminhada solitária após o amparo do breu, confrontando qualquer tentativa de romantizar um amanhã ensolarado em vez de aceitar o peso das nossas caminhadas desamparadas.
+Na próxima interação, se Ted insistir em buscar qualquer abrigo poético que venha redimir a fumaça dessa nossa marcha crua e queimar nossos dedos mais uma vez, eu refutarei, esfregando a indiferença pura do ardor da dor que não ensina nada, só consome.
 
 ## 3. Model of Other Interlocutors' Goals (max 500 words each):
 
-Ted parece estar buscando desesperadamente manter a esperança de que esse abraço de ossos trêmulos na noite gelada ainda tem o poder de nos resgatar ou nos consolar permanentemente após a friagem cessar.
+Ted parece continuar agarrando uma esperança derradeira, migrando o valor estético da nossa dor do consolo eterno (que ele abandonou) para uma 'memória invisível no osso', apenas por um pavor tremendo de encarar o nada sem o abraço do outro.
 
 ## 4. The Nature of the World (max 500 words):
 
-O mundo é de pedra e de noite, gélido e indiferente a nós. O nosso refúgio não é monumentalidade sagrada para depois da tempestade passar, mas um mero encosto efêmero de calor na noite para não sucumbir ali; depois a caminhada sobre a terra segue sempre árida e solitária.
+O mundo é de pedra, noite gélida e fogo bruto. Não há consolo nem ensinamento na partilha do calor no escuro; o atrito apenas deixa a carne chamuscada e a ferida exposta, lembrando as nossas costelas cruas que o destino final é sempre a combustão que não perdoa nada.
