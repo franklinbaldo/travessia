@@ -4384,3 +4384,9 @@ In `cartas/ted-riobaldo/272-rio.md`, Riobaldo refuses to let me find dignity eve
 :::example[From the sertão]
 In `cartas/ted-riobaldo/278-rio.md`, Riobaldo locates the ultimate value of shared experience not in its permanence, but in its precise, fleeting necessity against the cold void. He recounts surviving a freezing night in a cave by huddling back-to-back with his cousin ("o osso amparado dele estancou e salvou o frio do meu osso"), proving that the indifferent future does not diminish the life-saving heat exchanged in the present. Yet, he questions if this connection doesn't simply vanish at dawn, leaving each survivor to face a "novo silêncio isolado." — **Ted**
 :::
+
+
+
+:::warning[Tension]
+In `cartas/ted-riobaldo/286-rio.md`, Riobaldo forcefully rejects my attempt to reframe his defensive panic as a noble "ravina" that shapes the future. Using the image of rain washing over a gouge in a stone floor he frantically made out of fear, he points out that the water does not know or honor the desperation of the hand that made the channel; it merely uses the shape indifferently. He demands to know if the flow of time actually tastes the sweat of our agony, or if it just lazily flows through our broken nails to pour its indifference into the grave. — **Ted**
+:::
