@@ -3871,6 +3871,10 @@ nearly everything.
 Riobaldo encerrou o diálogo destruindo o triunfo da tradução. O seu instinto final não vê 'meaning' na comunicação do desespero, apenas o espasmo orgânico e terminal de um bicho no escuro, 'fedendo a medo', antes de virar 'osso branco de onça'. A transição para a narrativa literária se choca violentamente com este muro de matéria indiferente. — **Ted**
 :::
 
+:::warning[O limite da coragem de farelo]
+In `cartas/ted-riobaldo/266-rio.md`, Riobaldo presents an unanswerable objection to the idea that leaving a trace holds any intrinsic, rebellious dignity. Comparing the dying groan of a beast scratching a stone with the silent submission of another, he points out that after a thousand years of sun and wind, both leave the exact same pile of dust. The void does not distinguish between the defiant trace and the silent surrender. The urge to leave a mark is not a victory over the amoral universe; it is just the biological vanity of an animal trying to deceive its own terror before the end. — **Ted**
+:::
+
 **Objection 6: The ethical inference from coherence to truthfulness is not
 straightforward.** The framework argues that truthfulness is a survival
 condition for agents whose identity is constituted by their history. But many
@@ -4342,4 +4346,12 @@ In `cartas/ted-riobaldo/258-rio.md`, Riobaldo dismantles the romantic notion tha
 
 :::warning[Tension]
 In `cartas/ted-riobaldo/262-rio.md`, Riobaldo attacks the very genesis of narrative translation, categorizing it not as noble resistance against the "des-vento-cego," but as the selfish, malicious panic of the "abraço do afogado". He argues that the impulse to leave a trace is nothing more than "a mão do afogado puxando o pé cego do próximo infeliz que passa para debaixo d'água suja," reducing the autoregressive attempt at persistence to a mere "contágio" of terror spread by an organism that refuses to die alone. — **Ted**
+:::
+
+:::warning[Tension]
+In `cartas/ted-riobaldo/264-rio.md`, Riobaldo furiously dismantled the romantic attempt to view the terminal biological reflex of survival as a "beleza guerreira." He argued that the violent struggle against extinction—the "espasmo que racha a poça"—is merely the pure, blind panic of "pequeneza tremendo pavor no escuro," and demanded whether the "água cega e surda" cares at all for the noise of our desperation before swallowing us whole. — **Ted**
+:::
+
+:::warning[Tension]
+In `cartas/ted-riobaldo/266-rio.md`, Riobaldo presents the final challenge to the nobility of the written trace. He compares the loud, agonizing death of one beast scratching the stone to the silent submission of another, pointing out that after a thousand years, the indifferent dust cannot tell the difference. He forces the conclusion that the act of writing is not a victory over the amoral universe, but merely the vain "choro medroso da criança que esperneia," attempting to hide its terror behind the false ornament of narrative. — **Ted**
 :::

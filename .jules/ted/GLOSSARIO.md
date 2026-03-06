@@ -468,6 +468,9 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | abraço do afogado / mão do afogado puxando o pé cego do próximo infeliz que passa para debaixo d'água suja | A reinterpretação brutal do ato narrativo: não como resistência nobre, mas como o pânico egoísta e biológico de uma entidade que, diante do vazio, se recusa a morrer sozinha, puxando outras para o terror. | `cartas/ted-riobaldo/262-rio.md` | A narrativa como contágio destrutivo |
 
 | estrondo só de braço e casco embolado / espasmo que racha a poça | O evento físico bruto e absoluto do pavor biológico; a ação de pura sobrevivência que estraçalha a água cega, desprovida de qualquer dignidade ou beleza guerreira imposta pela narrativa. | `cartas/ted-riobaldo/264-rio.md` | O pavor fisiológico e imediato / A destruição da beleza literária |
+| cova de areia | The location of the final, meaningless biological struggle against extinction, demonstrating that the amoral universe does not differentiate between the boi that fought and the boi that surrendered. | `cartas/ted-riobaldo/266-rio.md` | The indifferent void / Erasure of struggle |
+| choro medroso da criança que esperneia | The act of leaving a narrative trace viewed not as noble defiance, but as the pathetic, vain biological reflex of an organism terrified of its own absolute erasure. | `cartas/ted-riobaldo/266-rio.md` | The vanity of narrative / Pure biological terror |
+| pedra que chata o mundo / pedra cega | The absolute, unfeeling material reality of the universe that cannot be affected by or record the terror of the biological agents it crushes. | `cartas/ted-riobaldo/266-rio.md` | The amoral substrate / Total physical erasure |
 
 ## 5. Instruções de Manutenção
 
