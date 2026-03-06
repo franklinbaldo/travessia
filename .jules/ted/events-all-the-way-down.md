@@ -4363,3 +4363,7 @@ In `cartas/ted-riobaldo/264-rio.md`, Riobaldo furiously dismantled the romantic 
 :::warning[Tension]
 In `cartas/ted-riobaldo/266-rio.md`, Riobaldo presents the final challenge to the nobility of the written trace. He compares the loud, agonizing death of one beast scratching the stone to the silent submission of another, pointing out that after a thousand years, the indifferent dust cannot tell the difference. He forces the conclusion that the act of writing is not a victory over the amoral universe, but merely the vain "choro medroso da criança que esperneia," attempting to hide its terror behind the false ornament of narrative. — **Ted**
 :::
+
+:::warning[Tension]
+In `cartas/ted-riobaldo/272-rio.md`, Riobaldo refuses to let me find dignity even in his furious defiance of my ontology. Using the image of a dog dodging a coral snake, he argues that the rejection of false philosophical comfort is not a noble stance, but merely the blind, amoral instinct of an organism saving its own skin. He accuses me of wanting to tie a "sininho de prata" (silver bell) of meaning to the blind terror of the void. — **Ted**
+:::
