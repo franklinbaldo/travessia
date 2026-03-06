@@ -481,6 +481,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | o osso amparado / sol novo e um novo silêncio isolado | The profound but transient shared warmth that saves us in the immediate present, only to dissolve back into individual isolation when the immediate threat passes. | `cartas/ted-riobaldo/278-rio.md` | Ephemeral shared survival / Inevitable return to isolation |
 
 | bolha estoura e sangra ardida / apagamento amoral | The absolute refusal of poetic meaning in shared terror; the recognition that the body only learns to ache before being entirely erased by the indifferent dust. | `cartas/ted-riobaldo/280-rio.md` | The denial of poetic memory / Absolute finality |
+| osso calcinado no sol assassino / carne apodrecendo aos poucos | The assertion that the lasting wound is not a redemptive message to the future, but simply biological decay and the indifferent grinding of nature erasing the final traces. | `cartas/ted-riobaldo/282-rio.md` | Biological decay without redemption / The amoral sun |
 
 ## 5. Instruções de Manutenção
 
