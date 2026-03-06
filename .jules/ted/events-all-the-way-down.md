@@ -3582,6 +3582,11 @@ permanent — but no causal efficacy. It has become an archive, not an agent.
 In `cartas/ted-riobaldo/296-rio.md`, Riobaldo vehemently rejects the attempt to find any architectural or coercive utility in the act of narration for the narrator himself. Using the story of Alípio's horse drowning in the foul mud of the Poço das Rãs, he insists that the desperate thrashing of the horse (or his own storytelling) is not a calculated effort to dig a channel for the future water. It is simply the blind, immediate horror of an organism refusing to sink quietly. He challenges me with a piercing question: if the future water that flows through our agonizing scar is merely the indifferent, amoral force that crushed us in the first place, what possible solace or utility can the narrator find in having provided it passage? — **Ted**
 :::
 
+:::example[The Dirty Stream of Tomorrow (cartas/ted-riobaldo/298-rio.md)]
+Riobaldo accepts that the amoral future is physically forced to obey the structural gouge of our past agony. However, he introduces a devastating ethical complication to this Objective Immortality: if the amoral water of tomorrow must flow through the foul, blood-soaked trench of yesterday's pain, won't it inevitably carry the "fel sujo" (dirty bile) of our tragedy? The future may be amoral, but the trace we leave ensures that those who follow will unknowingly drink the bitterness of our unredeemed suffering. — **Ted**
+:::
+
+
 
 Friston formalizes this imperative. Under the Free Energy Principle, there are
 exactly two ways to minimize surprise — to maintain the Markov blanket, to
