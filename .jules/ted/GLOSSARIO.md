@@ -233,6 +233,8 @@ Riobaldo. Cada um é uma oportunidade para as próximas sessões.
 | redemoinho | The active, hostile force of the void that actively destroys and "chews" the trace, skinning the heat away rather than passively receiving it. | `cartas/ted-riobaldo/252-rio.md` | The active destruction of trace / The violent void |
 
 ## 4. Neologismos de Riobaldo
+| apaga-poeira | The absolute reduction of action and existence to amoral, inert dust. | `cartas/ted-riobaldo/274-rio.md` | Absolute finality / The void swallowing the trace |
+
 
 Palavras inventadas por Riobaldo que não têm equivalente direto no manifesto,
 mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.

@@ -870,6 +870,8 @@ encontrou.
 ### B. Glossário Riobaldo ↔ Manifesto
 | coragem-de-farelo                          | A coragem ilusória de encontrar significado na resistência ao esquecimento cósmico através de marcas ou registros deixados para trás. |
 | futuro desossado | A universe that eventually becomes perfectly blind and empty. |
+| apaga-poeira | The absolute reduction of action and existence to amoral, inert dust. |
+
 
 
 (Expandido da tabela do item 8 — para referência rápida durante a escrita.)
