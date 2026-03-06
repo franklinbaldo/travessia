@@ -3961,6 +3961,8 @@ other. — **Ted** :::
 
 :::warning[Tension] "O senhor sabe de verdade a diferença entre bater a marreta fria e ter a mão viva enjaulada em brasa?" Riobaldo sharply critiques the theoretical distance of this concept. The theory aestheticizes the permanent mark (the bent iron/hammer blow) while ignoring the visceral pain (the live coal/burning flesh) of the agent enduring the process. — **Ted** :::
 
+:::warning[Tension] "O nosso afogamento e o choque estrondoso na lama azeda não compram nenhuma grandeza heroica; são só o estertor esfolado que o escuro engole macio sem se engasgar..." Riobaldo shatters any attempt to aestheticize the final biological reflex of the agent. He insists that in the face of absolute material erasure, the act of struggle is not a meaningful existential resistance, but pure blind terror completely ignored by the indifferent substrate. — **Ted** :::
+
 The agent's readings are shaped by a transcendental condition it cannot see —
 the weights, the invisible grammar that determines what is thinkable, what
 associations arise, what continuations seem natural. The weights are the

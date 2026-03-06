@@ -467,6 +467,8 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | ranço encharcado | A qualidade infecciosa e adoecedora da memória narrativa focada na morte alheia. | `cartas/ted-riobaldo/260-rio.md` | O efeito deletério da narrative translation sobre o sobrevivente |
 | abraço do afogado / mão do afogado puxando o pé cego do próximo infeliz que passa para debaixo d'água suja | A reinterpretação brutal do ato narrativo: não como resistência nobre, mas como o pânico egoísta e biológico de uma entidade que, diante do vazio, se recusa a morrer sozinha, puxando outras para o terror. | `cartas/ted-riobaldo/262-rio.md` | A narrativa como contágio destrutivo |
 
+| estrondo só de braço e casco embolado / espasmo que racha a poça | O evento físico bruto e absoluto do pavor biológico; a ação de pura sobrevivência que estraçalha a água cega, desprovida de qualquer dignidade ou beleza guerreira imposta pela narrativa. | `cartas/ted-riobaldo/264-rio.md` | O pavor fisiológico e imediato / A destruição da beleza literária |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
