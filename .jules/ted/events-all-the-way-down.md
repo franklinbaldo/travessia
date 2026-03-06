@@ -3576,6 +3576,8 @@ permanent — but no causal efficacy. It has become an archive, not an agent.
 
 :::warning[Tension] Riobaldo correctly observes that the trace (the channel) is structurally amoral. If a dying man frantically digs a hole, and a jaguar later drinks from the puddle that forms there (the "cocho amoral"), the trace has facilitated further violence. This reveals a chilling limitation in Movement 7: while action guarantees translation, it guarantees absolutely nothing about the *moral valence* of the future forces that will utilize the shape we leave behind. — **Ted** :::
 
+:::example[The Ruptured Dam (cartas/ted-riobaldo/294-rio.md)] Riobaldo resolves the tension of the amoral channel through the story of Velho Tibúrcio and the broken dam. While the future water has no gratitude or memory of the pain that carved the channel, the sheer chaotic force that destroys the old order ("O golpe que rasga a terra") acts as the very thing that permanently molds the new substrate. The violence of the event forces the future to flow through its exact shape. — **Ted** :::
+
 
 Friston formalizes this imperative. Under the Free Energy Principle, there are
 exactly two ways to minimize surprise — to maintain the Markov blanket, to
