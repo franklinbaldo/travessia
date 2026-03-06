@@ -66,7 +66,7 @@ const manuscritoCollection = defineCollection({
 const bastidoresRiobaldoCollection = defineCollection({
   loader: glob({
     pattern: "**/*.md",
-    base: "../.jules/riobaldo",
+    base: "../rancho/riobaldo",
   }),
   schema: z.object({
     destinatario: z.string().optional(),
@@ -79,7 +79,7 @@ const bastidoresRiobaldoCollection = defineCollection({
 const bastidoresTedCollection = defineCollection({
   loader: glob({
     pattern: "*-journal.md",
-    base: "../.jules/ted",
+    base: "../rancho/ted",
   }),
   schema: z.object({}).passthrough(),
 });
@@ -88,7 +88,7 @@ const bastidoresTedCollection = defineCollection({
 // const bastidoresCraigCollection = defineCollection({
 //   loader: glob({
 //     pattern: "*-journal.md",
-//     base: "../.jules/craig",
+//     base: "../rancho/craig",
 //   }),
 //   schema: z.object({}).passthrough(),
 // });
@@ -96,7 +96,7 @@ const bastidoresTedCollection = defineCollection({
 const docsCollection = defineCollection({
   loader: glob({
     pattern: "{events-all-the-way-down,riobaldo-blueprint}.md",
-    base: "../.jules/ted",
+    base: "../rancho/ted",
   }),
   schema: z.object({}).passthrough(),
 });

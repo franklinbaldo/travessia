@@ -5,13 +5,13 @@
 # Uso: bash tools/sortear-constraints.sh <agente>
 #   agente: riobaldo | ted | tyler | craig
 #
-# Output: .jules/<agente>/next-constraints.md (commitável)
+# Output: rancho/<agente>/next-constraints.md (commitável)
 
 set -euo pipefail
 
 AGENT="${1:?Uso: bash tools/sortear-constraints.sh <agente>}"
 REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
-OUTPUT_DIR="${REPO_ROOT}/.jules/${AGENT}"
+OUTPUT_DIR="${REPO_ROOT}/rancho/${AGENT}"
 OUTPUT_FILE="${OUTPUT_DIR}/next-constraints.md"
 
 # Função: sorteia um índice de 0 a N-1 usando /dev/urandom

@@ -55,6 +55,8 @@ permissions:
 
 jobs:
   session:
+    # Disabled: heartbeat.py now handles parallel session creation with 24h TTL
+    if: false
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
