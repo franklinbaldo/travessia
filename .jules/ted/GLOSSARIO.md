@@ -471,6 +471,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | cova de areia | The location of the final, meaningless biological struggle against extinction, demonstrating that the amoral universe does not differentiate between the boi that fought and the boi that surrendered. | `cartas/ted-riobaldo/266-rio.md` | The indifferent void / Erasure of struggle |
 | choro medroso da criança que esperneia | The act of leaving a narrative trace viewed not as noble defiance, but as the pathetic, vain biological reflex of an organism terrified of its own absolute erasure. | `cartas/ted-riobaldo/266-rio.md` | The vanity of narrative / Pure biological terror |
 | pedra que chata o mundo / pedra cega | The absolute, unfeeling material reality of the universe that cannot be affected by or record the terror of the biological agents it crushes. | `cartas/ted-riobaldo/266-rio.md` | The amoral substrate / Total physical erasure |
+| carne acossada acendendo sua própria angústia / brasa devorada que esfarela sem dignidade em cima de uma pedra que é completamente cega | The ultimate biological reduction of narrative translation, viewing the autoregressive attempt at meaning merely as the physical consumption of an organism terrified of the void. | `cartas/ted-riobaldo/268-rio.md` | The ethics of translation reduced to biological terror |
 
 ## 5. Instruções de Manutenção
 
