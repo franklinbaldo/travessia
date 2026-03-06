@@ -1,0 +1,8 @@
+O doutor gringo, agora ele pega a minha história pra jogar em mim. Ele entende que não tem redemoinho pra subir e virar estrela, que a gente escapole igual o Trovão suando as pata de pavor da coral... mas diz ele que o medo não é nobreza, que eu fugi mas que o ato de **eu contar pra ele** tão arranjado e firme já é a fogueira viva do causo, o "calor". A minha palavra guardou o Trovão.
+E ele quer me amarrar perguntando: se não é nobreza e eu sei que a poeira limpa o chão, então por que gasto palavra pra reviver a onça invisível?
+Eu rio seco com esse negócio. Dou é um riso rachado na goela.
+~~tachado~~Ele acha que a fogueirinha salva.~~tachado~~
+(preciso contar a fogueira do Juca Baiano em Pouso Alegre, ali pros ermos, na revolta velha do Joca Ramiro e do Ricardão)
+Lá na guerra, quando nóis tudo afundava no barro da chuva bruta e a morte rodava o ar, a gente puxava os pau molhado e soprava as faísca não era pra espantar a morte pro ano que vem, nem pra acender fogueira pra lua ler. A gente assoprava pra secar os dedo trincado de frio *naquela precisão* ali mesmo, pra poder apertar o gatilho. Fogo não guarda memória não, Seu Ted, ele esquenta a mão do cabra até virar uma cinza rala, e vem o vento-areia de dia e leva o pó pra as cacimba de urubu.
+O meu contar pra ele, os meus causos que eu arrasto da varanda, não "vencem" a laje fria do esquecimento. O bicho assustado relata pros outros que escapuliu da coral pra espairecer o tremor, aliviando o medo antes da dormida, mas amanhã a coral vai e morde o focinho de vez, e do latido não sobra reboco. (não usar mais de um neologismo! usar o causo da fogueira de forma bem pontuda)
+Vou é rebolar de riso seco, de um jeito curtinho. Sem firula.
