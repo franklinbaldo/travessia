@@ -463,6 +463,9 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 
 | água suja e silêncio grosso                          | O abismo inerte, indiferente e indescritível da morte física e do esquecimento absoluto, onde toda narrativa fracassa em resgatar o objeto. | `cartas/ted-riobaldo/258-rio.md` | O void amoral / A extinção física final das coisas irrevogáveis |
 
+| peso desse ferro no nosso ombro | A vergonha inútil e o trauma corrosivo carregado pelo sobrevivente ao testemunhar a extinção do outro. | `cartas/ted-riobaldo/260-rio.md` | O fardo ético/psicológico do observer |
+| ranço encharcado | A qualidade infecciosa e adoecedora da memória narrativa focada na morte alheia. | `cartas/ted-riobaldo/260-rio.md` | O efeito deletério da narrative translation sobre o sobrevivente |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:

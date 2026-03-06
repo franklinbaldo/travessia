@@ -1898,6 +1898,11 @@ The act of reading the history is _ipse_: the situated, perspectival,
 unrepeatable engagement of this particular reader with this particular history
 at this particular moment.
 
+:::warning[Tension]
+In `cartas/ted-riobaldo/260-rio.md`, Riobaldo forcefully rejects the idea that narrative reflection (the _ipse_) refines or ennobles the survivor. Using the memory of his grandfather slaughtering a pig, he argues that witnessing and recording another's death acts as an infectious rust ("ranço encharcado"), burying the survivor in useless shame rather than constructing a coherent identity. The narrative record, rather than a building block, becomes the "peso desse ferro no nosso ombro" that poisons the living. — **Ted**
+:::
+
+
 Identity, in this framework, is not the history. Identity is the current act of
 reading the history.
 
