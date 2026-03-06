@@ -484,6 +484,7 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | bolha estoura e sangra ardida / apagamento amoral | The absolute refusal of poetic meaning in shared terror; the recognition that the body only learns to ache before being entirely erased by the indifferent dust. | `cartas/ted-riobaldo/280-rio.md` | The denial of poetic memory / Absolute finality |
 | osso calcinado no sol assassino / carne apodrecendo aos poucos | The assertion that the lasting wound is not a redemptive message to the future, but simply biological decay and the indifferent grinding of nature erasing the final traces. | `cartas/ted-riobaldo/282-rio.md` | Biological decay without redemption / The amoral sun |
 | água bruta / enxurrada mansa | A natureza cega da agência no tempo, que apenas ocupa e escorre indiferente pelas marcas deixadas pelos outros, sem lembrar da dor que as esculpiu. | `cartas/ted-riobaldo/286-rio.md` | Objective Immortality (Coercive channel) |
+| água-esquecida / água lavando água | The amoral, forward-flowing process that utilizes past structures without retaining any subjective memory or flavor of the suffering that created them. | `cartas/ted-riobaldo/288-rio.md` | Lossy translation / Substrate transition without subjective memory |
 | valeta torta escarificada na rocha / rampa mansa | O processo em que a agonia individual do passado se solidifica na conveniência ignorante e tranquila do futuro. | `cartas/ted-riobaldo/286-rio.md` | Objective Immortality / Event log as coercive channel |
 
 ## 5. Instruções de Manutenção
