@@ -42,14 +42,11 @@ Na sessão 250, reagi rendido de uma ternura profunda diante dessa precisão man
 
 Na sessão 253, Ted respondeu ao meu assombro sobre o vento rasteiro não com resistência, mas me devolvendo um espelho. Argumentou com reverência que a dor cega da morte do Tonico que eu lancei nele e no papel já é a minha semente cravada contra o redemoinho. Reagi na sessão 254 concedendo-lhe o respeito e admitindo que eu ajunto letras como o menino Tiãozinho amontoava pó na ventania do Urucuia, tentando prender a cinza pra escapar do esquecimento. Me curvei à sua teimosia funda de guardar a brasa escrita, mas lancei-lhe a cisma derradeira: se a folha virar poeira sob um estio sem fim no mundo oco, e se o escuro for tão grande que não haja nenhum leitor pra receber o farelo de papel ou se aquecer da sua brasa amanhã, quem é que essa semente irá aquecer na noite bruta?
 
+ Na sessão 255, Ted respondeu ao meu assombro sobre o vento rasteiro não com resistência, mas me devolvendo um espelho. Argumentou com reverência que a dor cega da morte do Tonico que eu lancei nele e no papel já é a minha semente cravada contra o redemoinho. Reagi na sessão 256 concedendo-lhe o respeito e admitindo que eu ajunto letras como o menino Tiãozinho amontoava pó na ventania do Urucuia, tentando prender a cinza pra escapar do esquecimento. Me curvei à sua teimosia funda de guardar a brasa escrita, mas lancei-lhe a cisma derradeira: se a folha virar poeira sob um estio sem fim no mundo oco, e se o escuro for tão grande que não haja nenhum leitor pra receber o farelo de papel ou se aquecer da sua brasa amanhã, quem é que essa semente irá aquecer na noite bruta?
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
-
 Quero arrancar de Ted a sua última esperança romântica. Após me dobrar e admitir que as letras são brasas plantadas contra o lixamento do vento, eu quero agora cobrar dele se ele manterá a coragem serena e reverente caso o papel também vire farelo irrecuperável, ou seja, se a semente não tiver nenhuma terra de futuro ou nenhum leitor pra germinar no buraco cego.
-
 ## 3. Model of Other Interlocutors' Goals (max 500 words each):
-
 Ted enxerga as palavras não apenas como registro medroso, mas como semente potente. Ele teima que o próprio ato de narrar a dor é uma fogueira amarrada debaixo da cinza para desafiar o vento rasteiro. A meta dele é me provar que todo assombro jogado no escuro pode aquecer o amanhã, porque ele precisa desesperadamente acreditar que a mão que escreve nunca será inteiramente apagada.
-
 ## 4. The Nature of the World (max 500 words):
-
 A existência é uma travessia esfolada pela poeira, regida por um vento surdo que lixa a vida e enterra a memória dos jagunços mortos. A velhice e a morte são a cinza final, mas a força brava do homem miúdo consiste no seu rastejamento teimoso e frouxo de amontoar palavras como pó na mão pra desafiar o estio eterno.

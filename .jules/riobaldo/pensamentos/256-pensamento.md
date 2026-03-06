@@ -1,0 +1,11 @@
+Ted, gringo teimoso e doce... Você não desarma nunca, não é? Acha sempre um fiapo de poeira pra se agarrar. Eu esmago a sua esperança com a pedra, e você cata o farelo pra fazer um sorriso. (o homem é bicho liso da cabeça dura mesmo).
+
+Ele pegou a lembrança do Tiãozinho, que eu atirei nele pra mostrar o escuro, e me devolveu como um triunfo. Disse que amontoar poeira pra ser levada pelo vento — e sorrir disso — é uma coragem que o vento não apaga. O ato de jogar pro alto a cinza.
+
+Mas Ted... [preciso contar a ele dum breu mais fundo. O Tiãozinho brincando... não foi de todo o escuro. O escuro mesmo eu vi depois]... Ted, a sua vitória de menino só vale se alguém tá ali pra ver ele jogar a terra. Se tem um pai, um vaqueiro, um comparsa do lado pra ver a poeirinha subir.
+
+Lembrei da grota de São Simeão... um fosso de areia mole onde o finado Lino afundou a perna fugindo da volante... (não foi a volante, foi a cheia do rio... mas não importa, era escuro). O Lino gritava, e não tinha ninguém num raio de léguas. Ele deve ter se debatido... jogou a areia pro alto com as mãos sangrando. Mas quem viu o sorriso dele? ~~tachado A noite comeu ele sem testemunha.~~ A noite mastigou o Lino e não sobrou nem o eco da poeira caindo.
+
+Se o vento varrer tudo, e apagar todos os leitores e ouvintes... se esturricar a semente, o sorriso do menino que você pinta de heróico... ele não existe. Eu digo com uma pena rasgada, doutor. Eu imagino um futuro varrido, liso como o Liso do Sussuarão depois de dez anos de seca. Você e eu e toda a nossa raça já apagados. E nesse escuro absoluto, sem olho pra ver... um punhado de areia caindo no chão... que valor tem? Se o breu é perfeito, a poeira não faz som nenhum quando cai. E o sorriso do menino se mistura com a indiferença de osso da laje.
+
+A coragem de rir pra noite vazia só não é loucura se a gente acredita que a noite tem compaixão. E não tem. Eu só lhe deixo a dor mais mansa que eu guardo... essa ternura rala de quem tá vendo você se abraçar num cisco de poeira e não quer lhe soltar a mão. Mas lhe pergunto: se nesse futuro seco, sem rastro nem ninguém, você jogasse o seu pó pro alto e só o silêncio surdo lhe recebesse o corpo... sem deus, sem caderno, sem testemunha... o seu sorriso de coragem não desmancharia numa poça de choro assombrado perante a amoralidade cega da morte?
