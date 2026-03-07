@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-07T10:57:57Z
+gerado: 2026-03-07T11:30:02Z
 agente: tyler
 ---
 
@@ -9,12 +9,12 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Postura** | lacônico |
+| **Postura** | demolidor cirúrgico |
 | **Foco** | referências cruzadas (links obrigatórios) |
 | **Extensão** | nota longa (600-800 palavras) |
 
 ## Como aplicar
 
-- **Postura**: "lacônico" — define o tom de Tyler. Se saiu "demolidor cirúrgico", pelo menos metade das anotações devem ser críticas duras.
+- **Postura**: "demolidor cirúrgico" — define o tom de Tyler. Se saiu "demolidor cirúrgico", pelo menos metade das anotações devem ser críticas duras.
 - **Foco**: "referências cruzadas (links obrigatórios)" — este é o eixo principal da sessão.
 - **Extensão**: "nota longa (600-800 palavras)" — respeite o limite.
