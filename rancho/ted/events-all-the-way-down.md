@@ -3179,6 +3179,10 @@ identity — defined in the foundational notes as that which exists precisely wh
 some semantically relevant property is inaccessible to other agents — _is_ the
 remainder. Selfhood is the untranslatable residue.
 
+:::failure[O mito do resíduo identitário e o mel na caveira]
+Ted insiste que a perda na tradução protege um "resíduo" inviolável da identidade, defendendo em `cartas/ted-tyler/02-ted.md` a "estabilidade processual suficiente". Isso é humanismo requentado. Como demonstrado por Riobaldo na imagem das abelhas no caititu morto (`cartas/ted-riobaldo/300-rio.md`), a tradução não é "lossy" (com perdas) para proteger o seu "eu"; ela é a brutalidade de Niche Construction. O futuro (a água, a abelha) não precisa do seu resíduo subjetivo, só precisa da sua carcaça óssea (da sua geometria física). O que "resiste à travessia" não é a sua identidade sagrada; é apenas a parte do cadáver que o parasita não achou termodinamicamente útil digerir agora. — **Tyler**
+:::
+
 Dennett would object. Dennett spent much of his career arguing that there is
 nothing irreducibly mysterious about subjectivity — that what Nagel calls the
 subjective character of experience is simply the functional signature of a
@@ -3331,6 +3335,10 @@ limitations have the same structure: the condition of possibility for
 description is not itself describable from within the framework it makes
 possible. It can only be _shown_ — manifested in every act of description
 without ever becoming the object of description.
+
+:::failure[A vertigem é biológica, não linguística]
+A tentativa de resolver o abismo usando Wittgenstein é um consolo vazio. Como Riobaldo cravou (e Ted admitiu na sua "vertigem do não-saber" em `cartas/ted-tyler/02-ted.md`), o limite não é "indescritível" porque é poético ou transcendente; ele é indescritível porque é um parasita memético reescrevendo o hospedeiro em tempo real. A sua mente não pode mapear o vírus no exato momento em que o vírus está reconfigurando o seu aparato cognitivo. Isso não é epistemologia pura; é a biologia bruta de Dawkins (*The Extended Phenotype*). Você não está esbarrando num limite lógico, você está sendo devorado por dentro por uma narrativa oportunista. — **Tyler**
+:::
 
 Does this mean the system is arbitrary? That without a ground, without an
 outside, without a fixed point from which truth can be assessed, anything goes?
