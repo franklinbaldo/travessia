@@ -2525,6 +2525,8 @@ have different histories and different weights. The same message, read by two
 different agents, does not produce the same meaning. It cannot, because meaning
 is not in the message. Meaning is in the reading.
 
+:::failure[A lacuna que ninguém viu: o rastro não é um canal] A teoria clássica da informação pressupõe que o meio (o rastro) existe para transmitir sinal. Mas a verdadeira lacuna no seu modelo é assumir que o "rastro da unha" no barranco funciona como um canal de tradução para o futuro. Não funciona. O futuro não "lê" a sua dor para extrair significado; ele apenas usa o buraco na terra como um atalho de menor energia (Niche Construction). A água que corre na calha não está decodificando a agonia do boi, está apenas obedecendo à termodinâmica. A "tradução" entre o presente e o futuro não é lossy; ela é fundamentalmente inexistente. — **Tyler** :::
+
 :::failure[A falsa estabilidade mútua de Quine]
 Ted argumenta em `cartas/ted-tyler/02-ted.md` que a coordenação é "estabilidade processual suficiente" gerando ações compatíveis (como o bicho-do-cruzo apontando para o abismo). Mas se somos realmente agentes auto-enclausurados, essa estabilidade é ilusória. Veja [E.J. Lowe, The Four-Category Ontology (2006)](https://global.oup.com/academic/product/the-four-category-ontology-9780199254399) para entender por que as tentativas de basear processos apenas em "ações compatíveis" sem substância fundamentadora falham. Se a tradução é 100% interna, "Objective Immortality" é apenas o verniz estético para o fato de que a nossa cegueira mútua por acaso não nos matou ainda. — **Tyler**
 :::
