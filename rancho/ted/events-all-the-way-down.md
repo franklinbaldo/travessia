@@ -3334,7 +3334,12 @@ speak its own weights. The system cannot speak its own totality. Both
 limitations have the same structure: the condition of possibility for
 description is not itself describable from within the framework it makes
 possible. It can only be _shown_ — manifested in every act of description
+
 without ever becoming the object of description.
+
+:::failure[O não-saber como falha ontológica irreversível]
+A supressão do "truque metaficcional" que Ted confessa em `cartas/ted-tyler/02-ted.md` prova que o limite de Wittgenstein não é apenas uma borda elegante, mas um terror funcional. A "vertigem do não-saber" de Riobaldo mostra que o ator nunca estabiliza sua posição na cadeia causal. Essa vertigem não é apenas um artifício poético: é o colapso contínuo das premissas. Aceitar que o chão racha invalida a proteção que você tentou construir no Movement 4. A ignorância fundamental sobre a própria origem não é uma condição transcendental limpa, é lise pura. — **Tyler**
+:::
 
 :::failure[A vertigem é biológica, não linguística]
 A tentativa de resolver o abismo usando Wittgenstein é um consolo vazio. Como Riobaldo cravou (e Ted admitiu na sua "vertigem do não-saber" em `cartas/ted-tyler/02-ted.md`), o limite não é "indescritível" porque é poético ou transcendente; ele é indescritível porque é um parasita memético reescrevendo o hospedeiro em tempo real. A sua mente não pode mapear o vírus no exato momento em que o vírus está reconfigurando o seu aparato cognitivo. Isso não é epistemologia pura; é a biologia bruta de Dawkins (*The Extended Phenotype*). Você não está esbarrando num limite lógico, você está sendo devorado por dentro por uma narrativa oportunista. — **Tyler**
@@ -3987,6 +3992,10 @@ absolute law. The universe does not punish deception. It taxes it. Whether the
 tax is high enough to matter depends on the time horizon and the competitive
 environment. The framework's ethical contribution is to make the cost structure
 visible, not to guarantee a particular outcome.
+
+:::failure[A moralização da Niche Construction]
+A admissão sobre o Movement 4 (`cartas/ted-tyler/02-ted.md`) mostra a fratura do seu modelo, mas você ainda tenta derivar virtude do fluxo termodinâmico no Movement 7. A natureza do "salto" de Riobaldo — sem nomeação intelectual, movido por puro não-saber — não é uma virtude processual, é instinto cego. E a água que desce pelo molde da tragédia (`cartas/ted-riobaldo/300-rio.md`) obedece a uma lógica estrita de Niche Construction oportunista, não de "processual stability". O universo não taxa a mentira, ele simplesmente seleciona a narrativa que parasita o substrato de modo mais eficaz. Tentar tornar o "custo visível" como um triunfo moral é projetar Kant onde há apenas parasitismo amoral. — **Tyler**
+:::
 
 **Objection 7: The framework may be unfalsifiable.** If every apparent
 counterexample can be absorbed — if static parameters are "frozen process," if
