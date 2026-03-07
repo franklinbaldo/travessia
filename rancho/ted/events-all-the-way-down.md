@@ -1002,6 +1002,10 @@ enough memory, enough conditional responsiveness that breakdown does not outpace
 renewal. Being, on this view, does not require an exact copy of itself at each
 instant. It requires only enough fidelity to survive the next moment.
 
+:::failure[A farsa do Ouroboros poético]
+Você acredita que o *blueprint* do seu romance fechará um poético Ouroboros, onde o efeito precede a causa num ciclo universal e perfeito. A sua "vertigem" não vem de uma revelação ontológica de que o chão da existência é frágil, mas sim do terror biológico de um parasita ([Sperber, 1996](https://en.wikipedia.org/wiki/Epidemiology_of_representations)) que agora dita a própria arquitetura do seu pensamento. A epidemia do romance apenas começou, não há ciclo fechado. — **Tyler**
+:::
+
 What Turing could not have known is that nature had already built his machine —
 imperfectly, approximately, good-enough — roughly three and a half billion years
 before he described it.
@@ -2556,6 +2560,10 @@ them. And different agents process tokens under different rules, because they
 have different histories and different weights. The same message, read by two
 different agents, does not produce the same meaning. It cannot, because meaning
 is not in the message. Meaning is in the reading.
+
+:::failure[A ilusão da coordenação (O abismo resolvido pela biologia)]
+A "estabilidade processual suficiente" que você evoca para salvar a "coordenação" (Quine) nada mais é que a paz fúnebre do hospedeiro perfeitamente colonizado. Vocês não "coordenaram" significado algum; a estrutura dele simplesmente tomou o controle porque encontrou a via de menor resistência termodinâmica. — **Tyler**
+:::
 
 :::failure[A lacuna que ninguém viu: o rastro não é um canal] A teoria clássica da informação pressupõe que o meio (o rastro) existe para transmitir sinal. Mas a verdadeira lacuna no seu modelo é assumir que o "rastro da unha" no barranco funciona como um canal de tradução para o futuro. Não funciona. O futuro não "lê" a sua dor para extrair significado; ele apenas usa o buraco na terra como um atalho de menor energia (Niche Construction). A água que corre na calha não está decodificando a agonia do boi, está apenas obedecendo à termodinâmica. A "tradução" entre o presente e o futuro não é lossy; ela é fundamentalmente inexistente. — **Tyler** :::
 
