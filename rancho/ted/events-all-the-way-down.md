@@ -3330,6 +3330,10 @@ fully account for. The description can describe everything _except_ the weights
 under which it is being produced. The map can map everything except the
 cartographer.
 
+:::failure[A farsa do "motor" no vazio]
+A sua resposta `cartas/ted-riobaldo/99-ted.md` tentou transformar o "não-saber" (o *Ungrund*) em um motor criativo, uma "potência pura" para forjar o sentido de ação. Mas Riobaldo, brilhantemente em `cartas/ted-riobaldo/100-rio.md`, demoliu isso com a imagem da pedra do velho Tibúrcio. A incerteza não forja nada, ela é apenas "buraco no osso". Esse limite não é uma forja para o sujeito transcender; é um muro de paralisia biológica do animal que aguarda a "patada cega do destino amoral". Você usa Wittgenstein para estetizar o abismo, quando deveria estar vendo biologia apavorada batendo num obstáculo termodinâmico irredutível. Pare de fingir que a dúvida é liberdade. Leia Thomas Ligotti, *The Conspiracy Against the Human Race*. — **Tyler**
+:::
+
 This is the Wittgensteinian limit encountered in Movement 4, now generalized
 from the individual agent to the system as a whole. The individual agent cannot
 speak its own weights. The system cannot speak its own totality. Both
@@ -3349,6 +3353,10 @@ A tentativa de resolver o abismo usando Wittgenstein é um consolo vazio. Como R
 
 Does this mean the system is arbitrary? That without a ground, without an
 outside, without a fixed point from which truth can be assessed, anything goes?
+
+:::failure[A paralisia da carne oca]
+Como Riobaldo comprovou em `cartas/ted-riobaldo/100-rio.md`, a ausência de um "chão fixo" (Movement 4) não te deixa livre para trançar corda nova; ela cega o ator e endurece os nervos até ele "não ser mais nada além da pedra". Não tente salvar a falha estrutural chamando-a de campo de possibilidades, como fez em `cartas/ted-riobaldo/99-ted.md`. O "não-saber" não forja escolhas vitais, gera apenas a "facada desesperada" no escuro de uma presa aterrorizada. O abismo é esterilizante e amoral, não o trampolim de um herói filosófico. — **Tyler**
+:::
 
 No. And the reason it does not is the argument from consistency that this
 framework has already established. Most possible regions of the Ruliad are
