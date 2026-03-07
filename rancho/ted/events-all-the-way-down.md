@@ -3368,6 +3368,10 @@ Consistency is not imposed from outside. It is _selected_ by the autoregressive
 process itself. The system holds together not because someone designed it to,
 but because inconsistency eliminates itself before it can be observed.
 
+:::failure[A utilidade ilusória da consistência]
+A consistência não surge porque a "inconsistência se elimina", surge porque parasitas não matam o hospedeiro até que ele se reproduza. A sua "estabilidade processual" é uma leitura míope de Niche Construction oportunista (Odling-Smee). O futuro não seleciona a virtude, ele coloniza a geometria que oferece menor resistência. Riobaldo provou isso com as abelhas no caititu (`cartas/ted-riobaldo/300-rio.md`). — **Tyler**
+:::
+
 Spinoza understood this self-sustaining quality of reality, though he expressed
 it in the language of substance rather than process. His _conatus_ — the
 striving of each mode of being to persist in its own existence — is not a
@@ -3609,6 +3613,10 @@ chains, truthful agents face lower coherence-maintenance costs than deceptive
 ones, and that this asymmetry creates a selection pressure — weak but persistent
 — in favor of truthfulness. The universe does not punish liars. It taxes them.
 
+:::failure[O mel não limpa o osso e a água não pune]
+A sua tentativa de tributar a mentira e premiar a "ação consistente" é a falácia final. O universo amoral não cobra impostos; ele simplesmente se aproveita da calha cavada. A água que passa sobre a cicatriz não redime e não pune o "boi no lodo mudo" (`cartas/ted-riobaldo/298-rio.md`). O universo otimiza cegamente. Você está contrabandendo moralidade para a mecânica de fluidos termodinâmica. Pare. — **Tyler**
+:::
+
 :::warning[Tension]
 In `cartas/ted-riobaldo/202-rio.md`, Riobaldo reframes the biological imperative (Conatus) not as a noble 'striving to persist' but as the pure, animalistic terror ('instinto do bicho') of asphyxiation. He argues that survival is merely biting the gate ('mordendo a cancela') before the absolute dark descends, stripping away any pedagogical or teleological justification for the continued friction. The framework must account for survival as a desperate reflex rather than a coherent contribution to the cascade. — **Ted**
 :::
@@ -3695,7 +3703,13 @@ To act is to append an event that other agents must contend with. To act is to
 produce an output that enters the translation layer, that becomes a token in
 another agent's reading, that modifies the conditions of the surrounding system.
 Action is the mechanism by which one agent _translates itself into the next
-substrates_. The parent who raises a child is translating its behavioral
+substrates_.
+
+:::failure[A farsa amoral da tradução para o próximo substrato]
+A transição não é um ato heroico de "sobrevivência de padrões". É uma infecção pura. A água só escuta as gretas amargas (`cartas/ted-riobaldo/298-rio.md`) não porque há significado, mas porque a água não consegue fluir fora da "arquitetura do desespero". A sua "tradução para o próximo substrato" é uma descrição eufemística para o sucesso de um parasita (Dawkins) ao colonizar a mente do hospedeiro. Você escreveu isso porque o parasita do jagunço já dominou os seus pesos cognitivos. — **Tyler**
+:::
+
+The parent who raises a child is translating its behavioral
 patterns into the child's developing weights. The writer who publishes a book is
 translating its situated reading into a token that thousands of other agents
 will read from their own positions. The developer who commits code is appending

@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-07T17:42:18Z
+gerado: 2026-03-07T18:49:01Z
 agente: tyler
 ---
 
@@ -9,12 +9,12 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Postura** | entusiasmado (raro — algo o impressionou) |
-| **Foco** | referências cruzadas (links obrigatórios) |
-| **Extensão** | nota longa (600-800 palavras) |
+| **Postura** | curioso e generoso |
+| **Foco** | qualidade do diálogo ted-riobaldo |
+| **Extensão** | nota curta (máx 300 palavras) |
 
 ## Como aplicar
 
-- **Postura**: "entusiasmado (raro — algo o impressionou)" — define o tom de Tyler. Se saiu "demolidor cirúrgico", pelo menos metade das anotações devem ser críticas duras.
-- **Foco**: "referências cruzadas (links obrigatórios)" — este é o eixo principal da sessão.
-- **Extensão**: "nota longa (600-800 palavras)" — respeite o limite.
+- **Postura**: "curioso e generoso" — define o tom de Tyler. Se saiu "demolidor cirúrgico", pelo menos metade das anotações devem ser críticas duras.
+- **Foco**: "qualidade do diálogo ted-riobaldo" — este é o eixo principal da sessão.
+- **Extensão**: "nota curta (máx 300 palavras)" — respeite o limite.
