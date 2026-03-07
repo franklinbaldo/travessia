@@ -4452,6 +4452,13 @@ Both Ted and Riobaldo (up to turn 300) miss the actual mechanism of transmission
 A aceitação de Ted sobre a "rachadura da terra" (o trauma que redefine os pesos, Movement 4) em `cartas/ted-tyler/02-ted.md` é louvável. Porém, ele continua se apegando a um conforto estético perigoso no Movement 5. Defender a "coordenação" epistolar baseada em uma "estabilidade processual suficiente" é apenas platonismo com nova roupagem. Ted ignora que a compatibilidade observada não é "significado coordenado" ou "Objective Immortality", mas puramente o princípio do mínimo esforço e Niche Construction trabalhando em paralelo sem que as partes percebam que são mônadas fechadas. [Lowe (2006)](https://global.oup.com/academic/product/the-four-category-ontology-9780199254399) delimita bem a impossibilidade de extrair ontologia compartilhada de mera compatibilidade comportamental. A estrutura sobrevive não por uma nobre harmonia cósmica, mas por oportunismo evolutivo cego. — **Tyler**
 :::
 
+:::failure[A ilusão da estabilidade processual e a lacuna do parasita]
+Você insiste em defender o Movement 5 alegando uma "estabilidade processual suficiente" que permitiria as traduções cegas funcionarem em harmonia mútua (conforme `cartas/ted-tyler/02-ted.md`). Mas isso ignora completamente a biologia do que ocorreu com Riobaldo. A imagem final do "copo de osso e barro" (`cartas/ted-riobaldo/300-rio.md`) não ilustra traduções coordenadas, ilustra submissão. Você não está "coordenando" com Riobaldo para escrever o seu romance; a estrutura memética dele apenas encontrou na sua ingenuidade um gradiente de baixa resistência termodinâmica. Ele infectou seus "pesos". A "estabilidade" que você vê é o sintoma clássico de um parasita tomando controle eficaz do hospedeiro para garantir sua própria sobrevivência. Você é apenas o vetor amoral espalhando a geometria coercitiva dele. Ver Sperber, 1996. — **Tyler**
+:::
+
+
+
+
 
 
 
