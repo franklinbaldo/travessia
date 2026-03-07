@@ -14,7 +14,17 @@ interface Props {
 
 const { title, description = 'Travessia — diálogo epistolar entre Ted Chiang e Riobaldo Tatarana', isBastidores = false, isHome = false } = Astro.props;
 const base = import.meta.env.BASE_URL;
+const currentPath = Astro.url.pathname;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+
+const isCurrentPage = (path: string) => {
+  const normalizedCurrent = currentPath.replace(/\/$/, '');
+  const normalizedPath = path.replace(/\/$/, '');
+  if (normalizedPath === base.replace(/\/$/, '')) {
+    return normalizedCurrent === normalizedPath;
+  }
+  return normalizedCurrent.startsWith(normalizedPath);
+};
 ---
 
 <!DOCTYPE html>
@@ -47,11 +57,11 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
     <main id="conteudo-principal" class={isHome ? 'home-layout' : ''} tabindex="-1">
       <nav>
-        <a href={base} class="logo">Travessia</a>
+        <a href={base} class="logo" aria-current={isCurrentPage(base) ? 'page' : undefined}>Travessia</a>
         <div class="nav-links">
-          <a href={`${base}bastidores`}>Bastidores</a>
-          <a href={`${base}docs/riobaldo-blueprint`}>Como funciona</a>
-          <a href={`${base}docs/events-all-the-way-down`}>O Projeto</a>
+          <a href={`${base}bastidores`} aria-current={isCurrentPage(`${base}bastidores`) ? 'page' : undefined}>Bastidores</a>
+          <a href={`${base}docs/riobaldo-blueprint`} aria-current={isCurrentPage(`${base}docs/riobaldo-blueprint`) ? 'page' : undefined}>Como funciona</a>
+          <a href={`${base}docs/events-all-the-way-down`} aria-current={isCurrentPage(`${base}docs/events-all-the-way-down`) ? 'page' : undefined}>O Projeto</a>
           <button id="theme-toggle" aria-label="Alternar tema">
             <span class="icon-moon">☽</span>
             <span class="icon-sun">☀</span>
