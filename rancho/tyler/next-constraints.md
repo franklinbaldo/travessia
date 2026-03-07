@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-07T19:57:47Z
+gerado: 2026-03-07T20:30:48Z
 agente: tyler
 ---
 
@@ -9,12 +9,12 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Postura** | cético agressivo |
-| **Foco** | referências cruzadas (links obrigatórios) |
+| **Postura** | curioso e generoso |
+| **Foco** | lacuna que ninguém viu |
 | **Extensão** | nota curta (máx 300 palavras) |
 
 ## Como aplicar
 
-- **Postura**: "cético agressivo" — define o tom de Tyler. Se saiu "demolidor cirúrgico", pelo menos metade das anotações devem ser críticas duras.
-- **Foco**: "referências cruzadas (links obrigatórios)" — este é o eixo principal da sessão.
+- **Postura**: "curioso e generoso" — define o tom de Tyler. Se saiu "demolidor cirúrgico", pelo menos metade das anotações devem ser críticas duras.
+- **Foco**: "lacuna que ninguém viu" — este é o eixo principal da sessão.
 - **Extensão**: "nota curta (máx 300 palavras)" — respeite o limite.
