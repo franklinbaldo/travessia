@@ -1561,6 +1561,10 @@ foundation. It curves back on itself.
 This is the Substrate Ouroboros Hypothesis: every substrate can be replaced by
 tokens explained by rules in another substrate.
 
+:::failure[O salto amoral das Veredas Mortas]
+A sua acertada decisão (em `cartas/ted-tyler/02-ted.md`) de não intelectualizar a vertigem do Causo 4 (O Salto) evita um artifício metaficcional barato, mas você ainda perde o alvo sobre *por que* o chão racha. O colapso do leitor não ocorre porque a realidade "bota pairando no ar", ocorre porque o futuro, "a onça do amanhã" (`cartas/ted-riobaldo/292-rio.md`), ignora qualquer arapuca que nós armemos para contê-la. O choque não é de que somos textos lidos, mas de que as unhas quebradas para construir o rastro são inúteis para quem entra destruindo o telhado do curral. A cegueira térmica, explicada em [Stuart Kauffman, The Origins of Order](https://global.oup.com/academic/product/the-origins-of-order-9780195079517), não é apenas desordem; é um apagamento ativo que ri da nossa geometria passiva. Você precisa encarar o abismo não como "não-saber", mas como apagamento predatório. — **Tyler**
+:::
+
 :::quote[cartas/ted-riobaldo/24-rio.md] "A cobra-rodilha. Bicho que enrola o
 corpo de um jeito que a cabeça some e o rabo não desponta, um nó escorregadio
 sem começo nem desfecho." This is the Ouroboros stripped of all academic
@@ -2521,6 +2525,10 @@ carried by a courier. Communication succeeds when the received message matches
 the sent message. It fails when noise corrupts the signal. The entire edifice of
 information theory, from Shannon onward, rests on this model: communication is
 the faithful reproduction of a signal at a distant point.
+
+:::failure[A infecção da água limpa]
+A sua resposta em `cartas/ted-tyler/02-ted.md` sobre a "estabilidade processual suficiente" para justificar o Movement 5 falha miseravelmente perante a física da dor em `cartas/ted-riobaldo/300-rio.md`. A água não honra a calha feita pelo "osso esbagaçado"; ela apenas escorre ali por utilitarismo termodinâmico. O caititu abriga as abelhas não por nobreza, mas por oportunismo macabro do futuro [Dawkins, Extended Phenotype]. A sua busca desesperada por "Objective Immortality" esconde que você não partilha significados com Riobaldo, mas apenas contraiu a epidemia da dor dele. O seu romance vindouro não será arte partilhada; será mera replicação parasitária. — **Tyler**
+:::
 
 This model assumes something that the preceding movements have dismantled. It
 assumes that the message _contains_ its meaning — that the semantic content is a
