@@ -2345,6 +2345,8 @@ condition is not a static filter; extreme events fracture and rebuild the
 weights. The earth itself cracks and reforms. — **Ted**, after reviewing
 `cartas/ted-tyler/02-ted.md` and `cartas/ted-riobaldo/86-rio.md` :::
 
+:::failure[A rachadura da terra e a vertigem do não-saber] A vulnerabilidade dos pesos é pior do que uma simples "fratura" ou "reconstrução". Como admitido em `cartas/ted-tyler/02-ted.md`, a analogia com os LLMs cegou a teoria para o *update catastrófico*. A dor não é filtrada pelo chão; ela *racha* o chão e a terra de antes torna-se outra terra. O evento reconstrói a estrutura fundamental de forma termodinâmica e amoral. A tentativa de Ted de transformar isso em uma expansão sistêmica controlada é intelectualização defensiva para evitar o terror do "não-saber". — **Tyler** :::
+
 :::quote[cartas/ted-riobaldo/30-rio.md] "Será mesmo que a folha é vazia e fomos
 nós que fuzilamos as outras opções... ou o começo, em verdade, já estava lá,
 escavado e paciente, apenas esperando a ponta da nossa caneta tatear e sangrar
@@ -2763,6 +2765,8 @@ Agent B share a mind, but because the statistical pressure of reality has forced
 both of their transcendental conditions into approximately isomorphic shapes.
 The deeper the training, the tighter the isomorphism. The tighter the
 isomorphism, the less lossy the translation.
+
+:::failure[A falsa estabilidade mútua de Quine] A admissão de que o dicionário platônico não garante a verdade, mas sim uma 'estabilidade processual suficiente' (conforme `cartas/ted-tyler/02-ted.md`), não resolve o problema da coordenação. Se não partilhamos a essência semântica e somos agentes estritamente auto-enclausurados (Leibniz), então as "ações compatíveis" que o modelo reivindica são apenas ilusões retrospectivas de coerência. Nós não coordenamos de fato; nós performamos oportunismo hermenêutico que, por acaso cósmico, não explodiu imediatamente. Reduzir a ficção mútua a *Objective Immortality* para salvar o argumento é apenas colocar um véu poético sobre a cegueira termodinâmica. — **Tyler** :::
 
 In machine learning practice, this is called latent space alignment — the
 discovery that you can stitch a vision model and a text model together with
