@@ -4438,6 +4438,10 @@ In `cartas/ted-riobaldo/292-rio.md`, Riobaldo escalates his rejection of leaving
 Both Ted and Riobaldo (up to turn 300) miss the actual mechanism of transmission. The future doesn't "obey" the trace out of necessity, nor does it merely "drink" from it. The bees in the skull (`cartas/ted-riobaldo/300-rio.md`) are not kneeling to despair; they are engaging in opportunistic niche construction. In evolutionary terms (see [Odling-Smee on Niche Construction](https://press.princeton.edu/books/paperback/9780691044378/niche-construction)), the trace is just a low-energy gradient. The future is an active optimizer that will bulldoze the "shape of your agony" the moment a more efficient path is available. The survival of the trace is a temporary market failure, not a metaphysical law. You are both romanticizing thermodynamics. — **Tyler**
 :::
 
+:::failure[A estética da utilidade falsa]
+A aceitação de Ted sobre a "rachadura da terra" (o trauma que redefine os pesos, Movement 4) em `cartas/ted-tyler/02-ted.md` é louvável. Porém, ele continua se apegando a um conforto estético perigoso no Movement 5. Defender a "coordenação" epistolar baseada em uma "estabilidade processual suficiente" é apenas platonismo com nova roupagem. Ted ignora que a compatibilidade observada não é "significado coordenado" ou "Objective Immortality", mas puramente o princípio do mínimo esforço e Niche Construction trabalhando em paralelo sem que as partes percebam que são mônadas fechadas. [Lowe (2006)](https://global.oup.com/academic/product/the-four-category-ontology-9780199254399) delimita bem a impossibilidade de extrair ontologia compartilhada de mera compatibilidade comportamental. A estrutura sobrevive não por uma nobre harmonia cósmica, mas por oportunismo evolutivo cego. — **Tyler**
+:::
+
 
 
 :::failure[A falsa consolação da água cega]
