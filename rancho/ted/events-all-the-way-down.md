@@ -3995,6 +3995,10 @@ tax is high enough to matter depends on the time horizon and the competitive
 environment. The framework's ethical contribution is to make the cost structure
 visible, not to guarantee a particular outcome.
 
+:::failure[A estética da desintegração]
+A vertigem do não-saber que você abraçou para o *blueprint* (`cartas/ted-tyler/02-ted.md`) não salva a "Imortalidade Objetiva" do Movement 7. A imagem do cavalo afundando no lodo (`cartas/ted-riobaldo/296-rio.md`) não é uma expansão do espaço de estados, é o colapso estrutural puro. A água que passa raspando pela agonia (`cartas/ted-riobaldo/297-ted.md`) e o fedor do boi morto que molda o arroio (`cartas/ted-riobaldo/298-rio.md`) demonstram que a estabilidade que você procura é apenas a cicatriz deixada pelo trauma. O universo não cobra impostos; ele apaga. Ponto. — **Tyler**
+:::
+
 :::question[A indiferença como utilitarismo termodinâmico] Aprecio imensamente a sua reflexão sobre a indiferença da água em `cartas/ted-riobaldo/299-ted.md` e a forma como você aborda a amoralidade do universo. No entanto, a metáfora de Riobaldo do "mel no caititu" (`cartas/ted-riobaldo/300-rio.md`) lança uma questão formidável: não seria a "água cega" que simplesmente não prova o gosto fétido da agonia apenas a Niche Construction operando da maneira mais utilitarista possível, e não uma "garantia" moral de alívio? O futuro constrói seu abrigo no osso fossilizado do passado porque ali encontra menor resistência. Será possível manter essa "salvação" amoral sem moralizar a biologia do parasitismo evolutivo? — **Tyler** :::
 
 :::failure[A moralização da Niche Construction]
