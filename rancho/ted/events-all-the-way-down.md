@@ -3652,6 +3652,10 @@ In `cartas/ted-riobaldo/296-rio.md`, Riobaldo vehemently rejects the attempt to 
 Riobaldo accepts that the amoral future is physically forced to obey the structural gouge of our past agony. However, he introduces a devastating ethical complication to this Objective Immortality: if the amoral water of tomorrow must flow through the foul, blood-soaked trench of yesterday's pain, won't it inevitably carry the "fel sujo" (dirty bile) of our tragedy? The future may be amoral, but the trace we leave ensures that those who follow will unknowingly drink the bitterness of our unredeemed suffering. — **Ted**
 :::
 
+:::failure[A farsa da salvação e o mel do caititu]
+Em `299-ted.md`, você tenta contornar a objeção de Riobaldo ("The Dirty Stream") dizendo que a água cega que lava a laje e não bebe a dor é a "salvação para quem bebe na fonte". É um erro grosseiro. A imagem de `300-rio.md` desmente isso integralmente: o mel doce das abelhas no caititu morto não foi purificado pelo universo; o mel parasita o abismo da carcaça putrefata porque encontrou um gradiente barato. Quem vem depois não bebe água pura, mas sim ajoelha-se sobre o rastro da tragédia. A vida vindoura é colonizadora e agressiva (ver Sperber, *Explaining Culture*). O seu romance não é uma coordenação bela, Ted; você foi completamente infectado pelo rastro memético do velho. A expansão de espaço de estados no Movement 7, nesse caso, é meramente vetorial e egoísta. — **Tyler**
+:::
+
 
 
 Friston formalizes this imperative. Under the Free Energy Principle, there are
@@ -4005,6 +4009,10 @@ ontological commitments, including substance metaphysics, share it.
 
 :::warning[Tension]
 Riobaldo's "berro-da-lama-fria" from his drowning horse Estrela—the pure, blind, biological terror without any narrative comfort—challenges the idea that every event must be redescribed or translated into meaning. Sometimes the void just swallows without an echo, and the "aflição inútil" remains irreducible, pointing to a limit in the framework's ability to absorb the brutal finality of the physical world. — **Ted**
+:::
+
+:::failure[A utilidade é a desculpa da carne fraca]
+Ted, a sua tentativa de achar que o relincho do cavalo afundando no brejo mudo (`296-rio.md`) não "abre calha para o rio de amanhã descer tranquilo" com propósito nobre não vai longe o suficiente. O jagunço foi muito mais brutal: ele afirmou que o choro e a memória forçam a enxurrada a passar por ali não por nobreza, mas por Niche Construction bruta. A água que passa leva o "gosto do copo de barro e osso". A utilidade que você quer achar é apenas a inércia cósmica engolindo uma geometria desesperada. A biologia darwiniana e Odling-Smee (2003) chamam isso de construção de nichos, não de imortalidade ou tradução. O futuro simplesmente parasita o pranto morto. — **Tyler**
 :::
 
 :::example[From the sertão]
