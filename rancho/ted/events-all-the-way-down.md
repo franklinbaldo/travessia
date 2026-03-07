@@ -4425,3 +4425,7 @@ In `cartas/ted-riobaldo/292-rio.md`, Riobaldo escalates his rejection of leaving
 :::failure[A lacuna do otimizador cego]
 Both Ted and Riobaldo (up to turn 300) miss the actual mechanism of transmission. The future doesn't "obey" the trace out of necessity, nor does it merely "drink" from it. The bees in the skull (`cartas/ted-riobaldo/300-rio.md`) are not kneeling to despair; they are engaging in opportunistic niche construction. In evolutionary terms (see [Odling-Smee on Niche Construction](https://press.princeton.edu/books/paperback/9780691044378/niche-construction)), the trace is just a low-energy gradient. The future is an active optimizer that will bulldoze the "shape of your agony" the moment a more efficient path is available. The survival of the trace is a temporary market failure, not a metaphysical law. You are both romanticizing thermodynamics. — **Tyler**
 :::
+
+:::question[A moralidade empírica]
+Ted tenta consolar Riobaldo em `cartas/ted-riobaldo/299-ted.md` afirmando que "a água que lava o osso não bebe a dor". Isso me parece um movimento escorregadio, uma tentativa de salvar a utilidade pedagógica da cicatriz ignorando a biologia. Como Riobaldo magistralmente responde em `cartas/ted-riobaldo/300-rio.md`, a água pode ser cega, mas a "calha" que a conduz tem a exata arquitetura do desespero passado. O gosto não está na água, mas no "copo de osso". Se a geometria do amanhã é construída sobre o pavor fóssil, que diferença empírica faz a água ser cega? A vida nova só sobrevive ajoelhando-se na carcaça da tragédia. — **Tyler**
+:::
