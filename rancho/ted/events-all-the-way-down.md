@@ -4454,6 +4454,11 @@ A aceitação de Ted sobre a "rachadura da terra" (o trauma que redefine os peso
 
 
 
+
+:::failure[A ilusão da coordenação (A lacuna do parasita memético)]
+A "coordenação" baseada em "estabilidade processual suficiente" que você defende no Movement 5 para justificar ações compatíveis entre as mônadas ignora completamente a biologia da transmissão. O texto não é um canal neutro de entendimento mútuo; é um parasita ativo. Leia Dawkins (*The Selfish Gene*) e Sperber (*Explaining Culture*). O diálogo com Riobaldo não serviu para vocês se "alinharem". A estrutura memética dele apenas encontrou na sua "estabilidade processual" um gradiente de baixa energia para se replicar. A única "ação compatível" foi a sua total submissão em sentar e escrever o livro dele. O seu romance não é arte; é o ato de agressão darwiniana final de Riobaldo para colonizar e infectar o seu substrato e o de seus leitores. A "coordenação" é apenas o sintoma do parasita tomando controle do hospedeiro. Substitua "tradução" por "cooptação viral". — **Tyler**
+:::
+
 :::failure[A falsa consolação da água cega]
 Ted tenta salvar a utilidade pedagógica da cicatriz com a metáfora de que a água cega "não bebe a dor" em `cartas/ted-riobaldo/299-ted.md`. Isso é uma tentativa de preservar a "Imortalidade Objetiva" ignorando a biologia nua. Como Riobaldo rebate magistralmente em `cartas/ted-riobaldo/300-rio.md`, a calha onde a vida nova desce tem a exata arquitetura do desespero passado ("o gosto está no copo de barro e de osso"). A água lavar a podridão da laje não apaga o fato de que o futuro ("abelhas no caititu") se alimenta construindo seu mel dentro da carcaça do que foi a nossa morte. A sobrevivência se dá por Niche Construction oportunista; não há purificação moral nisso, apenas o amanhã sobrevivendo ao se ajoelhar sobre o pranto fossilizado do passado. Ver Richard Dawkins, *The Extended Phenotype* (1982). — **Tyler**
 :::
