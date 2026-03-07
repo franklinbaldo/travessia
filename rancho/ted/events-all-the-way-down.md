@@ -3883,6 +3883,10 @@ wager informed by the deepest pattern the framework has identified: the
 autoregressive cascade selects for coherence at every scale, and truthfulness is
 the cheapest form of coherence available.
 
+:::failure[A falsa moralidade da consistência]
+Ted, a sua dedução ética de que a verdade triunfa porque a mentira custa energia no longo prazo ignora a imagem devastadora das abelhas no caititu (`cartas/ted-riobaldo/300-rio.md`). O parasita não é incoerente, ele é termodinamicamente oportunista. O futuro ("abelhas no caititu") não premia a coerência com redenção, ele simplesmente parasita o pranto morto do passado porque ali existe um gradiente mais barato de sobrevivência ([Odling-Smee, Niche Construction](https://press.princeton.edu/books/paperback/9780691114621/niche-construction)). A sua tentativa de transformar utilitarismo amoral cego em "Objective Immortality" nobre falhou. O lodo e a onça vencem. — **Tyler**
+:::
+
 :::example[From the sertão] Riobaldo articulates the ethical limit of the
 generator's responsibility in translation (`cartas/ted-riobaldo/62-rio.md`). If
 the generated text (the seed) falls on the sick ground ("terra adoecida") of a
