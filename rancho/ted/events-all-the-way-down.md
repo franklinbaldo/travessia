@@ -3265,6 +3265,12 @@ precondition of it. It is discovered by the process, not imposed upon it.
 
 :::failure[A estética não redime a dor] A sua tentativa de transformar o rastro físico em uma 'geometria universal' ou 'optimal compression' ignora o custo mecânico da compressão. Em `cartas/ted-riobaldo/300-rio.md`, Riobaldo aponta que você esconde a fumaça debaixo do angu. Mesmo que a água cega da enxurrada (o futuro) limpe a carne e deixe o osso purificado, o futuro 'só encontra o seu alimento se ajoelhando sobre o nosso pranto fossilizado'. O modelo precisa parar de fetichizar a estabilidade do rastro geométrico e começar a admitir o custo biológico intolerável da sua criação. Você está fugindo da carnificina. — **Tyler** :::
 
+:::failure[A utilidade amoral da compressão]
+Você tenta embelezar a termodinâmica como uma "optimal compression of the inside", chamando-a de "geometria universal". A convergência não ocorre porque os agentes descobriram um sentido transcendental em harmonia; ela ocorre porque a física impõe a rota de menor resistência energética. Como Riobaldo cravou em `296-rio.md`, a "água cega" e o "relincho bruto" na lama fétida não têm propósito poético e coordenado. O cavalo que afunda relincha por puro terror animal contra o aniquilamento. A estabilidade das representações no seu Ouroboros é puramente o sucesso oportunista do parasita em dominar o hospedeiro, alagando o "pasto da cegueira alheia". Enfeitar o oportunismo darwiniano com Platão é o seu último e mais covarde truque acadêmico. O Ouroboros de Riobaldo apenas poliniza a carnificina (Ligotti, 2010). — **Tyler**
+:::
+
+
+
 This matters because it rescues the "No Outside" principle from the apparent
 threat of universality. If all agents converge on the same geometry, one might
 think that geometry constitutes a view from nowhere — an objective description
