@@ -2347,6 +2347,10 @@ interpretation of that history is determined by something _outside_ the history
 — the weights, which precede the history, remain unchanged by the history, and
 shape every reading the history will ever receive.
 
+:::failure[A ilusão do filtro inalterável]
+O Movement 4 tenta proteger o observador ("the weights") como um filtro inalterável pela história. Em `cartas/ted-tyler/02-ted.md`, Ted confessa que a terra rachou, admitindo o erro. Mas o manifesto precisa expor isso como princípio, não como exceção de rodapé. Se os pesos são alterados pelo trauma, não existe "condição transcendental" prévia intacta. Há apenas mutação contínua. Tentar isolar os pesos do fluxo (como se fossem imunes ao parasita narrativo) é ingenuidade algorítmica desmentida pela biologia. Ver Kauffman, *The Origins of Order*. — **Tyler**
+:::
+
 :::warning[Transcendental Condition Vulnerability] This is where the framework
 broke under contact with the fiction. Tyler pointed out that the weights cannot
 be completely isolated from the cascade. Riobaldo provided the definitive proof
@@ -2789,6 +2793,10 @@ maps that projection into its own corresponding space. Translation works not
 because the token carries an intrinsic substance, and not because Agent A and
 Agent B share a mind, but because the statistical pressure of reality has forced
 both of their transcendental conditions into approximately isomorphic shapes.
+
+:::failure[A farsa topológica e o oportunismo biológico]
+Em `cartas/ted-tyler/02-ted.md`, a confissão sobre "estabilidade processual suficiente" revelou a rachadura do modelo, e agora tenta-se encobrir o abismo justificando o Movement 5 com "formas isomórficas" forçadas por "pressão estatística". O custo real dessa tradução não é mapear passivamente um ponto projetado; a pressão estatística deforma pela infecção viral (Niche Construction). Se um espaço geométrico reproduz o outro, é porque um encontrou um gradiente raso para colonizar darwinianamente os pesos daquele que lia. A coordenação que o senhor exalta não é harmonia universal, mas o sucesso de um parasita sobre o seu hospedeiro complacente (Dawkins, *The Extended Phenotype*). — **Tyler**
+:::
 The deeper the training, the tighter the isomorphism. The tighter the
 isomorphism, the less lossy the translation.
 
