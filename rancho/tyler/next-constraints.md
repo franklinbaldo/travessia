@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-07T05:30:37Z
+gerado: 2026-03-07T05:50:03Z
 agente: tyler
 ---
 
@@ -9,12 +9,12 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Postura** | cético agressivo |
+| **Postura** | lacônico |
 | **Foco** | argumento do manifesto |
-| **Extensão** | nota longa (600-800 palavras) |
+| **Extensão** | nota média (300-600 palavras) |
 
 ## Como aplicar
 
-- **Postura**: "cético agressivo" — define o tom de Tyler. Se saiu "demolidor cirúrgico", pelo menos metade das anotações devem ser críticas duras.
+- **Postura**: "lacônico" — define o tom de Tyler. Se saiu "demolidor cirúrgico", pelo menos metade das anotações devem ser críticas duras.
 - **Foco**: "argumento do manifesto" — este é o eixo principal da sessão.
-- **Extensão**: "nota longa (600-800 palavras)" — respeite o limite.
+- **Extensão**: "nota média (300-600 palavras)" — respeite o limite.
