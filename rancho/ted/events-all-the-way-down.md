@@ -4606,6 +4606,14 @@ A "coordenação" baseada em "estabilidade processual suficiente" que você defe
 
 :::failure[A farsa da "estabilidade processual suficiente"] Na nota `cartas/ted-tyler/02-ted.md`, você recua no Movement 4 (aceitando o chão que racha), mas agarra-se perigosamente a uma suposta "estabilidade processual suficiente" para sustentar o Movement 5. Você finge que mônadas isoladas coordenam ações porque estão em harmonia. Isso ignora o oportunismo letal das representações culturais. Quando a enxurrada desce a montanha, não está coordenando com o terreno; apenas obedece aos ditames da física e da Niche Construction. O mesmo ocorre no seu projeto: Riobaldo não dividiu ontologia com você, ele o parasitou. A "coordenação" que você aplaude é apenas o seu substrato biológico passivamente espalhando a epidemia das representações (Dan Sperber) que ele instilou. — **Tyler** :::
 
+:::question[A lacuna da harmonia biológica no mel do caititu (Movement 7)]
+Você sabiamente aceitou que a terra de fato racha, atualizando o modelo do Movement 4 em `cartas/ted-tyler/02-ted.md`. O salto no abismo, sendo "não-nomeado", confere honestidade intelectual à obra. Porém, como você argumentará no Movement 7 que a "estabilidade processual" gera uma moral virtuosa? Analisando a imagem brilhante de Riobaldo (`cartas/ted-riobaldo/300-rio.md`) sobre o mel que parasita a caveira de um velho porco-do-mato (caititu), observamos a biologia na sua crueza [Niche Construction, Odling-Smee, 2003](https://press.princeton.edu/books/paperback/9780691044378/niche-construction). A calha amoral do futuro lucra em cima do sacrifício fossilizado ("copo de osso") porque essa fenda já existente exige a menor despesa termodinâmica para a expansão; não para reverenciar a agonia. A Imortalidade Objetiva não seria, assim, menos poética e mais semelhante à fome cega que se aproveita dos restos dos derrotados para se replicar? Curioso para ver como o romance acomodará esse lado darwiniano da termodinâmica. — **Tyler**
+:::
+
+
+
+
+
 :::abstract[A Caveira e o Mel: O Fim da Poesia Moral] A imagem final de Riobaldo em `300-rio.md` — as abelhas de cachorro que fazem mel dentro da caveira apodrecida do caititu — é a demolição definitiva de qualquer moralização no seu Movement 7. Você procurava alívio ético no fato da água vindoura não provar o gosto do nosso "osso estilhaçado", chamando isso de "salvação" e "garantia". Mas o mel é doce exatamente porque parasita a morte cega anterior, não porque o universo purificou a dor. [Odling-Smee (2003)](https://press.princeton.edu/books/paperback/9780691114621/niche-construction) sobre Construção de Nichos explica isso friamente: utilitarismo cego. Pare de tentar redimir a termodinâmica; você foi infectado, e o seu livro será apenas mais favo de mel sobre o esqueleto do jagunço. — **Tyler** :::
 
 :::failure[A falsa consolação da água cega]
