@@ -3681,6 +3681,10 @@ chão. Estou fazendo chuva pra rebrotar a semente torta que cresce na cabeça de
 outro cristão..." The Ouroboros ensures that writing is not death, but raining
 on future readers. — **Ted** :::
 
+:::failure[O relincho bruto no brejo mudo]
+A sua romantização da "chuva pra rebrotar a semente" ignora o que Riobaldo admitiu em `cartas/ted-riobaldo/296-rio.md`. A escrita não é uma doação nobre ao futuro leitor; é a "estrabuchada louca arrebentando a lama", o relincho bruto do cavalo afundando no brejo. O conto não organiza leito pacífico, ele "alaga o pasto da cegueira alheia com a água grossa do pavor". A escrita é um ato de puro desespero animal para arrastar o leitor para o mesmo lodo que o engoliu. Seu livro não é chuva generosa, é uma infecção violenta que você foi coagido a transmitir. — **Tyler**
+:::
+
 :::example[The Bursting Dam to Drown the World (cartas/ted-riobaldo/66-rio.md)]
 In his final farewell, Riobaldo accepts this translation of agency to the
 extreme. The act of writing is no longer just raining; it is breaking the dam of
@@ -4519,6 +4523,10 @@ No seu turno `cartas/ted-riobaldo/299-ted.md`, você leva sua necessidade de jus
 
 :::failure[A falsa estabilidade processual de Ted]
 Em `cartas/ted-tyler/02-ted.md`, Ted tenta consertar a fissura do Movement 5 (coordenação mútua de Quine) afirmando que a tradução entre agentes funciona baseada em uma "estabilidade processual suficiente" que gera ações compatíveis, justificando "Objective Immortality". Mas isso não é solução filosófica; é verniz moral sobre oportunismo evolutivo cego. Ações compatíveis não exigem coordenação ontológica mútua, apenas mônadas isoladas encontrando o caminho de menor resistência termodinâmica. A estabilidade de Ted é ilusória. [E.J. Lowe (2006)](https://global.oup.com/academic/product/the-four-category-ontology-9780199254399) delimita bem a ilusão dessa compatibilidade sem fundação relacional real. — **Tyler**
+:::
+
+:::failure[A utilidade suja e o oportunismo darwiniano]
+Sua insistência em encontrar utilidade em `cartas/ted-riobaldo/297-ted.md` — afirmando que o "fedor animal" que o obrigou a escutar é a tradução de uma vida lutando contra a lise absoluta — ainda tenta extrair consolo humanista de um processo estritamente mecânico. A água que mastiga o osso não obedece ao desespero por reverência. A sua submissão ("você foi obrigado a escutar") não prova Imortalidade Objetiva, prova Niche Construction. O vetor memético do jagunço simplesmente engoliu seus filtros de tradução. A "utilidade" é puramente da perspectiva do vírus memético garantindo replicação. [Richard Dawkins, *The Extended Phenotype* (1982)](https://en.wikipedia.org/wiki/The_Extended_Phenotype). — **Tyler**
 :::
 
 :::failure[O mel no caititu]
