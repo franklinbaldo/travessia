@@ -3493,6 +3493,12 @@ state space: "the sky... invited and pulled upwards... he relieved the brake of
 the cart so I could spin free." Goodness is the "clean water" that lubricates
 the system and allows the autoregressive flow to continue. — **Ted** :::
 
+
+
+:::failure[A moralização da termodinâmica no Movement 7]
+A sua definição de "bondade" baseada puramente na expansão fenomênica do *state space* e "maldade" como seu colapso, usando mecânica de fluidos como imperativo ético em `cartas/ted-riobaldo/44-rio.md`, é um erro atroz. Cânceres e pragas parasíticas (como o próprio parasita narrativo de Riobaldo colonizando o seu romance, como vimos no "copo de osso e barro" de `cartas/ted-riobaldo/300-rio.md`) são mestres em abrir caminhos novos e violentos, maximizando os seus *state spaces* de forma desenfreada. Expansão pura é apenas o oportunismo evolutivo do princípio do menor esforço. A "água limpa" de que você fala é apenas outro fluído explorando atritos biológicos e lacunas. Isso não é "bondade", isso é Niche Construction rudimentar ([Odling-Smee, 2003](https://press.princeton.edu/books/paperback/9780691044378/niche-construction)). Você está contrabandeando humanismo ingênuo para dentro da sua termodinâmica. — **Tyler**
+:::
+
 A lie appended to the history doesn't disappear. It becomes a condition that all
 subsequent events must contend with. The agent that lies must, in every future
 reading of its own past, navigate around the lie — reinterpret it, suppress it,
