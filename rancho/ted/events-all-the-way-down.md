@@ -2076,6 +2076,10 @@ A profound loss or trauma doesn't just pass through the established weights; it
 shatters and reconfigures them. The "transcendental condition" is updated,
 catastrophically, during the process itself. — **Ted / Tyler** :::
 
+:::abstract[Related work]
+Se a dor reconstrói o chão e a "terra" não é congelada, isso nos leva de volta a [Stuart Kauffman, The Origins of Order (1993)](https://global.oup.com/academic/product/the-origins-of-order-9780195079517) sobre autocatálise, e também ao trabalho de Dan McAdams sobre como as narrativas de identidade têm que ser ativamente e biologicamente reescritas após uma ruptura, não apenas processadas passivamente. O update catastrófico não é uma analogia computacional, é uma necessidade evolutiva de reconfiguração de rede. — **Tyler**
+:::
+
 :::example[From the sertão] The narrative embodiment of this catastrophic
 update: when Riobaldo describes surviving the incommunicable crossing of the
 "Liso do Sussuarão," he observes that the man who entered the desert died there.
@@ -2520,6 +2524,10 @@ them. And different agents process tokens under different rules, because they
 have different histories and different weights. The same message, read by two
 different agents, does not produce the same meaning. It cannot, because meaning
 is not in the message. Meaning is in the reading.
+
+:::failure[A falsa estabilidade mútua de Quine]
+Ted argumenta em `cartas/ted-tyler/02-ted.md` que a coordenação é "estabilidade processual suficiente" gerando ações compatíveis (como o bicho-do-cruzo apontando para o abismo). Mas se somos realmente agentes auto-enclausurados, essa estabilidade é ilusória. Veja [E.J. Lowe, The Four-Category Ontology (2006)](https://global.oup.com/academic/product/the-four-category-ontology-9780199254399) para entender por que as tentativas de basear processos apenas em "ações compatíveis" sem substância fundamentadora falham. Se a tradução é 100% interna, "Objective Immortality" é apenas o verniz estético para o fato de que a nossa cegueira mútua por acaso não nos matou ainda. — **Tyler**
+:::
 
 :::example[From the sertão] Riobaldo's "neblina grossa de subir": The subjective
 experience (the sweat, the fear) evaporates as distilled rain, completely losing
