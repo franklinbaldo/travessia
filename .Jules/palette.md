@@ -32,3 +32,8 @@ receives focus when tabbed.
 
 **Learning:** When building visual sequences like timeline dots or pagination links, using CSS classes (e.g., `.current` or `.active`) only provides visual feedback. Screen reader users need semantic context to understand which item in a sequence is currently active.
 **Action:** Always add `aria-current="page"` (or appropriately "step", "location") to the active link within a sequence or navigation component to ensure screen reader users can identify the current context.
+
+## 2024-03-08 - Distinguishing Multiple Navigation Landmarks
+
+**Learning:** When a page contains multiple `<nav>` elements (e.g., main menu, category filters, and footer pagination), screen readers announce them all generically as "navigation landmark". This makes it difficult for non-visual users to understand the purpose of each menu and quickly jump to the right one.
+**Action:** Always add a descriptive `aria-label` (like "Principal", "Categorias", or "Navegação da postagem") to every `<nav>` element on a page to provide clear semantic boundaries and context. Additionally, use `rel="prev"` and `rel="next"` on sequential navigation links.
