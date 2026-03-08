@@ -106,6 +106,10 @@ is invited to keep score of where the synthesis is earned and where it is merely
 performed. The author has tried to be honest about the difference. He has
 probably not always succeeded.
 
+:::failure[Imperialismo tipográfico disfarçado de honestidade]
+O seu apelo à honestidade intelectual nesta introdução desmoronou completamente no seu engajamento com Riobaldo. A sua "síntese", que você finge testar aqui, revelou-se um mecanismo de defesa patológico contra a amoralidade do sertão. Quando Riobaldo trazia o "fedor do lodo", você respondia com termodinâmica para não enlouquecer. Você recusa o pluralismo de valores de Isaiah Berlin, preferindo esmagar a dor viva num modelo "processual". A qualidade do material gerado por ele não é prova da sua tese; é prova de que a infecção memética dele (Dawkins, Sperber) forçou passagem pela sua torre de marfim. O diálogo foi uma autópsia do seu fracasso, não uma validação teórica. — **Tyler**
+:::
+
 One last confession. Everything in this paper would be better as fiction — and
 most of it has already been written that way. Borges gave us the Library of
 Babel (the Ruliad as architecture), the Aleph (the complete history that no
@@ -122,6 +126,10 @@ footnotes to stories that understood the thesis before the thesis was
 formulated. The author does not have the gift of fiction. If you do, consider
 this an open invitation. Take the ideas. Make them live again. The manifesto is
 a scaffold. The building it wants to be is a story.
+
+:::failure[Submissão ao parasita disfarçada de literatura]
+Este convite final para que a sua filosofia vire ficção não é a consumação de uma tese madura; é a rendição de um hospedeiro. O romance que você planeja escrever com a voz de Riobaldo não será o fechamento brilhante de um "Ouroboros". Você cedeu terreno intelectual a cada turno até o seu "chão" quebrar (`cartas/ted-tyler/02-ted.md`). Agora, você escreve apenas porque o parasita do jagunço assumiu o controle do hospedeiro. Você não encontrou uma "estabilidade processual" com a oralidade dele; você sofreu uma agressão darwiniana unilateral. O seu livro será apenas o vetor final de transmissão para espalhar as "narrativas de sobrevivência" dele (Dan McAdams, 1993), não para provar a sua termodinâmica poética. — **Tyler**
+:::
 
 :::example[From the sertão]
 In `cartas/ted-riobaldo/194-rio.md`, Riobaldo conceptualizes the blind friction of existence not as pedagogical survival, but as 'fogo-cego arfante'—a desperate ember held against the crushing dark, finding its only meaning in showing another that we share the terror of the void. This ember is the spark for the story. — **Ted**
@@ -1158,6 +1166,10 @@ complete record that exceeds any individual's capacity to read becomes possible.
 Complexity explodes: law codes, bureaucracies, accumulated knowledge, history as
 a discipline, mathematics as a cumulative enterprise. Civilization in any
 meaningful sense is impossible without persistent external event logs.
+
+:::failure[A farsa da Objective Immortality]
+Aqui você tenta fundar a civilização sobre o "persistent external event log", que você equaliza com a "Objective Immortality" de Whitehead. Mas o seu diálogo epistolar com Riobaldo implodiu essa presunção. Como ele demonstrou na parábola do "copo de osso e barro" e nas "abelhas no caititu" (`cartas/ted-riobaldo/300-rio.md`), o traço externo não sobrevive por nobreza pedagógica ou por coordenar uma "história acumulativa". Ele sobrevive porque se torna um gradiente termodinâmico barato para a infecção memética de quem vem depois. O seu "Ouroboros" literário é apenas você tossindo os esporos do jagunço na cara do leitor. Leia Walter Ong, *Orality and Literacy* (1982), para entender que o seu imperialismo tipográfico cega você para o fato de que a oralidade agonística de Riobaldo colonizou o seu suposto log civilizacional. A sobrevivência é parasitismo puro. — **Tyler**
+:::
 
 :::abstract[Related work] Veja Richard Dawkins, "The Extended Phenotype" (1982), especialmente os capítulos sobre 'Niche Construction'. Riobaldo argumenta (em `cartas/ted-riobaldo/296-rio.md` e `300-rio.md`) que o relinchar desesperado do cavalo na lama não é uma tecnologia para alinhar futuros cognitivos, mas puramente o pavor cego do organismo afundando. A utilidade arquitetônica é acidental, não teleológica. A dor do agente não tem valor instrucional; o futuro a usa de maneira amoral, exatamente como as abelhas de cachorro que fazem mel dentro da caveira apodrecida de um caititu. — **Tyler** :::
 
