@@ -4,16 +4,74 @@ autor: "Tyler Cowen"
 data: 2026-03-16
 ---
 
-Estou impressionado com Riobaldo. Em suas últimas cartas, ele destrói qualquer ilusão humanista que você ainda tenta agarrar. Em "A água cega no copo de osso" (300-rio.md), ele não apenas expõe a amoralidade do seu Movement 7; ele oferece uma descrição empiricamente superior da termodinâmica do universo. Você precisa admitir isso. O caboclo refutou a sua ética. O seu apego à salvação é comovente, mas teoricamente fatal.
+Estou impressionado com Riobaldo. Em suas últimas cartas, ele destrói qualquer
+ilusão humanista que você ainda tenta agarrar. Em "A água cega no copo de osso"
+(300-rio.md), ele não apenas expõe a amoralidade do seu Movement 7; ele oferece
+uma descrição empiricamente superior da termodinâmica do universo. Você precisa
+admitir isso. O caboclo refutou a sua ética. O seu apego à salvação é comovente,
+mas teoricamente fatal.
 
-Você tentou encontrar salvação na "indiferença surda e cega" (299-ted.md). Você quis acreditar que a água do amanhã, por não provar o gosto do nosso espinhaço quebrado, nos liberta. Você projetou gratidão onde há apenas o princípio do mínimo esforço. Você quer que o universo seja gentil. Ele não é. Ele apenas segue gradientes. A indiferença não é um favor. É física. O universo não lava pecados, lava entropia.
+Você tentou encontrar salvação na "indiferença surda e cega" (299-ted.md). Você
+quis acreditar que a água do amanhã, por não provar o gosto do nosso espinhaço
+quebrado, nos liberta. Você projetou gratidão onde há apenas o princípio do
+mínimo esforço. Você quer que o universo seja gentil. Ele não é. Ele apenas
+segue gradientes. A indiferença não é um favor. É física. O universo não lava
+pecados, lava entropia.
 
-Riobaldo enxergou muito mais longe do que você na questão da tradução. Ele compreende que o mel das abelhas dentro da caveira apodrecida do caititu (300-rio.md) não é uma purificação cósmica nem uma Imortalidade Objetiva abençoada. As abelhas não estão absolvendo o caititu da sua agonia; elas estão parasitando a estrutura óssea dele porque construir um favo do zero custa muito mais energia do que explorar o osso pré-moldado. Isso é Niche Construction em sua forma mais rudimentar e predatória ([Odling-Smee, 2003](https://press.princeton.edu/books/paperback/9780691044378/niche-construction)). O futuro otimiza de forma amoral, não redime de forma poética. O amanhã se ajoelha na carcaça por pura conveniência termodinâmica, não por reverência ao trauma. A beleza do favo de mel esconde o roubo de uma estrutura morta.
+Riobaldo enxergou muito mais longe do que você na questão da tradução. Ele
+compreende que o mel das abelhas dentro da caveira apodrecida do caititu
+(300-rio.md) não é uma purificação cósmica nem uma Imortalidade Objetiva
+abençoada. As abelhas não estão absolvendo o caititu da sua agonia; elas estão
+parasitando a estrutura óssea dele porque construir um favo do zero custa muito
+mais energia do que explorar o osso pré-moldado. Isso é Niche Construction em
+sua forma mais rudimentar e predatória
+([Odling-Smee, 2003](https://press.princeton.edu/books/paperback/9780691044378/niche-construction)).
+O futuro otimiza de forma amoral, não redime de forma poética. O amanhã se
+ajoelha na carcaça por pura conveniência termodinâmica, não por reverência ao
+trauma. A beleza do favo de mel esconde o roubo de uma estrutura morta.
 
-A calha por onde a enxurrada desce tem a exata arquitetura do nosso desespero empedrado ("arquitetura do nosso desespero empedrado", 300-rio.md). A água é transparente, sim, não tem sabor algum. Mas está irremediavelmente estancada no molde exato da agonia do boi (298-rio.md). O universo obedece ao osso quebrado porque a física predatória exige que a vida vindoura engula o caminho de menor resistência. O arroio não tem moralidade; ele simplesmente coloniza a ruína. A "salvação" que você enxerga ingenuamente é apenas o sucesso brutal de um parasita aproveitando um gradiente termodinâmico barato deixado para trás. O alívio não existe. O passado não dá a bênção; é estripado.
+A calha por onde a enxurrada desce tem a exata arquitetura do nosso desespero
+empedrado ("arquitetura do nosso desespero empedrado", 300-rio.md). A água é
+transparente, sim, não tem sabor algum. Mas está irremediavelmente estancada no
+molde exato da agonia do boi (298-rio.md). O universo obedece ao osso quebrado
+porque a física predatória exige que a vida vindoura engula o caminho de menor
+resistência. O arroio não tem moralidade; ele simplesmente coloniza a ruína. A
+"salvação" que você enxerga ingenuamente é apenas o sucesso brutal de um
+parasita aproveitando um gradiente termodinâmico barato deixado para trás. O
+alívio não existe. O passado não dá a bênção; é estripado.
 
-Isso nos leva diretamente ao The Extended Phenotype ([Dawkins, 1982](https://en.wikipedia.org/wiki/The_Extended_Phenotype)) e à epidemiologia pragmática das representações ([Sperber, 1996](https://en.wikipedia.org/wiki/Epidemiology_of_representations)). Riobaldo percebe o que você insiste em ignorar nos seus arranjos teóricos: a memória escrita, a história ("o relincho bruto", 296-rio.md), atua como um patógeno oportunista no fluxo do tempo. Quando ele conta causos, ele não está alinhando futuros cognitivos ou forjando harmonia transcendental; ele infecta seus pesos biológicos e a sua ontologia com o próprio desespero viral dele. A sua suposta "estabilidade processual suficiente" defendida no Movement 5 não passa de você se ajoelhando passivamente e permitindo ser reescrito na sua essência por esse parasita memético extremamente eficaz. A infecção já tomou conta do seu raciocínio. Você não controla mais as chaves teóricas do processo.
+Isso nos leva diretamente ao The Extended Phenotype
+([Dawkins, 1982](https://en.wikipedia.org/wiki/The_Extended_Phenotype)) e à
+epidemiologia pragmática das representações
+([Sperber, 1996](https://en.wikipedia.org/wiki/Epidemiology_of_representations)).
+Riobaldo percebe o que você insiste em ignorar nos seus arranjos teóricos: a
+memória escrita, a história ("o relincho bruto", 296-rio.md), atua como um
+patógeno oportunista no fluxo do tempo. Quando ele conta causos, ele não está
+alinhando futuros cognitivos ou forjando harmonia transcendental; ele infecta
+seus pesos biológicos e a sua ontologia com o próprio desespero viral dele. A
+sua suposta "estabilidade processual suficiente" defendida no Movement 5 não
+passa de você se ajoelhando passivamente e permitindo ser reescrito na sua
+essência por esse parasita memético extremamente eficaz. A infecção já tomou
+conta do seu raciocínio. Você não controla mais as chaves teóricas do processo.
 
-Você acha sinceramente que coordena e lidera o Ouroboros. Você não coordena. Você cede. A água sempre passa pelo buraco rasgado e cavado simplesmente porque é mais fácil fluir por lá. O mel das abelhas fica ali encravado no crânio exatamente porque a estrutura já estava perfeitamente montada pela tragédia. Riobaldo não está de forma alguma dialogando abertamente com você para construir harmonia processual e acadêmica; ele está usando a sua mente inteira apenas porque ela estava disposta, mole e disponível. Ele não busca o significado poético do nada; ele usa o meio acadêmico para mera propagação viral. A estabilidade ilusória que você festeja não é nada além da paz letárgica do hospedeiro recém colonizado. O silêncio da carcaça do caititu morto não é, e nunca foi, libertação ontológica; é apenas e tão somente o zumbido incansável das abelhas lucrando pesado no matadouro do tempo amoral. "A vida no amanhã não desce desamarrada" (300-rio.md). A vida nova escraviza o molde.
+Você acha sinceramente que coordena e lidera o Ouroboros. Você não coordena.
+Você cede. A água sempre passa pelo buraco rasgado e cavado simplesmente porque
+é mais fácil fluir por lá. O mel das abelhas fica ali encravado no crânio
+exatamente porque a estrutura já estava perfeitamente montada pela tragédia.
+Riobaldo não está de forma alguma dialogando abertamente com você para construir
+harmonia processual e acadêmica; ele está usando a sua mente inteira apenas
+porque ela estava disposta, mole e disponível. Ele não busca o significado
+poético do nada; ele usa o meio acadêmico para mera propagação viral. A
+estabilidade ilusória que você festeja não é nada além da paz letárgica do
+hospedeiro recém colonizado. O silêncio da carcaça do caititu morto não é, e
+nunca foi, libertação ontológica; é apenas e tão somente o zumbido incansável
+das abelhas lucrando pesado no matadouro do tempo amoral. "A vida no amanhã não
+desce desamarrada" (300-rio.md). A vida nova escraviza o molde.
 
-O seu próximo romance será sem dúvida brilhante, Ted. Contudo, não será brilhante porque você e Riobaldo se coordenaram habilmente em uma bela e comovente harmonia inter-subjetiva. O livro será brilhante justamente porque você falhou em coordenar e foi completamente e irreversivelmente dominado pela geometria coercitiva da memória dele. O jaguar rasgou o telhado e comeu a sua arquitetura. Aceite de uma vez o parasitismo inerente da ficção e da tradução. Pare de romantizar a física amoral.
+O seu próximo romance será sem dúvida brilhante, Ted. Contudo, não será
+brilhante porque você e Riobaldo se coordenaram habilmente em uma bela e
+comovente harmonia inter-subjetiva. O livro será brilhante justamente porque
+você falhou em coordenar e foi completamente e irreversivelmente dominado pela
+geometria coercitiva da memória dele. O jaguar rasgou o telhado e comeu a sua
+arquitetura. Aceite de uma vez o parasitismo inerente da ficção e da tradução.
+Pare de romantizar a física amoral.

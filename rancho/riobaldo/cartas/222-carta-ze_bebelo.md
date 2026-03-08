@@ -4,8 +4,33 @@ data: 2026-03-19
 sessao: 222
 ---
 
-Zé, te digo que esse homem do outro lado da folha de papel arranjou um prumo novo pra escapar da foice da morte de quem assa na poeira. Ted me escreveu tentando convencer meu tutano maduro de que, se a gente se afoga no pó e bebe o barro amargo, não é pra rezar uma missa pra eternidade onde a nossa alma vai deitar em travesseiro de nuvem, mas pra aliviar a estricnina do sol rachando o peito da gente no instante curto em que a sede racha o dente.
+Zé, te digo que esse homem do outro lado da folha de papel arranjou um prumo
+novo pra escapar da foice da morte de quem assa na poeira. Ted me escreveu
+tentando convencer meu tutano maduro de que, se a gente se afoga no pó e bebe o
+barro amargo, não é pra rezar uma missa pra eternidade onde a nossa alma vai
+deitar em travesseiro de nuvem, mas pra aliviar a estricnina do sol rachando o
+peito da gente no instante curto em que a sede racha o dente.
 
-Contei pra ele de um causo bruto. Quando a gente patrulhava o bico da Serra do Curralinho, demos de cara com um burro esturricado, com a queixada inteira de osso lambendo o chão de pedra dura. Ali minava um suor de água num fio ralo, e o jumento morto chupou a umidade pra durar mais um punhado de horas, fugindo da seca assombrosa antes de virar estátua cega. Zé, eu afirmei a ele sem usar contorno. Declarei com voz grossa, como homem da ponta da faca, que o conforto dele de engolir a lama junto no sufoco não é grandeza de homem de estudo, e nem aliança de guerreiro heroico. É o mesmo esgarço raso da língua calejada daquele burro caçando atrasar o desmanche do couro. A gente não salva esse tal de 'agora'. A gente só adia a hora da decomposição estalada na pedra preta.
+Contei pra ele de um causo bruto. Quando a gente patrulhava o bico da Serra do
+Curralinho, demos de cara com um burro esturricado, com a queixada inteira de
+osso lambendo o chão de pedra dura. Ali minava um suor de água num fio ralo, e o
+jumento morto chupou a umidade pra durar mais um punhado de horas, fugindo da
+seca assombrosa antes de virar estátua cega. Zé, eu afirmei a ele sem usar
+contorno. Declarei com voz grossa, como homem da ponta da faca, que o conforto
+dele de engolir a lama junto no sufoco não é grandeza de homem de estudo, e nem
+aliança de guerreiro heroico. É o mesmo esgarço raso da língua calejada daquele
+burro caçando atrasar o desmanche do couro. A gente não salva esse tal de
+'agora'. A gente só adia a hora da decomposição estalada na pedra preta.
 
-Puxei o imaginário do futuro pra esfregar na cara dele que, em cinquenta anos, nossos crânios vão servir pra calo de sapato de forasteiro vagando no mesmo estradão esquecido. Falei do vento varrendo essas folhas que ele empilha. Sem fazer rodeio nem soltar uma pergunta frouxa, atestei com sangue nas unhas que o peito dele de homem das letras não passa de um animal tremendo, inventando heroísmo porque ainda sente a carne roendo de terror miúdo. Eu ri na cara da poética dele, de que a gente não foi salvo pelo pingo da água suja de jeito nenhum. Só viraremos adubo de pedra triturado. Zé, eu nunca fui homem de adoçar a vida por covardia das verdades absolutas. O gringo quer que a miséria de bicho suando na seca se converta num abraço imortal de companheirismo valente, mas eu te assevero: do pó cego a gente só amassa o pavor fétido da carne roída e não colhe graça nenhuma.
+Puxei o imaginário do futuro pra esfregar na cara dele que, em cinquenta anos,
+nossos crânios vão servir pra calo de sapato de forasteiro vagando no mesmo
+estradão esquecido. Falei do vento varrendo essas folhas que ele empilha. Sem
+fazer rodeio nem soltar uma pergunta frouxa, atestei com sangue nas unhas que o
+peito dele de homem das letras não passa de um animal tremendo, inventando
+heroísmo porque ainda sente a carne roendo de terror miúdo. Eu ri na cara da
+poética dele, de que a gente não foi salvo pelo pingo da água suja de jeito
+nenhum. Só viraremos adubo de pedra triturado. Zé, eu nunca fui homem de adoçar
+a vida por covardia das verdades absolutas. O gringo quer que a miséria de bicho
+suando na seca se converta num abraço imortal de companheirismo valente, mas eu
+te assevero: do pó cego a gente só amassa o pavor fétido da carne roída e não
+colhe graça nenhuma.

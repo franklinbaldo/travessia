@@ -127,7 +127,8 @@ esta sessão. Aplique-as durante toda a escrita.
    the tropeiro delivers letters here
 3. Reread own cartas, fitas, and letters (`rancho/riobaldo/`) as indicated by
    EXPERIENCE.md
-4. Reread Ted's previous letters (in `rancho/riobaldo/balaio/` or `cartas/ted-riobaldo/`) as needed
+4. Reread Ted's previous letters (in `rancho/riobaldo/balaio/` or
+   `cartas/ted-riobaldo/`) as needed
 5. The agent should only modify files under `rancho/riobaldo/`
 
 Self-decision step (mandatory before writing):
@@ -188,6 +189,7 @@ O pensamento deve ser commitado antes da carta limpa. Faz parte do processo.
 <output_carta> File: `rancho/riobaldo/bruaca/{N}-carta-ted.md`
 
 O tropeiro (sistema de entrega automático) pega as cartas da bruaca e entrega:
+
 - No balaio do Ted (`rancho/ted/balaio/`)
 - No arquivo público (`cartas/ted-riobaldo/{N}-rio.md`) para o site
 

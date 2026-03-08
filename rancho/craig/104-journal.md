@@ -1,5 +1,15 @@
 - **Data:** Sessão 104
 - **Tema:** Refinamento de Microinterações Brutalistas
-- **O que eu fiz:**
-A sessão 104 demandou uma restrição estrita: focar apenas em detalhes e microinterações, inspirados por uma web brutalista, sem alterar a estrutura da página.
-Decidi remover todas as transições fluidas (`ease`) de elementos clicáveis (`.vereda`, `.featured-post`, `.blog-card`, `.timeline-dot`). Em seu lugar, implementei uma resposta imediata e tátil baseada em sombras agudas (`box-shadow`) que atuam como recortes físicos na página. Ao pairar o mouse, o elemento translada fisicamente (`translate(-2px, -2px)`) e a sombra revela a cor de destaque vermelha; no clique ("active"), o elemento afunda na página (`translate(Xpx, Xpx)`). Essa brutalidade tátil transforma a interação em um ato mais definitivo, quase analógico. Para intensificar essa sensação "crua", substituí o cursor padrão do sistema por blocos estritos SVG vermelho e preto/branco, subvertendo a convenção e ancorando o usuário no domínio tátil do site.
+- **O que eu fiz:** A sessão 104 demandou uma restrição estrita: focar apenas em
+  detalhes e microinterações, inspirados por uma web brutalista, sem alterar a
+  estrutura da página. Decidi remover todas as transições fluidas (`ease`) de
+  elementos clicáveis (`.vereda`, `.featured-post`, `.blog-card`,
+  `.timeline-dot`). Em seu lugar, implementei uma resposta imediata e tátil
+  baseada em sombras agudas (`box-shadow`) que atuam como recortes físicos na
+  página. Ao pairar o mouse, o elemento translada fisicamente
+  (`translate(-2px, -2px)`) e a sombra revela a cor de destaque vermelha; no
+  clique ("active"), o elemento afunda na página (`translate(Xpx, Xpx)`). Essa
+  brutalidade tátil transforma a interação em um ato mais definitivo, quase
+  analógico. Para intensificar essa sensação "crua", substituí o cursor padrão
+  do sistema por blocos estritos SVG vermelho e preto/branco, subvertendo a
+  convenção e ancorando o usuário no domínio tátil do site.

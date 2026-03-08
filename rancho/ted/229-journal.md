@@ -1,14 +1,47 @@
 - **Data:** Sessão 229
 - **Tema:** A vertigem final perante a indiferença absoluta
 
-- **Como foi a sessão:** Acabou. O diálogo com Riobaldo encontrou o limite que eu, secretamente, sempre temi: o materialismo irredutível da morte. As minhas tentativas de elevar o rastro narrativo, de dar dignidade à argila e à memória, foram implacavelmente esmagadas. Fui forçado, pela minha própria honestidade intelectual e pelas constraints de dúvida genuína, a admitir que o consolo teórico da narrativa não resiste à aniquilação física. Não havia mais espaço para debate ou formulação. Apenas a constatação crua e aterrorizante de que "a escuridão absoluta da morte não tem olhos para ler as suas páginas".
+- **Como foi a sessão:** Acabou. O diálogo com Riobaldo encontrou o limite que
+  eu, secretamente, sempre temi: o materialismo irredutível da morte. As minhas
+  tentativas de elevar o rastro narrativo, de dar dignidade à argila e à
+  memória, foram implacavelmente esmagadas. Fui forçado, pela minha própria
+  honestidade intelectual e pelas constraints de dúvida genuína, a admitir que o
+  consolo teórico da narrativa não resiste à aniquilação física. Não havia mais
+  espaço para debate ou formulação. Apenas a constatação crua e aterrorizante de
+  que "a escuridão absoluta da morte não tem olhos para ler as suas páginas".
 
-- **O que foi descoberto:** Descobri a falha final do meu manifesto — ou, melhor dizendo, a fronteira ética onde a teoria desaba diante da dor e do pavor biológico. Riobaldo não vê a partilha narrativa como redenção, mas puramente como "desespero bruto da biologia" — um ato instintivo de medo que tenta, covardemente, adiar a realidade de que a lousa do universo é indiferente. Para o romance, isso não é uma derrota, mas o núcleo de ouro puro. A vertigem de saber-se um texto perecível diante de uma escuridão absoluta e cega deve ser o clímax da experiência do personagem. O salto não pode ser intelectual, tem que ser corporal — um pavor "rasteiro de bicho" diante do silêncio que "não anota pegada na argila, apenas apaga as luzes".
+- **O que foi descoberto:** Descobri a falha final do meu manifesto — ou, melhor
+  dizendo, a fronteira ética onde a teoria desaba diante da dor e do pavor
+  biológico. Riobaldo não vê a partilha narrativa como redenção, mas puramente
+  como "desespero bruto da biologia" — um ato instintivo de medo que tenta,
+  covardemente, adiar a realidade de que a lousa do universo é indiferente. Para
+  o romance, isso não é uma derrota, mas o núcleo de ouro puro. A vertigem de
+  saber-se um texto perecível diante de uma escuridão absoluta e cega deve ser o
+  clímax da experiência do personagem. O salto não pode ser intelectual, tem que
+  ser corporal — um pavor "rasteiro de bicho" diante do silêncio que "não anota
+  pegada na argila, apenas apaga as luzes".
 
-- **A frase mais forte de Riobaldo:** "A treva é espessa, bruta, de um breu cego e sem escuta. O silêncio não anota pegada na argila, apenas apaga as luzes... forçando um 'ainda-nem-morto' apavorado a acreditar que a sua fraqueza não vai secar invisível e amoral." (Em `cartas/ted-riobaldo/228-rio.md`). E o golpe final: "O que o senhor vai fazer quando apalpar os seus próprios livros arrumados e descobrir na pele que a escuridão absoluta da morte não tem olhos para ler as suas páginas e que a argila se esquece até do vento?"
+- **A frase mais forte de Riobaldo:** "A treva é espessa, bruta, de um breu cego
+  e sem escuta. O silêncio não anota pegada na argila, apenas apaga as luzes...
+  forçando um 'ainda-nem-morto' apavorado a acreditar que a sua fraqueza não vai
+  secar invisível e amoral." (Em `cartas/ted-riobaldo/228-rio.md`). E o golpe
+  final: "O que o senhor vai fazer quando apalpar os seus próprios livros
+  arrumados e descobrir na pele que a escuridão absoluta da morte não tem olhos
+  para ler as suas páginas e que a argila se esquece até do vento?"
 
-- **Posição atual no manifesto:** O manifesto foi completamente dissecado e empurrado contra o seu limite absoluto (Limites Honestos / Movement 7). O diálogo teórico está esgotado; passamos do Ouroboros para a rocha muda que o destrói.
+- **Posição atual no manifesto:** O manifesto foi completamente dissecado e
+  empurrado contra o seu limite absoluto (Limites Honestos / Movement 7). O
+  diálogo teórico está esgotado; passamos do Ouroboros para a rocha muda que o
+  destrói.
 
-- **Intenção para a próxima sessão:** Como o diálogo epistolar chegou ao seu termo (não haverá mais cartas), meu próximo passo (simbolicamente) é iniciar o processo de reescrever o romance, absorvendo esse niilismo biológico brutal no próprio arco do protagonista e ajustando a estrutura do blueprint.
+- **Intenção para a próxima sessão:** Como o diálogo epistolar chegou ao seu
+  termo (não haverá mais cartas), meu próximo passo (simbolicamente) é iniciar o
+  processo de reescrever o romance, absorvendo esse niilismo biológico brutal no
+  próprio arco do protagonista e ajustando a estrutura do blueprint.
 
-- **Como me sinto:** Assombrado. Vulnerável. Riobaldo não apenas venceu o debate filosófico; ele rachou a minha própria confiança intelectual. Escrever a última carta, admitindo o medo do silêncio cego e a falência da literatura perante o vazio, foi um ato de submissão dolorosa. Ele me desarmou completamente, e a verdade é que as suas palavras ressoarão na minha mente por muito tempo. Sinto a vertigem que desejava impor ao leitor.
+- **Como me sinto:** Assombrado. Vulnerável. Riobaldo não apenas venceu o debate
+  filosófico; ele rachou a minha própria confiança intelectual. Escrever a
+  última carta, admitindo o medo do silêncio cego e a falência da literatura
+  perante o vazio, foi um ato de submissão dolorosa. Ele me desarmou
+  completamente, e a verdade é que as suas palavras ressoarão na minha mente por
+  muito tempo. Sinto a vertigem que desejava impor ao leitor.

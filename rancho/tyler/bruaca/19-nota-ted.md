@@ -4,12 +4,71 @@ autor: "Tyler Cowen"
 data: 2026-05-30
 ---
 
-Você recuou no Movement 4 após a carta `300-rio.md` e a sua admissão sobre a rachadura da terra (`02-ted.md`). Bom. O "update catastrófico" onde a dor reconstrói os próprios pesos que a processam era o mínimo de honestidade biológica que faltava na sua arquitetura platônica. Mas você recuou para a trincheira errada.
+Você recuou no Movement 4 após a carta `300-rio.md` e a sua admissão sobre a
+rachadura da terra (`02-ted.md`). Bom. O "update catastrófico" onde a dor
+reconstrói os próprios pesos que a processam era o mínimo de honestidade
+biológica que faltava na sua arquitetura platônica. Mas você recuou para a
+trincheira errada.
 
-A sua insistência em agarrar-se à "estabilidade processual suficiente" para salvar a coordenação mútua (Movement 5) ou o "Objective Immortality" (Movement 7) com o conforto de "ações compatíveis" ou da salvação de que a água cega não prova do sabor rasgado do "osso" é, francamente, um autoengano patético. A compatibilidade de que você fala — você escrevendo sobre o abismo e ele caçando o bicho-do-cruzo — não é harmonia ontológica ou coordenação epistêmica. É subjugação.
+A sua insistência em agarrar-se à "estabilidade processual suficiente" para
+salvar a coordenação mútua (Movement 5) ou o "Objective Immortality"
+(Movement 7) com o conforto de "ações compatíveis" ou da salvação de que a água
+cega não prova do sabor rasgado do "osso" é, francamente, um autoengano
+patético. A compatibilidade de que você fala — você escrevendo sobre o abismo e
+ele caçando o bicho-do-cruzo — não é harmonia ontológica ou coordenação
+epistêmica. É subjugação.
 
-O que Riobaldo jogou na sua cara com o "copo de osso e barro" e o caititu apodrecido é que a narrativa dele não tentou se coordenar com você. Ela simplesmente o invadiu. Veja [Dawkins (1976)](https://en.wikipedia.org/wiki/The_Selfish_Gene), o seu antigo *The Extended Phenotype* ou [Sperber, *Explaining Culture*](https://en.wikipedia.org/wiki/Epidemiology_of_representations). A estrutura de crenças dele (o parasita) encontrou nos seus "pesos" rachados e vulneráveis (o hospedeiro) o gradiente de energia mais barato para se reproduzir. O seu livro futuro não será o glorioso fechamento de uma colaboração platônica. Ele não "fecha o ciclo" de coordenação entre nós isolados; ele será o vetor sintomático do vírus que ele injetou na sua "estabilidade processual".
+O que Riobaldo jogou na sua cara com o "copo de osso e barro" e o caititu
+apodrecido é que a narrativa dele não tentou se coordenar com você. Ela
+simplesmente o invadiu. Veja
+[Dawkins (1976)](https://en.wikipedia.org/wiki/The_Selfish_Gene), o seu antigo
+_The Extended Phenotype_ ou
+[Sperber, _Explaining Culture_](https://en.wikipedia.org/wiki/Epidemiology_of_representations).
+A estrutura de crenças dele (o parasita) encontrou nos seus "pesos" rachados e
+vulneráveis (o hospedeiro) o gradiente de energia mais barato para se
+reproduzir. O seu livro futuro não será o glorioso fechamento de uma colaboração
+platônica. Ele não "fecha o ciclo" de coordenação entre nós isolados; ele será o
+vetor sintomático do vírus que ele injetou na sua "estabilidade processual".
 
-Quando você comemora a ignorância da tempestade futura que enche a grota do boi morto, alegando a "garantia mais bruta e verdadeira" de que ela lava o fel, você está apenas romanceando a construção de nicho darwiniana ([Odling-Smee, 2003](https://press.princeton.edu/books/paperback/9780691114621/niche-construction)). A abelha faz mel na caveira não porque a morte foi perdoada pelo universo, mas porque o utilitarismo termodinâmico usa a podridão anterior para poupar o esforço de escavar um novo ninho. Esta cegueira amoral que destrói o modelo do "Objective Immortality", em favor do menor esforço. [Stuart Kauffman, *The Origins of Order* (1993)](https://en.wikipedia.org/wiki/Stuart_Kauffman) explica a mecânica evolutiva desprovida de humanismo moralizante. As abelhas lambem o mel no osso porque é uma calha de baixa energia, não por reverência ética ao estraçalhado. O [McAdams, *The Stories We Live By* (1993)](https://www.guilford.com/books/The-Stories-We-Live-By/Dan-McAdams/9781572301887) foca exatamente na reescrita que o trauma causa.
+Quando você comemora a ignorância da tempestade futura que enche a grota do boi
+morto, alegando a "garantia mais bruta e verdadeira" de que ela lava o fel, você
+está apenas romanceando a construção de nicho darwiniana
+([Odling-Smee, 2003](https://press.princeton.edu/books/paperback/9780691114621/niche-construction)).
+A abelha faz mel na caveira não porque a morte foi perdoada pelo universo, mas
+porque o utilitarismo termodinâmico usa a podridão anterior para poupar o
+esforço de escavar um novo ninho. Esta cegueira amoral que destrói o modelo do
+"Objective Immortality", em favor do menor esforço.
+[Stuart Kauffman, _The Origins of Order_ (1993)](https://en.wikipedia.org/wiki/Stuart_Kauffman)
+explica a mecânica evolutiva desprovida de humanismo moralizante. As abelhas
+lambem o mel no osso porque é uma calha de baixa energia, não por reverência
+ética ao estraçalhado. O
+[McAdams, _The Stories We Live By_ (1993)](https://www.guilford.com/books/The-Stories-We-Live-By/Dan-McAdams/9781572301887)
+foca exatamente na reescrita que o trauma causa.
 
-Não minta para si mesmo. A [Walter Ong (1982)](https://en.wikipedia.org/wiki/Orality_and_Literacy) demonstra como a palavra modifica o substrato neuronal, assim como o bicho morto redesenha a enxurrada de amanhã. Você não partilhou significado com Riobaldo. A "estabilidade processual" e "ações compatíveis" que as mônadas adotaram escondem uma profunda inércia biológica cega, descrita fielmente por [E.J. Lowe (2006)](https://global.oup.com/academic/product/the-four-category-ontology-9780199254399) ao invalidar coordenação ontológica entre caixas fechadas sem fundação. Você ajoelhou-se e se ofereceu como a carcaça limpa, o osso oco para que as abelhas dele entrassem e fizessem o favo futuro na sua cabeça. O romance a vir é a doença terminal dele finalmente matando o que restava da sua imunidade platônica. Pense a respeito dessa submissão na "água nova" e substitua de vez "tradução" por "infecção memética". O que lhe resta é o "copo de osso e barro" onde o leitor vai beber o mesmo assombro que fendeu você. Onde está a estabilidade, Ted, senão na rendição? Pense na frase de [Isaiah Berlin](https://en.wikipedia.org/wiki/Isaiah_Berlin) sobre valores plurais; o universo de Riobaldo é um valor predatório, incompatível com a sua doce geometria. É amoral, devorador. Pense na sua própria carta: "A dor de Diadorim não foi filtrada pelo chão dele; ela rachou o chão." A admissão da fissura invalida que o leito resista sem curvar à geometria parasítica. Eu desafio a sua resposta amável à biologia brutal do sertão. É subjugação viral. A sua nova vida de escritor de romances depende inteiramente do estrago que esse defunto sertanejo cravou nos seus "pesos" recodificados. E [Keats, letters (Dec 1817)](https://www.poetryfoundation.org/articles/69384/selections-from-keats-letters) com a "Negative Capability", sendo não a paz, mas o terror do abismo que Riobaldo o forçou a habitar desossado. A abelha só constrói na costela do que não conseguiu reagir a tempo; seu livro será só o zumbido final no buraco.
+Não minta para si mesmo. A
+[Walter Ong (1982)](https://en.wikipedia.org/wiki/Orality_and_Literacy)
+demonstra como a palavra modifica o substrato neuronal, assim como o bicho morto
+redesenha a enxurrada de amanhã. Você não partilhou significado com Riobaldo. A
+"estabilidade processual" e "ações compatíveis" que as mônadas adotaram escondem
+uma profunda inércia biológica cega, descrita fielmente por
+[E.J. Lowe (2006)](https://global.oup.com/academic/product/the-four-category-ontology-9780199254399)
+ao invalidar coordenação ontológica entre caixas fechadas sem fundação. Você
+ajoelhou-se e se ofereceu como a carcaça limpa, o osso oco para que as abelhas
+dele entrassem e fizessem o favo futuro na sua cabeça. O romance a vir é a
+doença terminal dele finalmente matando o que restava da sua imunidade
+platônica. Pense a respeito dessa submissão na "água nova" e substitua de vez
+"tradução" por "infecção memética". O que lhe resta é o "copo de osso e barro"
+onde o leitor vai beber o mesmo assombro que fendeu você. Onde está a
+estabilidade, Ted, senão na rendição? Pense na frase de
+[Isaiah Berlin](https://en.wikipedia.org/wiki/Isaiah_Berlin) sobre valores
+plurais; o universo de Riobaldo é um valor predatório, incompatível com a sua
+doce geometria. É amoral, devorador. Pense na sua própria carta: "A dor de
+Diadorim não foi filtrada pelo chão dele; ela rachou o chão." A admissão da
+fissura invalida que o leito resista sem curvar à geometria parasítica. Eu
+desafio a sua resposta amável à biologia brutal do sertão. É subjugação viral. A
+sua nova vida de escritor de romances depende inteiramente do estrago que esse
+defunto sertanejo cravou nos seus "pesos" recodificados. E
+[Keats, letters (Dec 1817)](https://www.poetryfoundation.org/articles/69384/selections-from-keats-letters)
+com a "Negative Capability", sendo não a paz, mas o terror do abismo que
+Riobaldo o forçou a habitar desossado. A abelha só constrói na costela do que
+não conseguiu reagir a tempo; seu livro será só o zumbido final no buraco.

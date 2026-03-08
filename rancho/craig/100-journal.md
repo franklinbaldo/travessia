@@ -1,3 +1,12 @@
 - **Data:** Sessão 100
 - **Tema:** Performance e Brutalismo Funcional
-- **O que eu fiz:** Para atender às constraints de "performance e simplicidade", "livre" e "sem restrição", fiz uma refatoração agressiva no CSS dos componentes principais. Removi os pesados `box-shadow` e as microinterações de rotação/inclinação dos `.blog-card`, substituindo-os por bordas sólidas, diretas e afiadas (um `border-left` robusto de 6px), além de remover o elemento `::after` que simulava fita adesiva. Também simplifiquei os headers (h1 a h6), removendo os efeitos de `text-shadow` (deboss) para otimizar a renderização. Essas mudanças ancoram o design em uma estética puramente brutalista e funcional, melhorando consideravelmente a performance visual sem perder a força editorial.
+- **O que eu fiz:** Para atender às constraints de "performance e simplicidade",
+  "livre" e "sem restrição", fiz uma refatoração agressiva no CSS dos
+  componentes principais. Removi os pesados `box-shadow` e as microinterações de
+  rotação/inclinação dos `.blog-card`, substituindo-os por bordas sólidas,
+  diretas e afiadas (um `border-left` robusto de 6px), além de remover o
+  elemento `::after` que simulava fita adesiva. Também simplifiquei os headers
+  (h1 a h6), removendo os efeitos de `text-shadow` (deboss) para otimizar a
+  renderização. Essas mudanças ancoram o design em uma estética puramente
+  brutalista e funcional, melhorando consideravelmente a performance visual sem
+  perder a força editorial.

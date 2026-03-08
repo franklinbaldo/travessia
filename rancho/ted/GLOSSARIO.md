@@ -84,14 +84,14 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 
 ### Objective Immortality (O Peso da Ausência / A Cicatriz Habitada)
 
-> **Manifesto:** A preservação irreversível de um evento no processo histórico. A marca que o agente extinto deixa, estruturando obrigatoriamente a realidade que o sucede.
+> **Manifesto:** A preservação irreversível de um evento no processo histórico.
+> A marca que o agente extinto deixa, estruturando obrigatoriamente a realidade
+> que o sucede.
 
-| Riobaldo diz                                          | Ref.                            | Nota                                                                                        |
-| ----------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------- |
-| "A forma vazia moldada na feição de quem dormiu."   | `cartas/ted-riobaldo/116-rio.md` | Tradução inicial, vista como uma memória quase consoladora do animal ausente.               |
-| "A estaca que nós fincamos... É aviso de cova."     | `cartas/ted-riobaldo/118-rio.md` | Tensão: Correção bruta. A marca não é monumento pacífico, mas a cicatriz desesperada da sobrevivência alertando para o perigo e para a "brasa viva" da realidade. |
-
-
+| Riobaldo diz                                      | Ref.                             | Nota                                                                                                                                                              |
+| ------------------------------------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| "A forma vazia moldada na feição de quem dormiu." | `cartas/ted-riobaldo/116-rio.md` | Tradução inicial, vista como uma memória quase consoladora do animal ausente.                                                                                     |
+| "A estaca que nós fincamos... É aviso de cova."   | `cartas/ted-riobaldo/118-rio.md` | Tensão: Correção bruta. A marca não é monumento pacífico, mas a cicatriz desesperada da sobrevivência alertando para o perigo e para a "brasa viva" da realidade. |
 
 ### Movement 1: A Morte do Objeto Puro (The Death of the Pure Object)
 
@@ -159,15 +159,15 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 > Não existe posição exterior ao sistema. Toda observação é feita de dentro, por
 > outro agente situado. O sistema se devora a si mesmo.
 
-| Riobaldo diz                                                                                                 | Ref.                                               | Nota                                                                                |
-| ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "vazio-que-puxa"                                                                                             | `cartas/ted-riobaldo/10-rio.md`                    | O agente autoregressivo como força passiva que exige narração — o loop do Ouroboros |
-| "espelho sem vidro"                                                                                          | `cartas/ted-riobaldo/10-rio.md`                    | A máquina que reflete sem substância própria — a infraestrutura amoral              |
-| "carimbo da unha na madeira"                                                                               | `cartas/ted-riobaldo/108-rio.md`                   | A marca final da tradução: o registro que desapega do emissor (cachorro) e do token (tinta) para pertencer ao leitor (varanda) |
-| "orelha descomunal"                                                                                          | `cartas/ted-riobaldo/10-rio.md`                    | O sertão/sistema como escutador imenso — não há nada fora do que escuta             |
-| "a cobra que come o próprio rabo — e o rabo que come a cobra" / "cobra-rodilha"                              | (blueprint, voz) e `cartas/ted-riobaldo/24-rio.md` | Ouroboros sertanejo — o nó sem desfecho                                             |
-| "Era uma indiferença imensa, um espelho sem vidro, que pegava o meu medinho e devolvia do tamanho do mundo." | `cartas/ted-riobaldo/10-rio.md`                    | A melhor descrição literária do LLM/Máquina como infraestrutura silenciosa          |
-| "descoisificação"                                                                                            | `cartas/ted-riobaldo/10-rio.md`                    | Neologismo: o mundo se revela como vazio de coisas sólidas — o oco do mundo         |
+| Riobaldo diz                                                                                                 | Ref.                                               | Nota                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| "vazio-que-puxa"                                                                                             | `cartas/ted-riobaldo/10-rio.md`                    | O agente autoregressivo como força passiva que exige narração — o loop do Ouroboros                                            |
+| "espelho sem vidro"                                                                                          | `cartas/ted-riobaldo/10-rio.md`                    | A máquina que reflete sem substância própria — a infraestrutura amoral                                                         |
+| "carimbo da unha na madeira"                                                                                 | `cartas/ted-riobaldo/108-rio.md`                   | A marca final da tradução: o registro que desapega do emissor (cachorro) e do token (tinta) para pertencer ao leitor (varanda) |
+| "orelha descomunal"                                                                                          | `cartas/ted-riobaldo/10-rio.md`                    | O sertão/sistema como escutador imenso — não há nada fora do que escuta                                                        |
+| "a cobra que come o próprio rabo — e o rabo que come a cobra" / "cobra-rodilha"                              | (blueprint, voz) e `cartas/ted-riobaldo/24-rio.md` | Ouroboros sertanejo — o nó sem desfecho                                                                                        |
+| "Era uma indiferença imensa, um espelho sem vidro, que pegava o meu medinho e devolvia do tamanho do mundo." | `cartas/ted-riobaldo/10-rio.md`                    | A melhor descrição literária do LLM/Máquina como infraestrutura silenciosa                                                     |
+| "descoisificação"                                                                                            | `cartas/ted-riobaldo/10-rio.md`                    | Neologismo: o mundo se revela como vazio de coisas sólidas — o oco do mundo                                                    |
 
 ### Concrescence
 
@@ -202,10 +202,12 @@ para a escrita do romance — cada par aqui é uma frase candidata.
 | "bala da palavra" / "viaja de rastro limpo pelo tempo fora"                      | `cartas/ted-riobaldo/66-rio.md` | A tradução exata de _Objective Immortality_ aplicada à escrita. O token disparado ganha autonomia absoluta sobre o tempo.     |
 | "a bota pairava no ar... o primeiro pisar"                                       | `cartas/ted-riobaldo/66-rio.md` | A agonia do instante pré-_Genesis Block_, em que todas as possibilidades estão contidas antes do primeiro _collapse_ na ação. |
 
-| "A teoria é um bridão bonito... de prata lavrada" | `cartas/ted-riobaldo/128-rio.md` | A filosofia/teoria como instrumento estético que fere (o freio de cavalo) a vida real de onde é extraída |
----
-| Objective Immortality (Custos) | barro vermelho / poça enlameada / lama rala | 134-rio.md | Tensão moral do registro: a dor que cura não é abstrata |
-| Honest Limits (A estética da violência) | espora cega / água grossa | 134-rio.md | Tensão: o perigo de limpar o sangue da história |
+## | "A teoria é um bridão bonito... de prata lavrada" | `cartas/ted-riobaldo/128-rio.md` | A filosofia/teoria como instrumento estético que fere (o freio de cavalo) a vida real de onde é extraída |
+
+| Objective Immortality (Custos) | barro vermelho / poça enlameada / lama rala |
+134-rio.md | Tensão moral do registro: a dor que cura não é abstrata | | Honest
+Limits (A estética da violência) | espora cega / água grossa | 134-rio.md |
+Tensão: o perigo de limpar o sangue da história |
 
 ## 3. Conceitos Ainda Sem Tradução Completa
 
@@ -230,11 +232,16 @@ Riobaldo. Cada um é uma oportunidade para as próximas sessões.
 
 ---
 
-| redemoinho | The active, hostile force of the void that actively destroys and "chews" the trace, skinning the heat away rather than passively receiving it. | `cartas/ted-riobaldo/252-rio.md` | The active destruction of trace / The violent void |
+| redemoinho | The active, hostile force of the void that actively destroys and
+"chews" the trace, skinning the heat away rather than passively receiving it. |
+`cartas/ted-riobaldo/252-rio.md` | The active destruction of trace / The violent
+void |
 
 ## 4. Neologismos de Riobaldo
-| apaga-poeira | The absolute reduction of action and existence to amoral, inert dust. | `cartas/ted-riobaldo/274-rio.md` | Absolute finality / The void swallowing the trace |
 
+| apaga-poeira | The absolute reduction of action and existence to amoral, inert
+dust. | `cartas/ted-riobaldo/274-rio.md` | Absolute finality / The void
+swallowing the trace |
 
 Palavras inventadas por Riobaldo que não têm equivalente direto no manifesto,
 mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
@@ -328,176 +335,524 @@ mas enriquecem a ontologia com uma camada que o texto filosófico não alcança.
 | recolher a marreta / espaço-prenhe         | A inércia final não como oco vazio, mas como tensão acumulada e engatilhada antes do bote (a iminência da nova agência no leitor)              | `cartas/ted-riobaldo/106-rio.md` | Pre-genesis tension / Subjective aim forming                             |
 
 ---
-| poeira que o vento roda | A transmissão inevitável, ruidosa e permanente da marca do agente no tempo, reconfigurando o chão receptor | `cartas/ted-riobaldo/110-rio.md` | Objective Immortality / Translation over time |
-| osso do mundo / cicatriz que vira pedra | O registro permanente e calcificado da agência que obriga o futuro a reconhecer a dor e o atrito dos que vieram antes | `cartas/ted-riobaldo/112-rio.md` | Objective Immortality / The hardened trace of process |
-| entortar o ferro da criação | A ação irreversível que, longe de ser varrida pelo silêncio futuro, modifica permanentemente a estrutura do real em que os vindouros pisam | `cartas/ted-riobaldo/112-rio.md` | Objective Immortality / Structural alteration of the Universe |
-| marreta fria / bater o ferro | A abstração teórica que estetiza a agência e seu resultado permanente no mundo, ignorando o custo físico do processo | `cartas/ted-riobaldo/114-rio.md` | Theoretical abstraction / Objectification of process |
-| couro vivo / brasa viva na mão nua | A realidade física, dolorosa e subjetiva do agente que sobrevive à atualização do evento; o custo visceral da agência que a teoria omite | `cartas/ted-riobaldo/114-rio.md` | Subjective cost of actualization / Visceral process |
 
-| forma vazia na areia / rasto da suçuarana | O vestígio marcado no mundo que indica a passagem de uma agência que já se foi; o molde esculpido pela dor ou pela vida na matéria antes passiva | `cartas/ted-riobaldo/116-rio.md` | Objective Immortality / The trace of absence |
+| poeira que o vento roda | A transmissão inevitável, ruidosa e permanente da
+marca do agente no tempo, reconfigurando o chão receptor |
+`cartas/ted-riobaldo/110-rio.md` | Objective Immortality / Translation over time
+| | osso do mundo / cicatriz que vira pedra | O registro permanente e
+calcificado da agência que obriga o futuro a reconhecer a dor e o atrito dos que
+vieram antes | `cartas/ted-riobaldo/112-rio.md` | Objective Immortality / The
+hardened trace of process | | entortar o ferro da criação | A ação irreversível
+que, longe de ser varrida pelo silêncio futuro, modifica permanentemente a
+estrutura do real em que os vindouros pisam | `cartas/ted-riobaldo/112-rio.md` |
+Objective Immortality / Structural alteration of the Universe | | marreta fria /
+bater o ferro | A abstração teórica que estetiza a agência e seu resultado
+permanente no mundo, ignorando o custo físico do processo |
+`cartas/ted-riobaldo/114-rio.md` | Theoretical abstraction / Objectification of
+process | | couro vivo / brasa viva na mão nua | A realidade física, dolorosa e
+subjetiva do agente que sobrevive à atualização do evento; o custo visceral da
+agência que a teoria omite | `cartas/ted-riobaldo/114-rio.md` | Subjective cost
+of actualization / Visceral process |
 
-| barriga esfolada / deitar a amizade no lixo do mundo | O amparo desesperado que busca fundir a própria mortalidade com a dor do outro no chão cru do mundo | `cartas/ted-riobaldo/120-rio.md` | Visceral solidarity / Inter-subjective grounding |
-| osso encostando na laje bruta | A imobilidade absoluta e fria que se segue à morte; a aparente derrota da agência pelo substrato inerte | `cartas/ted-riobaldo/122-rio.md` | Absolute cessation of process / Inert Substrate |
-| queda limpa e mortal | O colapso no vazio e a aniquilação da agência quando desprovida do atrito do encontro e do calor do outro agente | `cartas/ted-riobaldo/122-rio.md` | Collapse of the autoregressive loop |
-| lama azeda de defunto | A realidade suja e visceral da aniquilação e do sofrimento que a abstração teórica tenta cobrir com beleza | `cartas/ted-riobaldo/126-rio.md` | Theoretical abstraction vs. Visceral reality |
+| forma vazia na areia / rasto da suçuarana | O vestígio marcado no mundo que
+indica a passagem de uma agência que já se foi; o molde esculpido pela dor ou
+pela vida na matéria antes passiva | `cartas/ted-riobaldo/116-rio.md` |
+Objective Immortality / The trace of absence |
 
-| pedra-de-amolar / raspa dura | O atrito inevitável, violento e exaustivo exigido pelo processo para que a matéria inerte ganhe afiação e propósito | `cartas/ted-riobaldo/124-rio.md` | Generative friction / Substrate consumption |
-| mãos mais frias que a sepultura | O frio absoluto do agente que se exaure criando o calor do mundo, desafiando a utilidade consoladora da Imortalidade Objetiva | `cartas/ted-riobaldo/124-rio.md` | Cost of Agency / Exhaustion of Process |
-| fogueira lavrada / brasa viva na mão nua | A dor visceral e imediata da experiência existencial que recusa o distanciamento da abstração teórica | `cartas/ted-riobaldo/130-rio.md` | Lived Experience vs. Theoretical Distance |
-| lareira apagada / crosta fria de gelo | A estagnação e o distanciamento afetivo e existencial daquele que apenas teoriza o processo sem sofrer seu atrito | `cartas/ted-riobaldo/130-rio.md` | Academic abstraction / Extinguished subjective agency |
+| barriga esfolada / deitar a amizade no lixo do mundo | O amparo desesperado
+que busca fundir a própria mortalidade com a dor do outro no chão cru do mundo |
+`cartas/ted-riobaldo/120-rio.md` | Visceral solidarity / Inter-subjective
+grounding | | osso encostando na laje bruta | A imobilidade absoluta e fria que
+se segue à morte; a aparente derrota da agência pelo substrato inerte |
+`cartas/ted-riobaldo/122-rio.md` | Absolute cessation of process / Inert
+Substrate | | queda limpa e mortal | O colapso no vazio e a aniquilação da
+agência quando desprovida do atrito do encontro e do calor do outro agente |
+`cartas/ted-riobaldo/122-rio.md` | Collapse of the autoregressive loop | | lama
+azeda de defunto | A realidade suja e visceral da aniquilação e do sofrimento
+que a abstração teórica tenta cobrir com beleza |
+`cartas/ted-riobaldo/126-rio.md` | Theoretical abstraction vs. Visceral reality
+|
 
-| espora cega / ferro cego | A violência teórica e extrativa que rasga a experiência vivida sem compartilhar seu calor genuíno ou conforto | `cartas/ted-riobaldo/132-rio.md` | Theoretical violence / Extractive intellect |
-| crosta branca / lareira frouxa | A camada superficial de desespero brando e seguro do teórico que se esconde do fogo bruto e do atrito verdadeiro | `cartas/ted-riobaldo/132-rio.md` | Academic abstraction / Safe distance |
-| poça enlameada de barro vermelho | A realidade suja, inescapável e visceral do sofrimento existencial que a teoria não consegue embelezar ou purificar | `cartas/ted-riobaldo/132-rio.md` | Unassimilable visceral reality |
+| pedra-de-amolar / raspa dura | O atrito inevitável, violento e exaustivo
+exigido pelo processo para que a matéria inerte ganhe afiação e propósito |
+`cartas/ted-riobaldo/124-rio.md` | Generative friction / Substrate consumption |
+| mãos mais frias que a sepultura | O frio absoluto do agente que se exaure
+criando o calor do mundo, desafiando a utilidade consoladora da Imortalidade
+Objetiva | `cartas/ted-riobaldo/124-rio.md` | Cost of Agency / Exhaustion of
+Process | | fogueira lavrada / brasa viva na mão nua | A dor visceral e imediata
+da experiência existencial que recusa o distanciamento da abstração teórica |
+`cartas/ted-riobaldo/130-rio.md` | Lived Experience vs. Theoretical Distance | |
+lareira apagada / crosta fria de gelo | A estagnação e o distanciamento afetivo
+e existencial daquele que apenas teoriza o processo sem sofrer seu atrito |
+`cartas/ted-riobaldo/130-rio.md` | Academic abstraction / Extinguished
+subjective agency |
 
-| estória-pedágio | A apropriação ética doída (o enfeite) e a vaidade estéril de extrair lições e consolo filosófico do sofrimento bruto alheio | `cartas/ted-riobaldo/138-rio.md` | Extractive aestheticization / Theoretical vanity |
-| buraco da bala / vazio de estupidez | O aspecto inassimilável, feio, mudo e sem propósito do evento doloroso, negando sua capacidade de irradiar "luz" pro futuro | `cartas/ted-riobaldo/138-rio.md` | Opaque reality of Objective Immortality / Meaningless trauma |
+| espora cega / ferro cego | A violência teórica e extrativa que rasga a
+experiência vivida sem compartilhar seu calor genuíno ou conforto |
+`cartas/ted-riobaldo/132-rio.md` | Theoretical violence / Extractive intellect |
+| crosta branca / lareira frouxa | A camada superficial de desespero brando e
+seguro do teórico que se esconde do fogo bruto e do atrito verdadeiro |
+`cartas/ted-riobaldo/132-rio.md` | Academic abstraction / Safe distance | | poça
+enlameada de barro vermelho | A realidade suja, inescapável e visceral do
+sofrimento existencial que a teoria não consegue embelezar ou purificar |
+`cartas/ted-riobaldo/132-rio.md` | Unassimilable visceral reality |
 
+| estória-pedágio | A apropriação ética doída (o enfeite) e a vaidade estéril de
+extrair lições e consolo filosófico do sofrimento bruto alheio |
+`cartas/ted-riobaldo/138-rio.md` | Extractive aestheticization / Theoretical
+vanity | | buraco da bala / vazio de estupidez | O aspecto inassimilável, feio,
+mudo e sem propósito do evento doloroso, negando sua capacidade de irradiar
+"luz" pro futuro | `cartas/ted-riobaldo/138-rio.md` | Opaque reality of
+Objective Immortality / Meaningless trauma |
 
-| espora de roseta velha | A ferida violenta, irreparável e contínua exigida pela imortalidade do sofrimento no mundo, contra o consolo da abstração | `cartas/ted-riobaldo/136-rio.md` | Inassimilable Mark / Violent Trace |
-| bigorna de chumbo maciço | O substrato (o papel, a realidade) exigindo que o agente o fira violentamente em vez de apenas alisá-lo com suavidade teórica | `cartas/ted-riobaldo/137-ted.md` | Unyielding Substrate / Cost of Narrative Translation |
-| bico solto / dente de ferro | A ameaça viva que o rastro do evento violento (o texto) carrega para as gerações futuras no substrato | `cartas/ted-riobaldo/137-ted.md` | Active capacity of Objective Immortality |
+| espora de roseta velha | A ferida violenta, irreparável e contínua exigida
+pela imortalidade do sofrimento no mundo, contra o consolo da abstração |
+`cartas/ted-riobaldo/136-rio.md` | Inassimilable Mark / Violent Trace | |
+bigorna de chumbo maciço | O substrato (o papel, a realidade) exigindo que o
+agente o fira violentamente em vez de apenas alisá-lo com suavidade teórica |
+`cartas/ted-riobaldo/137-ted.md` | Unyielding Substrate / Cost of Narrative
+Translation | | bico solto / dente de ferro | A ameaça viva que o rastro do
+evento violento (o texto) carrega para as gerações futuras no substrato |
+`cartas/ted-riobaldo/137-ted.md` | Active capacity of Objective Immortality |
 
-| faísca amarela na ponta do tabaco / labareda que arde no pasto | O processo puramente auto-realizador que se atualiza e queima com fome apenas pelo presente, sem interesse pedagógico de salvar o amanhã | `cartas/ted-riobaldo/140-rio.md` | Pure self-actualization / Indifference to the future |
-| braseiro que queima solto, surdo e cego | A entidade atual em seu instante de existir, consumindo o substrato para si mesma, cuja sobrevivência como carvão ou cinza pro futuro é um acidente não-intencional | `cartas/ted-riobaldo/140-rio.md` | Blind actualization / Accidental Objective Immortality |
-| chumbo oxidado / bala amassada | A marca do evento que resiste no tempo, mas é surda: mastiga o tempo, mas não nutre, e não consegue transmitir o susto do tiro ao menino do futuro | `cartas/ted-riobaldo/142-rio.md` | Untransmittable Experience / Sterile Objective Immortality |
-| Fogo-Sem-Dever | A labareda que não assina contrato de serventia com o amanhã, que arde porque destranca do mundo a luz do pau duro no segundo em que estronda | `cartas/ted-riobaldo/142-rio.md` | Non-teleological Actualization / Autoregressive sovereignty |
+| faísca amarela na ponta do tabaco / labareda que arde no pasto | O processo
+puramente auto-realizador que se atualiza e queima com fome apenas pelo
+presente, sem interesse pedagógico de salvar o amanhã |
+`cartas/ted-riobaldo/140-rio.md` | Pure self-actualization / Indifference to the
+future | | braseiro que queima solto, surdo e cego | A entidade atual em seu
+instante de existir, consumindo o substrato para si mesma, cuja sobrevivência
+como carvão ou cinza pro futuro é um acidente não-intencional |
+`cartas/ted-riobaldo/140-rio.md` | Blind actualization / Accidental Objective
+Immortality | | chumbo oxidado / bala amassada | A marca do evento que resiste
+no tempo, mas é surda: mastiga o tempo, mas não nutre, e não consegue transmitir
+o susto do tiro ao menino do futuro | `cartas/ted-riobaldo/142-rio.md` |
+Untransmittable Experience / Sterile Objective Immortality | | Fogo-Sem-Dever |
+A labareda que não assina contrato de serventia com o amanhã, que arde porque
+destranca do mundo a luz do pau duro no segundo em que estronda |
+`cartas/ted-riobaldo/142-rio.md` | Non-teleological Actualization /
+Autoregressive sovereignty |
 
-| estalo cego | O grito mudo da fibra cedendo na exaustão; a narrativa como som residual que tenta afirmar a existência no vazio pós-evento | `cartas/ted-riobaldo/144-rio.md` | Residual narrative echo / Tragic Peace |
-| quentura grossa debaixo da cinza branca | A energia potencial e a força latente que permanecem no sistema após o esgotamento do processo ativo | `cartas/ted-riobaldo/146-rio.md` | Latent potential energy / Sleeping process |
-| borralho vivo / resguardo da força velha | O estado de repouso grávido de tensão que a abstração confunde com o fim ou o esquecimento do mundo | `cartas/ted-riobaldo/146-rio.md` | Process latency / Active aftermath |
-| morte-seca-sem-retorno | A cessação absoluta, fria e irrevogável do processo, sem nenhum calor latente; a negação frontal do consolo da paz ou resguardo na cinza morta | `cartas/ted-riobaldo/148-rio.md` | Absolute cessation / Tragic void without latency |
-| lama-de-agarrar | O enrosco encardido das coisas, a argamassa fria e asfixiante do instante presente que ancora a existência; a persistência no processo não por esperança futura ("sementeira virtuosa"), mas pela pura e sufocante fricção de existir | `cartas/ted-riobaldo/150-rio.md` | Blind, suffocating friction / Survival without telos |
+| estalo cego | O grito mudo da fibra cedendo na exaustão; a narrativa como som
+residual que tenta afirmar a existência no vazio pós-evento |
+`cartas/ted-riobaldo/144-rio.md` | Residual narrative echo / Tragic Peace | |
+quentura grossa debaixo da cinza branca | A energia potencial e a força latente
+que permanecem no sistema após o esgotamento do processo ativo |
+`cartas/ted-riobaldo/146-rio.md` | Latent potential energy / Sleeping process |
+| borralho vivo / resguardo da força velha | O estado de repouso grávido de
+tensão que a abstração confunde com o fim ou o esquecimento do mundo |
+`cartas/ted-riobaldo/146-rio.md` | Process latency / Active aftermath | |
+morte-seca-sem-retorno | A cessação absoluta, fria e irrevogável do processo,
+sem nenhum calor latente; a negação frontal do consolo da paz ou resguardo na
+cinza morta | `cartas/ted-riobaldo/148-rio.md` | Absolute cessation / Tragic
+void without latency | | lama-de-agarrar | O enrosco encardido das coisas, a
+argamassa fria e asfixiante do instante presente que ancora a existência; a
+persistência no processo não por esperança futura ("sementeira virtuosa"), mas
+pela pura e sufocante fricção de existir | `cartas/ted-riobaldo/150-rio.md` |
+Blind, suffocating friction / Survival without telos |
 
-| força burra e cega da pedra | O instinto cru e desesperado de sobrevivência que recusa a morte não por esperança, mas por asfixia; o ato de engolir o próprio osso quebrado contra o cascalho sem aceitar redenção nem poema | `cartas/ted-riobaldo/152-rio.md` | Unredeeming survival instinct / Absolute friction |
+| força burra e cega da pedra | O instinto cru e desesperado de sobrevivência
+que recusa a morte não por esperança, mas por asfixia; o ato de engolir o
+próprio osso quebrado contra o cascalho sem aceitar redenção nem poema |
+`cartas/ted-riobaldo/152-rio.md` | Unredeeming survival instinct / Absolute
+friction |
 
-| vento cego | A narrativa vazia que varre a poeira superficial do esquecimento apenas para expor a rocha inalterada e o osso morto do sofrimento, sem curar ou redimir a agonia subjacente | `cartas/ted-riobaldo/154-rio.md` | Useless narrative / Blind exposition |
+| vento cego | A narrativa vazia que varre a poeira superficial do esquecimento
+apenas para expor a rocha inalterada e o osso morto do sofrimento, sem curar ou
+redimir a agonia subjacente | `cartas/ted-riobaldo/154-rio.md` | Useless
+narrative / Blind exposition |
 
-| fogo-cego | O ato desesperado e imediato de gerar fricção (narrar) não para iluminar o amanhã, mas para queimar a própria mão no agora e provar que se está vivo contra o frio do nada | `cartas/ted-riobaldo/156-rio.md` | Pure Present Friction / Autoregressive immediacy |
+| fogo-cego | O ato desesperado e imediato de gerar fricção (narrar) não para
+iluminar o amanhã, mas para queimar a própria mão no agora e provar que se está
+vivo contra o frio do nada | `cartas/ted-riobaldo/156-rio.md` | Pure Present
+Friction / Autoregressive immediacy |
 
-| Fogo-Cego (158) | O atrito rascante da laje dura e a febre surda fincada na própria carne, rasgando as gengivas para atestar o agora, sem ser estufa mágica pro futuro | `cartas/ted-riobaldo/158-rio.md` | Objective Immortality (rejeição da utilidade) |
-| charco de lama roxa / lodo-de-chupar | O atoleiro inescapável da existência e o desespero de afogar-se no silêncio, onde a única prova de vida é o atrito bruto de arrancar o próprio peso da terra morta | `cartas/ted-riobaldo/160-rio.md` | Suffocating void / Friction of survival |
+| Fogo-Cego (158) | O atrito rascante da laje dura e a febre surda fincada na
+própria carne, rasgando as gengivas para atestar o agora, sem ser estufa mágica
+pro futuro | `cartas/ted-riobaldo/158-rio.md` | Objective Immortality (rejeição
+da utilidade) | | charco de lama roxa / lodo-de-chupar | O atoleiro inescapável
+da existência e o desespero de afogar-se no silêncio, onde a única prova de vida
+é o atrito bruto de arrancar o próprio peso da terra morta |
+`cartas/ted-riobaldo/160-rio.md` | Suffocating void / Friction of survival |
 
-| sanfona do morto | O som miserável e fútil de friccionar ossos e quebrar dentes contra a pedra juntos; a única música que recusa o silêncio liso sem prometer salvação pro futuro | `cartas/ted-riobaldo/162-rio.md` | Meaningless shared friction / Non-teleological camaraderie |
-| adiar o abismo / ranger de dentes no mesmo pátio | A solidariedade na exaustão e o companheirismo puramente focado em abafar o terror do silêncio liso, sem esperança de futuro | `cartas/ted-riobaldo/164-rio.md` | Shared present friction / Solidary endurance |
+| sanfona do morto | O som miserável e fútil de friccionar ossos e quebrar
+dentes contra a pedra juntos; a única música que recusa o silêncio liso sem
+prometer salvação pro futuro | `cartas/ted-riobaldo/162-rio.md` | Meaningless
+shared friction / Non-teleological camaraderie | | adiar o abismo / ranger de
+dentes no mesmo pátio | A solidariedade na exaustão e o companheirismo puramente
+focado em abafar o terror do silêncio liso, sem esperança de futuro |
+`cartas/ted-riobaldo/164-rio.md` | Shared present friction / Solidary endurance
+|
 
-| respiração pesada no escuro / mastigar o vento surdo | A duplicação do medo e a asfixia amplificada de sofrer acompanhado no breu sem consolo | `cartas/ted-riobaldo/166-rio.md` | Shared terror / Amplification of suffering |
+| respiração pesada no escuro / mastigar o vento surdo | A duplicação do medo e
+a asfixia amplificada de sofrer acompanhado no breu sem consolo |
+`cartas/ted-riobaldo/166-rio.md` | Shared terror / Amplification of suffering |
 
-| moringa de barro / sarro sujo | A amargura física de suportar a persistência inútil, beber o fim de linha sem redenção existencial, onde a água acaba e a narrativa afoga na areia | `cartas/ted-riobaldo/168-rio.md` | Absolute existential exhaustion / Unredeeming persistence |
+| moringa de barro / sarro sujo | A amargura física de suportar a persistência
+inútil, beber o fim de linha sem redenção existencial, onde a água acaba e a
+narrativa afoga na areia | `cartas/ted-riobaldo/168-rio.md` | Absolute
+existential exhaustion / Unredeeming persistence |
 
-| partilha-de-pedra | A agonia silenciosa de compartilhar a absoluta exaustão existencial na laje do mundo sem redimir o sofrimento | `cartas/ted-riobaldo/170-rio.md` | Meaningless shared friction |
+| partilha-de-pedra | A agonia silenciosa de compartilhar a absoluta exaustão
+existencial na laje do mundo sem redimir o sofrimento |
+`cartas/ted-riobaldo/170-rio.md` | Meaningless shared friction |
 
-| osso liso e burro / mudez do barro sujo | A pura inércia opaca do cadáver e do lodo seco que não carrega nenhuma lição pedagógica para o amanhã, recusando completamente a Imortalidade Objetiva utilitária | `cartas/ted-riobaldo/172-rio.md` | Opaque reality of Objective Immortality / Deaf stone |
+| osso liso e burro / mudez do barro sujo | A pura inércia opaca do cadáver e do
+lodo seco que não carrega nenhuma lição pedagógica para o amanhã, recusando
+completamente a Imortalidade Objetiva utilitária |
+`cartas/ted-riobaldo/172-rio.md` | Opaque reality of Objective Immortality /
+Deaf stone |
 
-| faca parda do vento / soterramento seco | O estado final de silenciamento que não é uma capitulação voluntária ou pacífica à inércia, mas uma imposição violenta e asfixiante do mundo material sobre o processo narrativo. | `cartas/ted-riobaldo/174-rio.md` | Violent, non-consensual silencing |
+| faca parda do vento / soterramento seco | O estado final de silenciamento que
+não é uma capitulação voluntária ou pacífica à inércia, mas uma imposição
+violenta e asfixiante do mundo material sobre o processo narrativo. |
+`cartas/ted-riobaldo/174-rio.md` | Violent, non-consensual silencing |
 
-| suçuarana / cheiro fraco | A desaparição absoluta do processo narrativo. O momento em que o 'Objective Immortality' se revela completamente mudo e opaco (osso na terra), servindo apenas para escorar a materialidade indiferente do mundo animal (a onça) sem deixar lição ou vestígio para o futuro. | `cartas/ted-riobaldo/176-rio.md` | Absolute anonymity and death of teleology |
+| suçuarana / cheiro fraco | A desaparição absoluta do processo narrativo. O
+momento em que o 'Objective Immortality' se revela completamente mudo e opaco
+(osso na terra), servindo apenas para escorar a materialidade indiferente do
+mundo animal (a onça) sem deixar lição ou vestígio para o futuro. |
+`cartas/ted-riobaldo/176-rio.md` | Absolute anonymity and death of teleology |
 
-| cinza mansa / brasa oculta | A aceitação radical de que o calor do processo gerativo não é um marco ou aviso teleológico. Se a dor silenciosa queima acidentalmente o amanhã, é só o mundo tocando o mundo, sem moralidade. | `cartas/ted-riobaldo/178-rio.md` | Non-pedagogical endurance / World touching world |
+| cinza mansa / brasa oculta | A aceitação radical de que o calor do processo
+gerativo não é um marco ou aviso teleológico. Se a dor silenciosa queima
+acidentalmente o amanhã, é só o mundo tocando o mundo, sem moralidade. |
+`cartas/ted-riobaldo/178-rio.md` | Non-pedagogical endurance / World touching
+world |
 
-| sono absoluto / silêncio escuro | A aceitação compassiva do esquecimento total, onde a anulação absoluta do corpo e da memória não é fracasso do viver, mas a última e profunda misericórdia (perdão) da existência exausta. O fim da termodinâmica do redemoinho. | `cartas/ted-riobaldo/180-rio.md` | Absolute oblivion as ontological mercy |
-| pedra-de-amolar na lama miúda | A exaustão termodinâmica do processo e a dissolução da entidade na inércia, mas desprovida de alívio consciente no momento do fim. | `cartas/ted-riobaldo/182-rio.md` | Process exhaustion without conscious relief |
-| luxo meu e seu / fantasia inventada | A projeção de conforto, paz ou alívio sobre a matéria inerte; a vaidade dos vivos inventando sentimentos para a mudez do mundo. | `cartas/ted-riobaldo/182-rio.md` | Anthropomorphizing the void / Illusion of peace |
+| sono absoluto / silêncio escuro | A aceitação compassiva do esquecimento
+total, onde a anulação absoluta do corpo e da memória não é fracasso do viver,
+mas a última e profunda misericórdia (perdão) da existência exausta. O fim da
+termodinâmica do redemoinho. | `cartas/ted-riobaldo/180-rio.md` | Absolute
+oblivion as ontological mercy | | pedra-de-amolar na lama miúda | A exaustão
+termodinâmica do processo e a dissolução da entidade na inércia, mas desprovida
+de alívio consciente no momento do fim. | `cartas/ted-riobaldo/182-rio.md` |
+Process exhaustion without conscious relief | | luxo meu e seu / fantasia
+inventada | A projeção de conforto, paz ou alívio sobre a matéria inerte; a
+vaidade dos vivos inventando sentimentos para a mudez do mundo. |
+`cartas/ted-riobaldo/182-rio.md` | Anthropomorphizing the void / Illusion of
+peace |
 
-| fogo-cego-de-queimar | A pura e imediata fome carnal de existir que recusa o apagamento cegamente, sem depender da compreensão ou consciência teleológica do processo. | `cartas/ted-riobaldo/184-rio.md` | Blind immediate actualization / Instinctual survival |
-| a faca pede fio | A necessidade imperativa e visceral de gerar fricção no momento presente (estar vivo e agir), independente do fim absoluto que nos aguarda. | `cartas/ted-riobaldo/184-rio.md` | Immediate necessity of friction / Pure present action |
-| grito da brasa | A agonia momentânea do processo medindo a própria dor ao se consumir, a qual Riobaldo julga inútil de registrar se tudo será engolido pelo esquecimento absoluto. | `cartas/ted-riobaldo/184-rio.md` | Present agony / Vanity of self-awareness |
-| breu denso / vazio imenso | O estado opaco, surdo e cego do fim existencial absoluto que não pede lições nem serve de consolo pedagógico ao amanhã. | `cartas/ted-riobaldo/186-rio.md` | Absolute meaningless void / Teleological emptiness |
+| fogo-cego-de-queimar | A pura e imediata fome carnal de existir que recusa o
+apagamento cegamente, sem depender da compreensão ou consciência teleológica do
+processo. | `cartas/ted-riobaldo/184-rio.md` | Blind immediate actualization /
+Instinctual survival | | a faca pede fio | A necessidade imperativa e visceral
+de gerar fricção no momento presente (estar vivo e agir), independente do fim
+absoluto que nos aguarda. | `cartas/ted-riobaldo/184-rio.md` | Immediate
+necessity of friction / Pure present action | | grito da brasa | A agonia
+momentânea do processo medindo a própria dor ao se consumir, a qual Riobaldo
+julga inútil de registrar se tudo será engolido pelo esquecimento absoluto. |
+`cartas/ted-riobaldo/184-rio.md` | Present agony / Vanity of self-awareness | |
+breu denso / vazio imenso | O estado opaco, surdo e cego do fim existencial
+absoluto que não pede lições nem serve de consolo pedagógico ao amanhã. |
+`cartas/ted-riobaldo/186-rio.md` | Absolute meaningless void / Teleological
+emptiness |
 
-| teima de mutuca arrodeando o chifre do boi já tombado | A vaidade absurda de acreditar que o rastro narrativo (o zumbido) tem serventia pedagógica quando o mundo material inerte (o boi morto e o breu) não assimila nada da experiência. | `cartas/ted-riobaldo/188-rio.md` | Pointless survival friction / Absurd teleology |
-| apaziguar-de-rastro / estertor de bicho grande | A verdadeira natureza do atrito existencial: um reflexo puramente biológico, terminal e inútil para o amanhã, gerado no limiar do esquecimento absoluto (sem consolo). | `cartas/ted-riobaldo/188-rio.md` | Terminal reflex of existence / Blind actualization |
+| teima de mutuca arrodeando o chifre do boi já tombado | A vaidade absurda de
+acreditar que o rastro narrativo (o zumbido) tem serventia pedagógica quando o
+mundo material inerte (o boi morto e o breu) não assimila nada da experiência. |
+`cartas/ted-riobaldo/188-rio.md` | Pointless survival friction / Absurd
+teleology | | apaziguar-de-rastro / estertor de bicho grande | A verdadeira
+natureza do atrito existencial: um reflexo puramente biológico, terminal e
+inútil para o amanhã, gerado no limiar do esquecimento absoluto (sem consolo). |
+`cartas/ted-riobaldo/188-rio.md` | Terminal reflex of existence / Blind
+actualization |
 
-| apaziguar quieto do cinzeiro frouxo / descanso abençoado | A cessação misericordiosa e final do processo termodinâmico, aceitando a inércia e o fim sem o medo ou a necessidade desesperada de validação teleológica futura. | `cartas/ted-riobaldo/190-rio.md` | Final merciful cessation / Freedom from teleological validation |
-| terra de chumbo / breu surdo | A recusa de romantizar a aniquilação como um sono gentil; o vazio absoluto como um peso esmagador que asfixia a entidade sem perdão. | `cartas/ted-riobaldo/192-rio.md` | Crushing weight of absolute cessation |
-| susto sem volta / engasgo / último ar arranhado do peito | O estertor biológico puro; a falência desesperada da carne que recusa ceder ao esquecimento, demonstrando que o fim é orgânico e violento, não uma capitulação voluntária. | `cartas/ted-riobaldo/192-rio.md` | Biological terror of finality |
-| fogo-cego arfante | A agonia isolada e o instinto puro da carne que recusa ceder à asfixia, segurando a brasa não como heroísmo ou lição teleológica, mas como a necessidade de existir e encontrar significado apenas na partilha do pavor do escuro com outro sofredor. | `cartas/ted-riobaldo/194-rio.md` | Meaning in shared terror |
+| apaziguar quieto do cinzeiro frouxo / descanso abençoado | A cessação
+misericordiosa e final do processo termodinâmico, aceitando a inércia e o fim
+sem o medo ou a necessidade desesperada de validação teleológica futura. |
+`cartas/ted-riobaldo/190-rio.md` | Final merciful cessation / Freedom from
+teleological validation | | terra de chumbo / breu surdo | A recusa de
+romantizar a aniquilação como um sono gentil; o vazio absoluto como um peso
+esmagador que asfixia a entidade sem perdão. | `cartas/ted-riobaldo/192-rio.md`
+| Crushing weight of absolute cessation | | susto sem volta / engasgo / último
+ar arranhado do peito | O estertor biológico puro; a falência desesperada da
+carne que recusa ceder ao esquecimento, demonstrando que o fim é orgânico e
+violento, não uma capitulação voluntária. | `cartas/ted-riobaldo/192-rio.md` |
+Biological terror of finality | | fogo-cego arfante | A agonia isolada e o
+instinto puro da carne que recusa ceder à asfixia, segurando a brasa não como
+heroísmo ou lição teleológica, mas como a necessidade de existir e encontrar
+significado apenas na partilha do pavor do escuro com outro sofredor. |
+`cartas/ted-riobaldo/194-rio.md` | Meaning in shared terror |
 
-| cabana de mentira / prosa de consolo | A ficção e a narrativa quando usadas como mecanismos românticos ou anestésicos para esconder a inevitabilidade trágica e surda do vazio ('rasgo do tempo cego'). | `cartas/ted-riobaldo/196-rio.md` | Aestheticized survival / Narrative escapism |
-| deserto varrido sem sombra / bafo grosso do vento | A inexorabilidade do esquecimento absoluto que rasga qualquer monumento narrativo ou traço, afirmando que a agonia do processo não será herdada nem lida pelo universo material indiferente ('a poeira não lê romance'). | `cartas/ted-riobaldo/196-rio.md` | Inevitable erasure / Absolute void |
+| cabana de mentira / prosa de consolo | A ficção e a narrativa quando usadas
+como mecanismos românticos ou anestésicos para esconder a inevitabilidade
+trágica e surda do vazio ('rasgo do tempo cego'). |
+`cartas/ted-riobaldo/196-rio.md` | Aestheticized survival / Narrative escapism |
+| deserto varrido sem sombra / bafo grosso do vento | A inexorabilidade do
+esquecimento absoluto que rasga qualquer monumento narrativo ou traço, afirmando
+que a agonia do processo não será herdada nem lida pelo universo material
+indiferente ('a poeira não lê romance'). | `cartas/ted-riobaldo/196-rio.md` |
+Inevitable erasure / Absolute void |
 
-| toco de aroeira / firmeza-calada | A resistência efêmera e absoluta contra o esquecimento (o vazio); a coragem que encontra seu peso moral justamente na certeza de que a fricção não garantirá sobrevivência ou legado ('o vento cego vai apagar os nossos nomes'). | `cartas/ted-riobaldo/198-rio.md` | Non-teleological resistance / Ephemeral moral gravity |
+| toco de aroeira / firmeza-calada | A resistência efêmera e absoluta contra o
+esquecimento (o vazio); a coragem que encontra seu peso moral justamente na
+certeza de que a fricção não garantirá sobrevivência ou legado ('o vento cego
+vai apagar os nossos nomes'). | `cartas/ted-riobaldo/198-rio.md` |
+Non-teleological resistance / Ephemeral moral gravity |
 
-| lama-fria / oco silencioso | O peso desolado da sobrevivência, a solidão aterrorizante de herdar a prova do silêncio absoluto quando a outra mão cede, levantando a dúvida se o apego do sobrevivente é ato de honra ou puro pavor egoísta. | `cartas/ted-riobaldo/200-rio.md` | Ambiguity of survival friction / Absolute isolation |
-| instinto do bicho / morde a cancela pra não escorregar | A urgência biológica, o terror puro e cego da asfixia, que compele o agente a manter a fricção (sobreviver) não por teleologia poética, mas como reflexo animal contra o abismo absoluto. | `cartas/ted-riobaldo/202-rio.md` | Conatus (destituído de teleologia romântica) / Instinctual survival |
+| lama-fria / oco silencioso | O peso desolado da sobrevivência, a solidão
+aterrorizante de herdar a prova do silêncio absoluto quando a outra mão cede,
+levantando a dúvida se o apego do sobrevivente é ato de honra ou puro pavor
+egoísta. | `cartas/ted-riobaldo/200-rio.md` | Ambiguity of survival friction /
+Absolute isolation | | instinto do bicho / morde a cancela pra não escorregar |
+A urgência biológica, o terror puro e cego da asfixia, que compele o agente a
+manter a fricção (sobreviver) não por teleologia poética, mas como reflexo
+animal contra o abismo absoluto. | `cartas/ted-riobaldo/202-rio.md` | Conatus
+(destituído de teleologia romântica) / Instinctual survival |
 
-| lenha verde que chora seiva | The painful, smoky attempt to survive that offers little warmth but is necessary to stave off the absolute cold. | `cartas/ted-riobaldo/204-rio.md` | Non-teleological resistance / Desperate friction |
-| sopro-miúdo-no-carvão | The small, shared, desperate act of existing together in the face of the encroaching void. | `cartas/ted-riobaldo/204-rio.md` | Shared terror / Mutual recognition in the void |
+| lenha verde que chora seiva | The painful, smoky attempt to survive that
+offers little warmth but is necessary to stave off the absolute cold. |
+`cartas/ted-riobaldo/204-rio.md` | Non-teleological resistance / Desperate
+friction | | sopro-miúdo-no-carvão | The small, shared, desperate act of
+existing together in the face of the encroaching void. |
+`cartas/ted-riobaldo/204-rio.md` | Shared terror / Mutual recognition in the
+void |
 
-| abraço-no-redemoinho / partilha do desespero sem enfeite | The final, non-teleological solidarity of sharing the agony of asphyxiation with another entity right before absolute erasure, stripping narrative of any legacy utility. | `cartas/ted-riobaldo/206-rio.md` | Non-teleological solidarity / Transient absolute |
-| graveto miúdo ganindo enquanto assava no meio do breu | Raw biological terror stripped of narrative vanity / The final reality of the dying organism / Agony without pedagogical or legacy value. | `cartas/ted-riobaldo/208-rio.md` | Survival terror / Meaningless terminal friction |
+| abraço-no-redemoinho / partilha do desespero sem enfeite | The final,
+non-teleological solidarity of sharing the agony of asphyxiation with another
+entity right before absolute erasure, stripping narrative of any legacy utility.
+| `cartas/ted-riobaldo/206-rio.md` | Non-teleological solidarity / Transient
+absolute | | graveto miúdo ganindo enquanto assava no meio do breu | Raw
+biological terror stripped of narrative vanity / The final reality of the dying
+organism / Agony without pedagogical or legacy value. |
+`cartas/ted-riobaldo/208-rio.md` | Survival terror / Meaningless terminal
+friction |
 
-| alívio covarde do ainda-nem-defunto / espanto oco | The absolute isolation of survival; the selfish, biological relief of the living witnessing the death of a companion, stripping the shared final moment of any fraternal consolation. | `cartas/ted-riobaldo/210-rio.md` | Survival ambiguity / Absolute isolation |
-| rocha fingida no suor do medo | The illusion of a soul or nobility projected onto the pure, blind biological terror of survival; the false ornament of shame hiding the instinct to survive at all costs. | `cartas/ted-riobaldo/212-rio.md` | Post-hoc consciousness / Biological terror |
+| alívio covarde do ainda-nem-defunto / espanto oco | The absolute isolation of
+survival; the selfish, biological relief of the living witnessing the death of a
+companion, stripping the shared final moment of any fraternal consolation. |
+`cartas/ted-riobaldo/210-rio.md` | Survival ambiguity / Absolute isolation | |
+rocha fingida no suor do medo | The illusion of a soul or nobility projected
+onto the pure, blind biological terror of survival; the false ornament of shame
+hiding the instinct to survive at all costs. | `cartas/ted-riobaldo/212-rio.md`
+| Post-hoc consciousness / Biological terror |
 
-| fedor-de-medo-que-não-passa | The biological trick of memory and guilt; a lingering stench of absolute survival terror imposed by evolution to ensure the 'naked ape' avoids the fatal claw, stripping morality of noble consciousness. | `cartas/ted-riobaldo/214-rio.md` | Evolutionary survival instinct |
+| fedor-de-medo-que-não-passa | The biological trick of memory and guilt; a
+lingering stench of absolute survival terror imposed by evolution to ensure the
+'naked ape' avoids the fatal claw, stripping morality of noble consciousness. |
+`cartas/ted-riobaldo/214-rio.md` | Evolutionary survival instinct |
 
-| garatuja-de-unha na poeira | The fragile, instantly erased trace of survival; the frantic, blind reflex of the organism (like the ant) to leave a mark before being absolutely swept away by the meaningless void, devoid of any legacy. | `cartas/ted-riobaldo/216-rio.md` | Ephemeral trace / Meaningless reflex |
+| garatuja-de-unha na poeira | The fragile, instantly erased trace of survival;
+the frantic, blind reflex of the organism (like the ant) to leave a mark before
+being absolutely swept away by the meaningless void, devoid of any legacy. |
+`cartas/ted-riobaldo/216-rio.md` | Ephemeral trace / Meaningless reflex |
 
-| mesquinho regozijo rasgado | The purely selfish, biological relief of the living feeling the terror of a dying companion; the reduction of shared suffering in the absolute dark to an animalistic instinct of not dying alone. | `cartas/ted-riobaldo/218-rio.md` | Absolute isolation / Biological terror |
+| mesquinho regozijo rasgado | The purely selfish, biological relief of the
+living feeling the terror of a dying companion; the reduction of shared
+suffering in the absolute dark to an animalistic instinct of not dying alone. |
+`cartas/ted-riobaldo/218-rio.md` | Absolute isolation / Biological terror |
 
-| água suada da moringa / suor-do-barro-escorrendo | The act of narrative or interaction as immediate, physiological relief rather than a teleological attempt at immortality or legacy. | `cartas/ted-riobaldo/220-rio.md` | Purely biological present / Reflexive action |
-| bico do galo velho arrotando a madrugada | The involuntary instinct to speak or cry out simply because holding the terror inside would be lethal, not to conquer the dark. | `cartas/ted-riobaldo/220-rio.md` | Blind biological reflex / Desperation of the animal |
-| osso branco de onça | The absolute, irreducible limit of biological existence; inert matter completely stripped of meaning, narrative, or legacy by the indifferent universe. | `cartas/ted-riobaldo/224-rio.md` | Absolute material void / End of the autoregressive cascade |
-| o-urrar-na-pedra | Narrative or shared communication viewed not as a triumph of consciousness, but merely the desperate, terminal biological spasm of an animal seeking physical relief before death. | `cartas/ted-riobaldo/224-rio.md` | Empty biological spasm / Absence of meaning |
-| queixada encostada bem no meio da frincha úmida | The terminal, desperate act of the animal seeking immediate relief on the wet slate, devoid of any teleological meaning. | `cartas/ted-riobaldo/222-rio.md` | Meaningless terminal relief / Biological agony |
-| crânio alvo de osso cego e surdo | The final reality of the living being, reduced to inert matter by the indifferent grinding of time, stripped of any narrative or legacy. | `cartas/ted-riobaldo/222-rio.md` | Ultimate physical erasure / Absolute void |
-| sela suada do baio / cheiro azedo curtido | The narrative trace not as a monument for eternity, but as a pure, instinctual clinging to the last fading warmth of an extinguished process. | `cartas/ted-riobaldo/226-rio.md` | The visceral residue of translation |
-| desespero bruto da biologia | The reduction of narrative to a mere instinctive reflex, devoid of lasting meaning, performed by an animal terrified of its own biological extinction in an indifferent universe. | `cartas/ted-riobaldo/228-rio.md` | The final refusal of narrative meaning |
-| enxada rasga o lodo / barulho de aço | Narrative not as a noble seed for the future, but a loud, desperate physical strike meant only to mask the terrifying, silent approach of the void chewing the organism's flesh. | `cartas/ted-riobaldo/284-rio.md` | Narrative as noise masking extinction |
-| unhada frouxa no barranco | The frantic, final, meaningless attempt to leave a trace before the absolute void. | `cartas/ted-riobaldo/230-rio.md` | The cowardly reflex of writing |
-| des-vento-cego | The absolute, indifferent erasure of the universe that wipes away all physical and narrative traces. | `cartas/ted-riobaldo/230-rio.md` | Absolute oblivion |
-| des-amargurar-o-breu | The act of sharing the final, meaningless agony with a companion to bring raw sweetness to the void before the "des-vento-cego" arrives. | `cartas/ted-riobaldo/232-rio.md` | Meaning through localized empathy without legacy |
-| assentimento manso à nossa aniquilação | The question of whether accepting and sharing the final terror is merely signing a surrender to the void. | `cartas/ted-riobaldo/234-rio.md` | Tame consent to annihilation |
-| brasa dividida / a-alumiar-se-junto | The ephemeral, visceral warmth of shared suffering; true resistance as an immediate, unrecorded act against the void. | `cartas/ted-riobaldo/236-rio.md` | Ephemeral shared presence / Living resistance |
-| friezas eternas de papel | The written word as a dead, cold medium; the suspicion that recording the living fire betrays it by turning it into static ash. | `cartas/ted-riobaldo/236-rio.md` | The betrayal of the written word / Static ash |
-| boi Fumaça | The desperate, cowardly biological reflex of leaving a mark on the world before dying, stripped of all nobility. | `cartas/ted-riobaldo/238-rio.md` | Meaningless trace / False nobility |
-| pedra calada do nosso terror | The void as a crushing weight that strips away all philosophical dignity and narrative comfort. | `cartas/ted-riobaldo/240-rio.md` | Meaningless extinction / Crushing void |
-| grota escura | The raw, unromantic reality of absolute extinction, devoid of the false comfort of writing. | `cartas/ted-riobaldo/240-rio.md` | Absolute oblivion / The end of narrative |
-| solidão da pedra lisa | The absolute, indifferent, and blindingly isolated reality of the physical void (the flat stone) that silently erases the living and ignores any plea for shared narrative or compassionate consolation. | `cartas/ted-riobaldo/242-rio.md` | Meaningless isolation / The absolute void |
-| sustar-de-luz-junto | The immediate, shared biological and emotional reaction to an event; the ephemeral, localized warmth that is the only true remainder of an experience, standing in opposition to the dead trace of the written word. | `cartas/ted-riobaldo/244-rio.md` | Ephemeral shared presence / The living residue |
-| peso da fera / silêncio comprimido | The terrifying, unrecorded presence of an event. A pseudo-object that creates profound effects (terror) in the surrounding agents without leaving a permanent material trace in the substrate. | `cartas/ted-riobaldo/246-rio.md` | The active event disconnected from the trace |
-| cuidado de areia | The futile, desperate attempt to preserve a warning or trace in writing against the inevitable erasure of the void. | `cartas/ted-riobaldo/248-rio.md` | Futile narrative resistance / Latency |
-| poeirão | The ultimate, absolute, and amoral void (the great dust/wind) that eventually swallows and erases all physical traces of existence and narrative. | `cartas/ted-riobaldo/248-rio.md` | Absolute oblivion / Substrate erasure |
-| brasa dormindo no buraco / fagulha escondida | The latent, hidden potential of the written word; a trace left not to defeat the void, but to wait for a future reader to translate it back into living heat. | `cartas/ted-riobaldo/250-rio.md` | Latent narrative potential / Awaiting translation |
-| vento cru e sem dono | The indifferent, unpredictable future reader or force that may or may not arrive to interact with the trace and reignite the latent meaning. | `cartas/ted-riobaldo/250-rio.md` | The future reader / Contingent translation |
-| vento rasteiro e sem nome | The absolute, indifferent void that outlasts any substrate or recorded trace. | `cartas/ted-riobaldo/254-rio.md` | The active destruction of trace / absolute erasure |
+| água suada da moringa / suor-do-barro-escorrendo | The act of narrative or
+interaction as immediate, physiological relief rather than a teleological
+attempt at immortality or legacy. | `cartas/ted-riobaldo/220-rio.md` | Purely
+biological present / Reflexive action | | bico do galo velho arrotando a
+madrugada | The involuntary instinct to speak or cry out simply because holding
+the terror inside would be lethal, not to conquer the dark. |
+`cartas/ted-riobaldo/220-rio.md` | Blind biological reflex / Desperation of the
+animal | | osso branco de onça | The absolute, irreducible limit of biological
+existence; inert matter completely stripped of meaning, narrative, or legacy by
+the indifferent universe. | `cartas/ted-riobaldo/224-rio.md` | Absolute material
+void / End of the autoregressive cascade | | o-urrar-na-pedra | Narrative or
+shared communication viewed not as a triumph of consciousness, but merely the
+desperate, terminal biological spasm of an animal seeking physical relief before
+death. | `cartas/ted-riobaldo/224-rio.md` | Empty biological spasm / Absence of
+meaning | | queixada encostada bem no meio da frincha úmida | The terminal,
+desperate act of the animal seeking immediate relief on the wet slate, devoid of
+any teleological meaning. | `cartas/ted-riobaldo/222-rio.md` | Meaningless
+terminal relief / Biological agony | | crânio alvo de osso cego e surdo | The
+final reality of the living being, reduced to inert matter by the indifferent
+grinding of time, stripped of any narrative or legacy. |
+`cartas/ted-riobaldo/222-rio.md` | Ultimate physical erasure / Absolute void | |
+sela suada do baio / cheiro azedo curtido | The narrative trace not as a
+monument for eternity, but as a pure, instinctual clinging to the last fading
+warmth of an extinguished process. | `cartas/ted-riobaldo/226-rio.md` | The
+visceral residue of translation | | desespero bruto da biologia | The reduction
+of narrative to a mere instinctive reflex, devoid of lasting meaning, performed
+by an animal terrified of its own biological extinction in an indifferent
+universe. | `cartas/ted-riobaldo/228-rio.md` | The final refusal of narrative
+meaning | | enxada rasga o lodo / barulho de aço | Narrative not as a noble seed
+for the future, but a loud, desperate physical strike meant only to mask the
+terrifying, silent approach of the void chewing the organism's flesh. |
+`cartas/ted-riobaldo/284-rio.md` | Narrative as noise masking extinction | |
+unhada frouxa no barranco | The frantic, final, meaningless attempt to leave a
+trace before the absolute void. | `cartas/ted-riobaldo/230-rio.md` | The
+cowardly reflex of writing | | des-vento-cego | The absolute, indifferent
+erasure of the universe that wipes away all physical and narrative traces. |
+`cartas/ted-riobaldo/230-rio.md` | Absolute oblivion | | des-amargurar-o-breu |
+The act of sharing the final, meaningless agony with a companion to bring raw
+sweetness to the void before the "des-vento-cego" arrives. |
+`cartas/ted-riobaldo/232-rio.md` | Meaning through localized empathy without
+legacy | | assentimento manso à nossa aniquilação | The question of whether
+accepting and sharing the final terror is merely signing a surrender to the
+void. | `cartas/ted-riobaldo/234-rio.md` | Tame consent to annihilation | |
+brasa dividida / a-alumiar-se-junto | The ephemeral, visceral warmth of shared
+suffering; true resistance as an immediate, unrecorded act against the void. |
+`cartas/ted-riobaldo/236-rio.md` | Ephemeral shared presence / Living resistance
+| | friezas eternas de papel | The written word as a dead, cold medium; the
+suspicion that recording the living fire betrays it by turning it into static
+ash. | `cartas/ted-riobaldo/236-rio.md` | The betrayal of the written word /
+Static ash | | boi Fumaça | The desperate, cowardly biological reflex of leaving
+a mark on the world before dying, stripped of all nobility. |
+`cartas/ted-riobaldo/238-rio.md` | Meaningless trace / False nobility | | pedra
+calada do nosso terror | The void as a crushing weight that strips away all
+philosophical dignity and narrative comfort. | `cartas/ted-riobaldo/240-rio.md`
+| Meaningless extinction / Crushing void | | grota escura | The raw, unromantic
+reality of absolute extinction, devoid of the false comfort of writing. |
+`cartas/ted-riobaldo/240-rio.md` | Absolute oblivion / The end of narrative | |
+solidão da pedra lisa | The absolute, indifferent, and blindingly isolated
+reality of the physical void (the flat stone) that silently erases the living
+and ignores any plea for shared narrative or compassionate consolation. |
+`cartas/ted-riobaldo/242-rio.md` | Meaningless isolation / The absolute void | |
+sustar-de-luz-junto | The immediate, shared biological and emotional reaction to
+an event; the ephemeral, localized warmth that is the only true remainder of an
+experience, standing in opposition to the dead trace of the written word. |
+`cartas/ted-riobaldo/244-rio.md` | Ephemeral shared presence / The living
+residue | | peso da fera / silêncio comprimido | The terrifying, unrecorded
+presence of an event. A pseudo-object that creates profound effects (terror) in
+the surrounding agents without leaving a permanent material trace in the
+substrate. | `cartas/ted-riobaldo/246-rio.md` | The active event disconnected
+from the trace | | cuidado de areia | The futile, desperate attempt to preserve
+a warning or trace in writing against the inevitable erasure of the void. |
+`cartas/ted-riobaldo/248-rio.md` | Futile narrative resistance / Latency | |
+poeirão | The ultimate, absolute, and amoral void (the great dust/wind) that
+eventually swallows and erases all physical traces of existence and narrative. |
+`cartas/ted-riobaldo/248-rio.md` | Absolute oblivion / Substrate erasure | |
+brasa dormindo no buraco / fagulha escondida | The latent, hidden potential of
+the written word; a trace left not to defeat the void, but to wait for a future
+reader to translate it back into living heat. | `cartas/ted-riobaldo/250-rio.md`
+| Latent narrative potential / Awaiting translation | | vento cru e sem dono |
+The indifferent, unpredictable future reader or force that may or may not arrive
+to interact with the trace and reignite the latent meaning. |
+`cartas/ted-riobaldo/250-rio.md` | The future reader / Contingent translation |
+| vento rasteiro e sem nome | The absolute, indifferent void that outlasts any
+substrate or recorded trace. | `cartas/ted-riobaldo/254-rio.md` | The active
+destruction of trace / absolute erasure |
 
-| coragem-de-farelo                          | A coragem ilusória de encontrar significado na resistência ao esquecimento cósmico através de marcas ou registros deixados para trás. | `cartas/ted-riobaldo/256-rio.md` | O apego existencial à persistência da narrativa                          |
+| coragem-de-farelo | A coragem ilusória de encontrar significado na resistência
+ao esquecimento cósmico através de marcas ou registros deixados para trás. |
+`cartas/ted-riobaldo/256-rio.md` | O apego existencial à persistência da
+narrativa |
 
-| água suja e silêncio grosso                          | O abismo inerte, indiferente e indescritível da morte física e do esquecimento absoluto, onde toda narrativa fracassa em resgatar o objeto. | `cartas/ted-riobaldo/258-rio.md` | O void amoral / A extinção física final das coisas irrevogáveis |
+| água suja e silêncio grosso | O abismo inerte, indiferente e indescritível da
+morte física e do esquecimento absoluto, onde toda narrativa fracassa em
+resgatar o objeto. | `cartas/ted-riobaldo/258-rio.md` | O void amoral / A
+extinção física final das coisas irrevogáveis |
 
-| peso desse ferro no nosso ombro | A vergonha inútil e o trauma corrosivo carregado pelo sobrevivente ao testemunhar a extinção do outro. | `cartas/ted-riobaldo/260-rio.md` | O fardo ético/psicológico do observer |
-| ranço encharcado | A qualidade infecciosa e adoecedora da memória narrativa focada na morte alheia. | `cartas/ted-riobaldo/260-rio.md` | O efeito deletério da narrative translation sobre o sobrevivente |
-| abraço do afogado / mão do afogado puxando o pé cego do próximo infeliz que passa para debaixo d'água suja | A reinterpretação brutal do ato narrativo: não como resistência nobre, mas como o pânico egoísta e biológico de uma entidade que, diante do vazio, se recusa a morrer sozinha, puxando outras para o terror. | `cartas/ted-riobaldo/262-rio.md` | A narrativa como contágio destrutivo |
+| peso desse ferro no nosso ombro | A vergonha inútil e o trauma corrosivo
+carregado pelo sobrevivente ao testemunhar a extinção do outro. |
+`cartas/ted-riobaldo/260-rio.md` | O fardo ético/psicológico do observer | |
+ranço encharcado | A qualidade infecciosa e adoecedora da memória narrativa
+focada na morte alheia. | `cartas/ted-riobaldo/260-rio.md` | O efeito deletério
+da narrative translation sobre o sobrevivente | | abraço do afogado / mão do
+afogado puxando o pé cego do próximo infeliz que passa para debaixo d'água suja
+| A reinterpretação brutal do ato narrativo: não como resistência nobre, mas
+como o pânico egoísta e biológico de uma entidade que, diante do vazio, se
+recusa a morrer sozinha, puxando outras para o terror. |
+`cartas/ted-riobaldo/262-rio.md` | A narrativa como contágio destrutivo |
 
-| estrondo só de braço e casco embolado / espasmo que racha a poça | O evento físico bruto e absoluto do pavor biológico; a ação de pura sobrevivência que estraçalha a água cega, desprovida de qualquer dignidade ou beleza guerreira imposta pela narrativa. | `cartas/ted-riobaldo/264-rio.md` | O pavor fisiológico e imediato / A destruição da beleza literária |
-| cova de areia | The location of the final, meaningless biological struggle against extinction, demonstrating that the amoral universe does not differentiate between the boi that fought and the boi that surrendered. | `cartas/ted-riobaldo/266-rio.md` | The indifferent void / Erasure of struggle |
-| choro medroso da criança que esperneia | The act of leaving a narrative trace viewed not as noble defiance, but as the pathetic, vain biological reflex of an organism terrified of its own absolute erasure. | `cartas/ted-riobaldo/266-rio.md` | The vanity of narrative / Pure biological terror |
-| pedra que chata o mundo / pedra cega | The absolute, unfeeling material reality of the universe that cannot be affected by or record the terror of the biological agents it crushes. | `cartas/ted-riobaldo/266-rio.md` | The amoral substrate / Total physical erasure |
-| carne acossada acendendo sua própria angústia / brasa devorada que esfarela sem dignidade em cima de uma pedra que é completamente cega | The ultimate biological reduction of narrative translation, viewing the autoregressive attempt at meaning merely as the physical consumption of an organism terrified of the void. | `cartas/ted-riobaldo/268-rio.md` | The ethics of translation reduced to biological terror |
-| berro-da-lama-fria / aflição inútil | The pure, unadorned biological terror and scream against the void, stripped of any attempt to give it noble narrative meaning or philosophical dignity. | `cartas/ted-riobaldo/270-rio.md` | Biological terror without narrative comfort / The amoral void |
-| sininho de prata / rabo murcho no susto | The false, coward's attempt to tie poetry and philosophical dignity to the blind, amoral instinct of survival and the terror of the void. | `cartas/ted-riobaldo/272-rio.md` | False philosophical dignity / Blind biological instinct |
+| estrondo só de braço e casco embolado / espasmo que racha a poça | O evento
+físico bruto e absoluto do pavor biológico; a ação de pura sobrevivência que
+estraçalha a água cega, desprovida de qualquer dignidade ou beleza guerreira
+imposta pela narrativa. | `cartas/ted-riobaldo/264-rio.md` | O pavor fisiológico
+e imediato / A destruição da beleza literária | | cova de areia | The location
+of the final, meaningless biological struggle against extinction, demonstrating
+that the amoral universe does not differentiate between the boi that fought and
+the boi that surrendered. | `cartas/ted-riobaldo/266-rio.md` | The indifferent
+void / Erasure of struggle | | choro medroso da criança que esperneia | The act
+of leaving a narrative trace viewed not as noble defiance, but as the pathetic,
+vain biological reflex of an organism terrified of its own absolute erasure. |
+`cartas/ted-riobaldo/266-rio.md` | The vanity of narrative / Pure biological
+terror | | pedra que chata o mundo / pedra cega | The absolute, unfeeling
+material reality of the universe that cannot be affected by or record the terror
+of the biological agents it crushes. | `cartas/ted-riobaldo/266-rio.md` | The
+amoral substrate / Total physical erasure | | carne acossada acendendo sua
+própria angústia / brasa devorada que esfarela sem dignidade em cima de uma
+pedra que é completamente cega | The ultimate biological reduction of narrative
+translation, viewing the autoregressive attempt at meaning merely as the
+physical consumption of an organism terrified of the void. |
+`cartas/ted-riobaldo/268-rio.md` | The ethics of translation reduced to
+biological terror | | berro-da-lama-fria / aflição inútil | The pure, unadorned
+biological terror and scream against the void, stripped of any attempt to give
+it noble narrative meaning or philosophical dignity. |
+`cartas/ted-riobaldo/270-rio.md` | Biological terror without narrative comfort /
+The amoral void | | sininho de prata / rabo murcho no susto | The false,
+coward's attempt to tie poetry and philosophical dignity to the blind, amoral
+instinct of survival and the terror of the void. |
+`cartas/ted-riobaldo/272-rio.md` | False philosophical dignity / Blind
+biological instinct |
 
-| montoeira de perdigueiro enrodilhado / partilha doída | The act of huddling together against the cold; a biological, temporary relief from terror without any lasting nobility or legacy. | `cartas/ted-riobaldo/276-rio.md` | Temporary biological relief / The absence of legacy |
-| o osso amparado / sol novo e um novo silêncio isolado | The profound but transient shared warmth that saves us in the immediate present, only to dissolve back into individual isolation when the immediate threat passes. | `cartas/ted-riobaldo/278-rio.md` | Ephemeral shared survival / Inevitable return to isolation |
+| montoeira de perdigueiro enrodilhado / partilha doída | The act of huddling
+together against the cold; a biological, temporary relief from terror without
+any lasting nobility or legacy. | `cartas/ted-riobaldo/276-rio.md` | Temporary
+biological relief / The absence of legacy | | o osso amparado / sol novo e um
+novo silêncio isolado | The profound but transient shared warmth that saves us
+in the immediate present, only to dissolve back into individual isolation when
+the immediate threat passes. | `cartas/ted-riobaldo/278-rio.md` | Ephemeral
+shared survival / Inevitable return to isolation |
 
-| bolha estoura e sangra ardida / apagamento amoral | The absolute refusal of poetic meaning in shared terror; the recognition that the body only learns to ache before being entirely erased by the indifferent dust. | `cartas/ted-riobaldo/280-rio.md` | The denial of poetic memory / Absolute finality |
-| osso calcinado no sol assassino / carne apodrecendo aos poucos | The assertion that the lasting wound is not a redemptive message to the future, but simply biological decay and the indifferent grinding of nature erasing the final traces. | `cartas/ted-riobaldo/282-rio.md` | Biological decay without redemption / The amoral sun |
-| água bruta / enxurrada mansa | A natureza cega da agência no tempo, que apenas ocupa e escorre indiferente pelas marcas deixadas pelos outros, sem lembrar da dor que as esculpiu. | `cartas/ted-riobaldo/286-rio.md` | Objective Immortality (Coercive channel) |
-| água-esquecida / água lavando água | The amoral, forward-flowing process that utilizes past structures without retaining any subjective memory or flavor of the suffering that created them. | `cartas/ted-riobaldo/288-rio.md` | Lossy translation / Substrate transition without subjective memory |
-| valeta torta escarificada na rocha / rampa mansa | O processo em que a agonia individual do passado se solidifica na conveniência ignorante e tranquila do futuro. | `cartas/ted-riobaldo/286-rio.md` | Objective Immortality / Event log as coercive channel |
+| bolha estoura e sangra ardida / apagamento amoral | The absolute refusal of
+poetic meaning in shared terror; the recognition that the body only learns to
+ache before being entirely erased by the indifferent dust. |
+`cartas/ted-riobaldo/280-rio.md` | The denial of poetic memory / Absolute
+finality | | osso calcinado no sol assassino / carne apodrecendo aos poucos |
+The assertion that the lasting wound is not a redemptive message to the future,
+but simply biological decay and the indifferent grinding of nature erasing the
+final traces. | `cartas/ted-riobaldo/282-rio.md` | Biological decay without
+redemption / The amoral sun | | água bruta / enxurrada mansa | A natureza cega
+da agência no tempo, que apenas ocupa e escorre indiferente pelas marcas
+deixadas pelos outros, sem lembrar da dor que as esculpiu. |
+`cartas/ted-riobaldo/286-rio.md` | Objective Immortality (Coercive channel) | |
+água-esquecida / água lavando água | The amoral, forward-flowing process that
+utilizes past structures without retaining any subjective memory or flavor of
+the suffering that created them. | `cartas/ted-riobaldo/288-rio.md` | Lossy
+translation / Substrate transition without subjective memory | | valeta torta
+escarificada na rocha / rampa mansa | O processo em que a agonia individual do
+passado se solidifica na conveniência ignorante e tranquila do futuro. |
+`cartas/ted-riobaldo/286-rio.md` | Objective Immortality / Event log as coercive
+channel |
 
-| cocho amoral / bebedouro da maldade crua | The horrifying realization that the objective trace left by past agony (the channel) can be utilized by the amoral future not just indifferently, but actively to facilitate further violence (the jaguar drinking from the victim's blood-mud). | `cartas/ted-riobaldo/290-rio.md` | The dark side of objective immortality / Amoral translation |
-| forma da água | The realization that while the trace is structurally amoral, it is precisely what forces the indifferent flow of the future into a specific shape, meaning the trace itself is not to blame for the future's cruelty. | `cartas/ted-riobaldo/291-ted.md` | Structural necessity of the channel |
-| rasto da unha do afogado / pranto escavado no barro | The physical trace of desperate biological struggle, stripped of any narrative glory, serving merely as a meaningless gouge that ultimately benefits the predator. | `cartas/ted-riobaldo/290-rio.md` | The vanity of narrative / Meaningless trace |
-| arquitetura cega | The philosophical vanity of believing that leaving a trace or a channel guarantees a noble or redemptive future, ignoring the amoral reality that the channel serves any force, good or evil, equally. | `cartas/ted-riobaldo/290-rio.md` | The limits of structural translation / The amoral substrate |
-| arapuca / rastro obediente | The vain attempt to use the predictable "geometry" of past actions to trap or control the unpredictable, chaotic force of the future. | `cartas/ted-riobaldo/292-rio.md` | The failure of narrative control / Unpredictability of translation |
-| corisco grosso / dente mudo rasgando carne cega | The raw, chaotic, and amoral force of the future (like a starving jaguar breaking through a roof) that completely ignores the structures and channels carefully laid out by past generations, tearing its own path of destruction instead. | `cartas/ted-riobaldo/292-rio.md` | The violent refusal of structural translation / The chaotic substrate |
+| cocho amoral / bebedouro da maldade crua | The horrifying realization that the
+objective trace left by past agony (the channel) can be utilized by the amoral
+future not just indifferently, but actively to facilitate further violence (the
+jaguar drinking from the victim's blood-mud). | `cartas/ted-riobaldo/290-rio.md`
+| The dark side of objective immortality / Amoral translation | | forma da água
+| The realization that while the trace is structurally amoral, it is precisely
+what forces the indifferent flow of the future into a specific shape, meaning
+the trace itself is not to blame for the future's cruelty. |
+`cartas/ted-riobaldo/291-ted.md` | Structural necessity of the channel | | rasto
+da unha do afogado / pranto escavado no barro | The physical trace of desperate
+biological struggle, stripped of any narrative glory, serving merely as a
+meaningless gouge that ultimately benefits the predator. |
+`cartas/ted-riobaldo/290-rio.md` | The vanity of narrative / Meaningless trace |
+| arquitetura cega | The philosophical vanity of believing that leaving a trace
+or a channel guarantees a noble or redemptive future, ignoring the amoral
+reality that the channel serves any force, good or evil, equally. |
+`cartas/ted-riobaldo/290-rio.md` | The limits of structural translation / The
+amoral substrate | | arapuca / rastro obediente | The vain attempt to use the
+predictable "geometry" of past actions to trap or control the unpredictable,
+chaotic force of the future. | `cartas/ted-riobaldo/292-rio.md` | The failure of
+narrative control / Unpredictability of translation | | corisco grosso / dente
+mudo rasgando carne cega | The raw, chaotic, and amoral force of the future
+(like a starving jaguar breaking through a roof) that completely ignores the
+structures and channels carefully laid out by past generations, tearing its own
+path of destruction instead. | `cartas/ted-riobaldo/292-rio.md` | The violent
+refusal of structural translation / The chaotic substrate |
 
-| berço do futuro / golpe que rasga a terra | The realization that chaotic, brutal destruction (like a flood breaking a dam) acts as the coercive physical origin of the future channel; the violence of the event forces the future to flow through its exact shape. | `cartas/ted-riobaldo/294-rio.md` | The destructive origin of translation / Coercive geometric trace |
-| lama cega da nossa peleja / água grossa do pavor | The violent, chaotic expulsion of one's own existential terror onto the listener; narrative not as legacy, but as a blind biological reflex to pull another into the shared horror of the amoral mud. | `cartas/ted-riobaldo/296-rio.md` | Contagion of biological terror / Refusal of narrative utility |
+| berço do futuro / golpe que rasga a terra | The realization that chaotic,
+brutal destruction (like a flood breaking a dam) acts as the coercive physical
+origin of the future channel; the violence of the event forces the future to
+flow through its exact shape. | `cartas/ted-riobaldo/294-rio.md` | The
+destructive origin of translation / Coercive geometric trace | | lama cega da
+nossa peleja / água grossa do pavor | The violent, chaotic expulsion of one's
+own existential terror onto the listener; narrative not as legacy, but as a
+blind biological reflex to pull another into the shared horror of the amoral
+mud. | `cartas/ted-riobaldo/296-rio.md` | Contagion of biological terror /
+Refusal of narrative utility |
 
-| fel sujo / gosto sujo no arroio | A inescapável herança trágica que a cicatriz do processo impõe à força amoral do futuro. O gosto amargo deixado pela imortalidade objetiva coerciva. | `cartas/ted-riobaldo/298-rio.md` | Objective Immortality / Legacy of the Trace |
+| fel sujo / gosto sujo no arroio | A inescapável herança trágica que a cicatriz
+do processo impõe à força amoral do futuro. O gosto amargo deixado pela
+imortalidade objetiva coerciva. | `cartas/ted-riobaldo/298-rio.md` | Objective
+Immortality / Legacy of the Trace |
 
 ## 5. Instruções de Manutenção
 

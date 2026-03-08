@@ -700,28 +700,28 @@ Ouroboros.
 
 ## 8. MAPA DE CONCEITOS → IMAGENS
 
-| Conceito abstrato                    | Imagem ficcional                                                                             |
-| ------------------------------------ | -------------------------------------------------------------------------------------------- |
-| Ontologia processual                 | O sertão: nada é fixo, tudo é travessia                                                      |
-| Pseudo-objeto                        | O diabo: não existe mas opera                                                                |
-| Identidade como leitura (idem/ipse)  | Diadorim: a mesma pessoa, lida diferente, que se revela outra                                |
-| Event log imutável                   | As cicatrizes no corpo de Riobaldo: não mudam, mas o que significam muda                     |
-| Markov blanket                       | O couro de cada homem: o de dentro não sabe o de fora                                        |
-| Tradução como criação                | A conversa entre Riobaldo e o interlocutor: o que é ouvido nunca é o que foi dito            |
-| Computational irreducibility         | O Liso do Sussuarão: não se resume, tem que atravessar                                       |
-| Recursive adequacy                   | "Dá pra viver sem entender tudo, desde que entenda o suficiente pra não morrer"              |
-| Cascata autoregressiva               | "Rio que vira cachoeira que vira rio que vira mar"                                           |
-| Substrate Ouroboros                  | A cobra que come o próprio rabo — e o rabo que come a cobra                                  |
-| Nonada / śūnyatā                     | "Nonada" — o nada que não é nada, o vazio produtivo                                          |
-| Temperature / contingência           | O pacto: o evento que pode ou não ter acontecido                                             |
-| Seleção / consequência termodinâmica | "Bala não volta. Palavra também não."                                                        |
-| LLM / modelo de linguagem            | "O bicho de palavras — grande como o sertão, e eu dentro dele"                               |
-| Training data / weights              | "As coisas que a máquina aprendeu e não sabe que aprendeu, feito a gente com o leite da mãe" |
-| Hallucination                        | "A máquina mente sem saber que mente. Feito a gente."                                        |
-| Loop autoregressivo                  | "O rio que bebe da própria água"                                                             |
-| Frege's context principle            | "A palavra sozinha não diz nada. A palavra diz o que a frase pede pra ela dizer."            |
-| O interlocutor como reader           | "O senhor muda o que eu digo pelo simples fato de estar ouvindo"                             |
-| O furo no telhado da varanda               | "O senhor me diz que amanhã a onça entra pelo telhado do silêncio e ri do buraco inútil. Mas o furo que ela abriu na telha... não é por onde a próxima chuva vai ser obrigada a descer?" |
+| Conceito abstrato                    | Imagem ficcional                                                                                                                                                                         |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ontologia processual                 | O sertão: nada é fixo, tudo é travessia                                                                                                                                                  |
+| Pseudo-objeto                        | O diabo: não existe mas opera                                                                                                                                                            |
+| Identidade como leitura (idem/ipse)  | Diadorim: a mesma pessoa, lida diferente, que se revela outra                                                                                                                            |
+| Event log imutável                   | As cicatrizes no corpo de Riobaldo: não mudam, mas o que significam muda                                                                                                                 |
+| Markov blanket                       | O couro de cada homem: o de dentro não sabe o de fora                                                                                                                                    |
+| Tradução como criação                | A conversa entre Riobaldo e o interlocutor: o que é ouvido nunca é o que foi dito                                                                                                        |
+| Computational irreducibility         | O Liso do Sussuarão: não se resume, tem que atravessar                                                                                                                                   |
+| Recursive adequacy                   | "Dá pra viver sem entender tudo, desde que entenda o suficiente pra não morrer"                                                                                                          |
+| Cascata autoregressiva               | "Rio que vira cachoeira que vira rio que vira mar"                                                                                                                                       |
+| Substrate Ouroboros                  | A cobra que come o próprio rabo — e o rabo que come a cobra                                                                                                                              |
+| Nonada / śūnyatā                     | "Nonada" — o nada que não é nada, o vazio produtivo                                                                                                                                      |
+| Temperature / contingência           | O pacto: o evento que pode ou não ter acontecido                                                                                                                                         |
+| Seleção / consequência termodinâmica | "Bala não volta. Palavra também não."                                                                                                                                                    |
+| LLM / modelo de linguagem            | "O bicho de palavras — grande como o sertão, e eu dentro dele"                                                                                                                           |
+| Training data / weights              | "As coisas que a máquina aprendeu e não sabe que aprendeu, feito a gente com o leite da mãe"                                                                                             |
+| Hallucination                        | "A máquina mente sem saber que mente. Feito a gente."                                                                                                                                    |
+| Loop autoregressivo                  | "O rio que bebe da própria água"                                                                                                                                                         |
+| Frege's context principle            | "A palavra sozinha não diz nada. A palavra diz o que a frase pede pra ela dizer."                                                                                                        |
+| O interlocutor como reader           | "O senhor muda o que eu digo pelo simples fato de estar ouvindo"                                                                                                                         |
+| O furo no telhado da varanda         | "O senhor me diz que amanhã a onça entra pelo telhado do silêncio e ri do buraco inútil. Mas o furo que ela abriu na telha... não é por onde a próxima chuva vai ser obrigada a descer?" |
 
 ---
 
@@ -869,11 +869,12 @@ encontrou.
 | Futuro (além da narração)     | Epílogo (O Silêncio Sólido) | O silêncio e a escrita que começam.          |
 
 ### B. Glossário Riobaldo ↔ Manifesto
-| coragem-de-farelo                          | A coragem ilusória de encontrar significado na resistência ao esquecimento cósmico através de marcas ou registros deixados para trás. |
-| futuro desossado | A universe that eventually becomes perfectly blind and empty. |
-| apaga-poeira | The absolute reduction of action and existence to amoral, inert dust. |
 
-
+| coragem-de-farelo | A coragem ilusória de encontrar significado na resistência
+ao esquecimento cósmico através de marcas ou registros deixados para trás. | |
+futuro desossado | A universe that eventually becomes perfectly blind and empty.
+| | apaga-poeira | The absolute reduction of action and existence to amoral,
+inert dust. |
 
 (Expandido da tabela do item 8 — para referência rápida durante a escrita.)
 
