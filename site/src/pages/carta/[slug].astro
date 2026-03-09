@@ -66,7 +66,7 @@ function autorClasse(autorName: string): string {
     </div>
   </article>
 
-  <div class="correspondence-timeline">
+  <nav class="correspondence-timeline" aria-label="Linha do tempo da correspondência">
     <span class="timeline-label">Sequência da correspondência</span>
     <div class="timeline-dots">
       {sorted.map((item: any, index: number) => {
@@ -85,7 +85,7 @@ function autorClasse(autorName: string): string {
         );
       })}
     </div>
-  </div>
+  </nav>
 
   <FooterNav
     prev={prev ? {
