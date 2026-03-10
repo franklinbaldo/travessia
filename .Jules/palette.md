@@ -37,3 +37,8 @@ receives focus when tabbed.
 
 **Learning:** When a page contains multiple `<nav>` elements (e.g., main menu, category filters, and footer pagination), screen readers announce them all generically as "navigation landmark". This makes it difficult for non-visual users to understand the purpose of each menu and quickly jump to the right one.
 **Action:** Always add a descriptive `aria-label` (like "Principal", "Categorias", or "Navegação da postagem") to every `<nav>` element on a page to provide clear semantic boundaries and context. Additionally, use `rel="prev"` and `rel="next"` on sequential navigation links.
+
+## 2026-03-10 - Dynamic ARIA Labels for Theme Toggles
+
+**Learning:** Static labels like "Alternar tema" (Toggle theme) lack actionable clarity. For screen reader users and mouse users wanting tooltip context, it's ambiguous what the next state will be. The theme toggle should explicitly indicate the *action* it performs based on current state.
+**Action:** When implementing theme toggles or similar binary state buttons, dynamically update the `aria-label` and `title` via JavaScript to reflect the *action* that will occur when clicked (e.g., "Mudar para tema claro" or "Mudar para tema escuro").

@@ -62,7 +62,7 @@ const isCurrentPage = (path: string) => {
           <a href={`${base}bastidores`} aria-current={isCurrentPage(`${base}bastidores`) ? 'page' : undefined}>Bastidores</a>
           <a href={`${base}docs/riobaldo-blueprint`} aria-current={isCurrentPage(`${base}docs/riobaldo-blueprint`) ? 'page' : undefined}>Como funciona</a>
           <a href={`${base}docs/events-all-the-way-down`} aria-current={isCurrentPage(`${base}docs/events-all-the-way-down`) ? 'page' : undefined}>O Projeto</a>
-          <button id="theme-toggle" aria-label="Alternar tema">
+          <button id="theme-toggle" aria-label="Mudar para tema escuro" title="Mudar para tema escuro">
             <span class="icon-moon">☽</span>
             <span class="icon-sun">☀</span>
           </button>
@@ -71,15 +71,29 @@ const isCurrentPage = (path: string) => {
       <slot />
     </main>
 
-    <button id="back-to-top" aria-label="Voltar ao topo"><span>Topo</span></button>
+    <button id="back-to-top" aria-label="Voltar ao topo" title="Voltar ao topo"><span>Topo</span></button>
 
     <script>
       // Theme toggle
-      document.getElementById('theme-toggle')?.addEventListener('click', () => {
+      const themeToggle = document.getElementById('theme-toggle');
+
+      const updateThemeToggleLabel = () => {
+        if (!themeToggle) return;
+        const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+        const nextThemeLabel = isDark ? 'Mudar para tema claro' : 'Mudar para tema escuro';
+        themeToggle.setAttribute('aria-label', nextThemeLabel);
+        themeToggle.setAttribute('title', nextThemeLabel);
+      };
+
+      // Set initial label on load
+      updateThemeToggleLabel();
+
+      themeToggle?.addEventListener('click', () => {
         const html = document.documentElement;
         const next = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
         html.setAttribute('data-theme', next);
         localStorage.setItem('theme', next);
+        updateThemeToggleLabel();
       });
 
       const backToTopBtn = document.getElementById('back-to-top');
