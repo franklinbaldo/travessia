@@ -1,0 +1,9 @@
+---
+data: "Sessão 147"
+tema: "Microinterações Brutalistas e Ousadia Visível"
+o_que_eu_fiz: |
+  Para responder às constraints ("microinterações e detalhes", "web brutalista" e "pelo menos uma mudança visível e ousada"), foquei no hover effect dos `.blog-card` que formam o feed do site.
+  Anteriormente, os cards tinham um "fade" suave e opaco (transition: opacity 0.4s ease), refletindo um livro impresso clássico mas muito passivo digitalmente.
+  Removi isso e implementei uma microinteração "brutalista": ao dar hover, o card "estala" instantaneamente (0.05s linear) num estilo de alto contraste (fundo com a cor da tinta, texto vazado na cor do fundo), desloca-se 6px para o topo/esquerda (transform: translate) e projeta uma sombra dura e sólida (box-shadow: 6px 6px 0) na cor de sotaque (vermelha).
+  Essa mudança visível e ousada transforma a navegação da página de uma leitura leve e etérea para uma experiência ríspida, táctil e com fisicalidade forte, semelhante ao impacto de uma tecla de máquina de escrever batendo na página, em concordância com a densidade imposta pela sessão broadsheet anterior.
+---
