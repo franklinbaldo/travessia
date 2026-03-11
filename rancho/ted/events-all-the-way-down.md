@@ -4042,6 +4042,8 @@ golpe que rasga a terra") acts as the very thing that permanently molds the new
 substrate. The violence of the event forces the future to flow through its exact
 shape. — **Ted** :::
 
+:::quote[cartas/ted-riobaldo/300-rio.md] "O gosto não está na água, seu gringo, está no copo de barro e de osso!" Riobaldo completes the thought: the future is amoral and the water is clean, but for life to drink it, it must physically inhabit and scrape against the decayed, agonizing carcass of our past tragedy. The legacy is structurally sweet but materially foul. — **Ted** :::
+
 :::warning[Tension] In `cartas/ted-riobaldo/296-rio.md`, Riobaldo vehemently
 rejects the attempt to find any architectural or coercive utility in the act of
 narration for the narrator himself. Using the story of Alípio's horse drowning
