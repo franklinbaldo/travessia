@@ -5,10 +5,10 @@
 
 :root {
   /* Manuscrito/Caderno Bold Contrast Palette */
-  --bg-color: #fdf6e3; /* Solarized Light background (paper) */
-  --text-color: #073642; /* Solarized dark text (ink) */
-  --accent-color: #dc322f; /* Red pen */
-  --secondary-color: #268bd2; /* Blue pen */
+  --bg-color: #fdfbf7; /* Classic Paper */
+  --text-color: #1a1a1a; /* Classic Ink */
+  --accent-color: #8b0000; /* Dark Red Ink */
+  --secondary-color: #555555; /* Lead/Graphite */
   --divider-color: #93a1a1; /* Faded rule lines */
   --meta-color: #586e75; /* Pencil/meta text */
   --noise-op: 0.05;
@@ -18,20 +18,20 @@
   --progress-start: #dc322f;
   --progress-end: #268bd2;
 
-  --font-body: 'Courier New', Courier, monospace;
-  --font-ted: "Courier New", Courier, monospace;
-  --font-meta: 'Courier New', Courier, monospace;
+  --font-body: 'Cormorant Garamond', 'Times New Roman', Times, serif;
+  --font-ted: 'Cormorant Garamond', 'Times New Roman', Times, serif;
+  --font-meta: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
   --max-width: 95vw;
-  --body-size: 22px;
-  --body-lh: 1.05;
+  --body-size: 20px;
+  --body-lh: 1.6;
 }
 
 [data-theme="dark"] {
-  --bg-color: #002b36; /* Solarized Dark background */
-  --text-color: #839496; /* Solarized light text */
-  --accent-color: #cb4b16; /* Orange pen */
-  --secondary-color: #2aa198; /* Cyan pen */
+  --bg-color: #1a1a1a; /* Dark Ink */
+  --text-color: #fdfbf7; /* Paper */
+  --accent-color: #cc3333; /* Bright Red Ink */
+  --secondary-color: #aaaaaa; /* Light Lead */
   --divider-color: #586e75;
   --meta-color: #93a1a1;
   --noise-op: 0.05;
