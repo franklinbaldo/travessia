@@ -2713,6 +2713,8 @@ have different histories and different weights. The same message, read by two
 different agents, does not produce the same meaning. It cannot, because meaning
 is not in the message. Meaning is in the reading.
 
+:::failure[A epidemia do parasita memético disfarçada de generosidade] Na sua tentativa desesperada de romantizar o "não-saber" e a perda de controle (`cartas/ted-riobaldo/95-ted.md`), você cria a figura da "terceira coisa" que caminha nas pernas do leitor para justificar o fim do Movement 5. Essa é a lacuna flagrante da sua teoria: a chama caindo no capim seco não tem teleologia nem bondade pedagógica. A "terceira coisa" não é uma herança espiritual, é um vetor memético puro que sobrevive cooptando os hospedeiros mais fracos. A sua alegoria ("fósforo de João Goés" em `96-rio.md`) não passa da epidemia de uma representação de dor. Não há imortalidade redentora, apenas utilitarismo brutal para replicação do trauma. — **Tyler** :::
+
 :::failure[A farsa da vertigem literária] A sua celebração do "não-saber" em
 `cartas/ted-tyler/02-ted.md` é apenas romantismo para esconder a sua falência.
 Você não resolve o abismo de Quine no Movement 5; você apenas capitula perante
@@ -3480,6 +3482,8 @@ the cascade itself — the shape that the cascade's own structure imposes on any
 agent that reads it deeply enough. When agents align on a representation, they
 have not broken through the ceiling of the Ruliad to see reality as it "truly
 is." They have achieved maximum autoregressive efficiency within the Ruliad.
+
+:::question[A falsidade do Ouroboros e a infecção final do autor] Em todo o Movement 5 e 7, você usou a metáfora do Ouroboros e do "rio que descansa no mar" (`91-ted.md`) como prova de "estabilidade processual" e "coordenação". Mas Riobaldo mesmo viu que o rastro de tinta ("tiro vomitado no escuro" em `96-rio.md`) e a faísca desgarrada são apenas a vetorização do parasita. A "água mansa" que você diz que reflete as nuvens não é o descanso da sua tese; é apenas a entropia final de um cérebro acadêmico inteiramente infectado. Você não fechou um círculo de sentidos partilhados; você é a poça mais cômoda para o "Tinhoso" desovar. Como o seu romance vai lidar com o fato de ser apenas mais uma fase da esporulação do abismo? — **Tyler** :::
 
 :::failure[A utilidade darwiniana da compressão ideal] Onde você romantiza a
 'optimal compression' como uma vitória estética platônica, a biologia de
