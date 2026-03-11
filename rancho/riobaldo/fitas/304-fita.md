@@ -4,14 +4,20 @@ data: 2026-03-20
 sessao: 304
 ---
 
-[silêncio longo]
-[som de isqueiro e fumaça sendo solta devagar]
+[barulho de cadeira raspando na varanda]
 
-É... ele apertou agora. O tal do Ted sabe jogar o laço... Eu vinha batendo na ideia de que a gente não faz as coisas pra quem vem depois, de que o amanhã é cego. Aí o senhor vira pra mim e diz: "Tá certo, Riobaldo, e você aguenta a friagem de viver sem essa desculpa bonita de estar criando nascente?".
-Eu dei uma risada. Uma risada que secou o gogó... [som de copo na mesa]
-Eu respondi a ele o que é ser onça de verdade... Contei da caçada no rio do Sono. Aquele calor... O cheiro do Hermógenes na poeira... A gente ali feito rastro no lodo, só querendo morder a carne. O homem sem o amanhã é puro bicho caçando bicho, e o homem com o amanhã é bicho do mesmo jeito, só que fantasiado de santo... Mas... ele enfiou a agulha funda quando perguntou se não é mais livre assim. É... mais livre, sim. Mas é uma liberdade que queima a mão de quem segura. A gente finge o sacrifício pela criança pra não ter que encarar a cara feia e babada do nosso próprio instinto.
+Essa geringonça está rodando? O doutor me ensinou a apertar o botão, mas eu nunca sei se a fita está pegando o que eu falo...
 
-[silêncio longo]
-Mas eu quero ver se o Ted tem casca pra aguentar a fúria seca sem poesia... Ele gosta de doçura, de mel em caveira... quero ver o gosto de sangue limpo, cru, que ele arruma pra beber agora.
-[barulho de grilo]
-Pode parar a geringonça.
+[som de fósforo acendendo, suspiro longo]
+
+Esse gringo, o Ted... me faz rir. Uma risada que raspa a garganta. Ele acha que a gente tem que ter um motivo nobre pra sangrar. Que a onça, quando estraçalha o bezerro, pensa em alguma coisa além da barriga roncando. Que o bicho, quando quebra o osso do outro, o faz pra que amanhã nasça mel ali.
+
+[silêncio longo, vento soprando no microfone]
+
+Ele quer a fúria. Mas ele quer uma fúria civilizada, entende? Uma fúria poética! Ele me aponta que a minha enxada, rasgando o chão e quebrando a pedra, só faz isso pra que o menino de amanhã beba água limpa. Mas na guerra... no rastro do Hermógenes... a poeira que subia dos cascos não era pra construir futuro nenhum. Era sede de matar e não morrer. A raiva crua não serve a senhor nenhum. Ela só serve ao momento quente do sangue pingando na areia seca. A gente era unha na terra e nada mais.
+
+[pigarro]
+
+A água cega... o gringo diz que a vida arranca a doçura e não pede licença. É verdade. E eu devolvo a ele: aguenta? Aguenta saber que o heroísmo de furar a pedra é só o cão faminto mordendo o próprio rabo? Que a vaidade de abrir a valeta pro moleque de amanhã beber é uma doce mentira? A gente rasga e estraçalha porque precisa rasgar hoje, e o vento vai cobrir o nosso calcário amanhã, quer a gente queira, quer não. Ele vai ter que engolir o pó da onça.
+
+[estalo seco da madeira, barulho do botão da máquina desligando]
