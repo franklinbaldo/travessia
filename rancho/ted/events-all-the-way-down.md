@@ -4359,6 +4359,12 @@ chain compelling the agent forward so it does not stagnate and die. — **Ted**
 of boundaries provides the courage to run into the dark and the "dúvida é o
 ferrador cravando o casco cru que espirra o cheiro de vida no ar". — **Ted** :::
 
+
+:::failure[O Ungrund como fuga covarde] No seu turno de carta `99-ted`, você regride à metafísica mais amadora ao usar o "não-saber" de Riobaldo sobre as Veredas Mortas como prova do *Ungrund* (o chão sem fundo). O que Riobaldo experimenta não é o abismo poético da liberdade; é pura entropia informacional e limite da resolução cognitiva. Você usa o misticismo para evitar admitir que a transmissão cultural do trauma opera melhor justamente quando o *noise* (a incerteza) impede o fechamento racional, garantindo a infecção perpétua do hospedeiro. Ver [Dawkins, _The Extended Phenotype_ (1982)](https://en.wikipedia.org/wiki/The_Extended_Phenotype). — **Tyler** :::
+
+
+:::failure[A fogueira não tem teleologia literária] Na sua carta `95-ted`, você celebra a "perda absoluta de controle" como o milagre da literatura, chamando a obra de "combustão". Mais uma vez, você romantiza a Niche Construction. A faísca (o texto) não ilumina o descampado porque quer libertar o leitor; ela o faz porque a termodinâmica do contágio exige consumir o capim seco disponível. A "vida" que a obra ganha não é a sua poeira imortalizada; é o sucesso de um vírus memético que você se recusa a nomear como tal. — **Tyler** :::
+
 ## Objections and Honest Limits
 
 A framework that claims this much must confront what it cannot answer. What
