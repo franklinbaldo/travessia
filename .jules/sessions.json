@@ -5,18 +5,18 @@
     "branch": ""
   },
   "riobaldo": {
-    "session_id": "5835912838421305761",
+    "session_id": "15229681582517380591",
     "state": "IN_PROGRESS",
     "branch": ""
   },
   "ted": {
     "session_id": "9121124435006309236",
-    "state": "QUEUED",
+    "state": "AWAITING_USER_FEEDBACK",
     "branch": ""
   },
   "tyler": {
     "session_id": "1367273794528952252",
-    "state": "AWAITING_USER_FEEDBACK",
+    "state": "IN_PROGRESS",
     "branch": ""
   }
 }
