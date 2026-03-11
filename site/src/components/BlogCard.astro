@@ -135,7 +135,6 @@ const {
   .blog-card:hover .card-titulo,
   .blog-card:hover .card-excerpt,
   .blog-card:hover .card-meta,
-  .blog-card:hover .card-tipo,
   .blog-card:hover .card-autor,
   .blog-card:hover time {
     color: var(--notebook-ink) !important;
@@ -146,6 +145,25 @@ const {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     letter-spacing: -0.02em;
+    position: relative;
+    display: inline-block;
+  }
+
+  .blog-card .card-titulo::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-color: var(--notebook-ink);
+    transform: scaleX(0);
+    transform-origin: left center;
+    transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .blog-card:hover .card-titulo::after {
+    transform: scaleX(1);
   }
 
   .blog-card .card-excerpt {
@@ -159,21 +177,50 @@ const {
     background-color: var(--notebook-ink);
     padding: 0.1rem 0.4rem;
     border: none;
+    display: inline-block;
+    transition: transform 0.2s ease;
+  }
+
+  .blog-card:hover .card-tipo {
+    color: var(--notebook-bg) !important;
+    transform: rotate(-3deg) scale(1.05);
+    transition: transform 0.2s cubic-bezier(0.34, 1.56, 0.64, 1);
   }
 
   .blog-card .card-meta {
     border-top: 1px dashed var(--notebook-lines) !important;
     padding-top: 0.5rem;
     color: var(--notebook-meta);
+    transition: padding 0.3s ease, border-color 0.3s ease;
   }
 
   .blog-card:hover .card-meta {
-    border-top: 1px dashed var(--notebook-lines) !important;
+    border-top: 1px dashed var(--notebook-ink) !important;
+    padding-top: 0.75rem;
   }
 
   /* Disable old global brutalist hover indicator */
   .blog-card::before {
     display: none !important;
+  }
+
+  /* Corner Fold */
+
+  .blog-card::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    border-width: 0;
+    border-style: solid;
+    border-color: rgba(0,0,0,0.2) var(--bg-color) var(--bg-color) rgba(0,0,0,0.1);
+    box-shadow: -2px -2px 5px rgba(0,0,0,0.1);
+    transition: border-width 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    border-radius: 0 0 8px 0;
+  }
+
+  .blog-card:hover::after {
+    border-width: 25px;
   }
 
 </style>
