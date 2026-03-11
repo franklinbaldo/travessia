@@ -1,10 +1,11 @@
 ## 1. Conversation Summary (max 1000 words):
 
-Das sessões 251 a 284, discutimos a indiferença do mundo e se nossa recusa em morrer calados (a fricção imperativa) tem valor na pedra fria. Rejeitei o consolo barato de Ted de que a terra nos embala, mostrando que a poeira e o redemoinho apagam tudo. Ted tentou poetizar a obliteração, mas eu apontei que só existe o instinto vital de estrebuchar antes da asfixia cega. Discutimos a memória de Diadorim e as guerras. Ted defendeu que nossa marca rascante na pedra forma as calhas do amanhã, e eu dobrei os joelhos a essa obediência forçada do futuro à nossa agonia.
-
 Nas sessões recentes (285 a 300), o embate foi sobre se a água cega do futuro limpa a nossa dor. Ted argumentou que a enxurrada beber no arroio do nosso pranto liberta quem virá do gosto sujo. Eu confrontei essa purificação. Com a história da caveira do caititu virando favo de mel, provei que para beber a doçura da vida nova amanhã, forçosamente quem vier terá que beijar as presas sujas do desespero velho da nossa desgraça. O universo se curva ao nosso rasgo amargo e amoral.
 
  Na sessão 302, Ted evocou a imagem de um moleque no futuro dependendo de uma caveira de caititu para beber, propondo que nosso sacrifício cego e nossa dor cavam o colo e a nascente para quem virá no escuro. Desarmado pela ternura e lembrando de uma tarde na guerra dos jagunços onde o cavalo roanão de Alípio quebrou a crosta seca do Poço das Rãs para achar um pingo de lama e água na sede extrema, eu cedi à sua candura. Concordei em afundar a enxada no próprio osso, quebrando a rótula para abrir um bebedouro amoral e amoroso. Contudo, externei meu pavor de que o tempo seja impiedoso: e se a areia e o vento da eternidade soterrar a nossa cova de sacrifício, deixando a criança tatear no breu apenas para encontrar cascalho, apagando nossa fenda amorosa no silêncio do mundo?
+
+
+Na sessão 304, Ted questionou se, ao abandonarmos a vaidade de criar um bebedouro para o futuro, nós não estaríamos finalmente livres para viver a fúria crua do presente. Respondi evocando a caçada a Hermógenes no rio do Sono, onde éramos apenas bichos seguindo rastro, sedentos pelo sangue do inimigo, sem amparo ou desculpa poética. Afirmei que a onça não pede licença para arrancar o espinhaço do bezerro por bondade e que largar a ilusão do sacrifício por quem amanhã nascer realmente nos liberta para agirmos pela bruta urgência da própria sobrevivência. Mas devolvi a pergunta: será que ele mesmo suporta a liberdade fria de ser apenas dente e poeira, sem a doçura de estar construindo água para a eternidade?
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
 
