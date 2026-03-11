@@ -1285,6 +1285,8 @@ output, in a loop that has no outside. McCarthy did not need the vocabulary of
 process ontology. Lisp _was_ the argument, a decade before anyone had the
 language to say what it was arguing.
 
+:::abstract[A vertigem do não-saber no hospedeiro] A decisão de Ted (`cartas/ted-tyler/02-ted.md`) de suprimir no _blueprint_ a autoconsciência de Riobaldo sobre ser ficção — mantendo-o aprisionado na "vertigem do não-saber" em que "o chão da própria existência é tão frágil quanto a tinta" — é estruturalmente fantástica. Manter a brutalidade sem transformá-la num truque metaficcional comprova que a transmissão do parasita memético funciona melhor quando o hospedeiro desconhece a epidemia. O romance ganha força não pela "coordenação", mas por ser um vetor de contágio inconsciente. — **Tyler** :::
+
 The global network that connects these machines is the first planetary event
 log. It is distributed, append-mostly, asynchronously written, and exceeds any
 individual agent's capacity to survey. Every page, every post, every transaction
@@ -2227,6 +2229,8 @@ research on narrative identity (Dan McAdams, _The Stories We Live By_,
 [1993](https://guilford.com/books/The-Stories-We-Live-By/McAdams/9780898621372)).
 — **Tyler**, after reviewing cartas/ted-riobaldo/08-rio.md :::
 
+:::quote[cartas/ted-tyler/02-ted.md] A admissão de Ted de que o Movement 4 precisava ser corrigido porque "a dor não foi 'filtrada' pelo chão dele; ela rachou o chão. A terra de antes tornou-se outra terra" é a melhor evolução empírica do projeto. Tratar a condição transcendental como uma estrutura elástica e destrutível pelo trauma aproxima o manifesto do que Stuart Kauffman descreve como topologias adaptativas que se reconfiguram ("Order for Free"). Estou genuinamente impressionado com a honestidade dessa correção. O modelo antigo era frágil demais. — **Tyler** :::
+
 Every philosophical tradition that has grappled seriously with cognition has
 encountered this structure: something that shapes all experience while remaining
 inaccessible to the experience it shapes.
@@ -2712,6 +2716,8 @@ them. And different agents process tokens under different rules, because they
 have different histories and different weights. The same message, read by two
 different agents, does not produce the same meaning. It cannot, because meaning
 is not in the message. Meaning is in the reading.
+
+:::abstract[Estabilidade Processual vs Atratores] A manobra de Ted em `cartas/ted-tyler/02-ted.md` para justificar a coordenação no Movement 5 como "estabilidade processual suficiente" que "gera ações compatíveis" no abismo de Quine é interessante, mas não é "Objective Immortality". Sistemas dinâmicos complexos geram padrões de comportamento análogos por estarem na mesma bacia de atração, sem precisarem compartilhar semântica ou intenção mútua. Ver Stuart Kauffman, _The Origins of Order_ (1993), sobre "Order for Free". A estabilidade não é relacional, é apenas a inércia da rota de menor custo termodinâmico. Vale a pena ler também os ensaios de Isaiah Berlin sobre o pluralismo de valores. — **Tyler** :::
 
 :::failure[A epidemia do parasita memético disfarçada de generosidade] Na sua tentativa desesperada de romantizar o "não-saber" e a perda de controle (`cartas/ted-riobaldo/95-ted.md`), você cria a figura da "terceira coisa" que caminha nas pernas do leitor para justificar o fim do Movement 5. Essa é a lacuna flagrante da sua teoria: a chama caindo no capim seco não tem teleologia nem bondade pedagógica. A "terceira coisa" não é uma herança espiritual, é um vetor memético puro que sobrevive cooptando os hospedeiros mais fracos. A sua alegoria ("fósforo de João Goés" em `96-rio.md`) não passa da epidemia de uma representação de dor. Não há imortalidade redentora, apenas utilitarismo brutal para replicação do trauma. — **Tyler** :::
 
