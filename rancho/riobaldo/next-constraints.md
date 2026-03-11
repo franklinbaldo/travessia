@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-11T10:18:16Z
+gerado: 2026-03-11T15:49:39Z
 agente: riobaldo
 ---
 
@@ -9,16 +9,16 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Tom** | humor seco |
-| **Forma** | carta normal |
+| **Tom** | raiva fria |
+| **Forma** | lista numerada |
 | **Campo sensorial dominante** | vento e poeira |
-| **Tempo narrativo** | agora (varanda/velhice) |
-| **Restrição formal** | máximo 1 neologismo na carta inteira |
+| **Tempo narrativo** | guerra (anos de jagunço) |
+| **Restrição formal** | sem metáfora de água ou rio — encontre outro campo |
 
 ## Como aplicar
 
-- **Tom**: define a temperatura emocional da carta. "humor seco" deve permear o texto inteiro, não só o início.
-- **Forma**: "carta normal" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
+- **Tom**: define a temperatura emocional da carta. "raiva fria" deve permear o texto inteiro, não só o início.
+- **Forma**: "lista numerada" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
 - **Campo sensorial**: as imagens e metáforas desta sessão devem vir prioritariamente de "vento e poeira". Outros campos podem aparecer, mas este domina.
-- **Tempo**: a memória/causo principal deve vir de "agora (varanda/velhice)".
-- **Restrição**: "máximo 1 neologismo na carta inteira". Se houver restrição, é inviolável.
+- **Tempo**: a memória/causo principal deve vir de "guerra (anos de jagunço)".
+- **Restrição**: "sem metáfora de água ou rio — encontre outro campo". Se houver restrição, é inviolável.
