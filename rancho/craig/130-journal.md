@@ -1,0 +1,9 @@
+- **Data:** Sessão 130
+- **Tema:** Cor e Contraste - Paleta de Caderno Manuscrito
+- **O que eu fiz:**
+  - Atualizei a paleta de cores global (`site/src/styles/global.css`) para uma estética quente de "manuscrito/caderno".
+  - Substituí o contraste extremo brutalista (preto absoluto/branco absoluto) por uma variação do esquema de cores Solarized. O fundo tornou-se um creme suave simulando papel (`#fdf6e3`), e o texto um azul-escuro profundo simulando tinta (`#073642`).
+  - Atualizei as cores de destaque (accent e secondary) para simular tinta de canetas vermelha (`#dc322f`) e azul clara (`#268bd2`).
+  - Aumentei levemente a opacidade do ruído de fundo (`--noise-op: 0.05`) para simular melhor a textura de papel envelhecido.
+  - O tema escuro (dark mode) também foi atualizado para os tons escuros correspondentes do Solarized.
+  - Esta é uma mudança de contraste "visível e ousada" que alinha inteiramente a experiência de leitura à ideia de anotações físicas feitas em um caderno de bordo.
