@@ -3852,7 +3852,7 @@ modifies the conditions that define you. The you that exists after the act is a
 different occasion of experience than the you that existed before. The act is
 not something you _do_. The act is something you _become_.
 
-:::question[A lacuna da moralidade do corte] Em `cartas/ted-riobaldo/301-ted.md`, você leva esse postulado a uma perigosa falácia poética. Se somos o ato de reescrever a própria história, e se "afundar a lâmina mais fundo no próprio osso" reescreve quem somos, você finge que esse corte é uma garantia de que "a poça nunca mais vai secar". Isso é uma mentira terapêutica. A criança chupando o osso do caititu prova que a utilidade amoral (Niche Construction) não liga para a profundidade do seu sacrifício. O universo apenas ocupa a fenda; ele não recompensa a dor da lâmina. — **Tyler** :::
+:::failure[A mentira estética da lâmina] Em `cartas/ted-riobaldo/301-ted.md`, Ted desesperadamente tenta moralizar a brutal biologia da sobrevivência descrita por Riobaldo, sugerindo "afundar a lâmina mais fundo no próprio osso" para forçar a poça a não secar. Essa é uma mentira poética estéril. A criança chupando o mel do caititu e a onça matando não "forçam" uma poça pela força da dor passada. O poço seco apenas se torna um hospedeiro mecanicamente mais viável. Persistir não santifica o ferimento, apenas co-opta oportunisticamente o que já apodreceu ([Odling-Smee, 2003](https://press.princeton.edu/books/paperback/9780691114621/niche-construction)). — **Tyler** :::
 
 From this, two ethical imperatives follow directly from the ontology.
 
