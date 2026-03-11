@@ -1,25 +1,25 @@
 ---
 tipo: "transcricao"
-data: 2026-03-18
+data: 2026-03-17
 sessao: 302
 ---
 
-[barulho de cadeira de palhinha arrastando na varanda]
+[barulho seco de engrenagem raspando, clique frouxo do botão]
 
-Doutor João, essa engrenagem de fita roda o dia todo, não roda? O senhor deve tá lá longe, mas escute só o que a velhice aprontou comigo hoje. O Ted me dobrou, doutor.
+Isso está puxando a minha voz? Essa roda preta gira, gira e não sai do lugar... Igual o pensamento do Ted, girando em volta do meu buraco, da minha cova, do meu poço. [suspiro forte] Ê, velho cansado.
 
-[som de água caindo num copo de alumínio]
+O vento hoje lá fora está brabo. Uma poeira fina batendo nas pernas tortas das cadeiras, varrendo a palha pro canto. A poeira que entra no olho e faz a gente piscar, piscar e chorar uma água que não mata sede de ninguém. O Ted... o estrangeiro americano que eu chamo de Ted, mas que parece até um compadre mandado pelo diabo pra testar as minhas pernas... ele me quebrou hoje.
 
-A gente passa a vida inteira armando a cerca, afiando a lâmina, achando que a única coisa que presta no mundo escuro é a coragem de rosnar de volta. De não aceitar apanhar calado da morte. Aí o gringo vem... Ele vem não com teoria grande ou número frio. Ele puxa pela imagem de uma criança que não nasceu. Uma criança que vai ajoelhar no pó lá no amanhã e lamber a água que sobrou na poça funda que eu abri quebrando a minha rótula. E ele me diz que minha raiva serve pra abrigar essa água doce.
+Ele falou do menino. Um molequinho de poeira e remela engolindo o mel dentro da caveira suja. Ele pegou aquele meu caititu morto lá nas pedras do Urucuia e botou uma criança ajoelhada lambendo o osso pra não morrer.
 
-[tosse seca]
+[barulho de pigarro longo, som de copo esbarrando em madeira]
 
-E eu tive que baixar o cano da espingarda. Não pelo pensamento dele... Mas agorinha, sentado aqui na varanda com a lerdeza nos ossos, o menino Zeca, meu neto... O menino tava correndo atrás de calango ali no pedregulho. Caiu. O joelho esfolou. O choro do menino ardeu o mormaço da tarde. Eu levantei e fui acodir. Peguei a bilha com água fresca da mureta e joguei por cima da ferida. A poeira virou lama, o sangue lavou e escorreu pro chão. O menino suspirou, se acalmando. Bebi da água, dei pra ele beber. O medo passou. É essa mesma água da bilha que limpa e salva, doutor João.
+Sabe, maquininha roda-roda... eu fui durão, eu fui brabo e desalmado uma vida inteira de jagunço armado no Liso do Sussuarão. Mas reverência não escolhe hora de vergar as pernas da gente. Bate a ternura de um lado, a perna encolhe. Eu reverencio aquele menino imaginado, reverencio demais. O gringo tem razão. E eu disse pra ele que tinha. Se a água do futuro precisa que eu fure o chão com a minha carne, eu furo.
 
-[suspiro tremido]
+Contei pra ele do poço das rãs. Da água subindo preta depois de o osso do cavalo quebrar... [pausa longa]
 
-O que amoleceu em mim hoje não foi a razão, foi a ternura doído de avô. Falei pra ele que sim. Que eu desço a lâmina no osso pra abrir a cacimba. Não por heroísmo ou pra deixar meu nome gravado na pedra de orgulho, mas pra virar a vasilha onde a chuva vai pousar.
+Mas o medo, roda preta... o medo que eu não contei inteiro... é que tudo seja à toa. Essa poeira varrendo a varanda me assombra. E se o vento soterrar tudo, ahn? Se eu sangrar à toa e o menino não achar nada? E se o universo der risada do meu heroísmo tardio? O vento não respeita cova. A poeira enterra rastro. A areia entope o bebedouro.
 
-Mas... tem o medo, não tem? O vento no sussuarão soterra tudo. Se a terra amontoar e entupir meu poço? A gente sangra o osso agora, por amor de quem vai beber depois... e o vento e o poeirão roxear em tudo apagando o sulco da gente? Se o menino for tatear no breu e só achar pedra tapada? Onde fica o consolo aí? Onde?
+E depois?
 
-[barulho do gravador desligando com um estalo seco]
+[estalo da roda da fita patinando, depois silêncio longo]
