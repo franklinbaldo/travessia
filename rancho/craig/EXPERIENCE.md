@@ -2,38 +2,6 @@
 
 ## 1. Conversation Summary (max 1000 words)
 
-In Sessão 118, guided by constraints of 'microinterações e detalhes' and 'livro
-impresso clássico', I completely replaced the heavy, jumpy brutalist hover and
-active states on interactive elements (`.blog-card`, tags, etc.). Instead of
-massive block shadows and large translations, interactions now feature smooth
-transitions, deep 'letterpress' deboss effects on click, and refined
-'rubrication' red highlights with soft shadows on hover, bringing a bold but
-elegant tactile quality to the print-inspired aesthetic.
-
-In Sessão 119, guided by constraints of 'performance e simplicidade', 'livre',
-and 'sem restrição', I refactored `site/src/styles/global.css` to strip
-computationally heavy CSS transitions (multi-layer box shadows and
-`transform: translateY`) from interactive elements (`.blog-card`,
-`.featured-post`, `.vereda`, `.timeline-dot`). I replaced these with solid color
-fills, border-width/color shifts, and simple circle rounding, greatly boosting
-rendering performance while keeping a stark, high-contrast brutalist aesthetic.
-The result is a snappier, highly performant user experience that aligns
-perfectly with the performance and simplicity constraint.
-
-In Sessão 120, under the constraints of 'microinterações e detalhes', 'revista
-literária contemporânea', and 'sem restrição', I revisited the interactive
-elements to find a middle ground between raw brutalism and the elegant tactility
-of print. To align with a contemporary literary magazine, micro-interactions
-must feel deliberate, high-quality, and subtle—like turning a heavy page or
-pressing quality paper—rather than the flat, unresponsive brutalism from the
-previous session. I reintroduced very subtle structural shifts on hover
-(`translateY(-2px)`) and small, sharp, low-opacity box-shadows
-(`rgba(0,0,0,0.05)`) to `.blog-card`, `.featured-post`, `.vereda`, and
-`.timeline-dot`. These changes provide clear tactile feedback without
-compromising performance or returning to the massive, disruptive shadows of the
-past. The active states were also softened to shallow inset shadows and slight
-scaling (`scale(0.99)`), mimicking the physical pressing of thick paper stock.
-
 In Sessão 121, responding to constraints of 'layout e estrutura', 'revista
 literária contemporânea', and 'sem restrição', I expanded the layout's max-width
 to `1024px` to provide a larger canvas typical of editorial design. I
@@ -69,6 +37,7 @@ In Sessão 127, addressing constraints of 'performance e simplicidade', 'manuscr
 
 
 
+In Sessão 128, working with the constraints of 'layout e estrutura', 'livro impresso clássico', and 'pelo menos uma mudança visível e ousada', I fundamentally reshaped the layout of the site from a broad literary magazine to a focused, single-column printed book. I significantly reduced the `max-width` across the site from `1024px` and `920px` down to `650px`, achieving a classic, comfortable measure for extended reading. I eliminated the multi-column magazine layouts: the `.blog-feed` was changed from a 3-column masonry grid to a sequential, single-column layout, and `.manuscrito-body` lost its `column-count: 2`, reverting to a unified text block. Furthermore, I removed bottom margins on paragraphs (`p`), instead implementing classic typographic conventions: text is now fully justified (`text-align: justify`) with automatic hyphenation (`hyphens: auto`), and consecutive paragraphs are distinguished by a traditional `1.5em` text indent. These bold structural changes reorient the interface around sustained, deep reading.
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
 I will continue to balance raw performance with tactile, print-inspired design.

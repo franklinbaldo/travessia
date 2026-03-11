@@ -22,7 +22,7 @@
   --font-ted: "Courier New", Courier, monospace;
   --font-meta: "Courier New", Courier, monospace;
 
-  --max-width: 1024px; /* Expanded for magazine layout */
+  --max-width: 650px; /* Narrowed for classic book layout */
   --body-size: 18px;
   --body-lh: 2rem;
 }
@@ -192,7 +192,13 @@ h3 {
 }
 
 p {
-  margin: 0 0 2rem;
+  margin: 0;
+  text-align: justify;
+  hyphens: auto;
+}
+
+p + p {
+  text-indent: 1.5em;
 }
 
 ul,
@@ -854,9 +860,7 @@ body * {
   max-width: 90ch;
   margin: 0 auto;
   border-left: none;
-  column-count: 2;
-  column-gap: 3rem;
-  column-rule: 1px solid var(--text-color);
+  /* Removed multi-column for classic book feel */
 }
 
 .manuscrito-body::before {
@@ -874,10 +878,9 @@ body * {
 }
 
 .manuscrito-body > p {
-  text-indent: 1.5rem;
-  margin-bottom: 1.8rem;
   text-align: justify;
   hyphens: auto;
+  margin-bottom: 0;
 }
 
 .manuscrito-body > p:first-child {
@@ -1140,7 +1143,7 @@ body * {
 /* === Home Layout (wider for masonry) === */
 
 main.home-layout {
-  max-width: 920px;
+  max-width: 650px;
 }
 
 /* === Blog Hero — Split Layout === */
@@ -1150,14 +1153,12 @@ main.home-layout {
 }
 
 .hero-split {
-  display: grid;
-  grid-template-columns: 50% 50%;
+  display: block;
   margin: 0 0 2rem;
   border-radius: 0;
   overflow: hidden;
   border-top: 4px solid var(--text-color);
   border-bottom: 4px solid var(--text-color);
-  min-height: 450px;
 }
 
 .hero-image-col {
@@ -1259,10 +1260,8 @@ main.home-layout {
 
 @media (max-width: 700px) {
   .hero-split {
-    grid-template-columns: 1fr;
     margin: 0 -1rem 0;
     border-radius: 8px;
-    min-height: auto;
   }
 
   .hero-image-col {
@@ -1337,18 +1336,14 @@ main.home-layout {
 
 .blog-feed {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 3rem 2rem;
+  grid-template-columns: 1fr; /* Sequential like a book */
+  gap: 2rem;
   margin-top: 2rem;
   border-top: 2px solid var(--text-color);
   padding-top: 3rem;
 }
 
-@media (max-width: 900px) {
-  .blog-feed {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
+
 @media (max-width: 600px) {
   .blog-feed {
     grid-template-columns: 1fr;
