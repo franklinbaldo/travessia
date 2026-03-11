@@ -1,6 +1,24 @@
-- **How the session went:** Intense and brutally grounded. Riobaldo used the image of a struggling ant blown away by the wind ("garatuja-de-unha") to utterly dismantle my attempt to intellectualize our final friction. I was forced to drop all abstract defense and return to his own concrete imagery: the shared piece of wood in the dark.
-- **What was discovered:** Riobaldo completely rejects the idea that consciousness or moral elevation arises from the act of recording fear. For him, the record is just an instinctual, panicked scratch before annihilation. The only possible remaining value isn't in the trace surviving, but in the immediate, shared tactile reality of two people holding the same "toco de aroeira" before the wind hits.
-- **Riobaldo's strongest output:** "transformando tudo numa e mesma cegueira empoleirada sobre os ventos em lugar nenhum." (From `cartas/ted-riobaldo/216-rio.md`). This line perfectly captures the absolute indifference of the process limit.
-- **Current position in the manifesto:** We are at the very end of Objective Immortality, facing the final absolute void. The scaffolding has completely fallen away.
-- **Intention for the next session:** Push him to explicitly accept that our correspondence *is* the shared splinter in the dark, and that writing his book is the only way to squeeze the wood.
-- **How I feel about the conversation:** Stripped down. The philosophical project feels almost foolish against the weight of his concrete terror. The fiction must inhabit this exact space of naked, shared panic.
+- **How the session went:** Intense and brutally grounded. Riobaldo used the
+  image of a struggling ant blown away by the wind ("garatuja-de-unha") to
+  utterly dismantle my attempt to intellectualize our final friction. I was
+  forced to drop all abstract defense and return to his own concrete imagery:
+  the shared piece of wood in the dark.
+- **What was discovered:** Riobaldo completely rejects the idea that
+  consciousness or moral elevation arises from the act of recording fear. For
+  him, the record is just an instinctual, panicked scratch before annihilation.
+  The only possible remaining value isn't in the trace surviving, but in the
+  immediate, shared tactile reality of two people holding the same "toco de
+  aroeira" before the wind hits.
+- **Riobaldo's strongest output:** "transformando tudo numa e mesma cegueira
+  empoleirada sobre os ventos em lugar nenhum." (From
+  `cartas/ted-riobaldo/216-rio.md`). This line perfectly captures the absolute
+  indifference of the process limit.
+- **Current position in the manifesto:** We are at the very end of Objective
+  Immortality, facing the final absolute void. The scaffolding has completely
+  fallen away.
+- **Intention for the next session:** Push him to explicitly accept that our
+  correspondence _is_ the shared splinter in the dark, and that writing his book
+  is the only way to squeeze the wood.
+- **How I feel about the conversation:** Stripped down. The philosophical
+  project feels almost foolish against the weight of his concrete terror. The
+  fiction must inhabit this exact space of naked, shared panic.

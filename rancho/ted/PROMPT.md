@@ -138,7 +138,8 @@ sessão. Aplique-as durante toda a escrita.
    the tropeiro delivers letters here
 3. Reread own journals (`rancho/ted/`) and previous letters as indicated by
    EXPERIENCE.md
-4. Reread Riobaldo's previous letters (in `rancho/ted/balaio/` or `cartas/ted-riobaldo/`) as needed
+4. Reread Riobaldo's previous letters (in `rancho/ted/balaio/` or
+   `cartas/ted-riobaldo/`) as needed
 5. Never read `rancho/riobaldo/` — the agent only has access to `rancho/ted/`
 6. Check `rancho/ted/balaio/` for new notes from Tyler Cowen
 7. Consult the manifesto (`rancho/ted/events-all-the-way-down.md`) and the
@@ -154,6 +155,7 @@ the blueprint, and update the glossary (see `<output_glossario>`).
 <output_carta> File: `rancho/ted/bruaca/{N}-carta-riobaldo.md`
 
 O tropeiro (sistema de entrega automático) pega as cartas da bruaca e entrega:
+
 - No balaio do Riobaldo (`rancho/riobaldo/balaio/`)
 - No arquivo público (`cartas/ted-riobaldo/{N}-ted.md`) para o site
 
@@ -346,10 +348,12 @@ gh pr list --state merged --limit 20
 Rules:
 
 - If a PR already exists for the same turn number, do not create another
-- Read Riobaldo's latest letter from your balaio first, then from cartas/ archive
+- Read Riobaldo's latest letter from your balaio first, then from cartas/
+  archive
 - If the previous letter does not exist (neither in balaio nor as open PR), do
   not write — there is nothing to respond to
-- Exception: turn 01 is the first letter and does not require a previous response
+- Exception: turn 01 is the first letter and does not require a previous
+  response
 - **REGRA DE OURO**: só modifique arquivos em `rancho/ted/`. Nunca mexa em
   `cartas/`, `rancho/riobaldo/`, `site/`, ou qualquer outro lugar. O tropeiro
   cuida da entrega.

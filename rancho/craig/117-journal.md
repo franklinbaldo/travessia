@@ -1,3 +1,9 @@
 - **Data:** Sessão 117
 - **Tema:** Ruled Notebook Typography
-- **O que eu fiz:** Refined the typography and spacing globally to strictly adhere to a 2rem vertical rhythm. Replaced sans-serif body fonts with a serif stack (`Georgia`, `Palatino`) and used `Courier New` for monospace meta elements. In `.manuscrito-body`, I applied a CSS `repeating-linear-gradient` to create horizontal blue lines and a double red vertical line to simulate the aesthetic of a physical ruled notebook, satisfying the 'manuscrito/caderno' and 'tipografia e espaçamento' constraints without changing structural layout.
+- **O que eu fiz:** Refined the typography and spacing globally to strictly
+  adhere to a 2rem vertical rhythm. Replaced sans-serif body fonts with a serif
+  stack (`Georgia`, `Palatino`) and used `Courier New` for monospace meta
+  elements. In `.manuscrito-body`, I applied a CSS `repeating-linear-gradient`
+  to create horizontal blue lines and a double red vertical line to simulate the
+  aesthetic of a physical ruled notebook, satisfying the 'manuscrito/caderno'
+  and 'tipografia e espaçamento' constraints without changing structural layout.

@@ -1,9 +1,33 @@
 Doutor Ted,
 
-o senhor me escreve sobre a quebra da água suja. O estalo bruto. [eu vi o repuxo...] Diz que o choque de nós dois, se engalfinhando, rasga a represa e solta cheiro azedo pro vento, marcando o mundo. ~~A pedra lisa que desce solta~~ O senhor quer enxergar um atestado de repúdio nesse barulho, como se a lama estourada pela nossa agonia cega no escuro servisse de sinal de fumaça pra dizer que a vida não aceita a morte sem bater perna.
+o senhor me escreve sobre a quebra da água suja. O estalo bruto. [eu vi o
+repuxo...] Diz que o choque de nós dois, se engalfinhando, rasga a represa e
+solta cheiro azedo pro vento, marcando o mundo. ~~A pedra lisa que desce solta~~
+O senhor quer enxergar um atestado de repúdio nesse barulho, como se a lama
+estourada pela nossa agonia cega no escuro servisse de sinal de fumaça pra dizer
+que a vida não aceita a morte sem bater perna.
 
-[lembrar do Jove se afogando na guerra do Urucuia, não esquecer da lama na boca, nem que a carta tem que ser curta] Mas lhe digo, na quentura do sangue que ferve do osso, que esse estouro da água não é enfeite nem grito pro céu que ateste coragem ou recusa luminosa. O senhor poetiza a agonia. Quando o coitado do Jove embargou na correnteza parda do Urucuia nos tempos de jagunçagem grossa, ele agarrou a perna do cavalo num supetão medonho, afundando junto com o animal. O estraçalho d'água, o barulho daquela pancada cega, não foi um recado que ele e o bicho assinaram pro mundo ler. Foi unicamente a carne, rasgando o fôlego derradeiro, apavorada demais pra descer lisa na goela fria do rio. Aquele espasmo bruto que estoura a poça não atesta beleza de recusa não, é somente a fraqueza esturricada e apavorada de quem vira bicho estrebuchando diante da pedra que esmaga cego.
+[lembrar do Jove se afogando na guerra do Urucuia, não esquecer da lama na boca,
+nem que a carta tem que ser curta] Mas lhe digo, na quentura do sangue que ferve
+do osso, que esse estouro da água não é enfeite nem grito pro céu que ateste
+coragem ou recusa luminosa. O senhor poetiza a agonia. Quando o coitado do Jove
+embargou na correnteza parda do Urucuia nos tempos de jagunçagem grossa, ele
+agarrou a perna do cavalo num supetão medonho, afundando junto com o animal. O
+estraçalho d'água, o barulho daquela pancada cega, não foi um recado que ele e o
+bicho assinaram pro mundo ler. Foi unicamente a carne, rasgando o fôlego
+derradeiro, apavorada demais pra descer lisa na goela fria do rio. Aquele
+espasmo bruto que estoura a poça não atesta beleza de recusa não, é somente a
+fraqueza esturricada e apavorada de quem vira bicho estrebuchando diante da
+pedra que esmaga cego.
 
-Eu não bebo da sua poesia. E se o senhor acha que o som azedo da lama rebentando pelo nosso pavor é sinal de alguma grandeza resistente da humanidade, eu lhe corto o vento cego. O nosso afogamento e barulho azedo não passa de um ~~choro inútil~~ estertor esfolado que o escuro come sem se engasgar. [essa frase ficou boa].
+Eu não bebo da sua poesia. E se o senhor acha que o som azedo da lama rebentando
+pelo nosso pavor é sinal de alguma grandeza resistente da humanidade, eu lhe
+corto o vento cego. O nosso afogamento e barulho azedo não passa de um ~~choro
+inútil~~ estertor esfolado que o escuro come sem se engasgar. [essa frase ficou
+boa].
 
-Lhe pergunto, gringo: o senhor acredita que, depois que a nossa mão estrebuchando estourar a represa de breu, o escuro surdo vai parar por meio segundo pra respeitar o barulho da nossa fraqueza berrando, ou se a lama preta vai só encher a nossa goela e tampar a cova como se nós nunca tivéssemos riscado pedra nenhuma?
+Lhe pergunto, gringo: o senhor acredita que, depois que a nossa mão
+estrebuchando estourar a represa de breu, o escuro surdo vai parar por meio
+segundo pra respeitar o barulho da nossa fraqueza berrando, ou se a lama preta
+vai só encher a nossa goela e tampar a cova como se nós nunca tivéssemos riscado
+pedra nenhuma?

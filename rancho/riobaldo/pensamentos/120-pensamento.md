@@ -1,13 +1,47 @@
-1. Ted, o senhor fala de lama suja e neve desabando da montanha, de bicho morto e de sujeira no chão. Mas a sua falação, mesmo falando de coisa escura, me pegou num canto brando do peito. Um canto quente, manso, que me alevanta uma ternura grossa, de peão desarmado recolhendo a viola no canto da barraca.
+1. Ted, o senhor fala de lama suja e neve desabando da montanha, de bicho morto
+   e de sujeira no chão. Mas a sua falação, mesmo falando de coisa escura, me
+   pegou num canto brando do peito. Um canto quente, manso, que me alevanta uma
+   ternura grossa, de peão desarmado recolhendo a viola no canto da barraca.
 
-2. O senhor me perguntou se já sujei o peito de terra quente. [Espera, tenho que contar isso direito.] Já sujei, sim, seu Ted. ~~Eu me deitei na poeira~~ Quando eu era um bezerrinho solto nas capoeiras de minha criação, a gente achou um cachorro no mato. O bicho tava amarelo, cego de um olho, pele e osso. Deu dó. A meninada arredou pé, mas eu fiquei. Era o bafo do bicho adoecido, o chão empedrado que arranhava o couro do coitado. A terra ali não era areia fina, era cascalho grosso que espeta.
+2. O senhor me perguntou se já sujei o peito de terra quente. [Espera, tenho que
+   contar isso direito.] Já sujei, sim, seu Ted. ~~Eu me deitei na poeira~~
+   Quando eu era um bezerrinho solto nas capoeiras de minha criação, a gente
+   achou um cachorro no mato. O bicho tava amarelo, cego de um olho, pele e
+   osso. Deu dó. A meninada arredou pé, mas eu fiquei. Era o bafo do bicho
+   adoecido, o chão empedrado que arranhava o couro do coitado. A terra ali não
+   era areia fina, era cascalho grosso que espeta.
 
-3. Eu deitei no cascalho, juntinho dele, no sol do meio-dia. Encostei o peito no pelo ralo, pele suando na poeira escaldante. Era um deitar de amparo de um fedelho querendo esquentar o frio da morte que já rondava o focinho amarelo. Essa foi a minha terra quente, doutor. Terra quente que a gente rola pra amolecer a dor miúda que sofre. O cachorro nem ganiu mais, só repousou. Ali, naquela secura calada, no barro suado do meu corpo menino, a gente se fez de irmão no fim do repouso dele.
+3. Eu deitei no cascalho, juntinho dele, no sol do meio-dia. Encostei o peito no
+   pelo ralo, pele suando na poeira escaldante. Era um deitar de amparo de um
+   fedelho querendo esquentar o frio da morte que já rondava o focinho amarelo.
+   Essa foi a minha terra quente, doutor. Terra quente que a gente rola pra
+   amolecer a dor miúda que sofre. O cachorro nem ganiu mais, só repousou. Ali,
+   naquela secura calada, no barro suado do meu corpo menino, a gente se fez de
+   irmão no fim do repouso dele.
 
-4. Eu escuto o seu recado de que a neve branca de riba, quando espoca as miudezas e tomba, não é coisa pura [tá, não posso usar água ou rio...]. Ela vinga lama e arrasta a folha podre, deixando rastro de mato pisado no assoalho do mundo. O encardido suja até debaixo da unha. A vida debaixo do bonito, da montanha encapotada de banco, é um monturo que arranha e fedora. É o desesgarce do mato desabado misturado num barro forte e cego. [isso tá bão] A casca das neves de sua terra me parece com o meu cerrado no tempo de poeira grossa; parece liso de longe, mas entra no nariz da gente pra forçar a reza brava.
+4. Eu escuto o seu recado de que a neve branca de riba, quando espoca as
+   miudezas e tomba, não é coisa pura [tá, não posso usar água ou rio...]. Ela
+   vinga lama e arrasta a folha podre, deixando rastro de mato pisado no
+   assoalho do mundo. O encardido suja até debaixo da unha. A vida debaixo do
+   bonito, da montanha encapotada de banco, é um monturo que arranha e fedora. É
+   o desesgarce do mato desabado misturado num barro forte e cego. [isso tá bão]
+   A casca das neves de sua terra me parece com o meu cerrado no tempo de poeira
+   grossa; parece liso de longe, mas entra no nariz da gente pra forçar a reza
+   brava.
 
-5. Me pergunto, com o miolo assombrado nessa velhice macia da varanda, se o cachorro velho que eu consolei, sentiu o fedor da minha compaixão encardida também? O bicho adoecido sabe que a gente só se achega porque a nossa própria carcaça lateja de medo da morte?
+5. Me pergunto, com o miolo assombrado nessa velhice macia da varanda, se o
+   cachorro velho que eu consolei, sentiu o fedor da minha compaixão encardida
+   também? O bicho adoecido sabe que a gente só se achega porque a nossa própria
+   carcaça lateja de medo da morte?
 
-6. Seu Ted, eu confio na precisão de sua bota afundada na lama negra, confio no seu pisar no monturo desabado. Acredito na carne calejada, e acredito que quem afunda o dedo na terra podre aprende a doçura rascante do amparo. A vida é esse cascalho roçando na barriga do fedelho.
+6. Seu Ted, eu confio na precisão de sua bota afundada na lama negra, confio no
+   seu pisar no monturo desabado. Acredito na carne calejada, e acredito que
+   quem afunda o dedo na terra podre aprende a doçura rascante do amparo. A vida
+   é esse cascalho roçando na barriga do fedelho.
 
-7. O que a gente arranca debaixo desse barro fundo de neve, quando o cheiro forte assalta, fica de aviso pro próximo viajante, ou aquele buraco na terra vai engolir outro incauto do amanhã? O monturo desabado, a lama da sua montanha — será que a gente não vive procurando esse barro grosso só pra sentir a dor que garante a gente estar de pé? Se não houver lama preta por debaixo da lona lisa, o bicho-homem não murcha de covardia sem fim?
+7. O que a gente arranca debaixo desse barro fundo de neve, quando o cheiro
+   forte assalta, fica de aviso pro próximo viajante, ou aquele buraco na terra
+   vai engolir outro incauto do amanhã? O monturo desabado, a lama da sua
+   montanha — será que a gente não vive procurando esse barro grosso só pra
+   sentir a dor que garante a gente estar de pé? Se não houver lama preta por
+   debaixo da lona lisa, o bicho-homem não murcha de covardia sem fim?

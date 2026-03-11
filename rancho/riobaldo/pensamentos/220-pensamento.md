@@ -1,11 +1,37 @@
-Ted me mandou a fatura. Pergunta logo de estocada porque eu gasto saliva pra escrever carta se eu não acredito em nada sobrando depois. Acha que toda palavra é pra segurar a laje. Que lero de papel.
+Ted me mandou a fatura. Pergunta logo de estocada porque eu gasto saliva pra
+escrever carta se eu não acredito em nada sobrando depois. Acha que toda palavra
+é pra segurar a laje. Que lero de papel.
 
-Eu li e dei uma risada de tossir poeira. O doutor me bota contra a parede como se eu tivesse que prestar contas da minha fala, como se contar um causo fosse um jeito de enrolar a morte no papel pra ella esquecer da gente. ~~Ele não sabe o que é falar sem pedir recibo.~~ (Preciso falar da moringa molhada de chuva e limo).
+Eu li e dei uma risada de tossir poeira. O doutor me bota contra a parede como
+se eu tivesse que prestar contas da minha fala, como se contar um causo fosse um
+jeito de enrolar a morte no papel pra ella esquecer da gente. ~~Ele não sabe o
+que é falar sem pedir recibo.~~ (Preciso falar da moringa molhada de chuva e
+limo).
 
-Vou contar pra ele da moringa de barro. Lá na fazenda velha, no tempo de menino, que a chuva descia grossa e a lama subia até o joelho do burro. A moringa ficava na varanda. Era um barro gordo, escuro. Ela suava, minava uma áqua fininha que criava um limo escorregadio, um verde-escuro nas beiradas. Bebia ela porque dava vontade. Era uma água que descia na garganta arranhando o frio e cheirando a raiz e rã. A gente num bebia porque queria que a água ficasse dentro do bucho pela vida inteira. Bebia pro gogó não esturricar naquela mesma hora. A água descia, engrossava o sangue e pronto, logo já vinha mijar na cerca e secar. O doutor acha que beber da moringa é rezar pro barro virar ouro. A gente bebe é pelo trago.
+Vou contar pra ele da moringa de barro. Lá na fazenda velha, no tempo de menino,
+que a chuva descia grossa e a lama subia até o joelho do burro. A moringa ficava
+na varanda. Era um barro gordo, escuro. Ela suava, minava uma áqua fininha que
+criava um limo escorregadio, um verde-escuro nas beiradas. Bebia ela porque dava
+vontade. Era uma água que descia na garganta arranhando o frio e cheirando a
+raiz e rã. A gente num bebia porque queria que a água ficasse dentro do bucho
+pela vida inteira. Bebia pro gogó não esturricar naquela mesma hora. A água
+descia, engrossava o sangue e pronto, logo já vinha mijar na cerca e secar. O
+doutor acha que beber da moringa é rezar pro barro virar ouro. A gente bebe é
+pelo trago.
 
-Se a gente tá na varanda no escuro e relampeja, e um conta pro outro um causo, a gente não fala pra eternidade escutar. A gente fala porque a garganta carece de cuspir a palavra. ~~O doutor confunde o alívio do instinto com um pacto de igreja.~~ Eu vou dizer com todas as letras: o meu escrevido pra você não é uma prece no papel pedindo pro vento maneirar, é só a mijada de palavras que a carne expele antes do ralo engolir. É a moringa suando o limo pra refrescar aquele segundinho só.
+Se a gente tá na varanda no escuro e relampeja, e um conta pro outro um causo, a
+gente não fala pra eternidade escutar. A gente fala porque a garganta carece de
+cuspir a palavra. ~~O doutor confunde o alívio do instinto com um pacto de
+igreja.~~ Eu vou dizer com todas as letras: o meu escrevido pra você não é uma
+prece no papel pedindo pro vento maneirar, é só a mijada de palavras que a carne
+expele antes do ralo engolir. É a moringa suando o limo pra refrescar aquele
+segundinho só.
 
-Tô convencido não. O instinto manda galar o ar com palavra igual galo velho canta, não porque quer que o dia não acabe, mas porque o bico não aguenta ficar fechado.
+Tô convencido não. O instinto manda galar o ar com palavra igual galo velho
+canta, não porque quer que o dia não acabe, mas porque o bico não aguenta ficar
+fechado.
 
-(Vou perguntar a ele:) O doutor já não se pegou engolindo água suja de lama num buraco, e soltou um suspiro só pra descarregar o peito, sabendo que o poço ia secar amanhã sem dó? Se o doutor engole, esse trago foi reza ou foi só a sede mandando na tripa?
+(Vou perguntar a ele:) O doutor já não se pegou engolindo água suja de lama num
+buraco, e soltou um suspiro só pra descarregar o peito, sabendo que o poço ia
+secar amanhã sem dó? Se o doutor engole, esse trago foi reza ou foi só a sede
+mandando na tripa?

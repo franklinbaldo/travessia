@@ -17,7 +17,7 @@ const { prev, next, backUrl, backLabel } = Astro.props;
 const isRich = !!(prev?.autor || next?.autor);
 ---
 
-<nav class="footer-nav" aria-label="Navegação da postagem">
+<nav class="footer-nav">
   {
     backUrl ? (
       <a href={backUrl}>&larr; {backLabel}</a>
@@ -25,7 +25,7 @@ const isRich = !!(prev?.autor || next?.autor);
       <>
         {prev ? (
           isRich ? (
-            <a href={prev.url} class="footer-nav-link prev" rel="prev">
+            <a href={prev.url} class="footer-nav-link prev">
               <span class="footer-nav-dir">&larr; Anterior</span>
               {prev.autor && (
                 <span class={`footer-nav-autor autor-${prev.autorClasse}`}>
@@ -37,7 +37,7 @@ const isRich = !!(prev?.autor || next?.autor);
               )}
             </a>
           ) : (
-            <a href={prev.url} title={prev.title} rel="prev">
+            <a href={prev.url} title={prev.title}>
               &larr; Anterior
             </a>
           )
@@ -46,7 +46,7 @@ const isRich = !!(prev?.autor || next?.autor);
         )}
         {next ? (
           isRich ? (
-            <a href={next.url} class="footer-nav-link next" rel="next">
+            <a href={next.url} class="footer-nav-link next">
               <span class="footer-nav-dir">Pr&oacute;ximo &rarr;</span>
               {next.autor && (
                 <span class={`footer-nav-autor autor-${next.autorClasse}`}>
@@ -58,7 +58,7 @@ const isRich = !!(prev?.autor || next?.autor);
               )}
             </a>
           ) : (
-            <a href={next.url} title={next.title} rel="next">
+            <a href={next.url} title={next.title}>
               Pr&oacute;ximo &rarr;
             </a>
           )

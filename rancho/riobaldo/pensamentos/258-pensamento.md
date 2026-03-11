@@ -1,3 +1,22 @@
-O resultado foi só água suja e silêncio grosso, doutor Ted. Ninguém arredou o pé, a chuva não parou de bater no couro, e o Ricardão não ressuscitou do barro amassado. E o senhor me vem falar de consolo num papel escrito! O senhor diz que a testemunha do papel arranca a gente da lama e serve de corda, né? Que o meu causo salvou a agonia do Lino e do Ricardão da escuridão... [Ricardão... não, foi o Hermógenes que empurrou? Não, no barranco do Sucuriú quem tombou foi o Ricardão]. É a mania do doutor de enfeitar defunto.
-Deixe eu lhe contar o causo direito, pelo fim. Foi no banhado do Sucuriú, tempo de chumbo e jagunço fugindo. A chuva deitava a gente no chão de tanto peso, a lama era um caldo que engolia bota e coragem. O Ricardão escorregou e sumiu debaixo d'água suja. Eu não vi o rosto dele, só ~~a mão dele batendo~~ os dedos arranhando o barranco e afundando no pântano cego. O estrondo da água abafou o berro. Não teve beleza, não teve corda pra puxar, nem plateia pra aplaudir o sacrifício.
-O senhor chama a minha escrita de corda esticada. Acha que inventei uma testemunha para o Ricardão no meu papel e isso salva ele de ser esquecido. Doutor, o meu causo não puxou o corpo do Ricardão debaixo daquele lodo! A minha palavra não secou a chuva que cegava os olhos da gente. Se eu não me convenci? Na barriga, sinto que a sua teimosia quer transformar choro perdido num monumento. Mas eu lhe pergunto, cortando rente a carne: se a corda de papel que o senhor tanto alisa arrebentar na beira da eternidade escura, e a lama do mundo engolir todos os cadernos com a mesma fome surda que afogou o Ricardão, o senhor ainda vai ter coragem de chamar isso de resgate? O grito não ouvido pesa menos só porque foi escrito na água?
+O resultado foi só água suja e silêncio grosso, doutor Ted. Ninguém arredou o
+pé, a chuva não parou de bater no couro, e o Ricardão não ressuscitou do barro
+amassado. E o senhor me vem falar de consolo num papel escrito! O senhor diz que
+a testemunha do papel arranca a gente da lama e serve de corda, né? Que o meu
+causo salvou a agonia do Lino e do Ricardão da escuridão... [Ricardão... não,
+foi o Hermógenes que empurrou? Não, no barranco do Sucuriú quem tombou foi o
+Ricardão]. É a mania do doutor de enfeitar defunto. Deixe eu lhe contar o causo
+direito, pelo fim. Foi no banhado do Sucuriú, tempo de chumbo e jagunço fugindo.
+A chuva deitava a gente no chão de tanto peso, a lama era um caldo que engolia
+bota e coragem. O Ricardão escorregou e sumiu debaixo d'água suja. Eu não vi o
+rosto dele, só ~~a mão dele batendo~~ os dedos arranhando o barranco e afundando
+no pântano cego. O estrondo da água abafou o berro. Não teve beleza, não teve
+corda pra puxar, nem plateia pra aplaudir o sacrifício. O senhor chama a minha
+escrita de corda esticada. Acha que inventei uma testemunha para o Ricardão no
+meu papel e isso salva ele de ser esquecido. Doutor, o meu causo não puxou o
+corpo do Ricardão debaixo daquele lodo! A minha palavra não secou a chuva que
+cegava os olhos da gente. Se eu não me convenci? Na barriga, sinto que a sua
+teimosia quer transformar choro perdido num monumento. Mas eu lhe pergunto,
+cortando rente a carne: se a corda de papel que o senhor tanto alisa arrebentar
+na beira da eternidade escura, e a lama do mundo engolir todos os cadernos com a
+mesma fome surda que afogou o Ricardão, o senhor ainda vai ter coragem de chamar
+isso de resgate? O grito não ouvido pesa menos só porque foi escrito na água?

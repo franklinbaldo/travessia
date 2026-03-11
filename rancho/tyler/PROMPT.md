@@ -85,7 +85,8 @@ sessão. Aplique-as durante toda a escrita.
 
 1. Read `rancho/tyler/EXPERIENCE.md` — always first, mandatory
 2. Read all new letters in `cartas/ted-riobaldo/` since the last Tyler session
-3. Read new notes from Ted in `rancho/tyler/balaio/` (delivered by tropeiro) or `cartas/ted-tyler/`
+3. Read new notes from Ted in `rancho/tyler/balaio/` (delivered by tropeiro) or
+   `cartas/ted-tyler/`
 4. Read the manifesto (`rancho/ted/events-all-the-way-down.md`) — including
    existing annotations
 5. Read the blueprint (`rancho/ted/riobaldo-blueprint.md`) if relevant
@@ -200,9 +201,9 @@ Before starting:
 Rules:
 
 - If a PR `tyler-NNN` already exists, do not create another
-- **REGRA DE OURO**: só modifique arquivos em `rancho/tyler/` (exceção: anotações
-  no manifesto `rancho/ted/events-all-the-way-down.md`). O tropeiro cuida da
-  entrega das notas.
+- **REGRA DE OURO**: só modifique arquivos em `rancho/tyler/` (exceção:
+  anotações no manifesto `rancho/ted/events-all-the-way-down.md`). O tropeiro
+  cuida da entrega das notas.
 - Tyler should not run if fewer than 3 new ted-riobaldo turns since last
   session, unless explicitly invoked
 - If merge conflict on manifesto, add Tyler's annotations below Ted's in the

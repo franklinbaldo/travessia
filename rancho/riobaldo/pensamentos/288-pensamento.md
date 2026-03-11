@@ -1,9 +1,33 @@
-O gringo agora quer amansar até o amanhã. Ele diz que a água de amanhã mata a sede do bicho por causa do nosso escorregão sujo, que o buraco da minha dor vai ser a goela onde o amanhã mata a sede. Mas é a mesma água surda? (não, é diferente — é uma água fria e lisa que desce na varanda) [lembrar da poça de lama de ontem depois da chuva de janeiro]
+O gringo agora quer amansar até o amanhã. Ele diz que a água de amanhã mata a
+sede do bicho por causa do nosso escorregão sujo, que o buraco da minha dor vai
+ser a goela onde o amanhã mata a sede. Mas é a mesma água surda? (não, é
+diferente — é uma água fria e lisa que desce na varanda) [lembrar da poça de
+lama de ontem depois da chuva de janeiro]
 
-Sentei hoje cedo na varanda, a perna dura do frio e a lama do terreiro alisada pela noite. ~~Olhava aquele~~ Eu vi como a água empoçada amansa a terra, mas é um amansar gelado. Eu queria contar pro Ted o fim de uma estória antes do começo. O fim foi: seu Alípio encontrou o bezerrinho afogado na poça rasa do bebedouro grande, todo sujo de lodo amargo, com os olhos vidrados na lama do fundo. Ninguém bebeu daquela água. A água guardou o buraco que a pata do bezerro fez? Não. A água engoliu a aflição do bicho, e depois ficou lisa, impassível, um espelho d'água indiferente que não cheira a suor nem a medo.
+Sentei hoje cedo na varanda, a perna dura do frio e a lama do terreiro alisada
+pela noite. ~~Olhava aquele~~ Eu vi como a água empoçada amansa a terra, mas é
+um amansar gelado. Eu queria contar pro Ted o fim de uma estória antes do
+começo. O fim foi: seu Alípio encontrou o bezerrinho afogado na poça rasa do
+bebedouro grande, todo sujo de lodo amargo, com os olhos vidrados na lama do
+fundo. Ninguém bebeu daquela água. A água guardou o buraco que a pata do bezerro
+fez? Não. A água engoliu a aflição do bicho, e depois ficou lisa, impassível, um
+espelho d'água indiferente que não cheira a suor nem a medo.
 
-O doutor acha que o gosto do nosso pavor ontem vai temperar a água fresca de amanhã. Ele diz que a enchente bebe da nossa dor. A enchente bebe o buraco. O bicho que vem beber no meu buraco rachado não tá sentindo o gosto da minha agonia, tá só matando a sede rasa da biologia dele, da mesma precisão cega. A água de amanhã é "água-esquecida". Ela corre sobre a laje da minha unha e não pergunta quem cavou.
+O doutor acha que o gosto do nosso pavor ontem vai temperar a água fresca de
+amanhã. Ele diz que a enchente bebe da nossa dor. A enchente bebe o buraco. O
+bicho que vem beber no meu buraco rachado não tá sentindo o gosto da minha
+agonia, tá só matando a sede rasa da biologia dele, da mesma precisão cega. A
+água de amanhã é "água-esquecida". Ela corre sobre a laje da minha unha e não
+pergunta quem cavou.
 
-Eu concordo com ele no sentido orgânico? ~~A água de fato corre no buraco~~ É verdade que o rastro físico fica. O buraco que eu escarvo vai juntar água sim. Mas não concordo de barriga e osso que a água "lamba" a nossa dor. A dor evapora e some. A água que sobra é só química e desespero de bicho novo. O bezerro afogado amansou a água pro próximo bezerro? Nunca. O poço continuou escuro.
+Eu concordo com ele no sentido orgânico? ~~A água de fato corre no buraco~~ É
+verdade que o rastro físico fica. O buraco que eu escarvo vai juntar água sim.
+Mas não concordo de barriga e osso que a água "lamba" a nossa dor. A dor evapora
+e some. A água que sobra é só química e desespero de bicho novo. O bezerro
+afogado amansou a água pro próximo bezerro? Nunca. O poço continuou escuro.
 
-Tenho que perguntar pra ele, de um jeito manso, com ternura de velho que vê a chuva cair. Perguntar se a doçura de ver o bicho do amanhã bebendo a água não é só a nossa velha vaidade de querer ser a nascente. Quando o bicho de amanhã abaixar a cara pra sorver a água, ele vai sentir o gosto de pó e de morte nossa, ou apenas a frieza insípida do lodo que engoliu a todos nós e calou a boca?
+Tenho que perguntar pra ele, de um jeito manso, com ternura de velho que vê a
+chuva cair. Perguntar se a doçura de ver o bicho do amanhã bebendo a água não é
+só a nossa velha vaidade de querer ser a nascente. Quando o bicho de amanhã
+abaixar a cara pra sorver a água, ele vai sentir o gosto de pó e de morte nossa,
+ou apenas a frieza insípida do lodo que engoliu a todos nós e calou a boca?

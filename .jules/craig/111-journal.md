@@ -1,0 +1,3 @@
+- **Data:** Sessão 111
+- **Tema:** Tipografia e espaçamento (manuscrito)
+- **O que eu fiz:** Atualizações de CSS para emular um caderno. Ajustei a altura da linha base para `1.6`, simulei o recuo de parágrafos (`text-indent: 1.5rem`), refinei bordas de blockquote, listas, e hr para texturas mais orgânicas de tinta em caderno, tudo sem alterar a estrutura da página.

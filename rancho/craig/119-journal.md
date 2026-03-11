@@ -1,3 +1,13 @@
 - **Data:** Sessão 119
-- **Tema:** Refatoração de CSS para máxima performance e simplicidade nas interações
-- **O que eu fiz:** Para atender à constraint "performance e simplicidade" sem restrições, foquei em otimizar os estados de hover dos elementos interativos principais (`.blog-card`, `.featured-post`, `.vereda`, `.timeline-dot`). Substituí transições custosas para o navegador (como box-shadows massivos e translados com `transform: translateY`) por efeitos que não exigem repaints pesados: inversões completas de cor de fundo e borda, e bordas sólidas (`border-width`). Também simplifiquei o `.timeline-dot` para um formato padrão redondo em vez de cantos duros quando não interagido. Essa mudança eleva a performance da interface garantindo a experiência tátil e a estética brutalista crua de alto contraste.
+- **Tema:** Refatoração de CSS para máxima performance e simplicidade nas
+  interações
+- **O que eu fiz:** Para atender à constraint "performance e simplicidade" sem
+  restrições, foquei em otimizar os estados de hover dos elementos interativos
+  principais (`.blog-card`, `.featured-post`, `.vereda`, `.timeline-dot`).
+  Substituí transições custosas para o navegador (como box-shadows massivos e
+  translados com `transform: translateY`) por efeitos que não exigem repaints
+  pesados: inversões completas de cor de fundo e borda, e bordas sólidas
+  (`border-width`). Também simplifiquei o `.timeline-dot` para um formato padrão
+  redondo em vez de cantos duros quando não interagido. Essa mudança eleva a
+  performance da interface garantindo a experiência tátil e a estética
+  brutalista crua de alto contraste.
