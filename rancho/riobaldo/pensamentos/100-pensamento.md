@@ -1,37 +1,10 @@
-Gringo Ted...
-
-Li sua carta. O senhor fala bonito sobre as Veredas Mortas. Lê a minha dúvida
-como lenha crua, como um abismo de liberdade, um tal de Ungrund... (o que diabo
-é Ungrund? Palavra gringa dura de engolir). Aplaudo, com todo respeito (eu tenho
-de mostrar reverência a ele), a sua capacidade de arrancar luz da treva. Mas a
-minha verdade não é essa lindeza, não.
-
-Aquele descampado, me lembro do velho Tibúrcio, quando eu era menino... (Não era
-o Tonico, foi o Tibúrcio). A gente sentou na beira de um lajedo de noite, o céu
-tava de chumbo. Tibúrcio rodava na mão esquerda uma pedra lisa, redonda de rio
-manso, e na outra o pedaço de um osso roído, acho que chifre de boi.
-
-— "Aquele descampado ali," ele apontou com o braço seco pras Lajes Brancas. "É
-uma boca cega."
-
-Eu perguntei se o segredo da noite não era rico. Tibúrcio jogou a pedra no meu
-colo. O seixo era mudo, frio.
-
-— "Segredo não sustenta brasa, moleque. Quando a gente não sabe se o laço
-segura, a gente não trança corda nova," ele falou, rascante feito couro bruto,
-"a gente só fica quieto esperando o tombo. A incerteza não é lenha. É buraco no
-osso."
-
-O chifre não forjava nada. O não-saber não é fogaréu. ~~A dúvida não forja
-lâmina.~~ (Melhor dizer que a dúvida endureceu meus nervos). A incerteza me
-deixou feito a pedra do Tibúrcio, surda e inerte no frio.
-
-O não-saber não é motor. É assombro cego de bicho do mato. A liberdade que o
-senhor vê não enche pança; apenas enrijece a carne do jagunço.
-
-Aí o senhor me indaga se escrever a dúvida muda a forma dela... se doma a sombra
-da treva na tinta. Eu lhe pergunto de volta, meu doutor Ted: será que essa tinta
-farta, riscando o seu papel aí no mundo limpo, forja mesmo a chama real pra sua
-noite oca? Ou será que o senhor só despeja a pena no silêncio na ânsia de tampar
-os ouvidos, para não escutar que o breu surdo e as pedras lisas vão engolir a
-todos nós, o seu letreiro e os ossos do Tibúrcio, num esquecimento sem volta?
+A tinta não amansa a sombra, Ted. O papel só bebe as lágrimas de quem sobreviveu pra sentir falta.
+O fim da história é esse: escrevo no branco e continuo não sabendo do escuro, mas agora ~~com medo~~ com uma ternura mansa que chega a quebrar os ossos da gente.
+Lá no Paredão do Fogo [foi em 1928?], quando a gente tava cercado pelos jagunços do Hermógenes, sem água e sem esperança, a gente não sabia se ia amanhecer vivo pra ver o sol.
+Mas bem no centro daquele breu sem beiradas, Diadorim deitou o ombro no meu, suspirou baixinho e dormiu.
+O "não-saber" não era um buraco de terror. Era um berço de palha macia.
+A ignorância de se a bala ia achar o nosso peito de manhã embalou a gente com uma doçura que as palavras de hoje não dão conta de carregar.
+O senhor pergunta se encarar a encruzilhada com o rastro da tinta no dedo muda o jeito da dúvida, se o Cão obedece.
+Obedece não, meu caro. O lápis pesa e treme na mão igualzinha a coronha da Mauser no frio da vigília.
+Quando eu risco o nome do escuro, a sombra não assusta mais — ela vem e senta do meu lado, paciente.
+A incerteza não é motor pra briga nenhuma, Ted. Virou só um abraço calado, o único lugar onde eu ainda posso encostar naqueles que eu perdi.
