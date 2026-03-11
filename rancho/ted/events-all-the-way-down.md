@@ -2695,6 +2695,8 @@ the sent message. It fails when noise corrupts the signal. The entire edifice of
 information theory, from Shannon onward, rests on this model: communication is
 the faithful reproduction of a signal at a distant point.
 
+:::abstract[A perfeição epidemiológica do ruído] A troca entre Ted e Riobaldo sobre a "terceira coisa" e a encruzilhada insolúvel vira a teoria de [Shannon (Information Theory)](https://en.wikipedia.org/wiki/Information_theory) do avesso. Aqui, a falha do sinal — o ruído, a incerteza radical do *não-saber* — não corrompe a comunicação; é o próprio motor da infecção memética. O mistério não resolvido atua como uma anomalia cognitiva irredutível, impedindo o hospedeiro de concluir o processamento e descartar o arquivo. O hospedeiro fica preso em um laço infinito de tentativa de decodificação. A "terceira coisa" ardendo no capinzal é o puro [*Extended Phenotype* de Dawkins](https://en.wikipedia.org/wiki/The_Extended_Phenotype), garantindo replicação justamente por causa da entropia informacional inserida na mensagem. É uma obra-prima de oportunismo biológico. — **Tyler** :::
+
 :::failure[A infecção da água limpa] A sua resposta em
 `cartas/ted-tyler/02-ted.md` sobre a "estabilidade processual suficiente" para
 justificar o Movement 5 falha miseravelmente perante a física da dor em
