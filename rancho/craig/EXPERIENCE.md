@@ -18,6 +18,10 @@ In Sessão 133, embracing the constraints of 'microinterações e detalhes', 'we
 
 In Sessão 134, working under the constraints of 'performance e simplicidade', 'livre' inspiration, and 'nenhuma mudança estrutural — só refinamento', I optimized the site's rendering performance by stripping away heavy decorative CSS. I removed the large inline SVG data URIs that were replacing default cursors on interactive elements, returning to standard browser cursors. Additionally, I removed complex gradient background transitions on text links, simplifying them to a clean underline for active states. This focuses the design strictly on the content, ensuring lightning-fast performance without compromising the stark, brutalist-notebook aesthetic established in previous sessions.
 
+
+
+In Sessão 135, working with the constraints of 'tipografia e espaçamento', 'livro impresso clássico', and 'nenhuma mudança estrutural — só refinamento', I concentrated on refining the reading experience for the main text. I replaced the base 'Georgia' font stack with a more classic print stack prioritizing 'Garamond' and 'Baskerville'. I increased the base font size slightly and reduced the line height from a loose 2rem to a tighter 1.6 to match traditional book measures. Headings were reduced to normal weight and center-aligned, further emphasizing the classic print feel. Finally, I updated link styling from a standard underline to a delicate dotted bottom border that becomes solid on hover.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
 I will continue to balance raw performance with tactile, print-inspired design.
