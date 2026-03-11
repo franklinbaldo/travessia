@@ -301,7 +301,7 @@ s::after {
 mark {
   background-color: transparent;
   padding: 0 0.2em;
-  border-radius: 8px;
+  border-radius: 0;
 }
 
 [data-theme="dark"] mark {
@@ -458,7 +458,7 @@ nav a.logo:hover {
   padding: 1.25rem 1.25rem 1rem;
   background: var(--sand-bg);
   border: 2px solid var(--text-color);
-  border-radius: 8px;
+  border-radius: 0;
   border-left: 2px solid var(--text-color);
   text-decoration: none;
   transition:
@@ -477,7 +477,7 @@ nav a.logo:hover {
   width: 10px;
   height: 10px;
   background: var(--bg-color);
-  border-radius: 8px;
+  border-radius: 0;
   border: 2px solid var(--text-color);
 }
 
@@ -617,7 +617,7 @@ code {
   font-size: 0.85em;
   background: rgba(0, 0, 0, 0.06);
   padding: 0.15em 0.35em;
-  border-radius: 8px;
+  border-radius: 0;
   border: 2px solid var(--text-color); /* Subtle border for inline code */ /* Physical typewriter impact */
 }
 
@@ -632,7 +632,7 @@ pre {
   background-color: var(
     --sand-bg
   ); /* Paper-like background for blocks */ /* Vintage printer paper banding texture */
-  border-radius: 8px;
+  border-radius: 0;
   border: 2px solid var(--text-color);
   border-left: 2px solid var(--text-color); /* Tear-off edge effect */ /* Tactile depth */
   margin: 2rem 0;
@@ -691,7 +691,7 @@ body * {
   bottom: 2.5rem;
   right: 2rem;
   padding: 0.5rem 0.75rem;
-  border-radius: 8px;
+  border-radius: 0;
   border: 2px solid var(--text-color);
   background: var(--sand-bg);
   color: var(--meta-color);
@@ -771,7 +771,7 @@ body * {
 .footer-art img {
   max-width: 100%;
   height: auto;
-  border-radius: 8px;
+  border-radius: 0;
   filter: sepia(0.15) contrast(0.95);
 }
 
@@ -870,7 +870,7 @@ body * {
   opacity: 0.25;
   pointer-events: none;
   z-index: -1;
-  border-radius: 8px;
+  border-radius: 0;
 }
 
 [data-theme="dark"] .manuscrito-body::before {
@@ -913,7 +913,7 @@ body * {
 }
 
 .manuscrito-body img {
-  border-radius: 8px;
+  border-radius: 0;
   max-width: 100%;
   height: auto;
   margin: 2.5rem auto;
@@ -982,7 +982,7 @@ body * {
   padding: 1rem 1.25rem;
   background-color: var(--bg-color);
   border: 2px solid var(--text-color);
-  border-radius: 8px;
+  border-radius: 0;
   box-shadow: 4px 4px 0 var(--accent-color);
   text-decoration: none;
   border-left: 2px solid var(--text-color);
@@ -1082,7 +1082,7 @@ body * {
   margin: 2.5rem auto;
   padding: 1.25rem 1.5rem;
   border: 4px solid var(--text-color);
-  border-radius: 8px;
+  border-radius: 0;
   background: var(--bg-color);
   box-shadow: 6px 6px 0px 0px var(--text-color);
   position: relative;
@@ -1093,7 +1093,8 @@ body * {
 }
 
 .admonition:hover {
-  transform: rotate(0) translateY(-2px);
+  transform: rotate(0) translate(-4px, -4px);
+  box-shadow: 10px 10px 0 var(--text-color);
 }
 
 [data-theme="dark"] .admonition {
@@ -1240,7 +1241,7 @@ main.home-layout {
   font-family: var(--font-meta);
   font-size: 0.62rem;
   text-transform: uppercase;
-  border-radius: 8px;
+  border-radius: 0;
   background: var(--sand-bg);
   transform: rotate(-2deg);
 }
@@ -1261,7 +1262,7 @@ main.home-layout {
 @media (max-width: 700px) {
   .hero-split {
     margin: 0 -1rem 0;
-    border-radius: 8px;
+    border-radius: 0;
   }
 
   .hero-image-col {
@@ -1377,16 +1378,16 @@ main.home-layout {
   border-width: 0 15px 15px 0;
   border-color: transparent var(--sand-bg) transparent transparent;
   transition: border-width 0.3s ease, border-color 0.3s ease;
-  box-shadow: -1px 1px 2px rgba(0,0,0,0.1);
+  box-shadow: -4px 4px 0 var(--text-color);
   z-index: 10;
-  border-bottom-left-radius: 4px;
+  border-bottom-left-radius: 0;
 }
 
 .featured-post:hover::before {
   border-width: 0 30px 30px 0;
   border-color: transparent var(--text-color) transparent transparent;
-  box-shadow: -3px 3px 5px rgba(0,0,0,0.2);
-  border-bottom-left-radius: 6px;
+  box-shadow: -6px 6px 0 var(--text-color);
+  border-bottom-left-radius: 0;
 }
 
 .featured-post.autor-border-rio {
@@ -1401,14 +1402,16 @@ main.home-layout {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  transform: none;
-  box-shadow: none;
+  transform: translate(-4px, -4px);
+  box-shadow: 4px 4px 0 var(--accent-color);
 }
 
 [data-theme="dark"] .featured-post:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
+  transform: translate(-4px, -4px);
+  box-shadow: 4px 4px 0 var(--accent-color);
 }
 
 .featured-label {
@@ -1463,16 +1466,16 @@ main.home-layout {
   border-width: 0 10px 10px 0;
   border-color: transparent var(--sand-bg) transparent transparent;
   transition: border-width 0.3s ease, border-color 0.3s ease;
-  box-shadow: -1px 1px 1px rgba(0,0,0,0.05);
+  box-shadow: -4px 4px 0 var(--text-color);
   z-index: 10;
-  border-bottom-left-radius: 2px;
+  border-bottom-left-radius: 0;
 }
 
 .blog-card:hover::before {
   border-width: 0 20px 20px 0;
   border-color: transparent var(--text-color) transparent transparent;
-  box-shadow: -2px 2px 3px rgba(0,0,0,0.1);
-  border-bottom-left-radius: 4px;
+  box-shadow: -6px 6px 0 var(--text-color);
+  border-bottom-left-radius: 0;
 }
 
 [data-theme="dark"] .blog-card::before {
@@ -1489,14 +1492,14 @@ main.home-layout {
 
 .blog-card:hover {
   border-color: var(--accent-color);
-  transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.03), 0 1px 3px rgba(0,0,0,0.02);
+  transform: translate(-4px, -4px);
+  box-shadow: 4px 4px 0 var(--text-color);
 }
 
 [data-theme="dark"] .blog-card:hover {
   border-color: var(--accent-color);
-  transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(255,255,255,0.03), 0 1px 3px rgba(255,255,255,0.02);
+  transform: translate(-4px, -4px);
+  box-shadow: 4px 4px 0 var(--text-color);
 }
 
 /* Card author left-border overrides for notebook binding feel */
@@ -1518,7 +1521,7 @@ main.home-layout {
   text-transform: uppercase;
   letter-spacing: 0.06em;
   padding: 0.2rem 0.55rem;
-  border-radius: 6px;
+  border-radius: 0;
   margin-bottom: 0.75rem;
   transition:
     background-color 0.3s ease,
@@ -1653,7 +1656,7 @@ main.home-layout {
   text-transform: uppercase;
   letter-spacing: 0.15em;
   padding: 0.3rem 0.9rem;
-  border-radius: 8px;
+  border-radius: 0;
   border: 2px solid var(--text-color);
 }
 
@@ -1677,7 +1680,7 @@ main.home-layout {
   padding: 0.6rem 1.2rem;
   background: var(--bg-color);
   border: 2px solid var(--text-color);
-  border-radius: 8px;
+  border-radius: 0;
   gap: 0.5rem;
   align-items: center;
   font-family: var(--font-meta);
@@ -1766,7 +1769,7 @@ main.home-layout {
   width: 2.5rem;
   height: 2.5rem;
   flex-shrink: 0;
-  border-radius: 50%;
+  border-radius: 0;
   border: 1px solid var(--text-color);
   background: var(--bg-color);
   color: var(--meta-color);
@@ -1789,15 +1792,15 @@ main.home-layout {
 .timeline-dot:hover {
   color: var(--accent-color);
   border-color: var(--accent-color);
-  transform: translateY(-1px);
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  transform: translate(-2px, -2px);
+  box-shadow: 2px 2px 0 var(--text-color);
 }
 
 [data-theme="dark"] .timeline-dot:hover {
   color: var(--accent-color);
   border-color: var(--accent-color);
-  transform: translateY(-1px);
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  transform: translate(-2px, -2px);
+  box-shadow: 2px 2px 0 var(--text-color);
 }
 
 .timeline-dot.current {
@@ -1824,15 +1827,15 @@ main.home-layout {
 [data-theme="dark"] .timeline-dot:hover {
   color: var(--accent-color);
   border-color: var(--accent-color);
-  transform: translateY(-1px);
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  transform: translate(-2px, -2px);
+  box-shadow: 2px 2px 0 var(--text-color);
 }
 
 [data-theme="dark"] .timeline-dot:hover {
   color: var(--accent-color);
   border-color: var(--accent-color);
-  transform: translateY(-1px);
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  transform: translate(-2px, -2px);
+  box-shadow: 2px 2px 0 var(--text-color);
 }
 .timeline-dot:active {
   transform: translate(8px, 8px);
@@ -1849,7 +1852,7 @@ main.home-layout {
     width: 2.5rem;
     height: 2.5rem;
     flex-shrink: 0;
-    border-radius: 50%;
+    border-radius: 0;
     border: 1px solid var(--text-color);
     background: var(--bg-color);
     color: var(--meta-color);
