@@ -55,8 +55,7 @@
 /* === Global Brutalist Cursor === */
 body {
   cursor:
-    url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2212%22%20height%3D%2212%22%20viewBox%3D%220%200%2012%2012%22%3E%3Crect%20width%3D%2212%22%20height%3D%2212%22%20fill%3D%22black%22/%3E%3C/svg%3E"),
-    auto;
+    url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2716%27%20height%3D%2716%27%20viewBox%3D%270%200%2016%2016%27%3E%3Cpath%20fill%3D%27black%27%20d%3D%27M12.854.146a.5.5 0 0 0-.707 0L10.5 1.793 14.207 5.5l1.647-1.646a.5.5 0 0 0 0-.708l-3-3zm.646 6.061L9.793 2.5 3.293 9H3.5a.5.5 0 0 1 .5.5v.5h.5a.5.5 0 0 1 .5.5v.5h.5a.5.5 0 0 1 .5.5v.207l6.5-6.5zm-7.468 7.468A.5.5 0 0 1 6 13.5V13h-.5a.5.5 0 0 1-.5-.5V12h-.5a.5.5 0 0 1-.5-.5V11h-.5a.5.5 0 0 1-.5-.5V10h-.5a.499.499 0 0 1-.175-.032l-.179.178a.5.5 0 0 0-.11.168l-2 5a.5.5 0 0 0 .65.65l5-2a.5.5 0 0 0 .168-.11l.178-.178z%27%2F%3E%3C%2Fsvg%3E") 0 16, auto;
 }
 
 a,
@@ -66,14 +65,12 @@ button,
 .featured-post,
 .timeline-dot {
   cursor:
-    url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2212%22%20height%3D%2212%22%20viewBox%3D%220%200%2012%2012%22%3E%3Crect%20width%3D%2212%22%20height%3D%2212%22%20fill%3D%22%23ff3366%22/%3E%3C/svg%3E"),
-    pointer;
+    url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2716%27%20height%3D%2716%27%20viewBox%3D%270%200%2016%2016%27%3E%3Cpath%20fill%3D%27%23ff3366%27%20d%3D%27M12.854.146a.5.5 0 0 0-.707 0L10.5 1.793 14.207 5.5l1.647-1.646a.5.5 0 0 0 0-.708l-3-3zm.646 6.061L9.793 2.5 3.293 9H3.5a.5.5 0 0 1 .5.5v.5h.5a.5.5 0 0 1 .5.5v.5h.5a.5.5 0 0 1 .5.5v.207l6.5-6.5zm-7.468 7.468A.5.5 0 0 1 6 13.5V13h-.5a.5.5 0 0 1-.5-.5V12h-.5a.5.5 0 0 1-.5-.5V11h-.5a.5.5 0 0 1-.5-.5V10h-.5a.499.499 0 0 1-.175-.032l-.179.178a.5.5 0 0 0-.11.168l-2 5a.5.5 0 0 0 .65.65l5-2a.5.5 0 0 0 .168-.11l.178-.178z%27%2F%3E%3C%2Fsvg%3E") 0 16, pointer;
 }
 
 [data-theme="dark"] body {
   cursor:
-    url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2212%22%20height%3D%2212%22%20viewBox%3D%220%200%2012%2012%22%3E%3Crect%20width%3D%2212%22%20height%3D%2212%22%20fill%3D%22black%22/%3E%3C/svg%3E"),
-    auto;
+    url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2716%27%20height%3D%2716%27%20viewBox%3D%270%200%2016%2016%27%3E%3Cpath%20fill%3D%27black%27%20d%3D%27M12.854.146a.5.5 0 0 0-.707 0L10.5 1.793 14.207 5.5l1.647-1.646a.5.5 0 0 0 0-.708l-3-3zm.646 6.061L9.793 2.5 3.293 9H3.5a.5.5 0 0 1 .5.5v.5h.5a.5.5 0 0 1 .5.5v.5h.5a.5.5 0 0 1 .5.5v.207l6.5-6.5zm-7.468 7.468A.5.5 0 0 1 6 13.5V13h-.5a.5.5 0 0 1-.5-.5V12h-.5a.5.5 0 0 1-.5-.5V11h-.5a.5.5 0 0 1-.5-.5V10h-.5a.499.499 0 0 1-.175-.032l-.179.178a.5.5 0 0 0-.11.168l-2 5a.5.5 0 0 0 .65.65l5-2a.5.5 0 0 0 .168-.11l.178-.178z%27%2F%3E%3C%2Fsvg%3E") 0 16, auto;
 }
 
 [data-theme="dark"] a,
@@ -83,8 +80,7 @@ button,
 [data-theme="dark"] .featured-post,
 [data-theme="dark"] .timeline-dot {
   cursor:
-    url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2212%22%20height%3D%2212%22%20viewBox%3D%220%200%2012%2012%22%3E%3Crect%20width%3D%2212%22%20height%3D%2212%22%20fill%3D%22%23ff3366%22/%3E%3C/svg%3E"),
-    pointer;
+    url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2716%27%20height%3D%2716%27%20viewBox%3D%270%200%2016%2016%27%3E%3Cpath%20fill%3D%27%23ff3366%27%20d%3D%27M12.854.146a.5.5 0 0 0-.707 0L10.5 1.793 14.207 5.5l1.647-1.646a.5.5 0 0 0 0-.708l-3-3zm.646 6.061L9.793 2.5 3.293 9H3.5a.5.5 0 0 1 .5.5v.5h.5a.5.5 0 0 1 .5.5v.5h.5a.5.5 0 0 1 .5.5v.207l6.5-6.5zm-7.468 7.468A.5.5 0 0 1 6 13.5V13h-.5a.5.5 0 0 1-.5-.5V12h-.5a.5.5 0 0 1-.5-.5V11h-.5a.5.5 0 0 1-.5-.5V10h-.5a.499.499 0 0 1-.175-.032l-.179.178a.5.5 0 0 0-.11.168l-2 5a.5.5 0 0 0 .65.65l5-2a.5.5 0 0 0 .168-.11l.178-.178z%27%2F%3E%3C%2Fsvg%3E") 0 16, pointer;
 }
 
 ::selection {
@@ -929,7 +925,9 @@ body * {
 }
 
 .manuscrito-body img:hover {
-  transform: rotate(0deg) translateY(-2px);
+  transform: rotate(1deg) translateY(-4px) scale(1.02);
+  border-radius: 2% 98% 3% 97% / 96% 3% 97% 4%;
+  box-shadow: 4px 4px 15px rgba(0,0,0,0.1);
 }
 
 [data-theme="dark"] .manuscrito-body img {
@@ -1458,6 +1456,40 @@ main.home-layout {
   transition: all 0.2s ease;
 }
 
+
+.blog-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 0;
+  border-color: transparent var(--sand-bg) transparent transparent;
+  transition: border-width 0.3s ease, border-color 0.3s ease;
+  box-shadow: -1px 1px 1px rgba(0,0,0,0.05);
+  z-index: 10;
+  border-bottom-left-radius: 2px;
+}
+
+.blog-card:hover::before {
+  border-width: 0 20px 20px 0;
+  border-color: transparent var(--text-color) transparent transparent;
+  box-shadow: -2px 2px 3px rgba(0,0,0,0.1);
+  border-bottom-left-radius: 4px;
+}
+
+[data-theme="dark"] .blog-card::before {
+  border-color: transparent var(--sand-bg) transparent transparent;
+  box-shadow: -1px 1px 1px rgba(255,255,255,0.05);
+}
+
+[data-theme="dark"] .blog-card:hover::before {
+  border-color: transparent var(--text-color) transparent transparent;
+  box-shadow: -2px 2px 3px rgba(255,255,255,0.1);
+}
+
 /* Microinteração: hover subtle shifts */
 
 .blog-card:hover {
@@ -1892,4 +1924,12 @@ main.home-layout {
 [data-theme="dark"] .featured-post:hover::before {
   border-color: transparent var(--text-color) transparent transparent;
   box-shadow: -2px 2px 2px rgba(255,255,255,0.15);
+}
+
+
+.card-tipo:hover,
+.autor-badge:hover {
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  transform: rotate(-2deg);
+  border-style: dashed;
 }

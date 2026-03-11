@@ -2,77 +2,6 @@
 
 ## 1. Conversation Summary (max 1000 words)
 
-Most recently, in Sessão 110, I addressed the constraints of "performance e
-simplicidade" combined with "manuscrito / caderno", under the restriction of
-"nenhuma mudança estrutural — só refinamento". I focused entirely on refining
-the CSS in `global.css`. I stripped away the heavy, decorative backgrounds and
-large pseudo-elements from `blockquote`, replacing them with a stark, simple red
-left border (`4px solid var(--accent-color)`). I also simplified the `hr`
-element, removing decorative characters in favor of a clean dashed line, and
-fixed the strikethrough (`del`, `s`) styles to look like a solid pen mark. These
-pure CSS refinements deepen the tactile notebook aesthetic while drastically
-improving rendering performance and maintaining strict structural simplicity.
-
-In Sessão 111, I applied the "manuscrito / caderno" constraints, adjusting
-typography and spacing without making structural changes. I increased the body
-line-height to 1.6 for a college-ruled notebook feel, added paragraph indents
-`text-indent: 1.5rem` typical of handwritten entries, thinned the blockquote
-border slightly to resemble a drawn line, changed unordered list bullets to
-handwritten dashes, and modified horizontal rules to use dotted borders instead
-of dashed ones, resembling light ink marks.
-
-In Sessão 112, I responded to the constraints 'tipografia e espaçamento' and
-'revista literária contemporânea'. To achieve this clean, editorial look, I
-tightened the tracking (letter-spacing) on major headings to make them feel more
-commanding and authoritative. I removed the 'manuscrito'-style text indent from
-standard paragraphs, substituting it with increased bottom margins (`1.8rem`)
-for better digital reading flow. I also significantly increased the padding,
-margin, and border thickness for `blockquote` elements, giving them massive
-presence on the page, akin to pull quotes in a high-end magazine.
-
-In Sessão 113, I addressed the constraints of "cor e contraste" and "livro
-impresso clássico". I updated the global color palette, deepening the text to
-absolute black, softening the background to a parchment-like off-white, and
-shifting the accent to a traditional rubrication red. This high-contrast palette
-evokes classic book printing.
-
-In Sessão 114, under the constraints of 'layout e estrutura', 'livro impresso
-clássico', and 'focar numa única página/componente', I entirely reimagined the
-`.manuscrito-header` component on the reading page (`carta/[slug].astro`).
-Moving away from brutalist, full-width top/bottom borders and left-alignment, I
-implemented a formal, centered title layout with a classical, delicate bottom
-border, removing superfluous separators. The metadata block below the title is
-now perfectly centered. This transformation solidifies the aesthetic as a
-'classic printed book', granting each letter the gravity of a distinct chapter
-or title page in a bound volume, moving further from raw brutalism into refined
-formalism.
-
-In Sessão 115, following the constraints 'cor e contraste' and 'web brutalista'
-with no restriction, I radically overhauled the global color palette and card
-hover states to inject pure, unabashed web brutalism. I shifted the classic
-parchment and ink tones to Absolute White (`#ffffff`), Absolute Black
-(`#000000`), Pure Red (`#ff0000`), and Pure Blue (`#0000ff`). Dark mode was
-inverted into a harsh terminal aesthetic: Absolute Black background with
-Terminal Green (`#00ff00`) text, accented by Pure Magenta (`#ff00ff`) and Pure
-Cyan (`#00ffff`). Furthermore, I intensified the tactile, mechanical nature of
-the site's cards (`.blog-card`, `.featured-post`, `.vereda`, `.timeline-dot`). I
-stripped away rounded corners (setting `border-radius: 0`), drastically
-thickened borders, and amplified the hover transformations. Elements now lift
-further and cast massive, solid block shadows, emphasizing a raw, structural
-brutalism that feels heavy and unapologetically digital.
-
-In Sessão 117, addressing constraints of 'tipografia e espaçamento',
-'manuscrito/caderno', and 'nenhuma mudança estrutural — só refinamento', I
-completely overhauled the typography and spacing to evoke a true physical
-notebook. I replaced the digital sans-serif body fonts with a serif stack
-(`Georgia`, `Palatino`) and mono-spaced fonts (`Courier`) for meta text. I
-established a strict 2rem baseline grid, locking line-heights, margins, and
-padding to multiples of `2rem` to simulate physical ruled paper. Finally, I
-added a pure CSS `repeating-linear-gradient` to `.manuscrito-body` to visually
-render blue horizontal ruled lines and a double red vertical margin line,
-perfectly mimicking college-ruled notebook paper while keeping structural
-brutalism intact.
-
 In Sessão 118, guided by constraints of 'microinterações e detalhes' and 'livro
 impresso clássico', I completely replaced the heavy, jumpy brutalist hover and
 active states on interactive elements (`.blog-card`, tags, etc.). Instead of
@@ -133,6 +62,8 @@ the established structure.
 In Sessão 124, answering the constraints of 'microinterações e detalhes', 'livro impresso clássico', and 'pelo menos uma mudança visível e ousada', I refined the interactive states of links and cards. I replaced the heavy, highlighted yellow link underlines and text selection with a delicate dotted underline for links and a soft rubrication red (`rgba(255, 0, 0, 0.2)`) for `::selection`, aligning with classical print styling. For structural elements like `.blog-card`, `.featured-post`, `.vereda`, and `.timeline-dot`, I removed the sketched, chaotic border radii and irregular rotations from the previous "sketchbook" phase. Instead, hover states now employ a clean `translateY(-2px)` lift paired with an elegant, multi-layered diffuse shadow (`0 8px 24px rgba(0,0,0,0.04), 0 2px 8px rgba(0,0,0,0.02)`), simulating the gentle lifting of premium paper. To fulfill the 'visible and bold change' constraint, I reduced the default border thickness of cards to `1px`, making the interface feel lighter and more refined, and overhauled the active states to use subtle scaling (`scale(0.99)`) and inset shadows, mimicking a true physical press without jarring layout shifts.
 
 In Sessão 125, addressing constraints of 'microinterações e detalhes', 'manuscrito/caderno', and 'sem restrição', I reverted the classic print style back to an imperfect notebook aesthetic. I brought back irregular borders and slight rotations (`rotate(-1deg)`) on hover states for `.blog-card`, `.featured-post`, and `.vereda` to simulate unevenly cut paper glued into a journal. Text selection and link hovers returned to the bold yellow marker style, now enhanced with a subtle `text-shadow` for depth. Crucially, I added a pure CSS dog-ear effect to the top right of the `.featured-post` using `border-width` tricks, as if the reader folded the page. For the timeline connections (`.timeline-dot`), hover states now morph the border-radius into an irregular, organic ink blot (`35% 65% 60% 40% / 55% 45% 55% 45%`), simulating a quick pen mark spreading on paper.
+
+In Sessão 126, addressing the constraints of 'microinterações e detalhes', 'manuscrito/caderno', and 'sem restrição', I pushed the tactile, notebook aesthetic deeper into the interactive states. I replaced the brutalist block cursor with custom SVG pen/pencil pointers, immersing the reader in the act of physical writing. I expanded the folded corner 'dog-ear' effect (previously only on `.featured-post`) to all `.blog-card` elements on hover, giving every entry the feeling of a manipulated piece of paper. I also added a hand-drawn circle microinteraction to `.card-tipo` and `.autor-badge` on hover, turning their borders dashed with an irregular, organic `border-radius` and a slight rotation, mimicking a quickly sketched highlight. Finally, images in `.manuscrito-body` now react to hover by scaling slightly, acquiring an irregular, hand-drawn `border-radius`, and lifting with a soft shadow, as if they were loosely pasted photos being touched.
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
