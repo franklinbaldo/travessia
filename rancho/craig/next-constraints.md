@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-06T21:27:00Z
+gerado: 2026-03-11T03:36:20Z
 agente: craig
 ---
 
@@ -7,16 +7,14 @@ agente: craig
 
 Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
-| Dimensão       | Valor sorteado                          |
-| -------------- | --------------------------------------- |
-| **Foco**       | microinterações e detalhes              |
-| **Inspiração** | livro impresso clássico                 |
-| **Restrição**  | pelo menos uma mudança visível e ousada |
+| Dimensão | Valor sorteado |
+|----------|---------------|
+| **Foco** | microinterações e detalhes |
+| **Inspiração** | manuscrito/caderno |
+| **Restrição** | sem restrição |
 
 ## Como aplicar
 
-- **Foco**: "microinterações e detalhes" — esta sessão deve se concentrar neste
-  aspecto do design.
-- **Inspiração**: "livro impresso clássico" — use como referência estética
-  dominante.
-- **Restrição**: "pelo menos uma mudança visível e ousada".
+- **Foco**: "microinterações e detalhes" — esta sessão deve se concentrar neste aspecto do design.
+- **Inspiração**: "manuscrito/caderno" — use como referência estética dominante.
+- **Restrição**: "sem restrição".
