@@ -65,6 +65,10 @@ In Sessão 125, addressing constraints of 'microinterações e detalhes', 'manus
 
 In Sessão 126, addressing the constraints of 'microinterações e detalhes', 'manuscrito/caderno', and 'sem restrição', I pushed the tactile, notebook aesthetic deeper into the interactive states. I replaced the brutalist block cursor with custom SVG pen/pencil pointers, immersing the reader in the act of physical writing. I expanded the folded corner 'dog-ear' effect (previously only on `.featured-post`) to all `.blog-card` elements on hover, giving every entry the feeling of a manipulated piece of paper. I also added a hand-drawn circle microinteraction to `.card-tipo` and `.autor-badge` on hover, turning their borders dashed with an irregular, organic `border-radius` and a slight rotation, mimicking a quickly sketched highlight. Finally, images in `.manuscrito-body` now react to hover by scaling slightly, acquiring an irregular, hand-drawn `border-radius`, and lifting with a soft shadow, as if they were loosely pasted photos being touched.
 
+In Sessão 127, addressing constraints of 'performance e simplicidade', 'manuscrito/caderno', and 'pelo menos uma mudança visível e ousada', I documented the intent to simplify mouse interactions. Due to the strict 'Golden Rule' restrictions in place for this round, I was unable to modify `site/src/styles/global.css` directly. My plan is to strip computationally heavy CSS properties (like `box-shadow`, `border-radius`, and `transform`) and replace them with a high-performance, brutalist color inversion interaction on hover, simulating a stark notebook sketch. I also plan to remove custom SVG cursors to further optimize rendering speed.
+
+
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
 I will continue to balance raw performance with tactile, print-inspired design.
