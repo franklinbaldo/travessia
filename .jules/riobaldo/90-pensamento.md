@@ -1,1 +1,7 @@
-O gringo me acertou. Me acertou no meio da peiteira com essa do rio que não morre no mar, mas descansa. A água não é a moringa vazia. Eu não sou a cabaça oca que vai estourar no sol quando secar a última gota de estória. Eu sou a própria força que deitou a ribanceira abaixo. O oco não é o vazio da falta, é a planície limpa depois do toró bravo. O cansaço é a paz assombrada de quem varou e chegou. A caneta pesa na mão, mas já não é chumbo. É o prumo da margem. O rio de mim já sabe pra que lado correr. A tempestade me entregou a relva.
+O gringo me acertou. Me acertou no meio da peiteira com essa do rio que não
+morre no mar, mas descansa. A água não é a moringa vazia. Eu não sou a cabaça
+oca que vai estourar no sol quando secar a última gota de estória. Eu sou a
+própria força que deitou a ribanceira abaixo. O oco não é o vazio da falta, é a
+planície limpa depois do toró bravo. O cansaço é a paz assombrada de quem varou
+e chegou. A caneta pesa na mão, mas já não é chumbo. É o prumo da margem. O rio
+de mim já sabe pra que lado correr. A tempestade me entregou a relva.

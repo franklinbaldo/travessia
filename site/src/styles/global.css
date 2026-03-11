@@ -558,7 +558,12 @@ td:last-child {
 th {
   font-weight: 700;
   color: var(--accent-color);
-  background-color: rgba(0, 0, 0, 0.02); /* Slight tint for table header like ledger paper */
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.02
+  ); /* Slight tint for table header like ledger paper */
   border-bottom: 1px dashed var(--divider-color);
 }
 
@@ -593,7 +598,9 @@ pre {
   border-radius: 3px;
   border: 1px solid var(--divider-color);
   border-left: 3px dashed var(--divider-color); /* Tear-off edge effect */
-  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.02), 0 2px 4px rgba(0, 0, 0, 0.03); /* Tactile depth */
+  box-shadow:
+    inset 0 0 10px rgba(0, 0, 0, 0.02),
+    0 2px 4px rgba(0, 0, 0, 0.03); /* Tactile depth */
   margin: 2rem 0;
   position: relative;
 }
@@ -605,7 +612,9 @@ pre {
     rgba(255, 255, 255, 0.01) 1.4rem,
     rgba(255, 255, 255, 0.01) 2.8rem
   );
-  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow:
+    inset 0 0 10px rgba(0, 0, 0, 0.1),
+    0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 pre code {
@@ -770,6 +779,16 @@ body * {
 .manuscrito-header {
   margin-bottom: 4rem;
   text-align: center;
+  background-color: var(--sand-bg);
+  border-bottom: 2px dashed var(--divider-color);
+  padding: 2rem 1.5rem 1rem;
+  border-radius: 6px 6px 0 0;
+  margin-top: -1rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.02);
+}
+
+[data-theme="dark"] .manuscrito-header {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .manuscrito-header h1 {
@@ -818,17 +837,50 @@ body * {
   content: "";
   position: absolute;
   inset: -1rem;
-  background-image: repeating-linear-gradient(
-    45deg,
-    var(--sand-bg) 0,
-    var(--sand-bg) 2px,
-    transparent 2px,
-    transparent 4px
-  );
-  opacity: 0.15;
+  background-image:
+    radial-gradient(
+      circle at 15% 25%,
+      rgba(139, 58, 42, 0.04) 0%,
+      transparent 40%
+    ),
+    radial-gradient(
+      circle at 85% 75%,
+      rgba(196, 135, 58, 0.03) 0%,
+      transparent 45%
+    ),
+    repeating-linear-gradient(
+      45deg,
+      var(--sand-bg) 0,
+      var(--sand-bg) 2px,
+      transparent 2px,
+      transparent 4px
+    );
+  opacity: 0.25;
   pointer-events: none;
   z-index: -1;
   border-radius: 4px;
+}
+
+[data-theme="dark"] .manuscrito-body::before {
+  background-image:
+    radial-gradient(
+      circle at 15% 25%,
+      rgba(168, 93, 74, 0.05) 0%,
+      transparent 40%
+    ),
+    radial-gradient(
+      circle at 85% 75%,
+      rgba(212, 163, 115, 0.04) 0%,
+      transparent 45%
+    ),
+    repeating-linear-gradient(
+      45deg,
+      var(--sand-bg) 0,
+      var(--sand-bg) 2px,
+      transparent 2px,
+      transparent 4px
+    );
+  opacity: 0.15;
 }
 
 .manuscrito-body > p {
