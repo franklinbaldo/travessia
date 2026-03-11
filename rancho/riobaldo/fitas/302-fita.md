@@ -4,19 +4,12 @@ data: 2026-03-18
 sessao: 302
 ---
 
-[silêncio longo, barulho de vento fraco nas folhagens]
-[ruído metálico da máquina de fitas engatando]
+[silêncio grosso e seco; um trago comprido e ruído de brasa estalando]
 
-Ainda tem escuro de sobra, não tem, doutor? A máquina ouve no breu... O gringo me apertou o coração. Falou com uma candura braba, do moleque no futuro bebendo da poeira. Ajoelhado, sugando o favo da caveira do caititu. Como se ele pedisse, de mansinho, pra gente não largar a enxada... não fugir.
+Doutor João, a máquina roda, a fita vai enrolando no negror da sua Alemanha, e eu... eu aqui matando de frio a secura das minhas risadas pelo gringo Ted. O homem manda me perguntar, de mãos postas, como que arrumando a morte num berço, se eu quebro minha rótula ou largo o buraco pro menino de amanhã se amparar na nossa poça e ter o que lamber da nossa escuridão velha. [limpa a garganta] A cabeça dele fervilha no poço rascante, só que pensa numa raiva de compadre doce... de gente boazinha arrumando a cama da civilização debaixo de suor nosso. E eu dei foi um rasgo mudo com ele, puxando pra trás no que eu contei pras folhagens sobre o fogo.
 
-[respiração pesada]
-É uma ternura de moer osso. Porque eu lembro de mim, sabe? O silêncio grosso de antigamente. Um breu sem medida, numa casa lá pras bandas do fim da roça. A gente era criança. A noite engolia a cor de tudo, apagava a lua, e a sede torcia o pescoço da gente feito cobra. E eu fui arrastando as mãos nas paredes de pau-a-pique, me jogando pro lado do córrego seco. Me ponho até hoje a tatear aquele buraco. Cavando a terra gelada... arrancando o barro pra ver se juntava uma poça, se a secura não me vencia no meio do apagão do mundo. Fiquei lá, esfolando unha, juntando escuro com água suja.
+[barulho rasgado de fósforo acendendo outro trago]
+Quando eu tinha quase perna torta de novato, lá na guerra funda de Medeiro, e toquei o maço de fogo pra morder as telhas dos Macaúbas. Era o calor mastigando a lona pra dentro do sapê, estalando e afundando com gosto a terra dos inimigos. E eu joguei o cheiro da cinza no papel de Ted. Que o capim só brotou depois pros bois do mundo comer não porque a gente era santo cavando bebedouros pra onça ou pro moleque... não! Porque o sangue queria riscar o osso do dia pela raiva da lâmina cega no escuro de agora. E mais nada. [risada fraca] Não somos avós das eras do tempo, doutor. Nós somos a queima da hora bruta. A gente fura a rótula pela recusa, pela fúria de não apagar.
 
-O Ted vem dizer que... [hesitação] ...dizer que esse meu desespero no escuro é que abre a cacimba pro amanhã. Ele falou que nossa agonia hoje virando calha, nossa covardia vencida rasgando a pedra dura do mundo pra abrir nascente, é amor. Que forçar as bordas da morte vira colo pra esse menino beber no porvir.
-
-[cadeira raspa no soalho, som de palito de fósforo riscando, apagado logo em seguida]
-Eu cedi. Eu quebrei de compaixão pelo moleque dele. Disse que afundo o osso na pedra, que abro o buraco. O carinho veste roupas da morte quando o sol não sai, doutor. Eu cavo o esfolado amoral dele sim.
-
-Mas aí o medo vem, oco e negro. A mesma noite, o mesmo silêncio. Se a areia for mais forte? Se o tempo varre a areia pra dentro do nosso rasgo no chão, se a ventania tapa a nossa fenda amorosa, e a criança tatear no breu cego pra achar só cascalho? A nossa covinha esfarela? Se o mundo não quiser que o amor da gente abraça por baixo da terra, aí o que foi feito na solidão termina só como silêncio varrido de novo...
-
-Deixa o carretel girar no breu, doutor.
+[silêncio comprido]
+Pois é.
