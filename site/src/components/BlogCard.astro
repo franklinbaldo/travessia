@@ -80,4 +80,100 @@ const {
   .card-autor {
     color: var(--meta-color);
   }
+
+  /* Notebook constraints */
+  .blog-card {
+    --notebook-bg: #f9f8f3;
+    --notebook-lines: #cce0e5;
+    --notebook-margin: #e8a2a2;
+    --notebook-ink: #2b2b2b;
+    --notebook-meta: #666666;
+
+    background-color: var(--notebook-bg) !important;
+    background-image: repeating-linear-gradient(
+      transparent,
+      transparent 1.9rem,
+      var(--notebook-lines) 1.9rem,
+      var(--notebook-lines) 2.0rem
+    ) !important;
+    background-position: 0 1rem !important;
+
+    border: none !important;
+    border-left: 2px solid var(--notebook-margin) !important;
+    border-radius: 0 8px 8px 0 !important;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.05) !important;
+
+    padding: 1.5rem !important;
+    margin-bottom: 2rem !important;
+
+    transform: none !important;
+    transition: transform 0.2s ease, box-shadow 0.2s ease !important;
+  }
+
+  :global([data-theme="dark"]) .blog-card {
+    --notebook-bg: #1e2022;
+    --notebook-lines: #32383d;
+    --notebook-margin: #7a4646;
+    --notebook-ink: #e8e6e3;
+    --notebook-meta: #aaaaaa;
+    border-left: 2px solid var(--notebook-margin) !important;
+  }
+
+  .blog-card:hover {
+    transform: translateY(-2px) !important;
+    box-shadow: 4px 6px 12px rgba(0,0,0,0.1) !important;
+    background-color: var(--notebook-bg) !important;
+    color: var(--notebook-ink) !important;
+  }
+
+  :global([data-theme="dark"]) .blog-card:hover {
+    background-color: var(--notebook-bg) !important;
+    color: var(--notebook-ink) !important;
+  }
+
+  /* Reset hover colors for inner elements to use ink */
+  .blog-card:hover .card-titulo,
+  .blog-card:hover .card-excerpt,
+  .blog-card:hover .card-meta,
+  .blog-card:hover .card-tipo,
+  .blog-card:hover .card-autor,
+  .blog-card:hover time {
+    color: var(--notebook-ink) !important;
+  }
+
+  .blog-card .card-titulo {
+    color: var(--notebook-ink);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    letter-spacing: -0.02em;
+  }
+
+  .blog-card .card-excerpt {
+    color: var(--notebook-ink);
+    opacity: 0.85;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  .blog-card .card-tipo {
+    color: var(--notebook-bg);
+    background-color: var(--notebook-ink);
+    padding: 0.1rem 0.4rem;
+    border: none;
+  }
+
+  .blog-card .card-meta {
+    border-top: 1px dashed var(--notebook-lines) !important;
+    padding-top: 0.5rem;
+    color: var(--notebook-meta);
+  }
+
+  .blog-card:hover .card-meta {
+    border-top: 1px dashed var(--notebook-lines) !important;
+  }
+
+  /* Disable old global brutalist hover indicator */
+  .blog-card::before {
+    display: none !important;
+  }
+
 </style>
