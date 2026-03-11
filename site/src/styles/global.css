@@ -1341,7 +1341,7 @@ main.home-layout {
   border-top: 1px solid var(--text-color);
   border-radius: 0;
   text-decoration: none;
-  transition: opacity 0.4s ease;
+  transition: all 0.05s linear;
 }
 
 [data-theme="dark"] .blog-card {
@@ -1350,36 +1350,52 @@ main.home-layout {
   border-top: 1px solid var(--divider-color);
 }
 
-/* Microinteração: hover subtle shifts - Livro Impresso Clássico */
+/* Microinteração: Brutalist Hover Interaction */
+
+.blog-card {
+  padding: 1rem;
+  border: 1px solid transparent;
+  border-top: 1px solid var(--text-color);
+}
 
 .blog-card:hover {
-  opacity: 0.7;
-  border-top-color: var(--text-color);
+  opacity: 1;
+  background-color: var(--text-color) !important;
+  color: var(--bg-color) !important;
+  border: 1px solid var(--text-color);
+  transform: translate(-6px, -6px);
+  box-shadow: 6px 6px 0px var(--accent-color);
+  z-index: 10;
 }
 
 [data-theme="dark"] .blog-card:hover {
-  opacity: 0.7;
-  border-top-color: var(--text-color);
+  opacity: 1;
+  background-color: var(--text-color) !important;
+  color: var(--bg-color) !important;
+  border: 1px solid var(--text-color);
+  transform: translate(-6px, -6px);
+  box-shadow: 6px 6px 0px var(--accent-color);
 }
 
 .blog-card .card-titulo {
-  transition: color 0.3s ease, text-shadow 0.3s ease;
+  transition: color 0.05s linear;
 }
 
-.blog-card:hover .card-titulo {
-  color: var(--text-color);
+.blog-card:hover .card-titulo,
+.blog-card:hover .card-excerpt,
+.blog-card:hover .card-meta,
+.blog-card:hover .card-tipo,
+.blog-card:hover .card-autor,
+.blog-card:hover time {
+  color: var(--bg-color) !important;
 }
 
-[data-theme="dark"] .blog-card:hover .card-titulo {
-  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.8), 0px -1px 0px rgba(255, 255, 255, 0.15);
+.blog-card:hover .card-meta {
+  border-top: 1px dashed var(--bg-color);
 }
 
-.blog-card .card-excerpt {
-  transition: color 0.3s ease;
-}
-
-.blog-card:hover .card-excerpt {
-  color: var(--text-color); /* Richer ink on hover */
+[data-theme="dark"] .blog-card:hover .card-meta {
+  border-top: 1px dashed var(--bg-color);
 }
 
 /* Classic editorial author indicators */
@@ -1461,9 +1477,7 @@ main.home-layout {
 
 
 
-.blog-card:hover .card-titulo {
-  color: var(--accent-color);
-}
+
 
 .card-subtitulo {
   color: var(--accent-color);

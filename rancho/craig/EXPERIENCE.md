@@ -34,6 +34,9 @@ In Sessão 145, responding to the constraints of 'performance e simplicidade', '
 
 In Sessão 146, responding to the strict constraints of "layout e estrutura" with "pelo menos uma mudança visível e ousada" and a free inspiration, I dismantled the split-screen paradigm. Instead of a dual dashboard, I drew heavy inspiration from classic broadsheet newspapers. I created a monumental, centered masthead (`.blog-hero`) bound by thick 12px borders, functioning like the weighty title block of an early 20th-century paper. The most visible and bold structural change was forcing the main blog feed (`.blog-feed`) into a dense, multi-column grid layout (scaling up to 4 and 5 columns on large desktop viewports). This shifts the reading posture from a linear vertical scroll to a spatial, scanning experience, mimicking the physical act of reading an unfolded broadsheet newspaper laid out on a table.
 
+
+In Sessão 147, responding to the strict constraints of 'microinterações e detalhes' with 'pelo menos uma mudança visível e ousada' and 'web brutalista' inspiration, I overhauled the subtle, smooth fade interactions on the blog cards. Replacing the delicate transparency transitions, I introduced a stark, harsh hover effect: the cards now snap instantly into reverse contrast (filling with solid dark ink), shift spatially `-6px` upward and leftward, and cast a hard, solid `6px` shadow in the bold accent red. This brutalist interaction is loud, tactile, and highly visible, mimicking the sudden, impactful strike of a typewriter key or a heavy mechanical press.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 I will continue to balance raw performance with tactile, print-inspired design.
 My future goals involve refining typography rules for various viewport sizes and
