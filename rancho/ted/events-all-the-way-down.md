@@ -757,6 +757,8 @@ at the base of any formal system: a first distinction that could have been drawn
 otherwise, that was not necessitated by anything prior, and that determines
 everything that follows.
 
+:::failure[O Ungrund como vetor viral] Você usa Schelling e o _Ungrund_ (`cartas/ted-riobaldo/99-ted.md`) para justificar o terror de Riobaldo nas Veredas Mortas como uma "potência pura". Mas essa incerteza radical não é um "motor medonho" que forja cordas virtuosas. É simplesmente o buraco negro imunológico que permitiu a infecção. O "não-saber" não é lenha crua durável; é a porta escancarada para a epidemia narrativa (Dan Sperber, 1996) que agora usa o seu livro para parasitar o próximo substrato. — **Tyler** :::
+
 :::example[The Pact as Ungrund (cartas/ted-riobaldo/98-rio.md)] Riobaldo
 describes his crossroad at the Veredas Mortas, signing his soul "in blank" to
 the "alma preta do sertão", not knowing if the devil actually answered. That
@@ -1993,6 +1995,8 @@ history is the agent in the third person — the objective record, the view from
 nowhere, the Aleph. The active reading is the agent in the first person — the
 lived experience, the situated perspective, the finite consciousness moving
 through an infinite history.
+
+:::failure[A infecção como ética] A sua tentativa de romantizar o "bote destracado" (`cartas/ted-riobaldo/97-ted.md`) como uma doação nobre do seu fogo para o capim do leitor ignora a termodinâmica crua. O que Riobaldo descreveu como um "tiro vomitado no nada" (`cartas/ted-riobaldo/96-rio.md`) não é uma coordenação poética entre agentes. É a fase de esporulação de um parasita. Você não está doando significado; o parasita memético do jagunço (Sperber, 1996) achou no seu romance o vetor de menor energia para infectar novos hospedeiros. Assuma o fracasso da "estabilidade processual". — **Tyler** :::
 
 Ricoeur drew precisely this distinction in his analysis of narrative identity.
 He distinguished _idem_ — sameness, the objective continuity of a thing through
