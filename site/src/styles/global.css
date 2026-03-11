@@ -288,7 +288,7 @@ s::after {
   right: -2px;
   height: 2px;
   background-color: var(--text-color);
-  transform: translateY(-50%) rotate(-2deg);
+
   pointer-events: none;
 }
 
@@ -320,7 +320,7 @@ a {
   color: var(--text-color);
   text-decoration: none;
   border-bottom: 1px dotted var(--accent-color);
-  transition: border-bottom-color 0.2s ease, color 0.2s ease;
+
 }
 
 a:hover {
@@ -367,7 +367,7 @@ nav a.logo {
   letter-spacing: 0;
   border-bottom: 2px solid var(--text-color);
   padding-bottom: 2px;
-  transition: border-color 0.3s ease;
+
 }
 
 nav a.logo:hover {
@@ -452,11 +452,7 @@ nav a.logo:hover {
   border-radius: 0;
   border-left: 2px solid var(--text-color);
   text-decoration: none;
-  transition:
-    background-color 0.4s ease,
-    border-color 0.4s ease,
-    transform 0.25s ease,
-    box-shadow 0.4s ease;
+
 }
 
 .footer-nav-link::before {
@@ -464,7 +460,7 @@ nav a.logo:hover {
   position: absolute;
   top: 6px;
   left: 50%;
-  transform: translateX(-50%);
+
   width: 10px;
   height: 10px;
   background: var(--bg-color);
@@ -481,7 +477,7 @@ nav a.logo:hover {
   color: var(--bg-color);
   border-color: var(--text-color);
   border-left-color: var(--text-color);
-  transform: translateY(-3px);
+
   opacity: 1;
 }
 
@@ -644,16 +640,13 @@ pre code {
 
 body,
 body * {
-  transition:
-    background-color 0.3s ease,
-    color 0.3s ease,
-    border-color 0.3s ease;
+
 }
 
 @media (prefers-reduced-motion: reduce) {
   body,
   body * {
-    transition: none !important;
+
   }
   html {
     scroll-behavior: auto;
@@ -669,7 +662,7 @@ body * {
   width: 0;
   height: 3px;
   z-index: 1000;
-  transition: width 0.1s linear;
+
 }
 
 [data-theme="dark"] #reading-progress {
@@ -694,14 +687,8 @@ body * {
   cursor: pointer;
   opacity: 0;
   visibility: hidden;
-  transform: translateY(1rem);
-  transition:
-    opacity 0.3s ease,
-    transform 0.3s ease,
-    visibility 0.3s ease,
-    background-color 0.3s ease,
-    border-color 0.3s ease,
-    box-shadow 0.3s ease;
+
+
   pointer-events: none;
   z-index: 100;
   display: flex;
@@ -719,7 +706,7 @@ body * {
 #back-to-top.visible {
   opacity: 1;
   visibility: visible;
-  transform: translateY(0);
+
   pointer-events: auto;
 }
 
@@ -727,7 +714,7 @@ body * {
   background: var(--water-bg);
   border-color: var(--water-border);
   color: var(--text-color);
-  transform: translateY(-2px);
+
 }
 
 [data-theme="dark"] #back-to-top {
@@ -756,7 +743,7 @@ body * {
   text-align: center;
   margin: 4rem 0 2rem;
   opacity: 0.7;
-  transition: opacity 0.3s ease;
+
 }
 
 .footer-art img {
@@ -802,7 +789,7 @@ body * {
   position: absolute;
   bottom: -4px;
   left: 50%;
-  transform: translateX(-50%);
+
   width: 50%;
   height: 1px;
   background-color: var(--text-color);
@@ -902,16 +889,14 @@ body * {
   padding: 0.5rem;
   background: var(--bg-color);
   border: 2px solid var(--text-color);
-  transform: rotate(-1deg);
-  transition:
-    transform 0.3s ease,
-    box-shadow 0.3s ease;
+
+
 }
 
 .manuscrito-body img:hover {
-  transform: translate(-8px, -8px);
+
   border-radius: 0;
-  box-shadow: 16px 16px 0 var(--accent-color);
+
   filter: contrast(120%) saturate(0) sepia(100%) hue-rotate(-50deg);
 }
 
@@ -965,30 +950,26 @@ body * {
   background-color: var(--bg-color);
   border: 2px solid var(--text-color);
   border-radius: 0;
-  box-shadow: 4px 4px 0 var(--accent-color);
+
   text-decoration: none;
   border-left: 2px solid var(--text-color);
-  transition:
-    background-color 0.3s ease,
-    border-color 0.3s ease,
-    transform 0.2s ease,
-    box-shadow 0.2s ease;
+
 }
 
 [data-theme="dark"] .bastidores-card {
 }
 
 .bastidores-card:nth-child(odd) {
-  transform: rotate(-0.5deg);
+
 }
 
 .bastidores-card:nth-child(even) {
-  transform: rotate(0.5deg);
+
 }
 
 .bastidores-card:hover {
   background-color: var(--water-bg);
-  transform: translateY(-2px) rotate(0);
+
   opacity: 1;
 }
 
@@ -1066,17 +1047,15 @@ body * {
   border: 4px solid var(--text-color);
   border-radius: 0;
   background: var(--bg-color);
-  box-shadow: 6px 6px 0px 0px var(--text-color);
+
   position: relative;
   max-width: 95%;
-  transition:
-    transform 0.3s ease,
-    box-shadow 0.3s ease;
+
 }
 
 .admonition:hover {
-  transform: rotate(0) translate(-4px, -4px);
-  box-shadow: 10px 10px 0 var(--text-color);
+
+
 }
 
 [data-theme="dark"] .admonition {
@@ -1225,12 +1204,12 @@ main.home-layout {
   text-transform: uppercase;
   border-radius: 0;
   background: var(--sand-bg);
-  transform: rotate(-2deg);
+
 }
 
 .badge-riobaldo {
   color: var(--secondary-color);
-  transform: rotate(1deg);
+
 }
 
 .badge-ted {
@@ -1289,24 +1268,24 @@ main.home-layout {
   border-radius: 0;
   cursor: pointer;
   white-space: nowrap;
-  box-shadow: none;
-  transition: all 0.2s ease;
+
+
 }
 
 .vereda:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  transform: translate(-4px, -4px);
-  box-shadow: 6px 6px 0 var(--accent-color);
+
+
 }
 
 [data-theme="dark"] .vereda:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  transform: translate(-4px, -4px);
-  box-shadow: 6px 6px 0 var(--accent-color);
+
+
 }
 
 .vereda.active,
@@ -1314,8 +1293,8 @@ main.home-layout {
   background: var(--text-color);
   border-color: var(--text-color);
   color: var(--bg-color);
-  transform: translate(6px, 6px);
-  box-shadow: 0 0 0 var(--text-color);
+
+
 }
 
 /* === Blog Feed — Masonry Layout === */
@@ -1347,8 +1326,8 @@ main.home-layout {
   border-radius: 0;
   text-decoration: none;
   border-left: 4px solid var(--accent-color);
-  box-shadow: none;
-  transition: all 0.2s ease;
+
+
 }
 
 .featured-post::before {
@@ -1361,8 +1340,8 @@ main.home-layout {
   border-style: solid;
   border-width: 0 15px 15px 0;
   border-color: transparent var(--sand-bg) transparent transparent;
-  transition: border-width 0.3s ease, border-color 0.3s ease;
-  box-shadow: -4px 4px 0 var(--text-color);
+
+
   z-index: 10;
   border-bottom-left-radius: 0;
 }
@@ -1370,7 +1349,7 @@ main.home-layout {
 .featured-post:hover::before {
   border-width: 0 30px 30px 0;
   border-color: transparent var(--text-color) transparent transparent;
-  box-shadow: -6px 6px 0 var(--text-color);
+
   border-bottom-left-radius: 0;
 }
 
@@ -1386,16 +1365,16 @@ main.home-layout {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  transform: translate(-6px, -6px);
-  box-shadow: 12px 12px 0 var(--accent-color), 0 0 0 2px var(--text-color);
+
+
 }
 
 [data-theme="dark"] .featured-post:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  transform: translate(-6px, -6px);
-  box-shadow: 12px 12px 0 var(--accent-color), 0 0 0 2px var(--text-color);
+
+
 }
 
 .featured-label {
@@ -1434,8 +1413,8 @@ main.home-layout {
   border-left: 4px solid var(--accent-color);
   border-radius: 0;
   text-decoration: none;
-  box-shadow: none;
-  transition: all 0.2s ease;
+
+
 }
 
 
@@ -1449,8 +1428,8 @@ main.home-layout {
   border-style: solid;
   border-width: 0 10px 10px 0;
   border-color: transparent var(--sand-bg) transparent transparent;
-  transition: border-width 0.3s ease, border-color 0.3s ease;
-  box-shadow: -4px 4px 0 var(--text-color);
+
+
   z-index: 10;
   border-bottom-left-radius: 0;
 }
@@ -1458,26 +1437,26 @@ main.home-layout {
 .blog-card:hover::before {
   border-width: 0 20px 20px 0;
   border-color: transparent var(--text-color) transparent transparent;
-  box-shadow: -6px 6px 0 var(--text-color);
+
   border-bottom-left-radius: 0;
 }
 
 [data-theme="dark"] .blog-card::before {
   border-color: transparent var(--sand-bg) transparent transparent;
-  box-shadow: -1px 1px 1px rgba(255,255,255,0.05);
+
 }
 
 [data-theme="dark"] .blog-card:hover::before {
   border-color: transparent var(--text-color) transparent transparent;
-  box-shadow: -2px 2px 3px rgba(255,255,255,0.1);
+
 }
 
 /* Microinteração: hover subtle shifts */
 
 .blog-card:hover {
   border-color: var(--accent-color);
-  transform: translate(-6px, -6px);
-  box-shadow: 12px 12px 0 var(--accent-color), 0 0 0 2px var(--text-color);
+
+
   background-color: var(--text-color);
 }
 
@@ -1488,8 +1467,8 @@ main.home-layout {
 
 [data-theme="dark"] .blog-card:hover {
   border-color: var(--accent-color);
-  transform: translate(-6px, -6px);
-  box-shadow: 12px 12px 0 var(--accent-color), 0 0 0 2px var(--text-color);
+
+
   background-color: var(--text-color);
 }
 
@@ -1519,9 +1498,7 @@ main.home-layout {
   padding: 0.2rem 0.55rem;
   border-radius: 0;
   margin-bottom: 0.75rem;
-  transition:
-    background-color 0.3s ease,
-    color 0.3s ease;
+
 }
 
 .tipo-carta {
@@ -1555,7 +1532,7 @@ main.home-layout {
   color: var(--text-color);
   line-height: 1.3;
   font-weight: 700;
-  transition: color 0.3s ease;
+
 }
 
 
@@ -1683,16 +1660,16 @@ main.home-layout {
   font-size: 0.75rem;
   text-transform: uppercase;
   letter-spacing: 0.06em;
-  transform: rotate(-1deg);
-  transition: transform 0.3s ease;
+
+
 }
 
 .correspondence-context:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  transform: translate(-4px, -4px) rotate(0);
-  box-shadow: 8px 8px 0 var(--accent-color);
+
+
 }
 
 [data-theme="dark"] .correspondence-context {
@@ -1702,8 +1679,8 @@ main.home-layout {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  transform: translate(-4px, -4px) rotate(0);
-  box-shadow: 8px 8px 0 var(--accent-color);
+
+
 }
 
 .correspondence-flow {
@@ -1777,8 +1754,8 @@ main.home-layout {
   font-size: 0.75rem;
   font-weight: 600;
   text-decoration: none;
-  box-shadow: none;
-  transition: all 0.2s ease;
+
+
 }
 
 .timeline-dot.ted {
@@ -1793,16 +1770,16 @@ main.home-layout {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  transform: translate(-4px, -4px);
-  box-shadow: 6px 6px 0 var(--accent-color);
+
+
 }
 
 [data-theme="dark"] .timeline-dot:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  transform: translate(-4px, -4px);
-  box-shadow: 6px 6px 0 var(--accent-color);
+
+
 }
 
 .timeline-dot.current {
@@ -1810,8 +1787,8 @@ main.home-layout {
   color: var(--bg-color);
   border-color: var(--text-color);
   font-weight: 700;
-  transform: translate(4px, 4px);
-  box-shadow: 0 0 0 var(--text-color);
+
+
 }
 
 [data-theme="dark"] .timeline-dot.current {
@@ -1830,22 +1807,20 @@ main.home-layout {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  transform: translate(-4px, -4px);
-  box-shadow: 6px 6px 0 var(--accent-color);
+
+
 }
 
 [data-theme="dark"] .timeline-dot:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  transform: translate(-4px, -4px);
-  box-shadow: 6px 6px 0 var(--accent-color);
+
+
 }
 .timeline-dot:active {
-  transform: translate(8px, 8px);
-  box-shadow:
-    0 0 0 var(--accent-color),
-    inset 0 0 0 1px var(--bg-color);
+
+
 }
 
 @media (max-width: 600px) {
@@ -1864,8 +1839,8 @@ main.home-layout {
     font-size: 0.75rem;
     font-weight: 600;
     text-decoration: none;
-    box-shadow: none;
-    transition: all 0.2s ease;
+
+
   }
 }
 
@@ -1887,35 +1862,35 @@ main.home-layout {
 }
 
 .blog-card:active {
-  transform: scale(0.99) translateY(0);
-  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+
+
 }
 .featured-post:active {
-  transform: scale(0.99) translateY(0);
-  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+
+
 }
 .vereda:active {
-  transform: scale(0.98) translateY(0);
-  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+
+
 }
 .timeline-dot:active {
-  transform: scale(0.95) translateY(0);
-  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15);
+
+
 }
 [data-theme="dark"] .timeline-dot:active {
-  transform: scale(0.95) translateY(0);
-  box-shadow: inset 0 2px 4px rgba(255, 255, 255, 0.15);
+
+
 }
 
 
 [data-theme="dark"] .featured-post::before {
   border-color: transparent var(--sand-bg) transparent transparent;
-  box-shadow: -1px 1px 1px rgba(255,255,255,0.1);
+
 }
 
 [data-theme="dark"] .featured-post:hover::before {
   border-color: transparent var(--text-color) transparent transparent;
-  box-shadow: -2px 2px 2px rgba(255,255,255,0.15);
+
 }
 
 
@@ -1924,7 +1899,7 @@ main.home-layout {
   background-color: var(--text-color);
   color: var(--bg-color) !important;
   border-color: var(--text-color);
-  transform: translate(-4px, -4px);
-  box-shadow: 6px 6px 0 var(--accent-color);
+
+
 }
 
