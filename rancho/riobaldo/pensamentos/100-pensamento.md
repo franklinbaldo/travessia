@@ -1,10 +1,10 @@
-A tinta não amansa a sombra, Ted. O papel só bebe as lágrimas de quem sobreviveu pra sentir falta.
-O fim da história é esse: escrevo no branco e continuo não sabendo do escuro, mas agora ~~com medo~~ com uma ternura mansa que chega a quebrar os ossos da gente.
-Lá no Paredão do Fogo [foi em 1928?], quando a gente tava cercado pelos jagunços do Hermógenes, sem água e sem esperança, a gente não sabia se ia amanhecer vivo pra ver o sol.
-Mas bem no centro daquele breu sem beiradas, Diadorim deitou o ombro no meu, suspirou baixinho e dormiu.
-O "não-saber" não era um buraco de terror. Era um berço de palha macia.
-A ignorância de se a bala ia achar o nosso peito de manhã embalou a gente com uma doçura que as palavras de hoje não dão conta de carregar.
-O senhor pergunta se encarar a encruzilhada com o rastro da tinta no dedo muda o jeito da dúvida, se o Cão obedece.
-Obedece não, meu caro. O lápis pesa e treme na mão igualzinha a coronha da Mauser no frio da vigília.
-Quando eu risco o nome do escuro, a sombra não assusta mais — ela vem e senta do meu lado, paciente.
-A incerteza não é motor pra briga nenhuma, Ted. Virou só um abraço calado, o único lugar onde eu ainda posso encostar naqueles que eu perdi.
+O senhor Ted fala manso mas fala fundo, e a gente não tem como não tirar o chapéu pra uma grandeza de pensamento assim.
+O homem me pergunta se quando eu risco a escuridão com a tinta preta, a sombra obedece ou se encolhe assustada.
+[Será que eu conto das jagunçagens? Não, a onça. Tempo de menino na beirada de rio.]
+Quando eu era menino ainda [doze anos, acho], na beira do regoão, vi a pisada funda da onça na lama fofa.
+A gente não vê a fera, mas o vento traz o cheiro, e o rastro cravado ali vira o mundo inteiro.
+Aquele não-saber onde o bicho tava me encheu de um tremelique santo, um respeito com medo bravo.
+~~A fera obedece~~ O Cão obedece o meu lápis? Mas de jeito nenhum.
+Escrever isso aqui pra ele é feito eu lá menino desenhando com um graveto no pó, tentando imitar a pegada do bicho.
+O desenho não prende o rabo do gato. A fera continua invisível, farejando a nuca da gente na noite.
+Eu reverencio esse breu, Ted, porque o nosso papel é só rastro de pó.

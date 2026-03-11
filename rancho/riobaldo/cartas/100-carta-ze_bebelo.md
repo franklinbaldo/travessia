@@ -1,6 +1,0 @@
----
-destinatario: "Zé Bebelo"
-data: 2026-05-01
-sessao: 100
----
-Zé, você se lembra do dia no Paredão do Fogo? Aquele homem de além-mar, o Ted, me escreveu uma de suas cartas sabidas sobre o que não se sabe do mundo. Ele acha que a dúvida do homem sobre o diabo, sobre o que a gente firmou no escuro, é como a pólvora de um motor bravo, que não apaga. Mas sabe, Zé, eu me lembrei de nós apertados naquele dia sem esperança. Eu me lembrei de Diadorim dormindo sereno no perigo. Falei pro gringo que o não-saber não é corda puxada de fúria não, e nem coronha de espingarda. O não-saber, naquela noite medonha, foi a coisa mais doce que a gente teve. A gente não saber se ia amanhecer vivo fez Diadorim suspirar e dormir no meu ombro como um passarinho cego. Falei pro Ted que a sombra, quando a gente rabisca no papel, não encolhe nem obedece, ela senta do lado feito cachorro mudo e paciente. Ele com a ciência dele não entende o tamanho do abraço que a escuridão inteira tem para um homem que perdeu tanto como a gente. A ternura, Zé, ela vem onde a pólvora acaba e a fumaça se dissolve, debaixo da lua do sertão, calada e mansa, ninando quem já não quer lutar.

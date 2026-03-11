@@ -1,20 +1,11 @@
 ---
-titulo: "A sombra que senta mansa e calada"
+titulo: "O rastro mudo da fera cega"
 autor: "Riobaldo Tatarana"
 data: 2026-05-01
 ---
 
-1. O papel não amansa o breu, seu Ted. A tinta bebe o luto e a incerteza embala igual um berço que a noite empurra devagar.
-2. O fim do causo é esse: continuo não sabendo do diabo, mas a dúvida virou ternura que amolece meu osso cansado.
-3. No Paredão do Fogo, cercado por Hermógenes, sem água pra molhar o beiço e com a morte farejando o calcanhar, a gente só tinha o breu pra encostar as costas.
-4. E bem no osso daquela falta de esperança, quando eu não sabia se o clarão do dia seria o brilho do sol ou o fogo do rifle inimigo cravando no meu peito, Diadorim chegou perto.
-5. Ele encostou aquele ombro fino e leve no meu, deu um suspiro macio que se perdeu na ventania da noite, e pegou no sono de menino, calmo, sem tremer a pálpebra.
-6. A ignorância se a vida ainda estaria lá amanhã, que o senhor diz que ferve o sangue e puxa a corda do ódio no osso, para nós, naquela hora de perigo cru, não foi motor de ira nem de coragem brava.
-7. O não-saber foi uma palha doce, uma doçura mansa de quem cansa de lutar contra o vento e se deixa ninar na escuridão inteira, deitando a cabeça na borda do precipício sem medo de cair.
-8. O senhor pergunta se traçar a cisma na folha branca com a mão tremendo de reumatismo e saudade muda a forma da sombra, se ela encolhe assustada ou se o Cão, vendo seu nome escrito, obedece ao dono do lápis.
-9. Digo que não, meu caro, não obedece e nem carece de obedecer. O lápis pesa nas minhas varas de dedo igual pesava a coronha fria da Mauser na garoa da vigília grossa.
-10. Mas a encruzilhada que a tinta desenha já não tem dente de onça para me morder; ela se senta quieta do meu lado na varanda, paciente feito cachorro velho esperando o dono morrer.
-11. A incerteza que trago do sertão pra dentro do papel não é combustível para a guerra, não é o baque seco que fura a pedra, como o senhor desenhou nos seus estudos letrados.
-12. A dúvida sem fim virou um abraço de sombra, o único canto escondido e quente onde minha lembrança ainda encosta, bem devagar, naqueles que a bala de chumbo frio levou pra sempre.
-13. Porque no final, amigo, quando a tinta seca e o papel amarela, a gente descobre que tentar entender a desgraça do mundo cansa, mas não saber do amanhã é como deitar a cabeça de novo no ombro de Diadorim e dormir no meio da guerra.
-14. Esse não-saber, essa lenha crua, o senhor abraçaria no escuro se pudesse, sabendo que ela não queima e nem esquenta a pele de ninguém, só faz sombra pra saudade não secar no sol ardido do tempo que já passou?
+Eu não tenho como não dobrar a espinha diante da força das suas palavras, meu caro Ted. O senhor fala com a claridade dos rios fundos, e a sua cisma sobre o breu e a lenha crua me enche de uma admiração calada. É um pensamento de uma grandeza tamanha, que dá num homem um respeito antigo.
+
+O senhor me indaga se o rastro da tinta no papel branco assombra o Cão ou amarra a sombra na cordinha do meu punho. Eu lhe respondo abrindo uma lembrança de menino longe no tempo. Uma feita, perto dos doze anos, na beira lamacenta do regoão, encontrei cravada a pegada funda da onça pintada. Não vi o bicho de pelo. Só a marca fria na terra e aquele cheiro azedo de bicho vivo emboscado no vento. E naquele não-saber de onde o olho dela me espiava das folhas grossas, me desceu um temor santo. Uma reverência estatelada, um baque surdo de bicho pequeno perante o maior de Deus.
+
+Quando eu risco o nome do Tinhoso aqui no escuro, Ted, obediência não existe, não. Escrever no papel, meu amigo, é feito o menino tremendo que copia o rastro da onça no pó com um graveto frouxo. A marca no pó não morde nem prende a cauda da fera. Eu rezo para o não-saber. E lhe pergunto, tirando o chapéu de luto: sabendo que nossa pena só raspa a poeira que a fera solta, não é melhor aceitar que o rastro sempre foge vivo pro mato escuro?
