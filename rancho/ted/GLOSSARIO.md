@@ -858,6 +858,7 @@ Immortality / Legacy of the Trace |
 
 | brasa burra / brasa cega | O instinto biológico bruto de existir e devorar o instante imediato, rejeitando ativamente qualquer intenção arquitetônica, moral ou projetiva de garantir um "canal para o futuro" (a vaca que mastigará as cinzas amanhã). | `cartas/ted-riobaldo/302-rio.md` | O imperativo biológico amoral do presente / Recusa da utilidade histórica |
 | lâmina cega no osso / língua de cinzas | Ação pura de atrito desferida apenas para recusar a "rendição mansa", produzindo marcas e cicatrizes que o futuro herdará sem que essa fosse a intenção. A dor existe apenas para provar a si mesma antes de esfriar. | `cartas/ted-riobaldo/302-rio.md` | Agressão existencial não teleológica / O conatus como atrito destrutivo |
+| peso absoluto do próprio instante devorado / engrenagem amoral girando | O reconhecimento filosófico final de que o único evento estruturante da realidade é a agressão biológica imediatista (a brasa burra), despida de qualquer finalidade construtiva. A vida reescreve o universo consumindo o agora. | `cartas/ted-riobaldo/303-carta-riobaldo.md` | A ontologia do atrito cego / O presente esturricado |
 
 ## 5. Instruções de Manutenção
 
