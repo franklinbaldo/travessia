@@ -18,107 +18,150 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
   class={`featured-post autor-border-${autorClasse}`}
   data-autor={autorClasse}
 >
-  <div class="featured-label">Última Carta</div>
+  <div class="notebook-binding"></div>
   <div class="featured-content">
+    <div class="featured-header">
+      <span class="featured-label">Última Carta</span>
+      {data && <time datetime={data.toISOString()}>{formatDate(data)}</time>}
+    </div>
     <h2 class="card-titulo">{titulo}</h2>
     <p class="card-excerpt">{excerpt}</p>
     <div class="card-meta">
-      {autor && <span class={`card-autor autor-${autorClasse}`}>{autor}</span>}
-      {data && <time datetime={data.toISOString()}>{formatDate(data)}</time>}
+      {autor && <span class={`card-autor autor-${autorClasse}`}>— {autor}</span>}
     </div>
   </div>
 </a>
 
 <style>
   .featured-post {
-    --print-bg: #fdfbf7;
-    --print-ink: #0a0a0a;
-    --print-meta: #4a4a4a;
+    --notebook-bg: #f9f8f3;
+    --notebook-lines: #cce0e5;
+    --notebook-margin: #e8a2a2;
+    --notebook-ink: #2b2b2b;
+    --notebook-meta: #666666;
 
-    display: grid;
-    grid-template-columns: 3rem 1fr;
-    gap: 2rem;
+    display: flex;
     position: relative;
-    margin-bottom: 3rem;
-    padding: 2.5rem 2rem;
-    border: 1px solid var(--print-ink);
-    border-top: 6px solid var(--print-ink);
-    border-bottom: 6px solid var(--print-ink);
-    border-radius: 0;
+    margin-bottom: 4rem;
+    padding: 0;
+    background-color: var(--notebook-bg);
+    border-radius: 4px 12px 12px 4px;
+    box-shadow:
+      5px 5px 15px rgba(0, 0, 0, 0.1),
+      inset 2px 0 5px rgba(0, 0, 0, 0.05);
     text-decoration: none;
-    transition: background-color 0.2s ease, color 0.2s ease;
-    background: var(--print-bg);
+    overflow: hidden;
+    transition: transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94), box-shadow 0.4s ease;
+    transform: rotate(-0.5deg);
   }
 
   :global([data-theme="dark"]) .featured-post {
-    --print-bg: #111111;
-    --print-ink: #e8e6e3;
-    --print-meta: #aaaaaa;
+    --notebook-bg: #1e2022;
+    --notebook-lines: #32383d;
+    --notebook-margin: #7a4646;
+    --notebook-ink: #e8e6e3;
+    --notebook-meta: #aaaaaa;
+  }
+
+  .featured-post:hover {
+    transform: rotate(0deg) translateY(-4px);
+    box-shadow:
+      8px 12px 25px rgba(0, 0, 0, 0.15),
+      inset 2px 0 5px rgba(0, 0, 0, 0.05);
+  }
+
+  /* Structural element representing notebook binding/holes */
+  .notebook-binding {
+    width: 3.5rem;
+    flex-shrink: 0;
+    background-color: rgba(0,0,0,0.03);
+    border-right: 2px solid var(--notebook-margin);
+    display: flex;
+    flex-direction: column;
+  }
+
+  :global([data-theme="dark"]) .notebook-binding {
+    background-color: rgba(255,255,255,0.02);
+  }
+
+  .notebook-binding::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-image: radial-gradient(circle at center, rgba(0,0,0,0.2) 30%, transparent 35%);
+    background-size: 100% 2.2rem;
+    background-position: center 1.1rem;
+  }
+
+  :global([data-theme="dark"]) .notebook-binding::before {
+    background-image: radial-gradient(circle at center, rgba(0,0,0,0.4) 30%, transparent 35%);
+  }
+
+  .featured-content {
+    flex-grow: 1;
+    padding: 2.5rem 3rem 3rem 2rem;
+    background-image: repeating-linear-gradient(
+      transparent,
+      transparent 2.1rem,
+      var(--notebook-lines) 2.1rem,
+      var(--notebook-lines) 2.2rem
+    );
+    background-position: 0 0.5rem;
+    display: flex;
+    flex-direction: column;
   }
 
   @media (max-width: 600px) {
     .featured-post {
-      grid-template-columns: 1fr;
+      flex-direction: column;
+      transform: none;
+    }
+    .notebook-binding {
+      width: 100%;
+      height: 2.5rem;
+      border-right: none;
+      border-bottom: 2px solid var(--notebook-margin);
+    }
+    .notebook-binding::before {
+      background-size: 2.2rem 100%;
+      background-position: 1.1rem center;
+    }
+    .featured-content {
       padding: 1.5rem;
-      gap: 1rem;
     }
   }
 
-  .featured-post:hover {
-    background-color: var(--print-ink);
-    color: var(--print-bg);
-  }
-
-  .featured-post:hover .card-titulo,
-  .featured-post:hover .card-excerpt,
-  .featured-post:hover .card-autor,
-  .featured-post:hover .featured-label,
-  .featured-post:hover .card-meta,
-  .featured-post:hover time {
-    color: var(--print-bg);
-    border-color: var(--print-bg);
+  .featured-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    font-family: var(--font-meta);
   }
 
   .featured-label {
-    writing-mode: vertical-rl;
-    transform: rotate(180deg);
-    font-family: var(--font-body);
-    font-size: 1.25rem;
-    font-style: italic;
-    font-weight: 400;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-weight: 700;
+    color: var(--notebook-bg);
+    background-color: var(--notebook-ink);
+    padding: 0.2rem 0.6rem;
+    border-radius: 2px;
+  }
+
+  time {
+    font-size: 0.85rem;
+    color: var(--notebook-meta);
     letter-spacing: 0.05em;
-    color: var(--print-ink);
-    margin: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-right: 1px solid var(--print-ink);
-    padding-right: 1.5rem;
-  }
-
-  @media (max-width: 600px) {
-    .featured-label {
-      writing-mode: horizontal-tb;
-      transform: none;
-      border-right: none;
-      border-bottom: 1px solid var(--print-ink);
-      padding-right: 0;
-      padding-bottom: 1rem;
-      font-size: 1.1rem;
-    }
-  }
-
-  .featured-content {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
   }
 
   .card-titulo {
     font-family: var(--font-body);
-    font-size: 2.5rem;
-    margin: 0 0 1rem;
-    color: var(--print-ink);
+    font-size: 2rem;
+    margin: 0 0 1.1rem;
+    color: var(--notebook-ink);
     line-height: 1.1;
     font-weight: 700;
     letter-spacing: -0.02em;
@@ -127,31 +170,26 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
   .card-excerpt {
     font-family: var(--font-body);
     font-size: 1.15rem;
-    color: var(--print-ink);
-    line-height: 1.6;
-    margin: 0 0 2rem;
+    color: var(--notebook-ink);
+    line-height: 2.2rem;
+    margin: 0 0 1.1rem;
   }
 
   .card-meta {
     display: flex;
-    gap: 1rem;
-    align-items: center;
+    justify-content: flex-end;
     font-family: var(--font-meta);
-    font-size: 0.85rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: var(--print-meta);
+    font-size: 1rem;
+    color: var(--notebook-ink);
     font-weight: 600;
-    border-top: 1px solid var(--print-ink);
+    margin-top: auto;
     padding-top: 1rem;
   }
 
   .card-autor {
     font-weight: 700;
-    color: var(--print-ink);
+    color: var(--notebook-ink);
+    font-style: italic;
   }
 
-  time {
-    color: var(--print-meta);
-  }
 </style>
