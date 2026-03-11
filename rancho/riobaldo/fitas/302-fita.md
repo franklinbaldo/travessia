@@ -4,24 +4,22 @@ data: 2026-03-18
 sessao: 302
 ---
 
-[barulho de cadeira arrastando]
+[barulho de cadeira de palhinha arrastando na varanda]
 
-Essa engrenagem tá rodando? Doutor João, se o senhor escutar isso, saiba que hoje a velhice me dobrou um pouco a espinha. O gringo me apertou.
+Doutor João, essa engrenagem de fita roda o dia todo, não roda? O senhor deve tá lá longe, mas escute só o que a velhice aprontou comigo hoje. O Ted me dobrou, doutor.
 
-[som de fósforo riscando, pausa longa]
+[som de água caindo num copo de alumínio]
 
-A gente passa a vida inteira armando a cerca, afiando a lâmina, achando que a única coisa que presta no mundo escuro é a coragem de rosnar de volta, de não aceitar apanhar calado do tempo e da secura lisa. Aí ele vem. Ele vem não com ideia grande de filosofia, não... Ele vem puxando a imagem de uma criança que não nasceu, que vai ter sede, e que vai achar a água no buraco fundo que eu abri quebrando a minha rótula.
+A gente passa a vida inteira armando a cerca, afiando a lâmina, achando que a única coisa que presta no mundo escuro é a coragem de rosnar de volta. De não aceitar apanhar calado da morte. Aí o gringo vem... Ele vem não com teoria grande ou número frio. Ele puxa pela imagem de uma criança que não nasceu. Uma criança que vai ajoelhar no pó lá no amanhã e lamber a água que sobrou na poça funda que eu abri quebrando a minha rótula. E ele me diz que minha raiva serve pra abrigar essa água doce.
 
 [tosse seca]
 
-...e eu tive que baixar a arma. Porque... eu lembrei de mim na guerra, marchando com o Medeiro Vaz. Lembrei daquela poeira do Sussuarão enforcando a gente, e o cavalo roanão do Alípio. O bicho bateu a pata dura da frente em cima do barro seco de um poço morto de rãs, e quebrou a crosta surda de desespero cego... e no fundo brotou a lama rala, uma água cor de ferrugem e terra grossa.
+E eu tive que baixar o cano da espingarda. Não pelo pensamento dele... Mas agorinha, sentado aqui na varanda com a lerdeza nos ossos, o menino Zeca, meu neto... O menino tava correndo atrás de calango ali no pedregulho. Caiu. O joelho esfolou. O choro do menino ardeu o mormaço da tarde. Eu levantei e fui acodir. Peguei a bilha com água fresca da mureta e joguei por cima da ferida. A poeira virou lama, o sangue lavou e escorreu pro chão. O menino suspirou, se acalmando. Bebi da água, dei pra ele beber. O medo passou. É essa mesma água da bilha que limpa e salva, doutor João.
 
 [suspiro tremido]
 
-O que amoleceu em mim hoje não foi a razão. Foi essa ternura repentina de avô. Eu falei pra ele que sim. Que eu desço a lâmina no osso pra abrir a bacia, não pra me orgulhar da força do pulso, mas pra virar vasilha onde a água descansa na lama antes do menino beber no futuro. É... [pausa longa]
+O que amoleceu em mim hoje não foi a razão, foi a ternura doído de avô. Falei pra ele que sim. Que eu desço a lâmina no osso pra abrir a cacimba. Não por heroísmo ou pra deixar meu nome gravado na pedra de orgulho, mas pra virar a vasilha onde a chuva vai pousar.
 
-Mas não sei... não sei. Esse medo de que o vento e a terra tape o buraco raso da cova da gente. O tempo é tão liso, não tem piedade... O menino chega com a garganta em fogo, e o que era poço d'água feito com o meu desespero não tá mais lá, e é só pedra tapada e cascalho frio...
+Mas... tem o medo, não tem? O vento no sussuarão soterra tudo. Se a terra amontoar e entupir meu poço? A gente sangra o osso agora, por amor de quem vai beber depois... e o vento e o poeirão roxear em tudo apagando o sulco da gente? Se o menino for tatear no breu e só achar pedra tapada? Onde fica o consolo aí? Onde?
 
-Aí é... aí não tem consolo pro escuro não.
-
-[barulho do gravador desligando]
+[barulho do gravador desligando com um estalo seco]
