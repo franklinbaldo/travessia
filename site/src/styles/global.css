@@ -1488,17 +1488,15 @@ main.home-layout {
 /* Microinteração: hover subtle shifts */
 
 .blog-card:hover {
-  background-color: var(--text-color);
-  color: var(--bg-color);
-  border-color: var(--text-color);
-  transform: none;
-  box-shadow: none;
+  border-color: var(--accent-color);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.03), 0 1px 3px rgba(0,0,0,0.02);
 }
 
 [data-theme="dark"] .blog-card:hover {
-  background-color: var(--text-color);
-  color: var(--bg-color);
-  border-color: var(--text-color);
+  border-color: var(--accent-color);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(255,255,255,0.03), 0 1px 3px rgba(255,255,255,0.02);
 }
 
 /* Card author left-border overrides for notebook binding feel */
@@ -1561,17 +1559,10 @@ main.home-layout {
   transition: color 0.3s ease;
 }
 
-.blog-card:hover .card-titulo,
-.blog-card:hover .card-excerpt,
-.blog-card:hover .card-subtitulo,
-.blog-card:hover .card-meta {
-  color: var(--bg-color);
-}
+
 
 .blog-card:hover .card-titulo {
-  color: var(--bg-color);
-  background: none;
-  text-shadow: none;
+  color: var(--accent-color);
 }
 
 .card-subtitulo {
@@ -1698,9 +1689,8 @@ main.home-layout {
 }
 
 .correspondence-context:hover {
-  background-color: var(--text-color);
-  color: var(--bg-color);
-  border-color: var(--text-color);
+  border-color: var(--accent-color);
+  color: var(--text-color);
   transform: none;
 }
 
@@ -1708,9 +1698,8 @@ main.home-layout {
 }
 
 [data-theme="dark"] .correspondence-context:hover {
-  background-color: var(--text-color);
-  color: var(--bg-color);
-  border-color: var(--text-color);
+  border-color: var(--accent-color);
+  color: var(--text-color);
   transform: none;
 }
 
@@ -1798,21 +1787,17 @@ main.home-layout {
 }
 
 .timeline-dot:hover {
-  background-color: var(--text-color);
-  color: var(--bg-color);
-  border-color: var(--text-color);
-  transform: none;
-  box-shadow: none;
-  border-radius: 0;
+  color: var(--accent-color);
+  border-color: var(--accent-color);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
 
 [data-theme="dark"] .timeline-dot:hover {
-  background-color: var(--text-color);
-  color: var(--bg-color);
-  border-color: var(--text-color);
-  transform: none;
-  box-shadow: none;
-  border-radius: 0;
+  color: var(--accent-color);
+  border-color: var(--accent-color);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
 
 .timeline-dot.current {
@@ -1837,21 +1822,17 @@ main.home-layout {
 }
 
 [data-theme="dark"] .timeline-dot:hover {
-  background-color: var(--text-color);
-  color: var(--bg-color);
-  border-color: var(--text-color);
-  transform: none;
-  box-shadow: none;
-  border-radius: 0;
+  color: var(--accent-color);
+  border-color: var(--accent-color);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
 
 [data-theme="dark"] .timeline-dot:hover {
-  background-color: var(--text-color);
-  color: var(--bg-color);
-  border-color: var(--text-color);
-  transform: none;
-  box-shadow: none;
-  border-radius: 0;
+  color: var(--accent-color);
+  border-color: var(--accent-color);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
 .timeline-dot:active {
   transform: translate(8px, 8px);
@@ -1933,14 +1914,7 @@ main.home-layout {
 
 .card-tipo:hover,
 .autor-badge:hover {
-  background-color: var(--text-color);
-  color: var(--bg-color);
-  border-color: var(--text-color);
-  transform: none;
-  border-style: solid;
-  border-radius: 0;
+  color: var(--accent-color);
+  border-color: var(--accent-color);
 }
 
-.blog-card:hover .card-autor.autor-rio, .blog-card:hover .card-autor.autor-ted {
-  color: var(--bg-color);
-}
