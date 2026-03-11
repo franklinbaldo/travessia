@@ -1357,49 +1357,6 @@ main.home-layout {
   border-left-color: var(--text-color);
 }
 
-.featured-post.autor-border-ted {
-  border-left-color: var(--text-color);
-}
-
-.featured-post:hover {
-  background-color: var(--text-color);
-  color: var(--bg-color);
-  border-color: var(--text-color);
-
-
-}
-
-[data-theme="dark"] .featured-post:hover {
-  background-color: var(--text-color);
-  color: var(--bg-color);
-  border-color: var(--text-color);
-
-
-}
-
-.featured-label {
-  font-family: var(--font-meta);
-  font-size: 0.62rem;
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  color: var(--meta-color);
-  margin-bottom: 0.6rem;
-}
-
-.featured-post .card-titulo {
-  font-size: 1.45rem;
-}
-.featured-post:hover .card-titulo,
-.featured-post:hover .card-excerpt,
-.featured-post:hover .featured-label {
-  color: var(--bg-color);
-}
-
-.featured-post .card-excerpt {
-  font-size: 0.95rem;
-  -webkit-line-clamp: unset;
-}
-
 /* === Blog Card — Gotas no Rio === */
 
 .blog-card {
@@ -1865,10 +1822,6 @@ main.home-layout {
 
 
 }
-.featured-post:active {
-
-
-}
 .vereda:active {
 
 
@@ -1879,17 +1832,6 @@ main.home-layout {
 }
 [data-theme="dark"] .timeline-dot:active {
 
-
-}
-
-
-[data-theme="dark"] .featured-post::before {
-  border-color: transparent var(--sand-bg) transparent transparent;
-
-}
-
-[data-theme="dark"] .featured-post:hover::before {
-  border-color: transparent var(--text-color) transparent transparent;
 
 }
 

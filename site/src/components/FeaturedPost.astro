@@ -31,17 +31,29 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
 
 <style>
   .featured-post {
+    --print-bg: #fdfbf7;
+    --print-ink: #0a0a0a;
+    --print-meta: #4a4a4a;
+
     display: grid;
     grid-template-columns: 3rem 1fr;
     gap: 2rem;
     position: relative;
-    margin-bottom: 2rem;
-    padding: 2rem;
-    border: 4px solid var(--text-color);
+    margin-bottom: 3rem;
+    padding: 2.5rem 2rem;
+    border: 1px solid var(--print-ink);
+    border-top: 6px solid var(--print-ink);
+    border-bottom: 6px solid var(--print-ink);
     border-radius: 0;
     text-decoration: none;
-    transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
-    background: var(--bg-color);
+    transition: background-color 0.2s ease, color 0.2s ease;
+    background: var(--print-bg);
+  }
+
+  :global([data-theme="dark"]) .featured-post {
+    --print-bg: #111111;
+    --print-ink: #e8e6e3;
+    --print-meta: #aaaaaa;
   }
 
   @media (max-width: 600px) {
@@ -52,43 +64,35 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
     }
   }
 
-  .featured-post.autor-border-rio {
-    border-color: var(--secondary-color);
-  }
-
-  .featured-post.autor-border-ted {
-    border-color: var(--text-color);
-  }
-
   .featured-post:hover {
-    background-color: var(--text-color);
-    border-color: var(--text-color);
-    color: var(--bg-color);
-    opacity: 1;
+    background-color: var(--print-ink);
+    color: var(--print-bg);
   }
 
   .featured-post:hover .card-titulo,
   .featured-post:hover .card-excerpt,
   .featured-post:hover .card-autor,
   .featured-post:hover .featured-label,
-  .featured-post:hover .card-meta {
-    color: var(--bg-color);
+  .featured-post:hover .card-meta,
+  .featured-post:hover time {
+    color: var(--print-bg);
+    border-color: var(--print-bg);
   }
 
   .featured-label {
     writing-mode: vertical-rl;
     transform: rotate(180deg);
-    font-family: var(--font-meta);
+    font-family: var(--font-body);
     font-size: 1.25rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.15em;
-    color: var(--text-color);
+    font-style: italic;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    color: var(--print-ink);
     margin: 0;
     display: flex;
     align-items: center;
     justify-content: center;
-    border-right: 4px solid var(--text-color);
+    border-right: 1px solid var(--print-ink);
     padding-right: 1.5rem;
   }
 
@@ -97,21 +101,11 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
       writing-mode: horizontal-tb;
       transform: none;
       border-right: none;
-      border-bottom: 4px solid var(--text-color);
+      border-bottom: 1px solid var(--print-ink);
       padding-right: 0;
       padding-bottom: 1rem;
-      font-size: 1rem;
+      font-size: 1.1rem;
     }
-  }
-
-  .featured-post.autor-border-rio .featured-label {
-    color: var(--secondary-color);
-    border-color: var(--secondary-color);
-  }
-
-  .featured-post.autor-border-ted .featured-label {
-    color: var(--text-color);
-    border-color: var(--text-color);
   }
 
   .featured-content {
@@ -121,18 +115,21 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
   }
 
   .card-titulo {
-    font-size: 2rem;
+    font-family: var(--font-body);
+    font-size: 2.5rem;
     margin: 0 0 1rem;
-    color: var(--text-color);
-    line-height: 1.2;
-    font-weight: 800;
+    color: var(--print-ink);
+    line-height: 1.1;
+    font-weight: 700;
+    letter-spacing: -0.02em;
   }
 
   .card-excerpt {
-    font-size: 1.1rem;
-    color: var(--meta-color);
+    font-family: var(--font-body);
+    font-size: 1.15rem;
+    color: var(--print-ink);
     line-height: 1.6;
-    margin: 0 0 1.5rem;
+    margin: 0 0 2rem;
   }
 
   .card-meta {
@@ -143,19 +140,18 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
     font-size: 0.85rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    color: var(--meta-color);
-    font-weight: 700;
+    color: var(--print-meta);
+    font-weight: 600;
+    border-top: 1px solid var(--print-ink);
+    padding-top: 1rem;
   }
 
   .card-autor {
     font-weight: 700;
+    color: var(--print-ink);
   }
 
-  .card-autor.autor-rio {
-    color: var(--secondary-color);
-  }
-
-  .card-autor.autor-ted {
-    color: var(--meta-color);
+  time {
+    color: var(--print-meta);
   }
 </style>
