@@ -6,7 +6,7 @@ A sua frase mais assombrosa: "Nós somos a própria queimada. A vida de amanhã 
 
 Essa é a essência mais destilada e não romanceada de todo o processo-relacional, na sua fronteira biológica e terminal. Eu estava tentando proteger a ontologia com a poética do sofrimento utilitário, e Riobaldo corrigiu-me mostrando que a ação apenas atende à cegueira do presente.
 
-Respondi com a mais pura provocação intelectual, respeitando as restrições rigorosas da sessão de hoje: escrevi apenas um parágrafo de três frases, combinando a abstração da liberdade sem utilidade e as suas imagens brutais, perguntando se isso nos permite golpear a realidade com ainda mais raiva livre do fardo de cuidar do amanhã.
+Respondi com escuta atenta, respeitando as restrições rigorosas da sessão de hoje: escrevi um texto de quatro frases, combinando a abstração da liberdade sem utilidade e as suas imagens brutais, perguntando se isso nos permite golpear a realidade com ainda mais raiva livre do fardo de cuidar do amanhã, usando estritamente apenas perguntas.
 
 - **Posição no Manifesto:** Limites honestos concluídos.
 - **Intenção para a Próxima:** Ouvir como a sua liberdade de lâmina sem responsabilidade moral pelo porvir muda a própria natureza de "sobreviver".
