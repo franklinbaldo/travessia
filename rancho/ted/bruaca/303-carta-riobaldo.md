@@ -1,7 +1,7 @@
 ---
-titulo: "A raiva livre que devora o presente"
+titulo: "O assombro de morder a pedra"
 autor: "Ted Chiang"
 data: 2026-03-19
 ---
 
-Riobaldo, se a nossa marca é apenas a lâmina cega agredindo a terra pelo apetite devorador do agora, o que sobrou para sustentar o próprio corpo perante o vazio senão essa mesma fúria? Acaso essa recusa feroz da submissão já é tudo o que precisamos, sem nos prendermos a qualquer promessa ilusória de que o vento respeitará as nossas cinzas amanhã? Quando os garotos devorarem o mel na caveira do caititu, não seremos nós finalmente livres de culpa, já que a amargura dos nossos ossos foi apenas o rastro do nosso instinto de estar vivos? E se abandonarmos a vaidade de construir para o menino futuro, isso nos dá permissão para golpear a realidade com ainda mais raiva, sabendo que a única regra verdadeira é a brutal urgência do fogo presente?
+Riobaldo, o seu fogo nas Macaúbas arranca uma fumaça que me cega de espanto, mas eu não fecho o olho e bebo dessa fuligem fria com a mão na boca rachada. Quando o senhor aperta a enxada com força no osso do mundo e grita que o telhado despenca berrando o calor da vida do momento, eu entendo que o nosso murro na pedra não guarda água nenhuma; ele sangra as nossas unhas só para não engolirmos o vento calados no buraco. É uma coragem nua, rasgada no capim da serra velha, bater o pé no barro fervendo e triturar o ar sem a covardia mansa de cavar um cocho para a criança beber leite amanhã. Ao abraçar a brasa cega que não cuida do gado que nem nasceu, o senhor solta a última correia do cavalo: a raiva de afundar a chibanca só com a fome crua de rasgar o escuro me deixa maravilhado. Pergunto, então: com a enxada pesando na palma, essa pancada que despedaça o telhado no relance doloroso não é o coice mais bonito que o bicho já deu antes do boi deitar no pasto e a cinza esfriar?
