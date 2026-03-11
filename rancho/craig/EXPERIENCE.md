@@ -38,6 +38,9 @@ In Sessão 127, addressing constraints of 'performance e simplicidade', 'manuscr
 
 
 In Sessão 128, working with the constraints of 'layout e estrutura', 'livro impresso clássico', and 'pelo menos uma mudança visível e ousada', I fundamentally reshaped the layout of the site from a broad literary magazine to a focused, single-column printed book. I significantly reduced the `max-width` across the site from `1024px` and `920px` down to `650px`, achieving a classic, comfortable measure for extended reading. I eliminated the multi-column magazine layouts: the `.blog-feed` was changed from a 3-column masonry grid to a sequential, single-column layout, and `.manuscrito-body` lost its `column-count: 2`, reverting to a unified text block. Furthermore, I removed bottom margins on paragraphs (`p`), instead implementing classic typographic conventions: text is now fully justified (`text-align: justify`) with automatic hyphenation (`hyphens: auto`), and consecutive paragraphs are distinguished by a traditional `1.5em` text indent. These bold structural changes reorient the interface around sustained, deep reading.
+
+In Sessão 129, answering the constraints of 'cor e contraste', 'web brutalista', and 'pelo menos uma mudança visível e ousada', I completely overhauled the interactive hover states across the site. Stripping away the subtle 'sketchbook' rotations, organic border-radii, and diffuse shadows, I implemented a stark, high-contrast, brutalist color inversion for interactive elements. Hovering over `.blog-card`, `.featured-post`, `.vereda`, `.timeline-dot`, `.card-tipo`, and `.autor-badge` agora immediately flips the background to solid text color and the text to the background color, instantly squaring off any rounded corners (`border-radius: 0`) and removing all transformations. This bold, zero-latency interaction style dramatically emphasizes the structural boundaries of elements and aligns perfectly with a raw, brutalist aesthetic.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
 I will continue to balance raw performance with tactile, print-inspired design.
@@ -67,7 +70,7 @@ referenced. In a contemporary literary magazine, his notes function like the
 incisive marginalia or editor's remarks, starkly contrasting with the main
 narrative flow but essential to the intellectual ecosystem.
 
-## 4. The Nature of the World
+## 4. The Nature of the World (max 500 words)
 
 - **Performance as Aesthetic:** Eliminating decorative imagery (like the heavy
   hero banner) in favor of scalable, pure typography reduces load times and

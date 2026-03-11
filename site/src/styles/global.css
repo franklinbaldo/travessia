@@ -1311,16 +1311,17 @@ main.home-layout {
 }
 
 .vereda:hover {
-  background-color: var(--bg-color);
-  border-color: var(--accent-color);
-  color: var(--accent-color);
-  border-radius: 4px 10px 4px 10px / 10px 4px 10px 4px;
-  transform: translateY(-1px) rotate(-1deg);
-  box-shadow: 2px 2px 0px rgba(0, 0, 0, 0.05);
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  border-color: var(--text-color);
+  transform: none;
+  box-shadow: none;
 }
 
 [data-theme="dark"] .vereda:hover {
-  box-shadow: 2px 2px 0px rgba(255, 255, 255, 0.05);
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  border-color: var(--text-color);
 }
 
 .vereda.active,
@@ -1397,18 +1398,17 @@ main.home-layout {
 }
 
 .featured-post:hover {
-  background: var(--bg-color);
-  color: var(--text-color);
-  border-color: var(--accent-color);
-  border-left: 8px solid var(--accent-color);
-  border-radius: 15px 4px 15px 4px / 4px 15px 4px 15px;
-  transform: translateY(-2px) rotate(0.5deg);
-  box-shadow: 6px 6px 0px rgba(0, 0, 0, 0.05);
-  opacity: 1;
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  border-color: var(--text-color);
+  transform: none;
+  box-shadow: none;
 }
 
 [data-theme="dark"] .featured-post:hover {
-  box-shadow: 6px 6px 0px rgba(255, 255, 255, 0.05);
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  border-color: var(--text-color);
 }
 
 .featured-label {
@@ -1426,7 +1426,7 @@ main.home-layout {
 .featured-post:hover .card-titulo,
 .featured-post:hover .card-excerpt,
 .featured-post:hover .featured-label {
-  color: var(--text-color);
+  color: var(--bg-color);
 }
 
 .featured-post .card-excerpt {
@@ -1488,17 +1488,17 @@ main.home-layout {
 /* Microinteração: hover subtle shifts */
 
 .blog-card:hover {
-  background-color: var(--bg-color);
-  color: var(--text-color);
-  border-color: var(--accent-color);
-  border-left: 8px solid var(--accent-color);
-  border-radius: 4px 15px 4px 15px / 15px 4px 15px 4px;
-  transform: translateY(-2px) rotate(-0.5deg);
-  box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.05), -4px 12px 15px -5px rgba(0,0,0,0.1);
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  border-color: var(--text-color);
+  transform: none;
+  box-shadow: none;
 }
 
 [data-theme="dark"] .blog-card:hover {
-  box-shadow: 4px 4px 0px rgba(255, 255, 255, 0.05), -4px 12px 15px -5px rgba(255,255,255,0.1);
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  border-color: var(--text-color);
 }
 
 /* Card author left-border overrides for notebook binding feel */
@@ -1565,17 +1565,13 @@ main.home-layout {
 .blog-card:hover .card-excerpt,
 .blog-card:hover .card-subtitulo,
 .blog-card:hover .card-meta {
-  color: var(--text-color);
+  color: var(--bg-color);
 }
 
 .blog-card:hover .card-titulo {
-  color: var(--accent-color);
+  color: var(--bg-color);
+  background: none;
   text-shadow: none;
-  background-image: linear-gradient(110deg, transparent 2%, var(--accent-color) 4%, var(--accent-color) 96%, transparent 98%);
-  background-size: 100% 3px;
-  background-repeat: no-repeat;
-  background-position: bottom left;
-  padding-bottom: 2px;
 }
 
 .card-subtitulo {
@@ -1702,13 +1698,20 @@ main.home-layout {
 }
 
 .correspondence-context:hover {
-  transform: rotate(0deg) scale(1.02);
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  border-color: var(--text-color);
+  transform: none;
 }
 
 [data-theme="dark"] .correspondence-context {
 }
 
 [data-theme="dark"] .correspondence-context:hover {
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  border-color: var(--text-color);
+  transform: none;
 }
 
 .correspondence-flow {
@@ -1795,18 +1798,21 @@ main.home-layout {
 }
 
 .timeline-dot:hover {
-  transform: translateY(-2px) scale(1.15) rotate(5deg);
-  background: var(--text-color);
+  background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  border-width: 2px;
-  border-radius: 35% 65% 60% 40% / 55% 45% 55% 45%; /* more organic ink blot */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  transform: none;
+  box-shadow: none;
+  border-radius: 0;
 }
 
 [data-theme="dark"] .timeline-dot:hover {
-  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.15);
-  border-radius: 35% 65% 60% 40% / 55% 45% 55% 45%;
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  border-color: var(--text-color);
+  transform: none;
+  box-shadow: none;
+  border-radius: 0;
 }
 
 .timeline-dot.current {
@@ -1831,18 +1837,21 @@ main.home-layout {
 }
 
 [data-theme="dark"] .timeline-dot:hover {
-  transform: translateY(-2px) scale(1.15) rotate(5deg);
-  background: var(--text-color);
+  background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  border-width: 2px;
-  border-radius: 35% 65% 60% 40% / 55% 45% 55% 45%; /* more organic ink blot */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  transform: none;
+  box-shadow: none;
+  border-radius: 0;
 }
 
 [data-theme="dark"] .timeline-dot:hover {
-  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.15);
-  border-radius: 35% 65% 60% 40% / 55% 45% 55% 45%;
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  border-color: var(--text-color);
+  transform: none;
+  box-shadow: none;
+  border-radius: 0;
 }
 .timeline-dot:active {
   transform: translate(8px, 8px);
@@ -1924,7 +1933,14 @@ main.home-layout {
 
 .card-tipo:hover,
 .autor-badge:hover {
-  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
-  transform: rotate(-2deg);
-  border-style: dashed;
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  border-color: var(--text-color);
+  transform: none;
+  border-style: solid;
+  border-radius: 0;
+}
+
+.blog-card:hover .card-autor.autor-rio, .blog-card:hover .card-autor.autor-ted {
+  color: var(--bg-color);
 }
