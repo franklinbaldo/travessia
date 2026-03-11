@@ -18,13 +18,13 @@
   --progress-start: #dc322f;
   --progress-end: #268bd2;
 
-  --font-body: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  --font-body: 'Courier New', Courier, monospace;
   --font-ted: "Courier New", Courier, monospace;
-  --font-meta: 'SF Mono', Consolas, 'Courier New', monospace;
+  --font-meta: 'Courier New', Courier, monospace;
 
-  --max-width: 650px; /* Narrowed for classic book layout */
-  --body-size: 19px;
-  --body-lh: 1.75;
+  --max-width: 95vw;
+  --body-size: 22px;
+  --body-lh: 1.05;
 }
 
 [data-theme="dark"] {
@@ -127,9 +127,9 @@ body::before {
 /* === Layout === */
 
 main {
-  max-width: 800px;
+  max-width: 95vw;
   margin: 0 auto;
-  padding: 4rem 2rem 5rem;
+  padding: 2rem 1rem;
 }
 
 @media (max-width: 600px) {
@@ -162,17 +162,23 @@ h3 {
 }
 
 h1 {
-  font-size: 3rem;
-  margin: 0 0 1.5rem;
+  font-size: 12vw;
+  margin: 0 0 2rem;
   color: var(--text-color);
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: -0.08em;
+  line-height: 0.85;
+  word-break: break-all;
 }
 h2 {
-  font-size: 2rem;
-  margin: 4rem 0 2rem;
-  color: var(--text-color);
-  letter-spacing: 0.02em;
+  font-size: 8vw;
+  margin: 3rem 0 1rem;
+  color: var(--bg-color);
+  background-color: var(--text-color);
+  letter-spacing: -0.05em;
+  padding: 0.5rem;
+  display: inline-block;
+  line-height: 1;
 }
 h3 {
   font-size: 1.6rem;
@@ -190,14 +196,14 @@ h3 {
 }
 
 p {
-  margin: 0 0 1.75rem 0;
+  margin: 0 0 2rem 0;
   text-align: left;
-  letter-spacing: 0.01em;
-  word-spacing: normal;
+  letter-spacing: -0.03em;
+  word-spacing: -0.05em;
 }
 
 p + p {
-  text-indent: 2rem;
+  text-indent: 0;
   margin-top: 0;
 }
 
