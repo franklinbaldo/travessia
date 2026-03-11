@@ -1364,84 +1364,80 @@ main.home-layout {
   display: block;
   break-inside: avoid;
   margin-bottom: 2.5rem;
-  padding: 1.5rem 1.5rem 1.5rem 2rem;
-  background-color: var(--bg-color);
-  border: 2px solid var(--text-color);
-  border-left: 4px solid var(--accent-color);
+  padding: 1.5rem 0;
+  background-color: transparent;
+  border: none;
+  border-top: 1px solid var(--divider-color);
   border-radius: 0;
   text-decoration: none;
-  transition: transform 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94), box-shadow 0.2s ease, border-color 0.2s ease, background-color 0.2s ease;
+  transition: padding-left 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94), background-color 0.4s ease;
 }
 
-
-.blog-card::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 0;
-  height: 0;
-  border-style: solid;
-  border-width: 0 15px 15px 0;
-  border-color: transparent var(--sand-bg) transparent transparent;
-  transition: border-width 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94), border-color 0.2s ease, box-shadow 0.2s ease;
-  z-index: 10;
-  border-bottom-left-radius: 4px;
-  box-shadow: -2px 2px 2px rgba(0,0,0,0.05);
+[data-theme="dark"] .blog-card {
+  border-top: 1px solid var(--divider-color);
 }
 
-.blog-card:hover::before {
-  border-width: 0 35px 35px 0;
-  border-color: transparent var(--accent-color) transparent transparent;
-  border-bottom-left-radius: 8px;
-  box-shadow: -4px 4px 6px rgba(0,0,0,0.2);
-}
-
-[data-theme="dark"] .blog-card::before {
-  border-color: transparent var(--sand-bg) transparent transparent;
-
-}
-
-[data-theme="dark"] .blog-card:hover::before {
-  border-color: transparent var(--text-color) transparent transparent;
-
-}
-
-/* Microinteração: hover subtle shifts - Orelha de Caderno */
+/* Microinteração: hover subtle shifts - Livro Impresso Clássico */
 
 .blog-card:hover {
-  border-color: var(--accent-color);
-  transform: translateY(-4px) rotate(-0.5deg);
-  box-shadow: 6px 8px 0px rgba(0, 0, 0, 0.1);
-  background-color: var(--text-color);
-}
-
-.blog-card:hover * {
-  color: var(--bg-color) !important;
-  border-color: var(--bg-color) !important;
-  transition: color 0.2s ease, border-color 0.2s ease;
+  background-color: rgba(0,0,0,0.02);
+  padding-left: 1.5rem; /* Elegant subtle indent like a classic paragraph */
+  border-top-color: var(--text-color);
 }
 
 [data-theme="dark"] .blog-card:hover {
-  border-color: var(--accent-color);
-
-
-  background-color: var(--text-color);
+  background-color: rgba(255,255,255,0.02);
+  border-top-color: var(--text-color);
 }
 
-[data-theme="dark"] .blog-card:hover * {
-  color: var(--bg-color) !important;
-  border-color: var(--bg-color) !important;
+.blog-card .card-titulo {
+  transition: color 0.3s ease, text-shadow 0.3s ease;
 }
 
-/* Card author left-border overrides for notebook binding feel */
-
-.blog-card[data-autor="rio"] {
-  border-left: 6px solid var(--text-color);
+.blog-card:hover .card-titulo {
+  color: var(--accent-color);
+  /* Classic letterpress deboss effect on hover */
+  text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.8), 0px -1px 0px rgba(0, 0, 0, 0.15);
 }
 
-.blog-card[data-autor="ted"] {
-  border-left: 6px solid var(--text-color);
+[data-theme="dark"] .blog-card:hover .card-titulo {
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.8), 0px -1px 0px rgba(255, 255, 255, 0.15);
+}
+
+.blog-card .card-excerpt {
+  transition: color 0.3s ease;
+}
+
+.blog-card:hover .card-excerpt {
+  color: var(--text-color); /* Richer ink on hover */
+}
+
+/* Classic editorial author indicators */
+.blog-card[data-autor="rio"]::before {
+  content: "—";
+  position: absolute;
+  left: -1rem;
+  top: 1.5rem;
+  color: var(--secondary-color);
+  font-weight: bold;
+  opacity: 0;
+  transition: opacity 0.4s ease, left 0.4s ease;
+}
+
+.blog-card[data-autor="ted"]::before {
+  content: "—";
+  position: absolute;
+  left: -1rem;
+  top: 1.5rem;
+  color: var(--text-color);
+  font-weight: bold;
+  opacity: 0;
+  transition: opacity 0.4s ease, left 0.4s ease;
+}
+
+.blog-card:hover::before {
+  opacity: 1;
+  left: 0.25rem;
 }
 
 /* Card elements */
