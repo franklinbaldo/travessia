@@ -228,32 +228,7 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     </div>
   </section>
 
-  <!-- Featured Post — Última Carta -->
-  {featuredPost && (
-    <FeaturedPost
-      url={featuredPost.url}
-      titulo={featuredPost.titulo}
-      autorClasse={featuredPost.autorClasse}
-      autor={featuredPost.autor}
-      excerpt={featuredPost.longExcerpt || featuredPost.excerpt}
-      data={featuredPost.data}
-    />
-  )}
-
-  <!-- Veredas — Category Navigation -->
-  {tipos.length > 2 && (
-    <nav class="veredas" aria-label="Categorias">
-      {tipos.map((tipo) => (
-        <button
-          class={`vereda ${tipo === 'todos' ? 'active' : ''}`}
-          data-filter={tipo}
-          aria-pressed={tipo === 'todos' ? 'true' : 'false'}
-        >
-          {tipoLabels[tipo] || tipo}
-        </button>
-      ))}
-    </nav>
-  )}
+  <!-- Featured Post removed for performance -->
 
   <!-- Blog Feed — O Fluxo Contínuo -->
   {gridPosts.length === 0 ? (
@@ -276,28 +251,7 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     </div>
   )}
 
-  <!-- Category filter -->
-  <script>
-    const buttons = document.querySelectorAll<HTMLButtonElement>('.vereda');
 
-    buttons.forEach((btn) => {
-      btn.addEventListener('click', () => {
-        const filter = btn.getAttribute('data-filter');
-
-        buttons.forEach((b) => {
-          b.classList.remove('active');
-          b.setAttribute('aria-pressed', 'false');
-        });
-        btn.classList.add('active');
-        btn.setAttribute('aria-pressed', 'true');
-
-        document.querySelectorAll<HTMLElement>('[data-tipo]').forEach((card) => {
-          card.style.display =
-            filter === 'todos' || card.getAttribute('data-tipo') === filter ? '' : 'none';
-        });
-      });
-    });
-  </script>
 
 </Layout>
 
@@ -325,13 +279,15 @@ const tipos = ['todos', ...Array.from(tiposSet)];
   }
 
   .blog-hero h1 {
-    font-size: clamp(4rem, 15vw, 10rem);
+    font-size: clamp(2rem, 10vw, 4rem);
     margin: 0;
     letter-spacing: -0.04em;
     line-height: 0.85;
     color: var(--accent-color);
     text-transform: uppercase;
     border-bottom: none;
+    word-break: keep-all;
+    white-space: nowrap;
   }
 
   .hero-quote {
@@ -459,39 +415,50 @@ const tipos = ['todos', ...Array.from(tiposSet)];
   /* Split Screen Layout for Desktop */
   @media (min-width: 900px) {
     :global(main.home-layout) {
-      max-width: 1100px !important;
+      max-width: 1200px !important;
       display: grid;
-      grid-template-columns: 1fr 350px;
+      grid-template-columns: 1fr 400px;
       grid-template-areas:
-        "nav nav"
-        "featured hero"
-        "veredas hero"
         "feed hero";
-      gap: 2rem 5rem;
+      gap: 2rem 4rem;
       align-items: start;
-      padding-left: 2rem;
+      padding-left: 0;
       padding-right: 0;
     }
 
+    /* Move nav out of main flow visually */
     :global(main.home-layout > nav) {
-      grid-area: nav;
-      margin-bottom: 2rem;
-      padding-left: 2rem;
-      padding-right: 2rem;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background: var(--bg-color);
+      z-index: 100;
+      margin-bottom: 0;
+      padding: 1rem 2rem;
+      border-bottom: 2px solid var(--text-color);
+    }
+
+    /* Add padding to account for fixed nav */
+    :global(main.home-layout) {
+      padding-top: 6rem !important;
+      padding-left: 2rem !important;
+      padding-right: 2rem !important;
     }
 
     .blog-hero {
       grid-area: hero;
       position: sticky;
-      top: 0;
+      top: 6rem;
       margin-bottom: 0 !important;
-      height: 100vh;
+      height: calc(100vh - 6rem);
       overflow-y: auto;
       scrollbar-width: none;
-      /* Bold Notebook Spine separating margin from main content */
+      /* Bold Spine */
       border-left: 4px double var(--accent-color);
       border-right: none;
     }
+
     .blog-hero::-webkit-scrollbar {
       display: none;
     }
@@ -500,17 +467,19 @@ const tipos = ['todos', ...Array.from(tiposSet)];
       height: 100%;
       display: flex;
       flex-direction: column;
-      justify-content: center;
+      justify-content: flex-start;
       margin: 0 !important;
       border: none;
       background: transparent;
       padding-left: 2.5rem;
-      padding-right: 2rem;
+      padding-top: 2rem;
     }
 
     .blog-hero h1 {
-        font-size: clamp(5rem, 10vw, 8rem);
+        font-size: clamp(2rem, 3.5vw, 3rem);
         text-align: left;
+        word-break: normal;
+        white-space: normal;
     }
 
     .hero-quote, .hero-sub, .hero-characters {
@@ -519,22 +488,12 @@ const tipos = ['todos', ...Array.from(tiposSet)];
         justify-content: flex-start;
     }
 
-    :global(.featured-post) {
-      grid-area: featured;
-      margin-bottom: 0 !important;
-      margin-right: 2rem;
-    }
-
-    .veredas {
-      grid-area: veredas;
-      margin-bottom: 0 !important;
-      justify-content: flex-start;
-    }
-
     .blog-feed {
       grid-area: feed;
       padding-bottom: 4rem;
-      margin-right: 2rem;
+      margin-top: 0;
+      padding-top: 0;
+      border-top: none;
     }
   }
 </style>
