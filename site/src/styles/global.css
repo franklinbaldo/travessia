@@ -84,25 +84,25 @@ button,
 }
 
 ::selection {
-  background-color: rgba(255, 255, 0, 0.4); /* Marker yellow */
-  color: var(--text-color);
-  text-shadow: 1px 1px 0 rgba(255,255,255,0.5);
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  text-shadow: none;
 }
 
 ::-moz-selection {
-  background-color: rgba(255, 255, 0, 0.4);
-  color: var(--text-color);
+  background-color: var(--text-color);
+  color: var(--bg-color);
 }
 
 [data-theme="dark"] ::selection {
-  background-color: rgba(255, 255, 0, 0.4); /* Marker yellow */
-  color: var(--text-color);
-  text-shadow: 1px 1px 0 rgba(255,255,255,0.5);
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  text-shadow: none;
 }
 
 [data-theme="dark"] ::-moz-selection {
-  background-color: rgba(255, 255, 0, 0.4);
-  color: var(--text-color);
+  background-color: var(--text-color);
+  color: var(--bg-color);
 }
 
 body {
@@ -928,9 +928,10 @@ body * {
 }
 
 .manuscrito-body img:hover {
-  transform: rotate(1deg) translateY(-4px) scale(1.02);
-  border-radius: 2% 98% 3% 97% / 96% 3% 97% 4%;
-  box-shadow: 4px 4px 15px rgba(0,0,0,0.1);
+  transform: translate(-8px, -8px);
+  border-radius: 0;
+  box-shadow: 16px 16px 0 var(--accent-color);
+  filter: contrast(120%) saturate(0) sepia(100%) hue-rotate(-50deg);
 }
 
 [data-theme="dark"] .manuscrito-body img {
@@ -1315,14 +1316,16 @@ main.home-layout {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  transform: none;
-  box-shadow: none;
+  transform: translate(-4px, -4px);
+  box-shadow: 6px 6px 0 var(--accent-color);
 }
 
 [data-theme="dark"] .vereda:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
+  transform: translate(-4px, -4px);
+  box-shadow: 6px 6px 0 var(--accent-color);
 }
 
 .vereda.active,
@@ -1402,16 +1405,16 @@ main.home-layout {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  transform: translate(-4px, -4px);
-  box-shadow: 4px 4px 0 var(--accent-color);
+  transform: translate(-6px, -6px);
+  box-shadow: 12px 12px 0 var(--accent-color), 0 0 0 2px var(--text-color);
 }
 
 [data-theme="dark"] .featured-post:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  transform: translate(-4px, -4px);
-  box-shadow: 4px 4px 0 var(--accent-color);
+  transform: translate(-6px, -6px);
+  box-shadow: 12px 12px 0 var(--accent-color), 0 0 0 2px var(--text-color);
 }
 
 .featured-label {
@@ -1492,14 +1495,26 @@ main.home-layout {
 
 .blog-card:hover {
   border-color: var(--accent-color);
-  transform: translate(-4px, -4px);
-  box-shadow: 4px 4px 0 var(--text-color);
+  transform: translate(-6px, -6px);
+  box-shadow: 12px 12px 0 var(--accent-color), 0 0 0 2px var(--text-color);
+  background-color: var(--text-color);
+}
+
+.blog-card:hover * {
+  color: var(--bg-color) !important;
+  border-color: var(--bg-color) !important;
 }
 
 [data-theme="dark"] .blog-card:hover {
   border-color: var(--accent-color);
-  transform: translate(-4px, -4px);
-  box-shadow: 4px 4px 0 var(--text-color);
+  transform: translate(-6px, -6px);
+  box-shadow: 12px 12px 0 var(--accent-color), 0 0 0 2px var(--text-color);
+  background-color: var(--text-color);
+}
+
+[data-theme="dark"] .blog-card:hover * {
+  color: var(--bg-color) !important;
+  border-color: var(--bg-color) !important;
 }
 
 /* Card author left-border overrides for notebook binding feel */
@@ -1692,18 +1707,22 @@ main.home-layout {
 }
 
 .correspondence-context:hover {
-  border-color: var(--accent-color);
-  color: var(--text-color);
-  transform: none;
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  border-color: var(--text-color);
+  transform: translate(-4px, -4px) rotate(0);
+  box-shadow: 8px 8px 0 var(--accent-color);
 }
 
 [data-theme="dark"] .correspondence-context {
 }
 
 [data-theme="dark"] .correspondence-context:hover {
-  border-color: var(--accent-color);
-  color: var(--text-color);
-  transform: none;
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  border-color: var(--text-color);
+  transform: translate(-4px, -4px) rotate(0);
+  box-shadow: 8px 8px 0 var(--accent-color);
 }
 
 .correspondence-flow {
@@ -1790,17 +1809,19 @@ main.home-layout {
 }
 
 .timeline-dot:hover {
-  color: var(--accent-color);
-  border-color: var(--accent-color);
-  transform: translate(-2px, -2px);
-  box-shadow: 2px 2px 0 var(--text-color);
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  border-color: var(--text-color);
+  transform: translate(-4px, -4px);
+  box-shadow: 6px 6px 0 var(--accent-color);
 }
 
 [data-theme="dark"] .timeline-dot:hover {
-  color: var(--accent-color);
-  border-color: var(--accent-color);
-  transform: translate(-2px, -2px);
-  box-shadow: 2px 2px 0 var(--text-color);
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  border-color: var(--text-color);
+  transform: translate(-4px, -4px);
+  box-shadow: 6px 6px 0 var(--accent-color);
 }
 
 .timeline-dot.current {
@@ -1825,17 +1846,19 @@ main.home-layout {
 }
 
 [data-theme="dark"] .timeline-dot:hover {
-  color: var(--accent-color);
-  border-color: var(--accent-color);
-  transform: translate(-2px, -2px);
-  box-shadow: 2px 2px 0 var(--text-color);
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  border-color: var(--text-color);
+  transform: translate(-4px, -4px);
+  box-shadow: 6px 6px 0 var(--accent-color);
 }
 
 [data-theme="dark"] .timeline-dot:hover {
-  color: var(--accent-color);
-  border-color: var(--accent-color);
-  transform: translate(-2px, -2px);
-  box-shadow: 2px 2px 0 var(--text-color);
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  border-color: var(--text-color);
+  transform: translate(-4px, -4px);
+  box-shadow: 6px 6px 0 var(--accent-color);
 }
 .timeline-dot:active {
   transform: translate(8px, 8px);
@@ -1917,7 +1940,10 @@ main.home-layout {
 
 .card-tipo:hover,
 .autor-badge:hover {
-  color: var(--accent-color);
-  border-color: var(--accent-color);
+  background-color: var(--text-color);
+  color: var(--bg-color) !important;
+  border-color: var(--text-color);
+  transform: translate(-4px, -4px);
+  box-shadow: 6px 6px 0 var(--accent-color);
 }
 
