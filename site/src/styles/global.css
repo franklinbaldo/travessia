@@ -1321,48 +1321,6 @@ main.home-layout {
   }
 }
 
-/* === Featured Post — Última Carta === */
-
-.featured-post {
-  display: block;
-  position: relative;
-  margin-bottom: 2rem;
-  padding: 1.75rem 2rem;
-  border: 2px solid var(--text-color);
-  border-radius: 0;
-  text-decoration: none;
-  border-left: 4px solid var(--accent-color);
-
-
-}
-
-.featured-post::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 0;
-  height: 0;
-  border-style: solid;
-  border-width: 0 15px 15px 0;
-  border-color: transparent var(--sand-bg) transparent transparent;
-
-
-  z-index: 10;
-  border-bottom-left-radius: 0;
-}
-
-.featured-post:hover::before {
-  border-width: 0 30px 30px 0;
-  border-color: transparent var(--text-color) transparent transparent;
-
-  border-bottom-left-radius: 0;
-}
-
-.featured-post.autor-border-rio {
-  border-left-color: var(--text-color);
-}
-
 /* === Blog Card — Gotas no Rio === */
 
 .blog-card {
