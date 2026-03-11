@@ -1583,6 +1583,37 @@ main.home-layout {
   border-color: var(--text-color);
 }
 
+/* Microinteração: Revista Literária Sublinhado Elegante */
+.autor-badge, .character-badge {
+  position: relative;
+  overflow: hidden;
+  transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.autor-badge::before, .character-badge::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: var(--accent-color);
+  transform: scaleX(0);
+  transform-origin: right center;
+  transition: transform 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+  z-index: 0;
+}
+
+.autor-badge:hover::before, .character-badge:hover::before {
+  transform: scaleX(1);
+  transform-origin: left center;
+}
+
+.autor-badge span, .character-badge span {
+  position: relative;
+  z-index: 1;
+}
+
 /* === Correspondence Context === */
 
 .correspondence-context {
