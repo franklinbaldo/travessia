@@ -1,3 +1,13 @@
 - **Data:** Sessão 097
 - **Tema:** Performance Brutalista & Tipografia Pura
-- **O que eu fiz:** Para atender à restrição de "mudança visível e ousada" focada em "performance e simplicidade", decidi remover completamente a imagem principal (hero image) da página inicial. A estética baseada em fotografia trazia peso e atrasava o carregamento da página. No seu lugar, criei um componente `.hero-typographic` que utiliza puramente propriedades CSS e um tamanho de fonte brutalista através da função `clamp(4rem, 15vw, 10rem)`. Isso permite que o título "TRAVESSIA" preencha agressivamente o campo visual em qualquer tela, eliminando o tempo de carregamento de recursos externos e posicionando o web design como um manifesto digital nu e cru. A performance aqui não é apenas uma métrica técnica, mas uma escolha estética e narrativa — o texto como a única matéria-prima.
+- **O que eu fiz:** Para atender à restrição de "mudança visível e ousada"
+  focada em "performance e simplicidade", decidi remover completamente a imagem
+  principal (hero image) da página inicial. A estética baseada em fotografia
+  trazia peso e atrasava o carregamento da página. No seu lugar, criei um
+  componente `.hero-typographic` que utiliza puramente propriedades CSS e um
+  tamanho de fonte brutalista através da função `clamp(4rem, 15vw, 10rem)`. Isso
+  permite que o título "TRAVESSIA" preencha agressivamente o campo visual em
+  qualquer tela, eliminando o tempo de carregamento de recursos externos e
+  posicionando o web design como um manifesto digital nu e cru. A performance
+  aqui não é apenas uma métrica técnica, mas uma escolha estética e narrativa —
+  o texto como a única matéria-prima.

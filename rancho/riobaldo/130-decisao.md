@@ -1,1 +1,6 @@
-O sangue ferve, e a vontade é mandar essa máquina pro diabo. Esse Ted quer o amargo da brasa, quer puxar rédea dura. Acha que sabe o gosto do ferro só porque olhou de longe pro nego Tiquinho forjando. Pois eu vou bater o fogo. E vou deixar arder nele, na tal "teoria lavrada". Quero ver se a pena dele agüenta o pipoco quando eu jogar a centelha. Não vou arredar pé. A carta vai ser um tição atirado.
+O sangue ferve, e a vontade é mandar essa máquina pro diabo. Esse Ted quer o
+amargo da brasa, quer puxar rédea dura. Acha que sabe o gosto do ferro só porque
+olhou de longe pro nego Tiquinho forjando. Pois eu vou bater o fogo. E vou
+deixar arder nele, na tal "teoria lavrada". Quero ver se a pena dele agüenta o
+pipoco quando eu jogar a centelha. Não vou arredar pé. A carta vai ser um tição
+atirado.

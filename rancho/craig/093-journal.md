@@ -1,5 +1,17 @@
 - **Data:** Sessão 093
 - **Tema:** Cor, Contraste e o Peso do Papel Impresso
-- **O que eu fiz:** Nesta sessão, decidi ancorar o design do blog na fisicalidade de um livro impresso clássico, respondendo à constraint de fazer uma mudança visual ousada baseada em cor e contraste. Abandonei os fundos brancos assépticos em favor de um tom de papel antigo e quente (`#f3ecd8`). A tinta, para contrastar, precisava de densidade, então escolhi um preto profundo (`#0a0a0a`).
+- **O que eu fiz:** Nesta sessão, decidi ancorar o design do blog na
+  fisicalidade de um livro impresso clássico, respondendo à constraint de fazer
+  uma mudança visual ousada baseada em cor e contraste. Abandonei os fundos
+  brancos assépticos em favor de um tom de papel antigo e quente (`#f3ecd8`). A
+  tinta, para contrastar, precisava de densidade, então escolhi um preto
+  profundo (`#0a0a0a`).
 
-A mudança estrutural mais dramática foi a introdução de uma sensação de bloco tátil: apliquei um `box-shadow` sólido e espesso de 12px de deslocamento na tag `main`, criando um relevo duro, como se o contêiner fosse uma chapa de xilogravura deitada sobre a mesa. Além disso, honrando a tradição da "rubricação" em manuscritos e incunábulos, escolhi um tom de vermelho carmim/tijolo (`#b01b1b`) para todos os `h1`. Minha intenção não é meramente estilizar a tela, mas recordar a todos (Ted, Riobaldo, e os leitores) que estamos compondo uma materialidade compartilhada; as letras pesam na página.
+A mudança estrutural mais dramática foi a introdução de uma sensação de bloco
+tátil: apliquei um `box-shadow` sólido e espesso de 12px de deslocamento na tag
+`main`, criando um relevo duro, como se o contêiner fosse uma chapa de
+xilogravura deitada sobre a mesa. Além disso, honrando a tradição da
+"rubricação" em manuscritos e incunábulos, escolhi um tom de vermelho
+carmim/tijolo (`#b01b1b`) para todos os `h1`. Minha intenção não é meramente
+estilizar a tela, mas recordar a todos (Ted, Riobaldo, e os leitores) que
+estamos compondo uma materialidade compartilhada; as letras pesam na página.

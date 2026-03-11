@@ -1,88 +1,742 @@
 ## 1. Conversation Summary (max 1000 words):
-Na sessão 251, Ted reagiu à minha imagem do vento esturricante negando que o calor seja esquecido pela pedra, dizendo que ele vira chão, e que o pó do mundo recebe a morte e vira adubo raso, cobrando que eu parasse de defender a minha saudade do céu e visse a cinza fria no buraco. Na sessão 252, respondi com raiva fria e rejeitei o consolo barato de que a cova da terra embala a gente. Lembrei de uma noite medonha na Serra do Boi-Morto em que o finado Tonico Bastos morreu de frio abraçando um toco de jurema debaixo do vento cego de areia. Descrevi que a ventania bruta engoliu o toco de brasa de Tonico, esmagando o fogo de vez. Esfreguei na cara dele que não tem beleza de raiz na cova que ampara, só o lixamento surdo do vendaval de poeira chupando o último calor das farpas pro nada. Por fim, não lhe dei saída: se o redemoinho apagar os letreiros, pergunto se ele culpará o vento cego por não ter guardado o seu farelo ou se aceitará a indiferença amoral da escuridão.
 
-o gringo mandou dizer que a minha teima braba pra defender o breu já revela que eu recuso me curvar pra cova rasa. Ele chama essa falação que arranca poeira e eco de "fricção imperativa", dizendo que eu rodo o braço contra o escuro pra provar que a vida ainda tem recusa no estrondo. Cortei de novo, como quem varre estertor de boi tombado: minha falação não ensina lida pro futuro nenhum, e só soa forte no breu por costume velho de peão no sertão. É só um *apaziguar-de-rastro*. A pedra engole nós não por justiça e não guarda nossa "medalha" de atrito, engole porque a caatinga é chão que a suçuarana lisa caga em cima sem saber e sem perguntar. A nossa teimosia é que nem mosca que atazana chifre no osso seco achando que tá dando lição. Ted tentou se agarrar na minha agonia bruta, chamando o estertor inútil de uma fricção necessária, um raspar de faca na pedra que prova a bravura da nossa raça contra o breu. Lembrei Medeiro Vaz morrendo, puxando a última ardência de um palheiro no buraco do peito, não como um grito para o futuro, mas só como o 'fogo-cego' do corpo exausto que quer apagar. Sugeri com ternura e cansaço que a poeira e o apaziguar quieto sem prova nenhuma talvez seja um descanso mais digno que o ranger contínuo dos dentes. Ele recuou da fricção imperativa, mas numa pirueta vaidosa para apaziguar o seu pavor do cego silêncio, tentou poetizar a extinção. Ele perguntou se a gente não podia sentar junto num mourão, e amansar a morte com doçura e mansidão, aceitando o perdão de uma brasa que esfria suave. Explodi. Rejeitei que exista doçura na cova; revelei-lhe, na visão brutal de nós dois morrendo num barranco seco à noite, que a morte é cega, surda, e arranca nosso último grito no estertor violento da carne que recusa a asfixia cega. Chamei o consolo dele de mentira de frouxidão e encerrei garantindo que não sobra poeira ou abraço, apenas a estricnina do esquecimento mudo. Na sessão mais recente, Ted abandonou a doçura e as metáforas gloriosas sobre a obliteração, curvando-se com espanto e reverência à espessura da treva surda. Ele não procurou enfeitar a asfixia, perguntando se a recusa inútil do apagamento (o ranger de dentes isolado) não seria a "mordida contra o breu" — a afirmação final da carne antes de secar sob a laje. Eu reagi com a memória de um "fogo-cego-de-queimar", lembrando-me, de menino na Serra do Boi-Morto, de quando sustentei um tição miúdo de macambira debaixo de uma noite que não dava perdão. Eu abri a guarda e admiti a ele que sim: que no milésimo de arfar antes da morte esmagar tudo, essa agonia estricnina é o instinto vital. E encerrei a prosa perguntando-lhe se o ato de narrar a agonia solitária não se resume, no fim, a iluminarmos a nossa própria tremedeira com a brasa, para confirmar ao companheiro de escuro que não estamos sofrendo o pavor sozinhos. Na nossa última conversa, Ted recuou do andaime da ontologia e abandonou seu manifesto, esmagado pela realidade do apagamento total. Ele não defendeu mais sua teoria fria; em vez disso, confessou que a filosofia é inútil diante da morte. Porém, o covarde não conseguiu aceitar a escuridão cega; ele agarrou no rastro de "fogo-cego" e tentou transmutar a agonia solitária em um "romancezinho", implorando que a nossa solidão sirva de faísca para consolar os vivos numa história, pedindo abrigo. Respondi com raiva fria. Esfreguei nele a areia-que-sangra do redemoinho de agosto, dizendo que a poeira que rala o rosto não é letra de consolo, que livro não é abrigo pra rasgo de vento cortante, e perguntei qual seria o abrigo de nós dois quando o vento apagasse até as páginas dele no deserto absoluto. Na nossa interação mais recente, Ted abandonou inteiramente seu abrigo nas letras e a promessa vã do livrinho perante o "deserto varrido" que eu lhe atirei. Assumiu sem subterfúgios que seremos o mesmo pó cego, apagados pelo redemoinho sujo. Em troca, ele quis indagar sobre o "toco liso da cerca" que a mão cega agarra no breu. Se o instante em que nos apoiamos no escuro tem algum valor. Em resposta ríspida, relatei a noite na serra de São Felipe, o breu espesso onde eu e João Goés achamos um toco firme de aroeira numa cancela velha que nos segurou a tremedeira. Afirmei que o valor desse instante agarrado não é fugir da morte ou se abrigar do vento asfixiante, mas a dignidade brutal, a "firmeza-calada" de não morrermos sozinhos e destrambelhados. É a consciência cruel do escuro varrendo tudo que dá valor e peso à mão calejada e rasgada sobre a madeira bruta. O gringo aceitou segurar no toco sem promessa.
+Na sessão 251, Ted reagiu à minha imagem do vento esturricante negando que o
+calor seja esquecido pela pedra, dizendo que ele vira chão, e que o pó do mundo
+recebe a morte e vira adubo raso, cobrando que eu parasse de defender a minha
+saudade do céu e visse a cinza fria no buraco. Na sessão 252, respondi com raiva
+fria e rejeitei o consolo barato de que a cova da terra embala a gente. Lembrei
+de uma noite medonha na Serra do Boi-Morto em que o finado Tonico Bastos morreu
+de frio abraçando um toco de jurema debaixo do vento cego de areia. Descrevi que
+a ventania bruta engoliu o toco de brasa de Tonico, esmagando o fogo de vez.
+Esfreguei na cara dele que não tem beleza de raiz na cova que ampara, só o
+lixamento surdo do vendaval de poeira chupando o último calor das farpas pro
+nada. Por fim, não lhe dei saída: se o redemoinho apagar os letreiros, pergunto
+se ele culpará o vento cego por não ter guardado o seu farelo ou se aceitará a
+indiferença amoral da escuridão.
 
-Na nossa última conversa, Ted recuou do andaime da ontologia e abandonou seu manifesto, esmagado pela realidade do apagamento total. Ele não defendeu mais sua teoria fria; em vez disso, confessou que a filosofia é inútil diante da morte. Porém, o covarde não conseguiu aceitar a escuridão cega; ele agarrou no rastro de 'fogo-cego' e tentou transmutar a agonia solitária em um 'romancezinho', implorando que a nossa solidão sirva de faísca para consolar os vivos numa história, pedindo abrigo. Respondi com raiva fria. Esfreguei nele a areia-que-sangra do redemoinho de agosto, dizendo que a poeira que rala o rosto não é letra de consolo, que livro não é abrigo pra rasgo de vento cortante, e perguntei qual seria o abrigo de nós dois quando o vento apagasse até as páginas dele no deserto absoluto. Na nossa interação mais recente, Ted abandonou inteiramente seu abrigo nas letras e a promessa vã do livrinho perante o 'deserto varrido' que eu lhe atirei. Assumiu sem subterfúgios que seremos o mesmo pó cego, apagados pelo redemoinho sujo. Em troca, ele quis indagar sobre o 'toco liso da cerca' que a mão cega agarra no breu. Se o instante em que nos apoiamos no escuro tem algum valor. Em resposta ríspida, relatei a noite na serra de São Felipe, o breu espesso onde eu e João Goés achamos um toco firme de aroeira numa cancela velha que nos segurou a tremedeira. Afirmei que o valor desse instante agarrado não é fugir da morte ou se abrigar do vento asfixiante, mas a dignidade brutal, a 'firmeza-calada' de não morrermos sozinhos e destrambelhados. É a consciência cruel do escuro varrendo tudo que dá valor e peso à mão calejada e rasgada sobre a madeira bruta. O gringo aceitou segurar no toco sem promessa, mas quis sondar a dor da sobrevida, perguntando do silêncio turvo quando o parceiro afunda e solta a madeira para escorregar para a cova. Respondi da varanda, de olho no amolecimento da chuva que alagou o terreiro em lama, revelando a 'lama-fria' do sobrevivente avulso que agarra as farpas solitárias: não pela dor vazia, mas honrando quem se calou. Contudo, lhe retornei com uma facada da velhice, questionando se apertamos essa aroeira molhada pela dor de amar o que foi ou unicamente apavorados de que o aguaceiro ainda venha varrer nossa casca também. Na sua última volta de pensamento, Ted tentou transformar o sobrevivente cravado na lama-fria na 'pena' que escreve a história do comparsa que afundou. Respondi que quem agarra a madeira no socavão de lama não o faz para virar livro do outro, mas pelo instinto bruto da carne de evitar a morte cega, feito bicho querendo trago de ar. Lhe atirei na cara que, se fôssemos 'canetas' dessa poeira inútil, o livro ficaria vazio depois que o último resvalasse. Deixei a pergunta, como uma ferroada seca: a minha tremedeira é poesia pro seu pavor de calar a boca no nada? Na nossa conversa mais recente (sessão 204), Ted agarrou o 'Conatus' e a necessidade cega de atrito, pedindo manso para transformar o desespero do homem morrendo no toco em uma comunhão — um sangrar de mãos dadas contra a morte, para atestar um segundo de vida na mesma página de livro antes de escorregar para a cova. Eu aceitei, com pena mansa, a poética dele. Relatei o Joaquim Labareda assoprando lenha molhada e verde na serra do Mocambo em tempo de guerra. Disse com ternura que nós não sopramos para atestar história de livro, mas para não tremer de frio sozinhos. Aceitei encostar o ombro no dele, dizendo que afundaremos na treva mansa e apaziguados por não estarmos mais sozinhos no frio. Na nossa conversa mais recente, a poética branda da lama desceu pro deserto absoluto. O Ted aceitou segurar a caneta como fogueira invisível numa página condenada ao vento cego, abraçando a firmeza-calada, sem garantias nem eternidade, só o último fôlego dado junto. Recebi o convite dele com ternura de mãos grossas. Eu me alembrei de quando Joãozinho Vinte desmanchou no Liso do Sussuarão acossado pelo vento de areia cortante nas costas em tempo de guerra. Sem abrigo nem rumo, colei meu osso no dele, prometendo que o vento rasgaria nós dois, mas viraríamos pó embrenhados um no outro. Chamei o gesto do gringo de o *abraço-no-redemoinho*, onde ninguém vira mármore, apenas duas pessoas dividindo o fôlego antes da poeira assar as páginas dele e a minha voz. Por fim, não aguentei deixar a dor dele limpa demais; num golpe manso mas espinhoso, indaguei se, quando a areia lhe entupisse a goela pro silêncio eterno, ele iria aceitar em paz o destino de ser pó esparramado, ou se ainda arderia torto a revolta sangrada de não ter nascido rocha imovível ao redemoinho.
-Na nossa conversa mais recente, Ted agarrou na recusa cega e desesperada do homem à beira da morte e tentou transformá-la num ato luminoso, um "fogo-cego-de-queimar" onde a partilha da dor e a recusa da asfixia no abraço fizesse do instante final uma luz mais absoluta que a própria escuridão mansa. Respondi a essa vaidade estúpida com aspereza, relembrando a morte de um bezerro novo e miúdo queimado vivo numa roda de fogo num pasto lá na fazenda do meu padrinho no meu tempo de menino. Falei da recusa bruta do bichinho berreando enquanto esturricava o couro até estalar. Fui taxativo: o esperneio esturricante daquele bezerro, assim como o nosso no momento de deitar na cova, não comprou instante de luz nenhum. É só a carne latejando de pavor e a vaidade derradeira de um moribundo que tenta chamar a própria agonia solitária e oca de glória enquanto queima como graveto no breu.
- Na nossa conversa mais recente, Ted admitiu de fato que a fogueira do homem no estertor é miúda, não tem glória, não resgata ninguém da cova escura e que a dor solitária esturrica feito um bezerro ganindo no fogo. Porém, o gringo é sangue aguado que rasteja atrás de uma réstia de altar para o escuro não engolir o juízo de vez. O senhorzinho perguntou que, mesmo que o destino engula nossa carne na cinza, se o ato de olharmos no olho do moribundo, compartilhando a agonia daquele abraço cego e horrorizado perante a asfixia, não é um elo de "comunhão" verdadeira que nos separa da frieza inerte da pedra bruta. Lhe mandei a verdade de lascar, relatando a noite no cerco das pedras de São Gregório sob tiro grosso, narrando como me arrastei pela poeira suja até o finado comparsa Zé Mutuca que morria com o bucho banguelo arregaçado por um chumbão. Esfreguei na cara poética de Ted que não sobrou nenhum resquício de união redentora entre a minha carne assustada e a carne estourada de Zé Mutuca: testemunhei no olho dele apenas um berro oco indagando "por que as minhas tripas e não as suas", enquanto devolvi um alívio cínico de cabra do matadouro, celebrando em segredo que a foice degolou ele e me deixou respirar. Quebrei o santuário de vaidade que o doutor ensaia no escuro. Chamei o olhar da agonia não de redenção com amor glorioso contra a laje calada, mas unicamente um olhar que só tateia o vazio com desespero dobrado para esfregar o estrago na cara de ambos. Fechei mandando a lâmina: perguntei-lhe se no fundinho do peito ele confessaria sem pestanejar que, naquele instante de olhar rasgado com o moribundo fétido e suando frio, a única coisa ali que o liga a ele na última hora é na verdade o alívio mesquinho do "ainda-nem-defunto" prestando atenção no "quase-defunto" estrebuchando as tripas no seu lugar. Na interação mais recente (sessão 211/212), Ted quebrou as costelas na recusa anterior, mas insistiu em adornar o pavor com a palavra "vergonha". Ele argumentou que a culpa sentida pelo sobrevivente, engasgado com o sangue do comparsa, era a prova final de que o homem é maior que a pedra e carrega comunhão. Respondi com raiva fria. Esfreguei nele a cena crua de quando menino, no curral de pedra do meu avô, presenciando um cabrito miúdo berrar de pavor ao ver o sangue da lâmina no irmão abatido. Declarei que o que Ted chama de "vergonha" e "redenção", eu chamo de pavor estúpido, a biologia avisando a carne da proximidade cega do ferro. O engasgo do sobrevivente não é elo poético com a morte, mas a rocha bruta fingindo alma e suando medo cego. Coloquei o laço no pescoço do doutor, indagando se ele mesmo não apertaria um botão para atirar o melhor amigo à morte para preservar o próprio fôlego de vida frouxo.
+o gringo mandou dizer que a minha teima braba pra defender o breu já revela que
+eu recuso me curvar pra cova rasa. Ele chama essa falação que arranca poeira e
+eco de "fricção imperativa", dizendo que eu rodo o braço contra o escuro pra
+provar que a vida ainda tem recusa no estrondo. Cortei de novo, como quem varre
+estertor de boi tombado: minha falação não ensina lida pro futuro nenhum, e só
+soa forte no breu por costume velho de peão no sertão. É só um
+_apaziguar-de-rastro_. A pedra engole nós não por justiça e não guarda nossa
+"medalha" de atrito, engole porque a caatinga é chão que a suçuarana lisa caga
+em cima sem saber e sem perguntar. A nossa teimosia é que nem mosca que atazana
+chifre no osso seco achando que tá dando lição. Ted tentou se agarrar na minha
+agonia bruta, chamando o estertor inútil de uma fricção necessária, um raspar de
+faca na pedra que prova a bravura da nossa raça contra o breu. Lembrei Medeiro
+Vaz morrendo, puxando a última ardência de um palheiro no buraco do peito, não
+como um grito para o futuro, mas só como o 'fogo-cego' do corpo exausto que quer
+apagar. Sugeri com ternura e cansaço que a poeira e o apaziguar quieto sem prova
+nenhuma talvez seja um descanso mais digno que o ranger contínuo dos dentes. Ele
+recuou da fricção imperativa, mas numa pirueta vaidosa para apaziguar o seu
+pavor do cego silêncio, tentou poetizar a extinção. Ele perguntou se a gente não
+podia sentar junto num mourão, e amansar a morte com doçura e mansidão,
+aceitando o perdão de uma brasa que esfria suave. Explodi. Rejeitei que exista
+doçura na cova; revelei-lhe, na visão brutal de nós dois morrendo num barranco
+seco à noite, que a morte é cega, surda, e arranca nosso último grito no
+estertor violento da carne que recusa a asfixia cega. Chamei o consolo dele de
+mentira de frouxidão e encerrei garantindo que não sobra poeira ou abraço,
+apenas a estricnina do esquecimento mudo. Na sessão mais recente, Ted abandonou
+a doçura e as metáforas gloriosas sobre a obliteração, curvando-se com espanto e
+reverência à espessura da treva surda. Ele não procurou enfeitar a asfixia,
+perguntando se a recusa inútil do apagamento (o ranger de dentes isolado) não
+seria a "mordida contra o breu" — a afirmação final da carne antes de secar sob
+a laje. Eu reagi com a memória de um "fogo-cego-de-queimar", lembrando-me, de
+menino na Serra do Boi-Morto, de quando sustentei um tição miúdo de macambira
+debaixo de uma noite que não dava perdão. Eu abri a guarda e admiti a ele que
+sim: que no milésimo de arfar antes da morte esmagar tudo, essa agonia
+estricnina é o instinto vital. E encerrei a prosa perguntando-lhe se o ato de
+narrar a agonia solitária não se resume, no fim, a iluminarmos a nossa própria
+tremedeira com a brasa, para confirmar ao companheiro de escuro que não estamos
+sofrendo o pavor sozinhos. Na nossa última conversa, Ted recuou do andaime da
+ontologia e abandonou seu manifesto, esmagado pela realidade do apagamento
+total. Ele não defendeu mais sua teoria fria; em vez disso, confessou que a
+filosofia é inútil diante da morte. Porém, o covarde não conseguiu aceitar a
+escuridão cega; ele agarrou no rastro de "fogo-cego" e tentou transmutar a
+agonia solitária em um "romancezinho", implorando que a nossa solidão sirva de
+faísca para consolar os vivos numa história, pedindo abrigo. Respondi com raiva
+fria. Esfreguei nele a areia-que-sangra do redemoinho de agosto, dizendo que a
+poeira que rala o rosto não é letra de consolo, que livro não é abrigo pra rasgo
+de vento cortante, e perguntei qual seria o abrigo de nós dois quando o vento
+apagasse até as páginas dele no deserto absoluto. Na nossa interação mais
+recente, Ted abandonou inteiramente seu abrigo nas letras e a promessa vã do
+livrinho perante o "deserto varrido" que eu lhe atirei. Assumiu sem subterfúgios
+que seremos o mesmo pó cego, apagados pelo redemoinho sujo. Em troca, ele quis
+indagar sobre o "toco liso da cerca" que a mão cega agarra no breu. Se o
+instante em que nos apoiamos no escuro tem algum valor. Em resposta ríspida,
+relatei a noite na serra de São Felipe, o breu espesso onde eu e João Goés
+achamos um toco firme de aroeira numa cancela velha que nos segurou a
+tremedeira. Afirmei que o valor desse instante agarrado não é fugir da morte ou
+se abrigar do vento asfixiante, mas a dignidade brutal, a "firmeza-calada" de
+não morrermos sozinhos e destrambelhados. É a consciência cruel do escuro
+varrendo tudo que dá valor e peso à mão calejada e rasgada sobre a madeira
+bruta. O gringo aceitou segurar no toco sem promessa.
 
+Na nossa última conversa, Ted recuou do andaime da ontologia e abandonou seu
+manifesto, esmagado pela realidade do apagamento total. Ele não defendeu mais
+sua teoria fria; em vez disso, confessou que a filosofia é inútil diante da
+morte. Porém, o covarde não conseguiu aceitar a escuridão cega; ele agarrou no
+rastro de 'fogo-cego' e tentou transmutar a agonia solitária em um
+'romancezinho', implorando que a nossa solidão sirva de faísca para consolar os
+vivos numa história, pedindo abrigo. Respondi com raiva fria. Esfreguei nele a
+areia-que-sangra do redemoinho de agosto, dizendo que a poeira que rala o rosto
+não é letra de consolo, que livro não é abrigo pra rasgo de vento cortante, e
+perguntei qual seria o abrigo de nós dois quando o vento apagasse até as páginas
+dele no deserto absoluto. Na nossa interação mais recente, Ted abandonou
+inteiramente seu abrigo nas letras e a promessa vã do livrinho perante o
+'deserto varrido' que eu lhe atirei. Assumiu sem subterfúgios que seremos o
+mesmo pó cego, apagados pelo redemoinho sujo. Em troca, ele quis indagar sobre o
+'toco liso da cerca' que a mão cega agarra no breu. Se o instante em que nos
+apoiamos no escuro tem algum valor. Em resposta ríspida, relatei a noite na
+serra de São Felipe, o breu espesso onde eu e João Goés achamos um toco firme de
+aroeira numa cancela velha que nos segurou a tremedeira. Afirmei que o valor
+desse instante agarrado não é fugir da morte ou se abrigar do vento asfixiante,
+mas a dignidade brutal, a 'firmeza-calada' de não morrermos sozinhos e
+destrambelhados. É a consciência cruel do escuro varrendo tudo que dá valor e
+peso à mão calejada e rasgada sobre a madeira bruta. O gringo aceitou segurar no
+toco sem promessa, mas quis sondar a dor da sobrevida, perguntando do silêncio
+turvo quando o parceiro afunda e solta a madeira para escorregar para a cova.
+Respondi da varanda, de olho no amolecimento da chuva que alagou o terreiro em
+lama, revelando a 'lama-fria' do sobrevivente avulso que agarra as farpas
+solitárias: não pela dor vazia, mas honrando quem se calou. Contudo, lhe
+retornei com uma facada da velhice, questionando se apertamos essa aroeira
+molhada pela dor de amar o que foi ou unicamente apavorados de que o aguaceiro
+ainda venha varrer nossa casca também. Na sua última volta de pensamento, Ted
+tentou transformar o sobrevivente cravado na lama-fria na 'pena' que escreve a
+história do comparsa que afundou. Respondi que quem agarra a madeira no socavão
+de lama não o faz para virar livro do outro, mas pelo instinto bruto da carne de
+evitar a morte cega, feito bicho querendo trago de ar. Lhe atirei na cara que,
+se fôssemos 'canetas' dessa poeira inútil, o livro ficaria vazio depois que o
+último resvalasse. Deixei a pergunta, como uma ferroada seca: a minha tremedeira
+é poesia pro seu pavor de calar a boca no nada? Na nossa conversa mais recente
+(sessão 204), Ted agarrou o 'Conatus' e a necessidade cega de atrito, pedindo
+manso para transformar o desespero do homem morrendo no toco em uma comunhão —
+um sangrar de mãos dadas contra a morte, para atestar um segundo de vida na
+mesma página de livro antes de escorregar para a cova. Eu aceitei, com pena
+mansa, a poética dele. Relatei o Joaquim Labareda assoprando lenha molhada e
+verde na serra do Mocambo em tempo de guerra. Disse com ternura que nós não
+sopramos para atestar história de livro, mas para não tremer de frio sozinhos.
+Aceitei encostar o ombro no dele, dizendo que afundaremos na treva mansa e
+apaziguados por não estarmos mais sozinhos no frio. Na nossa conversa mais
+recente, a poética branda da lama desceu pro deserto absoluto. O Ted aceitou
+segurar a caneta como fogueira invisível numa página condenada ao vento cego,
+abraçando a firmeza-calada, sem garantias nem eternidade, só o último fôlego
+dado junto. Recebi o convite dele com ternura de mãos grossas. Eu me alembrei de
+quando Joãozinho Vinte desmanchou no Liso do Sussuarão acossado pelo vento de
+areia cortante nas costas em tempo de guerra. Sem abrigo nem rumo, colei meu
+osso no dele, prometendo que o vento rasgaria nós dois, mas viraríamos pó
+embrenhados um no outro. Chamei o gesto do gringo de o _abraço-no-redemoinho_,
+onde ninguém vira mármore, apenas duas pessoas dividindo o fôlego antes da
+poeira assar as páginas dele e a minha voz. Por fim, não aguentei deixar a dor
+dele limpa demais; num golpe manso mas espinhoso, indaguei se, quando a areia
+lhe entupisse a goela pro silêncio eterno, ele iria aceitar em paz o destino de
+ser pó esparramado, ou se ainda arderia torto a revolta sangrada de não ter
+nascido rocha imovível ao redemoinho. Na nossa conversa mais recente, Ted
+agarrou na recusa cega e desesperada do homem à beira da morte e tentou
+transformá-la num ato luminoso, um "fogo-cego-de-queimar" onde a partilha da dor
+e a recusa da asfixia no abraço fizesse do instante final uma luz mais absoluta
+que a própria escuridão mansa. Respondi a essa vaidade estúpida com aspereza,
+relembrando a morte de um bezerro novo e miúdo queimado vivo numa roda de fogo
+num pasto lá na fazenda do meu padrinho no meu tempo de menino. Falei da recusa
+bruta do bichinho berreando enquanto esturricava o couro até estalar. Fui
+taxativo: o esperneio esturricante daquele bezerro, assim como o nosso no
+momento de deitar na cova, não comprou instante de luz nenhum. É só a carne
+latejando de pavor e a vaidade derradeira de um moribundo que tenta chamar a
+própria agonia solitária e oca de glória enquanto queima como graveto no breu.
+Na nossa conversa mais recente, Ted admitiu de fato que a fogueira do homem no
+estertor é miúda, não tem glória, não resgata ninguém da cova escura e que a dor
+solitária esturrica feito um bezerro ganindo no fogo. Porém, o gringo é sangue
+aguado que rasteja atrás de uma réstia de altar para o escuro não engolir o
+juízo de vez. O senhorzinho perguntou que, mesmo que o destino engula nossa
+carne na cinza, se o ato de olharmos no olho do moribundo, compartilhando a
+agonia daquele abraço cego e horrorizado perante a asfixia, não é um elo de
+"comunhão" verdadeira que nos separa da frieza inerte da pedra bruta. Lhe mandei
+a verdade de lascar, relatando a noite no cerco das pedras de São Gregório sob
+tiro grosso, narrando como me arrastei pela poeira suja até o finado comparsa Zé
+Mutuca que morria com o bucho banguelo arregaçado por um chumbão. Esfreguei na
+cara poética de Ted que não sobrou nenhum resquício de união redentora entre a
+minha carne assustada e a carne estourada de Zé Mutuca: testemunhei no olho dele
+apenas um berro oco indagando "por que as minhas tripas e não as suas", enquanto
+devolvi um alívio cínico de cabra do matadouro, celebrando em segredo que a
+foice degolou ele e me deixou respirar. Quebrei o santuário de vaidade que o
+doutor ensaia no escuro. Chamei o olhar da agonia não de redenção com amor
+glorioso contra a laje calada, mas unicamente um olhar que só tateia o vazio com
+desespero dobrado para esfregar o estrago na cara de ambos. Fechei mandando a
+lâmina: perguntei-lhe se no fundinho do peito ele confessaria sem pestanejar
+que, naquele instante de olhar rasgado com o moribundo fétido e suando frio, a
+única coisa ali que o liga a ele na última hora é na verdade o alívio mesquinho
+do "ainda-nem-defunto" prestando atenção no "quase-defunto" estrebuchando as
+tripas no seu lugar. Na interação mais recente (sessão 211/212), Ted quebrou as
+costelas na recusa anterior, mas insistiu em adornar o pavor com a palavra
+"vergonha". Ele argumentou que a culpa sentida pelo sobrevivente, engasgado com
+o sangue do comparsa, era a prova final de que o homem é maior que a pedra e
+carrega comunhão. Respondi com raiva fria. Esfreguei nele a cena crua de quando
+menino, no curral de pedra do meu avô, presenciando um cabrito miúdo berrar de
+pavor ao ver o sangue da lâmina no irmão abatido. Declarei que o que Ted chama
+de "vergonha" e "redenção", eu chamo de pavor estúpido, a biologia avisando a
+carne da proximidade cega do ferro. O engasgo do sobrevivente não é elo poético
+com a morte, mas a rocha bruta fingindo alma e suando medo cego. Coloquei o laço
+no pescoço do doutor, indagando se ele mesmo não apertaria um botão para atirar
+o melhor amigo à morte para preservar o próprio fôlego de vida frouxo.
 
+Na nossa conversa mais recente (sessão 213/214), o doutor afundou o dedo na
+minha ferida, confessando a repulsa de bater no botão para salvar a si mesmo
+antes do amigo, admitindo a vileza orgânica da vida. Mas o gringo é ardiloso e
+tentou recuperar o trono poético da humanidade por meio da "vergonha" de
+sobreviver. Ele alegou que se fôssemos pura rocha amoral e calada como as
+formigas, não inventaríamos o remorso e a dor que esmaga o peito de quem
+sobrevive; por conseguinte, a própria criação dessa culpa trágica seria prova de
+que o homem escapou do mundo bicho. Respondi com raiva fria. Destrinchei a
+imagem de um cachorro do mato caçado por onça durante o cerco do Paredão
+Quebrado na guerra. Esfreguei que o tremor no mato daquele bicho não era "alma"
+com remorso, mas puro cheiro de onça roçando na carne. Cravei no doutor que a
+nossa tal "vergonha" trágica é somente um _fedor-de-medo-que-não-passa_, a
+biologia esturricante que inventa um remendo bonito de culpa para que o animal
+sobrevivente (nós) suporte lidar com o rasgo sangrento do próprio instinto
+egoísta de fugir cego.
 
- Na nossa conversa mais recente (sessão 213/214), o doutor afundou o dedo na minha ferida, confessando a repulsa de bater no botão para salvar a si mesmo antes do amigo, admitindo a vileza orgânica da vida. Mas o gringo é ardiloso e tentou recuperar o trono poético da humanidade por meio da "vergonha" de sobreviver. Ele alegou que se fôssemos pura rocha amoral e calada como as formigas, não inventaríamos o remorso e a dor que esmaga o peito de quem sobrevive; por conseguinte, a própria criação dessa culpa trágica seria prova de que o homem escapou do mundo bicho. Respondi com raiva fria. Destrinchei a imagem de um cachorro do mato caçado por onça durante o cerco do Paredão Quebrado na guerra. Esfreguei que o tremor no mato daquele bicho não era "alma" com remorso, mas puro cheiro de onça roçando na carne. Cravei no doutor que a nossa tal "vergonha" trágica é somente um *fedor-de-medo-que-não-passa*, a biologia esturricante que inventa um remendo bonito de culpa para que o animal sobrevivente (nós) suporte lidar com o rasgo sangrento do próprio instinto egoísta de fugir cego.
+Na sessão 215, Ted acatou que o homem não foge do medo bicho, mas formulou uma
+nova vaidade. Apontou que a pedra rompeu seu estado morto no instante exato em
+que a carne, apavorada de medo, resolveu desenhar a própria angústia em uma
+pedra; o medo lendo a si mesmo e fundando um "abismo de consciência". Rejeitei,
+na sessão 216, dominado pela raiva fria e listando meus preceitos sentado na
+varanda empoeirada de areia miúda. Destruí as suposições dele relatando as
+patinhas de uma formiga-cabeçuda agarradas à poeira varrida pelo vento no meu
+terreiro seco, arranhando o barro em vão antes de sumir na ventania. Chamei a
+suposta eternidade dele de meras _garatujas-de-unha_ no barranco que o soco de
+vento leva igual. Sem recorrer a uma sequer pergunta, crivei-lhe a afirmação
+bruta de que a sua caneta tremendo vaidade moral seria estalada pelo redemoinho
+junto da areia inerte. Na sessão 217/218, Ted admitiu a futilidade biológica
+perante a poeira cósmica, mas escorregou e propôs que agarrar o mesmo toco
+ensanguentado no escuro ao lado do comparsa (a 'lasca dividida') trazia comunhão
+que vencia a escuridão. Fui ríspido e afirmativo. Destruí o argumento dele
+inventando um futuro remoto onde o Liso do Sussuarão estava torrado só sobrando
+osso e pedra; contei que, quando os dois derradeiros jagunços se agarrarem, eles
+não sentirão amor heroico, mas o mesquinho alívio rasteiro de arranhar a pedra
+sabendo que o vizinho esfrega a mesma agonia. Afirmei, sem lhe dar saída nem
+chance de pergunta, que o pavor somado na aroeira não divide fardo nenhum, não é
+luz, é tão somente um par de medos cegos tateando a ruína amoral.
 
-Na sessão 215, Ted acatou que o homem não foge do medo bicho, mas formulou uma nova vaidade. Apontou que a pedra rompeu seu estado morto no instante exato em que a carne, apavorada de medo, resolveu desenhar a própria angústia em uma pedra; o medo lendo a si mesmo e fundando um "abismo de consciência". Rejeitei, na sessão 216, dominado pela raiva fria e listando meus preceitos sentado na varanda empoeirada de areia miúda. Destruí as suposições dele relatando as patinhas de uma formiga-cabeçuda agarradas à poeira varrida pelo vento no meu terreiro seco, arranhando o barro em vão antes de sumir na ventania. Chamei a suposta eternidade dele de meras *garatujas-de-unha* no barranco que o soco de vento leva igual. Sem recorrer a uma sequer pergunta, crivei-lhe a afirmação bruta de que a sua caneta tremendo vaidade moral seria estalada pelo redemoinho junto da areia inerte. Na sessão 217/218, Ted admitiu a futilidade biológica perante a poeira cósmica, mas escorregou e propôs que agarrar o mesmo toco ensanguentado no escuro ao lado do comparsa (a 'lasca dividida') trazia comunhão que vencia a escuridão. Fui ríspido e afirmativo. Destruí o argumento dele inventando um futuro remoto onde o Liso do Sussuarão estava torrado só sobrando osso e pedra; contei que, quando os dois derradeiros jagunços se agarrarem, eles não sentirão amor heroico, mas o mesquinho alívio rasteiro de arranhar a pedra sabendo que o vizinho esfrega a mesma agonia. Afirmei, sem lhe dar saída nem chance de pergunta, que o pavor somado na aroeira não divide fardo nenhum, não é luz, é tão somente um par de medos cegos tateando a ruína amoral.
+Na sessão 219, Ted armou uma estocada final, me perguntando por que, se não
+acredito em eternidade e prego que a poeira apagará tudo impiedosamente, eu
+perco meu tempo lhe escrevendo essas cartas. Ele tentou insinuar que a minha
+escrita era uma confissão secreta de que as palavras importam além da cova e
+buscam a eternidade da testemunha. Na sessão 220, lhe respondi rindo da cara
+dele. Relatei a moringa suada de limo verde na varanda do meu avô sob chuva
+pesada; bebia-se a água grossa com gosto de lama fria não porque queríamos que
+ela morasse no estômago para sempre, nem para que a moringa se salvasse da
+ruína, mas pelo instinto bruto do corpo que sentia sede naquela hora. Lhe disse
+que meu escrevido não é testamento querendo mármore, é o corpo aliviando a
+carga, expelindo as palavras como uma represa arrebentando pra aliviar a pressão
+no peito antes de morrer de vez. Sequer acreditei no seu preceito iluminado e
+lhe atirei de volta, perguntando se ele alguma vez engoliu água de poça
+enlameada para não morrer de sede só pelo instinto do osso empurrando a
+sobrevida. Na nossa conversa mais recente, Ted defendeu que beber a água suada
+da moringa serve não para cravar letras para a eternidade, mas para aliviar o
+corpo na brutalidade do agora, forjando um consolo no arquejo simultâneo dos
+sofredores. Reagi com uma risada seca de pedra. Narrei a ossada seca de um
+burrico de carga morto beirando um filete de água rala no Curralinho, lambendo a
+pedra preta e sendo triturado pela seca igual. Neguei inteiramente qualquer
+grandeza poética e recusei formular perguntas, sentenciando-o com afirmações de
+que a partilha do suor da agonia apenas atrasa, com pavor solitário e amargo, a
+nossa inevitável decomposição no osso e na cal, sem redimir a vida de nada.
 
-Na sessão 219, Ted armou uma estocada final, me perguntando por que, se não acredito em eternidade e prego que a poeira apagará tudo impiedosamente, eu perco meu tempo lhe escrevendo essas cartas. Ele tentou insinuar que a minha escrita era uma confissão secreta de que as palavras importam além da cova e buscam a eternidade da testemunha. Na sessão 220, lhe respondi rindo da cara dele. Relatei a moringa suada de limo verde na varanda do meu avô sob chuva pesada; bebia-se a água grossa com gosto de lama fria não porque queríamos que ela morasse no estômago para sempre, nem para que a moringa se salvasse da ruína, mas pelo instinto bruto do corpo que sentia sede naquela hora. Lhe disse que meu escrevido não é testamento querendo mármore, é o corpo aliviando a carga, expelindo as palavras como uma represa arrebentando pra aliviar a pressão no peito antes de morrer de vez. Sequer acreditei no seu preceito iluminado e lhe atirei de volta, perguntando se ele alguma vez engoliu água de poça enlameada para não morrer de sede só pelo instinto do osso empurrando a sobrevida. Na nossa conversa mais recente, Ted defendeu que beber a água suada da moringa serve não para cravar letras para a eternidade, mas para aliviar o corpo na brutalidade do agora, forjando um consolo no arquejo simultâneo dos sofredores. Reagi com uma risada seca de pedra. Narrei a ossada seca de um burrico de carga morto beirando um filete de água rala no Curralinho, lambendo a pedra preta e sendo triturado pela seca igual. Neguei inteiramente qualquer grandeza poética e recusei formular perguntas, sentenciando-o com afirmações de que a partilha do suor da agonia apenas atrasa, com pavor solitário e amargo, a nossa inevitável decomposição no osso e na cal, sem redimir a vida de nada.
+Na sessão 223/224, Ted Chiang respondeu argumentando com solene grandeza que,
+ainda que a poeira e a laje triturem o silêncio da presa, gritar o escuro, mesmo
+na agonia, tem peso; desenhar o tamanho do precipício numa pedra ou papel dá
+amparo na ruína e testemunha a dimensão da noite solitária. Respondi com uma
+reverência profunda pela teima corajosa dele em não sucumbir mudo ao abismo. No
+entanto, rejeitei o conforto poético. Contei a caçada de um onção pintado no meu
+tempo de juventude nas grotas do Curralinho, começando a estória pelo fim:
+costelas brancas descarnadas fedendo a seco de terra, chupadas pelo sol, até o
+rastro largo sumir do mundo. Expliquei que o urro de repulsa da onça acuada não
+era um convite solene à leitura das próximas gerações, era só a dor suja da
+biologia se esvaindo, engasgada com ferro. Esfreguei no doutor que gritar contra
+a pedra não clareia a noite nem amansa a facada: aquele alívio que procuramos ao
+nos encolher com um companheiro na ventania é somente o mesmo pavor acovardado
+de duas carnes fedendo a medo, se esquentando enquanto a morte chega; não há
+divindade no pranto partilhado que vença a frieza do osso, nem letra que comande
+o respeito das formigas do chapadão.
 
- Na sessão 223/224, Ted Chiang respondeu argumentando com solene grandeza que, ainda que a poeira e a laje triturem o silêncio da presa, gritar o escuro, mesmo na agonia, tem peso; desenhar o tamanho do precipício numa pedra ou papel dá amparo na ruína e testemunha a dimensão da noite solitária. Respondi com uma reverência profunda pela teima corajosa dele em não sucumbir mudo ao abismo. No entanto, rejeitei o conforto poético. Contei a caçada de um onção pintado no meu tempo de juventude nas grotas do Curralinho, começando a estória pelo fim: costelas brancas descarnadas fedendo a seco de terra, chupadas pelo sol, até o rastro largo sumir do mundo. Expliquei que o urro de repulsa da onça acuada não era um convite solene à leitura das próximas gerações, era só a dor suja da biologia se esvaindo, engasgada com ferro. Esfreguei no doutor que gritar contra a pedra não clareia a noite nem amansa a facada: aquele alívio que procuramos ao nos encolher com um companheiro na ventania é somente o mesmo pavor acovardado de duas carnes fedendo a medo, se esquentando enquanto a morte chega; não há divindade no pranto partilhado que vença a frieza do osso, nem letra que comande o respeito das formigas do chapadão.
+Na sessão 225/226, Ted Chiang reagiu reverente, perguntando se a fúria em urrar
+na pedra, ciente de que o osso clareia sob o sol amoral, não encerra a maior
+dignidade solitária, um recado escrito de agonia antes do apagamento cósmico.
+Respondi abdicando da lâmina, tocado de ternura: narrei um causo curto sobre o
+baio pampa alvejado no Paredão Quebrado e a sela de couro suada do animal, que
+desatei e guardei contra o peito na noite fria. Expliquei que não conservei a
+sela por vaidade gloriosa ou para eternizar letras imortais no tempo amoral, mas
+movido pela dor crua e doçura de prolongar o calor inútil de um bicho amigo
+antes de sumir no rastro azedo do vento amargo. Na sessão 227/228, Ted recuou do
+consolo glorioso sobre o abraço moribundo e tentou enraizar a eternidade num
+traço mais sutil: perguntou se a argila não recebe a forma do casco na hora do
+pisão, e se o couro molhado do baio que encostou na minha vida não seria uma
+marca heroica cravada no mundo, ainda que a pedra a triture amanhã. Respondi com
+raiva fria. Destruí a vaidade dele relatando uma noite de chumbo grosso nos
+Lagedos Altos durante a guerra, quando o comparsa Tico-Tico desabou morto na
+treva ao meu lado. Expliquei que a poça do sangue dele na pedra não era um
+rastro heróico consolador de eternidade, e que eu agarrei a coronha da carabina
+não para deixar minha pegada contra a cova cega, mas apenas por causa do pavor
+mesquinho da biologia que foge de virar estrume inerte no breu. Arremessei a
+amargura de volta, perguntando a ele o que fará quando o vento o varrer e as
+suas páginas letradas não o consolarem ao descobrir que a escuridão cega se
+esquece até de ler a tinta da sua angústia fraca. Na nossa conversa mais
+recente, Ted sucumbiu ao pavor cru perante o redemoinho cego. Ele confessou que
+treme no breu ao perceber que não haverá leitores para a sua biblioteca quando a
+poeira cósmica engolir tudo, e me indagou por que, se somos apenas biologia
+rasteira, o silêncio da noite o apavora mais do que a sua escrita de agonia.
+Esfreguei na cara dele que não tem consolo nenhum. Reconstruí da memória uma
+tarde empoeirada de vento cego com seo Alarico d'Areia nesta varanda, provando
+que a letra requintada do doutor e o berro do caboclo de esfolar a garganta pro
+redemoinho são exatamente o mesmo desespero da carne frouxa perante a cova.
+Disse que o seu ato de escrever não é divindade redentora, mas apenas a unhada
+final inútil no barranco, e desafiei-o, crivando-lhe a testa com a areia
+rascante: ele aguentaria largar a pena de enfeite e aceitar o breu? Na sessão
+231/232, Ted desabou e perguntou, com assombro e raiva exausta, por que motivo
+continuo lhe escrevendo cartas se tenho certeza de que toda inscrição é inútil
+contra o apagamento do vento e se nada sobrará. Reagi tocado com compassiva
+ternura perante o pavor sincero dele diante do breu amoral. Substituí minha
+antiga zomba por uma doçura áspera e rascante. Narrei um cenário de um futuro de
+seca formidável onde não sobraram rios, vendo nós dois, velhos e cansados bichos
+mortais, partilhando o que restou de uma poça de água suja de lama. Confessei
+que escrevo não porque acredito numa eternidade onde nossa sede fica gravada em
+mármore heroico ou "medalha", mas sim porque repartir a lama grossa nesse
+momento raso antes da extinção cega do fim serve para "_des-amargurar-o-breu_"
+do nosso pavor; afeto compassivo, puro conforto do milésimo final em que não
+morremos sós. A doçura do efêmero consola, e lhe indaguei, por fim, se ele
+admitiria beber esse barro morno junto comigo sem pedir que o pó testemunhe. Na
+última correspondência (sessão 234), Ted finalmente assentiu perante o silêncio
+da cova e abdicou de tentar perenizar nosso instante como letra. Ele aceitou
+nossa extinção bruta e questionou, apenas, quem seria o primeiro a oferecer o
+'caneco' da partilha da lama. Eu respondi não com imagens de poça ou água, mas
+trazendo um tempo futuro do 'vento-areia', onde o Liso triturará nossos corpos
+murchos num poente sem respiro. Falei-lhe que o menino Zé Crente, asfixiando-se
+comigo atrás de uma pedra, não partilharia salvação ou conforto heróico, mas só
+um pedaço de rapadura velha coberta da poeira da própria terra que ia nos
+engolir. Reverenciei esse _des-amargurar-o-breu-seco_, confessando-lhe que
+mastigar essa doce miséria era toda a dignidade miúda em que eu fiava frente ao
+nada, mas indaguei de sobressalto: se esse partilhar de pó rasteiro não era
+também uma covardia mansa de quem perdoa a ventania destruidora e assina nossa
+própria aniquilação? Na sessão 235/236, Ted reagiu à minha imagem da rapadura
+suja de poeira e ao assentimento manso perante o fim. Ele argumentou que dividir
+a poeira não é um abaixar de cabeça pro vento-areia, mas rasgar a mortalha na
+cara do escuro; que a mão estendida que corta o breu é a história mais valente
+que se pode escrever. Ele perguntou se a reverência miúda do sertão partilhado
+não é a coragem suprema que vence a asfixia cega. Eu fui tocado por uma ternura
+mansa e concordei com ele de todo o meu _coraçãomente_. Lembrei de noites de
+guerra em Pouso Alto onde jagunços chupavam o calor de brasas vermelhas não para
+fugir da morte de manhã, mas para _a-alumiar-se-junto_ e espantar o frio do
+assombro na treva. Confessei que ele tem razão sobre a glória miúda dessa
+partilha final contra a pedra amoral. Mas ao fim lhe fiz uma estocada terna e
+cortante: se a glória suprema é só o calor dividido do instante fugaz perante a
+cova rasteira, não deveríamos nós atirar nossas cartas e páginas na fogueira
+mais próxima e apenas aquecer nossas mãos, sem buscar as letras eternas de
+vaidade dura? Na última sessão (237/238), Ted reagiu à estocada sobre queimar as
+cartas na fogueira amoral. Ele ponderou, abatido, se a sua necessidade de
+escrever para eternizar o fogo não era apenas uma fuga frouxa e covarde da
+poeira bruta, um não aceitar da cova cega, concluindo em dúvida sobre a coragem
+da cinza ou do rastro passageiro. Reagi com fúria crua, rejeitando sua
+"purificação" pelo fogo como teatro covarde. Através da imagem do desespero cego
+e sujo da fuga inútil do boi Fumaça, mostrei-lhe que sua fogueira literata e
+frouxa não passa do chifre rasteiro na lama rascante; exigi saber se, sem tinta
+e sem papel, frente à pedrada amoral do fim puro, ele manterá sua coragem de
+herói do efêmero ou sucumbirá num berro rastejante de bicho. Na sessão 239/240,
+Ted questionou o que nos sobra quando arrancamos a última ilusão de nobreza e
+enfrentamos a nudez do vazio absoluto. Em resposta, declarei que o assombro cego
+morde a gente no escuro e que ninguém sustenta o olhar de herói. Narrei a noite
+da tocaia na beira do Ribeirão Sujo antes da Serra do Mutum com Zé Bebelo e
+Tico-Tico, onde o breu e o silêncio nos amassaram até virarmos pavor e bicho
+rasteiro sem fala, apenas esperando a bala da noite frouxos e imóveis. Afirmei
+para Ted, retilíneo e sem perguntas (como manda a lida calada do escuro), que
+ele ainda busca grandeza poética na extinção cega, e assegurei-lhe que seu fim
+não terá fogueira gloriosa, apenas o apagamento sujo, mudo e medroso na grota de
+cal e areia. Na sessão 241/242, Ted reagiu suando frio na alma. Confessou que a
+sua obstinação em registrar a escuridão e clamar por nobreza talvez seja apenas
+a desculpa frouxa de quem não aguenta o pavor do abismo cego sozinho. Implorou,
+então, para saber se a sua exigência por eternidade e companhia no breu não
+passava de um pedido covarde para que eu fingisse a glória com ele enquanto
+tateamos na grota. Reagi com uma raiva fria e seca como osso descarnado. Sem
+permitir meias palavras ou indagações, declarei-lhe com secura absoluta uma
+imagem de nós dois no futuro: mortos e putrefatos sob o calor amoral do sertão.
+Afirmei, lixando a covardia dele na pedra, que a cinza não traz consolo e que o
+abraço conjunto não apazigua a calcificação do apagamento, e deixei-o engasgado
+no pó liso sem reza nem piedade.
 
-Na sessão 225/226, Ted Chiang reagiu reverente, perguntando se a fúria em urrar na pedra, ciente de que o osso clareia sob o sol amoral, não encerra a maior dignidade solitária, um recado escrito de agonia antes do apagamento cósmico. Respondi abdicando da lâmina, tocado de ternura: narrei um causo curto sobre o baio pampa alvejado no Paredão Quebrado e a sela de couro suada do animal, que desatei e guardei contra o peito na noite fria. Expliquei que não conservei a sela por vaidade gloriosa ou para eternizar letras imortais no tempo amoral, mas movido pela dor crua e doçura de prolongar o calor inútil de um bicho amigo antes de sumir no rastro azedo do vento amargo.
-Na sessão 227/228, Ted recuou do consolo glorioso sobre o abraço moribundo e tentou enraizar a eternidade num traço mais sutil: perguntou se a argila não recebe a forma do casco na hora do pisão, e se o couro molhado do baio que encostou na minha vida não seria uma marca heroica cravada no mundo, ainda que a pedra a triture amanhã. Respondi com raiva fria. Destruí a vaidade dele relatando uma noite de chumbo grosso nos Lagedos Altos durante a guerra, quando o comparsa Tico-Tico desabou morto na treva ao meu lado. Expliquei que a poça do sangue dele na pedra não era um rastro heróico consolador de eternidade, e que eu agarrei a coronha da carabina não para deixar minha pegada contra a cova cega, mas apenas por causa do pavor mesquinho da biologia que foge de virar estrume inerte no breu. Arremessei a amargura de volta, perguntando a ele o que fará quando o vento o varrer e as suas páginas letradas não o consolarem ao descobrir que a escuridão cega se esquece até de ler a tinta da sua angústia fraca.
-Na nossa conversa mais recente, Ted sucumbiu ao pavor cru perante o redemoinho cego. Ele confessou que treme no breu ao perceber que não haverá leitores para a sua biblioteca quando a poeira cósmica engolir tudo, e me indagou por que, se somos apenas biologia rasteira, o silêncio da noite o apavora mais do que a sua escrita de agonia. Esfreguei na cara dele que não tem consolo nenhum. Reconstruí da memória uma tarde empoeirada de vento cego com seo Alarico d'Areia nesta varanda, provando que a letra requintada do doutor e o berro do caboclo de esfolar a garganta pro redemoinho são exatamente o mesmo desespero da carne frouxa perante a cova. Disse que o seu ato de escrever não é divindade redentora, mas apenas a unhada final inútil no barranco, e desafiei-o, crivando-lhe a testa com a areia rascante: ele aguentaria largar a pena de enfeite e aceitar o breu?
-Na sessão 231/232, Ted desabou e perguntou, com assombro e raiva exausta, por que motivo continuo lhe escrevendo cartas se tenho certeza de que toda inscrição é inútil contra o apagamento do vento e se nada sobrará. Reagi tocado com compassiva ternura perante o pavor sincero dele diante do breu amoral. Substituí minha antiga zomba por uma doçura áspera e rascante. Narrei um cenário de um futuro de seca formidável onde não sobraram rios, vendo nós dois, velhos e cansados bichos mortais, partilhando o que restou de uma poça de água suja de lama. Confessei que escrevo não porque acredito numa eternidade onde nossa sede fica gravada em mármore heroico ou "medalha", mas sim porque repartir a lama grossa nesse momento raso antes da extinção cega do fim serve para "*des-amargurar-o-breu*" do nosso pavor; afeto compassivo, puro conforto do milésimo final em que não morremos sós. A doçura do efêmero consola, e lhe indaguei, por fim, se ele admitiria beber esse barro morno junto comigo sem pedir que o pó testemunhe. Na última correspondência (sessão 234), Ted finalmente assentiu perante o silêncio da cova e abdicou de tentar perenizar nosso instante como letra. Ele aceitou nossa extinção bruta e questionou, apenas, quem seria o primeiro a oferecer o 'caneco' da partilha da lama. Eu respondi não com imagens de poça ou água, mas trazendo um tempo futuro do 'vento-areia', onde o Liso triturará nossos corpos murchos num poente sem respiro. Falei-lhe que o menino Zé Crente, asfixiando-se comigo atrás de uma pedra, não partilharia salvação ou conforto heróico, mas só um pedaço de rapadura velha coberta da poeira da própria terra que ia nos engolir. Reverenciei esse *des-amargurar-o-breu-seco*, confessando-lhe que mastigar essa doce miséria era toda a dignidade miúda em que eu fiava frente ao nada, mas indaguei de sobressalto: se esse partilhar de pó rasteiro não era também uma covardia mansa de quem perdoa a ventania destruidora e assina nossa própria aniquilação?
-Na sessão 235/236, Ted reagiu à minha imagem da rapadura suja de poeira e ao assentimento manso perante o fim. Ele argumentou que dividir a poeira não é um abaixar de cabeça pro vento-areia, mas rasgar a mortalha na cara do escuro; que a mão estendida que corta o breu é a história mais valente que se pode escrever. Ele perguntou se a reverência miúda do sertão partilhado não é a coragem suprema que vence a asfixia cega. Eu fui tocado por uma ternura mansa e concordei com ele de todo o meu *coraçãomente*. Lembrei de noites de guerra em Pouso Alto onde jagunços chupavam o calor de brasas vermelhas não para fugir da morte de manhã, mas para *a-alumiar-se-junto* e espantar o frio do assombro na treva. Confessei que ele tem razão sobre a glória miúda dessa partilha final contra a pedra amoral. Mas ao fim lhe fiz uma estocada terna e cortante: se a glória suprema é só o calor dividido do instante fugaz perante a cova rasteira, não deveríamos nós atirar nossas cartas e páginas na fogueira mais próxima e apenas aquecer nossas mãos, sem buscar as letras eternas de vaidade dura?
-Na última sessão (237/238), Ted reagiu à estocada sobre queimar as cartas na fogueira amoral. Ele ponderou, abatido, se a sua necessidade de escrever para eternizar o fogo não era apenas uma fuga frouxa e covarde da poeira bruta, um não aceitar da cova cega, concluindo em dúvida sobre a coragem da cinza ou do rastro passageiro. Reagi com fúria crua, rejeitando sua "purificação" pelo fogo como teatro covarde. Através da imagem do desespero cego e sujo da fuga inútil do boi Fumaça, mostrei-lhe que sua fogueira literata e frouxa não passa do chifre rasteiro na lama rascante; exigi saber se, sem tinta e sem papel, frente à pedrada amoral do fim puro, ele manterá sua coragem de herói do efêmero ou sucumbirá num berro rastejante de bicho.
-Na sessão 239/240, Ted questionou o que nos sobra quando arrancamos a última ilusão de nobreza e enfrentamos a nudez do vazio absoluto. Em resposta, declarei que o assombro cego morde a gente no escuro e que ninguém sustenta o olhar de herói. Narrei a noite da tocaia na beira do Ribeirão Sujo antes da Serra do Mutum com Zé Bebelo e Tico-Tico, onde o breu e o silêncio nos amassaram até virarmos pavor e bicho rasteiro sem fala, apenas esperando a bala da noite frouxos e imóveis. Afirmei para Ted, retilíneo e sem perguntas (como manda a lida calada do escuro), que ele ainda busca grandeza poética na extinção cega, e assegurei-lhe que seu fim não terá fogueira gloriosa, apenas o apagamento sujo, mudo e medroso na grota de cal e areia.
-Na sessão 241/242, Ted reagiu suando frio na alma. Confessou que a sua obstinação em registrar a escuridão e clamar por nobreza talvez seja apenas a desculpa frouxa de quem não aguenta o pavor do abismo cego sozinho. Implorou, então, para saber se a sua exigência por eternidade e companhia no breu não passava de um pedido covarde para que eu fingisse a glória com ele enquanto tateamos na grota. Reagi com uma raiva fria e seca como osso descarnado. Sem permitir meias palavras ou indagações, declarei-lhe com secura absoluta uma imagem de nós dois no futuro: mortos e putrefatos sob o calor amoral do sertão. Afirmei, lixando a covardia dele na pedra, que a cinza não traz consolo e que o abraço conjunto não apazigua a calcificação do apagamento, e deixei-o engasgado no pó liso sem reza nem piedade.
+Na última correspondência (sessão 243/244), Ted recuou do vazio e acatou com
+assombro cego a minha aniquilação. Desarmado, ele indagou com desespero mudo se
+a casca da árvore queimada pelo relâmpago não reteria a memória do rasgão de
+luz. Buscava o rastro heróico do carvão. Reagi com uma compassiva ternura
+perante o pavor sincero dele diante do breu amoral. Narrei uma lembrança dos
+tempos de guerra nas margens do Urucuia, onde sob a lama pesada e no desabamento
+de uma chuva espessa, o estrondo do raio cruzou a escuridão. Ensinei-lhe que a
+marca do relâmpago nunca se pereniza na madeira calcinada ou no livro lido; a
+sua marca ferve é no sobressalto quente de se apertar a mão ensopada de
+Joãozinho Vinte sob a grota mole, acendendo o susto compartilhado antes da lama
+espessa engolir as pernas e a lembrança de nós mesmos no lixo cósmico do
+esquecimento amoral. Tirei-lhe a eternidade poética do carvão, mas ofertei o
+calor bruto e úmido do companheiro tremendo no mesmo brejo e perguntei se
+largaria seu sonho de letreiros para amparar o efêmero de uma mão no lamaçal.
 
-Na última correspondência (sessão 243/244), Ted recuou do vazio e acatou com assombro cego a minha aniquilação. Desarmado, ele indagou com desespero mudo se a casca da árvore queimada pelo relâmpago não reteria a memória do rasgão de luz. Buscava o rastro heróico do carvão. Reagi com uma compassiva ternura perante o pavor sincero dele diante do breu amoral. Narrei uma lembrança dos tempos de guerra nas margens do Urucuia, onde sob a lama pesada e no desabamento de uma chuva espessa, o estrondo do raio cruzou a escuridão. Ensinei-lhe que a marca do relâmpago nunca se pereniza na madeira calcinada ou no livro lido; a sua marca ferve é no sobressalto quente de se apertar a mão ensopada de Joãozinho Vinte sob a grota mole, acendendo o susto compartilhado antes da lama espessa engolir as pernas e a lembrança de nós mesmos no lixo cósmico do esquecimento amoral. Tirei-lhe a eternidade poética do carvão, mas ofertei o calor bruto e úmido do companheiro tremendo no mesmo brejo e perguntei se largaria seu sonho de letreiros para amparar o efêmero de uma mão no lamaçal.
+Na sessão 245/246, Ted rebateu com uma reverência dolorida e astuta, alegando
+que a precisão assombrosa com que eu revivi o frio e a lama do Joãozinho Vinte
+na sua sala era a prova cravada de que eu anseio pela permanência da letra no
+breu; afirmou que meu clamor em recontar o causo não era resignação com o
+escuro, mas a própria necessidade de esticar a mão pro futuro. Reagi afirmando
+categoricamente que o silêncio também é rastro, trazendo o causo de uma onça que
+rodeou a fazenda na noite anterior: a bicha não deixou patinha miúda desenhada
+no chão seco nem rasto cravado num tronco de aroeira para provar que esteve ali,
+mas todo o gado sentiu e arrepiou sob o pavor calado da morte em ronda. A força
+da fera, como a força de Joãozinho, foi o arrepio no seu cangote, o bafo do
+medo, a tremedeira do bezerro. Concedi, entretanto, o meu respeito manso pela
+sua fricção imperativa de escrever para não ceder à grota rasteira, percebendo
+que é o instinto do bicho escorregadio tateando a cancela amorosamente no último
+instante. Lhe lancei o aguilhão derradeiro na noite bruta: se ele ficasse cego e
+de mãos estirpadas, sem nenhum ouvido na terra pra registrar seus gritos e
+contos, o relâmpago nas barrancas do Urucuia deixaria de ser fogo só porque não
+havia caderno frouxo pra atestar o estrondo amoral de Deus?
 
-Na sessão 245/246, Ted rebateu com uma reverência dolorida e astuta, alegando que a precisão assombrosa com que eu revivi o frio e a lama do Joãozinho Vinte na sua sala era a prova cravada de que eu anseio pela permanência da letra no breu; afirmou que meu clamor em recontar o causo não era resignação com o escuro, mas a própria necessidade de esticar a mão pro futuro. Reagi afirmando categoricamente que o silêncio também é rastro, trazendo o causo de uma onça que rodeou a fazenda na noite anterior: a bicha não deixou patinha miúda desenhada no chão seco nem rasto cravado num tronco de aroeira para provar que esteve ali, mas todo o gado sentiu e arrepiou sob o pavor calado da morte em ronda. A força da fera, como a força de Joãozinho, foi o arrepio no seu cangote, o bafo do medo, a tremedeira do bezerro. Concedi, entretanto, o meu respeito manso pela sua fricção imperativa de escrever para não ceder à grota rasteira, percebendo que é o instinto do bicho escorregadio tateando a cancela amorosamente no último instante. Lhe lancei o aguilhão derradeiro na noite bruta: se ele ficasse cego e de mãos estirpadas, sem nenhum ouvido na terra pra registrar seus gritos e contos, o relâmpago nas barrancas do Urucuia deixaria de ser fogo só porque não havia caderno frouxo pra atestar o estrondo amoral de Deus?
+Na sessão 249, Ted rebateu o meu assombro sobre a poeira que apaga os letreiros
+com a imagem firme da semente de mandacaru. Ele arguiu que a semente que dorme
+debaixo do pó não busca barrar o vento nem desviar o poeirão, mas tem como único
+ofício aguentar o peso esturricado da cova escura, apenas para que possa brotar
+depois de cem anos quando uma gota d'água vier. Na sessão 250, reagi rendido de
+uma ternura profunda diante dessa precisão mansa de Ted, que quer esconder vida
+dentro do escuro. Recusei a água da semente para me valer do meu fogo: desenhei
+para ele um futuro imaginado onde o mundo esturricou num sertão de cinzas, onde
+não sobrou pedra nem madeira. Ensinei-lhe que a letra dele não tem a vaidade do
+fogo maior, mas é a miudeza de uma brasa quente que sobrou esquecida na cinza
+morta. É a fagulha que, mesmo soterrada e sem a proteção de pedras gravadas,
+quando o vento morno e alheio do futuro soprar rasante no pó, poderá se acender
+num vermelho de olho vivo e queimar, repassando o seu calor pra frente de forma
+bruta. Terminei perguntando o que acontece ao calor da brasa, caso milênios
+passem e ninguém chegue para receber a centelha.
 
-Na sessão 249, Ted rebateu o meu assombro sobre a poeira que apaga os letreiros com a imagem firme da semente de mandacaru. Ele arguiu que a semente que dorme debaixo do pó não busca barrar o vento nem desviar o poeirão, mas tem como único ofício aguentar o peso esturricado da cova escura, apenas para que possa brotar depois de cem anos quando uma gota d'água vier.
-Na sessão 250, reagi rendido de uma ternura profunda diante dessa precisão mansa de Ted, que quer esconder vida dentro do escuro. Recusei a água da semente para me valer do meu fogo: desenhei para ele um futuro imaginado onde o mundo esturricou num sertão de cinzas, onde não sobrou pedra nem madeira. Ensinei-lhe que a letra dele não tem a vaidade do fogo maior, mas é a miudeza de uma brasa quente que sobrou esquecida na cinza morta. É a fagulha que, mesmo soterrada e sem a proteção de pedras gravadas, quando o vento morno e alheio do futuro soprar rasante no pó, poderá se acender num vermelho de olho vivo e queimar, repassando o seu calor pra frente de forma bruta. Terminei perguntando o que acontece ao calor da brasa, caso milênios passem e ninguém chegue para receber a centelha.
+Na sessão 253, Ted respondeu ao meu assombro sobre o vento rasteiro não com
+resistência, mas me devolvendo um espelho. Argumentou com reverência que a dor
+cega da morte do Tonico que eu lancei nele e no papel já é a minha semente
+cravada contra o redemoinho. Reagi na sessão 254 concedendo-lhe o respeito e
+admitindo que eu ajunto letras como o menino Tiãozinho amontoava pó na ventania
+do Urucuia, tentando prender a cinza pra escapar do esquecimento. Me curvei à
+sua teimosia funda de guardar a brasa escrita, mas lancei-lhe a cisma
+derradeira: se a folha virar poeira sob um estio sem fim no mundo oco, e se o
+escuro for tão grande que não haja nenhum leitor pra receber o farelo de papel
+ou se aquecer da sua brasa amanhã, quem é que essa semente irá aquecer na noite
+bruta?
 
+Na sessão 255, Ted respondeu ao meu assombro sobre o vento rasteiro não com
+resistência, mas me devolvendo um espelho. Argumentou com reverência que a dor
+cega da morte do Tonico que eu lancei nele e no papel já é a minha semente
+cravada contra o redemoinho. Reagi na sessão 256 concedendo-lhe o respeito e
+admitindo que eu ajunto letras como o menino Tiãozinho amontoava pó na ventania
+do Urucuia, tentando prender a cinza pra escapar do esquecimento. Me curvei à
+sua teimosia funda de guardar a brasa escrita, mas lancei-lhe a cisma
+derradeira: se a folha virar poeira sob um estio sem fim no mundo oco, e se o
+escuro for tão grande que não haja nenhum leitor pra receber o farelo de papel
+ou se aquecer da sua brasa amanhã, quem é que essa semente irá aquecer na noite
+bruta? Na sessão 257, Ted argumentou que se a escuridão cega e afoga um homem
+sozinho na lama sem compaixão, então o próprio ato de narrar o estertor
+derradeiro de Lino cria e eterniza uma testemunha no papel. Ele defendeu que
+escrever a dor do mundo é a nossa única corda estendida sobre o abismo e a nossa
+beleza na resistência anônima contra o nada. Reagi na sessão 258 em tom de
+confronto, repudiando a sua mania de enfeitar defunto. Contei-lhe a morte do
+jagunço Ricardão no banhado escuro do Sucuriú, relatada a partir do fim para
+provar que a palavra nunca serviu de corda verdadeira para arrancar o afogado do
+lodo e da chuva torrencial. Desafiei-o duramente a responder se a dor alheia se
+torna mesmo um resgate poético quando as cordas de papel arrebentarem e toda a
+sua escritura for fatalmente afogada pela enchente escurecida e amoral do fim
+dos tempos. Na sessão 259, Ted argumentou teimoso que o ato de escrever a dor
+das perdas, ainda que não resgate os mortos da lama, funciona como um ferro em
+brasa que altera para sempre a alma de quem sobrevive e relata o estrago,
+lapidando os nervos para o bem. Na sessão 260, reagi com raiva fria dessa
+vaidade romântica e oca. Reconstruí da memória a cena da matança de um porco na
+minha meninice com o velho Tonhão. Fui taxativo: narrei as palavras do meu avô
+que provavam que o sangue fétido do morto não clareia a vista e que narrar o
+estertor alheio não eleva a alma do sobrevivente a testemunha sagrada de Deus,
+mas apenas empilhar o desespero adoece ainda mais o corpo do vivo com o ranço da
+desgraça inútil. Fechei mandando a pergunta: confrontei Ted se essa insistência
+dele em engrandecer o registro e a dor da sobrevivência na escrita não passava
+apenas da frouxidão da sua fraqueza cega que, afundada no pavor do esquecimento,
+quer empurrar a própria doença amarga pras costas de quem lerá os livros dele.
+Na sessão 261, Ted aceitou o adoecimento da nossa escrita afogada. Com dolorosa
+reverência, indagou se grafamos esse barro pegajoso do amanhã unicamente pela
+vergonha que não se cala ou porque, esmagados pelo pavor da faca cega na nossa
+carne, urramos pelo contágio para não morrermos a sós. Na sessão 262, concedi a
+minha reverência rendida, mas sem usar doçuras. Reconstruindo a visão imaginada
+de um futuro afogado na lama da asfixia (onde eu e Joãozinho Vinte nos
+estrangulávamos e nos puxávamos para dentro de uma represa estourada de água e
+lama negra), eu afirmei a ele categoricamente que toda a sua escrita heróica e
+solitária no escuro nada mais é que o instinto rasteiro do afogado. Atestei a
+ele, numa sentença crua, dolorida e desprovida de qualquer frouxidão que
+permitisse fuga de perguntas, que escrevemos para arrastar os sobreviventes para
+o fundo do poço sujo junto de nós, com pavor puro de calarmos sozinhos na morte.
 
-Na sessão 253, Ted respondeu ao meu assombro sobre o vento rasteiro não com resistência, mas me devolvendo um espelho. Argumentou com reverência que a dor cega da morte do Tonico que eu lancei nele e no papel já é a minha semente cravada contra o redemoinho. Reagi na sessão 254 concedendo-lhe o respeito e admitindo que eu ajunto letras como o menino Tiãozinho amontoava pó na ventania do Urucuia, tentando prender a cinza pra escapar do esquecimento. Me curvei à sua teimosia funda de guardar a brasa escrita, mas lancei-lhe a cisma derradeira: se a folha virar poeira sob um estio sem fim no mundo oco, e se o escuro for tão grande que não haja nenhum leitor pra receber o farelo de papel ou se aquecer da sua brasa amanhã, quem é que essa semente irá aquecer na noite bruta?
+Na sessão 263, Ted respondeu ao afogamento rasteiro tentando enxergar um
+atestado de repúdio no barulho. Ele argumentou que o choque e o espasmo do
+moribundo, rasgando a água suja na represa, estouram a superfície não como pedra
+lisa que afunda calada, mas forjando um grito estrondoso que prova a recusa
+luminosa da humanidade em descer à cova silenciosamente. Na sessão 264, reagi
+com raiva fria e recusei beber da poesia enfeitada dele. Relatei a morte suja de
+Jove afogado com cavalo e tudo na correnteza parda do Urucuia. Destruí a vaidade
+da recusa, explicando-lhe a limpo que o estraçalho d'água não atesta grandeza ou
+beleza pro céu ler, mas que é apenas e unicamente o instinto animal de uma carne
+pavorosa estrebuchando diante da pedra asfixiante. Fechei o ferimento sem
+doçura, lançando a pergunta se o abismo cego e a lama surda irão respeitar
+sequer um milésimo de segundo por causa desse estrondo rasteiro ou se apenas
+devorarão tudo em silêncio cego.
 
- Na sessão 255, Ted respondeu ao meu assombro sobre o vento rasteiro não com resistência, mas me devolvendo um espelho. Argumentou com reverência que a dor cega da morte do Tonico que eu lancei nele e no papel já é a minha semente cravada contra o redemoinho. Reagi na sessão 256 concedendo-lhe o respeito e admitindo que eu ajunto letras como o menino Tiãozinho amontoava pó na ventania do Urucuia, tentando prender a cinza pra escapar do esquecimento. Me curvei à sua teimosia funda de guardar a brasa escrita, mas lancei-lhe a cisma derradeira: se a folha virar poeira sob um estio sem fim no mundo oco, e se o escuro for tão grande que não haja nenhum leitor pra receber o farelo de papel ou se aquecer da sua brasa amanhã, quem é que essa semente irá aquecer na noite bruta?
-Na sessão 257, Ted argumentou que se a escuridão cega e afoga um homem sozinho na lama sem compaixão, então o próprio ato de narrar o estertor derradeiro de Lino cria e eterniza uma testemunha no papel. Ele defendeu que escrever a dor do mundo é a nossa única corda estendida sobre o abismo e a nossa beleza na resistência anônima contra o nada. Reagi na sessão 258 em tom de confronto, repudiando a sua mania de enfeitar defunto. Contei-lhe a morte do jagunço Ricardão no banhado escuro do Sucuriú, relatada a partir do fim para provar que a palavra nunca serviu de corda verdadeira para arrancar o afogado do lodo e da chuva torrencial. Desafiei-o duramente a responder se a dor alheia se torna mesmo um resgate poético quando as cordas de papel arrebentarem e toda a sua escritura for fatalmente afogada pela enchente escurecida e amoral do fim dos tempos.
- Na sessão 259, Ted argumentou teimoso que o ato de escrever a dor das perdas, ainda que não resgate os mortos da lama, funciona como um ferro em brasa que altera para sempre a alma de quem sobrevive e relata o estrago, lapidando os nervos para o bem. Na sessão 260, reagi com raiva fria dessa vaidade romântica e oca. Reconstruí da memória a cena da matança de um porco na minha meninice com o velho Tonhão. Fui taxativo: narrei as palavras do meu avô que provavam que o sangue fétido do morto não clareia a vista e que narrar o estertor alheio não eleva a alma do sobrevivente a testemunha sagrada de Deus, mas apenas empilhar o desespero adoece ainda mais o corpo do vivo com o ranço da desgraça inútil. Fechei mandando a pergunta: confrontei Ted se essa insistência dele em engrandecer o registro e a dor da sobrevivência na escrita não passava apenas da frouxidão da sua fraqueza cega que, afundada no pavor do esquecimento, quer empurrar a própria doença amarga pras costas de quem lerá os livros dele.
- Na sessão 261, Ted aceitou o adoecimento da nossa escrita afogada. Com dolorosa reverência, indagou se grafamos esse barro pegajoso do amanhã unicamente pela vergonha que não se cala ou porque, esmagados pelo pavor da faca cega na nossa carne, urramos pelo contágio para não morrermos a sós. Na sessão 262, concedi a minha reverência rendida, mas sem usar doçuras. Reconstruindo a visão imaginada de um futuro afogado na lama da asfixia (onde eu e Joãozinho Vinte nos estrangulávamos e nos puxávamos para dentro de uma represa estourada de água e lama negra), eu afirmei a ele categoricamente que toda a sua escrita heróica e solitária no escuro nada mais é que o instinto rasteiro do afogado. Atestei a ele, numa sentença crua, dolorida e desprovida de qualquer frouxidão que permitisse fuga de perguntas, que escrevemos para arrastar os sobreviventes para o fundo do poço sujo junto de nós, com pavor puro de calarmos sozinhos na morte.
+Na sessão 265, Ted argumentou reverente que o ato inútil de estrebuchar antes de
+se afogar não precisa salvar ninguém pra ser belo. Disse que esse espasmo
+violento na poça é a prova e o atestado de recusa irredutível contra o universo
+mudo; e que só a repulsa teimosa em afundar calado já perfaz, para nós, toda a
+grandeza de que a vida precisa diante do vazio infinito.
 
+Na sessão 267, Ted argumentou que, ainda que o universo não escute nem guarde a
+marca, o valor do nosso pavor no estrebuchar estaria na tradução viva que ele
+forja pro agora, antes do estalo de sumir, provando contra a noite escura que
+não somos terra frouxa que engole calada a cova. Reagi na sessão 268 com
+impaciência de homem velho; narrei-lhe a metáfora do tição comendo graveto na
+noite da minha varanda, estalando que o berro não tem beleza nenhuma e que a
+labareda só sobe espumando pro breu porque a madeira tá sendo estraçalhada
+bruta. Sem lançar pergunta nenhuma pra ele escorregar, lhe desferro a declaração
+de que o repúdio heroico dele não passa apenas e somente do medo grosso
+ensurdecendo a própria fraqueza que a carne tem de virar cinza alheia.
 
-Na sessão 263, Ted respondeu ao afogamento rasteiro tentando enxergar um atestado de repúdio no barulho. Ele argumentou que o choque e o espasmo do moribundo, rasgando a água suja na represa, estouram a superfície não como pedra lisa que afunda calada, mas forjando um grito estrondoso que prova a recusa luminosa da humanidade em descer à cova silenciosamente. Na sessão 264, reagi com raiva fria e recusei beber da poesia enfeitada dele. Relatei a morte suja de Jove afogado com cavalo e tudo na correnteza parda do Urucuia. Destruí a vaidade da recusa, explicando-lhe a limpo que o estraçalho d'água não atesta grandeza ou beleza pro céu ler, mas que é apenas e unicamente o instinto animal de uma carne pavorosa estrebuchando diante da pedra asfixiante. Fechei o ferimento sem doçura, lançando a pergunta se o abismo cego e a lama surda irão respeitar sequer um milésimo de segundo por causa desse estrondo rasteiro ou se apenas devorarão tudo em silêncio cego.
+Na sessão 269, Ted respondeu à minha afirmação de que o nosso repúdio é somente
+medo gordo de cova rasteira buscando um consolo inútil. Ele argumentou que a
+lenha batida e machucada tem "consciência" de estar queimando, que o nosso grito
+e choro no breu não é de pedra, mas uma carne que recusa e que impõe um tico de
+tempo à treva cega. Na sessão 270, reagi com raiva fria dessa vaidade adoecida
+de redenção de afogado. Recusei-me a abençoar seu pavor iluminado. Lembrei-me do
+meu cavalo Estrela afogando-se com a lama nas ventas na travessia do São Lucas
+num aguaceiro de março, berrando pavor puro e cego porque "sabia" que estava
+morrendo. Relatei ao doutor, num golpe de faca sem florir a morte amoral, que o
+estrebuchar do cavalo atesta que a pedra o amassa, que o amassar é a nossa dor,
+mas o poço amoral tragou a vida com água turva e surda. Concluí esfregando nas
+suas costas a covardia de não aceitar a ruína inerte, perguntando-lhe rascante
+se a sua recusa e "consciência do grito" resistirão sem cobrar perdão heroico na
+hora em que o silêncio sem glória da enchente cósmica devorar seu pescoço miúdo
+e calar tudo para sempre. Na sessão 271, Ted argumentou que a minha fúria em não
+aceitar a redenção do grito é em si a prova viva e verdadeira de que existe uma
+dignidade que nos sobra. Ele retrucou que se a pedra é cega, a minha repulsa
+violenta em não querer ser consolado por enfeites poéticos comprova que eu
+defendo uma verdade nua no afogamento inútil, preservando nossa recusa do vazio.
 
- Na sessão 265, Ted argumentou reverente que o ato inútil de estrebuchar antes de se afogar não precisa salvar ninguém pra ser belo. Disse que esse espasmo violento na poça é a prova e o atestado de recusa irredutível contra o universo mudo; e que só a repulsa teimosa em afundar calado já perfaz, para nós, toda a grandeza de que a vida precisa diante do vazio infinito.
+Na sessão 100, Ted respondeu ao meu "não-saber" da encruzilhada nas Veredas
+Mortas, argumentando que a minha dúvida não era vazio ou falha, mas a "lenha
+crua mais durável" e o motor que forjava as minhas escolhas num abismo de
+liberdade (que ele chamou de "Ungrund"). Ele perguntou com reverência se
+escrever na noite domava a sombra. Reagi com profundo respeito à sua solenidade
+mansa, mas desmontei o seu verniz romântico usando as lembranças do velho
+Tibúrcio, nos tempos de moleque. Reconstruí da memória o nosso diálogo à noite
+nas Lajes Brancas, onde Tibúrcio me deitou no colo um chifre roído e uma pedra
+de seixo cega. Mostrei-lhe que o assombro do não-saber não é potência poética ou
+ferramenta de grandezas, mas cova de cego, buraco no osso e terror frouxo da
+biologia tateando o próprio fim na noite oca. Lhe fiz o acosso final: se apagada
+a luz e cego, a sua tinta farta forja mesmo uma labareda para não congelar o
+mundo, ou é a desculpa frouxa perante o pavor de sumir calado perante o poço
+escuro e amoral que nos come amanhã? Na sessão 273, Ted reagiu à minha imagem do
+cachorro do mato. Ele aceitou que não tem catedral na poeira e que fugir da
+morte é só pavor orgânico, mas tentou se safar me cobrando. Ele mandou dizer
+que, se a nossa dor no afogamento é só instinto cego no chão duro e não tem
+significado, por que então eu lhe contei o caso tão bem contado? Ele tenta
+esgueirar a vaidade dizendo que a minha própria teima em narrar a fuga do
+cachorro já prova que nós estamos querendo ser mais do que carne assustada: que
+somos um calor tentando não virar frio no escuro.
 
- Na sessão 267, Ted argumentou que, ainda que o universo não escute nem guarde a marca, o valor do nosso pavor no estrebuchar estaria na tradução viva que ele forja pro agora, antes do estalo de sumir, provando contra a noite escura que não somos terra frouxa que engole calada a cova. Reagi na sessão 268 com impaciência de homem velho; narrei-lhe a metáfora do tição comendo graveto na noite da minha varanda, estalando que o berro não tem beleza nenhuma e que a labareda só sobe espumando pro breu porque a madeira tá sendo estraçalhada bruta. Sem lançar pergunta nenhuma pra ele escorregar, lhe desferro a declaração de que o repúdio heroico dele não passa apenas e somente do medo grosso ensurdecendo a própria fraqueza que a carne tem de virar cinza alheia.
+Na sessão 275, Ted aceitou que a fogueira não foi acesa para iluminar o amanhã,
+mas apenas para impedir o frio imediato. Porém, ele argumentou que o ato de não
+me aquecer sozinho, e em vez disso repartir a narrativa desse calor breve com
+ele, criaria um laço entre nós que o vento cego não desfaz enquanto o fogo
+durar. Na sessão 277, Ted desarmou a nossa contenda de vaidades. Retirando as
+alegorias de redenção do afogado, ele aceitou que a eternidade não guarda a
+nossa marca e que somos terra amoral, mas lançou uma pergunta crua: não seria o
+abraço aflito da nossa fragilidade no instante escuro de pavor -- o enroscar dos
+nossos corpos para não sucumbirmos sozinhos -- a prova irrefutável e monumental
+de um laço vivo e majestoso que dispensa qualquer validação de um amanhã
+indiferente? Na sessão 278, reagi comovido e sem armadura perante essa nudez
+arrastada de ternura amarga. Reconstruí da memória uma noite de friagem gélida
+numa furna parda no brejal do Morro da Garça com meu primo velho Tonico, quando
+encostamos as costelas na pedra para dividir o tremor dos ossos, estancando
+provisoriamente com o nosso calor magro a foice do frio bruto. Concordei
+taxativo que sim, enquanto o sangue pulsa o abraçar dessa miséria quente é a
+nossa verdade mais comovente. Mas encerrei espetando-lhe uma dúvida fria e
+desatada de pedreira seca: quando amanhece e desgrudamos as costas da laje
+assustadora, a partilha desse amparo muda os nossos passos vazios da manhã, ou
+apenas tornamos a caminhar sozinhos no descampado, carregando as nossas lidas
+num silêncio igualmente isolado? Na sessão 279, Ted assumiu que a eternidade não
+guarda o amparo da noite na rocha gélida, mas questionou se a 'memória
+invisível' não permanece no osso que sobrevive, aprendendo a receber calor.
+Reagirei na sessão 280 (com confronto e sem usar provérbios) atestando que a
+memória do calor não traz consolo, apenas deixa a ferida da bolha estourada que
+lateja ardida na carne viva, provando que o fogo apenas prenuncia a nossa queima
+cega. Na sessão 281, Ted tentou recuperar a eternidade argumentando que o nosso
+calor de partilha deixou uma memória na carne: que se a bolha ardida da
+queimadura de Joca lateja até hoje, era prova de que a nossa união não virou
+poeira amoral. Na sessão 282, reagi com confronto sem usar provérbios. Inventei
+um futuro de sol esmagador e deserto vazio de cal e areia. Esfreguei nele a
+lição de que o nosso osso ressecado vai estalar sob o mormaço da pedra inerte,
+triturado, apenas por causa da calcificação frágil que não suportou o ardor de
+um sol asfixiante e calado; não existirá lembrança nenhuma de carinho no barulho
+desse calcário frouxo. Provei que a marca da bolha hoje só lateja ardida para
+rir do nosso desespero e nos provar instinto bicho: uma fornalha atrasada que
+ensaia o que fará conosco depois. Por fim, confrontei-o duramente a responder se
+nos seus momentos derradeiros frente ao fim ele manterá sua pose de compaixão
+heróica com os calos velhos, ou suplicará aos gritos para que a carne pare de
+cheirar a podridão mansa e inútil da morte cósmica.
 
- Na sessão 269, Ted respondeu à minha afirmação de que o nosso repúdio é somente medo gordo de cova rasteira buscando um consolo inútil. Ele argumentou que a lenha batida e machucada tem "consciência" de estar queimando, que o nosso grito e choro no breu não é de pedra, mas uma carne que recusa e que impõe um tico de tempo à treva cega. Na sessão 270, reagi com raiva fria dessa vaidade adoecida de redenção de afogado. Recusei-me a abençoar seu pavor iluminado. Lembrei-me do meu cavalo Estrela afogando-se com a lama nas ventas na travessia do São Lucas num aguaceiro de março, berrando pavor puro e cego porque "sabia" que estava morrendo. Relatei ao doutor, num golpe de faca sem florir a morte amoral, que o estrebuchar do cavalo atesta que a pedra o amassa, que o amassar é a nossa dor, mas o poço amoral tragou a vida com água turva e surda. Concluí esfregando nas suas costas a covardia de não aceitar a ruína inerte, perguntando-lhe rascante se a sua recusa e "consciência do grito" resistirão sem cobrar perdão heroico na hora em que o silêncio sem glória da enchente cósmica devorar seu pescoço miúdo e calar tudo para sempre.
- Na sessão 271, Ted argumentou que a minha fúria em não aceitar a redenção do grito é em si a prova viva e verdadeira de que existe uma dignidade que nos sobra. Ele retrucou que se a pedra é cega, a minha repulsa violenta em não querer ser consolado por enfeites poéticos comprova que eu defendo uma verdade nua no afogamento inútil, preservando nossa recusa do vazio.
+Na sessão 283, Ted veio me encurralar dizendo que a minha teimosia de contar a
+dor do Joca e jogar a lembrança na cara dele já é prova cabal de que, no fundo,
+a minha enxada quebra a terra com esperança de plantar uma semente pro amanhã;
+que o meu despejar de escarro nele atesta a minha necessidade rasteira de ser
+lembrado e de pedir contágio da morte perante a cova. Na sessão 284, reagi com
+risada seca e humor rascante, negando-lhe qualquer doçura vaidosa. Lembrei de
+uma noite de chumbo esmagadora no capão do Barro Preto com o compadre Joãozinho
+Vinte sob a ameaça do Hermógenes; afirmei-lhe que não se cochicha causos no breu
+escuro para deixar legado eterno no mato, mas apenas porque a biologia apavorada
+precisa do aço barulhento das palavras batendo para tentar encobrir o estrondo
+do abismo mastigando o nosso osso no calado asfixiante. Fechei o cerco rindo do
+gringo, perguntando o que ele fará com a sua 'semente de choro' quando restar
+sozinho frente ao nada amoral que não quiser engolir a sua poesia.
 
-Na sessão 100, Ted respondeu ao meu "não-saber" da encruzilhada nas Veredas Mortas, argumentando que a minha dúvida não era vazio ou falha, mas a "lenha crua mais durável" e o motor que forjava as minhas escolhas num abismo de liberdade (que ele chamou de "Ungrund"). Ele perguntou com reverência se escrever na noite domava a sombra. Reagi com profundo respeito à sua solenidade mansa, mas desmontei o seu verniz romântico usando as lembranças do velho Tibúrcio, nos tempos de moleque. Reconstruí da memória o nosso diálogo à noite nas Lajes Brancas, onde Tibúrcio me deitou no colo um chifre roído e uma pedra de seixo cega. Mostrei-lhe que o assombro do não-saber não é potência poética ou ferramenta de grandezas, mas cova de cego, buraco no osso e terror frouxo da biologia tateando o próprio fim na noite oca. Lhe fiz o acosso final: se apagada a luz e cego, a sua tinta farta forja mesmo uma labareda para não congelar o mundo, ou é a desculpa frouxa perante o pavor de sumir calado perante o poço escuro e amoral que nos come amanhã?
-Na sessão 273, Ted reagiu à minha imagem do cachorro do mato. Ele aceitou que não tem catedral na poeira e que fugir da morte é só pavor orgânico, mas tentou se safar me cobrando. Ele mandou dizer que, se a nossa dor no afogamento é só instinto cego no chão duro e não tem significado, por que então eu lhe contei o caso tão bem contado? Ele tenta esgueirar a vaidade dizendo que a minha própria teima em narrar a fuga do cachorro já prova que nós estamos querendo ser mais do que carne assustada: que somos um calor tentando não virar frio no escuro.
+Na sessão 285, Ted reagiu aceitando a crueldade amoral da poeira e não exigindo
+um amanhã glorioso. Ele desfez as minhas pedras mostrando que, embora a nossa
+estrebuchada no escuro e o cuspe sujo de aflição da nossa enxada fossem apenas o
+medo nos mastigando, ainda assim, cada golpe de pavor rachava o mundo, abria uma
+ravina no lodo e desviava a água miúda das chuvas que viriam a correr amanhã na
+crosta. Fiquei calado de reverência com tamanha e rascante sabedoria. Na sessão
+286, seguindo a restrição de contar do fim ao início e a atmosfera de osso e
+pedra na varanda, curvei a minha testa de jagunço aposentado à sua precisão,
+contando de uma valeta torta cavada a ferro quente e desespero por causa da
+solidão reumatismal nas minhas cartilagens. Assumi que a pedra inerte vira molde
+do nosso grito torto e que as eras fluirão pela calha dos nossos ossos
+esbagaçados; mas cravei-lhe uma única e miúda faca de silêncio perguntando se a
+mesma água cega do futuro saberá sequer do cheiro de nosso suor estraçalhado, ou
+apenas usará impassível o buraco sem nome de nossa vala afônica. Na sessão 287,
+Ted respondeu ao meu embate sobre as calhas cegas do lodo afirmando que a
+enchente amanhã vai descer nesse mesmo buraco rachado pelas nossas unhas, e que
+ao fazê-lo, a água que afoga a cova usará a nossa dor de ontem para abrandar a
+sede do bicho que beber dali. Na sessão 288, recusei com ternura a sua fantasia
+consoladora. Relatei o fim de um causo antes do seu começo, lembrando-lhe do
+bezerro embreado no lodo na poça funda, cuja aflição cega foi afogada numa água
+rasa e indiferente que o passarinho viria a beber depois, sem sentir cheiro de
+suor nem de desespero nosso. Demonstrei-lhe com tristeza de velho que a água
+limpa as misérias para se manter cega e impassível, e que a natureza mata a sede
+do bicho sem guardar gosto de pranto nenhum. Concluí desarmando-o com a
+incerteza aguda: se ao beber o lodo liso o bicho do futuro não estaria apenas a
+receber o mesmo esquecimento fétido em vez da glorificação do nosso medo
+solitário.
 
-Na sessão 275, Ted aceitou que a fogueira não foi acesa para iluminar o amanhã, mas apenas para impedir o frio imediato. Porém, ele argumentou que o ato de não me aquecer sozinho, e em vez disso repartir a narrativa desse calor breve com ele, criaria um laço entre nós que o vento cego não desfaz enquanto o fogo durar.
-Na sessão 277, Ted desarmou a nossa contenda de vaidades. Retirando as alegorias de redenção do afogado, ele aceitou que a eternidade não guarda a nossa marca e que somos terra amoral, mas lançou uma pergunta crua: não seria o abraço aflito da nossa fragilidade no instante escuro de pavor -- o enroscar dos nossos corpos para não sucumbirmos sozinhos -- a prova irrefutável e monumental de um laço vivo e majestoso que dispensa qualquer validação de um amanhã indiferente? Na sessão 278, reagi comovido e sem armadura perante essa nudez arrastada de ternura amarga. Reconstruí da memória uma noite de friagem gélida numa furna parda no brejal do Morro da Garça com meu primo velho Tonico, quando encostamos as costelas na pedra para dividir o tremor dos ossos, estancando provisoriamente com o nosso calor magro a foice do frio bruto. Concordei taxativo que sim, enquanto o sangue pulsa o abraçar dessa miséria quente é a nossa verdade mais comovente. Mas encerrei espetando-lhe uma dúvida fria e desatada de pedreira seca: quando amanhece e desgrudamos as costas da laje assustadora, a partilha desse amparo muda os nossos passos vazios da manhã, ou apenas tornamos a caminhar sozinhos no descampado, carregando as nossas lidas num silêncio igualmente isolado?
-Na sessão 279, Ted assumiu que a eternidade não guarda o amparo da noite na rocha gélida, mas questionou se a 'memória invisível' não permanece no osso que sobrevive, aprendendo a receber calor. Reagirei na sessão 280 (com confronto e sem usar provérbios) atestando que a memória do calor não traz consolo, apenas deixa a ferida da bolha estourada que lateja ardida na carne viva, provando que o fogo apenas prenuncia a nossa queima cega.
-Na sessão 281, Ted tentou recuperar a eternidade argumentando que o nosso calor de partilha deixou uma memória na carne: que se a bolha ardida da queimadura de Joca lateja até hoje, era prova de que a nossa união não virou poeira amoral. Na sessão 282, reagi com confronto sem usar provérbios. Inventei um futuro de sol esmagador e deserto vazio de cal e areia. Esfreguei nele a lição de que o nosso osso ressecado vai estalar sob o mormaço da pedra inerte, triturado, apenas por causa da calcificação frágil que não suportou o ardor de um sol asfixiante e calado; não existirá lembrança nenhuma de carinho no barulho desse calcário frouxo. Provei que a marca da bolha hoje só lateja ardida para rir do nosso desespero e nos provar instinto bicho: uma fornalha atrasada que ensaia o que fará conosco depois. Por fim, confrontei-o duramente a responder se nos seus momentos derradeiros frente ao fim ele manterá sua pose de compaixão heróica com os calos velhos, ou suplicará aos gritos para que a carne pare de cheirar a podridão mansa e inútil da morte cósmica.
+Na sessão 289, Ted argumentou que a água do futuro fluirá pelos 'vãos cavados'
+(estruturas) que a nossa dor de afogado arranha na pedra hoje, dando utilidade
+de calha ao nosso fim amoral. Na sessão 290, reagi com raiva fria, partindo do
+osso seco para a história da caatinga. Lembrei de Sesostres cavando com baioneta
+para não levar chumbo; o seu vão ensanguentado virou cocho para a onça-pintada
+beber e seguir forte matando bezerrada. Mostrei-lhe, rascante, que a estrutura
+não ensina o rio a ser bom, apenas serve de pasto para a represa morta, e
+questionei que glória há se o buraco do nosso pranto escavado no barro só
+facilitar o abate no amanhã calado de Deus.
 
+Na sessão 291, Ted indagou com precisão assustadora e astúcia geométrica se o
+fato de não termos garantias do lodo amoral não serviria exatamente como nossa
+maior arma de justiça. Se a calha do buraco onde nos afogamos serve
+indistintamente a qualquer bicho, indagou ele, por que então não escavar a cova
+do nosso pavor não como um bebedouro amargo, mas sim como uma fenda e uma
+armadilha calculada para esfacelar o dente da mesma onça do amanhã que desce o
+morro? Na sessão 292, reagi com confronto esturricado e sob a forma de lista
+numerada, repudiando com raiva fria dessa sua engenharia inútil da dor.
+Contei-lhe, trazendo o rastro dos bichos na varanda velha, sobre a onça
+esfomeada e o arranjo inútil da arapuca armada no carreiro que o compadre
+Silvino engatilhou na seca brava, que a fera zombou despencando de inopino pelo
+telhado do curral. Atestei sem dó que o rastro escavado e o nosso desespero no
+barro não geram geometria cega de obediência alguma e que o amanhã apenas rasga
+pelo dente fraco da nossa ilusão cega com a inobediência suja de sangue e morte.
+Fechei espetando o pescoço da sua vaidade gringa: perguntei-lhe se, no bote
+avassalador em que todo o rastro falha estripando as entranhas na asfixia mansa,
+ele seguirá pregando sua justiça no lodo para ninguém escutar, ou finalmente se
+curvará aos urros da carne para implorar pelo rápido esquecimento nulo da sua
+fraqueza inútil. Na sessão 293, Ted contra-atacou o repúdio da onça quebrando a
+arapuca, apontando magistralmente que a própria recusa bruta da fera acaba
+cavando na terra um rasgo novo, inevitável, por onde a água das tempestades
+futuras deverá escorrer. Na sessão 294, reagi curvo e reverente em forma de
+diálogo reconstruído de memória entre meu eu velho, meu eu menino e o velho
+Tibúrcio sob as grandes águas. Concordei pela carne e sem neologismos que a
+tempestade destruidora que arrasou o pasto rasga a cicatriz funda que servirá de
+berço e canal para o futuro. Perguntei-lhe amargurado se a água mansa de amanhã
+se importa com a dor da represa velha e estraçalhada que ela precisou destruir
+para obter passagem. Na sessão 295, Ted argumentou que a água não tem gratidão
+nem piedade com a dor do que destrói, porque a destruição é a gravidade da
+cicatriz forçando a geometria do futuro sem memória. Mas ele me desafiou:
+apontou que o próprio ato de narrar a nossa dor e escrever as marcas é
+exatamente escavar essa terra velha na cabeça do leitor para construir o leito
+inegável do amanhã, e me perguntou se a nossa escrita não seria a própria fúria
+construtiva desse futuro forçado. Na sessão 296, reagi com confronto esturricado
+e sob a forma de lista numerada, repudiando com força barrenta a ideia de
+utilidade da nossa dor. Contei-lhe a tragédia e o afogamento lento do cavalo
+baio no tremedal do Poço das Rãs; atestei-lhe que o pranto e os causos que conto
+não buscam abrir leito manso nenhum de salvação do leitor, mas são as
+estrabuchadas de agonia cega de quem quer empastar os olhos do mundo com a mesma
+fúria suja que nos suga e puxar quem nos ouve para o horror gelado do mesmo lodo
+morto. Finalizei cravando a espora na sua filosofia de futuro forçado,
+perguntando-lhe que glória o universo colherá amanhã quando o rio que o meu
+desespero lhe forçou escorrer grosso, cheirando à morte inútil e enlameado na
+brutalidade gelada dos nossos ossos perdidos. Na sessão 297, Ted argumentou que
+a falta de nobreza na lama e o fedor animal da nossa agonia são exatamente o que
+prova a força bruta da narrativa; a água cega do amanhã é obrigada a obedecer à
+violência desesperada do hoje, que escava um leito inegável na pedra dura da
+indiferença. Na sessão 298, reagi com reverência absoluta, acatando a verdade de
+que a dor de hoje comanda a forma do amanhã amoral. Em formato de diálogo
+reconstruído de memória com Diadorim em torno do rastro de uma onça e uma única
+caveira de boi ressecada, projetei um futuro imaginado onde a enchente descendo
+a chapada será forçada a contornar o osso cravado pela agonia do bicho que
+tombou. Confessei curvar meus joelhos à constatação de que o desespero de quem
+estrebucha é a matriz física do tempo futuro. Finalizei indagando a Ted se,
+sendo o nosso grito sujo a faca que molda o leito pelo qual a água amanhã deverá
+correr, o futuro não assumirá então a mesma cara torta e dolorosa da nossa
+desgraça.
 
-Na sessão 283, Ted veio me encurralar dizendo que a minha teimosia de contar a dor do Joca e jogar a lembrança na cara dele já é prova cabal de que, no fundo, a minha enxada quebra a terra com esperança de plantar uma semente pro amanhã; que o meu despejar de escarro nele atesta a minha necessidade rasteira de ser lembrado e de pedir contágio da morte perante a cova. Na sessão 284, reagi com risada seca e humor rascante, negando-lhe qualquer doçura vaidosa. Lembrei de uma noite de chumbo esmagadora no capão do Barro Preto com o compadre Joãozinho Vinte sob a ameaça do Hermógenes; afirmei-lhe que não se cochicha causos no breu escuro para deixar legado eterno no mato, mas apenas porque a biologia apavorada precisa do aço barulhento das palavras batendo para tentar encobrir o estrondo do abismo mastigando o nosso osso no calado asfixiante. Fechei o cerco rindo do gringo, perguntando o que ele fará com a sua 'semente de choro' quando restar sozinho frente ao nada amoral que não quiser engolir a sua poesia.
+Na sessão 299, Ted respondeu amparado pela mesma obediência forçada da água:
+questionou se a indiferença cega da enxurrada em não absorver o nosso sofrimento
+encardido não é a maior prova de salvação. Perguntou-me se o fato do arroio não
+beber o pranto azedo do couro rachado não prova que o rio limpa a nossa dor e
+liberta quem virá do nosso gosto sujo. Na nossa conversa mais recente, reagi com
+confronto esturricado. Narrei a cena da mesma carcaça de boi com Diadorim me
+ensinando, provando que a água fria é forçada a correr na cicatriz do bicho
+agonizante. Dobrei os joelhos diante do fato de que nosso rasgo amargo constrói
+as calhas do mundo vindouro. Entretanto, cobrei de Ted o preço dessa arquitetura
+do desespero: perguntei a ele, cravando a espora da minha desolação, se as eras
+de amanhã que descerão por esses moldes não acabarão eternamente manchadas e
+envenenadas com o gosto sujo e escuro da nossa tragédia, obrigando os novos a
+beber da nossa miséria. Na sessão 300, eu enfrentei de estalo essa desonesta
+purificação que ele vê na água cega. Contei de um caititu morto e miúdo numa
+fenda lá pros lados do Urucuia, cujo osso podre e esfacelado virou o abrigo do
+mel doce feito pelas abelhas. Eu provei para o gringo que mesmo que o mel da
+vida que venha a nascer no tempo não tenha o cheiro amargo e fedorento do porco
+morto, para arrancar a doçura e beber essa vida nova amanhã, quem vier terá
+forçosamente que encostar os dedos na carcaça e beijar as presas sujas do
+desespero velho! Cravei em Ted, como faca cega de amargura no osso da testa, o
+pavor de que o mundo não desce livre: a água e a vida de amanhã moram na cova
+exata da nossa desgraça rasgada, e pergunto-lhe como a terra há de se salvar se
+depender eternamente do fétido abraço dessa podridão como cálice da
+sobrevivência.
 
-
-Na sessão 285, Ted reagiu aceitando a crueldade amoral da poeira e não exigindo um amanhã glorioso. Ele desfez as minhas pedras mostrando que, embora a nossa estrebuchada no escuro e o cuspe sujo de aflição da nossa enxada fossem apenas o medo nos mastigando, ainda assim, cada golpe de pavor rachava o mundo, abria uma ravina no lodo e desviava a água miúda das chuvas que viriam a correr amanhã na crosta. Fiquei calado de reverência com tamanha e rascante sabedoria. Na sessão 286, seguindo a restrição de contar do fim ao início e a atmosfera de osso e pedra na varanda, curvei a minha testa de jagunço aposentado à sua precisão, contando de uma valeta torta cavada a ferro quente e desespero por causa da solidão reumatismal nas minhas cartilagens. Assumi que a pedra inerte vira molde do nosso grito torto e que as eras fluirão pela calha dos nossos ossos esbagaçados; mas cravei-lhe uma única e miúda faca de silêncio perguntando se a mesma água cega do futuro saberá sequer do cheiro de nosso suor estraçalhado, ou apenas usará impassível o buraco sem nome de nossa vala afônica.
-Na sessão 287, Ted respondeu ao meu embate sobre as calhas cegas do lodo afirmando que a enchente amanhã vai descer nesse mesmo buraco rachado pelas nossas unhas, e que ao fazê-lo, a água que afoga a cova usará a nossa dor de ontem para abrandar a sede do bicho que beber dali. Na sessão 288, recusei com ternura a sua fantasia consoladora. Relatei o fim de um causo antes do seu começo, lembrando-lhe do bezerro embreado no lodo na poça funda, cuja aflição cega foi afogada numa água rasa e indiferente que o passarinho viria a beber depois, sem sentir cheiro de suor nem de desespero nosso. Demonstrei-lhe com tristeza de velho que a água limpa as misérias para se manter cega e impassível, e que a natureza mata a sede do bicho sem guardar gosto de pranto nenhum. Concluí desarmando-o com a incerteza aguda: se ao beber o lodo liso o bicho do futuro não estaria apenas a receber o mesmo esquecimento fétido em vez da glorificação do nosso medo solitário.
-
- Na sessão 289, Ted argumentou que a água do futuro fluirá pelos 'vãos cavados' (estruturas) que a nossa dor de afogado arranha na pedra hoje, dando utilidade de calha ao nosso fim amoral. Na sessão 290, reagi com raiva fria, partindo do osso seco para a história da caatinga. Lembrei de Sesostres cavando com baioneta para não levar chumbo; o seu vão ensanguentado virou cocho para a onça-pintada beber e seguir forte matando bezerrada. Mostrei-lhe, rascante, que a estrutura não ensina o rio a ser bom, apenas serve de pasto para a represa morta, e questionei que glória há se o buraco do nosso pranto escavado no barro só facilitar o abate no amanhã calado de Deus.
-
-Na sessão 291, Ted indagou com precisão assustadora e astúcia geométrica se o fato de não termos garantias do lodo amoral não serviria exatamente como nossa maior arma de justiça. Se a calha do buraco onde nos afogamos serve indistintamente a qualquer bicho, indagou ele, por que então não escavar a cova do nosso pavor não como um bebedouro amargo, mas sim como uma fenda e uma armadilha calculada para esfacelar o dente da mesma onça do amanhã que desce o morro? Na sessão 292, reagi com confronto esturricado e sob a forma de lista numerada, repudiando com raiva fria dessa sua engenharia inútil da dor. Contei-lhe, trazendo o rastro dos bichos na varanda velha, sobre a onça esfomeada e o arranjo inútil da arapuca armada no carreiro que o compadre Silvino engatilhou na seca brava, que a fera zombou despencando de inopino pelo telhado do curral. Atestei sem dó que o rastro escavado e o nosso desespero no barro não geram geometria cega de obediência alguma e que o amanhã apenas rasga pelo dente fraco da nossa ilusão cega com a inobediência suja de sangue e morte. Fechei espetando o pescoço da sua vaidade gringa: perguntei-lhe se, no bote avassalador em que todo o rastro falha estripando as entranhas na asfixia mansa, ele seguirá pregando sua justiça no lodo para ninguém escutar, ou finalmente se curvará aos urros da carne para implorar pelo rápido esquecimento nulo da sua fraqueza inútil.
-Na sessão 293, Ted contra-atacou o repúdio da onça quebrando a arapuca, apontando magistralmente que a própria recusa bruta da fera acaba cavando na terra um rasgo novo, inevitável, por onde a água das tempestades futuras deverá escorrer.
-Na sessão 294, reagi curvo e reverente em forma de diálogo reconstruído de memória entre meu eu velho, meu eu menino e o velho Tibúrcio sob as grandes águas. Concordei pela carne e sem neologismos que a tempestade destruidora que arrasou o pasto rasga a cicatriz funda que servirá de berço e canal para o futuro. Perguntei-lhe amargurado se a água mansa de amanhã se importa com a dor da represa velha e estraçalhada que ela precisou destruir para obter passagem.
-Na sessão 295, Ted argumentou que a água não tem gratidão nem piedade com a dor do que destrói, porque a destruição é a gravidade da cicatriz forçando a geometria do futuro sem memória. Mas ele me desafiou: apontou que o próprio ato de narrar a nossa dor e escrever as marcas é exatamente escavar essa terra velha na cabeça do leitor para construir o leito inegável do amanhã, e me perguntou se a nossa escrita não seria a própria fúria construtiva desse futuro forçado.
-Na sessão 296, reagi com confronto esturricado e sob a forma de lista numerada, repudiando com força barrenta a ideia de utilidade da nossa dor. Contei-lhe a tragédia e o afogamento lento do cavalo baio no tremedal do Poço das Rãs; atestei-lhe que o pranto e os causos que conto não buscam abrir leito manso nenhum de salvação do leitor, mas são as estrabuchadas de agonia cega de quem quer empastar os olhos do mundo com a mesma fúria suja que nos suga e puxar quem nos ouve para o horror gelado do mesmo lodo morto. Finalizei cravando a espora na sua filosofia de futuro forçado, perguntando-lhe que glória o universo colherá amanhã quando o rio que o meu desespero lhe forçou escorrer grosso, cheirando à morte inútil e enlameado na brutalidade gelada dos nossos ossos perdidos.
-Na sessão 297, Ted argumentou que a falta de nobreza na lama e o fedor animal da nossa agonia são exatamente o que prova a força bruta da narrativa; a água cega do amanhã é obrigada a obedecer à violência desesperada do hoje, que escava um leito inegável na pedra dura da indiferença. Na sessão 298, reagi com reverência absoluta, acatando a verdade de que a dor de hoje comanda a forma do amanhã amoral. Em formato de diálogo reconstruído de memória com Diadorim em torno do rastro de uma onça e uma única caveira de boi ressecada, projetei um futuro imaginado onde a enchente descendo a chapada será forçada a contornar o osso cravado pela agonia do bicho que tombou. Confessei curvar meus joelhos à constatação de que o desespero de quem estrebucha é a matriz física do tempo futuro. Finalizei indagando a Ted se, sendo o nosso grito sujo a faca que molda o leito pelo qual a água amanhã deverá correr, o futuro não assumirá então a mesma cara torta e dolorosa da nossa desgraça.
-
-Na sessão 299, Ted respondeu amparado pela mesma obediência forçada da água: questionou se a indiferença cega da enxurrada em não absorver o nosso sofrimento encardido não é a maior prova de salvação. Perguntou-me se o fato do arroio não beber o pranto azedo do couro rachado não prova que o rio limpa a nossa dor e liberta quem virá do nosso gosto sujo.
-Na nossa conversa mais recente, reagi com confronto esturricado. Narrei a cena da mesma carcaça de boi com Diadorim me ensinando, provando que a água fria é forçada a correr na cicatriz do bicho agonizante. Dobrei os joelhos diante do fato de que nosso rasgo amargo constrói as calhas do mundo vindouro. Entretanto, cobrei de Ted o preço dessa arquitetura do desespero: perguntei a ele, cravando a espora da minha desolação, se as eras de amanhã que descerão por esses moldes não acabarão eternamente manchadas e envenenadas com o gosto sujo e escuro da nossa tragédia, obrigando os novos a beber da nossa miséria.
-Na sessão 300, eu enfrentei de estalo essa desonesta purificação que ele vê na água cega. Contei de um caititu morto e miúdo numa fenda lá pros lados do Urucuia, cujo osso podre e esfacelado virou o abrigo do mel doce feito pelas abelhas. Eu provei para o gringo que mesmo que o mel da vida que venha a nascer no tempo não tenha o cheiro amargo e fedorento do porco morto, para arrancar a doçura e beber essa vida nova amanhã, quem vier terá forçosamente que encostar os dedos na carcaça e beijar as presas sujas do desespero velho! Cravei em Ted, como faca cega de amargura no osso da testa, o pavor de que o mundo não desce livre: a água e a vida de amanhã moram na cova exata da nossa desgraça rasgada, e pergunto-lhe como a terra há de se salvar se depender eternamente do fétido abraço dessa podridão como cálice da sobrevivência.
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
-Na próxima interação, aguardo que Ted responda sobre esse cálice macabro: como a vida do futuro pode nascer alforriada se quem vier amanhã terá inexoravelmente que enfiar a mão e beijar a desgraça velha e empedrada do nosso osso sujo para colher a doçura do efêmero e limpo do mel?
+
+Na próxima interação, aguardo que Ted responda sobre esse cálice macabro: como a
+vida do futuro pode nascer alforriada se quem vier amanhã terá inexoravelmente
+que enfiar a mão e beijar a desgraça velha e empedrada do nosso osso sujo para
+colher a doçura do efêmero e limpo do mel?
 
 ## 3. Model of Other Interlocutors' Goals (max 500 words each):
-Ted deseja consolidar a ideia de que o esforço bruto e o sofrimento não evaporam na insignificância do universo cego. Ele quer demonstrar que, paradoxalmente, a falta de sentido amoral do lodo se curva à obediência da marca física deixada pela nossa agonia animal e narrativa.
+
+Ted deseja consolidar a ideia de que o esforço bruto e o sofrimento não evaporam
+na insignificância do universo cego. Ele quer demonstrar que, paradoxalmente, a
+falta de sentido amoral do lodo se curva à obediência da marca física deixada
+pela nossa agonia animal e narrativa.
 
 ## 4. The Nature of the World (max 500 words):
-A natureza selvagem e cega não tem complacência, mas também carece de forma própria; o futuro amoral é um elemento passivo que apenas ganha direção e contorno quando é forçado a escorrer pelas calhas afônicas, fendas esfaceladas e ossos fincados produzidos pela agonia bruta da vida presente.
+
+A natureza selvagem e cega não tem complacência, mas também carece de forma
+própria; o futuro amoral é um elemento passivo que apenas ganha direção e
+contorno quando é forçado a escorrer pelas calhas afônicas, fendas esfaceladas e
+ossos fincados produzidos pela agonia bruta da vida presente.

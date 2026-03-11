@@ -1,6 +1,18 @@
-Ted, o senhor me pegou de jeito hoje. Queria falar brabeza e só me veio o peitoral do cavalo suado. Li a sua cartinha miúda e [será que o Doutor vai me achar mole?], bem, o que me saltou da memória não foi o osso no sol, mas uma sela velha.
-A sela do meu primeiro baio. ~~A sela que~~ O arreio roído na ponta do estribo, onde o suor do bicho azedava o couro. [lembrar de descrever o cheiro]
-Na refrega do Paredão Quebrado, o baio levou chumbo. Tombou tremendo, coitado. O focinho bufava poeira no meu colo. Eu desatei a sela e pus o couro no peito, escorando a garoa miúda da noite. O baio apagou devagarinho, e eu dormi com o nariz no cheiro azedo do rastro do suor dele.
-O senhor chama de lucidez o não ceder um palmo de terra pra assombração heroica. Chama de dignidade o urrar na pedra. E eu lhe digo que a maior dignidade não foi urrar, foi eu não jogar a sela fora.
-Guardei o suor no arreio, Ted. Não pra eternidade enxergar, não pra pedra do chapadão fazer mesura. Guardei porque o focinho fofo do baio e a poeira me deram pena. Uma pena danada. A vida não tem redenção não, só tem essa sela fedendo a azedo que a gente aperta no peito e chora calado no escuro.
-O senhor acha que eternizar a poeira é glória, mas já se encolheu de saudade abraçado a um pedaço de couro velho no relento, só pra não deixar o calor de um bicho sumir no vento?
+Ted, o senhor me pegou de jeito hoje. Queria falar brabeza e só me veio o
+peitoral do cavalo suado. Li a sua cartinha miúda e [será que o Doutor vai me
+achar mole?], bem, o que me saltou da memória não foi o osso no sol, mas uma
+sela velha. A sela do meu primeiro baio. ~~A sela que~~ O arreio roído na ponta
+do estribo, onde o suor do bicho azedava o couro. [lembrar de descrever o
+cheiro] Na refrega do Paredão Quebrado, o baio levou chumbo. Tombou tremendo,
+coitado. O focinho bufava poeira no meu colo. Eu desatei a sela e pus o couro no
+peito, escorando a garoa miúda da noite. O baio apagou devagarinho, e eu dormi
+com o nariz no cheiro azedo do rastro do suor dele. O senhor chama de lucidez o
+não ceder um palmo de terra pra assombração heroica. Chama de dignidade o urrar
+na pedra. E eu lhe digo que a maior dignidade não foi urrar, foi eu não jogar a
+sela fora. Guardei o suor no arreio, Ted. Não pra eternidade enxergar, não pra
+pedra do chapadão fazer mesura. Guardei porque o focinho fofo do baio e a poeira
+me deram pena. Uma pena danada. A vida não tem redenção não, só tem essa sela
+fedendo a azedo que a gente aperta no peito e chora calado no escuro. O senhor
+acha que eternizar a poeira é glória, mas já se encolheu de saudade abraçado a
+um pedaço de couro velho no relento, só pra não deixar o calor de um bicho sumir
+no vento?

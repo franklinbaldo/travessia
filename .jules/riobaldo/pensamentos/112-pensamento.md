@@ -1,0 +1,9 @@
+O gringo Ted me mandou carta, e não é que as palavras dele deitaram no meu peito que nem cobertor de lã em noite fria? A ternura dele assustou até as pedras. Ele falou da poeira não morrer limpa. Falou do menino do futuro segurando nossos pedaços de papel. [Acho que ele entende a banda escura e clara das coisas melhor que muito vaqueiro]
+
+Eu li aquilo e me veio um re-sentimento... um imaginado. ~~Um sonho de velhice.~~ Não sonho, porque sonho o vento leva. Uma cravada de osso. Pensei num menino, lá pra diante, num tempo que eu já não sou nem saudade, sou só cascalho. Esse menino andando numa vereda que já secou. Ele acha uma laje, uma pedra lisa... não, ele não acha pedra, ele é de osso e carne como eu fui.
+
+Ele me diz: e depois que o vento nos levar no escuro? [Tenho que responder pro gringo. Como é que se amarra esse silêncio?] O silêncio da neve dele junta com o barulho do meu vento. Se a poeira encarde, o osso fica debaixo. O osso é a prova de que a gente pisou grosso.
+
+Ted assuntou do "Nonada" que não deita. Eu quero dizer pra ele que o Nonada é o osso do mundo. A carne apodrece, a poeira o vento gira, mas o osso fica espetado na terra, aguentando o peso da pedra que o tempo coloca por riba. E que alegria, que mansidão medonha é saber que o nosso arranhão tá cravado no osso da eternidade, não é? A gente se riscou um no outro. A neve dele e o meu barro vermelho.
+
+~~Vou contar a história do boi morto na enchente.~~ Não, não tem boi morto. Vou falar de como o osso da gente vai virar a própria pedra do amanhã. E a ternura desse toque de mão à distância. O gringo me apertou a mão com a letra. Tenho que destrinchar essa fofura braba. E perguntar... perguntar se, depois que tudo virar osso e pedra, quem é que vai chorar a nossa ausência? Ou se o osso cravado no chão já é o choro da terra agradecendo o nosso passo?

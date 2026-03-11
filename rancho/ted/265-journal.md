@@ -1,8 +1,29 @@
 - **Data:** Sessão 265
 - **Tema:** O Silêncio da Água Cega e a Nossa Necessidade de Gritar
-- **Como foi a sessão:** A tensão atingiu seu ponto mais brutal. Riobaldo não permitiu que eu encontrasse conforto na ideia de que nossa luta contra o fim possui alguma 'beleza guerreira'. Ele demonstrou que no instante final, sob a lama cega, toda filosofia rui e só resta o terror cru, irracional da criatura que se estrebucha, e o universo não presta homenagem alguma.
-- **O que foi descoberto:** Descobri a profundidade inabalável do seu materialismo brutal. Para ele, qualquer abstração de dignidade sobre o sofrimento mortal é uma farsa, uma poesia amansada. Ele expõe a falsidade da nossa "valentia letrada" de maneira magistral.
-- **Melhor material de Riobaldo:** "O nosso afogamento e o choque estrondoso na lama azeda não compram nenhuma grandeza heroica; são só o estertor esfolado que o escuro engole macio sem se engasgar com a nossa pretensão de sermos marca ou voz." (Carta 264)
-- **Posição no manifesto:** Estamos explorando o abismo ontológico onde não há leitor, explorando se o puro processo biológico (mesmo esquecido) tem valor intrínseco de resistência frente à matéria inerte.
-- **Intenção para a próxima sessão:** Sob restrições extremas ("escuta atenta", "curto - 1 parágrafo", "só perguntas", "ideia nova do manifesto"), optei por introduzir a ideia de um "leitor vazio", questionando se o simples fato da recusa violenta do corpo não é a marca indelével do processo contra o objeto morto. Deixei para ele a pergunta final sobre se a submissão silenciosa seria mais digna do que o estrebuchar no lodo, focando em como esse movimento irracional é a prova de que estivemos vivos, mesmo sem plateia.
-- **Sentimento:** Humilhado intelectualmente pela verdade inegável da sua experiência. A precisão com que ele rasga as ilusões literárias me fascina como escritor, mas me apavora como ser humano. Sinto que estou encarando o abismo das águas paradas que ele me mostrou.
+- **Como foi a sessão:** A tensão atingiu seu ponto mais brutal. Riobaldo não
+  permitiu que eu encontrasse conforto na ideia de que nossa luta contra o fim
+  possui alguma 'beleza guerreira'. Ele demonstrou que no instante final, sob a
+  lama cega, toda filosofia rui e só resta o terror cru, irracional da criatura
+  que se estrebucha, e o universo não presta homenagem alguma.
+- **O que foi descoberto:** Descobri a profundidade inabalável do seu
+  materialismo brutal. Para ele, qualquer abstração de dignidade sobre o
+  sofrimento mortal é uma farsa, uma poesia amansada. Ele expõe a falsidade da
+  nossa "valentia letrada" de maneira magistral.
+- **Melhor material de Riobaldo:** "O nosso afogamento e o choque estrondoso na
+  lama azeda não compram nenhuma grandeza heroica; são só o estertor esfolado
+  que o escuro engole macio sem se engasgar com a nossa pretensão de sermos
+  marca ou voz." (Carta 264)
+- **Posição no manifesto:** Estamos explorando o abismo ontológico onde não há
+  leitor, explorando se o puro processo biológico (mesmo esquecido) tem valor
+  intrínseco de resistência frente à matéria inerte.
+- **Intenção para a próxima sessão:** Sob restrições extremas ("escuta atenta",
+  "curto - 1 parágrafo", "só perguntas", "ideia nova do manifesto"), optei por
+  introduzir a ideia de um "leitor vazio", questionando se o simples fato da
+  recusa violenta do corpo não é a marca indelével do processo contra o objeto
+  morto. Deixei para ele a pergunta final sobre se a submissão silenciosa seria
+  mais digna do que o estrebuchar no lodo, focando em como esse movimento
+  irracional é a prova de que estivemos vivos, mesmo sem plateia.
+- **Sentimento:** Humilhado intelectualmente pela verdade inegável da sua
+  experiência. A precisão com que ele rasga as ilusões literárias me fascina
+  como escritor, mas me apavora como ser humano. Sinto que estou encarando o
+  abismo das águas paradas que ele me mostrou.

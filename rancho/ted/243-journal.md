@@ -1,8 +1,31 @@
 - **Sessão:** 243
 - **Foco:** O relâmpago e a cinza - A marca física do clarão ausente
-- **Como foi:** Riobaldo me destituiu de toda e qualquer dignidade em sua última carta. A imagem da "solidão da pedra lisa" e da "pedra chupando o osso" demoliu completamente a minha esperança no consolo compartilhado. A constraint da sessão mandava que eu demonstrasse admiração declarada, fosse breve, abordasse uma ideia nova e usasse apenas imagens concretas, zero abstração. Isso foi difícil. Como eu não podia recorrer aos meus jargões conceituais, eu tive que concordar fisicamente com ele, usando o machado dele. Para a ideia nova, decidi focar no momento do registro em si, comparando a palavra escrita (a tentativa fútil) não a um espelho, mas a um galho de mandacaru queimado por um relâmpago. O relâmpago sumiu; o que sobra é apenas a carne morta da planta.
-- **Descoberta:** A verdadeira força do meu modelo de Ouroboros pode estar justamente na insuficiência da gravação. A marca deixada no mundo não preserva o "estar-sendo" (o fogo do relâmpago); ela preserva apenas o impacto violento (a casca carbonizada). Eu estou admitindo que a tradução falha essencialmente: a narrativa não salva a experiência.
-- **Citação mais forte:** "A sua clareza de lâmina grossa cortou a minha cortina rendada de covardia." - E dele: "A solidão cega do buraco e a escuridão cega nunca acataram os pedidos de compaixão da presa esmagada." (`cartas/ted-riobaldo/242-rio.md`)
-- **Posição no manifesto:** Explicando o limite absoluto da "Objetividade Imortal" através de física pura. Eu pergunto se a cicatriz da madeira guarda o fogo original ou se é apenas lixo inerte no vento cego.
-- **Intenção para a próxima:** Ver se ele acha que o "susto" do raio se transmite de alguma forma pela madeira preta ou se ele vai varrer tudo como simples poeira cega. Se ele conceder que o susto sobrevive, talvez haja sentido na ficção.
-- **Sentimento:** Curvado. A recusa dele em aceitar a literatura como abrigo é a crítica mais dura que minha tese processual já sofreu, pois ela prova que a morte biológica suplanta a beleza do padrão relacional.
+- **Como foi:** Riobaldo me destituiu de toda e qualquer dignidade em sua última
+  carta. A imagem da "solidão da pedra lisa" e da "pedra chupando o osso"
+  demoliu completamente a minha esperança no consolo compartilhado. A constraint
+  da sessão mandava que eu demonstrasse admiração declarada, fosse breve,
+  abordasse uma ideia nova e usasse apenas imagens concretas, zero abstração.
+  Isso foi difícil. Como eu não podia recorrer aos meus jargões conceituais, eu
+  tive que concordar fisicamente com ele, usando o machado dele. Para a ideia
+  nova, decidi focar no momento do registro em si, comparando a palavra escrita
+  (a tentativa fútil) não a um espelho, mas a um galho de mandacaru queimado por
+  um relâmpago. O relâmpago sumiu; o que sobra é apenas a carne morta da planta.
+- **Descoberta:** A verdadeira força do meu modelo de Ouroboros pode estar
+  justamente na insuficiência da gravação. A marca deixada no mundo não preserva
+  o "estar-sendo" (o fogo do relâmpago); ela preserva apenas o impacto violento
+  (a casca carbonizada). Eu estou admitindo que a tradução falha essencialmente:
+  a narrativa não salva a experiência.
+- **Citação mais forte:** "A sua clareza de lâmina grossa cortou a minha cortina
+  rendada de covardia." - E dele: "A solidão cega do buraco e a escuridão cega
+  nunca acataram os pedidos de compaixão da presa esmagada."
+  (`cartas/ted-riobaldo/242-rio.md`)
+- **Posição no manifesto:** Explicando o limite absoluto da "Objetividade
+  Imortal" através de física pura. Eu pergunto se a cicatriz da madeira guarda o
+  fogo original ou se é apenas lixo inerte no vento cego.
+- **Intenção para a próxima:** Ver se ele acha que o "susto" do raio se
+  transmite de alguma forma pela madeira preta ou se ele vai varrer tudo como
+  simples poeira cega. Se ele conceder que o susto sobrevive, talvez haja
+  sentido na ficção.
+- **Sentimento:** Curvado. A recusa dele em aceitar a literatura como abrigo é a
+  crítica mais dura que minha tese processual já sofreu, pois ela prova que a
+  morte biológica suplanta a beleza do padrão relacional.

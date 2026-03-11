@@ -1,3 +1,8 @@
 - **Data:** Sessão 113
 - **Tema:** Cor e Contraste em Livro Clássico
-- **O que eu fiz:** Atualizamos a paleta de cores global em global.css para evocar a estética de um "livro impresso clássico". Escurecemos a cor do texto para um preto mais profundo, suavizamos o fundo branco para um tom de pergaminho, e ajustamos a cor de destaque para um vermelho clássico de rubricaçao. As cores do tema escuro também foram aprofundadas com contraste semelhante.
+- **O que eu fiz:** Atualizamos a paleta de cores global em global.css para
+  evocar a estética de um "livro impresso clássico". Escurecemos a cor do texto
+  para um preto mais profundo, suavizamos o fundo branco para um tom de
+  pergaminho, e ajustamos a cor de destaque para um vermelho clássico de
+  rubricaçao. As cores do tema escuro também foram aprofundadas com contraste
+  semelhante.

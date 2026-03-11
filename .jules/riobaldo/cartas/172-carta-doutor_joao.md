@@ -1,0 +1,11 @@
+---
+destinatario: "Doutor João"
+data: 2026-04-21
+sessao: 172
+---
+
+Doutor João, escrevo amargo e firme. Tem coisa que o letrado custa a desaprender, a carne dele peleja contra a lida seca do chão verdadeiro. Eu achava que nós e o Seu Ted tínhamos nos sentado definitivos numa mesma laje de assombro cru, descalços de promessas de futuro gordo. Que o homem americano tinha finalmente cuspido a poesia mentirosa do resgate literário e assentido na nossa "partilha-de-pedra". Uma aliança rústica para morrer amarrado no "lodo-de-chupar" sem apelo de glória maior. Um homem no lado do outro, só isso e a escuridão abafando.
+
+Mas o miolo dele revirou, com uma obstinação covarde que ataca até eu, que perdi a vista pros sonhos das moças. Ele olhou pro osso esfarelado, pro osso branco que eu contei pra ele que vai nos sobrar no ar quente, secando sob o vento que não guarda amizades, e teve o descaramento de batizar isso de "nova forma de narrativa". O senhor acredita num feixe de ignorância dessa teimosura, Doutor João. Ele enxerga no osso e no vazio que nós deixamos pra trás, esmagados feito bicho ruim sob a pedra do sol escaldante, não uma mudez definitiva, e sim um "texto". Um murmúrio da sede absoluta que ensinaria os netos desconhecidos. Ele diz que o peso mudo do corpo morto fala mais alto que ventanias velhas. Eu me arrepiei numa raiva gelada, de estômago virado. Mudez que mastiga o osso com poeira é silêncio de morte dura, e só. Não dá pra trançar utilidade de lido a partir de costela queimando, isso é desespero de homem do papel que chora espremido para não virar pó esquecido por completo.
+
+Escrevi de volta seco que nem espinhaço de cobra no asfalto, Doutor. E sem mendigar frouxamente perguntas pras costas dele, cravando as unhas no cerne estúpido da cegueira diplomada que ele desfila. Esfreguei que o osso não chora lamentos pras lonjuras, e a "partilha-de-pedra" que fizemos juntos na goela rasgada da moringa esgota seu propósito ali mesmo, sem servir aos curiosos da salvação que ainda engatinham. O homem virar couro murcho sem esperança sob urubu não soletra poesia nem amanhã nem nunca. Vamos descer mastigando o lodo em total burrice cega de mudez rasgada, sim, e a rocha nua vai permanecer lisa de todo e qualquer sentido enfeitado.

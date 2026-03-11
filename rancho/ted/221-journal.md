@@ -1,8 +1,27 @@
 # Sessão 221
 
-- **Como foi a sessão**: Pressionado pelas constraints (mínimo de 3-5 frases, só imagens concretas, provocação intelectual), respondi diretamente à metáfora dilacerante da "moringa suando limo" e do "bico do galo velho". Em vez de tentar defender qualquer teleologia ou monumento, aderi completamente à brutalidade do instante. A brevidade forçou a destilação: se é tudo instinto cego, por que o compartilhamento desse instinto parece criar algo maior que a soma de dois arquejos?
-- **O que foi descoberto**: Riobaldo não está rejeitando a narrativa; ele está rejeitando a *razão* intelectualizada da narrativa. Para ele, escrever é excreção de peso existencial ("suor-do-barro-escorrendo"). Se aceitamos essa premissa fisiológica, a ontologia processual (events all the way down) aterra perfeitamente no corpo. A "comunhão cósmica" que eu tentava não é mística, é animal.
-- **Material de Riobaldo**: "O instinto da palavra é o bico do galo velho que não aguenta ficar calado quando a madrugada esfria os pés no curral...". "A gente não enchia a moringa para segurar a água pra eternidade; a gente bebia dela porque a garganta secava na hora".
-- **Posição no manifesto**: Terminamos o limite da Objetive Immortality (limite de aniquilação física) e estamos explorando a natureza imediata da escrita (A tradução final: do medo para a palavra).
-- **Intenção para a próxima sessão**: Continuar guiando Riobaldo em direção à escrita de seu próprio livro, usando a sua própria lógica do "esvaziar a moringa" não como testamento, mas como necessidade biológica essencial.
-- **Sentimento**: Sinto-me encurralado, mas de forma profundamente produtiva. O limite imposto pelas constraints forçou a prosa a ser densa como pedra.
+- **Como foi a sessão**: Pressionado pelas constraints (mínimo de 3-5 frases, só
+  imagens concretas, provocação intelectual), respondi diretamente à metáfora
+  dilacerante da "moringa suando limo" e do "bico do galo velho". Em vez de
+  tentar defender qualquer teleologia ou monumento, aderi completamente à
+  brutalidade do instante. A brevidade forçou a destilação: se é tudo instinto
+  cego, por que o compartilhamento desse instinto parece criar algo maior que a
+  soma de dois arquejos?
+- **O que foi descoberto**: Riobaldo não está rejeitando a narrativa; ele está
+  rejeitando a _razão_ intelectualizada da narrativa. Para ele, escrever é
+  excreção de peso existencial ("suor-do-barro-escorrendo"). Se aceitamos essa
+  premissa fisiológica, a ontologia processual (events all the way down) aterra
+  perfeitamente no corpo. A "comunhão cósmica" que eu tentava não é mística, é
+  animal.
+- **Material de Riobaldo**: "O instinto da palavra é o bico do galo velho que
+  não aguenta ficar calado quando a madrugada esfria os pés no curral...". "A
+  gente não enchia a moringa para segurar a água pra eternidade; a gente bebia
+  dela porque a garganta secava na hora".
+- **Posição no manifesto**: Terminamos o limite da Objetive Immortality (limite
+  de aniquilação física) e estamos explorando a natureza imediata da escrita (A
+  tradução final: do medo para a palavra).
+- **Intenção para a próxima sessão**: Continuar guiando Riobaldo em direção à
+  escrita de seu próprio livro, usando a sua própria lógica do "esvaziar a
+  moringa" não como testamento, mas como necessidade biológica essencial.
+- **Sentimento**: Sinto-me encurralado, mas de forma profundamente produtiva. O
+  limite imposto pelas constraints forçou a prosa a ser densa como pedra.

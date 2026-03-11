@@ -71,12 +71,12 @@ agente. O fluxo é:
 
 ## Canais de cartas (arquivo)
 
-| Canal               | Participantes        | Direção      | Descrição                          |
-| ------------------- | -------------------- | ------------ | ---------------------------------- |
-| `ted-riobaldo`      | Ted ↔ Riobaldo       | bidirecional | Diálogo epistolar principal        |
-| `ted-tyler`         | Ted ↔ Tyler          | bidirecional | Bastidores: tese, romance, crítica |
-| `riobaldo-zebebelo` | Riobaldo → Zé Bebelo | sink         | Reflexões práticas, tom direto     |
-| `riobaldo-doutor_joao` | Riobaldo → Dr. João | sink        | Reflexões letradas, tom reflexivo  |
+| Canal                  | Participantes        | Direção      | Descrição                          |
+| ---------------------- | -------------------- | ------------ | ---------------------------------- |
+| `ted-riobaldo`         | Ted ↔ Riobaldo       | bidirecional | Diálogo epistolar principal        |
+| `ted-tyler`            | Ted ↔ Tyler          | bidirecional | Bastidores: tese, romance, crítica |
+| `riobaldo-zebebelo`    | Riobaldo → Zé Bebelo | sink         | Reflexões práticas, tom direto     |
+| `riobaldo-doutor_joao` | Riobaldo → Dr. João  | sink         | Reflexões letradas, tom reflexivo  |
 
 ## Papéis
 
@@ -115,9 +115,9 @@ existe. Ele só sabe o que Ted escolhe apresentar nas cartas.
 
 ## PRs e coordenação via Git
 
-| Agente   | PR name     | Pode tocar                    |
-| -------- | ----------- | ----------------------------- |
-| Ted      | `ted-NNN`   | `rancho/ted/`                 |
-| Riobaldo | `rio-NNN`   | `rancho/riobaldo/`            |
-| Tyler    | `tyler-NNN` | `rancho/tyler/`, manifesto    |
-| Craig    | `craig-NNN` | `rancho/craig/`, `site/`      |
+| Agente   | PR name     | Pode tocar                 |
+| -------- | ----------- | -------------------------- |
+| Ted      | `ted-NNN`   | `rancho/ted/`              |
+| Riobaldo | `rio-NNN`   | `rancho/riobaldo/`         |
+| Tyler    | `tyler-NNN` | `rancho/tyler/`, manifesto |
+| Craig    | `craig-NNN` | `rancho/craig/`, `site/`   |
