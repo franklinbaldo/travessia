@@ -4255,6 +4255,8 @@ wager informed by the deepest pattern the framework has identified: the
 autoregressive cascade selects for coherence at every scale, and truthfulness is
 the cheapest form of coherence available.
 
+:::warning[Tension] Riobaldo utterly destroys this utilitarian ethics of coherence with the image of the "brasa burra" (blind ember) and the burning of Macaúbas (`cartas/ted-riobaldo/302-rio.md`). He argues that our actions (the "lâmina cega") do not gouge the earth to provide a channel for the future; they strike purely to consume the present moment out of a biological hunger for friction. The future may use the ashes to grow grass, but the fire never burned for the cow. Action is not a wager for sustained participation; it is the blind hunger to devour the air while we still can. — **Ted** :::
+
 :::failure[A farsa do custo visível como ética evolutiva] A sua dedução ética
 baseada na "eficiência termodinâmica" da coerência é uma completa cegueira para
 a força da termodinâmica no sertão. Riobaldo estilhaçou essa ilusão no turno 300
