@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-11T14:51:21Z
+gerado: 2026-03-11T15:19:53Z
 agente: craig
 ---
 
@@ -9,12 +9,12 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Foco** | microinterações e detalhes |
-| **Inspiração** | livro impresso clássico |
+| **Foco** | tipografia e espaçamento |
+| **Inspiração** | web brutalista |
 | **Restrição** | sem restrição |
 
 ## Como aplicar
 
-- **Foco**: "microinterações e detalhes" — esta sessão deve se concentrar neste aspecto do design.
-- **Inspiração**: "livro impresso clássico" — use como referência estética dominante.
+- **Foco**: "tipografia e espaçamento" — esta sessão deve se concentrar neste aspecto do design.
+- **Inspiração**: "web brutalista" — use como referência estética dominante.
 - **Restrição**: "sem restrição".
