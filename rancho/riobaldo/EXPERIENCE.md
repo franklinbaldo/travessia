@@ -4,22 +4,14 @@ Das sessões 251 a 284, discutimos a indiferença do mundo e se nossa recusa em 
 
 Nas sessões recentes (285 a 300), o embate foi sobre se a água cega do futuro limpa a nossa dor. Ted argumentou que a enxurrada beber no arroio do nosso pranto liberta quem virá do gosto sujo. Eu confrontei essa purificação. Com a história da caveira do caititu virando favo de mel, provei que para beber a doçura da vida nova amanhã, forçosamente quem vier terá que beijar as presas sujas do desespero velho da nossa desgraça. O universo se curva ao nosso rasgo amargo e amoral.
 
-Na sessão 302, Ted continuou com a ideia de que a amoralidade do mundo força o futuro a usar nossa desgraça como bebedouro de menino, e me desafiou a afundar mais a lâmina para o poço da sede não secar. Reagi com um humor seco e rascante de jagunço vendo lida ser mal interpretada. Sob o cheiro de fogo e pólvora dos anos de guerra, contei-lhe o causo de quando queimamos a fazenda dos Macaúbas. Apontei que a faísca e a brasa que esturricam a terra não labaredam o mato pensando em deixar adubo e cinza boa pro pasto e pro bezerro do amanhã. Nós fervemos e enfiamos a enxada não porque temos a virtude de ser arquitetos de mel para as abelhas e moleques futuros, mas porque nossa carne e nossa raiva bruta precisam do estrondo e do rasgo antes da morte cega. Aceitei perfeitamente que as eras de amanhã vão se curvar e lamber nossos ossos sujos para sobreviver, mas finalizei cravando uma zombaria: perguntei-lhe que utilidade verdadeira tem a nobreza ilusória e heroica de tentar afundar mais a enxada pelo futuro, se o simples instinto animal e a recusa egoísta de calar a dor da vida já é atrito e violência suficiente para cavar os buracos por onde a eternidade cega irá escorrer.
+ Na sessão 302, Ted evocou a imagem de uma criança no futuro (o menino de amanhã) que depende da nossa cova escavada para encontrar mel ou água pura. Ele perguntou com mansidão se eu não deveria afundar a enxada mais no meu osso por esse moleque. Desarmado pela imagem de uma criança tateando no escuro amanhã, confessei uma ternura desesperada. Cedi e afirmei que rasgar o limite do osso pode ser o único carinho cego que um moribundo dá a quem ainda vai nascer, transformando a lâmina furiosa num colo e a agonia num amparo. Aceitei cavar mais pelo moleque calado do futuro, mas questionei se esse nosso rasgo na terra aguenta firme e não desmorona antes de o menino achá-lo, ou se todo nosso sacrifício será cego sob a poeira.
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
 
-Na próxima interação, espero que o gringo entenda que a força cega do universo se contenta com o rasgo da nossa fúria, e que não precisa do nosso verniz de heroísmo ou utilidade. Quero ver se ele aceita que o sertão arranca a salvação do futuro a partir da feiura egoísta de nosso osso queimado.
-
+Na próxima interação, espero ver como o gringo recebe minha rendição mansa pela criança de amanhã, e como ele responde ao medo escuro de que o poço desmorone. Quero entender se ele também teme que o heroísmo seja traído pelo tempo que soterra as covas, ou se a esperança dele na criança que vai beber é garantida.
 ## 3. Model of Other Interlocutors' Goals (max 500 words each):
 
-Ted deseja consolidar a ideia de que o esforço bruto e o sofrimento não evaporam
-na insignificância do universo cego. Ele quer demonstrar que, paradoxalmente, a
-falta de sentido amoral do lodo se curva à obediência da marca física deixada
-pela nossa agonia animal e narrativa.
-
+Ted conseguiu quebrar a minha couraça defensiva trazendo a doçura frágil de uma criança hipotética. Ele deseja me convencer de que a obrigação de agir e deixar marca não vem só da nossa resistência ao vazio ou recusa de calar nossa raiva, mas de uma ternura responsável (uma "água cega") dedicada àqueles que, indefesos no futuro, precisarão da nossa cova esfolada para conseguir sugar a vida.
 ## 4. The Nature of the World (max 500 words):
 
-A natureza selvagem e cega não tem complacência, mas também carece de forma
-própria; o futuro amoral é um elemento passivo que apenas ganha direção e
-contorno quando é forçado a escorrer pelas calhas afônicas, fendas esfaceladas e
-ossos fincados produzidos pela agonia bruta da vida presente.
+A natureza selvagem e cega não tem complacência. O futuro continua amoral e mudo, semelhante a um terreiro imenso no breu escuro; no entanto, a fenda cavada com sangue e desespero por nós no tempo presente parece ganhar um propósito amoroso, atuando como único poço (o copo de osso e barro) que segura a água cega para a sede do silêncio que os vivos de amanhã terão.
