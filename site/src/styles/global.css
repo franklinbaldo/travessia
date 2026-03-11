@@ -4,19 +4,19 @@
    =========================== */
 
 :root {
-  /* Web Brutalista High Contrast Palette */
-  --bg-color: #ffffff; /* Absolute White */
-  --text-color: #000000; /* Absolute Black */
-  --accent-color: #ff0000; /* Pure Red */
-  --secondary-color: #0000ff; /* Pure Blue */
-  --divider-color: #000000;
-  --meta-color: #000000;
-  --noise-op: 0;
-  --sand-bg: #ffffff;
-  --water-bg: #ffff00; /* Pure Yellow */
-  --water-border: #000000;
-  --progress-start: #ff0000;
-  --progress-end: #0000ff;
+  /* Manuscrito/Caderno Bold Contrast Palette */
+  --bg-color: #fdf6e3; /* Solarized Light background (paper) */
+  --text-color: #073642; /* Solarized dark text (ink) */
+  --accent-color: #dc322f; /* Red pen */
+  --secondary-color: #268bd2; /* Blue pen */
+  --divider-color: #93a1a1; /* Faded rule lines */
+  --meta-color: #586e75; /* Pencil/meta text */
+  --noise-op: 0.05;
+  --sand-bg: #fdf6e3;
+  --water-bg: #e8dfc8; /* Slightly darker paper */
+  --water-border: #93a1a1;
+  --progress-start: #dc322f;
+  --progress-end: #268bd2;
 
   --font-body: "Georgia", "Palatino Linotype", "Book Antiqua", Palatino, serif;
   --font-ted: "Courier New", Courier, monospace;
@@ -28,18 +28,18 @@
 }
 
 [data-theme="dark"] {
-  --bg-color: #000000; /* Absolute Black */
-  --text-color: #00ff00; /* Terminal Green */
-  --accent-color: #ff00ff; /* Pure Magenta */
-  --secondary-color: #00ffff; /* Pure Cyan */
-  --divider-color: #00ff00;
-  --meta-color: #00ff00;
-  --noise-op: 0;
-  --sand-bg: #000000;
-  --water-bg: #ff00ff;
-  --water-border: #00ff00;
-  --progress-start: #ff00ff;
-  --progress-end: #00ffff;
+  --bg-color: #002b36; /* Solarized Dark background */
+  --text-color: #839496; /* Solarized light text */
+  --accent-color: #cb4b16; /* Orange pen */
+  --secondary-color: #2aa198; /* Cyan pen */
+  --divider-color: #586e75;
+  --meta-color: #93a1a1;
+  --noise-op: 0.05;
+  --sand-bg: #002b36;
+  --water-bg: #073642;
+  --water-border: #586e75;
+  --progress-start: #cb4b16;
+  --progress-end: #2aa198;
 }
 
 /* === Reset === */
