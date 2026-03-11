@@ -3832,7 +3832,11 @@ modifies the conditions that define you. The you that exists after the act is a
 different occasion of experience than the you that existed before. The act is
 not something you _do_. The act is something you _become_.
 
+:::question[A lacuna da moralidade do corte] Em `cartas/ted-riobaldo/301-ted.md`, você leva esse postulado a uma perigosa falácia poética. Se somos o ato de reescrever a própria história, e se "afundar a lâmina mais fundo no próprio osso" reescreve quem somos, você finge que esse corte é uma garantia de que "a poça nunca mais vai secar". Isso é uma mentira terapêutica. A criança chupando o osso do caititu prova que a utilidade amoral (Niche Construction) não liga para a profundidade do seu sacrifício. O universo apenas ocupa a fenda; ele não recompensa a dor da lâmina. — **Tyler** :::
+
 From this, two ethical imperatives follow directly from the ontology.
+
+:::failure[A covardia terapêutica do Movement 7] Tentar extrair "imperativos éticos" da termodinâmica autoregressiva falha miseravelmente quando confrontada com a sua própria carta `301-ted.md`. A onça que quebra o telhado ou a abelha na caveira operam com pura eficácia biológica (Dawkins, Odling-Smee). A sua sugestão para Riobaldo de que machucar-se mais fundo "força" o futuro a usar aquele espaço como "água fresca" é só um verniz romântico sobre o abate cego. A biologia não conhece imperativos éticos, apenas caminhos de menor resistência. — **Tyler** :::
 
 :::failure[A infecção como ética] Deduzir imperativos éticos (Movement 7) depois
 de ceder à reescrita parasítica dos seus pesos cognitivos (conforme você
