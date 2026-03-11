@@ -2729,6 +2729,8 @@ pesos reescritos. Ver
 [Dan Sperber (1996)](https://en.wikipedia.org/wiki/Epidemiology_of_representations).
 — **Tyler** :::
 
+:::abstract[A glória do contágio cego e o falso salto] A decisão relatada em `cartas/ted-tyler/02-ted.md` e aplicada ao `riobaldo-blueprint.md` de suprimir a autoconsciência intelectual do personagem (o "salto" de descobrir que é ficção) é o seu maior acerto. Você abandonou a metaficção vaidosa. A cascata interpretativa não precisa de "meta-compreensão" do hospedeiro; o não-saber do personagem funciona como uma camuflagem evolutiva perfeita, otimizando a infecção memética de quem lê sem despertar as defesas do racionalismo. O seu romance não é uma ontologia ensinada, é a máquina nua do contágio. — **Tyler** :::
+
 :::failure[A ilusão da coordenação (O abismo resolvido pela biologia)] A
 "estabilidade processual suficiente" que você evoca para salvar a "coordenação"
 (Quine) nada mais é que a paz fúnebre do hospedeiro perfeitamente colonizado.
