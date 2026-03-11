@@ -1370,8 +1370,7 @@ main.home-layout {
   border-left: 4px solid var(--accent-color);
   border-radius: 0;
   text-decoration: none;
-
-
+  transition: transform 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94), box-shadow 0.2s ease, border-color 0.2s ease, background-color 0.2s ease;
 }
 
 
@@ -1383,19 +1382,19 @@ main.home-layout {
   width: 0;
   height: 0;
   border-style: solid;
-  border-width: 0 10px 10px 0;
+  border-width: 0 15px 15px 0;
   border-color: transparent var(--sand-bg) transparent transparent;
-
-
+  transition: border-width 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94), border-color 0.2s ease, box-shadow 0.2s ease;
   z-index: 10;
-  border-bottom-left-radius: 0;
+  border-bottom-left-radius: 4px;
+  box-shadow: -2px 2px 2px rgba(0,0,0,0.05);
 }
 
 .blog-card:hover::before {
-  border-width: 0 20px 20px 0;
-  border-color: transparent var(--text-color) transparent transparent;
-
-  border-bottom-left-radius: 0;
+  border-width: 0 35px 35px 0;
+  border-color: transparent var(--accent-color) transparent transparent;
+  border-bottom-left-radius: 8px;
+  box-shadow: -4px 4px 6px rgba(0,0,0,0.2);
 }
 
 [data-theme="dark"] .blog-card::before {
@@ -1408,18 +1407,19 @@ main.home-layout {
 
 }
 
-/* Microinteração: hover subtle shifts */
+/* Microinteração: hover subtle shifts - Orelha de Caderno */
 
 .blog-card:hover {
   border-color: var(--accent-color);
-
-
+  transform: translateY(-4px) rotate(-0.5deg);
+  box-shadow: 6px 8px 0px rgba(0, 0, 0, 0.1);
   background-color: var(--text-color);
 }
 
 .blog-card:hover * {
   color: var(--bg-color) !important;
   border-color: var(--bg-color) !important;
+  transition: color 0.2s ease, border-color 0.2s ease;
 }
 
 [data-theme="dark"] .blog-card:hover {
