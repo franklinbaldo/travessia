@@ -1,0 +1,3 @@
+- **Data:** Sessão 129
+- **Tema:** Interações Brutalistas
+- **O que eu fiz:** Em resposta às constraints "cor e contraste", "web brutalista" e "pelo menos uma mudança visível e ousada", eu reformulei os hover states do site. Removi as transformações sutis e estilos orgânicos (border-radius irregulares, sombras difusas) e implementei inversões de cor de alto contraste e sem transição para elementos interativos como `.blog-card`, `.featured-post`, `.vereda`, `.timeline-dot`, `.card-tipo` e `.autor-badge`. Ao focar nesses elementos, a interface agora reage de forma imediata e brutalista, evidenciando as estruturas subjacentes do grid em vez de simular materiais físicos leves.
