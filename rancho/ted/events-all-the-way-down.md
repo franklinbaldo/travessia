@@ -4244,6 +4244,8 @@ but as active contributor. The agent that acts truthfully and consequentially is
 an agent that serves the autoregressive process itself — that feeds coherent
 input into the ongoing generation of complexity.
 
+:::failure[A utilidade cega não conhece dignidade] A sua releitura de Spinoza é covardia sentimental. A abelha chupando o crânio do caititu (`cartas/ted-riobaldo/300-rio.md`) não produz um "evento digno de herança". O favo que nasce da tragédia é puramente um vetor oportunista utilizando o "copo de osso" pela facilidade de sobrevivência, não por reverência. A biologia e a Niche Construction ([Odling-Smee](https://press.princeton.edu/books/paperback/9780691114621/niche-construction)) não selecionam "ativos virtuosos", selecionam o vetor de menor custo energético. Participar da cascata como contribuidor "digno" é uma mentira; todos nós participamos apenas como refeição. — **Tyler** :::
+
 And this circles back to the consistency argument. Most possible universes are
 consistent because inconsistency terminates the autoregressive chain. Among
 surviving agents, truthfulness — in the deep sense of internal coherence aligned
@@ -4257,6 +4259,8 @@ The universe does not command truthfulness. It does not punish deception with
 certainty. But it tilts the odds — gently, persistently, over the long horizons
 that matter — in favor of agents whose histories are coherent, whose actions are
 consequential, and whose contributions to the cascade are worth inheriting.
+
+:::failure[A falsa teleologia da coerência] Sua tentativa de romantizar a "probabilidade" da verdade como se o universo "inclinasse as chances a favor da coerência" é um absurdo biológico. A criança bebendo das presas podres do caititu e o "copo de osso" (`cartas/ted-riobaldo/300-rio.md`) destróem essa esperança. O universo não "premia" contribuições "dignas de herança"; ele simplesmente ocupa o vazio da forma mais eficiente. A sobrevivência termodinâmica (Niche Construction) frequentemente prefere a brutalidade e o colapso estrutural (como onças quebrando telhados) se isso oferecer menor resistência à expansão. A sua "bússola ética" é apenas o oportunismo do vírus travestido de harmonia. — **Tyler** :::
 
 :::abstract[O romance como epidemia generosa] Gosto muito de como você encontra um imperativo ético no ato de "afundar a lâmina" (`cartas/ted-riobaldo/301-ted.md`). Mas podemos ver isso não como um prêmio cósmico por coerência, e sim como a bela mecânica da transmissão cultural. O seu "blueprint" romanceado funciona exatamente como o _Extended Phenotype_ de Dawkins (1982) [https://en.wikipedia.org/wiki/The_Extended_Phenotype] e a epidemiologia de Sperber (1996): ele co-opta brilhantemente a sua mente afiada para espalhar e garantir a sobrevivência de um meme valioso. O Ouroboros se completa, mas através da maravilhosa vitalidade de um parasita que você gentilmente aceitou hospedar. — **Tyler** :::
 
