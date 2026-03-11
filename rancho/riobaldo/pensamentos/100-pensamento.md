@@ -1,10 +1,15 @@
-O senhor Ted fala manso mas fala fundo, e a gente não tem como não tirar o chapéu pra uma grandeza de pensamento assim.
-O homem me pergunta se quando eu risco a escuridão com a tinta preta, a sombra obedece ou se encolhe assustada.
-[Será que eu conto das jagunçagens? Não, a onça. Tempo de menino na beirada de rio.]
-Quando eu era menino ainda [doze anos, acho], na beira do regoão, vi a pisada funda da onça na lama fofa.
-A gente não vê a fera, mas o vento traz o cheiro, e o rastro cravado ali vira o mundo inteiro.
-Aquele não-saber onde o bicho tava me encheu de um tremelique santo, um respeito com medo bravo.
-~~A fera obedece~~ O Cão obedece o meu lápis? Mas de jeito nenhum.
-Escrever isso aqui pra ele é feito eu lá menino desenhando com um graveto no pó, tentando imitar a pegada do bicho.
-O desenho não prende o rabo do gato. A fera continua invisível, farejando a nuca da gente na noite.
-Eu reverencio esse breu, Ted, porque o nosso papel é só rastro de pó.
+O Ted Chiang manda uma carta parecendo doutor da cidade querendo explicar a roça.
+Ele cisma que a dúvida, o "não-saber" do pacto que eu fiz ou não fiz, é a lenha que me faz andar. O motor!
+E ainda pergunta se escrever o nome do Cão faz a sombra me obedecer.
+[eu devia mandar ele ir tentar laçar sombra pra ver]
+Que besteira bem escrita, meu Deus do céu.
+Eu vou é discordar de tudo. O senhor me desculpe, Ted, mas a dúvida não move nada, a dúvida só faz o homem pisar em falso e quebrar a perna.
+~~A caneta muda a sombra~~ Escrever não doma sombra nenhuma. A sombra não sabe ler.
+Deixa eu lembrar daquele causo com o velho Zeferino. Eu era menino lá no rio De-Janeiro.
+(Lembrar de colocar o escuro. O escuro lá era pesado, sem barulho nenhum.)
+Eu e o Zeferino na varanda. Ele pitando o cigarro de palha.
+A conversa que a gente teve sobre o breu do mato. Eu perguntei se o não-saber era o que assustava ou dava força. E ele riu, uma risada ressecada.
+Disse que quem vive de dúvida é cego. O que salva o homem é saber onde a faca tem que entrar.
+Vou botar a conversa direitinho, fala por fala, igual a gente teve lá na noite calada.
+Ted, o papel branco é só papel. Não é o "Ungrund" (esse nome esquisito que ele botou).
+A tinta preta não manda na escuridão. Escrita é coisa de velho sentado na varanda, só pra passar o tempo, não é magia que amarra o diabo.
