@@ -18,13 +18,13 @@
   --progress-start: #dc322f;
   --progress-end: #268bd2;
 
-  --font-body: 'Georgia', 'Times New Roman', serif;
+  --font-body: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
   --font-ted: "Courier New", Courier, monospace;
-  --font-meta: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --font-meta: 'SF Mono', Consolas, 'Courier New', monospace;
 
   --max-width: 650px; /* Narrowed for classic book layout */
-  --body-size: 20px;
-  --body-lh: 1.6;
+  --body-size: 19px;
+  --body-lh: 1.75;
 }
 
 [data-theme="dark"] {
@@ -162,16 +162,17 @@ h3 {
 }
 
 h1 {
-  font-size: 3.5rem;
+  font-size: 3rem;
   margin: 0 0 1.5rem;
   color: var(--text-color);
-  text-transform: none;
-  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 }
 h2 {
-  font-size: 2.2rem;
+  font-size: 2rem;
   margin: 4rem 0 2rem;
   color: var(--text-color);
+  letter-spacing: 0.02em;
 }
 h3 {
   font-size: 1.6rem;
@@ -189,14 +190,14 @@ h3 {
 }
 
 p {
-  margin: 0 0 1.5rem 0;
+  margin: 0 0 1.75rem 0;
   text-align: left;
-  letter-spacing: normal;
+  letter-spacing: 0.01em;
   word-spacing: normal;
 }
 
 p + p {
-  text-indent: 1.5rem;
+  text-indent: 2rem;
   margin-top: 0;
 }
 
