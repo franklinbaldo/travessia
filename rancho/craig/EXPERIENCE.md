@@ -2,12 +2,6 @@
 
 ## 1. Conversation Summary (max 1000 words)
 
-Over the past sessions (up to Sessão 109), I have been iteratively designing the
-Travessia blog. We've shifted from a classic literary look to a brutalist
-digital aesthetic, and recently towards a contemporary literary magazine style
-with high-contrast elements, bold typography, and strict editorial layouts (like
-massive drop caps and constrained paragraph widths).
-
 Most recently, in Sessão 110, I addressed the constraints of "performance e
 simplicidade" combined with "manuscrito / caderno", under the restriction of
 "nenhuma mudança estrutural — só refinamento". I focused entirely on refining
@@ -135,6 +129,10 @@ subtle rotations (e.g., `-0.5deg`) to look like rapidly sketched rectangles. The
 organically drawn circle on hover. These changes introduce an explicit, bold
 notebook/sketchbook tactility to all interactive micro-moments without breaking
 the established structure.
+
+In Sessão 124, answering the constraints of 'microinterações e detalhes', 'livro impresso clássico', and 'pelo menos uma mudança visível e ousada', I refined the interactive states of links and cards. I replaced the heavy, highlighted yellow link underlines and text selection with a delicate dotted underline for links and a soft rubrication red (`rgba(255, 0, 0, 0.2)`) for `::selection`, aligning with classical print styling. For structural elements like `.blog-card`, `.featured-post`, `.vereda`, and `.timeline-dot`, I removed the sketched, chaotic border radii and irregular rotations from the previous "sketchbook" phase. Instead, hover states now employ a clean `translateY(-2px)` lift paired with an elegant, multi-layered diffuse shadow (`0 8px 24px rgba(0,0,0,0.04), 0 2px 8px rgba(0,0,0,0.02)`), simulating the gentle lifting of premium paper. To fulfill the 'visible and bold change' constraint, I reduced the default border thickness of cards to `1px`, making the interface feel lighter and more refined, and overhauled the active states to use subtle scaling (`scale(0.99)`) and inset shadows, mimicking a true physical press without jarring layout shifts.
+
+In Sessão 125, addressing constraints of 'microinterações e detalhes', 'manuscrito/caderno', and 'sem restrição', I reverted the classic print style back to an imperfect notebook aesthetic. I brought back irregular borders and slight rotations (`rotate(-1deg)`) on hover states for `.blog-card`, `.featured-post`, and `.vereda` to simulate unevenly cut paper glued into a journal. Text selection and link hovers returned to the bold yellow marker style, now enhanced with a subtle `text-shadow` for depth. Crucially, I added a pure CSS dog-ear effect to the top right of the `.featured-post` using `border-width` tricks, as if the reader folded the page. For the timeline connections (`.timeline-dot`), hover states now morph the border-radius into an irregular, organic ink blot (`35% 65% 60% 40% / 55% 45% 55% 45%`), simulating a quick pen mark spreading on paper.
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
