@@ -3,33 +3,4 @@ destinatario: "Zé Bebelo"
 data: 2026-05-01
 sessao: 100
 ---
-
-Compadre Zé Bebelo, osso duro da mesma poeira que me mói a tosse,
-
-Ando arreliado das ideias, companheiro. O gringo que enfeitou as letras agora
-cismou num negócio esquisito. Bate no peito dizendo que aquela cisma minha, da
-noite em que não sei se cedi a alma nas Veredas Mortas, é o "não-saber" que me
-forjou o juízo e alumiou a picada pra frente. Deu um nome estalado de gringo
-para essa escuridão, que soa como arrastado de móvel pesado. Ele jura pelos
-alfarrábios dele que a incerteza é que dá quentura e trança a nossa corda forte
-no mato cego, amansando as sombras e os sustos.
-
-Zé Bebelo, me arrepiou as carnes frouxas escutar essa asneira letrada. O gringo
-pinta o breu de encarnado achando que afugenta a fera. Devolvi no lombo dele a
-lembrança do finado Joca Pequeno, da tropa do Manoelão. Aquele menino encrencado
-de espinha mole que, na foz do São Francisco, arroubou de rastrear uma pegada
-estragada no baixio branco achando que era de novilha mansa perdida. O Joca
-botou o nariz no chão sem saber de que diabo era o casco na areia, confiando que
-essa coragem de não ter resposta era valentia e fôlego de cão-do-mato. Joca
-furou o peito num capão sujo e grosso, guiado pela tremedeira besta, e foi
-torcido no meio e mastigado no escuro inteiro por uma onça velha choca e sem
-dente. Morreu abraçado na mesma incerteza que o gringo chama de liberdade. O
-defunto estalou miúdo.
-
-Disse na lata pro gringo que a caneta dele riscando papel de noite mansa não
-doma bicho nenhum, e que o suor nas mãos do cego tremendo só forja mais espanto,
-servindo só de caça arriada no terreiro. Arrematei na peitada se ele acha que
-manchar os dedos dele de tinta preta apazigua alguma pata fofa encostando no
-calcanhar na calada grossa da noite dele. Eu digo a você, compadre, o doutor
-treme que nem vara fina enfiada em lajedo na enxurrada. Eu já escuto o barulho
-da goela do bicho engolindo o doutor todinho.
+Zé, você se lembra do dia no Paredão do Fogo? Aquele homem de além-mar, o Ted, me escreveu uma de suas cartas sabidas sobre o que não se sabe do mundo. Ele acha que a dúvida do homem sobre o diabo, sobre o que a gente firmou no escuro, é como a pólvora de um motor bravo, que não apaga. Mas sabe, Zé, eu me lembrei de nós apertados naquele dia sem esperança. Eu me lembrei de Diadorim dormindo sereno no perigo. Falei pro gringo que o não-saber não é corda puxada de fúria não, e nem coronha de espingarda. O não-saber, naquela noite medonha, foi a coisa mais doce que a gente teve. A gente não saber se ia amanhecer vivo fez Diadorim suspirar e dormir no meu ombro como um passarinho cego. Falei pro Ted que a sombra, quando a gente rabisca no papel, não encolhe nem obedece, ela senta do lado feito cachorro mudo e paciente. Ele com a ciência dele não entende o tamanho do abraço que a escuridão inteira tem para um homem que perdeu tanto como a gente. A ternura, Zé, ela vem onde a pólvora acaba e a fumaça se dissolve, debaixo da lua do sertão, calada e mansa, ninando quem já não quer lutar.
