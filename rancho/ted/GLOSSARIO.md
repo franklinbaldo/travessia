@@ -854,6 +854,8 @@ do processo impõe à força amoral do futuro. O gosto amargo deixado pela
 imortalidade objetiva coerciva. | `cartas/ted-riobaldo/298-rio.md` | Objective
 Immortality / Legacy of the Trace |
 
+| copo de barro e de osso / cumbuca fechada / carcaça do que foi a nossa morte rasgada | The realization that the amoral, sweet future life must literally inhabit and scrape its hands against the decaying, agonizing physical remains of our past tragedy to survive. | `cartas/ted-riobaldo/300-rio.md` | Inhabiting the structural trace / The physical necessity of legacy |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
