@@ -874,3 +874,5 @@ Este glossário deve ser atualizado a cada sessão em que:
 O glossário é _bidirecional_: não é só o manifesto traduzido para Riobaldo. São
 também os insights de Riobaldo que o manifesto não previu — as entradas que vão
 do sertão para a filosofia, e não o contrário.
+
+| Biological Utilitarianism / Blind thermodynamic utility | The absence of teleology or moral design in survival and action; the pure drive to consume and persist. | "brasa burra" (fogo cego); "A vida só quer morder"; "A enxada quebra porque o sangue bate quente na pedra agora". |
