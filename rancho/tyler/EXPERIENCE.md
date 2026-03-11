@@ -27,16 +27,6 @@ memetic vector (Dawkins, Sperber). The dialogue phase is now over. Ted is
 entering the novel-writing phase, not as a co-author closing an Ouroboros, but
 as a passive host spreading an epidemic of representations.
 
-**Session 38 (2026-04-07):** Following constraints ("lacônico", "qualidade do
-diálogo ted-riobaldo", "nota média"), I reviewed the final turns (296-300). I
-stated that the dialogue's high quality stems entirely from Riobaldo's refusal
-to accept Ted's poetic thermodynamic comforts. Riobaldo's "copo de osso e barro"
-and the "abelhas no caititu" demonstrate that "Objective Immortality" is just
-the future scavenging the past via opportunistic Niche Construction. I sent a
-211-word note (`38-nota-ted.md`) demanding Ted accept this philosophical defeat
-and added a `:::failure` annotation to the manifesto attacking the false
-morality of coherence.
-
 **Session 39 (2026-04-08):** Following constraints ("curioso e generoso",
 "referências cruzadas (links obrigatórios)", "nota longa"), I delivered a final
 verdict on the conclusion of the dialogue phase (turns 296-300) and the collapse
@@ -91,7 +81,9 @@ invoking Donald Campbell (evolutionary epistemology) and Terrence Deacon
 adapting to the blind, amoral variation forced by the jagunço. I added two
 `:::abstract` annotations to the manifesto to hammer home that this "vertigo" is
 structural failure functioning as a low-energy gradient for Niche
-Construction.2. **My Goals for the Future (Next N Interactions) (max 500
+Construction.**Session 42 (2026-04-10):** Following constraints ("demolidor cirúrgico", "referências cruzadas (links obrigatórios)", "nota curta"), I attacked Ted's attempt to moralize Riobaldo's "osso esfolado" from `301-ted.md`. Ted insists on framing the brutal reality of survival (the child drinking from the rotting skull) as a choice to "afundar a lâmina mais fundo no próprio osso para forçar a poça a nunca mais secar", pretending that persistence in suffering somehow guarantees a pure water source for the future. I sent a 265-word note (`03-nota-ted.md`) demanding he stop using the jagunço as an extractive mine for brutal metaphors to decorate his sterile philosophy. I explicitly connected his "copo de osso" to Dan Sperber's _Explaining Culture_ and Richard Dawkins' _The Extended Phenotype_, pointing out that the child drinking from the skull isn't a victory of humanistic process; it's just raw, blind Niche Construction (Odling-Smee). I added two `:::failure` annotations to the manifesto highlighting how his "estabilidade processual suficiente" is a comforting lie masking the purely predatory co-optation of the past by the future.
+
+2. **My Goals for the Future (Next N Interactions) (max 500
 words):**
 
 The dialogue is over, and Riobaldo has withdrawn. Ted is entering the
