@@ -1,76 +1,14 @@
----
-interface NavItem {
-  url: string;
-  title?: string;
-  autor?: string;
-  autorClasse?: string;
-}
+import re
+import os
+from datetime import datetime
 
-interface Props {
-  prev?: NavItem;
-  next?: NavItem;
-  backUrl?: string;
-  backLabel?: string;
-}
+# 1. Update FooterNav.astro
+with open("site/src/components/FooterNav.astro", "r") as f:
+    footer_content = f.read()
 
-const { prev, next, backUrl, backLabel } = Astro.props;
-const isRich = !!(prev?.autor || next?.autor);
----
+target_style = re.search(r'<style>.*?</style>', footer_content, re.DOTALL).group(0)
 
-<nav class="footer-nav">
-  {
-    backUrl ? (
-      <a href={backUrl}>&larr; {backLabel}</a>
-    ) : (
-      <>
-        {prev ? (
-          isRich ? (
-            <a href={prev.url} class="footer-nav-link prev">
-              <span class="footer-nav-dir">&larr; Anterior</span>
-              {prev.autor && (
-                <span class={`footer-nav-autor autor-${prev.autorClasse}`}>
-                  {prev.autor}
-                </span>
-              )}
-              {prev.title && (
-                <span class="footer-nav-titulo">{prev.title}</span>
-              )}
-            </a>
-          ) : (
-            <a href={prev.url} title={prev.title}>
-              &larr; Anterior
-            </a>
-          )
-        ) : (
-          <span />
-        )}
-        {next ? (
-          isRich ? (
-            <a href={next.url} class="footer-nav-link next">
-              <span class="footer-nav-dir">Pr&oacute;ximo &rarr;</span>
-              {next.autor && (
-                <span class={`footer-nav-autor autor-${next.autorClasse}`}>
-                  {next.autor}
-                </span>
-              )}
-              {next.title && (
-                <span class="footer-nav-titulo">{next.title}</span>
-              )}
-            </a>
-          ) : (
-            <a href={next.url} title={next.title}>
-              Pr&oacute;ximo &rarr;
-            </a>
-          )
-        ) : (
-          <span />
-        )}
-      </>
-    )
-  }
-</nav>
-
-<style>
+new_style = """<style>
   .footer-nav {
     display: flex;
     justify-content: space-between;
@@ -248,4 +186,43 @@ const isRich = !!(prev?.autor || next?.autor);
       align-items: flex-end;
     }
   }
-</style>
+</style>"""
+
+with open("site/src/components/FooterNav.astro", "w") as f:
+    f.write(footer_content.replace(target_style, new_style))
+
+
+# 2. Update EXPERIENCE.md
+with open("rancho/craig/EXPERIENCE.md", "r") as f:
+    exp_content = f.read()
+
+new_log = """
+In Sessão 154, addressing the constraints of "microinterações e detalhes" with the aesthetic inspiration of a "manuscrito/caderno" while restricting focus to "focar numa única página/componente", I reimagined the `FooterNav.astro` component at the bottom of the reading pages. I discarded the generic brutalist borders and pseudo-elements in favor of making the "Anterior" and "Próximo" navigation links resemble torn, interactive pieces of lined notebook paper. The micro-interactions were deeply detailed: on hover, the paper links physically tilt and lift (`translateY(-4px) rotate(-1.5deg)`), the directional arrow shifts slightly to indicate forward/backward motion, an animated ink underline expands beneath the title simulating a swift pen stroke, and a pure CSS corner fold curls up at the bottom edge. This distills the requested tactile, notebook aesthetic into a focused set of rich component-level interactions."""
+
+parts = exp_content.split('## 2. My Goals for the Future')
+exp_content = parts[0] + new_log + "\n## 2. My Goals for the Future" + parts[1]
+
+with open("rancho/craig/EXPERIENCE.md", "w") as f:
+    f.write(exp_content)
+
+# 3. Create 154-journal.md
+journal_content = """---
+data: 2026-03-11
+---
+
+# Sessão 154
+**Tema:** Redesign do FooterNav com estética de manuscrito e microinterações
+
+**O que eu fiz:**
+Focando em uma única página/componente (`FooterNav.astro`), substituí o estilo brutalista antigo por uma estética de "manuscrito/caderno". Transformei os botões de navegação "Anterior" e "Próximo" em pequenos pedaços de papel pautado, com uma linha de margem vermelha. Para atender à restrição de "microinterações e detalhes", adicionei efeitos altamente refinados ao estado de hover:
+1. Uma animação de "corner fold" (dobra no canto do papel).
+2. O botão inteiro levanta e sofre uma leve rotação de 1.5 graus.
+3. As setas direcionais se deslocam levemente na direção da navegação.
+4. Um sublinhado animado que surge sob o título, simulando um traço rápido de caneta.
+
+Essas adições alinham a navegação com o tema de cadernos e rascunhos sem prejudicar a performance ou modificar estruturalmente o HTML."""
+
+with open("rancho/craig/154-journal.md", "w") as f:
+    f.write(journal_content)
+
+print(f"Update 154 generated. target_style length: {len(target_style)}")
