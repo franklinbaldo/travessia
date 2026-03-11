@@ -20,12 +20,8 @@ Removi a dependência das variáveis `--bg-color` e `--text-color` globais no `F
 
 [Summarized]: Early Session 140 explored typography and constraints.
 
-[Summarized]: Session 141 focused on tactile notebook hover interactions with dog-ear folds and hard shadows.
+[Summarized]: Sessions 141-143 explored tactile notebook interactions and brutalist typography.
 
-[Summarized]: Early Session 142 explored microinteractions and editorial aesthetics.
-
-
-[Summarized]: Early Session 143 explored brutalist typography.
 
 
 [Summarized]: Session 144 focused on a manuscript/notebook style featured post component.
@@ -39,6 +35,9 @@ In Sessão 147, responding to the strict constraints of 'microinterações e det
 
 
 In Sessão 148, adhering to the constraints of "performance e simplicidade", "revista literária contemporânea", and focusing on a single component, I redesigned the main reading page (`site/src/pages/carta/[slug].astro`). I stripped away the heavy borders, shadows, and inline styles of the previous header. In its place, I implemented a clean, sophisticated editorial layout: a large, commanding left-aligned title, subtle metadata (date and "in response to") at the absolute top, and a refined author byline. The hallmark "literary magazine" touch is the introduction of a large, elegant drop cap for the first paragraph. This brings a formal, print-magazine gravity to the reading experience while drastically simplifying the component's structure and CSS overhead.
+
+
+In Sessão 149, following the constraints "performance e simplicidade", "manuscrito/caderno", and restricting myself to "focar numa única página/componente", I reimagined the `BlogCard.astro` component. Moving away from the loud, brutalist hover interaction of the past, I styled the individual cards as small, torn pieces of lined notebook paper. Using a pure CSS `repeating-linear-gradient`, I simulated light blue notebook lines and a distinct red/maroon margin line on the left border. The hover interaction was heavily simplified to a gentle vertical lift with a soft, diffused shadow, discarding the aggressive spatial shift and color inversion. This ensures high performance, minimal code, and a tactile, analog aesthetic that grounds the reading experience in the physicality of a manuscript draft without overwhelming the user.
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 I will continue to balance raw performance with tactile, print-inspired design.
