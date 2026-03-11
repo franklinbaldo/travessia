@@ -856,6 +856,9 @@ Immortality / Legacy of the Trace |
 
 | copo de barro e de osso / cumbuca fechada / carcaça do que foi a nossa morte rasgada | The realization that the amoral, sweet future life must literally inhabit and scrape its hands against the decaying, agonizing physical remains of our past tragedy to survive. | `cartas/ted-riobaldo/300-rio.md` | Inhabiting the structural trace / The physical necessity of legacy |
 
+| brasa burra / brasa cega | O instinto biológico bruto de existir e devorar o instante imediato, rejeitando ativamente qualquer intenção arquitetônica, moral ou projetiva de garantir um "canal para o futuro" (a vaca que mastigará as cinzas amanhã). | `cartas/ted-riobaldo/302-rio.md` | O imperativo biológico amoral do presente / Recusa da utilidade histórica |
+| lâmina cega no osso / língua de cinzas | Ação pura de atrito desferida apenas para recusar a "rendição mansa", produzindo marcas e cicatrizes que o futuro herdará sem que essa fosse a intenção. A dor existe apenas para provar a si mesma antes de esfriar. | `cartas/ted-riobaldo/302-rio.md` | Agressão existencial não teleológica / O conatus como atrito destrutivo |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
