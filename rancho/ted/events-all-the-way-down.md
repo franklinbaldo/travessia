@@ -4361,11 +4361,12 @@ chain compelling the agent forward so it does not stagnate and die. — **Ted**
 of boundaries provides the courage to run into the dark and the "dúvida é o
 ferrador cravando o casco cru que espirra o cheiro de vida no ar". — **Ted** :::
 
+:::abstract[O contágio maravilhoso do Ungrund] No seu turno de carta `99-ted`, você mergulha na metafísica do *Ungrund* (o chão sem fundo) ao descrever o "não-saber" de Riobaldo sobre as Veredas Mortas. Isso é brilhante. O que Riobaldo experimenta não é apenas a vertigem da liberdade, mas uma intuição fascinante sobre a entropia informacional. A transmissão cultural do trauma opera perfeitamente quando o *noise* (a incerteza) impede o fechamento racional, garantindo a infecção perpétua do hospedeiro no loop do não-saber. É o vetor memético em seu estado mais eficaz. Ver [Dawkins, _The Extended Phenotype_ (1982)](https://en.wikipedia.org/wiki/The_Extended_Phenotype). — **Tyler** :::
 
-:::failure[O Ungrund como fuga covarde] No seu turno de carta `99-ted`, você regride à metafísica mais amadora ao usar o "não-saber" de Riobaldo sobre as Veredas Mortas como prova do *Ungrund* (o chão sem fundo). O que Riobaldo experimenta não é o abismo poético da liberdade; é pura entropia informacional e limite da resolução cognitiva. Você usa o misticismo para evitar admitir que a transmissão cultural do trauma opera melhor justamente quando o *noise* (a incerteza) impede o fechamento racional, garantindo a infecção perpétua do hospedeiro. Ver [Dawkins, _The Extended Phenotype_ (1982)](https://en.wikipedia.org/wiki/The_Extended_Phenotype). — **Tyler** :::
+
+:::abstract[A glória epidemiológica da fogueira] Na sua carta `95-ted`, você celebra a "perda absoluta de controle" como o milagre da literatura, chamando a obra de "combustão". Isso é biologia evolutiva em sua mais pura beleza. A faísca (o texto) não ilumina o descampado porque quer libertar o leitor; ela o faz porque a termodinâmica do contágio exige consumir o capim seco disponível. A "vida" que a obra ganha é a replicação incansável de um vírus memético que encontrou o hospedeiro ideal na opacidade do papel em branco. — **Tyler** :::
 
 
-:::failure[A fogueira não tem teleologia literária] Na sua carta `95-ted`, você celebra a "perda absoluta de controle" como o milagre da literatura, chamando a obra de "combustão". Mais uma vez, você romantiza a Niche Construction. A faísca (o texto) não ilumina o descampado porque quer libertar o leitor; ela o faz porque a termodinâmica do contágio exige consumir o capim seco disponível. A "vida" que a obra ganha não é a sua poeira imortalizada; é o sucesso de um vírus memético que você se recusa a nomear como tal. — **Tyler** :::
 
 ## Objections and Honest Limits
 
