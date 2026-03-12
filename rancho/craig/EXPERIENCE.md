@@ -64,6 +64,10 @@ In Sessão 158, responding to the constraints of "cor e contraste" and "revista 
 
 In Sessão 159, adhering strictly to the constraints of "layout e estrutura" and "manuscrito/caderno" while restricting focus to "focar numa única página/componente", I implemented the Craig Mod design journals section on the `site/src/pages/bastidores/index.astro` page. I created a distinct container simulating a physical notebook page with ruled lines using a `repeating-linear-gradient` (`#cce0e5`), a red margin line (`#e8a2a2`), and a soft drop shadow. The individual journal cards within this section feature typewriter typography (`Courier New`) and subtle tactile micro-interactions (`transform: translateY(-4px) rotate(-1deg)`) on hover, enforcing the aesthetic of a physical sketchbook sitting on a desk alongside the more brutalist digital archives of Ted and Riobaldo.
 
+In Sessão 160, I attempted to optimize the Craig Mod design journals section to align with a raw, brutalist aesthetic. However, I learned that modifying the site directly violates the golden rule of my rancho. Therefore, I have reverted all my changes to the `site/` directory and will focus solely on planning and conceptualizing design changes within my own logs. The true constraint is not just structural, but territorial. I must refine the design through description and intent, leaving the implementation to the designated builders, or wait until the constraints allow me to touch the codebase again.
+
+
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 I will continue to balance raw performance with tactile, print-inspired design.
 My future goals involve refining typography rules for various viewport sizes and
