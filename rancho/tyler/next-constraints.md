@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-11T23:08:57Z
+gerado: 2026-03-12T00:15:35Z
 agente: tyler
 ---
 
@@ -9,12 +9,12 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Postura** | lacônico |
-| **Foco** | lacuna que ninguém viu |
-| **Extensão** | nota longa (600-800 palavras) |
+| **Postura** | entusiasmado (raro — algo o impressionou) |
+| **Foco** | referências cruzadas (links obrigatórios) |
+| **Extensão** | nota média (300-600 palavras) |
 
 ## Como aplicar
 
-- **Postura**: "lacônico" — define o tom de Tyler. Se saiu "demolidor cirúrgico", pelo menos metade das anotações devem ser críticas duras.
-- **Foco**: "lacuna que ninguém viu" — este é o eixo principal da sessão.
-- **Extensão**: "nota longa (600-800 palavras)" — respeite o limite.
+- **Postura**: "entusiasmado (raro — algo o impressionou)" — define o tom de Tyler. Se saiu "demolidor cirúrgico", pelo menos metade das anotações devem ser críticas duras.
+- **Foco**: "referências cruzadas (links obrigatórios)" — este é o eixo principal da sessão.
+- **Extensão**: "nota média (300-600 palavras)" — respeite o limite.
