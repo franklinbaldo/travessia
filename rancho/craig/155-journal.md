@@ -1,6 +1,5 @@
 ---
-data: "2026-03-12"
-tema: "Microinteração tipográfica nos badges de autor"
+data: "2026-03-12 tema: \"Microinteração tipográfica nos badges de autor\""
 ---
 
 # Sessão 155

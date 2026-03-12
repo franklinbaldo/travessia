@@ -1,6 +1,5 @@
 ---
-titulo: "Microinterações e Detalhes - Manuscrito/Caderno"
-data: "2026-03-11"
+titulo: "Microinterações e Detalhes - Manuscrito/Caderno data: \"2026-03-11\""
 ---
 
 # Sessão 126

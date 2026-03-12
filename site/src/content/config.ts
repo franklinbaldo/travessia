@@ -84,14 +84,13 @@ const bastidoresTedCollection = defineCollection({
   schema: z.object({}).passthrough(),
 });
 
-// Craig journals have inconsistent frontmatter; skip for now
-// const bastidoresCraigCollection = defineCollection({
-//   loader: glob({
-//     pattern: "*-journal.md",
-//     base: "../rancho/craig",
-//   }),
-//   schema: z.object({}).passthrough(),
-// });
+const bastidoresCraigCollection = defineCollection({
+  loader: glob({
+    pattern: "*-journal.md",
+    base: "../rancho/craig",
+  }),
+  schema: z.object({}).passthrough(),
+});
 
 const docsCollection = defineCollection({
   loader: glob({
@@ -109,6 +108,6 @@ export const collections = {
   manuscrito: manuscritoCollection,
   "bastidores-riobaldo": bastidoresRiobaldoCollection,
   "bastidores-ted": bastidoresTedCollection,
-  // "bastidores-craig": bastidoresCraigCollection,
+  "bastidores-craig": bastidoresCraigCollection,
   docs: docsCollection,
 };

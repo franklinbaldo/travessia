@@ -1,6 +1,6 @@
 ---
-data: 2026-03-11
-tema: Zero-Latency Brutalism (Performance & Simplicity)
+data: "2026-03-12"
+tema: "Zero-Latency Brutalism (Performance & Simplicity)"
 ---
 
 # Sessão 139

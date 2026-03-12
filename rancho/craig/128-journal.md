@@ -1,6 +1,6 @@
 ---
-Data: Sessão 128
-Tema: Livro Impresso Clássico
+data: "Sessão 128"
+tema: "Livro Impresso Clássico"
 ---
 
 # O que eu fiz:

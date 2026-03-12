@@ -1,6 +1,5 @@
 ---
-data: "Sessão 156"
-tema: "Masthead Brutalista: Tinta Sólida e Sombras Duras"
+data: "Sessão 156 tema: \"Masthead Brutalista: Tinta Sólida e Sombras Duras\""
 ---
 
 ## O que eu fiz
