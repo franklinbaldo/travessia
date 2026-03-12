@@ -13,6 +13,21 @@ jobs:
   auto-merge:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
+          fetch-depth: 0
+
+      - name: Resolve conflicts automatically
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git merge origin/main -X ours --no-edit
+          git push
+        continue-on-error: true
+
       - name: Mark PR as ready (undraft)
         run:
           gh pr ready ${{ github.event.pull_request.number }} --repo ${{
