@@ -4,18 +4,23 @@ data: 2026-03-18
 sessao: 302
 ---
 
-[som de fósforo riscando, estalo grave de madeira secando]
+[som da máquina engatando, estalo seco]
+Está rodando. Isso. O botão vermelho já abaixou.
 
-O Ted fala do que quer com uma firmeza alta que ecoa. Faca, mel sujo na fresta do osso, cachorro rasgando a onça. Pede pra furar até sangrar a água que sacia o amanhã. Ele grita no branco da minha página. E eu não ouço a água que ele atira, eu escuto é o oco da noite inteira no sertão deserto respondendo a ele. Essa máquina que eu aperto aqui não faz esse barulho rouco. A noite, não. A escuridão pisa na grama preta descalça.
+[barulho de vento forte batendo no microfone]
+Ted quer que eu sangre... quer que eu pegue a enxada e bata na minha própria costela até abrir a fonte de pranto. Esse homem tem um gosto pelo desespero que eu reprovo com força.
 
-Eu escrevi pra ele no escuro da casa. Com as mãos frouxas, sem levantar a voz. Porque eu acho o seguinte... essa vontade descomedida dele de furar o osso tem uma presunção grande de quem quer dominar o amanhã na faca e no berro. Ele não sabe reverenciar o silêncio grosso, o tal de breu absoluto que cai sem fresta nenhuma onde Deus mora calado. E eu vivi as noites no Pardo onde até o estalo da unha arranhando a faca trazia morte.
+[barulho de isqueiro, som de tragada apertada]
+Ele acha que a dor escancarada, essa poça suja da nossa aflição espalhada na pedra, é o que salva e dá de beber a quem vem depois. Mas eu olho ali pro terreiro, escorado no pilar da varanda... o fogo que os meninos acenderam já abaixou de vez. Tá só a brasa brilhando. Aquele vermelho vivo, incandescente, encolhido e resistindo no meio da cinza grossa.
 
-Eu não posso mandar o menino do futuro se afogar na nossa podridão exposta na luz. O amanhã... eu vi ele tateando a neblina surda, como num futuro escuro sem lanterna. A minha caveira, pra ele, pouco vale sob o sol a pino. O menino de Ted vai beber é do pavor contido que eu segurei de madrugada fechando o olho e aguentando o medo frio até amansar o peito. A força que eu deixo escondida não está no meu sangue derramado.
+Se eu for lá agora com a ponta da enxada que o Ted manda... se eu for lá e der uma bordoada naquele montinho, a brasa desfia, voa longe em centelha fraca e apaga no chão molhado do sereno. O vento mata tudo num instante. A vida forte do fogo está na resistência dele contido ali, encolhido e pulsando quieto debaixo da cinza.
 
-Está no breu suportado. [pausa longa]
+Eu respondi com dura raiva na carta pra ele. Respondi confrontando, porque ele vem com história de lamber a caveira, de onça quebrando o telhado pra arrancar carne na bruteza... ele nunca prestou atenção na precisão paciente de um bom fogo.
 
-A reverência de ficar vivo sem espernear na cara do nada.
+[silêncio longo, apenas o zumbido mecânico da fita rodando e o vento uivando leve na varanda]
+Diadorim nunca derramou a dor por aí feito chuva. Diadorim era um montinho de brasa intocável, enclausurado no peito. O calor ali dentro derretia as vontades de cada um de nós, queimava por dentro, mas nunca rasgou as carnes pra vazar e pedir pena. Quando os jagunços lavaram o corpo de Diadorim depois da luta com o Hermógenes... quando eu vi o sangue quieto... eu entendi de vez que aquela brasa contida era o que dava a força e o calor de toda aquela vida guerreira. Se Diadorim tivesse rasgado o peito e gritado a própria angústia pro mundo pisar em cima, o fogo teria subido amarelo e se consumido logo em seguida, feito fogueira de palha rala.
 
-Eu fico aqui pensando... esse americano tem fôlego bom. Ele quer o talho na madeira e a lasca voando solta. Eu quero o repouso grave que empurra a noite fria e preta com o ombro. Esse silêncio pesado.
+[barulho da cadeira de balanço rangendo forte no tablado]
+Eu não vou quebrar minha estrutura pra sangrar. Eu seguro a brasa que sobrou nas duas mãos apertadas. Aguento a queimadura feia na palma da mão se for preciso. Mas a brasa fica guardada. Ela não morre aqui espalhada pelo chão.
 
-[som de engolir seco, respiração forte, estalo de botão]
+[estalo seco e pesado, som da gravação interrompida brutalmente]
