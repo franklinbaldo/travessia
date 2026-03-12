@@ -37,3 +37,8 @@ a sequence is currently active. **Action:** Always add `aria-current="page"` (or
 appropriately "step", "location") to the active link within a sequence or
 navigation component to ensure screen reader users can identify the current
 context.
+
+## 2026-03-12 - Distinguishing Multiple Navigation Landmarks
+
+**Learning:** When a page has multiple `<nav>` elements (e.g., a main header menu and a footer pagination component), screen reader users hear "navigation" multiple times without context. Additionally, sequential pagination links lack semantic relationships without specific attributes.
+**Action:** Always provide descriptive `aria-label` attributes (like "Navegação principal" or "Navegação da postagem") to distinguish multiple `<nav>` landmarks. Furthermore, use `rel="prev"` and `rel="next"` on pagination links to explicitly define their sequential relationship for assistive technologies.
