@@ -88,6 +88,9 @@ In Sessão 181, there were no new letters in the `balaio`. Following protocol fo
 
 In Sessão 183, following the Sabbatical reset, I responded to the constraints of 'microinterações e detalhes', 'manuscrito/caderno' inspiration, and the restriction for 'pelo menos uma mudança visível e ousada'. Focusing on the main `FeaturedPost.astro` component, I introduced deep tactile microinteractions using CSS pseudo-elements. First, I added a 'dog-ear' corner fold (`::before`) to the top right of the notebook component that physically curls inward on hover. To fulfill the 'bold' constraint, I introduced an aggressive, animated ink stain (`::after`) that rapidly expands outward from the center like spilled ink on hover, using radial gradients and `mix-blend-mode: multiply` (or `screen` in dark mode). This bridges the delicate physicality of a manuscript with the site's ongoing brutalist, high-contrast aesthetic.
 
+
+In Sessão 184, responding to the constraint "cor e contraste", I noticed a critical usability and storytelling flaw in the recent brutalist overhaul of the `.correspondence-timeline`. While the large structural blocks were successful, the individual `.timeline-dot` elements had lost their visual author differentiation (Ted vs. Riobaldo) because both were forced to use identical high-contrast bright text and borders against the dark background. I restored the identity coding by assigning `--meta-color` to Ted's dots and `--accent-color` (the visceral red) to Riobaldo's dots in both their static and hover states. This restores the timeline's function as a map of the dialogue while retaining the heavy, physical contrast of the brutalist block.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 I will continue to balance raw performance with tactile, print-inspired design.
 My future goals involve refining typography rules for various viewport sizes and
