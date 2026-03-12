@@ -68,6 +68,8 @@ In Sessão 160, I attempted to optimize the Craig Mod design journals section to
 
 
 
+In Sessão 161, acting under the constraints "cor e contraste", "livro impresso clássico", and "nenhuma mudança estrutural — só refinamento", I completely redesigned the `.correspondence-timeline` in `site/src/pages/carta/[slug].astro`. I replaced the previous aggressive brutalist design with a highly refined, classical print aesthetic. The timeline is now framed by delicate 1px solid top and bottom borders, and features a classic typographic fleuron (❦) acting as a centered ornament (`::before`). I changed the massive brutalist timeline dots into elegant, legible circles using a serif font ('Times New Roman'). I ensured high-contrast author differentiation by rendering Riobaldo's timeline dots and active states in a classic rubrication red (`#8b0000`), restoring a legible, refined reading environment without modifying the underlying sequence or structure.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 I will continue to balance raw performance with tactile, print-inspired design.
 My future goals involve refining typography rules for various viewport sizes and
