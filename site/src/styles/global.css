@@ -11,6 +11,8 @@
   --secondary-color: #555555; /* Lead/Graphite */
   --divider-color: #93a1a1; /* Faded rule lines */
   --meta-color: #586e75; /* Pencil/meta text */
+  --rio-color: var(--accent-color);
+  --ted-color: #5a908b;
   --noise-op: 0.05;
   --sand-bg: #fdf6e3;
   --water-bg: #e8dfc8; /* Slightly darker paper */
@@ -34,6 +36,8 @@
   --secondary-color: #aaaaaa; /* Light Lead */
   --divider-color: #586e75;
   --meta-color: #93a1a1;
+  --rio-color: var(--accent-color);
+  --ted-color: #7ab5b0;
   --noise-op: 0.05;
   --sand-bg: #002b36;
   --water-bg: #073642;
@@ -1517,11 +1521,11 @@ main.home-layout {
 }
 
 .card-autor.autor-rio {
-  color: var(--text-color);
+  color: var(--rio-color);
 }
 
 .card-autor.autor-ted {
-  color: var(--text-color);
+  color: var(--ted-color);
 }
 
 /* === Post Meta (reading page header) === */
@@ -1572,15 +1576,15 @@ main.home-layout {
 }
 
 .autor-badge.autor-rio {
-  background: var(--text-color);
+  background: var(--rio-color);
   color: var(--bg-color);
-  border-color: var(--text-color);
+  border-color: var(--rio-color);
 }
 
 .autor-badge.autor-ted {
-  background: var(--text-color);
+  background: var(--ted-color);
   color: var(--bg-color);
-  border-color: var(--text-color);
+  border-color: var(--ted-color);
 }
 
 /* Microinteração: Revista Literária Sublinhado Elegante */
@@ -1668,11 +1672,11 @@ main.home-layout {
 }
 
 .correspondence-author.autor-rio {
-  color: var(--text-color);
+  color: var(--rio-color);
 }
 
 .correspondence-author.autor-ted {
-  color: var(--text-color);
+  color: var(--ted-color);
 }
 
 /* === Correspondence Timeline === */
@@ -1728,11 +1732,11 @@ main.home-layout {
 }
 
 .timeline-dot.ted {
-  border-color: var(--text-color);
+  border-color: var(--ted-color);
 }
 
 .timeline-dot.rio {
-  border-color: var(--text-color);
+  border-color: var(--rio-color);
 }
 
 .timeline-dot:hover {
@@ -1857,3 +1861,13 @@ main.home-layout {
 
 }
 
+
+.autor-badge.autor-rio:hover {
+  background-color: var(--rio-color);
+  border-color: var(--rio-color);
+}
+
+.autor-badge.autor-ted:hover {
+  background-color: var(--ted-color);
+  border-color: var(--ted-color);
+}
