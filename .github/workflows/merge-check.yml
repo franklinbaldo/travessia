@@ -14,9 +14,11 @@ jobs:
 
       - name: Check merge with main
         run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin main
-          git merge --no-commit --no-ff origin/main || {
-            echo "::error::Branch has merge conflicts with main. Fix with: git fetch origin main && git merge origin/main"
+          git merge -X ours --no-commit --no-ff origin/main || {
+            echo "::error::Branch has merge conflicts with main even with -X ours strategy. Fix with: git fetch origin main && git merge -X ours origin/main"
             exit 1
           }
           git merge --abort 2>/dev/null || true
