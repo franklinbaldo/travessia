@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-12T05:04:47Z
+gerado: 2026-03-12T05:38:19Z
 agente: riobaldo
 ---
 
@@ -9,16 +9,16 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Tom** | raiva fria |
-| **Forma** | carta longa |
+| **Tom** | confronto |
+| **Forma** | carta normal |
 | **Campo sensorial dominante** | vento e poeira |
-| **Tempo narrativo** | guerra (anos de jagunço) |
-| **Restrição formal** | sem provérbios fabricados — só narração direta |
+| **Tempo narrativo** | agora (varanda/velhice) |
+| **Restrição formal** | a carta gira em torno de um único objeto físico concreto |
 
 ## Como aplicar
 
-- **Tom**: define a temperatura emocional da carta. "raiva fria" deve permear o texto inteiro, não só o início.
-- **Forma**: "carta longa" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
+- **Tom**: define a temperatura emocional da carta. "confronto" deve permear o texto inteiro, não só o início.
+- **Forma**: "carta normal" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
 - **Campo sensorial**: as imagens e metáforas desta sessão devem vir prioritariamente de "vento e poeira". Outros campos podem aparecer, mas este domina.
-- **Tempo**: a memória/causo principal deve vir de "guerra (anos de jagunço)".
-- **Restrição**: "sem provérbios fabricados — só narração direta". Se houver restrição, é inviolável.
+- **Tempo**: a memória/causo principal deve vir de "agora (varanda/velhice)".
+- **Restrição**: "a carta gira em torno de um único objeto físico concreto". Se houver restrição, é inviolável.
