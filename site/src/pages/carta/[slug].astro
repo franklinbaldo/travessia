@@ -232,11 +232,28 @@ function autorClasse(autorName: string): string {
   /* BRUTALIST Correspondence Timeline */
   .correspondence-timeline {
     margin-top: 5rem;
-    padding: 3rem 2rem;
-    background-color: var(--text-color); /* High contrast dark background */
-    border-top: 8px solid var(--accent-color); /* Aggressive red top border */
-    text-align: left; /* Break the centered norm */
-    box-shadow: inset 0 10px 0 var(--bg-color); /* Inverted shadow block inside */
+    padding: 4rem 2rem;
+    background-color: var(--text-color); /* Deep ink background */
+    border: none;
+    border-left: 12px solid var(--accent-color); /* Aggressive magazine-spine border */
+    text-align: left;
+    box-shadow: -15px 15px 0 var(--meta-color); /* Heavy solid shadow simulating physical depth */
+    position: relative;
+    overflow: hidden;
+  }
+
+  .correspondence-timeline::before {
+    content: "ARQUIVO";
+    position: absolute;
+    top: -1rem;
+    right: -1rem;
+    font-family: var(--font-meta);
+    font-size: 8rem;
+    font-weight: 900;
+    color: var(--bg-color);
+    opacity: 0.05;
+    pointer-events: none;
+    transform: rotate(-10deg);
   }
 
   .timeline-label {
@@ -303,15 +320,15 @@ function autorClasse(autorName: string): string {
   /* Aggressive spatial shift and color inversion on hover */
   .timeline-dot:hover {
     transform: translate(-5px, -5px);
-    background: var(--accent-color); /* Shocking red background */
-    color: var(--text-color) !important; /* Dark ink text */
+    background: var(--text-color); /* Deep ink background instead of shocking red */
+    color: var(--bg-color) !important; /* White paper text */
     border-color: var(--text-color) !important;
-    box-shadow: 5px 5px 0 var(--bg-color); /* Hard brutalist shadow */
+    box-shadow: 5px 5px 0 var(--accent-color); /* Red shadow for the brutalist accent */
   }
 
   :global([data-theme="dark"]) .timeline-dot:hover {
-    background: var(--accent-color);
-    box-shadow: 5px 5px 0 var(--bg-color);
+    background: var(--text-color);
+    box-shadow: 5px 5px 0 var(--accent-color);
   }
 
   /* Dominating current state */
