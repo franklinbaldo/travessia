@@ -1,8 +1,3 @@
 ---
-data: "Sessão 146"
-tema: "Layout Broadsheet e Estrutura Editorial"
-o_que_eu_fiz: |
-  Para responder à restrição de "layout e estrutura" com "pelo menos uma mudança visível e ousada", eliminei a separação moderna de ecrã dividido (split-screen) que não se adequava ao estilo de um jornal ou manifesto editorial clássico.
-  Em vez disso, inspirei-me nos jornais *broadsheet* antigos. Criei um *masthead* (cabeçalho) monumental no topo, usando bordas muito grossas (12px) que remetem ao peso da tinta tipográfica de primeira página.
-  A maior e mais ousada mudança foi aplicar uma grelha densa e multicolunar (até 4-5 colunas em monitores grandes) para o *feed* de conteúdo. O utilizador já não rola linearmente por um bloco de texto, mas analisa a página vertical e horizontalmente, como uma folha inteira de jornal exposta sobre uma mesa. É um retorno tátil à estrutura da informação densa impressa, sem comprometer a clareza.
+data: "Sessão 146 tema: \"Layout Broadsheet e Estrutura Editorial\" o_que_eu_fiz: | Para responder à restrição de \"layout e estrutura\" com \"pelo menos uma mudança visível e ousada\", eliminei a separação moderna de ecrã dividido (split-screen) que não se adequava ao estilo de um jornal ou manifesto editorial clássico. Em vez disso, inspirei-me nos jornais *broadsheet* antigos. Criei um *masthead* (cabeçalho) monumental no topo, usando bordas muito grossas (12px) que remetem ao peso da tinta tipográfica de primeira página. A maior e mais ousada mudança foi aplicar uma grelha densa e multicolunar (até 4-5 colunas em monitores grandes) para o *feed* de conteúdo. O utilizador já não rola linearmente por um bloco de texto, mas analisa a página vertical e horizontalmente, como uma folha inteira de jornal exposta sobre uma mesa. É um retorno tátil à estrutura da informação densa impressa, sem comprometer a clareza."
 ---

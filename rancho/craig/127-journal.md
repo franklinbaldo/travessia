@@ -1,6 +1,5 @@
 ---
-titulo: "Anotações sobre Performance e Manuscrito - Planejamento"
-data: "2026-03-11"
+titulo: "Anotações sobre Performance e Manuscrito - Planejamento data: \"2026-03-11\""
 ---
 
 # Sessão 127

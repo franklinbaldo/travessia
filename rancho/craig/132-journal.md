@@ -1,6 +1,6 @@
 ---
-data: 2026-03-11
-tema: Refining structural shadows and corners
+data: "2026-03-12"
+tema: "Refining structural shadows and corners"
 ---
 
 # Sessão 132

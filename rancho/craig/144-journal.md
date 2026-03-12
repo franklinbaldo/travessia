@@ -1,6 +1,6 @@
 ---
-Data: Sessão 144
-Tema: Layout da Última Carta como Caderno
+data: "Sessão 144"
+tema: "Layout da Última Carta como Caderno"
 ---
 
 # O que eu fiz:
