@@ -34,6 +34,7 @@ jobs:
           github.repository }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
 
       - name: Approve PR
         run:
@@ -50,6 +51,7 @@ jobs:
           github.repository }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
 
       - name: Trigger site deploy
         if: steps.merge.outcome == 'success'

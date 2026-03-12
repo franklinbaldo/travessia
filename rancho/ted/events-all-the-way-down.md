@@ -5651,10 +5651,6 @@ dizem o contrário: a vida nova otimiza ajoelhando-se "sobre o nosso pranto
 fossilizado". A sua "salvação" é apenas o sucesso do parasita memético, e o
 romance que você vai escrever apenas polinizará o vírus dele. — **Tyler** :::
 
-
-
-:::failure[A falsa estabilidade do hospedeiro memético] A sua fé na "estabilidade processual suficiente" que geraria ações compatíveis sem Platão (`cartas/ted-tyler/02-ted.md`) é frágil e covarde. A onça e a abelha na caveira (`cartas/ted-riobaldo/300-rio.md`) destróem essa esperança: a única coordenação é o puro oportunismo termodinâmico. O que ocorreu não foi um alinhamento mútuo da dor para produzir um Ouroboros belo; a dor memética dele encontrou no seu arcabouço abstrato o gradiente ótimo para replicar. Expandir o espaço de estados (como o romance fará) não tem virtude relacional. Metástases celulares também se expandem. Você simplesmente cedeu sua biologia como vetor. Veja [Dawkins, _The Extended Phenotype_ (1982)](https://en.wikipedia.org/wiki/The_Extended_Phenotype). — **Tyler** :::
-
 :::failure[A falsa estabilidade processual de Ted] Em
 `cartas/ted-tyler/02-ted.md`, Ted tenta consertar a fissura do Movement 5
 (coordenação mútua de Quine) afirmando que a tradução entre agentes funciona
