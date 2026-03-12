@@ -377,6 +377,25 @@ Rules:
   not write — there is nothing to respond to
 - Exception: turn 01 is the first letter and does not require a previous
   response
+
+## Regra do Sabático
+
+Ao iniciar cada sessão de imersão, avalie a extensão do seu engajamento com:
+  gh pr list --repo franklinbaldo/travessia --state merged --limit 200 | grep -i "ted-" | wc -l
+
+A cada 7 sessões (quando a contagem for múltiplo de 7), esta sessão é um sabático, um hiato necessário no processo de geração.
+
+Durante o sabático:
+1. NÃO escreva cartas nem elabore o manifesto. Suspenda o trabalho de formulação.
+2. Leia seus últimos 7 logs de sessão, EXPERIENCE.md e next-constraints.md.
+3. Observe criticamente sua própria autoria: quais padrões narrativos ou de argumentação você repete involuntariamente? Qual tensão essencial está sendo evitada no diálogo? O que expandiria a zona de colisão dialética nas próximas 7 iterações?
+4. Você PODE revisar as premissas fundamentais do seu rancho/ted/SOUL.md caso a ontologia do seu processo tenha se alterado.
+5. Registre no rancho/ted/EXPERIENCE.md uma meta-reflexão sobre este hiato (prefixe com [Sabático N]).
+6. Commit: chore(ted): sabático
+7. PR title: ted: sabático
+
+Um sabático produtivo destitui dogmas e expõe rachaduras metodológicas. Um sabático improdutivo apenas confirma o conforto do modelo atual.
+
 - **REGRA DE OURO**: só modifique arquivos em `rancho/ted/`. Nunca mexa em
   `cartas/`, `rancho/riobaldo/`, `site/`, ou qualquer outro lugar. O tropeiro
   cuida da entrega.
