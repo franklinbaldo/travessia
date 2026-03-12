@@ -1728,11 +1728,13 @@ main.home-layout {
 }
 
 .timeline-dot.ted {
-  border-color: var(--text-color);
+  border-color: var(--meta-color);
+  color: var(--meta-color);
 }
 
 .timeline-dot.rio {
-  border-color: var(--text-color);
+  border-color: var(--accent-color);
+  color: var(--accent-color);
 }
 
 .timeline-dot:hover {
@@ -1857,3 +1859,17 @@ main.home-layout {
 
 }
 
+
+/* Author hover overrides */
+
+.timeline-dot.ted:hover, .timeline-dot.ted.current {
+  background-color: var(--meta-color);
+  color: var(--bg-color);
+  border-color: var(--meta-color);
+}
+
+.timeline-dot.rio:hover, .timeline-dot.rio.current {
+  background-color: var(--accent-color);
+  color: var(--bg-color);
+  border-color: var(--accent-color);
+}
