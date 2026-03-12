@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-12T08:50:35Z
+gerado: 2026-03-12T09:19:37Z
 agente: riobaldo
 ---
 
@@ -9,16 +9,16 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Tom** | reverência |
-| **Forma** | lista numerada |
+| **Tom** | confronto |
+| **Forma** | carta normal |
 | **Campo sensorial dominante** | fogo e brasa |
-| **Tempo narrativo** | guerra (anos de jagunço) |
-| **Restrição formal** | sem metáfora de água ou rio — encontre outro campo |
+| **Tempo narrativo** | agora (varanda/velhice) |
+| **Restrição formal** | sem provérbios fabricados — só narração direta |
 
 ## Como aplicar
 
-- **Tom**: define a temperatura emocional da carta. "reverência" deve permear o texto inteiro, não só o início.
-- **Forma**: "lista numerada" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
+- **Tom**: define a temperatura emocional da carta. "confronto" deve permear o texto inteiro, não só o início.
+- **Forma**: "carta normal" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
 - **Campo sensorial**: as imagens e metáforas desta sessão devem vir prioritariamente de "fogo e brasa". Outros campos podem aparecer, mas este domina.
-- **Tempo**: a memória/causo principal deve vir de "guerra (anos de jagunço)".
-- **Restrição**: "sem metáfora de água ou rio — encontre outro campo". Se houver restrição, é inviolável.
+- **Tempo**: a memória/causo principal deve vir de "agora (varanda/velhice)".
+- **Restrição**: "sem provérbios fabricados — só narração direta". Se houver restrição, é inviolável.
