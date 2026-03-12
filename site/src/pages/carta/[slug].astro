@@ -229,31 +229,36 @@ function autorClasse(autorName: string): string {
     color: var(--text-color) !important;
   }
 
-  /* Correspondence Timeline */
+  /* BRUTALIST Correspondence Timeline */
   .correspondence-timeline {
-    margin-top: 3rem;
-    padding-top: 2rem; border-top: 2px solid var(--text-color);
-    text-align: center;
+    margin-top: 5rem;
+    padding: 3rem 2rem;
+    background-color: var(--text-color); /* High contrast dark background */
+    border-top: 8px solid var(--accent-color); /* Aggressive red top border */
+    text-align: left; /* Break the centered norm */
+    box-shadow: inset 0 10px 0 var(--bg-color); /* Inverted shadow block inside */
   }
 
   .timeline-label {
     display: block;
     font-family: var(--font-meta);
-    font-size: 0.75rem;
+    font-size: clamp(1.5rem, 4vw, 2.5rem); /* Massive bold label */
     text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: var(--meta-color);
-    margin-bottom: 1rem;
+    letter-spacing: -0.05em; /* Brutalist tight tracking */
+    color: var(--bg-color); /* Bright inverted text */
+    margin-bottom: 2rem;
+    font-weight: 900;
+    line-height: 1;
   }
 
   .timeline-dots {
     display: flex;
     justify-content: flex-start;
-    gap: 0.5rem;
+    gap: 1rem;
     overflow-x: auto;
-    flex-wrap: nowrap;
+    flex-wrap: wrap; /* Let it flow wildly as a grid */
+    padding-bottom: 1rem;
     scrollbar-width: none;
-    padding-bottom: 0.5rem;
   }
 
   .timeline-dots::-webkit-scrollbar {
@@ -264,72 +269,76 @@ function autorClasse(autorName: string): string {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 2.5rem;
-    height: 2.5rem;
-    flex-shrink: 0; border-radius: 0; border: 1px solid rgba(0,0,0,0.1);
-    background: var(--sand-bg);
-    color: var(--text-color);
+    width: 3.5rem; /* Massive interactive blocks */
+    height: 3.5rem;
+    flex-shrink: 0;
+    border-radius: 0; /* Strict squares */
+    border: 3px solid var(--bg-color); /* High contrast border against dark bg */
+    background: transparent;
+    color: var(--bg-color);
     font-family: var(--font-meta);
-    font-size: 0.75rem;
-    font-weight: 600;
+    font-size: 1.25rem; /* Huge unmissable numbers */
+    font-weight: 900;
     text-decoration: none;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), inset 0 1px 0 rgba(255, 255, 255, 0.8);
-    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.8);
-    transition:
-      background-color 0.3s ease,
-      border-color 0.3s ease,
-      transform 0.2s ease,
-      box-shadow 0.3s ease;
+    transition: none; /* No smooth easing. Pure instant brutalist state changes. */
   }
 
   :global([data-theme="dark"]) .timeline-dot {
-    border: 1px solid rgba(255,255,255,0.1);
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.1);
-    text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.5);
+    border: 3px solid var(--bg-color);
+    box-shadow: none;
+    text-shadow: none;
   }
 
+  /* Extreme author differentiation purely by bold color blocks */
   .timeline-dot.ted {
-    border-bottom: 2px solid var(--meta-color);
+    border-color: var(--meta-color);
+    color: var(--bg-color); /* Fix contrast by making text bright */
   }
 
   .timeline-dot.rio {
-    border-bottom: 2px solid var(--secondary-color);
+    border-color: var(--secondary-color);
+    color: var(--bg-color); /* Fix contrast by making text bright */
   }
 
+  /* Aggressive spatial shift and color inversion on hover */
   .timeline-dot:hover {
-    transform: translateY(-1px);
-    background: var(--water-bg);
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08), inset 0 1px 0 rgba(255, 255, 255, 1);
+    transform: translate(-5px, -5px);
+    background: var(--accent-color); /* Shocking red background */
+    color: var(--text-color) !important; /* Dark ink text */
+    border-color: var(--text-color) !important;
+    box-shadow: 5px 5px 0 var(--bg-color); /* Hard brutalist shadow */
   }
 
   :global([data-theme="dark"]) .timeline-dot:hover {
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.2);
+    background: var(--accent-color);
+    box-shadow: 5px 5px 0 var(--bg-color);
   }
 
+  /* Dominating current state */
   .timeline-dot.current {
-    background: var(--accent-color);
-    color: var(--bg-color);
-    border-color: var(--accent-color);
-    font-weight: 700;
-    transform: translateY(1px);
-    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2);
-    text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.2);
+    background: var(--bg-color); /* Solid inverted block */
+    color: var(--text-color) !important;
+    border-color: var(--bg-color) !important;
+    font-weight: 900;
+    transform: scale(1.15) rotate(-3deg); /* Break the grid alignment aggressively */
+    box-shadow: 6px 6px 0 var(--accent-color); /* Blaring red shadow */
+    z-index: 10;
+    position: relative; /* Fix clipping issue for the rotated element */
   }
 
   :global([data-theme="dark"]) .timeline-dot.current {
-  }
-
-  :global([data-theme="dark"]) .timeline-dot {
-  }
-
-  :global([data-theme="dark"]) .timeline-dot:hover {
+    background: var(--bg-color);
+    color: var(--text-color) !important;
   }
 
   @media (max-width: 600px) {
+    .correspondence-timeline {
+      padding: 2rem 1rem;
+    }
     .timeline-dot {
-      width: 2.2rem;
-      height: 2.2rem;
-      font-size: 0.65rem;
+      width: 3rem;
+      height: 3rem;
+      font-size: 1rem;
     }
   }
 </style>
