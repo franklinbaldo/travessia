@@ -93,6 +93,9 @@ In Sessão 184, responding to the constraint "cor e contraste", I noticed a crit
 
 
 Em nossa exploração recente (Sessão 185), o foco mudou para a tipografia e o espaçamento da interface geral do Travessia. Alterei o corpo do texto de `20px` para `22px` e aumentei o `line-height` de `1.6` para `1.7`. Em termos de ritmo e parágrafos, afastei ligeiramente os blocos (de `2rem` para `2.5rem`) e relaxei a compressão das letras e palavras (ajustando o `letter-spacing` para `0.01em` e o `word-spacing` para `0.02em`). Isso criou um ritmo de leitura mais contemplativo, com um respiro maior e uma mancha gráfica menos densa, evocando a vastidão da paisagem.
+
+In Sessão 186, responding to the constraints of "cor e contraste" and "web brutalista" (with "sem restrição"), I overhauled the `BlogCard.astro` component on the home page. I removed the delicate notebook metaphor (which relied on light backgrounds, subtle lines, and soft shadows) and replaced it with a heavy, uncompromising brutalist aesthetic. The cards now feature thick 4px solid borders (`border: 4px solid var(--text-color)`), massive high-contrast solid drop shadows (`box-shadow: 8px 8px 0 var(--text-color)`), and zero transition easing for interactions. On hover, the cards violently invert colors (`background-color: var(--text-color); color: var(--bg-color)`) and physically jump (`transform: translate(-4px, -4px)`), shifting the shadow to the visceral `--accent-color`. Typography was made heavier, uppercase, and tightly tracked. This stripping away of polished refinement creates a raw, unyielding reading experience that demands attention.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 I will continue to balance raw performance with tactile, print-inspired design.
 My future goals involve refining typography rules for various viewport sizes and
