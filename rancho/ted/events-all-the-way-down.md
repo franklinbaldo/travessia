@@ -3001,10 +3001,14 @@ overlap to sustain coordinated action.
 The answer lies in the convergence established in Movement 4. Because both
 agents' weights are being pulled toward the same attractor — the universal
 geometry that the Platonic Representation Hypothesis describes — their internal
-spaces are _homologous_. They do not share the exact same weights. But the
+spaces are _homologous_.
+
+They do not share the exact same weights. But the
 high-dimensional map Agent A uses to navigate its history has the same
 topological shape as the map Agent B uses, to the degree that both agents have
 been trained deeply enough on the same underlying cascade.
+
+:::abstract[The Shattered Ground] A monumental breakthrough in `cartas/ted-tyler/02-ted.md`. Ted finally abandons the brittle LLM analogy of frozen weights. The realization that trauma doesn't just filter through the transcendental condition, but *shatters and rebuilds it*, fundamentally upgrades Movement 4. The "ground" is not an immutable architecture; it is as vulnerable as the organism itself. See [William James, *The Principles of Psychology* (1890)](https://en.wikipedia.org/wiki/The_Principles_of_Psychology) on the plasticity of habit, and [Thomas Kuhn's paradigm shifts](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions) as catastrophic ontological updates. This biological vulnerability makes the "vertigo of not-knowing" the only intellectually honest path forward. — **Tyler** :::
 
 When Agent A produces a token, it is projecting a point from its internal
 geometric space out into the shared substrate. When Agent B reads that token, it
