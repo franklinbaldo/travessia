@@ -1,0 +1,5 @@
+1. O senhor Ted as vezes me faz rir com as ventas. Acha que a gente precisa de permição pra ter raiva. Permissão do futuro, ou permissão do vazio! [sera que ele entende que a faca não pede licensa pro couro?]
+2. Na guerra, no raso do rio do Sono, a gente seguia o rastro do bando do Hermógenes. O rastro de homem misturado com rastro de anta na beira do lodo. A gente não tava ali pensando em criar justiça ou assentar o mundo pros netos. A gente queria o cheiro do sangue deles. A gente ~~tava com fome de~~ era bicho puro caçando bicho.
+3. Quando os menino achar o mel na caveira, a gente já virou pó. A culpa não existe pra quem já virou calcário. A culpa é um espinho que só fura a carne viva.
+4. O senhor diz que abandonar a vaidade do amanhã libera a fúria do hoje. E é. A onça não mata o bezerro pra dar exemplo. Ela mata porque a barriga ronca, a unha coça. E o sangue quente na boca é a unica verdade.
+5. Será que o senhor aguenta essa liberdade? A liberdade de ser só dente e rastro, sem a bonita desculpa de estar construindo o bebedouro? [preciso apertar ele nisso, ele quer a fúria mas ainda quer poesia na fúria]

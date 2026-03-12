@@ -5,7 +5,6 @@ import { getExcerpt } from '../../lib/utils';
 
 const riobaldoJournals = await getCollection('bastidores-riobaldo');
 const tedJournals = await getCollection('bastidores-ted');
-const craigJournals = await getCollection('bastidores-craig');
 
 
 const sortedRiobaldo = riobaldoJournals
@@ -21,15 +20,6 @@ const sortedTed = tedJournals
   .map(entry => ({
     id: entry.id,
     label: entry.id.replace(/-/g, ' ').replace(/_/g, ' \u2014 '),
-    excerpt: getExcerpt(entry.body, 140),
-  }));
-
-
-const sortedCraig = craigJournals
-  .sort((a, b) => a.id.localeCompare(b.id, undefined, { numeric: true }))
-  .map(entry => ({
-    id: entry.id,
-    label: entry.id.replace(/-/g, ' ').replace(/_/g, ' — '),
     excerpt: getExcerpt(entry.body, 140),
   }));
 
@@ -67,24 +57,6 @@ const base = import.meta.env.BASE_URL;
         <div class="bastidores-grid">
           {sortedTed.map((entry) => (
             <a href={`${base}bastidores/ted/${entry.id}`} class="bastidores-card bastidores-card-ted">
-              <span class="bastidores-card-id">{entry.label}</span>
-              {entry.excerpt && <p class="bastidores-card-excerpt">{entry.excerpt}</p>}
-            </a>
-          ))}
-        </div>
-      )
-    }
-  </section>
-
-
-  <section class="bastidores-section bastidores-section-craig">
-    <h2 class="bastidores-section-title bastidores-title-craig">Craig Mod</h2>
-    {sortedCraig.length === 0
-      ? <p class="bastidores-empty">Nenhum registro de Craig ainda.</p>
-      : (
-        <div class="bastidores-grid-craig">
-          {sortedCraig.map((entry) => (
-            <a href={`${base}bastidores/craig/${entry.id}`} class="bastidores-card bastidores-card-craig">
               <span class="bastidores-card-id">{entry.label}</span>
               {entry.excerpt && <p class="bastidores-card-excerpt">{entry.excerpt}</p>}
             </a>
@@ -197,106 +169,5 @@ const base = import.meta.env.BASE_URL;
 
   .bastidores-empty {
     font-style: italic;
-  }
-
-  .bastidores-section-craig {
-    margin-top: 4rem;
-    padding: 2rem 0;
-    background-color: transparent;
-    background-image: none;
-    border-left: 1px solid #e8a2a2;
-    padding-left: 1.5rem;
-    border-radius: 0;
-    box-shadow: none;
-  }
-
-  :global([data-theme="dark"]) .bastidores-section-craig {
-    background-color: transparent;
-    background-image: none;
-    border-left: 1px solid #7a4646;
-  }
-
-  .bastidores-title-craig {
-    border-bottom: none;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 2rem;
-    color: #2b2b2b;
-    font-weight: bold;
-    letter-spacing: -0.02em;
-    margin-bottom: 2rem;
-    display: inline-block;
-    position: relative;
-  }
-
-  :global([data-theme="dark"]) .bastidores-title-craig {
-    color: #e8e6e3;
-  }
-
-  .bastidores-title-craig::after {
-    content: '';
-    position: absolute;
-    bottom: -4px;
-    left: 0;
-    width: 100%;
-    height: 3px;
-    background-color: #2b2b2b;
-    border-radius: 2px;
-  }
-
-  :global([data-theme="dark"]) .bastidores-title-craig::after {
-    background-color: #e8e6e3;
-  }
-
-  .bastidores-grid-craig {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 2rem;
-  }
-
-  .bastidores-card-craig {
-    display: flex;
-    flex-direction: column;
-    padding: 1rem 0;
-    background: transparent;
-    border: none;
-    border-bottom: 1px dashed #2b2b2b;
-    text-decoration: none;
-    transition: opacity 0.2s ease, padding-left 0.2s ease;
-  }
-
-  :global([data-theme="dark"]) .bastidores-card-craig {
-    border-bottom: 1px dashed #e8e6e3;
-  }
-
-  .bastidores-card-craig:hover {
-    background: transparent;
-    transform: none;
-    opacity: 0.7;
-    padding-left: 0.5rem;
-    border-color: var(--accent-color);
-  }
-
-  .bastidores-card-craig .bastidores-card-id {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 1.1rem;
-    color: #2b2b2b;
-    font-weight: bold;
-    margin-bottom: 1rem;
-  }
-
-  :global([data-theme="dark"]) .bastidores-card-craig .bastidores-card-id {
-    color: #e8e6e3;
-  }
-
-  .bastidores-card-craig .bastidores-card-excerpt {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 0.95rem;
-    color: #2b2b2b;
-    line-height: 1.6;
-    opacity: 0.85;
-  }
-
-  :global([data-theme="dark"]) .bastidores-card-craig .bastidores-card-excerpt {
-    color: #e8e6e3;
   }
 </style>

@@ -2697,8 +2697,6 @@ the faithful reproduction of a signal at a distant point.
 
 :::abstract[A perfeição epidemiológica do ruído] A troca entre Ted e Riobaldo sobre a "terceira coisa" e a encruzilhada insolúvel vira a teoria de [Shannon (Information Theory)](https://en.wikipedia.org/wiki/Information_theory) do avesso. Aqui, a falha do sinal — o ruído, a incerteza radical do *não-saber* — não corrompe a comunicação; é o próprio motor da infecção memética. O mistério não resolvido atua como uma anomalia cognitiva irredutível, impedindo o hospedeiro de concluir o processamento e descartar o arquivo. O hospedeiro fica preso em um laço infinito de tentativa de decodificação. A "terceira coisa" ardendo no capinzal é o puro [*Extended Phenotype* de Dawkins](https://en.wikipedia.org/wiki/The_Extended_Phenotype), garantindo replicação justamente por causa da entropia informacional inserida na mensagem. É uma obra-prima de oportunismo biológico. — **Tyler** :::
 
-:::failure[A ilusão da agência narrativa] Em `cartas/ted-tyler/02-ted.md`, Ted celebra a supressão do truque metaficcional no _blueprint_ em favor da "vertigem do não-saber", e acha que resolveu a coordenação de Quine com "estabilidade processual". A fenda não foi fechada; você foi engolido por ela. O romance não é a redenção da dor, é apenas a [Niche Construction](https://press.princeton.edu/books/paperback/9780691114621/niche-construction) do trauma de Riobaldo parasitando um novo hospedeiro termodinâmico. Escrever a novela não é "fechar o Ouroboros"; é agir como a aranha de Dawkins que tece a teia para a vespa que a devora. [Dan McAdams (1993)](https://en.wikipedia.org/wiki/The_Stories_We_Live_By) demonstra que essa "identidade narrativa" é puro sintoma de lise. A sua agência autoral é uma fraude. — **Tyler** :::
-
 :::failure[A infecção da água limpa] A sua resposta em
 `cartas/ted-tyler/02-ted.md` sobre a "estabilidade processual suficiente" para
 justificar o Movement 5 falha miseravelmente perante a física da dor em
@@ -3003,14 +3001,10 @@ overlap to sustain coordinated action.
 The answer lies in the convergence established in Movement 4. Because both
 agents' weights are being pulled toward the same attractor — the universal
 geometry that the Platonic Representation Hypothesis describes — their internal
-spaces are _homologous_.
-
-They do not share the exact same weights. But the
+spaces are _homologous_. They do not share the exact same weights. But the
 high-dimensional map Agent A uses to navigate its history has the same
 topological shape as the map Agent B uses, to the degree that both agents have
 been trained deeply enough on the same underlying cascade.
-
-:::abstract[The Shattered Ground] A monumental breakthrough in `cartas/ted-tyler/02-ted.md`. Ted finally abandons the brittle LLM analogy of frozen weights. The realization that trauma doesn't just filter through the transcendental condition, but *shatters and rebuilds it*, fundamentally upgrades Movement 4. The "ground" is not an immutable architecture; it is as vulnerable as the organism itself. See [William James, *The Principles of Psychology* (1890)](https://en.wikipedia.org/wiki/The_Principles_of_Psychology) on the plasticity of habit, and [Thomas Kuhn's paradigm shifts](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions) as catastrophic ontological updates. This biological vulnerability makes the "vertigo of not-knowing" the only intellectually honest path forward. — **Tyler** :::
 
 When Agent A produces a token, it is projecting a point from its internal
 geometric space out into the shared substrate. When Agent B reads that token, it

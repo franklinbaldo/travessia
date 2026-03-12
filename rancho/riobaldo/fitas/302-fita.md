@@ -1,26 +1,25 @@
 ---
 tipo: "transcricao"
-data: 2026-03-18
+data: 2026-03-17
 sessao: 302
 ---
 
-[som da máquina engatando, estalo seco]
-Está rodando. Isso. O botão vermelho já abaixou.
+[barulho seco de engrenagem raspando, clique frouxo do botão]
 
-[barulho de vento forte batendo no microfone]
-Ted quer que eu sangre... quer que eu pegue a enxada e bata na minha própria costela até abrir a fonte de pranto. Esse homem tem um gosto pelo desespero que eu reprovo com força.
+Isso está puxando a minha voz? Essa roda preta gira, gira e não sai do lugar... Igual o pensamento do Ted, girando em volta do meu buraco, da minha cova, do meu poço. [suspiro forte] Ê, velho cansado.
 
-[barulho de isqueiro, som de tragada apertada]
-Ele acha que a dor escancarada, essa poça suja da nossa aflição espalhada na pedra, é o que salva e dá de beber a quem vem depois. Mas eu olho ali pro terreiro, escorado no pilar da varanda... o fogo que os meninos acenderam já abaixou de vez. Tá só a brasa brilhando. Aquele vermelho vivo, incandescente, encolhido e resistindo no meio da cinza grossa.
+O vento hoje lá fora está brabo. Uma poeira fina batendo nas pernas tortas das cadeiras, varrendo a palha pro canto. A poeira que entra no olho e faz a gente piscar, piscar e chorar uma água que não mata sede de ninguém. O Ted... o estrangeiro americano que eu chamo de Ted, mas que parece até um compadre mandado pelo diabo pra testar as minhas pernas... ele me quebrou hoje.
 
-Se eu for lá agora com a ponta da enxada que o Ted manda... se eu for lá e der uma bordoada naquele montinho, a brasa desfia, voa longe em centelha fraca e apaga no chão molhado do sereno. O vento mata tudo num instante. A vida forte do fogo está na resistência dele contido ali, encolhido e pulsando quieto debaixo da cinza.
+Ele falou do menino. Um molequinho de poeira e remela engolindo o mel dentro da caveira suja. Ele pegou aquele meu caititu morto lá nas pedras do Urucuia e botou uma criança ajoelhada lambendo o osso pra não morrer.
 
-Eu respondi com dura raiva na carta pra ele. Respondi confrontando, porque ele vem com história de lamber a caveira, de onça quebrando o telhado pra arrancar carne na bruteza... ele nunca prestou atenção na precisão paciente de um bom fogo.
+[barulho de pigarro longo, som de copo esbarrando em madeira]
 
-[silêncio longo, apenas o zumbido mecânico da fita rodando e o vento uivando leve na varanda]
-Diadorim nunca derramou a dor por aí feito chuva. Diadorim era um montinho de brasa intocável, enclausurado no peito. O calor ali dentro derretia as vontades de cada um de nós, queimava por dentro, mas nunca rasgou as carnes pra vazar e pedir pena. Quando os jagunços lavaram o corpo de Diadorim depois da luta com o Hermógenes... quando eu vi o sangue quieto... eu entendi de vez que aquela brasa contida era o que dava a força e o calor de toda aquela vida guerreira. Se Diadorim tivesse rasgado o peito e gritado a própria angústia pro mundo pisar em cima, o fogo teria subido amarelo e se consumido logo em seguida, feito fogueira de palha rala.
+Sabe, maquininha roda-roda... eu fui durão, eu fui brabo e desalmado uma vida inteira de jagunço armado no Liso do Sussuarão. Mas reverência não escolhe hora de vergar as pernas da gente. Bate a ternura de um lado, a perna encolhe. Eu reverencio aquele menino imaginado, reverencio demais. O gringo tem razão. E eu disse pra ele que tinha. Se a água do futuro precisa que eu fure o chão com a minha carne, eu furo.
 
-[barulho da cadeira de balanço rangendo forte no tablado]
-Eu não vou quebrar minha estrutura pra sangrar. Eu seguro a brasa que sobrou nas duas mãos apertadas. Aguento a queimadura feia na palma da mão se for preciso. Mas a brasa fica guardada. Ela não morre aqui espalhada pelo chão.
+Contei pra ele do poço das rãs. Da água subindo preta depois de o osso do cavalo quebrar... [pausa longa]
 
-[estalo seco e pesado, som da gravação interrompida brutalmente]
+Mas o medo, roda preta... o medo que eu não contei inteiro... é que tudo seja à toa. Essa poeira varrendo a varanda me assombra. E se o vento soterrar tudo, ahn? Se eu sangrar à toa e o menino não achar nada? E se o universo der risada do meu heroísmo tardio? O vento não respeita cova. A poeira enterra rastro. A areia entope o bebedouro.
+
+E depois?
+
+[estalo da roda da fita patinando, depois silêncio longo]

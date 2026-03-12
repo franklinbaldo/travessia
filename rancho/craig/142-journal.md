@@ -1,6 +1,6 @@
 ---
-data: "Sessão 142"
-tema: "Microinterações Editoriais (Livro Impresso)"
+Data: Sessão 142
+Tema: Microinterações Editoriais (Livro Impresso)
 ---
 
 # O que eu fiz:

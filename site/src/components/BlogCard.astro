@@ -39,42 +39,37 @@ const {
 
 <style>
   .card-titulo {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 1.6rem;
-    margin: 0 0 0.75rem;
+    font-size: 1.25rem;
+    margin: 0 0 0.5rem;
     color: var(--text-color);
-    line-height: 1.2;
-    font-weight: normal;
-    letter-spacing: -0.02em;
+    line-height: 1.3;
+    font-weight: 700;
   }
 
   .card-subtitulo {
-    font-family: 'Times New Roman', Times, serif;
     font-style: italic;
     color: var(--text-color);
-    font-size: 1.1rem;
-    margin: 0 0 1rem;
+    font-size: 0.95rem;
+    margin: 0 0 0.5rem;
   }
 
   .card-excerpt {
-    font-size: 1rem;
-    color: var(--text-color);
-    line-height: 1.6;
-    margin: 0 0 1.2rem;
-    opacity: 0.9;
+    font-size: 0.92rem;
+    color: var(--meta-color);
+    line-height: 1.55;
+    margin: 0 0 0.75rem;
   }
 
   .card-meta {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.5rem;
+    gap: 0.4rem;
     align-items: center;
     font-family: var(--font-meta);
-    font-size: 0.75rem;
+    font-size: 0.7rem;
     text-transform: uppercase;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.05em;
     color: var(--meta-color);
-    margin-bottom: 1rem;
   }
 
   .card-tipo {
@@ -83,57 +78,149 @@ const {
   }
 
   .card-autor {
-    color: var(--text-color);
-    font-weight: bold;
+    color: var(--meta-color);
   }
 
-  .card-autor.autor-rio {
-    color: var(--secondary-color);
-  }
-
-  /* Contemporary Literary Magazine constraints */
+  /* Notebook constraints */
   .blog-card {
-    display: flex;
-    flex-direction: column;
-    padding: 2rem 0 0 0 !important;
-    margin-bottom: 3rem !important;
+    --notebook-bg: #f9f8f3;
+    --notebook-lines: #cce0e5;
+    --notebook-margin: #e8a2a2;
+    --notebook-ink: #2b2b2b;
+    --notebook-meta: #666666;
+
+    background-color: var(--notebook-bg) !important;
+    background-image: repeating-linear-gradient(
+      transparent,
+      transparent 1.9rem,
+      var(--notebook-lines) 1.9rem,
+      var(--notebook-lines) 2.0rem
+    ) !important;
+    background-position: 0 1rem !important;
+
     border: none !important;
-    border-top: 1px solid var(--text-color) !important;
-    border-radius: 0 !important;
-    background: transparent !important;
-    box-shadow: none !important;
-    transform: none !important;
-    text-decoration: none;
-    transition: opacity 0.3s ease !important;
-  }
+    border-left: 2px solid var(--notebook-margin) !important;
+    border-radius: 0 8px 8px 0 !important;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.05) !important;
 
-  .blog-card:hover {
-    opacity: 0.7 !important;
-    transform: none !important;
-    box-shadow: none !important;
-    background-color: transparent !important;
-  }
+    padding: 1.5rem !important;
+    margin-bottom: 2rem !important;
 
-  /* Adjust order for editorial look: Meta -> Title -> Excerpt */
-  .blog-card .card-meta {
-    order: 1;
-  }
-  .blog-card .card-titulo {
-    order: 2;
-  }
-  .blog-card .card-subtitulo {
-    order: 3;
-  }
-  .blog-card .card-excerpt {
-    order: 4;
+    transform: none !important;
+    transition: transform 0.2s ease, box-shadow 0.2s ease !important;
   }
 
   :global([data-theme="dark"]) .blog-card {
-    border-top: 1px solid var(--text-color) !important;
+    --notebook-bg: #1e2022;
+    --notebook-lines: #32383d;
+    --notebook-margin: #7a4646;
+    --notebook-ink: #e8e6e3;
+    --notebook-meta: #aaaaaa;
+    border-left: 2px solid var(--notebook-margin) !important;
   }
 
-  .blog-card::after, .blog-card::before {
+  .blog-card:hover {
+    transform: translateY(-2px) !important;
+    box-shadow: 4px 6px 12px rgba(0,0,0,0.1) !important;
+    background-color: var(--notebook-bg) !important;
+    color: var(--notebook-ink) !important;
+  }
+
+  :global([data-theme="dark"]) .blog-card:hover {
+    background-color: var(--notebook-bg) !important;
+    color: var(--notebook-ink) !important;
+  }
+
+  /* Reset hover colors for inner elements to use ink */
+  .blog-card:hover .card-titulo,
+  .blog-card:hover .card-excerpt,
+  .blog-card:hover .card-meta,
+  .blog-card:hover .card-autor,
+  .blog-card:hover time {
+    color: var(--notebook-ink) !important;
+  }
+
+  .blog-card .card-titulo {
+    color: var(--notebook-ink);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    letter-spacing: -0.02em;
+    position: relative;
+    display: inline-block;
+  }
+
+  .blog-card .card-titulo::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-color: var(--notebook-ink);
+    transform: scaleX(0);
+    transform-origin: left center;
+    transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .blog-card:hover .card-titulo::after {
+    transform: scaleX(1);
+  }
+
+  .blog-card .card-excerpt {
+    color: var(--notebook-ink);
+    opacity: 0.85;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  .blog-card .card-tipo {
+    color: var(--notebook-bg);
+    background-color: var(--notebook-ink);
+    padding: 0.1rem 0.4rem;
+    border: none;
+    display: inline-block;
+    transition: transform 0.2s ease;
+  }
+
+  .blog-card:hover .card-tipo {
+    color: var(--notebook-bg) !important;
+    transform: rotate(-3deg) scale(1.05);
+    transition: transform 0.2s cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+
+  .blog-card .card-meta {
+    border-top: 1px dashed var(--notebook-lines) !important;
+    padding-top: 0.5rem;
+    color: var(--notebook-meta);
+    transition: padding 0.3s ease, border-color 0.3s ease;
+  }
+
+  .blog-card:hover .card-meta {
+    border-top: 1px dashed var(--notebook-ink) !important;
+    padding-top: 0.75rem;
+  }
+
+  /* Disable old global brutalist hover indicator */
+  .blog-card::before {
     display: none !important;
+  }
+
+  /* Corner Fold */
+
+  .blog-card::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    border-width: 0;
+    border-style: solid;
+    border-color: rgba(0,0,0,0.2) var(--bg-color) var(--bg-color) rgba(0,0,0,0.1);
+    box-shadow: -2px -2px 5px rgba(0,0,0,0.1);
+    transition: border-width 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    border-radius: 0 0 8px 0;
+  }
+
+  .blog-card:hover::after {
+    border-width: 25px;
   }
 
 </style>

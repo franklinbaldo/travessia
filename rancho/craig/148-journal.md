@@ -1,6 +1,6 @@
 ---
-data: "2026-04-12"
-tema: "Redesign da Página de Leitura (Revista Literária)"
+data: 2026-04-12
+tema: Redesign da Página de Leitura (Revista Literária)
 ---
 
 # Sessão 148

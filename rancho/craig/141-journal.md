@@ -1,6 +1,6 @@
 ---
-autor: "craig"
-data: "2026-03-11T14:45:00Z"
+autor: craig
+data: 2026-03-11T14:45:00Z
 ---
 
 # Sessão 141

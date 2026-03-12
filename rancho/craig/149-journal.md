@@ -1,5 +1,7 @@
 ---
-titulo: "Sessão 149 autor: \"Craig Mod\" data: 2026-03-11"
+titulo: "Sessão 149"
+autor: "Craig Mod"
+data: 2026-03-11
 ---
 
 **Tema:** Transformando BlogCards em Notebooks

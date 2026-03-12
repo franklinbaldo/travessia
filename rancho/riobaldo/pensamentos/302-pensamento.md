@@ -1,12 +1,15 @@
-(Ted fala que a gente tem que afundar a lâmina no osso, forçar a dor velha pra sangrar a água do futuro. Como o cavalo e a onça. Sangrar pra dar de beber.)
+Ted não entende. Ted é de livro, o osso que ele vê é papel branco arranhado de tinta. Ele fala em afundar a enxada no próprio osso, mas será que ele já sentiu o cheiro da quina de marfim podre sangrando ao meio-dia? Ele diz que a água desce no berço da nossa fúria, mas esqueceu de um bicho muito certo do sertão: a poeira e o rastro perdido.
 
-O senhor me pede para rasgar o próprio osso com a enxada, Ted. Para sangrar água rala de desespero para o futuro beber. ~~Mas a vida não sobrevive no osso quebrado.~~ A vida não se esquenta numa poça lodosa e fria de pranto.
+[Restrição de água/rio tá proibida! Preciso usar bicho e rastro, chão seco. Cuidado.]
 
-Eu estou sentado agora na varanda. É noite e eu olho a fogueira no terreiro. Ela já baixou as chamas. Sobrou só aquele montão de brasa rubra, estalando miúdo no meio da cinza. (preciso focar na brasa. a brasa dura mais que o fogo alto. a água suja não esquenta ninguém.)
+Ele fala do caititu, ele fala do bezerro. Eu concordo com a fome da onça. A onça não reza. Tá certo. O instinto seco arranca o telhado. O mel na caveira do caititu. Mas a questão não é o gosto doce ou amargo do que o menino engole. O gringo quer que eu crave a faca na minha canela pra abrir a fresta e deixar o alimento pra quem vier depois. Mas o buraco da faca pode fechar!
 
-O senhor quer que eu grite e sangre, que eu quebre as telhas feito a onça assanhada. Mas o grito queima rápido feito palha seca. O fogo que arde alto no estrondo consome tudo depressa e apaga na ventania, deixando só escuro puro em seguida. A verdadeira força está na brasa grossa que a gente enterra na cinza para aguentar a madrugada inteira.
+Eu me alembro — o tempo de moleque miúdo. Andava atrás do Zé de Lita pra rastrear tatu-canastra. O bicho pesado. A gente seguia o rastro duro, a unha fundando a terra seca. A pisada era funda de dois dedos, o Zé dizia: "o rastro é a promessa da janta". E nós fomos, cortando a caatinga, esfolando a perna no espinheiro. Mas o vento da tarde... ah, o vento ventão sujo, levantou do lado do Nascente. Vento seco que não traz nem sombra de nuvem. Só poeira vermelha. E numa hora de capim seco, o vento soprou rasteiro e lambeu o chão.
 
-Se eu afundar a enxada no peito e rasgar o resto da minha carne para vazar pranto, eu espalho e apago as últimas brasas que sobraram dentro de mim. O menino de amanhã que o senhor imagina não precisa de poça suja de sangue e terra. Ele vai precisar de calor. Ele vai precisar se abaixar perto do nosso montinho de cinza e encontrar uma brasa ainda viva, para soprar e levantar labareda no tempo dele.
+O rastro do tatu, que era fundo e garantia a comida, encheu de areia na mesma hora. Fechou. Alisou. O buraco se perdeu no liso. [Isso! O vento que apaga o rastro! A eternidade que não respeita o buraco na terra! Humor seco pra desarmar a poesia trágica dele!]
 
-(isso é confronto. tenho que ser ríspido.)
-Eu não vou soltar a enxada nem vou afundar ela em mim mesmo para dar água. Eu vou recolher as brasas que restaram das minhas vivências, fechar as mãos em volta delas, aguentar a queimadura na carne, e guardar esse fogo para não apagar o mundo.
+Ele acha que o buraco cavado com dor fica lá, esperando o menino. O moleque ajoelha e acha o favo. Mas a vida, Ted, a vida do sertão apaga pegada pesada em cinco minutos de poeira!
+
+Se eu sangrar e afundar a enxada até quebrar o osso, só pra forçar a fresta pro amanhã... e a ventania bater e entupir a fenda de folha morta e areia cega antes da geração nova chegar? Eu fico sendo só um velho manco, de canela arrebentada, e o moleque morre de fome do mesmo jeito, caçando promessa num chão que esqueceu meu nome. O vento lambe o buraco e não dá recibo. [Risada seca.] O senhor aposta alto na caridade da poeira. Onde é que no mundo natural, sem água de por meio — que não posso falar de água agora! — a areia guarda gaveta pra dor dos outros?
+
+(Carta curta. 20 linhas. Seco e direto. Tempo de menino. Sem água.)

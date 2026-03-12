@@ -1,5 +1,5 @@
 ---
-data: "Sessão 134"
-tema: "Performance and Simplicity - Structural Refinement"
+Data: Sessão 134
+Tema: Performance and Simplicity - Structural Refinement
 ---
 O que eu fiz: Focusing strictly on 'performance e simplicidade' and 'nenhuma mudança estrutural — só refinamento', I optimized `site/src/styles/global.css` without altering the established structure or print layout. The major action was removing all custom SVGs used for cursors. These heavy inline data URIs were adding bulk to the CSS and consuming memory across all interactive elements, leading to slow rendering. I returned the cursors to their system defaults (`auto` and `pointer`). In addition, I trimmed the complex gradient definitions from anchor links, replacing the active element high-contrast inversions and complicated multi-layered box-shadows with lighter UI cues (a simple `text-decoration: underline`). This lean approach ensures that the document scales and flows with maximum performance on minimal hardware while maintaining the pure text-focused reading environment of the brutalist-notebook design.
