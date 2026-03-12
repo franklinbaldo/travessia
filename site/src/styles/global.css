@@ -4,21 +4,21 @@
    =========================== */
 
 :root {
-  /* Manuscrito/Caderno Bold Contrast Palette */
-  --bg-color: #fdfbf7; /* Classic Paper */
-  --text-color: #1a1a1a; /* Classic Ink */
-  --accent-color: #8b0000; /* Dark Red Ink */
-  --secondary-color: #555555; /* Lead/Graphite */
-  --divider-color: #93a1a1; /* Faded rule lines */
-  --meta-color: #586e75; /* Pencil/meta text */
-  --rio-color: var(--accent-color);
-  --ted-color: #5a908b;
-  --noise-op: 0.05;
-  --sand-bg: #fdf6e3;
-  --water-bg: #e8dfc8; /* Slightly darker paper */
-  --water-border: #93a1a1;
-  --progress-start: #dc322f;
-  --progress-end: #268bd2;
+  /* Revista Literária Contemporânea Palette */
+  --bg-color: #ffffff; /* Crisp White */
+  --text-color: #0f0f0f; /* Stark Black */
+  --accent-color: #e63946; /* Contemporary Vivid Red */
+  --secondary-color: #4a4a4a; /* Medium Dark Gray */
+  --divider-color: #e0e0e0; /* Subtle Light Gray */
+  --meta-color: #888888; /* Clean Slate Gray */
+  --rio-color: #d90429; /* Punchy Crimson */
+  --ted-color: #0077b6; /* Deep Modern Blue */
+  --noise-op: 0.02;
+  --sand-bg: #f8f9fa; /* Very Light Cool Gray */
+  --water-bg: #f1f3f5; /* Light Gray */
+  --water-border: #dee2e6;
+  --progress-start: #e63946;
+  --progress-end: #0077b6;
 
   --font-body: 'Cormorant Garamond', 'Times New Roman', Times, serif;
   --font-ted: 'Cormorant Garamond', 'Times New Roman', Times, serif;
@@ -30,20 +30,20 @@
 }
 
 [data-theme="dark"] {
-  --bg-color: #1a1a1a; /* Dark Ink */
-  --text-color: #fdfbf7; /* Paper */
-  --accent-color: #cc3333; /* Bright Red Ink */
-  --secondary-color: #aaaaaa; /* Light Lead */
-  --divider-color: #586e75;
-  --meta-color: #93a1a1;
-  --rio-color: var(--accent-color);
-  --ted-color: #7ab5b0;
-  --noise-op: 0.05;
-  --sand-bg: #002b36;
-  --water-bg: #073642;
-  --water-border: #586e75;
-  --progress-start: #cb4b16;
-  --progress-end: #2aa198;
+  --bg-color: #0f0f0f; /* Deepest Gray/Black */
+  --text-color: #f8f9fa; /* Crisp Off-White */
+  --accent-color: #ef233c; /* Bright Red */
+  --secondary-color: #adb5bd; /* Soft Gray */
+  --divider-color: #343a40; /* Dark Gray */
+  --meta-color: #6c757d; /* Medium Gray */
+  --rio-color: #ef233c;
+  --ted-color: #48cae4; /* Bright Cyan/Blue */
+  --noise-op: 0.02;
+  --sand-bg: #212529; /* Dark Slate */
+  --water-bg: #343a40; /* Medium Slate */
+  --water-border: #495057;
+  --progress-start: #ef233c;
+  --progress-end: #48cae4;
 }
 
 /* === Reset === */
