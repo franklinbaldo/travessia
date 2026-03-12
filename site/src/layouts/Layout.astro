@@ -145,17 +145,48 @@ const isCurrentPage = (path: string) => {
     margin-bottom: 4rem;
   }
 
-  nav a { border-bottom: 2px solid var(--text-color);
+  nav a {
     color: var(--meta-color);
     font-family: var(--font-meta);
     font-size: 0.85rem;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+    border-bottom: none;
+    padding-bottom: 2px;
+    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275), color 0.3s ease;
+  }
+
+  /* Notebook underline interaction */
+  nav a::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-color: var(--text-color);
+    transform: scaleX(0);
+    transform-origin: right center;
+    transition: transform 0.4s cubic-bezier(0.19, 1, 0.22, 1);
   }
 
   nav a:hover {
     color: var(--text-color);
-    opacity: 1;
+    transform: translateY(-2px) rotate(-1deg);
+  }
+
+  nav a:hover::after,
+  nav a[aria-current="page"]::after {
+    transform: scaleX(1);
+    transform-origin: left center;
+  }
+
+  nav a[aria-current="page"] {
+    color: var(--text-color);
+    font-weight: bold;
   }
 
   nav a.logo {
@@ -166,6 +197,15 @@ const isCurrentPage = (path: string) => {
     color: var(--accent-color);
     text-transform: none;
     letter-spacing: 0;
+    border-bottom: none;
+  }
+
+  nav a.logo::after {
+    background-color: var(--accent-color);
+  }
+
+  nav a.logo:hover {
+    transform: translateY(-2px) rotate(1deg);
   }
 
   .nav-links {
