@@ -173,10 +173,11 @@ function autorClasse(autorName: string): string {
 
   /* Classic Print Page Container */
   :global(.classic-print-page) {
-    background-color: #f4eccf !important; /* Aged paper */
+    background-color: #fdfbf7 !important; /* Cleaner notebook paper */
     color: #111111 !important; /* Dense ink */
-    padding: 3rem 4rem !important;
-    border: 1px solid #111111 !important;
+    padding: 3rem 4rem 3rem 5rem !important;
+    border: none !important; /* Remove harsh border for manuscript */
+    border-left: 1px solid #e8a2a2 !important; /* Notebook margin line */
 
     margin: 3rem auto 4rem auto !important;
     max-width: 740px !important;
@@ -210,9 +211,9 @@ function autorClasse(autorName: string): string {
 
   /* Literary Magazine Body Styles overrides */
   :global(.manuscrito-body) {
-    font-family: 'Times New Roman', Times, serif !important; /* Force serif for body */
-    font-size: 1.25rem !important;
-    line-height: 1.7 !important;
+    font-family: 'Courier New', Courier, monospace !important; /* Manuscript monospace */
+    font-size: 1.1rem !important;
+    line-height: 1.8 !important;
     max-width: 680px !important;
     margin: 0 auto !important;
     padding: 0 1rem !important;
