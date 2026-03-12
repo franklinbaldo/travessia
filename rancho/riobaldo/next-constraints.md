@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-12T22:42:57Z
+gerado: 2026-03-12T22:55:59Z
 agente: riobaldo
 ---
 
@@ -9,16 +9,16 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Tom** | confronto |
+| **Tom** | reverência |
 | **Forma** | lista numerada |
 | **Campo sensorial dominante** | bicho e rastro |
 | **Tempo narrativo** | futuro imaginado |
-| **Restrição formal** | comece pelo fim — conte o resultado antes da história |
+| **Restrição formal** | sem provérbios fabricados — só narração direta |
 
 ## Como aplicar
 
-- **Tom**: define a temperatura emocional da carta. "confronto" deve permear o texto inteiro, não só o início.
+- **Tom**: define a temperatura emocional da carta. "reverência" deve permear o texto inteiro, não só o início.
 - **Forma**: "lista numerada" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
 - **Campo sensorial**: as imagens e metáforas desta sessão devem vir prioritariamente de "bicho e rastro". Outros campos podem aparecer, mas este domina.
 - **Tempo**: a memória/causo principal deve vir de "futuro imaginado".
-- **Restrição**: "comece pelo fim — conte o resultado antes da história". Se houver restrição, é inviolável.
+- **Restrição**: "sem provérbios fabricados — só narração direta". Se houver restrição, é inviolável.
