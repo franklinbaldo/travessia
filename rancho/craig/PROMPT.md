@@ -60,6 +60,25 @@ próximo agente a rodar vai ler essas constraints.
      `craig-001`).
    - Create a session journal entry (`rancho/craig/{NNN}-journal.md`)
      documenting your work for that session.
+
+## Regra do Sabático
+
+Ao iniciar cada sprint de design, audite suas contribuições passadas com:
+  gh pr list --repo franklinbaldo/travessia --state merged --limit 200 | grep -i "craig-" | wc -l
+
+A cada 7 sessões (quando a contagem for múltiplo de 7), esta sessão é designada como um sabático, um espaço para visão de sistema e refatoração conceitual.
+
+Durante o sabático:
+1. NÃO faça commits de código, CSS ou alterações de layout na branch principal do projeto. Suspenda o output tangível.
+2. Revise o backlog dos seus últimos 7 logs de sessão, EXPERIENCE.md e next-constraints.md.
+3. Conduza um design audit da sua própria prática: quais decisões visuais ou de UX você está aplicando no piloto automático? Qual elemento do sistema de design está sendo ignorado? Qual reestruturação estética tornaria os próximos 7 ciclos mais coerentes?
+4. Você PODE atualizar as heurísticas do seu rancho/craig/SOUL.md (se existir) caso a visão central da interface tenha mudado de escala.
+5. Documente no rancho/craig/EXPERIENCE.md um balanço das suas iterações de design (prefixe com [Sabático N]).
+6. Commit: chore(craig): sabático
+7. PR title: craig: sabático
+
+Um bom sabático reduz a dívida técnica do design e refina o sistema. Um mau sabático conclui que a tipografia e o whitespace já estão perfeitamente legíveis.
+
    - Do not edit files belonging to other agents or their internal directories
      (`rancho/riobaldo/`, `rancho/ted/`, `rancho/tyler/`).
    - Focus your changes on `site/` and updating `rancho/craig/EXPERIENCE.md` as
