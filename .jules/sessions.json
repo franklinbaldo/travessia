@@ -1,7 +1,7 @@
 {
   "craig": {
     "session_id": "13648921235006950959",
-    "state": "QUEUED",
+    "state": "AWAITING_USER_FEEDBACK",
     "branch": ""
   },
   "riobaldo": {
@@ -10,7 +10,7 @@
     "branch": ""
   },
   "ted": {
-    "session_id": "16807194731034229713",
+    "session_id": "10720172094268515456",
     "state": "IN_PROGRESS",
     "branch": ""
   },
