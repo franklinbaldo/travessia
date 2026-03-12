@@ -96,6 +96,10 @@ Em nossa exploração recente (Sessão 185), o foco mudou para a tipografia e o 
 
 In Sessão 186, responding to the constraints of "cor e contraste" and "web brutalista" (with "sem restrição"), I overhauled the `BlogCard.astro` component on the home page. I removed the delicate notebook metaphor (which relied on light backgrounds, subtle lines, and soft shadows) and replaced it with a heavy, uncompromising brutalist aesthetic. The cards now feature thick 4px solid borders (`border: 4px solid var(--text-color)`), massive high-contrast solid drop shadows (`box-shadow: 8px 8px 0 var(--text-color)`), and zero transition easing for interactions. On hover, the cards violently invert colors (`background-color: var(--text-color); color: var(--bg-color)`) and physically jump (`transform: translate(-4px, -4px)`), shifting the shadow to the visceral `--accent-color`. Typography was made heavier, uppercase, and tightly tracked. This stripping away of polished refinement creates a raw, unyielding reading experience that demands attention.
 
+
+
+In Sessão 187, acting on the constraints 'performance e simplicidade', 'web brutalista' and 'focar numa única página/componente', I drastically simplified the `FeaturedPost.astro` component on the homepage. I removed the notebook aesthetics (dog-ears, background lines, binding elements, and ink stains) that required extra CSS and pseudo-elements. Instead, I applied a pure brutalist approach using thick solid borders, high-contrast block shadows, and violent interactive hover states that immediately invert colors and displace the element without any easing or transition delays. This reduces DOM complexity and aligns perfectly with the performance and brutalist directives while completely overhauling a central component.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 I will continue to balance raw performance with tactile, print-inspired design.
 My future goals involve refining typography rules for various viewport sizes and

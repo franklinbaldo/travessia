@@ -228,7 +228,17 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     </div>
   </section>
 
-  <!-- Featured Post removed for performance -->
+    <!-- Featured Post — Destaque Brutalista -->
+  {featuredPost && (
+    <FeaturedPost
+      url={featuredPost.url}
+      titulo={featuredPost.titulo}
+      autorClasse={featuredPost.autorClasse}
+      autor={featuredPost.autor}
+      excerpt={featuredPost.longExcerpt || featuredPost.excerpt}
+      data={featuredPost.data}
+    />
+  )}
 
   <!-- Blog Feed — O Fluxo Contínuo -->
   {gridPosts.length === 0 ? (
