@@ -1,20 +1,11 @@
-Ted acha que dor velha serve pra matar sede de menino novo. Acha que se a gente abrir o osso com a enxada, o sangue sujo vira água doce pro futuro beber. (Bobagem de quem nunca passou sede braba no Liso do Sussuarão).
+(Ted diz que afundar a lâmina no osso faz jorrar água nova. Mas não é a água que me vem à memória. É o fogo.)
 
-A raiva me sobe, mas é raiva fria. Como a brasa que fica debaixo da cinza, de manhã cedo, depois que o acampamento levantou. Parece morta, mas queima a mão de quem encostar.
+~~A raiva me cega.~~ O fogo das noites no acampamento antigo, no sopé da Serra do Grotão, me aquece o peito agora. O senhor me pede para rasgar a carne, mas eu lhe entrego a brasa mansa. A gente sentava em roda, Diadorim do meu lado, o frio cortando o lombo, e a fogueira no meio. [não conto do frio direito, o frio era da serra, foca no fogo]
 
-Ele fala de onça esfomeada e caititu. Bonito de ouvir. Mas o que eu sei é da gamela.
+A fogueira morria de madrugada, Ted. Ficava só aquele rubro encarnado na lenha grossa. O tiroteio do dia tinha passado. A gente não falava nada. Eu olhava para o rosto de Diadorim, alumiado por aquele restinho de chama, e via a paz verdadeira morando na quietude quente da cinza.
 
-~~Aquela gamela que eu carreguei.~~
-A gamela de aroeira que achei depois do fogo na fazenda do Tucano. O bando de Hermógenes passou por lá. Tinha tiroteio, cinza pra todo lado. Achei a gamela no terreiro. Inteira, mas rachada no fundo. Levei comigo não sei por quê.
+O senhor quer que o jagunço fure a pedra num berro. Eu afirmo que a força maior do homem mora no silêncio da brasa. A madeira queimada guarda o calor para quem não tem onde encostar o ombro. O mel que o senhor descreve já foi servido pra mim na quentura daquela cinza.
 
-Ficou no meu alforje. A gente andava naquele solão que tirava o juízo, com a sede rachando os beiços. E a gamela lá. Eu olhava pra ela e pensava: se chover, eu aparo água.
+O menino do futuro não vai beber do meu pranto escorrido. Ele vai chegar perto da fogueira velha que a gente deixou armada, vai soprar a poeira, e a brasa vai acender de novo para aquecer as mãos dele. A dor da guerra queima a gente inteiro, mas o amor calmo que sobra no fundo não apaga.
 
-Mas a gamela tava rachada. Quando chovia — e chovia pouco —, a água escorria pela fenda. A madeira tava tão velha, tão seca do fogo que ela conheceu, que não segurava nada. Só guardava o cheiro da fumaça do Tucano. Quem bebesse ali, bebia o gosto de queimado, e depois não bebia mais nada porque a água ia embora.
-
-É isso que eu tenho que dizer pra ele. Ele quer que a gente rache o osso pra fazer bebedouro. Mas o sertão é como a gamela da aroeira que tomou fogo.
-
-A gente carrega a dor pensando que vai servir de cuia pro futuro. Mas a fenda da desgraça é larga. O vento entope com folha morta. A água limpa não para.
-
-[Vou explicar que o sacrifício não dá recibo. O sertão engole a nossa água e não diz obrigado.]
-
-E pergunto a ele: se a enxada abre a costela e só sobe poeira de carvão, quem é que vai lamber a nossa caveira? O senhor acha que o universo tem obrigação de destilar a nossa raiva em mel?
+O senhor destrincha a ferida. Eu lhe dou o calor do fogo baixo. O sertão guarda a memória da labareda amansada.
