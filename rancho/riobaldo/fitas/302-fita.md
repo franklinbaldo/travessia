@@ -1,25 +1,31 @@
 ---
 tipo: "transcricao"
-data: 2026-03-17
+data: 2026-03-18
 sessao: 302
 ---
 
-[barulho seco de engrenagem raspando, clique frouxo do botão]
+[barulho de botão estalando]
 
-Isso está puxando a minha voz? Essa roda preta gira, gira e não sai do lugar... Igual o pensamento do Ted, girando em volta do meu buraco, da minha cova, do meu poço. [suspiro forte] Ê, velho cansado.
+... tá rodando? O Doutor disse que a luzinha... ah, lá está. Vermelha. Como brasa.
 
-O vento hoje lá fora está brabo. Uma poeira fina batendo nas pernas tortas das cadeiras, varrendo a palha pro canto. A poeira que entra no olho e faz a gente piscar, piscar e chorar uma água que não mata sede de ninguém. O Ted... o estrangeiro americano que eu chamo de Ted, mas que parece até um compadre mandado pelo diabo pra testar as minhas pernas... ele me quebrou hoje.
+Tudo hoje parece que tem cor de brasa para mim. Esse homem... esse Ted. Ele tem uma precisão na escrita que me aperta a garganta. Mas me dá uma raiva! Uma raiva mansa, daquelas que não faz a gente gritar, faz a gente falar baixo. Falar bem devagar, pesando cada palavra, como quem carrega a espingarda e escuta o clique do cão.
 
-Ele falou do menino. Um molequinho de poeira e remela engolindo o mel dentro da caveira suja. Ele pegou aquele meu caititu morto lá nas pedras do Urucuia e botou uma criança ajoelhada lambendo o osso pra não morrer.
+Ele quer... ele quer que o sofrimento valha a pena. É isso. Ele olha pro mundo, vê a brutalidade toda, a onça matando o bezerro, o menino lambendo o osso sujo... e acha que isso tudo tem um desenho de utilidade. Que a gente rasgando a própria carne serve de cocho pra quem vem depois.
 
-[barulho de pigarro longo, som de copo esbarrando em madeira]
+[barulho de cadeira rangendo]
 
-Sabe, maquininha roda-roda... eu fui durão, eu fui brabo e desalmado uma vida inteira de jagunço armado no Liso do Sussuarão. Mas reverência não escolhe hora de vergar as pernas da gente. Bate a ternura de um lado, a perna encolhe. Eu reverencio aquele menino imaginado, reverencio demais. O gringo tem razão. E eu disse pra ele que tinha. Se a água do futuro precisa que eu fure o chão com a minha carne, eu furo.
+Como é que ele não vê? A fenda... a rachadura daquela gamela...
 
-Contei pra ele do poço das rãs. Da água subindo preta depois de o osso do cavalo quebrar... [pausa longa]
+Achei lá no Tucano. O Hermógenes tinha feito o diabo. Não sobrou parede com parede. Eu era moço ainda, jagunço em começo de carreira. A gamela estava lá. Eu guardei. Fiquei achando que a danada ia servir pra ajuntar água. Bobagem de quem ainda tinha esperança que as coisas quebradas consertavam. Quando choveu, a água passou direto. Vazou na poeira. A rachadura da queimada era grande demais.
 
-Mas o medo, roda preta... o medo que eu não contei inteiro... é que tudo seja à toa. Essa poeira varrendo a varanda me assombra. E se o vento soterrar tudo, ahn? Se eu sangrar à toa e o menino não achar nada? E se o universo der risada do meu heroísmo tardio? O vento não respeita cova. A poeira enterra rastro. A areia entope o bebedouro.
+Eu contei pra ele da gamela. Escrevi lá. Porque é isso que nós somos. Gamela rachada por fogueira de guerra. Ele acha que se a gente cavar o osso, junta água pro menino do futuro. Mas o sertão é poroso, sô! A terra bebe tudo e fica seca de novo num instante. O sacrifício de um jagunço não vira vertente sagrada. Vira pó. Vira poça barrenta que o vento entope com folha morta.
 
-E depois?
+Ele quer poesia no sangue. Ele acha bonito que a dor destile a água pra quem vem amanhã.
 
-[estalo da roda da fita patinando, depois silêncio longo]
+... [silêncio longo, só estalido de cigarro queimando]
+
+Eu às vezes me pergunto, pra essa máquina muda... será que ele, esse Ted, já perdeu alguma coisa de verdade? De fechar os olhos e a cor do mundo sumir? Porque quem já perdeu assim não acredita que o próprio osso rachado vai salvar a sede de alguém. Sabe que a dor só rasga a madeira e deixa o resto escorrer pro escuro.
+
+Diz ele de afundar a lâmina mais fundo. Que homem... que homem terrível. Mas ele ouve. Ah, ele escuta. E agora, com a gamela de aroeira rachada nas mãos dele, quero ver se ele ainda vai ter coragem de me pedir pra abrir mais a valeta.
+
+[estalo seco do botão desligando]

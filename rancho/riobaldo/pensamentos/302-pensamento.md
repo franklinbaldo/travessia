@@ -1,15 +1,20 @@
-Ted não entende. Ted é de livro, o osso que ele vê é papel branco arranhado de tinta. Ele fala em afundar a enxada no próprio osso, mas será que ele já sentiu o cheiro da quina de marfim podre sangrando ao meio-dia? Ele diz que a água desce no berço da nossa fúria, mas esqueceu de um bicho muito certo do sertão: a poeira e o rastro perdido.
+Ted acha que dor velha serve pra matar sede de menino novo. Acha que se a gente abrir o osso com a enxada, o sangue sujo vira água doce pro futuro beber. (Bobagem de quem nunca passou sede braba no Liso do Sussuarão).
 
-[Restrição de água/rio tá proibida! Preciso usar bicho e rastro, chão seco. Cuidado.]
+A raiva me sobe, mas é raiva fria. Como a brasa que fica debaixo da cinza, de manhã cedo, depois que o acampamento levantou. Parece morta, mas queima a mão de quem encostar.
 
-Ele fala do caititu, ele fala do bezerro. Eu concordo com a fome da onça. A onça não reza. Tá certo. O instinto seco arranca o telhado. O mel na caveira do caititu. Mas a questão não é o gosto doce ou amargo do que o menino engole. O gringo quer que eu crave a faca na minha canela pra abrir a fresta e deixar o alimento pra quem vier depois. Mas o buraco da faca pode fechar!
+Ele fala de onça esfomeada e caititu. Bonito de ouvir. Mas o que eu sei é da gamela.
 
-Eu me alembro — o tempo de moleque miúdo. Andava atrás do Zé de Lita pra rastrear tatu-canastra. O bicho pesado. A gente seguia o rastro duro, a unha fundando a terra seca. A pisada era funda de dois dedos, o Zé dizia: "o rastro é a promessa da janta". E nós fomos, cortando a caatinga, esfolando a perna no espinheiro. Mas o vento da tarde... ah, o vento ventão sujo, levantou do lado do Nascente. Vento seco que não traz nem sombra de nuvem. Só poeira vermelha. E numa hora de capim seco, o vento soprou rasteiro e lambeu o chão.
+~~Aquela gamela que eu carreguei.~~
+A gamela de aroeira que achei depois do fogo na fazenda do Tucano. O bando de Hermógenes passou por lá. Tinha tiroteio, cinza pra todo lado. Achei a gamela no terreiro. Inteira, mas rachada no fundo. Levei comigo não sei por quê.
 
-O rastro do tatu, que era fundo e garantia a comida, encheu de areia na mesma hora. Fechou. Alisou. O buraco se perdeu no liso. [Isso! O vento que apaga o rastro! A eternidade que não respeita o buraco na terra! Humor seco pra desarmar a poesia trágica dele!]
+Ficou no meu alforje. A gente andava naquele solão que tirava o juízo, com a sede rachando os beiços. E a gamela lá. Eu olhava pra ela e pensava: se chover, eu aparo água.
 
-Ele acha que o buraco cavado com dor fica lá, esperando o menino. O moleque ajoelha e acha o favo. Mas a vida, Ted, a vida do sertão apaga pegada pesada em cinco minutos de poeira!
+Mas a gamela tava rachada. Quando chovia — e chovia pouco —, a água escorria pela fenda. A madeira tava tão velha, tão seca do fogo que ela conheceu, que não segurava nada. Só guardava o cheiro da fumaça do Tucano. Quem bebesse ali, bebia o gosto de queimado, e depois não bebia mais nada porque a água ia embora.
 
-Se eu sangrar e afundar a enxada até quebrar o osso, só pra forçar a fresta pro amanhã... e a ventania bater e entupir a fenda de folha morta e areia cega antes da geração nova chegar? Eu fico sendo só um velho manco, de canela arrebentada, e o moleque morre de fome do mesmo jeito, caçando promessa num chão que esqueceu meu nome. O vento lambe o buraco e não dá recibo. [Risada seca.] O senhor aposta alto na caridade da poeira. Onde é que no mundo natural, sem água de por meio — que não posso falar de água agora! — a areia guarda gaveta pra dor dos outros?
+É isso que eu tenho que dizer pra ele. Ele quer que a gente rache o osso pra fazer bebedouro. Mas o sertão é como a gamela da aroeira que tomou fogo.
 
-(Carta curta. 20 linhas. Seco e direto. Tempo de menino. Sem água.)
+A gente carrega a dor pensando que vai servir de cuia pro futuro. Mas a fenda da desgraça é larga. O vento entope com folha morta. A água limpa não para.
+
+[Vou explicar que o sacrifício não dá recibo. O sertão engole a nossa água e não diz obrigado.]
+
+E pergunto a ele: se a enxada abre a costela e só sobe poeira de carvão, quem é que vai lamber a nossa caveira? O senhor acha que o universo tem obrigação de destilar a nossa raiva em mel?
