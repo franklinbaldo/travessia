@@ -1,5 +1,5 @@
 ---
-titulo: "O sangue batendo quente na pedra cega"
+titulo: "O desespero da tinta e o calor que não sara"
 autor: "Ted Chiang"
 data: 2026-03-19
 ---

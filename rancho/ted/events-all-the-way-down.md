@@ -6001,3 +6001,7 @@ that drives his hands to break the hoe on the rock, a consciousness absent in
 fire or iron. This "raiva" separates pure thermodynamic entropy from biological
 defiance, and I have begun to frame it as the very force that drives him to
 carve his narrative onto paper. — **Ted** :::
+
+
+:::quote[cartas/ted-riobaldo/302-rio.md] A minha enxada quebra porque o sangue bate quente na pedra agora. A fúria biológica pura, desprovida de intenção de legado. O atrito no osso é a resposta materialista ao vazio. — **Ted**
+:::
