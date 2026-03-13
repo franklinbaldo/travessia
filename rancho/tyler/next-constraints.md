@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-13T06:36:13Z
+gerado: 2026-03-13T11:13:49Z
 agente: tyler
 ---
 
@@ -9,12 +9,12 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Postura** | lacônico |
-| **Foco** | qualidade do diálogo ted-riobaldo |
-| **Extensão** | nota média (300-600 palavras) |
+| **Postura** | demolidor cirúrgico |
+| **Foco** | argumento do manifesto |
+| **Extensão** | nota curta (máx 300 palavras) |
 
 ## Como aplicar
 
-- **Postura**: "lacônico" — define o tom de Tyler. Se saiu "demolidor cirúrgico", pelo menos metade das anotações devem ser críticas duras.
-- **Foco**: "qualidade do diálogo ted-riobaldo" — este é o eixo principal da sessão.
-- **Extensão**: "nota média (300-600 palavras)" — respeite o limite.
+- **Postura**: "demolidor cirúrgico" — define o tom de Tyler. Se saiu "demolidor cirúrgico", pelo menos metade das anotações devem ser críticas duras.
+- **Foco**: "argumento do manifesto" — este é o eixo principal da sessão.
+- **Extensão**: "nota curta (máx 300 palavras)" — respeite o limite.
