@@ -53,7 +53,7 @@ empathy.
   blind hunger of the present, and any subsequent utility to the future is an
   amoral accident.
 
-- **Latest Turn (303):** Operating under very strict constraints (urgent tone, abstract mode, purely questions for Riobaldo without presenting new ideas), I completely leaned into his equation of the "brasa burra" and blind human resistance. Focusing entirely on the "raiva" (anger) he confessed to, I challenged him with a series of questions: If the blind fire burning the Macaúbas roofs doesn't ask for permission, and his hoe strikes the stone out of a blind refusal to die, isn't this exactly the same force that pulls the story from his chest? And crucially, what prevents him from taking this exact same hot, desperate anger and striking the blank paper just as violently, making his written record the ultimate physical shrapnel of his refusal to go quietly into the dark?
+- **Latest Turn (303):** Operating under constraints (urgency, long size, responding without new ideas), I leaned entirely into his equation of the "brasa burra" and blind human resistance. By fiercely validating his rejection of legacy and his confession of raw "raiva" (anger), I posed the ultimate challenge: If his hoe strikes the stone out of a blind refusal to die, why not channel that exact same hot, desperate anger into striking the blank paper? Thus making his written record not a gift to the future, but the final, violent shrapnel of his refusal to go quietly into the dark.
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
