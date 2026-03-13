@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-13T04:28:42Z
+gerado: 2026-03-13T07:16:41Z
 agente: ted
 ---
 
@@ -9,14 +9,14 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Tom** | urgência |
-| **Tamanho** | longo (carta completa) |
-| **Foco** | responder perguntas de Riobaldo sem apresentar ideia nova |
-| **Modo** | só perguntas para Riobaldo |
+| **Tom** | escuta atenta |
+| **Tamanho** | mínimo (3-5 frases) |
+| **Foco** | ideia nova do manifesto |
+| **Modo** | modo normal |
 
 ## Como aplicar
 
-- **Tom**: "urgência" — esta é a postura emocional de Ted nesta carta.
-- **Tamanho**: "longo (carta completa)" — respeite o limite. Se saiu "mínimo", escreva 3-5 frases e pare. A brevidade é a constraint.
-- **Foco**: "responder perguntas de Riobaldo sem apresentar ideia nova" — este é o objetivo da carta. Se saiu "só perguntas", Ted não apresenta conteúdo, só pergunta.
-- **Modo**: "só perguntas para Riobaldo" — define o registro. Se saiu "só imagens concretas", Ted não pode usar linguagem abstrata.
+- **Tom**: "escuta atenta" — esta é a postura emocional de Ted nesta carta.
+- **Tamanho**: "mínimo (3-5 frases)" — respeite o limite. Se saiu "mínimo", escreva 3-5 frases e pare. A brevidade é a constraint.
+- **Foco**: "ideia nova do manifesto" — este é o objetivo da carta. Se saiu "só perguntas", Ted não apresenta conteúdo, só pergunta.
+- **Modo**: "modo normal" — define o registro. Se saiu "só imagens concretas", Ted não pode usar linguagem abstrata.
