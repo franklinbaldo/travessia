@@ -266,93 +266,89 @@ const tipos = ['todos', ...Array.from(tiposSet)];
 </Layout>
 
 <style>
-  /* Hero — Broadsheet Masthead Layout */
+  /* Hero — Classic Title Page Layout */
   .blog-hero {
-    margin-bottom: 3rem;
+    margin-bottom: 4rem;
+    text-align: center;
+    border-bottom: 1px solid var(--text-color);
+    padding-bottom: 4rem;
+    padding-top: 2rem;
   }
 
   .hero-typographic {
     display: block;
-    margin: 0;
-    border-top: none;
-    border-bottom: none;
-    background: transparent;
-    text-align: left;
-    padding: 0;
-    box-shadow: none;
+    margin: 0 auto;
   }
 
   .hero-text-col {
     display: flex;
-    background: transparent !important;
-    color: var(--text-color) !important;
     flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
-    gap: 1.5rem;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
   }
 
   .blog-hero h1 {
-    font-size: clamp(4rem, 12vw, 8rem);
+    font-size: clamp(3rem, 8vw, 6rem);
     margin: 0;
-    letter-spacing: -0.04em;
-    line-height: 0.85;
+    letter-spacing: 0.08em;
+    line-height: 1.1;
     color: var(--text-color);
     text-transform: uppercase;
-    font-family: var(--font-meta); /* Brutalist Sans-Serif */
-    word-break: break-word;
-    white-space: normal;
-    font-weight: 900;
+    font-family: var(--font-body); /* Classic Serif */
+    font-weight: normal;
+    text-align: center;
   }
 
   .hero-quote {
-    font-style: normal;
-    font-size: clamp(1.2rem, 3vw, 2rem);
+    font-style: italic;
+    font-family: var(--font-body);
+    font-size: clamp(1.2rem, 2.5vw, 1.8rem);
     color: var(--text-color);
-    background-color: transparent;
-    padding: 0;
     margin: 0;
-    line-height: 1.2;
-    font-weight: 900;
-    text-transform: uppercase;
-    border-left: 6px solid var(--accent-color);
-    padding-left: 1rem;
+    line-height: 1.4;
+    font-weight: normal;
+    text-transform: none;
+    border-left: none;
+    max-width: 600px;
+    text-align: center;
+    padding: 0;
   }
 
   .hero-sub {
-    font-family: var(--font-meta);
-    font-size: clamp(1rem, 2vw, 1.25rem);
-    color: var(--meta-color);
-    text-transform: none;
-    letter-spacing: normal;
+    font-family: var(--font-body);
+    font-size: 1.1rem;
+    color: var(--text-color);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
     margin: 0;
-    max-width: 800px;
-    line-height: 1.5;
-    font-weight: bold;
+    max-width: 600px;
+    line-height: 1.6;
+    text-align: center;
   }
 
   .hero-characters {
     display: flex;
-    gap: 1.5rem;
-    margin-top: 1rem;
+    gap: 3rem;
+    margin-top: 2rem;
     justify-content: center;
-    flex-wrap: wrap;
+    align-items: center;
   }
 
   .character-badge {
     display: inline-block;
-    padding: 0.4rem 1rem;
-    border: 2px solid var(--text-color);
-    letter-spacing: 0.1em;
-    font-family: var(--font-meta);
-    font-size: 0.75rem;
+    padding: 0;
+    border: none;
+    letter-spacing: 0.15em;
+    font-family: var(--font-body);
+    font-size: 1.2rem;
     text-transform: uppercase;
     background: transparent;
     color: var(--text-color);
-    font-weight: 700;
+    font-weight: normal;
   }
 
-  /* Blog Feed List - Brutalist Directory */
+  /* Blog Feed List - Classical Directory */
   .blog-feed {
     display: flex;
     flex-direction: column;
