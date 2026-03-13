@@ -46,7 +46,7 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
     text-decoration: none;
     overflow: hidden;
     transform: none !important;
-    transition: transform 0s, box-shadow 0s, background-color 0s, color 0s !important;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease, color 0.3s ease !important;
   }
 
   :global([data-theme="dark"]) .featured-post {
@@ -55,8 +55,8 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
   }
 
   .featured-post:hover {
-    transform: translate(-6px, -6px) !important;
-    box-shadow: 18px 18px 0 var(--accent-color) !important;
+    transform: translate(-2px, -2px) !important;
+    box-shadow: 14px 14px 0 var(--accent-color) !important;
     background-color: var(--text-color) !important;
     color: var(--bg-color) !important;
     border-color: var(--accent-color) !important;
