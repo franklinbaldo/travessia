@@ -1708,8 +1708,9 @@ main.home-layout {
   font-size: 0.75rem;
   font-weight: 600;
   text-decoration: none;
-
-
+  transition: width 0.4s cubic-bezier(0.19, 1, 0.22, 1), background-color 0.3s ease, color 0.3s ease;
+  overflow: hidden;
+  white-space: nowrap;
 }
 
 .timeline-dot.ted {
@@ -1726,16 +1727,14 @@ main.home-layout {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-
-
+  width: 5rem;
 }
 
 [data-theme="dark"] .timeline-dot:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-
-
+  width: 5rem;
 }
 
 .timeline-dot.current {
@@ -1763,16 +1762,14 @@ main.home-layout {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-
-
+  width: 5rem;
 }
 
 [data-theme="dark"] .timeline-dot:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-
-
+  width: 5rem;
 }
 .timeline-dot:active {
 
@@ -1853,4 +1850,42 @@ main.home-layout {
   background-color: var(--accent-color);
   color: var(--bg-color);
   border-color: var(--accent-color);
+}
+
+/* === Horizontal Microinteractions === */
+a {
+  position: relative;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo)::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: var(--accent-color);
+  transition: width 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo):hover::after {
+  width: 100%;
+}
+
+.logo::after {
+  content: '';
+  position: absolute;
+  bottom: -5px;
+  left: 50%;
+  width: 0;
+  height: 6px;
+  background-color: var(--accent-color);
+  transition: width 0.5s cubic-bezier(0.19, 1, 0.22, 1), left 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.logo:hover::after {
+  width: 100%;
+  left: 0;
 }
