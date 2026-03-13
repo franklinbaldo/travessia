@@ -95,7 +95,7 @@ const {
     grid-template-columns: 1fr;
     gap: 1rem;
     transform: none !important;
-    transition: background-color 0.2s ease !important;
+    transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease !important;
   }
 
   @media (min-width: 768px) {
@@ -112,8 +112,8 @@ const {
   }
 
   .blog-card:hover {
-    transform: none !important;
-    box-shadow: none !important;
+    transform: translate(-2px, -2px) !important;
+    box-shadow: 4px 4px 0 var(--accent-color) !important;
     background-color: var(--text-color) !important;
     color: var(--bg-color) !important;
     border-color: var(--text-color) !important;

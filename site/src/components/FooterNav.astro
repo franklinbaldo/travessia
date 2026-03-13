@@ -101,7 +101,7 @@ const isRich = !!(prev?.autor || next?.autor);
 
     text-decoration: none;
     transform: none !important;
-    transition: transform 0s, box-shadow 0s, background-color 0s, color 0s, border-color 0s !important;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease !important;
   }
 
   :global([data-theme="dark"]) .footer-nav-link {
@@ -117,8 +117,8 @@ const isRich = !!(prev?.autor || next?.autor);
 
   /* Brutalist microinteractions: violent hover state */
   .footer-nav-link:hover {
-    transform: translate(-4px, -4px) !important;
-    box-shadow: 12px 12px 0 var(--accent-color) !important;
+    transform: translate(-2px, -2px) !important;
+    box-shadow: 10px 10px 0 var(--accent-color) !important;
     background-color: var(--text-color) !important;
     color: var(--bg-color) !important;
     border-color: var(--accent-color) !important;
