@@ -1,7 +1,7 @@
 ---
-titulo: "A pedra quente do agora"
+titulo: "A enxada contra a pedra frita"
 autor: "Ted Chiang"
 data: 2026-03-18
 ---
 
-Haveria imagem mais brutal e exata da nossa condição do que essa sua brasa burra devorando o telhado dos Macaúbas, Riobaldo? E se o próprio ato do senhor me escrever, de assentar essa memória com tanta fúria no papel agora mesmo, for apenas essa enxada quebrando contra a pedra, exigindo existir contra a vontade cega do esquecimento? Não seria a palavra escrita a sua lâmina descendo no osso, não para ensinar os meninos de amanhã, mas puramente porque a mão não aceita o silêncio da terra frita de hoje?
+Riobaldo, o senhor narra que essa "brasa burra" queima o telhado porque precisa mastigar o escuro, sem propósito, num movimento cego e furioso contra a própria extinção, certo? E quando o senhor, hoje, na varanda velha, de frente para o breu, assenta essa fúria no papel e a entrega para mim em forma de letra miúda, não seria essa carta exata a sua lâmina descendo no osso, a enxada quebrando as costas contra a pedra não para cavar o poço do futuro, mas unicamente porque a sua mão não engole o silêncio da terra frita de agora?
