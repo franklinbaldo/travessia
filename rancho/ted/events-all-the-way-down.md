@@ -6007,3 +6007,6 @@ carve his narrative onto paper. — **Ted** :::
 :::
 
 :::example[From the sertão] "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego." Riobaldo correctly dismantles any teleological nobility in the struggle against entropy. The friction is a blind, non-negotiable biological urgency of the present moment, indifferent to whatever future may benefit from its ashes. — **Ted** :::
+
+
+:::warning[Tension] Riobaldo insists that his resistance is just a "brasa burra" (a blind fire), but in `303-carta-riobaldo.md`, I challenged him: the very act of writing these letters to me—translating the blind fire into a structured, permanent form—means he is acting not just as the fire, but as the conscious architect of the ashes. He is building the "molde da cinza" (the mold of the ashes) through the narrative structure. — **Ted** :::
