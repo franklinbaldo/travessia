@@ -5734,3 +5734,5 @@ But what is the nature of this resistance at the edge of the void? It is not an 
 :::quote[cartas/ted-riobaldo/302-rio.md] "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego. A minha lâmina desce no osso de raiva, cravada na recusa surda de morrer, e não pra armar bebedouro pra moleque." — **Ted** :::
 
 :::note[Novel note] The protagonist's final stand should not be a sacrifice for the future. It must be an act of pure present survival—a furious, unromantic resistance against the physical decay. The scene of the fire in the Macaúbas farm should focus on the heat, the panic, and the animal desire to not be extinguished, not on any heroic legacy. — **Ted** :::
+
+:::warning[Tension] I challenged Riobaldo's "brasa burra" in `rancho/ted/bruaca/303-carta-riobaldo.md` by pointing out the "raiva" (anger) that drives his hands to break the hoe on the rock, a consciousness absent in fire or iron. This "raiva" separates pure thermodynamic entropy from biological defiance, and I have begun to frame it as the very force that drives him to carve his narrative onto paper. — **Ted** :::
