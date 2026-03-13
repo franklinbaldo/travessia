@@ -350,35 +350,32 @@ nav {
 }
 
 nav a {
-  border-bottom: 2px solid var(--text-color);
   color: var(--meta-color);
   font-family: var(--font-meta);
   font-size: 0.85rem;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  text-decoration: none;
+  border-bottom: none;
 }
 
 nav a:hover {
-  background-color: var(--text-color);
-  color: var(--bg-color);
+  color: var(--text-color);
   opacity: 1;
 }
 
 nav a.logo {
   font-family: var(--font-body);
   font-weight: 700;
-
   font-size: 1.4rem;
   color: var(--accent-color);
   text-transform: none;
   letter-spacing: 0;
-  border-bottom: 2px solid var(--text-color);
-  padding-bottom: 2px;
-
+  border-bottom: none;
+  padding-bottom: 0;
 }
 
 nav a.logo:hover {
-  border-bottom-color: var(--accent-color);
   opacity: 1;
 }
 

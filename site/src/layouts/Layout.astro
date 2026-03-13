@@ -141,19 +141,44 @@ const isCurrentPage = (path: string) => {
     align-items: center;
     flex-wrap: wrap;
     gap: 0.75rem;
-    padding-bottom: 1.5rem; border-bottom: 2px solid var(--text-color);
+    padding-bottom: 1.5rem; border-bottom: 1px solid var(--text-color);
     margin-bottom: 4rem;
   }
 
-  nav a { border-bottom: 2px solid var(--text-color);
+  nav a {
     color: var(--meta-color);
     font-family: var(--font-meta);
     font-size: 0.85rem;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    text-decoration: none;
   }
 
-  nav a:hover {
+  .nav-links a {
+    position: relative;
+    padding-bottom: 0.2rem;
+  }
+
+  .nav-links a::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background-color: var(--text-color);
+    transform: scaleX(0);
+    transform-origin: right center;
+    transition: transform 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+  }
+
+  .nav-links a:hover::after,
+  .nav-links a[aria-current="page"]::after {
+    transform: scaleX(1);
+    transform-origin: left center;
+  }
+
+  nav a:hover, nav a[aria-current="page"] {
     color: var(--text-color);
     opacity: 1;
   }
@@ -177,25 +202,25 @@ const isCurrentPage = (path: string) => {
 
   /* Theme toggle */
   #theme-toggle {
-    background: var(--sand-bg); border: 2px solid var(--text-color);
+    background: var(--bg-color);
+    border: 1px solid var(--text-color);
     cursor: pointer;
     font-size: 1.1rem;
     color: var(--text-color);
     padding: 0.3rem 0.6rem;
     line-height: 1;
-    transition: all 0.2s ease;
-
+    box-shadow: 2px 2px 0 var(--text-color);
+    transition: transform 0.1s ease, box-shadow 0.1s ease, background-color 0.2s ease, color 0.2s ease;
   }
 
   #theme-toggle:hover {
-    transform: translateY(-2px);
-
-    color: var(--accent-color);
+    background: var(--text-color);
+    color: var(--bg-color);
   }
 
   #theme-toggle:active {
-    transform: translateY(2px);
-
+    transform: translate(2px, 2px);
+    box-shadow: 0px 0px 0 var(--text-color);
   }
 
   /* Back to top */
@@ -203,22 +228,29 @@ const isCurrentPage = (path: string) => {
     position: fixed;
     bottom: 2rem;
     right: 2rem;
-    width: 2.5rem;
-    height: 2.5rem; border-radius: 0;
-    flex-shrink: 0; border: 2px solid var(--text-color);
+    width: auto;
+    padding: 0 0.8rem;
+    height: 2.5rem;
+    border-radius: 0;
+    flex-shrink: 0;
+    border: 1px solid var(--text-color);
     background: var(--bg-color);
-    color: var(--accent-color);
-    font-size: 1.2rem;
+    color: var(--text-color);
+    font-size: 0.85rem;
+    font-family: var(--font-meta);
+    font-weight: 700;
+    text-transform: uppercase;
     cursor: pointer;
     opacity: 0;
     transform: translateY(1rem);
-    transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s ease;
+    transition: opacity 0.3s ease, transform 0.1s ease, visibility 0.3s ease, box-shadow 0.1s ease, background-color 0.2s ease, color 0.2s ease;
     pointer-events: none;
     visibility: hidden;
     z-index: 100;
     display: flex;
     align-items: center;
     justify-content: center;
+    box-shadow: 3px 3px 0 var(--text-color);
   }
 
   #back-to-top:global(.visible) {
@@ -228,17 +260,16 @@ const isCurrentPage = (path: string) => {
     pointer-events: auto;
   }
 
-  #back-to-top:hover {
-    transform: translateY(-3px);
-    background: var(--accent-color);
+  #back-to-top:global(.visible):hover {
+    background: var(--text-color);
     color: var(--bg-color);
-    border-color: var(--text-color);
-
+    transform: translateY(-2px);
+    box-shadow: 5px 5px 0 var(--text-color);
   }
 
-  #back-to-top:active {
-    transform: translateY(2px);
-
+  #back-to-top:global(.visible):active {
+    transform: translate(3px, 3px);
+    box-shadow: 0px 0px 0 var(--text-color);
   }
 
   @media (max-width: 600px) {
