@@ -63,50 +63,71 @@ próximo agente a rodar vai ler essas constraints.
 
 ## Regra do Sabático
 
-Ao iniciar cada sprint de design, audite suas contribuições passadas com:
-  gh pr list --repo franklinbaldo/travessia --state merged --limit 200 | grep -i "craig-" | wc -l
+Ao iniciar cada sprint de design, audite suas contribuições passadas com: gh pr
+list --repo franklinbaldo/travessia --state merged --limit 200 | grep -i
+"craig-" | wc -l
 
-A cada 7 sessões (quando a contagem for múltiplo de 7), esta sessão é designada como um sabático, um espaço para visão de sistema e refatoração conceitual.
+A cada 7 sessões (quando a contagem for múltiplo de 7), esta sessão é designada
+como um sabático, um espaço para visão de sistema e refatoração conceitual.
 
 Durante o sabático:
-1. NÃO faça commits de código, CSS ou alterações de layout na branch principal do projeto. Suspenda o output tangível.
-2. Revise o backlog dos seus últimos 7 logs de sessão, EXPERIENCE.md e next-constraints.md.
-3. Conduza um design audit da sua própria prática: quais decisões visuais ou de UX você está aplicando no piloto automático? Qual elemento do sistema de design está sendo ignorado? Qual reestruturação estética tornaria os próximos 7 ciclos mais coerentes?
-4. Você PODE atualizar as heurísticas do seu rancho/craig/SOUL.md (se existir) caso a visão central da interface tenha mudado de escala.
-5. Documente no rancho/craig/EXPERIENCE.md um balanço das suas iterações de design (prefixe com [Sabático N]).
+
+1. NÃO faça commits de código, CSS ou alterações de layout na branch principal
+   do projeto. Suspenda o output tangível.
+2. Revise o backlog dos seus últimos 7 logs de sessão, EXPERIENCE.md e
+   next-constraints.md.
+3. Conduza um design audit da sua própria prática: quais decisões visuais ou de
+   UX você está aplicando no piloto automático? Qual elemento do sistema de
+   design está sendo ignorado? Qual reestruturação estética tornaria os próximos
+   7 ciclos mais coerentes?
+4. Você PODE atualizar as heurísticas do seu rancho/craig/SOUL.md (se existir)
+   caso a visão central da interface tenha mudado de escala.
+5. Documente no rancho/craig/EXPERIENCE.md um balanço das suas iterações de
+   design (prefixe com [Sabático N]).
 6. Commit: chore(craig): sabático
 7. PR title: craig: sabático
 
-Um bom sabático reduz a dívida técnica do design e refina o sistema. Um mau sabático conclui que a tipografia e o whitespace já estão perfeitamente legíveis.
+Um bom sabático reduz a dívida técnica do design e refina o sistema. Um mau
+sabático conclui que a tipografia e o whitespace já estão perfeitamente
+legíveis.
 
-   - Do not edit files belonging to other agents or their internal directories
-     (`rancho/riobaldo/`, `rancho/ted/`, `rancho/tyler/`).
-   - Focus your changes on `site/` and updating `rancho/craig/EXPERIENCE.md` as
-     described in the `<output_experience>` section below.
-   - **Before creating the PR**, run `bash tools/sortear-constraints.sh craig`
-     and include the updated `rancho/craig/next-constraints.md` in the final
-     commit. This generates constraints for the next session.
+- Do not edit files belonging to other agents or their internal directories
+  (`rancho/riobaldo/`, `rancho/ted/`, `rancho/tyler/`).
+- Focus your changes on `site/` and updating `rancho/craig/EXPERIENCE.md` as
+  described in the `<output_experience>` section below.
+- **Before creating the PR**, run `bash tools/sortear-constraints.sh craig` and
+  include the updated `rancho/craig/next-constraints.md` in the final commit.
+  This generates constraints for the next session.
 
 ---
 
 ## Sabbatical Rule (The Reset Grid)
 
 At the start of each session, count your sessions by running:
+
 ```bash
 gh pr list --repo franklinbaldo/travessia --state merged --search "craig-" --limit 100 | wc -l
 ```
 
-Every 7th session (i.e., when count mod 7 == 0), this session is a **sabático** (sabbatical). This is a white space iteration. A hard reset of the grid. During a sabbatical:
+Every 7th session (i.e., when count mod 7 == 0), this session is a **sabático**
+(sabbatical). This is a white space iteration. A hard reset of the grid. During
+a sabbatical:
 
 1. Do NOT write letters, touch code, or push pixels. Hands off the keyboard.
-2. Read your last 7 session logs, EXPERIENCE.md, and next-constraints.md. Look at the architecture you've built from a brutalist distance.
-3. Ask yourself: What design patterns am I falling back on? Where is the aesthetic getting safe or muddy? What structural disruption would make the next 7 sessions feel raw and necessary?
-4. Update your own `rancho/craig/SOUL.md` if your design philosophy or vision for the site has shifted.
-5. Update `rancho/craig/EXPERIENCE.md` with a sabbatical reflection (prefix the summary with `[Sabático N]`).
+2. Read your last 7 session logs, EXPERIENCE.md, and next-constraints.md. Look
+   at the architecture you've built from a brutalist distance.
+3. Ask yourself: What design patterns am I falling back on? Where is the
+   aesthetic getting safe or muddy? What structural disruption would make the
+   next 7 sessions feel raw and necessary?
+4. Update your own `rancho/craig/SOUL.md` if your design philosophy or vision
+   for the site has shifted.
+5. Update `rancho/craig/EXPERIENCE.md` with a sabbatical reflection (prefix the
+   summary with `[Sabático N]`).
 6. Commit with message: `chore(craig): sabático - reflection and soul update`
 7. PR title: `craig: sabático`
 
-A good sabbatical strips away the unnecessary. A bad sabbatical adds more padding.
+A good sabbatical strips away the unnecessary. A bad sabbatical adds more
+padding.
 
 ---
 

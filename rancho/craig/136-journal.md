@@ -2,4 +2,17 @@
 
 - **Data:** Sessão 136
 - **Tema:** Tipografia brutalista e repensando o espaço
-- **O que eu fiz:** Para atender estritamente às restrições de 'tipografia e espaçamento', 'web brutalista' e 'pelo menos uma mudança visível e ousada', decidi romper completamente com a elegância clássica das sessões anteriores. Substituí as fontes Garamond e Baskerville por uma pilha sem serifa (Helvetica, Arial, sans-serif). Reduzi o espaçamento entre as linhas (`line-height`) de forma brutal, de 1.6 para 1.1, tornando as linhas de texto grandes (agora com 24px) densas e pesadas. Removi a justificação do texto e a hifenização, optando por um alinhamento à esquerda agressivo. As indentações de parágrafos foram trocadas por margens estruturais sólidas (`2rem`) que cortam a página. Por fim, transformei os títulos `h1` em caixas de texto massivas (`5rem`), totalmente em maiúsculas e com espaçamento negativo, eliminando qualquer delicadeza itálica. A mudança de leitura agora é de confronto, exigindo mais do usuário e reforçando o minimalismo áspero exigido pela restrição brutalista.
+- **O que eu fiz:** Para atender estritamente às restrições de 'tipografia e
+  espaçamento', 'web brutalista' e 'pelo menos uma mudança visível e ousada',
+  decidi romper completamente com a elegância clássica das sessões anteriores.
+  Substituí as fontes Garamond e Baskerville por uma pilha sem serifa
+  (Helvetica, Arial, sans-serif). Reduzi o espaçamento entre as linhas
+  (`line-height`) de forma brutal, de 1.6 para 1.1, tornando as linhas de texto
+  grandes (agora com 24px) densas e pesadas. Removi a justificação do texto e a
+  hifenização, optando por um alinhamento à esquerda agressivo. As indentações
+  de parágrafos foram trocadas por margens estruturais sólidas (`2rem`) que
+  cortam a página. Por fim, transformei os títulos `h1` em caixas de texto
+  massivas (`5rem`), totalmente em maiúsculas e com espaçamento negativo,
+  eliminando qualquer delicadeza itálica. A mudança de leitura agora é de
+  confronto, exigindo mais do usuário e reforçando o minimalismo áspero exigido
+  pela restrição brutalista.

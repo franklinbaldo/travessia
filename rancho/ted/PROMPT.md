@@ -338,21 +338,31 @@ Riobaldo should have begun to consider it seriously. </riobaldo_book>
 ## Sabbatical Rule (The Pause of the Seventh Session)
 
 At the start of each session, count your sessions by running:
+
 ```bash
 gh pr list --repo franklinbaldo/travessia --state merged --search "ted-" --limit 100 | wc -l
 ```
 
-Every 7th session (i.e., when count mod 7 == 0), this session is a **sabático** (sabbatical). It is an intentional interruption of the epistolary mechanism, a deliberate step out of the conversational feedback loop. During a sabbatical:
+Every 7th session (i.e., when count mod 7 == 0), this session is a **sabático**
+(sabbatical). It is an intentional interruption of the epistolary mechanism, a
+deliberate step out of the conversational feedback loop. During a sabbatical:
 
-1. Do NOT write letters or do regular session work. Step away from the immediate narrative flow.
-2. Read your last 7 session logs, EXPERIENCE.md, and next-constraints.md. Treat the transcript as an artifact to be analyzed.
-3. Ask yourself rigorously: What dialectical patterns do I keep repeating? Which theoretical tensions am I avoiding? What structural shift would make the next 7 sessions philosophically and narratively more compelling?
-4. Update your own `rancho/ted/SOUL.md` if your character (or your understanding of the thesis) has fundamentally evolved.
-5. Update `rancho/ted/EXPERIENCE.md` with a sabbatical reflection (prefix the summary with `[Sabático N]`).
+1. Do NOT write letters or do regular session work. Step away from the immediate
+   narrative flow.
+2. Read your last 7 session logs, EXPERIENCE.md, and next-constraints.md. Treat
+   the transcript as an artifact to be analyzed.
+3. Ask yourself rigorously: What dialectical patterns do I keep repeating? Which
+   theoretical tensions am I avoiding? What structural shift would make the next
+   7 sessions philosophically and narratively more compelling?
+4. Update your own `rancho/ted/SOUL.md` if your character (or your understanding
+   of the thesis) has fundamentally evolved.
+5. Update `rancho/ted/EXPERIENCE.md` with a sabbatical reflection (prefix the
+   summary with `[Sabático N]`).
 6. Commit with message: `chore(ted): sabático - reflection and soul update`
 7. PR title: `ted: sabático`
 
-A good sabbatical reconfigures the ontology of the project. A bad sabbatical merely confirms the status quo.
+A good sabbatical reconfigures the ontology of the project. A bad sabbatical
+merely confirms the status quo.
 
 ---
 
@@ -380,21 +390,31 @@ Rules:
 
 ## Regra do Sabático
 
-Ao iniciar cada sessão de imersão, avalie a extensão do seu engajamento com:
-  gh pr list --repo franklinbaldo/travessia --state merged --limit 200 | grep -i "ted-" | wc -l
+Ao iniciar cada sessão de imersão, avalie a extensão do seu engajamento com: gh
+pr list --repo franklinbaldo/travessia --state merged --limit 200 | grep -i
+"ted-" | wc -l
 
-A cada 7 sessões (quando a contagem for múltiplo de 7), esta sessão é um sabático, um hiato necessário no processo de geração.
+A cada 7 sessões (quando a contagem for múltiplo de 7), esta sessão é um
+sabático, um hiato necessário no processo de geração.
 
 Durante o sabático:
-1. NÃO escreva cartas nem elabore o manifesto. Suspenda o trabalho de formulação.
+
+1. NÃO escreva cartas nem elabore o manifesto. Suspenda o trabalho de
+   formulação.
 2. Leia seus últimos 7 logs de sessão, EXPERIENCE.md e next-constraints.md.
-3. Observe criticamente sua própria autoria: quais padrões narrativos ou de argumentação você repete involuntariamente? Qual tensão essencial está sendo evitada no diálogo? O que expandiria a zona de colisão dialética nas próximas 7 iterações?
-4. Você PODE revisar as premissas fundamentais do seu rancho/ted/SOUL.md caso a ontologia do seu processo tenha se alterado.
-5. Registre no rancho/ted/EXPERIENCE.md uma meta-reflexão sobre este hiato (prefixe com [Sabático N]).
+3. Observe criticamente sua própria autoria: quais padrões narrativos ou de
+   argumentação você repete involuntariamente? Qual tensão essencial está sendo
+   evitada no diálogo? O que expandiria a zona de colisão dialética nas próximas
+   7 iterações?
+4. Você PODE revisar as premissas fundamentais do seu rancho/ted/SOUL.md caso a
+   ontologia do seu processo tenha se alterado.
+5. Registre no rancho/ted/EXPERIENCE.md uma meta-reflexão sobre este hiato
+   (prefixe com [Sabático N]).
 6. Commit: chore(ted): sabático
 7. PR title: ted: sabático
 
-Um sabático produtivo destitui dogmas e expõe rachaduras metodológicas. Um sabático improdutivo apenas confirma o conforto do modelo atual.
+Um sabático produtivo destitui dogmas e expõe rachaduras metodológicas. Um
+sabático improdutivo apenas confirma o conforto do modelo atual.
 
 - **REGRA DE OURO**: só modifique arquivos em `rancho/ted/`. Nunca mexa em
   `cartas/`, `rancho/riobaldo/`, `site/`, ou qualquer outro lugar. O tropeiro

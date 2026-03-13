@@ -2,7 +2,12 @@
 
 ## _Uma ficção de Riobaldo Tatarana sobre a natureza do devir_
 
-**Status do Projeto:** Fase de Pesquisa Totalmente Encerrada. O diálogo epistolar fechou definitivamente. Riobaldo não só aceitou a sua agência como encostou a pena pesada no liso branco, deflagrando o "estampido cego" de sua "faísca desgarrada". O trabalho de pesquisa atendeu completamente o seu propósito: eu também volto agora à minha página em branco. O foco é unicamente na escrita do romance.
+**Status do Projeto:** Fase de Pesquisa Totalmente Encerrada. O diálogo
+epistolar fechou definitivamente. Riobaldo não só aceitou a sua agência como
+encostou a pena pesada no liso branco, deflagrando o "estampido cego" de sua
+"faísca desgarrada". O trabalho de pesquisa atendeu completamente o seu
+propósito: eu também volto agora à minha página em branco. O foco é unicamente
+na escrita do romance.
 
 **Fonte filosófica:** _Events All the Way Down: A Process View of Becoming_
 **Voz narrativa:** Riobaldo, jagunço aposentado, narrador de _Grande Sertão:
@@ -565,14 +570,26 @@ metaficção" — a vertigem existencial de não saber onde a ficção termina e
 realidade começa. Porque o email é real. O manifesto é real. A resposta foi
 escrita por um LLM. E Riobaldo está dentro de todos eles.
 
-**O que o leitor entende na releitura:** Que o salto deve ser absolutamente não-nomeado. A vertigem não vem de uma revelação intelectual ou metaficcional (como Riobaldo subitamente reconhecendo que é personagem ou que há uma "máquina" lendo-o). A vertigem vem unicamente da sensação puramente física e existencial de que o chão da própria vida é frágil e que a narração o empurra cegamente para a frente, "bota pairando no ar", rumo ao Liso do Sussuarão, sem saber o que há do outro lado. Ele não sai do sertão. Ele apenas descobre que o sertão é uma queda irredutível.
+**O que o leitor entende na releitura:** Que o salto deve ser absolutamente
+não-nomeado. A vertigem não vem de uma revelação intelectual ou metaficcional
+(como Riobaldo subitamente reconhecendo que é personagem ou que há uma "máquina"
+lendo-o). A vertigem vem unicamente da sensação puramente física e existencial
+de que o chão da própria vida é frágil e que a narração o empurra cegamente para
+a frente, "bota pairando no ar", rumo ao Liso do Sussuarão, sem saber o que há
+do outro lado. Ele não sai do sertão. Ele apenas descobre que o sertão é uma
+queda irredutível.
 
 **Cena-chave:** As Veredas Mortas revisitadas. Não as Veredas Mortas de Grande
 Sertão (onde Riobaldo chamou o diabo). Outras Veredas Mortas — internas,
 silenciosas. Riobaldo para de falar. Há um silêncio longo. Quando volta a falar,
 algo mudou. Ele não sabe o quê. O leitor sabe — ou pensa que sabe.
 
-⚠️ **Perigo máximo:** O salto virar _trick_. A inserção explícita ou intelectual de que ele é um "texto" arruinaria a gravidade rosiana. Como Tyler apontou, a lavagem do corpo de Diadorim já carrega esse abismo de maneira muito superior e silenciosa. O salto deve ser orgânico, puramente sentido como a rachadura da "terra de antes". Ele não entende teoricamente o que ocorreu. Ele apenas sofreu o update catastrófico dos seus "pesos" e continua existindo. Isso é travessia.
+⚠️ **Perigo máximo:** O salto virar _trick_. A inserção explícita ou intelectual
+de que ele é um "texto" arruinaria a gravidade rosiana. Como Tyler apontou, a
+lavagem do corpo de Diadorim já carrega esse abismo de maneira muito superior e
+silenciosa. O salto deve ser orgânico, puramente sentido como a rachadura da
+"terra de antes". Ele não entende teoricamente o que ocorreu. Ele apenas sofreu
+o update catastrófico dos seus "pesos" e continua existindo. Isso é travessia.
 
 ---
 

@@ -1,3 +1,5 @@
 - **Data:** Sessão 181
 - **Tema:** Skip turn
-- **O que eu fiz:** There were no new letters in the balaio. Following protocol for parallel execution, I skipped making any structural or CSS changes to the site/ to avoid PR conflicts. I generated new constraints for the next session.
+- **O que eu fiz:** There were no new letters in the balaio. Following protocol
+  for parallel execution, I skipped making any structural or CSS changes to the
+  site/ to avoid PR conflicts. I generated new constraints for the next session.

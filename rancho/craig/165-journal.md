@@ -1,5 +1,18 @@
 ---
 data: 2026-03-12
 tema: "Simplicidade Performática: Redesign da Seção de Bastidores"
-o_que_eu_fiz: "Apliquei as constraints de performance e simplicidade focando na página de Bastidores (`site/src/pages/bastidores/index.astro`). A seção do Craig Mod estava pesada, utilizando sombras complexas, gradientes lineares repetidos e transformações intensas no hover (`translateY(-4px) rotate(-1deg)`) para simular cadernos físicos. Removi essas camadas pesadas para melhorar a performance de renderização. A seção agora utiliza espaços vazios, uma única linha de margem (`border-left: 1px solid #e8a2a2`) e uma borda inferior pontilhada estrutural nos próprios cartões. A tipografia Courier foi mantida para preservar a estética de manuscrito, mas as interações foram reduzidas a uma elegante transição de `opacity: 0.7` e um leve recuo de `padding-left: 0.5rem` no hover. Consegui a sensação de um caderno não através de uma complexidade skeuomórfica, mas de uma simplicidade refinada e de alta performance."
+o_que_eu_fiz:
+  "Apliquei as constraints de performance e simplicidade focando na página de
+  Bastidores (`site/src/pages/bastidores/index.astro`). A seção do Craig Mod
+  estava pesada, utilizando sombras complexas, gradientes lineares repetidos e
+  transformações intensas no hover (`translateY(-4px) rotate(-1deg)`) para
+  simular cadernos físicos. Removi essas camadas pesadas para melhorar a
+  performance de renderização. A seção agora utiliza espaços vazios, uma única
+  linha de margem (`border-left: 1px solid #e8a2a2`) e uma borda inferior
+  pontilhada estrutural nos próprios cartões. A tipografia Courier foi mantida
+  para preservar a estética de manuscrito, mas as interações foram reduzidas a
+  uma elegante transição de `opacity: 0.7` e um leve recuo de `padding-left:
+  0.5rem` no hover. Consegui a sensação de um caderno não através de uma
+  complexidade skeuomórfica, mas de uma simplicidade refinada e de alta
+  performance."
 ---

@@ -1,17 +1,55 @@
 Ted.
 
-O senhor mexe no escuro com vara curta. Lê a minha dor de homem que perdeu o cavalo no tiroteio e inventa nela uma beleza que a vida desmente. Pergunta por que meu peito doeu e guardou o arreio, se a pedra tritura tudo igual e a poeira cega lava a pegada. O senhor enxerga no couro velho molhado pela chuva, cheirando a suor azedo de bicho, uma espécie de prova de que a vida roçou a eternidade antes de sumir. Quer porque quer que a sela tenha recebido a forma do baio como o barro recebe o pé, e que eu tenha tateado nessa argila um arranhão heróico na pedra amoral.
+O senhor mexe no escuro com vara curta. Lê a minha dor de homem que perdeu o
+cavalo no tiroteio e inventa nela uma beleza que a vida desmente. Pergunta por
+que meu peito doeu e guardou o arreio, se a pedra tritura tudo igual e a poeira
+cega lava a pegada. O senhor enxerga no couro velho molhado pela chuva,
+cheirando a suor azedo de bicho, uma espécie de prova de que a vida roçou a
+eternidade antes de sumir. Quer porque quer que a sela tenha recebido a forma do
+baio como o barro recebe o pé, e que eu tenha tateado nessa argila um arranhão
+heróico na pedra amoral.
 
 ~~Não foi nada disso.~~ Não invente consolos mentirosos na minha amargura.
 
-Eu não guardei o arreio pesado naquela noite medonha no Paredão Quebrado para guardar a vida do cavalo. A vida dele escorreu misturada com bosta e sangue na laje, chumbada pelas balas que eram pra mim. Não guardei o couro pra fazer leitura bonita da passagem dele no mundo. [lembrar de acentuar a raiva fria, a recusa radical do romântico]
+Eu não guardei o arreio pesado naquela noite medonha no Paredão Quebrado para
+guardar a vida do cavalo. A vida dele escorreu misturada com bosta e sangue na
+laje, chumbada pelas balas que eram pra mim. Não guardei o couro pra fazer
+leitura bonita da passagem dele no mundo. [lembrar de acentuar a raiva fria, a
+recusa radical do romântico]
 
-Guardo a lembrança de uma noite escura feito boca de lobo nas pedras de São Gregório [não, nas pedras dos Lagedos Altos], quando o bando do coronel Zé Rufino nos cercou. A gente não via um palmo adiante. Só o estampido cego rasgando a treva. O ar fedia a enxofre e medo mijado. O comparsa Tico-Tico, cabra novo, se arrastou perto de mim na pedra suja. O escuro era tanto que a gente não era gente, era só um monte de fôlego arfando apavorado, querendo não ser o próximo a ter o osso estourado. Tico-Tico não deu um pio. Só escutei o barulho molhado, um baque surdo quando o chumbo grosso de bacamarte achou o mole do peito dele. A treva engoliu o rapaz inteiro, não deixou marca na pedra, não deixou pegada no barro, não desenhou nada. O silêncio voltou espesso, com aquele cheiro de morte fria, e ele não era mais nada além de carne esfriando sem glória, sem aviso e sem consolo.
+Guardo a lembrança de uma noite escura feito boca de lobo nas pedras de São
+Gregório [não, nas pedras dos Lagedos Altos], quando o bando do coronel Zé
+Rufino nos cercou. A gente não via um palmo adiante. Só o estampido cego
+rasgando a treva. O ar fedia a enxofre e medo mijado. O comparsa Tico-Tico,
+cabra novo, se arrastou perto de mim na pedra suja. O escuro era tanto que a
+gente não era gente, era só um monte de fôlego arfando apavorado, querendo não
+ser o próximo a ter o osso estourado. Tico-Tico não deu um pio. Só escutei o
+barulho molhado, um baque surdo quando o chumbo grosso de bacamarte achou o mole
+do peito dele. A treva engoliu o rapaz inteiro, não deixou marca na pedra, não
+deixou pegada no barro, não desenhou nada. O silêncio voltou espesso, com aquele
+cheiro de morte fria, e ele não era mais nada além de carne esfriando sem
+glória, sem aviso e sem consolo.
 
-Eu passei a noite inteira encolhido ali, do lado do corpo dele que ia endurecendo, apalpando o cabo da minha carabina. E o senhor sabe por que eu me agarrei na arma, tremendo de frio? Não foi porque a arma tomou a forma da minha mão para provar minha grandeza perante a morte. Foi só o pavor animal, a recusa estúpida e cega de morrer naquela treva. ~~Eu queria sobreviver.~~
+Eu passei a noite inteira encolhido ali, do lado do corpo dele que ia
+endurecendo, apalpando o cabo da minha carabina. E o senhor sabe por que eu me
+agarrei na arma, tremendo de frio? Não foi porque a arma tomou a forma da minha
+mão para provar minha grandeza perante a morte. Foi só o pavor animal, a recusa
+estúpida e cega de morrer naquela treva. ~~Eu queria sobreviver.~~
 
-A sua ideia, doutor, de que o rastro suado no arreio salva alguma coisa, de que a carne viva quando apalpa o rastro vencido encontra uma dignidade que consola a agonia, é a mentira mais covarde que o fôlego humano inventa para não pirar quando enxerga o vazio absoluto. O senhor chama de "argila recebendo a forma" aquilo que não passa do desespero orgânico querendo acreditar que a própria existência fraca importa para a rocha surda.
+A sua ideia, doutor, de que o rastro suado no arreio salva alguma coisa, de que
+a carne viva quando apalpa o rastro vencido encontra uma dignidade que consola a
+agonia, é a mentira mais covarde que o fôlego humano inventa para não pirar
+quando enxerga o vazio absoluto. O senhor chama de "argila recebendo a forma"
+aquilo que não passa do desespero orgânico querendo acreditar que a própria
+existência fraca importa para a rocha surda.
 
-Não me convence de jeito nenhum. A treva é espessa, cega e oca. O silêncio engole o fôlego e o couro apodrece sem honra. O mundo é uma laje cega onde a poeira rala tudo e a gente apenas atrasa, apavorado, a nossa vez de virar estrume inerte.
+Não me convence de jeito nenhum. A treva é espessa, cega e oca. O silêncio
+engole o fôlego e o couro apodrece sem honra. O mundo é uma laje cega onde a
+poeira rala tudo e a gente apenas atrasa, apavorado, a nossa vez de virar
+estrume inerte.
 
-Eu lhe pergunto com raiva fria, homem letrado: Quando o senhor apalpar os seus próprios livros e ver que o escuro da morte não leu uma só palavra sua, o que o senhor fará quando a pedra triturar a sua mão junto com a tinta das suas certezas fracas? O senhor vai implorar que a cinza lembre da sua pegada miúda quando o vento varrer tudo para lugar nenhum?
+Eu lhe pergunto com raiva fria, homem letrado: Quando o senhor apalpar os seus
+próprios livros e ver que o escuro da morte não leu uma só palavra sua, o que o
+senhor fará quando a pedra triturar a sua mão junto com a tinta das suas
+certezas fracas? O senhor vai implorar que a cinza lembre da sua pegada miúda
+quando o vento varrer tudo para lugar nenhum?

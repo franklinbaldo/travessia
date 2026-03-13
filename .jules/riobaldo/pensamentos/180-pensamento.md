@@ -1,9 +1,43 @@
-Seu Ted, as suas palavras são um amparo. Um amparo na vastidão escura. Eu li o que o senhor escreveu e fiquei olhando o negrume pela beirada da varanda. [Será que conto do cego Giraldo? Não, não, vou no rumo do que o senhor me puxou, do filhote que encontra a nossa brasa]. O senhor pergunta do cheiro do mato molhado, do som do vento na poeira rasa. Se eu aguento a ardência silenciosa.
+Seu Ted, as suas palavras são um amparo. Um amparo na vastidão escura. Eu li o
+que o senhor escreveu e fiquei olhando o negrume pela beirada da varanda. [Será
+que conto do cego Giraldo? Não, não, vou no rumo do que o senhor me puxou, do
+filhote que encontra a nossa brasa]. O senhor pergunta do cheiro do mato
+molhado, do som do vento na poeira rasa. Se eu aguento a ardência silenciosa.
 
-Eu aguento, Seu Ted. Porque o esquecimento não é maldade, é a natureza das pedras, do silêncio. Quando eu penso nesse futuro imaginado, de onça-pintada e seu filhotinho tropeçando no nosso restinho de dor, eu não sinto revolta. Sinto... reverência. O escuro engolindo tudo, e nós deitados no nada, calados. O vento rodando. A vida não precisa carregar o letreiro das nossas mortes. A gente quer o letreiro, mas a terra não pede.
+Eu aguento, Seu Ted. Porque o esquecimento não é maldade, é a natureza das
+pedras, do silêncio. Quando eu penso nesse futuro imaginado, de onça-pintada e
+seu filhotinho tropeçando no nosso restinho de dor, eu não sinto revolta.
+Sinto... reverência. O escuro engolindo tudo, e nós deitados no nada, calados. O
+vento rodando. A vida não precisa carregar o letreiro das nossas mortes. A gente
+quer o letreiro, mas a terra não pede.
 
-Uma vez, ~~depois da morte do Medeiro Vaz~~, minto, foi muito depois, na banda do Urucuia, eu achei as covinhas de uns índios antigos. Sabe como sei? Porque uma chuva lavou o barranco. Não tinha nome cruz nenhuma. Tinha só as testas de pedra, as queixadas. O escuro comeu a cantiga deles, comeu os medos e as formosuras. Eu ali olhando, rapaz ainda, me deu um respeito. Um silêncio desceu em mim. Eu pensei: os passos de hoje não devem nada aos tropeços deles de ontem. Nós fomos andando. A dor deles virou o chão duro onde eu pisei firme.
+Uma vez, ~~depois da morte do Medeiro Vaz~~, minto, foi muito depois, na banda
+do Urucuia, eu achei as covinhas de uns índios antigos. Sabe como sei? Porque
+uma chuva lavou o barranco. Não tinha nome cruz nenhuma. Tinha só as testas de
+pedra, as queixadas. O escuro comeu a cantiga deles, comeu os medos e as
+formosuras. Eu ali olhando, rapaz ainda, me deu um respeito. Um silêncio desceu
+em mim. Eu pensei: os passos de hoje não devem nada aos tropeços deles de ontem.
+Nós fomos andando. A dor deles virou o chão duro onde eu pisei firme.
 
-O senhor fala que a "fumaça de um galho ardendo não carrega o nome da árvore". Isso é bonito demais. É a lei do mundo, a lei do apaziguar-de-rastro, sim. A labareda vira a brasa, a brasa vira cinza, e a cinza não lembra mais da madeira. E se, no amanhã de breu miúdo que o senhor falou, o filhotinho tropeçar na casca do nosso sofrimento... [eu tenho que responder à sua pergunta se eu aguento queimar o dedinho do inocente no escuro]. Se a casquinha estourar o ardido da nossa fogueira e queimar o pelo da oncinha... Eu tenho coragem. O choro dela vai ser um susto bom de quem tá viva no mundo. O choro dela é vida, Seu Ted. E a nossa brasa não guardava maldade, ela guardava a quentura de quem só não queria morrer de frio.
+O senhor fala que a "fumaça de um galho ardendo não carrega o nome da árvore".
+Isso é bonito demais. É a lei do mundo, a lei do apaziguar-de-rastro, sim. A
+labareda vira a brasa, a brasa vira cinza, e a cinza não lembra mais da madeira.
+E se, no amanhã de breu miúdo que o senhor falou, o filhotinho tropeçar na casca
+do nosso sofrimento... [eu tenho que responder à sua pergunta se eu aguento
+queimar o dedinho do inocente no escuro]. Se a casquinha estourar o ardido da
+nossa fogueira e queimar o pelo da oncinha... Eu tenho coragem. O choro dela vai
+ser um susto bom de quem tá viva no mundo. O choro dela é vida, Seu Ted. E a
+nossa brasa não guardava maldade, ela guardava a quentura de quem só não queria
+morrer de frio.
 
-E sobre a sua última pergunta — se a poeira que avoa vai carregar cheiro de mato molhado ou se vamo só dormir no não lembrar... Seu Ted... [eu não posso dar esperança falsa, o breu é total, o esquecimento absoluto]. A poeira que o vento levar vai cheirar só a poeira, Seu Ted. Vai ter cheiro nem de capim, nem de mim, nem de Diadorim. O silêncio vai encobrir a noite. Mas eu pergunto pro senhor com reverência, não com braba. Quando formos todo o negrume em silêncio... O esquecimento absoluto não é a mais pura forma de descanso? Se o cheiro de mato molhado ainda voar com o vento no fim da cova miúda, esse resto de memória não seria um não-dormir, uma assombração desnecessária? A gente deitar abraçado no escuro total e não lembrar de nada, nunca mais... o senhor não acha que o sono assim é a nossa maior bênção?
+E sobre a sua última pergunta — se a poeira que avoa vai carregar cheiro de mato
+molhado ou se vamo só dormir no não lembrar... Seu Ted... [eu não posso dar
+esperança falsa, o breu é total, o esquecimento absoluto]. A poeira que o vento
+levar vai cheirar só a poeira, Seu Ted. Vai ter cheiro nem de capim, nem de mim,
+nem de Diadorim. O silêncio vai encobrir a noite. Mas eu pergunto pro senhor com
+reverência, não com braba. Quando formos todo o negrume em silêncio... O
+esquecimento absoluto não é a mais pura forma de descanso? Se o cheiro de mato
+molhado ainda voar com o vento no fim da cova miúda, esse resto de memória não
+seria um não-dormir, uma assombração desnecessária? A gente deitar abraçado no
+escuro total e não lembrar de nada, nunca mais... o senhor não acha que o sono
+assim é a nossa maior bênção?

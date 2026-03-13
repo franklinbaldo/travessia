@@ -18,9 +18,9 @@
   --progress-start: #ff3300;
   --progress-end: #000000;
 
-  --font-body: 'Cormorant Garamond', 'Times New Roman', Times, serif;
-  --font-ted: 'Cormorant Garamond', 'Times New Roman', Times, serif;
-  --font-meta: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --font-body: "Cormorant Garamond", "Times New Roman", Times, serif;
+  --font-ted: "Cormorant Garamond", "Times New Roman", Times, serif;
+  --font-meta: "Helvetica Neue", Helvetica, Arial, sans-serif;
 
   --max-width: 95vw;
   --body-size: 26px;
@@ -177,12 +177,8 @@ h3 {
   margin: 2rem 0 2rem;
 }
 
-
-
 .letterpress {
 }
-
-
 
 p {
   margin: 0 0 3.5rem 0;
@@ -220,8 +216,6 @@ ul li::before {
   top: 0.1em;
   opacity: 0.8;
 }
-
-
 
 ol {
   list-style-type: decimal;
@@ -322,15 +316,11 @@ s::after {
   pointer-events: none;
 }
 
-
-
 mark {
   background-color: transparent;
   padding: 0 0.2em;
   border-radius: 0;
 }
-
-
 
 hr {
   border: none;
@@ -355,13 +345,17 @@ a:hover {
   color: var(--accent-color);
 }
 
-p a, blockquote a, li a {
+p a,
+blockquote a,
+li a {
   color: var(--text-color);
   text-decoration: underline;
   text-underline-offset: 4px;
 }
 
-p a:hover, blockquote a:hover, li a:hover {
+p a:hover,
+blockquote a:hover,
+li a:hover {
   color: var(--accent-color);
 }
 
@@ -485,7 +479,6 @@ nav a.logo:hover {
   border-radius: 0;
   border-left: 2px solid var(--text-color);
   text-decoration: none;
-
 }
 
 .footer-nav-link::before {
@@ -513,8 +506,6 @@ nav a.logo:hover {
 
   opacity: 1;
 }
-
-
 
 .footer-nav-link.next {
   text-align: right;
@@ -658,8 +649,6 @@ pre {
   position: relative;
 }
 
-
-
 pre code {
   background: none;
   padding: 0;
@@ -671,13 +660,11 @@ pre code {
 
 body,
 body * {
-
 }
 
 @media (prefers-reduced-motion: reduce) {
   body,
   body * {
-
   }
   html {
     scroll-behavior: auto;
@@ -693,10 +680,7 @@ body * {
   width: 0;
   height: 3px;
   z-index: 1000;
-
 }
-
-
 
 /* === Back to Top === */
 
@@ -717,7 +701,6 @@ body * {
   cursor: auto; /* Simplicity constraint: default cursors */
   opacity: 0;
   visibility: hidden;
-
 
   pointer-events: none;
   z-index: 100;
@@ -744,12 +727,7 @@ body * {
   background: var(--water-bg);
   border-color: var(--water-border);
   color: var(--text-color);
-
 }
-
-
-
-
 
 @media (max-width: 600px) {
   #back-to-top {
@@ -771,7 +749,6 @@ body * {
   text-align: center;
   margin: 4rem 0 2rem;
   opacity: 0.7;
-
 }
 
 .footer-art img {
@@ -823,8 +800,6 @@ body * {
   background-color: var(--text-color);
 }
 
-
-
 .manuscrito-header h1 {
   font-size: clamp(2.5rem, 5vw, 4rem);
   color: var(--text-color);
@@ -834,8 +809,6 @@ body * {
   font-family: var(--font-body);
   letter-spacing: 0.02em;
 }
-
-
 
 .manuscrito-header h2 {
   font-size: 1.5rem;
@@ -903,9 +876,6 @@ body * {
   background-color: transparent;
 }
 
-
-
-
 .manuscrito-body img {
   border-radius: 0;
   max-width: 100%;
@@ -915,12 +885,9 @@ body * {
   padding: 0.5rem;
   background: var(--bg-color);
   border: 2px solid var(--text-color);
-
-
 }
 
 .manuscrito-body img:hover {
-
   border-radius: 0;
 
   filter: contrast(120%) saturate(0) sepia(100%) hue-rotate(-50deg);
@@ -929,8 +896,6 @@ body * {
 [data-theme="dark"] .manuscrito-body img {
   background: var(--sand-bg);
 }
-
-
 
 /* === Bastidores Index === */
 
@@ -978,17 +943,12 @@ body * {
 
   text-decoration: none;
   border-left: 2px solid var(--text-color);
-
 }
 
-
-
 .bastidores-card:nth-child(odd) {
-
 }
 
 .bastidores-card:nth-child(even) {
-
 }
 
 .bastidores-card:hover {
@@ -996,8 +956,6 @@ body * {
 
   opacity: 1;
 }
-
-
 
 .bastidores-card-rio {
   border-left-color: var(--secondary-color);
@@ -1073,17 +1031,10 @@ body * {
 
   position: relative;
   max-width: 95%;
-
 }
 
 .admonition:hover {
-
-
 }
-
-
-
-
 
 .admonition-title {
   font-family: var(--font-meta);
@@ -1188,8 +1139,6 @@ main.home-layout {
   color: var(--bg-color);
 }
 
-
-
 .hero-quote {
   font-size: clamp(0.95rem, 1.4vw, 1.15rem);
   color: var(--bg-color);
@@ -1226,12 +1175,10 @@ main.home-layout {
   text-transform: uppercase;
   border-radius: 0;
   background: var(--sand-bg);
-
 }
 
 .badge-riobaldo {
   color: var(--secondary-color);
-
 }
 
 .badge-ted {
@@ -1290,8 +1237,6 @@ main.home-layout {
   border-radius: 0;
   cursor: auto; /* Simplicity constraint: default cursors */
   white-space: nowrap;
-
-
 }
 
 .vereda:hover {
@@ -1315,8 +1260,6 @@ main.home-layout {
   background: var(--text-color);
   border-color: var(--text-color);
   color: var(--bg-color);
-
-
 }
 
 /* === Blog Feed — Masonry Layout === */
@@ -1330,7 +1273,6 @@ main.home-layout {
   border-top: 4px solid var(--text-color);
   padding-top: 4rem;
 }
-
 
 @media (max-width: 600px) {
   .blog-feed {
@@ -1426,7 +1368,6 @@ main.home-layout {
   padding: 0.2rem 0.55rem;
   border-radius: 0;
   margin-bottom: 0.75rem;
-
 }
 
 .tipo-carta {
@@ -1463,10 +1404,6 @@ main.home-layout {
   background-color: transparent !important;
   background-image: none !important;
 }
-
-
-
-
 
 .card-subtitulo {
   color: var(--accent-color);
@@ -1539,8 +1476,6 @@ main.home-layout {
   padding-bottom: 0.1rem;
 }
 
-
-
 /* === Carta Author Badge (reading page) === */
 
 .carta-autor-badge {
@@ -1572,14 +1507,18 @@ main.home-layout {
 }
 
 /* Microinteração: Revista Literária Sublinhado Elegante */
-.autor-badge, .character-badge {
+.autor-badge,
+.character-badge {
   position: relative;
   overflow: hidden;
-  transition: color 0.3s ease, background-color 0.3s ease;
+  transition:
+    color 0.3s ease,
+    background-color 0.3s ease;
 }
 
-.autor-badge::before, .character-badge::before {
-  content: '';
+.autor-badge::before,
+.character-badge::before {
+  content: "";
   position: absolute;
   bottom: 0;
   left: 0;
@@ -1592,12 +1531,14 @@ main.home-layout {
   z-index: 0;
 }
 
-.autor-badge:hover::before, .character-badge:hover::before {
+.autor-badge:hover::before,
+.character-badge:hover::before {
   transform: scaleX(1);
   transform-origin: left center;
 }
 
-.autor-badge span, .character-badge span {
+.autor-badge span,
+.character-badge span {
   position: relative;
   z-index: 1;
 }
@@ -1617,26 +1558,18 @@ main.home-layout {
   font-size: 0.75rem;
   text-transform: uppercase;
   letter-spacing: 0.06em;
-
-
 }
 
 .correspondence-context:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-
-
 }
-
-
 
 [data-theme="dark"] .correspondence-context:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-
-
 }
 
 .correspondence-flow {
@@ -1710,7 +1643,10 @@ main.home-layout {
   font-size: 0.75rem;
   font-weight: 600;
   text-decoration: none;
-  transition: width 0.4s cubic-bezier(0.19, 1, 0.22, 1), background-color 0.3s ease, color 0.3s ease;
+  transition:
+    width 0.4s cubic-bezier(0.19, 1, 0.22, 1),
+    background-color 0.3s ease,
+    color 0.3s ease;
   overflow: hidden;
   white-space: nowrap;
 }
@@ -1744,8 +1680,6 @@ main.home-layout {
   color: var(--bg-color);
   border-color: var(--text-color);
   font-weight: 700;
-
-
 }
 
 [data-theme="dark"] .timeline-dot.current {
@@ -1774,8 +1708,6 @@ main.home-layout {
   width: 5rem;
 }
 .timeline-dot:active {
-
-
 }
 
 @media (max-width: 600px) {
@@ -1794,8 +1726,6 @@ main.home-layout {
     font-size: 0.75rem;
     font-weight: 600;
     text-decoration: none;
-
-
   }
 }
 
@@ -1817,19 +1747,11 @@ main.home-layout {
 }
 
 .blog-card:active {
-
-
 }
 .vereda:active {
-
-
 }
 .timeline-dot:active {
-
-
 }
-
-
 
 .card-tipo:hover,
 .autor-badge:hover {
@@ -1839,16 +1761,17 @@ main.home-layout {
   transform: scale(1.05) rotate(-1deg);
 }
 
-
 /* Author hover overrides */
 
-.timeline-dot.ted:hover, .timeline-dot.ted.current {
+.timeline-dot.ted:hover,
+.timeline-dot.ted.current {
   background-color: var(--meta-color);
   color: var(--bg-color);
   border-color: var(--meta-color);
 }
 
-.timeline-dot.rio:hover, .timeline-dot.rio.current {
+.timeline-dot.rio:hover,
+.timeline-dot.rio.current {
   background-color: var(--accent-color);
   color: var(--bg-color);
   border-color: var(--accent-color);
@@ -1861,8 +1784,11 @@ a {
   transition: color 0.3s ease;
 }
 
-main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo)::after {
-  content: '';
+main
+  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+    .correspondence-context
+  ):not(.logo)::after {
+  content: "";
   position: absolute;
   bottom: -2px;
   left: 0;
@@ -1872,19 +1798,24 @@ main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-conte
   transition: width 0.3s cubic-bezier(0.19, 1, 0.22, 1);
 }
 
-main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo):hover::after {
+main
+  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+    .correspondence-context
+  ):not(.logo):hover::after {
   width: 100%;
 }
 
 .logo::after {
-  content: '';
+  content: "";
   position: absolute;
   bottom: -5px;
   left: 50%;
   width: 0;
   height: 6px;
   background-color: var(--accent-color);
-  transition: width 0.5s cubic-bezier(0.19, 1, 0.22, 1), left 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+  transition:
+    width 0.5s cubic-bezier(0.19, 1, 0.22, 1),
+    left 0.5s cubic-bezier(0.19, 1, 0.22, 1);
 }
 
 .logo:hover::after {
@@ -1892,18 +1823,23 @@ main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-conte
   left: 0;
 }
 
-
 /* === Microinteractions: Manuscrito/Caderno === */
 
 /* Highlighting effect for text links (like a marker pen) */
-main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo) {
+main
+  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+    .correspondence-context
+  ):not(.logo) {
   position: relative;
   text-decoration: none;
   z-index: 1;
 }
 
-main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo)::after {
-  content: '';
+main
+  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+    .correspondence-context
+  ):not(.logo)::after {
+  content: "";
   position: absolute;
   bottom: 0;
   left: 0;
@@ -1912,11 +1848,16 @@ main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-conte
   background-color: var(--accent-color);
   opacity: 0.3;
   z-index: -1;
-  transition: height 0.2s ease, opacity 0.2s ease;
+  transition:
+    height 0.2s ease,
+    opacity 0.2s ease;
   transform-origin: bottom;
 }
 
-main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo):hover::after {
+main
+  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+    .correspondence-context
+  ):not(.logo):hover::after {
   height: 100%;
   opacity: 0.2;
 }
@@ -1949,7 +1890,7 @@ main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-conte
 }
 
 .timeline-dot::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 50%;
   left: 50%;
@@ -1958,7 +1899,9 @@ main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-conte
   background-color: var(--text-color);
   border-radius: 50%;
   transform: translate(-50%, -50%);
-  transition: width 0.4s ease-out, height 0.4s ease-out;
+  transition:
+    width 0.4s ease-out,
+    height 0.4s ease-out;
   z-index: -1;
   opacity: 0.1;
 }
@@ -1975,5 +1918,5 @@ main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-conte
 
 .blog-card:hover {
   transform: translateY(-2px) rotate(0.5deg);
-  box-shadow: 2px 4px 10px rgba(0,0,0,0.05);
+  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.05);
 }

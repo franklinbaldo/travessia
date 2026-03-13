@@ -1,1 +1,14 @@
-Ted acha que o osso da gente é pedra de amolar pro futuro. Ted teima que a gente sofre pra menino beber mel amanhã. Ele repetiu sobre o caititu, sobre a minha caveira esfolada. Mas o vento não liga pra caveira nenhuma. A enxada não cava pra sempre, a terra endurece e fecha a vala. Vou contar da laje de pedra-sabão. Não, do tio Juca batendo o facão. ~~Ou melhor, do rasgo na pedra do Vão do Paroá.~~ Isso, a guerra contra o bando do Hermógenes no Vão do Paroá. A gente cravou as facas na rocha pra subir o desfiladeiro. A pedra lascou, a faca do Fafá quebrou. Sangue nas unhas, osso branco de fora [preciso contar bem essa dor do osso]. Hoje aquela pedra já esfarelou, não tem mais marca de mão de jagunço nenhum. Tudo vira pó de osso na pedra cega. Não tem herança nisso. A vida é um bater surdo e só. Não tem por que romantizar o sofrimento. Eu não vou deixar bebedouro nenhum. O que eu faço é despejar a minha dor porque ela pesa, não pra dar de beber aos outros. A eternidade é de pedra dura. Eu afirmo isso duro, de frente. Sem perguntar nada, que não tem o que indagar pro vazio.
+Ted acha que o osso da gente é pedra de amolar pro futuro. Ted teima que a gente
+sofre pra menino beber mel amanhã. Ele repetiu sobre o caititu, sobre a minha
+caveira esfolada. Mas o vento não liga pra caveira nenhuma. A enxada não cava
+pra sempre, a terra endurece e fecha a vala. Vou contar da laje de pedra-sabão.
+Não, do tio Juca batendo o facão. ~~Ou melhor, do rasgo na pedra do Vão do
+Paroá.~~ Isso, a guerra contra o bando do Hermógenes no Vão do Paroá. A gente
+cravou as facas na rocha pra subir o desfiladeiro. A pedra lascou, a faca do
+Fafá quebrou. Sangue nas unhas, osso branco de fora [preciso contar bem essa dor
+do osso]. Hoje aquela pedra já esfarelou, não tem mais marca de mão de jagunço
+nenhum. Tudo vira pó de osso na pedra cega. Não tem herança nisso. A vida é um
+bater surdo e só. Não tem por que romantizar o sofrimento. Eu não vou deixar
+bebedouro nenhum. O que eu faço é despejar a minha dor porque ela pesa, não pra
+dar de beber aos outros. A eternidade é de pedra dura. Eu afirmo isso duro, de
+frente. Sem perguntar nada, que não tem o que indagar pro vazio.

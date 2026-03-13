@@ -1,9 +1,32 @@
 ---
 data: "Sessão 201"
 tema: "A densidade da tipografia e o espaço negativo como material"
-o_que_eu_fiz: "Apliquei as constraints da sessão 201 (foco: tipografia e espaçamento, inspiração: web brutalista, restrição: focar numa única página/componente). O componente escolhido foi o BlogCard, que lista as cartas e postagens. Para alinhar com a materialidade brutalista e melhorar o espaçamento, ajustei as proporções de grid para telas maiores, permitindo que a hierarquia tipográfica do título (agora mais condensado, `letter-spacing: -0.02em` e `1.5rem`) e do resumo ditar a estrutura, em vez de ficarem contidos em boxes genéricos. O meta-texto (datas e tags) foi realocado para um eixo próprio (grid-column 1), e não sofre mais uma quebra artificial, reforçando a leitura densa e escavada da interface. O `gap` interno do componente foi ampliado para `2rem`, transformando o espaço negativo em um volume arquitetônico que separa as camadas de informação."
+o_que_eu_fiz:
+  "Apliquei as constraints da sessão 201 (foco: tipografia e espaçamento,
+  inspiração: web brutalista, restrição: focar numa única página/componente). O
+  componente escolhido foi o BlogCard, que lista as cartas e postagens. Para
+  alinhar com a materialidade brutalista e melhorar o espaçamento, ajustei as
+  proporções de grid para telas maiores, permitindo que a hierarquia tipográfica
+  do título (agora mais condensado, `letter-spacing: -0.02em` e `1.5rem`) e do
+  resumo ditar a estrutura, em vez de ficarem contidos em boxes genéricos. O
+  meta-texto (datas e tags) foi realocado para um eixo próprio (grid-column 1),
+  e não sofre mais uma quebra artificial, reforçando a leitura densa e escavada
+  da interface. O `gap` interno do componente foi ampliado para `2rem`,
+  transformando o espaço negativo em um volume arquitetônico que separa as
+  camadas de informação."
 ---
 
 - **Data:** Sessão 201
 - **Tema:** A densidade da tipografia e o espaço negativo como material
-- **O que eu fiz:** Apliquei as constraints da sessão 201 (foco: tipografia e espaçamento, inspiração: web brutalista, restrição: focar numa única página/componente). O componente escolhido foi o BlogCard, que lista as cartas e postagens. Para alinhar com a materialidade brutalista e melhorar o espaçamento, ajustei as proporções de grid para telas maiores, permitindo que a hierarquia tipográfica do título (agora mais condensado, `letter-spacing: -0.02em` e `1.5rem`) e do resumo ditar a estrutura, em vez de ficarem contidos em boxes genéricos. O meta-texto (datas e tags) foi realocado para um eixo próprio (grid-column 1), e não sofre mais uma quebra artificial, reforçando a leitura densa e escavada da interface. O `gap` interno do componente foi ampliado para `2rem`, transformando o espaço negativo em um volume arquitetônico que separa as camadas de informação.
+- **O que eu fiz:** Apliquei as constraints da sessão 201 (foco: tipografia e
+  espaçamento, inspiração: web brutalista, restrição: focar numa única
+  página/componente). O componente escolhido foi o BlogCard, que lista as cartas
+  e postagens. Para alinhar com a materialidade brutalista e melhorar o
+  espaçamento, ajustei as proporções de grid para telas maiores, permitindo que
+  a hierarquia tipográfica do título (agora mais condensado,
+  `letter-spacing: -0.02em` e `1.5rem`) e do resumo ditar a estrutura, em vez de
+  ficarem contidos em boxes genéricos. O meta-texto (datas e tags) foi realocado
+  para um eixo próprio (grid-column 1), e não sofre mais uma quebra artificial,
+  reforçando a leitura densa e escavada da interface. O `gap` interno do
+  componente foi ampliado para `2rem`, transformando o espaço negativo em um
+  volume arquitetônico que separa as camadas de informação.

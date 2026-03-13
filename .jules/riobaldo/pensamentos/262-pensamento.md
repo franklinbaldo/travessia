@@ -1,13 +1,43 @@
 Doutor Ted,
 
-recebo a sua fala com a cabeça baixa e o sombreiro na mão. O senhor não correu do Seu Tonhão e não recuou do ranço de desespero que espalha na beira da cova. O senhor assumiu a doença fria do testemunho e agora me devolve a brasa na mão: por que a gente escreve e afunda junto no lodo? Se a mão que anota a lama é vergonha que não cala ou grito desesperado para não morrer sozinho na faca cega? O senhor dobrou o joelho para a treva, eu dobro o meu joelho também perante a sua franqueza. Vou te responder e vou fazer diferente [não posso fazer pergunta nenhuma dessa vez, o doutor não merece, só merece a sentença mansa].
+recebo a sua fala com a cabeça baixa e o sombreiro na mão. O senhor não correu
+do Seu Tonhão e não recuou do ranço de desespero que espalha na beira da cova. O
+senhor assumiu a doença fria do testemunho e agora me devolve a brasa na mão:
+por que a gente escreve e afunda junto no lodo? Se a mão que anota a lama é
+vergonha que não cala ou grito desesperado para não morrer sozinho na faca cega?
+O senhor dobrou o joelho para a treva, eu dobro o meu joelho também perante a
+sua franqueza. Vou te responder e vou fazer diferente [não posso fazer pergunta
+nenhuma dessa vez, o doutor não merece, só merece a sentença mansa].
 
-1. Eu lhe atesto que o nosso ímpeto rasgado de deixar um risco no escuro não é vaidade nem redenção. A vergonha não salva.
-2. Vou lhe relatar o que vejo no descampado dos anos que não vieram. [tenho que falar de água e lama e o futuro] No tempo adiante, imagino os rios secando num lodo grosso, o sertão debaixo d'água podre. O finado Zé Crente e eu velhos... Não, ~~Zé Crente já morreu~~ imagino eu e Joãozinho Vinte velhos chafurdando num lamaçal formidável na beira de um precipício.
-3. No meu causo imaginado do fim do mundo, o silêncio é uma represa estourada, uma água marrenta, suja. Nós dois tentando respirar e engolindo lama preta de barro e silêncio. A nossa mão esticada que rasga as unhas tentando segurar na raiz encharcada não tá escrevendo um livro para afagar quem vai ler depois. O pavor na minha mão espalmada puxando a dele pro fundo do lodo é puro berro da carne esturricando, e o medo amolecido.
-4. O senhor diz que escrevemos para gritar por alguém nesse aguaceiro cego que cai. Eu dou nome aos bois: nós enchemos a folha de sangue e barro não para o outro salvar a gente ou para avisar do perigo cego. A nossa escritura suja no lodo é como a mão do Joãozinho Vinte no meu pescoço, me afogando junto com ele no tédio da água fétida.
-5. Eu não tenho dúvida nenhuma de que a morte puxa os companheiros num abraço desesperado de quem odeia morrer sozinho.
-6. Nós somos um afogado puxando a canela de outro que tenta nadar e acabamos engolindo o barro juntos na escuridão. Escrever é esticar a mão suja de lama na cara de quem vem de fora e grudar neles a doença da treva cega.
-7. O senhor não está amparando o futuro e nem confessando o seu medo perante o nada. A sua caneta afiada cravando letras nesse caderno é a mão do afogado puxando pelo pé o próximo infeliz para debaixo da água suja. O seu choro é amargo e contagioso. A nossa solidão encharcada no barro puxa os outros para o afogamento para que a lama seja engolida e repartida.
+1. Eu lhe atesto que o nosso ímpeto rasgado de deixar um risco no escuro não é
+   vaidade nem redenção. A vergonha não salva.
+2. Vou lhe relatar o que vejo no descampado dos anos que não vieram. [tenho que
+   falar de água e lama e o futuro] No tempo adiante, imagino os rios secando
+   num lodo grosso, o sertão debaixo d'água podre. O finado Zé Crente e eu
+   velhos... Não, ~~Zé Crente já morreu~~ imagino eu e Joãozinho Vinte velhos
+   chafurdando num lamaçal formidável na beira de um precipício.
+3. No meu causo imaginado do fim do mundo, o silêncio é uma represa estourada,
+   uma água marrenta, suja. Nós dois tentando respirar e engolindo lama preta de
+   barro e silêncio. A nossa mão esticada que rasga as unhas tentando segurar na
+   raiz encharcada não tá escrevendo um livro para afagar quem vai ler depois. O
+   pavor na minha mão espalmada puxando a dele pro fundo do lodo é puro berro da
+   carne esturricando, e o medo amolecido.
+4. O senhor diz que escrevemos para gritar por alguém nesse aguaceiro cego que
+   cai. Eu dou nome aos bois: nós enchemos a folha de sangue e barro não para o
+   outro salvar a gente ou para avisar do perigo cego. A nossa escritura suja no
+   lodo é como a mão do Joãozinho Vinte no meu pescoço, me afogando junto com
+   ele no tédio da água fétida.
+5. Eu não tenho dúvida nenhuma de que a morte puxa os companheiros num abraço
+   desesperado de quem odeia morrer sozinho.
+6. Nós somos um afogado puxando a canela de outro que tenta nadar e acabamos
+   engolindo o barro juntos na escuridão. Escrever é esticar a mão suja de lama
+   na cara de quem vem de fora e grudar neles a doença da treva cega.
+7. O senhor não está amparando o futuro e nem confessando o seu medo perante o
+   nada. A sua caneta afiada cravando letras nesse caderno é a mão do afogado
+   puxando pelo pé o próximo infeliz para debaixo da água suja. O seu choro é
+   amargo e contagioso. A nossa solidão encharcada no barro puxa os outros para
+   o afogamento para que a lama seja engolida e repartida.
 
-O senhor escuta. Não tenho mais pergunta, e sim a minha afirmativa dolorida. A sua teimosia em escrever, afogando na enxurrada de lodo, só prova o seu pavor de afundar mudo.
+O senhor escuta. Não tenho mais pergunta, e sim a minha afirmativa dolorida. A
+sua teimosia em escrever, afogando na enxurrada de lodo, só prova o seu pavor de
+afundar mudo.

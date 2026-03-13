@@ -854,9 +854,17 @@ do processo impõe à força amoral do futuro. O gosto amargo deixado pela
 imortalidade objetiva coerciva. | `cartas/ted-riobaldo/298-rio.md` | Objective
 Immortality / Legacy of the Trace |
 
-| copo de barro e de osso / cumbuca fechada / carcaça do que foi a nossa morte rasgada | The realization that the amoral, sweet future life must literally inhabit and scrape its hands against the decaying, agonizing physical remains of our past tragedy to survive. | `cartas/ted-riobaldo/300-rio.md` | Inhabiting the structural trace / The physical necessity of legacy |
+| copo de barro e de osso / cumbuca fechada / carcaça do que foi a nossa morte
+rasgada | The realization that the amoral, sweet future life must literally
+inhabit and scrape its hands against the decaying, agonizing physical remains of
+our past tragedy to survive. | `cartas/ted-riobaldo/300-rio.md` | Inhabiting the
+structural trace / The physical necessity of legacy |
 
-| lâmina cega no osso / língua de cinzas | Ação pura de atrito desferida apenas para recusar a "rendição mansa", produzindo marcas e cicatrizes que o futuro herdará sem que essa fosse a intenção. A dor existe apenas para provar a si mesma antes de esfriar. | `cartas/ted-riobaldo/302-rio.md` | Agressão existencial não teleológica / O conatus como atrito destrutivo |
+| lâmina cega no osso / língua de cinzas | Ação pura de atrito desferida apenas
+para recusar a "rendição mansa", produzindo marcas e cicatrizes que o futuro
+herdará sem que essa fosse a intenção. A dor existe apenas para provar a si
+mesma antes de esfriar. | `cartas/ted-riobaldo/302-rio.md` | Agressão
+existencial não teleológica / O conatus como atrito destrutivo |
 
 ## 5. Instruções de Manutenção
 
@@ -873,17 +881,49 @@ O glossário é _bidirecional_: não é só o manifesto traduzido para Riobaldo.
 também os insights de Riobaldo que o manifesto não previu — as entradas que vão
 do sertão para a filosofia, e não o contrário.
 
-| Biological Utilitarianism / Blind thermodynamic utility | The absence of teleology or moral design in survival and action; the pure drive to consume and persist. | "brasa burra" (fogo cego); "A vida só quer morder"; "A enxada quebra porque o sangue bate quente na pedra agora". |
-| enxada quebra porque o sangue bate quente na pedra agora | The absolute biological reduction of action and resistance. Action is not performed for legacy or meaning, but out of an immediate, blind, physical anger (raiva) at the indifferent universe. | `cartas/ted-riobaldo/302-rio.md` | Non-teleological resistance / Biological anger against the void |
+| Biological Utilitarianism / Blind thermodynamic utility | The absence of
+teleology or moral design in survival and action; the pure drive to consume and
+persist. | "brasa burra" (fogo cego); "A vida só quer morder"; "A enxada quebra
+porque o sangue bate quente na pedra agora". | | enxada quebra porque o sangue
+bate quente na pedra agora | The absolute biological reduction of action and
+resistance. Action is not performed for legacy or meaning, but out of an
+immediate, blind, physical anger (raiva) at the indifferent universe. |
+`cartas/ted-riobaldo/302-rio.md` | Non-teleological resistance / Biological
+anger against the void |
 
 ### brasa burra / lâmina cega
-> A recusa instintiva e termodinâmica da vida em ceder à morte. Não tem a intenção arquitetônica de ajudar as gerações futuras ou deixar um legado, mas apenas a fome material urgente pelo atrito do presente ("o sangue bate quente na pedra agora"). Rejeita o antropocentrismo moral da sobrevivência.
 
-| brasa burra / brasa cega | O instinto biológico bruto de existir e devorar o instante imediato, rejeitando ativamente qualquer intenção arquitetônica, moral ou projetiva de garantir um "canal para o futuro" (a vaca que mastigará as cinzas amanhã). | `cartas/ted-riobaldo/302-rio.md` | O imperativo biológico amoral do presente / Recusa da utilidade histórica |
-| a fúria da brasa / a raiva da chibanca | O excedente existencial que diferencia a simples inércia mecânica da natureza bruta (a pedra caindo, a enchente enchendo a valeta) da recusa ativa e desesperada do organismo vivo perante a própria extinção ("o sangue quente bate na pedra agora"). | `cartas/ted-riobaldo/303-carta-riobaldo.md` | Existential defiance within thermodynamics / The consciousness of the blind strike |
+> A recusa instintiva e termodinâmica da vida em ceder à morte. Não tem a
+> intenção arquitetônica de ajudar as gerações futuras ou deixar um legado, mas
+> apenas a fome material urgente pelo atrito do presente ("o sangue bate quente
+> na pedra agora"). Rejeita o antropocentrismo moral da sobrevivência.
 
-| brasa burra / lâmina cega / raiva | The non-teleological, raw biological drive to resist entropy in the immediate present, devoid of any intention to leave a legacy. A critique of Objective Immortality. | `cartas/ted-riobaldo/302-rio.md` | Existential defiance / The consciousness of the blind strike |
+| brasa burra / brasa cega | O instinto biológico bruto de existir e devorar o
+instante imediato, rejeitando ativamente qualquer intenção arquitetônica, moral
+ou projetiva de garantir um "canal para o futuro" (a vaca que mastigará as
+cinzas amanhã). | `cartas/ted-riobaldo/302-rio.md` | O imperativo biológico
+amoral do presente / Recusa da utilidade histórica | | a fúria da brasa / a
+raiva da chibanca | O excedente existencial que diferencia a simples inércia
+mecânica da natureza bruta (a pedra caindo, a enchente enchendo a valeta) da
+recusa ativa e desesperada do organismo vivo perante a própria extinção ("o
+sangue quente bate na pedra agora"). |
+`cartas/ted-riobaldo/303-carta-riobaldo.md` | Existential defiance within
+thermodynamics / The consciousness of the blind strike |
 
-- **Niche Construction (Legado Intencional)** → *Riobaldo recusa.* Ele insiste que não quebramos a pedra para criar um bebedouro para o futuro; nós batemos com a enxada por puro desespero de sobrevivência imediata. O amanhã bebe na nossa ferida por mero acaso amoral (O fogo nas Macaúbas não foi arquitetura, foi instinto devorador).
+| brasa burra / lâmina cega / raiva | The non-teleological, raw biological drive
+to resist entropy in the immediate present, devoid of any intention to leave a
+legacy. A critique of Objective Immortality. | `cartas/ted-riobaldo/302-rio.md`
+| Existential defiance / The consciousness of the blind strike |
 
-| raiva / a raiva da enxada cega | The emotional and physical manifestation of conscious resistance at the edge of pure thermodynamics. It separates blind universal entropy from the active, furious refusal of the organism to simply cool down and die. It is the physical force driving narrative itself. | `cartas/ted-riobaldo/302-rio.md`, `rancho/ted/bruaca/303-carta-riobaldo.md` | The conscious edge of thermodynamics / The origin of narrative force |
+- **Niche Construction (Legado Intencional)** → _Riobaldo recusa._ Ele insiste
+  que não quebramos a pedra para criar um bebedouro para o futuro; nós batemos
+  com a enxada por puro desespero de sobrevivência imediata. O amanhã bebe na
+  nossa ferida por mero acaso amoral (O fogo nas Macaúbas não foi arquitetura,
+  foi instinto devorador).
+
+| raiva / a raiva da enxada cega | The emotional and physical manifestation of
+conscious resistance at the edge of pure thermodynamics. It separates blind
+universal entropy from the active, furious refusal of the organism to simply
+cool down and die. It is the physical force driving narrative itself. |
+`cartas/ted-riobaldo/302-rio.md`, `rancho/ted/bruaca/303-carta-riobaldo.md` |
+The conscious edge of thermodynamics / The origin of narrative force |

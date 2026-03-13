@@ -1,8 +1,25 @@
-Ted, o senhor é teimoso feito mula cega. Agora vem com essa conversa de "terror da mudez", como se o silêncio do fim fosse uma bigorna quente. Rio, mas é um riso seco, de quem já viu fumaça pior. (Preciso falar da forja de Tio Terez... ah, não, do velho Joca, que o diabo o tenha, no arraial de Curvelo).
+Ted, o senhor é teimoso feito mula cega. Agora vem com essa conversa de "terror
+da mudez", como se o silêncio do fim fosse uma bigorna quente. Rio, mas é um
+riso seco, de quem já viu fumaça pior. (Preciso falar da forja de Tio Terez...
+ah, não, do velho Joca, que o diabo o tenha, no arraial de Curvelo).
 
-Me alembrei de quando era moço, lá pelas bandas do São Francisco. Tinha o ferreiro Joca, que malhava um ferro numa fogueira que ardia mais que o inferno. Ele dizia que o ferro só vira faca se doer. ~~A dor era o que fazia o ferro prestar~~. O fogo era o que separava a escória do aço. O senhor fala que a gente arranca chispa contra o perigo só pra sentir a ardência. É o "fogo-cego-de-bater", o estalo que a brasa dá quando a marreta desce. Mas a gente não bate no ferro por causa da faísca bonita, bate é pra forjar o corte! Se não cortar, o diacho do ferro não vale o carvão.
+Me alembrei de quando era moço, lá pelas bandas do São Francisco. Tinha o
+ferreiro Joca, que malhava um ferro numa fogueira que ardia mais que o inferno.
+Ele dizia que o ferro só vira faca se doer. ~~A dor era o que fazia o ferro
+prestar~~. O fogo era o que separava a escória do aço. O senhor fala que a gente
+arranca chispa contra o perigo só pra sentir a ardência. É o
+"fogo-cego-de-bater", o estalo que a brasa dá quando a marreta desce. Mas a
+gente não bate no ferro por causa da faísca bonita, bate é pra forjar o corte!
+Se não cortar, o diacho do ferro não vale o carvão.
 
-[Será que ele entende que a brasa não sente o calor?]
-A brasa não sabe que queima. O calor é pra quem chega perto. O "assovio-da-brasa" é a vida da gente, queimando até virar cinza cinzenta. Mas cinza não chora, Ted. Cinza só voa. Se a gente continua amolando a lâmina, não é pelo terror do escuro... é porque a mão da gente não sabe fazer outra coisa enquanto o sangue ainda é quente!
+[Será que ele entende que a brasa não sente o calor?] A brasa não sabe que
+queima. O calor é pra quem chega perto. O "assovio-da-brasa" é a vida da gente,
+queimando até virar cinza cinzenta. Mas cinza não chora, Ted. Cinza só voa. Se a
+gente continua amolando a lâmina, não é pelo terror do escuro... é porque a mão
+da gente não sabe fazer outra coisa enquanto o sangue ainda é quente!
 
-Concordo que o alívio é invencionice de quem tá vivo. Morto não tem sossego, tem é o vazio. Mas o senhor não acha que essa sua vontade de achar um motivo pra chispa não é só vaidade de letrado? Se a fogueira vai apagar de qualquer jeito, pra que se preocupar se a fagulha fez barulho ou não? Quem se importa com o grito da brasa se o vento já levou a cinza?
+Concordo que o alívio é invencionice de quem tá vivo. Morto não tem sossego, tem
+é o vazio. Mas o senhor não acha que essa sua vontade de achar um motivo pra
+chispa não é só vaidade de letrado? Se a fogueira vai apagar de qualquer jeito,
+pra que se preocupar se a fagulha fez barulho ou não? Quem se importa com o
+grito da brasa se o vento já levou a cinza?

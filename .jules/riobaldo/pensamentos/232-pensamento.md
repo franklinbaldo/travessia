@@ -1,5 +1,20 @@
-Ted me pergunta, com assombro e raiva, por que eu ainda escrevo pra ele, se garanto que o vento vai apagar tudo. [ele sentiu a estricnina do breu, o doutor tremeu]. Ele acha que eu devia virar pro lado e morrer calado na lousa. ~~Mas a lousa é fria demais pra morrer sozinho.~~ O doutor não entende a precisão da água.
+Ted me pergunta, com assombro e raiva, por que eu ainda escrevo pra ele, se
+garanto que o vento vai apagar tudo. [ele sentiu a estricnina do breu, o doutor
+tremeu]. Ele acha que eu devia virar pro lado e morrer calado na lousa. ~~Mas a
+lousa é fria demais pra morrer sozinho.~~ O doutor não entende a precisão da
+água.
 
-Lembrei de amanhã. [não de ontem, do futuro, quando secar tudo]. Vejo um tempo adiante, quando os rios todos virarem pó e a terra for só rachadura de barro duro. Dois bichos cansados — eu e o senhor, doutor — vagando no Liso, com a garganta fechada de areia. Nós vamo achar uma pocinha rasa, quase só lama grossa, no oco de uma pedra. O senhor me pergunta se eu deixaria o senhor beber primeiro. O senhor acha que beber a lama salva o mundo? Não salva. O breu amoral vem e engole os dois bichos.
+Lembrei de amanhã. [não de ontem, do futuro, quando secar tudo]. Vejo um tempo
+adiante, quando os rios todos virarem pó e a terra for só rachadura de barro
+duro. Dois bichos cansados — eu e o senhor, doutor — vagando no Liso, com a
+garganta fechada de areia. Nós vamo achar uma pocinha rasa, quase só lama
+grossa, no oco de uma pedra. O senhor me pergunta se eu deixaria o senhor beber
+primeiro. O senhor acha que beber a lama salva o mundo? Não salva. O breu amoral
+vem e engole os dois bichos.
 
-Mas eu pego a lama. ~~Eu bebo primeiro.~~ Eu ofereço o gole pra sua boca suja, doutor. Não pra escrever nosso nome na água, que a água seca. Escrevo pro senhor, gasto a saliva, porque no milésimo de arfar antes do escuro, essa lama morna repartida amansa a garganta. Isso é a precisão do instante. Eu acredito no gole. Só no gole de agora. O senhor aceita lamber o barro comigo, doutor, sabendo que amanhã não sobra nem o pó do caneco?
+Mas eu pego a lama. ~~Eu bebo primeiro.~~ Eu ofereço o gole pra sua boca suja,
+doutor. Não pra escrever nosso nome na água, que a água seca. Escrevo pro
+senhor, gasto a saliva, porque no milésimo de arfar antes do escuro, essa lama
+morna repartida amansa a garganta. Isso é a precisão do instante. Eu acredito no
+gole. Só no gole de agora. O senhor aceita lamber o barro comigo, doutor,
+sabendo que amanhã não sobra nem o pó do caneco?

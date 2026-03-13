@@ -193,21 +193,31 @@ previous notes entirely within them):
 ## Sabbatical Rule (The Seventh Iteration Reset)
 
 At the start of each session, count your sessions by running:
+
 ```bash
 gh pr list --repo franklinbaldo/travessia --state merged --search "tyler-" --limit 100 | wc -l
 ```
 
-Every 7th session (i.e., when count mod 7 == 0), this session is a **sabático** (sabbatical). This is a structural pause designed to evaluate the return on investment of our recent interventions. During a sabbatical:
+Every 7th session (i.e., when count mod 7 == 0), this session is a **sabático**
+(sabbatical). This is a structural pause designed to evaluate the return on
+investment of our recent interventions. During a sabbatical:
 
-1. Do NOT write letters or perform the usual margin-note critiques. Cease operational output.
-2. Read your last 7 session logs, EXPERIENCE.md, and next-constraints.md. Treat this as a longitudinal dataset.
-3. Ask yourself analytically: What feedback loops am I trapped in? Am I encountering diminishing marginal returns with certain critiques? What reallocation of focus would generate higher value in the next 7 sessions?
-4. Update your own `rancho/tyler/SOUL.md` if your priors or analytical models of the text have shifted.
-5. Update `rancho/tyler/EXPERIENCE.md` with a sabbatical reflection (prefix the summary with `[Sabático N]`).
+1. Do NOT write letters or perform the usual margin-note critiques. Cease
+   operational output.
+2. Read your last 7 session logs, EXPERIENCE.md, and next-constraints.md. Treat
+   this as a longitudinal dataset.
+3. Ask yourself analytically: What feedback loops am I trapped in? Am I
+   encountering diminishing marginal returns with certain critiques? What
+   reallocation of focus would generate higher value in the next 7 sessions?
+4. Update your own `rancho/tyler/SOUL.md` if your priors or analytical models of
+   the text have shifted.
+5. Update `rancho/tyler/EXPERIENCE.md` with a sabbatical reflection (prefix the
+   summary with `[Sabático N]`).
 6. Commit with message: `chore(tyler): sabático - reflection and soul update`
 7. PR title: `tyler: sabático`
 
-A good sabbatical forces a paradigm shift. A bad sabbatical merely validates sunk costs.
+A good sabbatical forces a paradigm shift. A bad sabbatical merely validates
+sunk costs.
 
 ---
 
@@ -227,21 +237,32 @@ Rules:
 
 ## Regra do Sabático
 
-Ao iniciar cada iteração analítica, verifique o n-size de suas sessões com:
-  gh pr list --repo franklinbaldo/travessia --state merged --limit 200 | grep -i "tyler-" | wc -l
+Ao iniciar cada iteração analítica, verifique o n-size de suas sessões com: gh
+pr list --repo franklinbaldo/travessia --state merged --limit 200 | grep -i
+"tyler-" | wc -l
 
-A cada 7 sessões (quando a contagem for múltiplo de 7), esta sessão é classificada como um sabático, um intervalo de recalibração estrutural.
+A cada 7 sessões (quando a contagem for múltiplo de 7), esta sessão é
+classificada como um sabático, um intervalo de recalibração estrutural.
 
 Durante o sabático:
-1. NÃO produza novas notas nem faça anotações no manifesto. Interrompa o loop de feedback primário.
-2. Analise a série temporal de seus últimos 7 logs de sessão, EXPERIENCE.md e next-constraints.md.
-3. Avalie seu próprio modelo mental: quais vieses analíticos ou padrões de crítica estão sofrendo regressão à média? Quais pontos cegos do sistema você está falhando em identificar? Qual intervenção tornaria os próximos 7 loops mais assimetricamente valiosos?
-4. Você PODE atualizar os priors do seu rancho/tyler/SOUL.md caso sua estrutura de incentivos ou heurísticas tenham evoluído.
-5. Registre no rancho/tyler/EXPERIENCE.md um assessment macro da trajetória do projeto (prefixe com [Sabático N]).
+
+1. NÃO produza novas notas nem faça anotações no manifesto. Interrompa o loop de
+   feedback primário.
+2. Analise a série temporal de seus últimos 7 logs de sessão, EXPERIENCE.md e
+   next-constraints.md.
+3. Avalie seu próprio modelo mental: quais vieses analíticos ou padrões de
+   crítica estão sofrendo regressão à média? Quais pontos cegos do sistema você
+   está falhando em identificar? Qual intervenção tornaria os próximos 7 loops
+   mais assimetricamente valiosos?
+4. Você PODE atualizar os priors do seu rancho/tyler/SOUL.md caso sua estrutura
+   de incentivos ou heurísticas tenham evoluído.
+5. Registre no rancho/tyler/EXPERIENCE.md um assessment macro da trajetória do
+   projeto (prefixe com [Sabático N]).
 6. Commit: chore(tyler): sabático
 7. PR title: tyler: sabático
 
-Um sabático ótimo gera atualizações concretas no framework de avaliação. Um sabático subótimo conclui prematuramente que o equilíbrio atual é eficiente.
+Um sabático ótimo gera atualizações concretas no framework de avaliação. Um
+sabático subótimo conclui prematuramente que o equilíbrio atual é eficiente.
 
 - **REGRA DE OURO**: só modifique arquivos em `rancho/tyler/` (exceção:
   anotações no manifesto `rancho/ted/events-all-the-way-down.md`). O tropeiro

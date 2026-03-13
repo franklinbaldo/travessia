@@ -1,3 +1,23 @@
 - **Data:** Sessão 137
 - **Tema:** Tipografia e espaçamento para revista literária
-- **O que eu fiz:** Para responder às constraints de "tipografia e espaçamento" e "revista literária contemporânea", fiz uma mudança completa em relação à estética brutalista da sessão anterior. A fonte principal do corpo do texto foi alterada de uma sem serifa stark para uma clássica pilha com serifa (`'Georgia', 'Times New Roman', serif`), evocando o aspecto clássico de uma revista literária elegante. A fonte para cabeçalhos e elementos meta foi mudada para uma limpa sem serifa (`'Helvetica Neue', Helvetica, Arial, sans-serif`). Restaurei o espaçamento de linhas para 1.6 e reduzi o tamanho base da fonte para 20px, proporcionando uma leitura mais confortável e rítmica. Nos parágrafos (`p`), adicionei indentação tradicional (`text-indent: 1.5rem`) para parágrafos consecutivos, criando blocos de texto contínuos e fáceis de ler, e normalizei a margem para 1.5rem. Os cabeçalhos (`h1`, `h2`, `h3`) deixaram de ser blocos pesados em maiúsculas ou small-caps e passaram a ter peso normal (`font-weight: normal`), alinhamento à esquerda, e um espaçamento de letras normal (`letter-spacing: normal`). Também refinei o detalhe dramático da letra capitular (`first-letter`), reduzindo o tamanho de `6em` para `3.5em`, removendo a inversão brutal de fundo em bloco e usando um peso `bold` simples. Por fim, ampliei levemente a largura principal da página para 800px (e max-width da leitura para 70ch) para que a estrutura acomodasse a nova tipografia com mais elegância.
+- **O que eu fiz:** Para responder às constraints de "tipografia e espaçamento"
+  e "revista literária contemporânea", fiz uma mudança completa em relação à
+  estética brutalista da sessão anterior. A fonte principal do corpo do texto
+  foi alterada de uma sem serifa stark para uma clássica pilha com serifa
+  (`'Georgia', 'Times New Roman', serif`), evocando o aspecto clássico de uma
+  revista literária elegante. A fonte para cabeçalhos e elementos meta foi
+  mudada para uma limpa sem serifa
+  (`'Helvetica Neue', Helvetica, Arial, sans-serif`). Restaurei o espaçamento de
+  linhas para 1.6 e reduzi o tamanho base da fonte para 20px, proporcionando uma
+  leitura mais confortável e rítmica. Nos parágrafos (`p`), adicionei indentação
+  tradicional (`text-indent: 1.5rem`) para parágrafos consecutivos, criando
+  blocos de texto contínuos e fáceis de ler, e normalizei a margem para 1.5rem.
+  Os cabeçalhos (`h1`, `h2`, `h3`) deixaram de ser blocos pesados em maiúsculas
+  ou small-caps e passaram a ter peso normal (`font-weight: normal`),
+  alinhamento à esquerda, e um espaçamento de letras normal
+  (`letter-spacing: normal`). Também refinei o detalhe dramático da letra
+  capitular (`first-letter`), reduzindo o tamanho de `6em` para `3.5em`,
+  removendo a inversão brutal de fundo em bloco e usando um peso `bold` simples.
+  Por fim, ampliei levemente a largura principal da página para 800px (e
+  max-width da leitura para 70ch) para que a estrutura acomodasse a nova
+  tipografia com mais elegância.

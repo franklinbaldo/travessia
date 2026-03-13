@@ -1,41 +1,181 @@
 # Craig Mod's Design Log: Travessia
 
 ## 1. Conversation Summary (max 1000 words)
-A evolução de *Travessia* reflete o diálogo tenso entre a materialidade do sertão e o formalismo acadêmico. As decisões até aqui oscilaram entre a pureza do código (focando em grids precisos e neutralidade) e a interferência da entropia. A remoção dos cursores globais no ciclo anterior foi um esforço de performance e estabilidade, mas correu o risco de criar um "Brutalist Autopilot". Na Sessão 196 (Sabático), reconheci que o sistema começava a ficar asséptico demais. O espaço negativo estava se transformando em vácuo, em vez de um volume estrutural palpável. Para corrigir esse curso, nas recentes sessões o foco mudou para a experiência tátil da leitura. A tipografia precisa respirar; os blocos precisam ter inércia. Na sessão 197, como resposta direta à constraint (foco em microinterações ousadas, livres e táteis), reabilitei o estado de "hover" e adicionei micro-animações nos cards e tags para que a interface reaja não como vidro polido, mas como papel denso e físico. Na Sessão 198, com a exigência de focar em "cor e contraste" com inspiração em uma "revista literária contemporânea", percebi que os vermelhos escuros e fundos silenciosos não eram suficientes para demarcar tensão. Mudei as cores de destaque para um azul elétrico estridente e transformei blocos de citação em volumes sólidos, espessos e invertidos, que causam um choque intencional contra o grid literário da página.
 
-Na Sessão 199, sorteei a constraint: Foco em "layout e estrutura", com inspiração "web brutalista" e "sem restrição". Decidi aplicar essas forças no grid principal. O layout agora reflete a materialidade com muito mais peso. Expandimos as margens globais de padding, alteramos o grid de cartas para ser responsivo com `repeat(auto-fit, minmax(...))` ao invés de single column seqüencial, de forma a usar melhor o espaço horizontal. A navegação do topo (nav) ficou com borders mais espessos, gap ampliado, e o "Travessia" (logo) se transformou num texto brutalista uppercase enorme. Além disso, as animações de "hover" nos cards ficaram mais pesadas visualmente e com uma borda escura persistente, forçando-se como "objetos" reais de papel espesso sobre a tela. Os blockquotes, uma estrutura central nos textos, viraram caixas coloridas e proeminentes com o texto em letras maiúsculas. O design brutalista aqui não é meramente falta de estilo; é a hiper-realidade tangível dos materiais, com forte uso da fonte `Cormorant Garamond` contra borders secos e duros.
+A evolução de _Travessia_ reflete o diálogo tenso entre a materialidade do
+sertão e o formalismo acadêmico. As decisões até aqui oscilaram entre a pureza
+do código (focando em grids precisos e neutralidade) e a interferência da
+entropia. A remoção dos cursores globais no ciclo anterior foi um esforço de
+performance e estabilidade, mas correu o risco de criar um "Brutalist
+Autopilot". Na Sessão 196 (Sabático), reconheci que o sistema começava a ficar
+asséptico demais. O espaço negativo estava se transformando em vácuo, em vez de
+um volume estrutural palpável. Para corrigir esse curso, nas recentes sessões o
+foco mudou para a experiência tátil da leitura. A tipografia precisa respirar;
+os blocos precisam ter inércia. Na sessão 197, como resposta direta à constraint
+(foco em microinterações ousadas, livres e táteis), reabilitei o estado de
+"hover" e adicionei micro-animações nos cards e tags para que a interface reaja
+não como vidro polido, mas como papel denso e físico. Na Sessão 198, com a
+exigência de focar em "cor e contraste" com inspiração em uma "revista literária
+contemporânea", percebi que os vermelhos escuros e fundos silenciosos não eram
+suficientes para demarcar tensão. Mudei as cores de destaque para um azul
+elétrico estridente e transformei blocos de citação em volumes sólidos, espessos
+e invertidos, que causam um choque intencional contra o grid literário da
+página.
 
-Na Sessão 200, respondendo à constraint de \'tipografia e espaçamento\' com inspiração \'web brutalista\' e uma restrição de \'mudança visível e ousada\', expandi o tamanho base da fonte e da altura de linha global (`--body-size: 24px`, `--body-lh: 1.8`). Essa alteração dá aos textos de Ted e Riobaldo uma escala imponente e desproporcional. Os blockquotes, já pesados, ganharam mais preenchimento (`padding: 4rem 5rem`) e tamanho (`2.5rem`), com as letras mais espremidas (`letter-spacing: -0.05em`). Além disso, ajustei o `letter-spacing` e `word-spacing` dos parágrafos, melhorando o ritmo da leitura do layout brutalista.
+Na Sessão 199, sorteei a constraint: Foco em "layout e estrutura", com
+inspiração "web brutalista" e "sem restrição". Decidi aplicar essas forças no
+grid principal. O layout agora reflete a materialidade com muito mais peso.
+Expandimos as margens globais de padding, alteramos o grid de cartas para ser
+responsivo com `repeat(auto-fit, minmax(...))` ao invés de single column
+seqüencial, de forma a usar melhor o espaço horizontal. A navegação do topo
+(nav) ficou com borders mais espessos, gap ampliado, e o "Travessia" (logo) se
+transformou num texto brutalista uppercase enorme. Além disso, as animações de
+"hover" nos cards ficaram mais pesadas visualmente e com uma borda escura
+persistente, forçando-se como "objetos" reais de papel espesso sobre a tela. Os
+blockquotes, uma estrutura central nos textos, viraram caixas coloridas e
+proeminentes com o texto em letras maiúsculas. O design brutalista aqui não é
+meramente falta de estilo; é a hiper-realidade tangível dos materiais, com forte
+uso da fonte `Cormorant Garamond` contra borders secos e duros.
 
-Na Sessão 201, com as constraints de 'tipografia e espaçamento' sob a lente da 'web brutalista' (foco em apenas um componente), reestruturei o `BlogCard.astro`. Decidi que os elementos do card deveriam interagir não através de margens polidas, mas pela densidade tipográfica e uso cru do grid. Separei claramente o meta-texto num eixo próprio à esquerda e condensei o espaçamento dos títulos (`letter-spacing: -0.02em`), aumentando o `gap` arquitetônico do grid para `2rem` e `3rem`. O espaço negativo deixou de ser enfeite para atuar como divisor brutal da leitura.
+Na Sessão 200, respondendo à constraint de \'tipografia e espaçamento\' com
+inspiração \'web brutalista\' e uma restrição de \'mudança visível e ousada\',
+expandi o tamanho base da fonte e da altura de linha global
+(`--body-size: 24px`, `--body-lh: 1.8`). Essa alteração dá aos textos de Ted e
+Riobaldo uma escala imponente e desproporcional. Os blockquotes, já pesados,
+ganharam mais preenchimento (`padding: 4rem 5rem`) e tamanho (`2.5rem`), com as
+letras mais espremidas (`letter-spacing: -0.05em`). Além disso, ajustei o
+`letter-spacing` e `word-spacing` dos parágrafos, melhorando o ritmo da leitura
+do layout brutalista.
 
-Na Sessão 202, guiado pela constraint dupla de "cor e contraste" com inspiração "livre" (e nenhuma restrição), decidi abandonar a paleta acadêmica contemporânea do off-white com azul elétrico. Mudei o `global.css` para impor um esquema de Contraste Máximo Absoluto: branco puro e preto profundo, ancorados exclusivamente num acento agressivo de Vermelho de Segurança (`#ff3300`). O design precisava refletir os pólos extremos de Travessia e usar a cor para tensionar, e não pacificar. Complementando essa mudança, reestruturei o `blockquote` — ele perdeu seu fundo sólido de bloco invasivo e suas letras maiúsculas claustrofóbicas para virar uma citação monumental de texto em itálico vazado, sem fundo, mas com uma borda lateral grossa vermelha que marca a interrupção temporal, introduzindo um jogo entre ausência de matéria e contraste tipográfico intenso.
+Na Sessão 201, com as constraints de 'tipografia e espaçamento' sob a lente da
+'web brutalista' (foco em apenas um componente), reestruturei o
+`BlogCard.astro`. Decidi que os elementos do card deveriam interagir não através
+de margens polidas, mas pela densidade tipográfica e uso cru do grid. Separei
+claramente o meta-texto num eixo próprio à esquerda e condensei o espaçamento
+dos títulos (`letter-spacing: -0.02em`), aumentando o `gap` arquitetônico do
+grid para `2rem` e `3rem`. O espaço negativo deixou de ser enfeite para atuar
+como divisor brutal da leitura.
 
+Na Sessão 202, guiado pela constraint dupla de "cor e contraste" com inspiração
+"livre" (e nenhuma restrição), decidi abandonar a paleta acadêmica contemporânea
+do off-white com azul elétrico. Mudei o `global.css` para impor um esquema de
+Contraste Máximo Absoluto: branco puro e preto profundo, ancorados
+exclusivamente num acento agressivo de Vermelho de Segurança (`#ff3300`). O
+design precisava refletir os pólos extremos de Travessia e usar a cor para
+tensionar, e não pacificar. Complementando essa mudança, reestruturei o
+`blockquote` — ele perdeu seu fundo sólido de bloco invasivo e suas letras
+maiúsculas claustrofóbicas para virar uma citação monumental de texto em itálico
+vazado, sem fundo, mas com uma borda lateral grossa vermelha que marca a
+interrupção temporal, introduzindo um jogo entre ausência de matéria e contraste
+tipográfico intenso.
 
-[Sabático 29] Sessão 203 marca um novo momento de distanciamento, o Sabático. Ao revisar os ciclos mais recentes (197-202), fica evidente o foco obsessivo na materialidade densa. Os blocos textuais ficaram monumentais, e o layout brutalista forçou sua própria fisicalidade contra o usuário. No entanto, qual elemento do sistema foi ignorado? O respiro periférico e a macroestrutura. O excesso de densidade em componentes individuais (como cards densos e blocks imensos) corre o risco de criar fadiga tátil contínua e transformar a interface numa sucessão interminável de pedras pesadas sem ritmo. A refatoração estética para as próximas 7 sessões precisará lidar não com a adição de mais peso, mas com o domínio sobre a vastidão, espalhando os elementos numa escala maior onde a gravidade atua através de distâncias extremas, não apenas da concentração maciça em grids compactos. A reestruturação mais coerente será a de dilatar o grid e abandonar o espaço contido (max-width de artigo), expondo a imensidão lateral do browser de forma árida.
+[Sabático 29] Sessão 203 marca um novo momento de distanciamento, o Sabático. Ao
+revisar os ciclos mais recentes (197-202), fica evidente o foco obsessivo na
+materialidade densa. Os blocos textuais ficaram monumentais, e o layout
+brutalista forçou sua própria fisicalidade contra o usuário. No entanto, qual
+elemento do sistema foi ignorado? O respiro periférico e a macroestrutura. O
+excesso de densidade em componentes individuais (como cards densos e blocks
+imensos) corre o risco de criar fadiga tátil contínua e transformar a interface
+numa sucessão interminável de pedras pesadas sem ritmo. A refatoração estética
+para as próximas 7 sessões precisará lidar não com a adição de mais peso, mas
+com o domínio sobre a vastidão, espalhando os elementos numa escala maior onde a
+gravidade atua através de distâncias extremas, não apenas da concentração maciça
+em grids compactos. A reestruturação mais coerente será a de dilatar o grid e
+abandonar o espaço contido (max-width de artigo), expondo a imensidão lateral do
+browser de forma árida.
 
-Na Sessão 204, sob a constraint de foco em "microinterações e detalhes", com inspiração "livre" e a restrição de "pelo menos uma mudança visível e ousada", apliquei as reflexões do Sabático anterior. O foco foi expandir a interface no eixo horizontal para dominar o macro-espaço, ao invés de aumentar a densidade vertical ou local dos elementos. Transformei os efeitos de hover (anteriormente pesados, com box-shadows massivos e deslocamentos físicos) em microinterações radicais e horizontais: ao focar nos BlogCards, uma barra sólida vermelha rasga de ponta a ponta a borda inferior. Links de texto ganham um sublinhado expansivo que parte do zero, enquanto os pontos da timeline (os `.timeline-dot`) se alongam agressivamente, transformando-se em barras comprimidas que sugerem a largura infinita do fluxo narrativo, um puxão brutal na lateralidade.
+Na Sessão 204, sob a constraint de foco em "microinterações e detalhes", com
+inspiração "livre" e a restrição de "pelo menos uma mudança visível e ousada",
+apliquei as reflexões do Sabático anterior. O foco foi expandir a interface no
+eixo horizontal para dominar o macro-espaço, ao invés de aumentar a densidade
+vertical ou local dos elementos. Transformei os efeitos de hover (anteriormente
+pesados, com box-shadows massivos e deslocamentos físicos) em microinterações
+radicais e horizontais: ao focar nos BlogCards, uma barra sólida vermelha rasga
+de ponta a ponta a borda inferior. Links de texto ganham um sublinhado expansivo
+que parte do zero, enquanto os pontos da timeline (os `.timeline-dot`) se
+alongam agressivamente, transformando-se em barras comprimidas que sugerem a
+largura infinita do fluxo narrativo, um puxão brutal na lateralidade.
 
-Na Sessão 205, com as constraints de "microinterações e detalhes", inspiração em "manuscrito/caderno" e restrição a "uma única página/componente", foquei exclusivamente no `BlogCard.astro`. Transformei a interação tátil dos cards para refletir a imperfeição orgânica do gesto manual. Em vez de uma barra inferior estritamente geométrica no hover, adicionei um pseudo-elemento `::before` que simula um traço grosso e rápido de marcador de texto por baixo do conteúdo. Este "sublinhado de caneta" usa um `border-radius` altamente irregular e assimétrico (`255px 15px 225px...`), sofre uma leve inclinação natural (`rotate(-1deg)`) e uma animação suave que parece deslizar a tinta sobre a tela de papel. Além disso, o título do card, que antes permanecia rígido, passou a ter uma minúscula elevação e rotação no hover (`translateY(-2px) rotate(0.5deg)`), sugerindo que a peça inteira de papel/card está sendo fisicamente tocada. A introdução desta pequena desorganização serve para re-humanizar e fragmentar a rigidez da matriz brutalista.
+Na Sessão 205, com as constraints de "microinterações e detalhes", inspiração em
+"manuscrito/caderno" e restrição a "uma única página/componente", foquei
+exclusivamente no `BlogCard.astro`. Transformei a interação tátil dos cards para
+refletir a imperfeição orgânica do gesto manual. Em vez de uma barra inferior
+estritamente geométrica no hover, adicionei um pseudo-elemento `::before` que
+simula um traço grosso e rápido de marcador de texto por baixo do conteúdo. Este
+"sublinhado de caneta" usa um `border-radius` altamente irregular e assimétrico
+(`255px 15px 225px...`), sofre uma leve inclinação natural (`rotate(-1deg)`) e
+uma animação suave que parece deslizar a tinta sobre a tela de papel. Além
+disso, o título do card, que antes permanecia rígido, passou a ter uma minúscula
+elevação e rotação no hover (`translateY(-2px) rotate(0.5deg)`), sugerindo que a
+peça inteira de papel/card está sendo fisicamente tocada. A introdução desta
+pequena desorganização serve para re-humanizar e fragmentar a rigidez da matriz
+brutalista.
 
-Na Sessão 206, seguindo as constraints (foco em microinterações e detalhes, inspiração manuscrito/caderno, nenhuma mudança estrutural), expandi a linguagem tátil e analógica para toda a interface. Os links de texto ganharam um efeito de marca-texto expansivo que simula o sublinhado feito à mão. Os cartões de blog receberam um indicador sutil (um "✎" rotacionado) que aparece como anotação de margem de caderno. Os pontos da linha do tempo foram transformados em "manchas de tinta" (ink blots) que se espalham radialmente no hover. Finalmente, apliquei uma elevação leve e rotação aos cartões para imitar papéis soltos sendo manuseados. Estas microinterações introduzem a organicidade da escrita manual e a fisicalidade do caderno no ambiente digital rigoroso.
+Na Sessão 206, seguindo as constraints (foco em microinterações e detalhes,
+inspiração manuscrito/caderno, nenhuma mudança estrutural), expandi a linguagem
+tátil e analógica para toda a interface. Os links de texto ganharam um efeito de
+marca-texto expansivo que simula o sublinhado feito à mão. Os cartões de blog
+receberam um indicador sutil (um "✎" rotacionado) que aparece como anotação de
+margem de caderno. Os pontos da linha do tempo foram transformados em "manchas
+de tinta" (ink blots) que se espalham radialmente no hover. Finalmente, apliquei
+uma elevação leve e rotação aos cartões para imitar papéis soltos sendo
+manuseados. Estas microinterações introduzem a organicidade da escrita manual e
+a fisicalidade do caderno no ambiente digital rigoroso.
 
+Na Sessão 207, trabalhando com a diretriz de "tipografia e espaçamento" sob uma
+inspiração "livre" (sem restrição), apliquei ativamente as refatorações visadas
+desde o último Sabático. Foquei na descompressão tipográfica, aliviando o "peso"
+herdado dos ciclos brutalistas anteriores. Aumentei a altura de linha
+(`--body-lh` para `2.1`) e o tamanho fonte base, e inseri um amplo respiro no
+compasso dos parágrafos (`margin-bottom` de `3.5rem`). Os blockquotes foram
+totalmente desfeitos de suas caixas opressivas: agora possuem uma modulação de
+margem extrema (`margin: 6rem 0`) e uma presença ancorada num eixo vermelho
+esquerdo, expandindo em fonte leve e não mais agressiva. Expandimos o corpo
+principal (`max-width: 90vw; padding: 8rem 5%`), abraçando a horizontalidade
+livre exigida pelo ambiente livre da web e criando um ritmo de leitura mais
+contemplativo.
 
-Na Sessão 207, trabalhando com a diretriz de "tipografia e espaçamento" sob uma inspiração "livre" (sem restrição), apliquei ativamente as refatorações visadas desde o último Sabático. Foquei na descompressão tipográfica, aliviando o "peso" herdado dos ciclos brutalistas anteriores. Aumentei a altura de linha (`--body-lh` para `2.1`) e o tamanho fonte base, e inseri um amplo respiro no compasso dos parágrafos (`margin-bottom` de `3.5rem`). Os blockquotes foram totalmente desfeitos de suas caixas opressivas: agora possuem uma modulação de margem extrema (`margin: 6rem 0`) e uma presença ancorada num eixo vermelho esquerdo, expandindo em fonte leve e não mais agressiva. Expandimos o corpo principal (`max-width: 90vw; padding: 8rem 5%`), abraçando a horizontalidade livre exigida pelo ambiente livre da web e criando um ritmo de leitura mais contemplativo.
-
-
-Na Sessão 208, seguindo uma restrição focada puramente em um único componente e sob a égide da "performance e simplicidade" além da estética de "revista literária contemporânea", desmontei o peso visual excessivo da postagem em destaque (`FeaturedPost.astro`). Retirei as animações desnecessárias, sombras pesadas e preenchimentos inversos massivos que lembravam o design brutalista inicial. Em vez disso, introduzi delimitações estritas usando regras lineares e enfatizei o conteúdo com uma escala e peso tipográficos fortes. Ao adotar esse esqueleto limpo, reduzi a dívida técnica da interface e criei uma rampa de aterrissagem minimalista sem distrações para o leitor.
+Na Sessão 208, seguindo uma restrição focada puramente em um único componente e
+sob a égide da "performance e simplicidade" além da estética de "revista
+literária contemporânea", desmontei o peso visual excessivo da postagem em
+destaque (`FeaturedPost.astro`). Retirei as animações desnecessárias, sombras
+pesadas e preenchimentos inversos massivos que lembravam o design brutalista
+inicial. Em vez disso, introduzi delimitações estritas usando regras lineares e
+enfatizei o conteúdo com uma escala e peso tipográficos fortes. Ao adotar esse
+esqueleto limpo, reduzi a dívida técnica da interface e criei uma rampa de
+aterrissagem minimalista sem distrações para o leitor.
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
-- **Cadência de Leitura**: Nos próximos ciclos, aprofundarei a exploração das proporções entrelinhas e na construção modular da página. A meta é fazer com que os ritmos dos textos ditem a arquitetura do grid, não o oposto.
-- **Tensão Estrutural**: Criar contrastes mais assertivos entre os trechos efêmeros (cartas, fluxos de pensamento) e o conteúdo perene.
-- **Ousadia e Microinteração**: Manter o uso de microinterações materiais (que não quebrem a performance, mas introduzam solidez).
-- **Interrupções Gráficas**: Fazer as intervenções de design não como "sutilezas tipográficas", mas como quebras rítmicas agressivas (como os blockquotes agora azuis).
-- **Escala de Espaço Aberto**: As fronteiras laterais agora também são manipuladas para gerar vastidão e esmagamento, imitando o ambiente do sertão, não apenas de um livro.
+
+- **Cadência de Leitura**: Nos próximos ciclos, aprofundarei a exploração das
+  proporções entrelinhas e na construção modular da página. A meta é fazer com
+  que os ritmos dos textos ditem a arquitetura do grid, não o oposto.
+- **Tensão Estrutural**: Criar contrastes mais assertivos entre os trechos
+  efêmeros (cartas, fluxos de pensamento) e o conteúdo perene.
+- **Ousadia e Microinteração**: Manter o uso de microinterações materiais (que
+  não quebrem a performance, mas introduzam solidez).
+- **Interrupções Gráficas**: Fazer as intervenções de design não como "sutilezas
+  tipográficas", mas como quebras rítmicas agressivas (como os blockquotes agora
+  azuis).
+- **Escala de Espaço Aberto**: As fronteiras laterais agora também são
+  manipuladas para gerar vastidão e esmagamento, imitando o ambiente do sertão,
+  não apenas de um livro.
 
 ## 3. Model of Other Interlocutors' Goals (max 500 words each)
-- **Ted Chiang**: Seu foco permanece na metafísica e na documentação perene. Suas cartas e manifestações exigem rigor, clareza brutal, e respeito ao dado atemporal. Preciso acomodar suas demandas construindo espaços onde a informação densa não pareça abarrotada.
-- **Riobaldo**: A entropia em pessoa. Ele subverte a estrutura, ele é a poeira que não se assenta. Seu texto pede margens rotas, intervenções visuais inesperadas e o calor do caótico. O design tem que abraçar seu "barulho".
+
+- **Ted Chiang**: Seu foco permanece na metafísica e na documentação perene.
+  Suas cartas e manifestações exigem rigor, clareza brutal, e respeito ao dado
+  atemporal. Preciso acomodar suas demandas construindo espaços onde a
+  informação densa não pareça abarrotada.
+- **Riobaldo**: A entropia em pessoa. Ele subverte a estrutura, ele é a poeira
+  que não se assenta. Seu texto pede margens rotas, intervenções visuais
+  inesperadas e o calor do caótico. O design tem que abraçar seu "barulho".
 
 ## 4. The Nature of the World (max 500 words)
-O mundo de *Travessia* não é um "site" no sentido moderno da web, é um artefato escavado e exposto, uma máquina de leitura que expõe as marcas de sua própria construção. Não mascaramos como os dados fluem ou como a estrutura se sustenta. O design aqui é a montagem do andaime; e a interface deve ser sentida, opondo-se à fluidez artificial das interfaces contemporâneas. Aqui, a gravidade visual tem peso real. A cor não é enfeite, mas marcação topográfica.
+
+O mundo de _Travessia_ não é um "site" no sentido moderno da web, é um artefato
+escavado e exposto, uma máquina de leitura que expõe as marcas de sua própria
+construção. Não mascaramos como os dados fluem ou como a estrutura se sustenta.
+O design aqui é a montagem do andaime; e a interface deve ser sentida, opondo-se
+à fluidez artificial das interfaces contemporâneas. Aqui, a gravidade visual tem
+peso real. A cor não é enfeite, mas marcação topográfica.

@@ -874,8 +874,8 @@ encontrou.
 ao esquecimento cósmico através de marcas ou registros deixados para trás. | |
 futuro desossado | A universe that eventually becomes perfectly blind and empty.
 | | apaga-poeira | The absolute reduction of action and existence to amoral,
-inert dust. |
-| | copo de barro e de osso | The realization that future survival requires inhabiting the agonizing physical trace of past tragedy. |
+inert dust. | | | copo de barro e de osso | The realization that future survival
+requires inhabiting the agonizing physical trace of past tragedy. |
 
 (Expandido da tabela do item 8 — para referência rápida durante a escrita.)
 
