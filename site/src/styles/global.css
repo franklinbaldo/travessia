@@ -1924,3 +1924,48 @@ main blockquote {
     text-align: justify;
     max-width: 50ch;
 }
+
+/* === Aggressive Asymmetry: Classic Print Microinteractions === */
+/* Constraint: "livro impresso clássico" + "microinterações e detalhes" + "mudança visível e ousada" */
+
+main p {
+  position: relative;
+  isolation: isolate;
+  transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+main p::before {
+  content: "¶"; /* The classic pilcrow */
+  position: absolute;
+  top: 0;
+  left: -1em;
+  color: var(--accent-color);
+  font-size: 1.5em;
+  line-height: 1;
+  opacity: 0;
+  transform: translateX(20px) scale(0.5) rotate(20deg);
+  transition: all 0.5s cubic-bezier(0.25, 1, 0.5, 1);
+  font-family: "Times New Roman", Times, serif; /* Pure classic print */
+  pointer-events: none;
+  z-index: -1;
+}
+
+main p:hover {
+  transform: translateX(4px); /* Shattering the safe container slightly on hover */
+}
+
+main p:hover::before {
+  opacity: 1;
+  transform: translateX(-15px) scale(2) rotate(-8deg); /* Aggressive, bold, asymmetric reveal */
+}
+
+/* Bold microinteraction on the classic drop cap */
+main article p:first-of-type::first-letter, main > div > p:first-of-type::first-letter {
+  transition: all 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  display: inline-block;
+}
+
+main article p:first-of-type:hover::first-letter, main > div > p:first-of-type:hover::first-letter {
+  color: var(--accent-color);
+  transform: scale(1.2) rotate(-5deg) translateY(-5px);
+}
