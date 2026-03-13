@@ -38,35 +38,32 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
     margin-bottom: 4rem;
     padding: 0;
 
-    background-color: var(--bg-color) !important;
-    border: 4px solid var(--text-color) !important;
+    /* Contemporary literary magazine: stark contrast block */
+    background-color: var(--text-color) !important;
+    color: var(--bg-color) !important;
+    border: none !important;
     border-radius: 0 !important;
-    box-shadow: 12px 12px 0 var(--text-color) !important;
+    box-shadow: none !important;
 
     text-decoration: none;
     overflow: hidden;
     transform: none !important;
-    transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease, color 0.3s ease !important;
+    transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1), background-color 0.4s ease !important;
   }
 
   :global([data-theme="dark"]) .featured-post {
-    border: 4px solid var(--text-color) !important;
-    box-shadow: 12px 12px 0 var(--accent-color) !important;
+    background-color: var(--text-color) !important;
   }
 
   .featured-post:hover {
-    transform: translate(-2px, -2px) !important;
-    box-shadow: 14px 14px 0 var(--accent-color) !important;
-    background-color: var(--text-color) !important;
+    transform: translateY(-4px) !important;
+    background-color: var(--accent-color) !important;
     color: var(--bg-color) !important;
-    border-color: var(--accent-color) !important;
   }
-
-
 
   .featured-content {
     flex-grow: 1;
-    padding: 2.5rem;
+    padding: 3rem;
     display: flex;
     flex-direction: column;
   }
@@ -76,7 +73,7 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
       flex-direction: column;
     }
     .featured-content {
-      padding: 1.5rem;
+      padding: 2rem;
     }
   }
 
@@ -84,48 +81,51 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 1.5rem;
+    margin-bottom: 2rem;
     font-family: var(--font-meta);
+    border-bottom: 1px solid var(--bg-color);
+    padding-bottom: 1rem;
   }
 
   .featured-label {
-    font-size: 1rem;
+    font-size: 0.85rem;
     text-transform: uppercase;
-    letter-spacing: 0.1em;
-    font-weight: 900;
-    color: var(--bg-color);
-    background-color: var(--text-color);
-    padding: 0.3rem 0.8rem;
-    border: 3px solid var(--text-color);
-    border-radius: 0;
+    letter-spacing: 0.15em;
+    font-weight: 700;
+    color: var(--text-color);
+    background-color: var(--bg-color);
+    padding: 0.4rem 1rem;
+    border: none;
+    border-radius: 20px;
   }
 
   .featured-post:hover .featured-label {
-    background-color: var(--accent-color) !important;
-    color: var(--text-color) !important;
-    border-color: var(--text-color) !important;
+    background-color: var(--bg-color) !important;
+    color: var(--accent-color) !important;
   }
 
   time {
-    font-size: 1rem;
-    color: var(--text-color);
-    font-weight: 900;
+    font-size: 0.9rem;
+    color: var(--bg-color);
+    font-weight: 600;
     letter-spacing: 0.05em;
+    opacity: 0.9;
   }
 
   .featured-post:hover time {
     color: var(--bg-color) !important;
+    opacity: 1;
   }
 
   .card-titulo {
     font-family: var(--font-meta);
-    font-size: 3rem;
+    font-size: 3.5rem;
     margin: 1rem 0 1.5rem;
-    color: var(--text-color);
-    line-height: 1;
-    font-weight: 900;
-    text-transform: uppercase;
-    letter-spacing: -0.03em;
+    color: var(--bg-color);
+    line-height: 1.1;
+    font-weight: 800;
+    text-transform: none;
+    letter-spacing: -0.02em;
   }
 
   .featured-post:hover .card-titulo {
@@ -134,43 +134,45 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
 
   .card-excerpt {
     font-family: var(--font-body);
-    font-size: 1.3rem;
-    color: var(--text-color);
-    line-height: 1.5;
-    font-weight: 600;
-    margin: 0 0 1.5rem;
+    font-size: 1.4rem;
+    color: var(--bg-color);
+    line-height: 1.6;
+    font-weight: 400;
+    margin: 0 0 2rem;
+    opacity: 0.9;
   }
 
   .featured-post:hover .card-excerpt {
     color: var(--bg-color) !important;
+    opacity: 1;
   }
 
   .card-meta {
     display: flex;
     justify-content: flex-end;
     font-family: var(--font-meta);
-    font-size: 1.2rem;
-    color: var(--text-color);
-    font-weight: 900;
+    font-size: 1.1rem;
+    color: var(--bg-color);
+    font-weight: 600;
     margin-top: auto;
     padding-top: 1.5rem;
-    border-top: 4px solid var(--text-color);
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
   }
 
   .featured-post:hover .card-meta {
     color: var(--bg-color) !important;
-    border-top: 4px solid var(--bg-color) !important;
+    border-top: 1px solid rgba(255, 255, 255, 0.4) !important;
   }
 
   .card-autor {
-    font-weight: 900;
-    color: var(--text-color);
+    font-weight: 700;
+    color: var(--bg-color);
     font-style: normal;
     text-transform: uppercase;
+    letter-spacing: 0.05em;
   }
 
   .featured-post:hover .card-autor {
     color: var(--bg-color) !important;
   }
-
 </style>
