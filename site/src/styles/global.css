@@ -23,8 +23,8 @@
   --font-meta: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
   --max-width: 95vw;
-  --body-size: 22px;
-  --body-lh: 1.7;
+  --body-size: 26px;
+  --body-lh: 2.1;
 }
 
 [data-theme="dark"] {
@@ -119,9 +119,9 @@ body {
 /* === Layout === */
 
 main {
-  max-width: 98vw;
+  max-width: 90vw;
   margin: 0 auto;
-  padding: 4rem 2rem;
+  padding: 8rem 5%;
 }
 
 @media (max-width: 600px) {
@@ -185,10 +185,10 @@ h3 {
 
 
 p {
-  margin: 0 0 2.5rem 0;
+  margin: 0 0 3.5rem 0;
   text-align: left;
-  letter-spacing: 0.01em;
-  word-spacing: 0.02em;
+  letter-spacing: 0.03em;
+  word-spacing: 0.05em;
 }
 
 p + p {
@@ -239,19 +239,21 @@ li {
 }
 
 blockquote {
-  margin: 5rem 0;
-  padding: 3rem;
-  background: var(--bg-color);
+  margin: 6rem 0;
+  padding: 3rem 0;
+  background: transparent;
   color: var(--text-color);
   border: none;
-  border-left: 10px solid var(--accent-color);
+  border-left: 12px solid var(--accent-color);
+  padding-left: 3rem;
   font-family: var(--font-body);
-  font-size: 2.2rem;
+  font-size: 2.8rem;
   font-style: italic;
-  font-weight: 800;
+  font-weight: 400;
   box-shadow: none;
   text-transform: none;
-  letter-spacing: -0.01em;
+  letter-spacing: 0.02em;
+  line-height: 1.5;
   position: relative;
 }
 
