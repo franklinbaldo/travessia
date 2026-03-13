@@ -1880,23 +1880,36 @@ main
   box-shadow: 4px 4px 0 var(--text-color); /* Hard, brutalist shadow */
 }
 
-/* Classic book typography tweaks */
+/* === Brutal Typographic Spacing === */
 main p {
   margin-bottom: 0;
+  line-height: 1.8;
+  font-size: 1.25rem;
+  max-width: 55ch; /* Strict measure creating vast negative space in the wide container */
 }
 main p + p {
-  text-indent: 2em;
+  text-indent: 4rem; /* Aggressive indent */
   margin-top: 0;
+}
+main article p:first-of-type::first-letter, main > div > p:first-of-type::first-letter {
+  font-size: 3em;
+  line-height: 1;
+  float: left;
+  margin-right: 0.1em;
+  color: var(--text-color);
+  font-weight: bold;
 }
 main p:first-of-type {
   text-indent: 0;
+  margin-top: 2rem;
 }
 main blockquote {
-    font-size: 1.15rem;
-    line-height: 1.5;
-    margin: 2em 3em;
+    font-size: 1.4rem;
+    line-height: 1.6;
+    margin: 5rem 10vw; /* Extreme external spacing */
     font-style: italic;
-    border-left: none;
-    padding-left: 0;
-    text-align: justify;
+    border-left: 8px solid var(--accent-color); /* Brutal structural marker */
+    padding-left: 2rem;
+    text-align: left;
+    max-width: 60ch;
 }
