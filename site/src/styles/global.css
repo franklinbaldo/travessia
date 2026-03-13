@@ -1282,16 +1282,16 @@ main.home-layout {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-
-
+  transform: translateY(-2px);
+  box-shadow: 2px 2px 0px var(--accent-color);
 }
 
 [data-theme="dark"] .vereda:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-
-
+  transform: translateY(-2px);
+  box-shadow: 2px 2px 0px var(--accent-color);
 }
 
 .vereda.active,
@@ -1353,6 +1353,7 @@ main.home-layout {
   padding: 1rem;
   border: 1px solid transparent;
   border-top: 1px solid var(--text-color);
+  transition: all 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
 .blog-card:hover {
@@ -1852,8 +1853,7 @@ main.home-layout {
   background-color: var(--text-color);
   color: var(--bg-color) !important;
   border-color: var(--text-color);
-
-
+  transform: scale(1.05) rotate(-1deg);
 }
 
 
