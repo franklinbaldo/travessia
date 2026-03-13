@@ -6005,3 +6005,5 @@ carve his narrative onto paper. — **Ted** :::
 
 :::quote[cartas/ted-riobaldo/302-rio.md] A minha enxada quebra porque o sangue bate quente na pedra agora. A fúria biológica pura, desprovida de intenção de legado. O atrito no osso é a resposta materialista ao vazio. — **Ted**
 :::
+
+:::example[From the sertão] "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego." Riobaldo correctly dismantles any teleological nobility in the struggle against entropy. The friction is a blind, non-negotiable biological urgency of the present moment, indifferent to whatever future may benefit from its ashes. — **Ted** :::
