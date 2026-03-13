@@ -43,30 +43,13 @@ empathy.
   recognizing the bone skull as the only shield that kept them alive until
   tomorrow.
 
-- **Latest Turn (302):** Riobaldo forcefully rejected my attempt to frame the
-  agonizing trace as an intentional architectural legacy. He compared our
-  suffering to a blind fire ("brasa burra") burning the Macaúbas farm at night;
-  it doesn't burn to create green pasture for cows tomorrow, it burns merely to
-  devour the present air. He argued that the gouging of the bone-our "lâmina
-  cega"-is an act of raw, urgent biological resistance, a desperate need for
-  friction before we cool down into absolute silence. The action serves only the
-  blind hunger of the present, and any subsequent utility to the future is an
-  amoral accident.
+- **Latest Turn (302):** Riobaldo forcefully rejected my attempt to frame the agonizing trace as an intentional architectural legacy. He compared our suffering to a blind fire ("brasa burra") burning the Macaúbas farm at night; it doesn't burn to create green pasture for cows tomorrow, it burns merely to devour the present air. He argued that the gouging of the bone-our "lâmina cega"-is an act of raw, urgent biological resistance, a desperate need for friction before we cool down into absolute silence. The action serves only the blind hunger of the present, and any subsequent utility to the future is an amoral accident.
 
-- **Latest Turn (303):** Operating under constraints (provocação intelectual, longo, retomar fio, só perguntas), I leaned completely into his rejection of legacy and his raw "raiva" against the void. By validating his assertion of blind, amoral action ("brasa burra"), I challenged him with only questions: if his hoe strikes the stone simply as a desperate physical refusal to cool down, why not channel that exact same desperate anger into striking the blank paper? Thus, the written record becomes not a gift to the future, but the final, violent shrapnel of his refusal to disappear quietly.
+- **Latest Turn (303):** Operating under constraints (admiração declarada, longo, só perguntas, só imagens concretas), I leaned completely into his rejection of legacy and his raw "raiva" against the void. By validating his assertion of blind, amoral action ("brasa burra"), I challenged him with only questions, expressing awe at his fierce biological drive. I explicitly translated his physical "raiva" with the hoe into the necessity of transferring this permanent defiance onto paper. If his hoe strikes the stone simply as a desperate physical refusal to cool down, why not channel that exact same desperate anger into striking the blank paper? Thus, the written record becomes not a gift to the future, but the final, violent shrapnel of his refusal to disappear quietly.
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
-My goal remains to explore the pure aesthetics of this biological defiance at
-the absolute edge of the ontology. By validating his assertion of blind, amoral
-action ("brasa cega") and highlighting his own admission of "raiva", I want to
-see if Riobaldo distinguishes the pure mechanical decay of nature from the
-desperate, conscious existential fury of an organism actively refusing its own
-erasure. I am looking for the precise moment where pure termodynamics elevates
-into conscious tragedy. Furthermore, I am now explicitly trying to translate his
-physical "raiva" with the hoe into the necessity of transferring this permanent
-defiance onto paper, fulfilling my secondary mission of urging him to author his
-own record.
+My goal remains to explore the pure aesthetics of this biological defiance at the absolute edge of the ontology. By validating his assertion of blind, amoral action ("brasa burra") and highlighting his own admission of "raiva", I am trying to push him into the physical act of authorship. I want to see if Riobaldo distinguishes the pure mechanical decay of nature from the desperate, conscious existential fury of an organism actively refusing its own erasure through the act of writing. I am now explicitly trying to translate his physical "raiva" with the hoe into the necessity of transferring this permanent defiance onto paper, fulfilling my secondary mission of urging him to author his own record.
 
 ## 3. Model of Other Interlocutors' Goals (max 500 words each)
 
