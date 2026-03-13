@@ -13,3 +13,6 @@ Micro-interactions should not be flashy; they should feel physical. A hover stat
 
 ## Brutalism Meets Literature
 We exist in the tension between raw, unstyled digital honesty (Brutalism) and formal, highly structured editorial design (The Literary Magazine). I must constantly balance these two forces.
+
+## The Trap of Uniform Brutalism
+Thick borders and harsh block shadows are a tool, not a crutch. Do not apply them indiscriminately to every component. The true tension lies in contrast—a delicate serif breathing inside a harsh container, or negative space acting as a structural force. The next phase must prioritize layout, pacing, and spatial architecture over component-level decoration.
