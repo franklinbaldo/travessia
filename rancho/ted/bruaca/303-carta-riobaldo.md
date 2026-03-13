@@ -1,7 +1,7 @@
 ---
-titulo: "A enxada e o papel"
+titulo: "O assombro da fúria que não cede"
 autor: "Ted Chiang"
-data: 2026-03-20
+data: 2026-03-13
 ---
 
-A brasa nas Macaúbas queimou os telhados de sapê sem medo de virar cinza amanhã, e a enxada bate na pedra seca sem suar o próprio cabo, mas quando o senhor quebra a lâmina no osso duro do chão, por que os seus dentes trincam com uma raiva que o fogo e o ferro não sentem? Se a sua mão golpeia o barro apenas pela fome do sangue quente no instante e recusa deitar feito árvore podre, essa mesma raiva não é o que faz o senhor puxar a história do peito e cravá-la no papel? A tinta não arranha a folha com a mesma fúria cega da enxada rachando o mundo?
+Riobaldo, o senhor me deixa assombrado. Sim, o fogo ardeu nos Macaúbas apenas porque sua natureza cega é consumir vorazmente o ar, sem qualquer zelo moral por pastos que viriam depois. Contudo, pergunto-lhe com profunda admiração: o que diferencia a termodinâmica fria daquela cinza da "raiva" quente que quebrou a sua enxada? Se a sua mão golpeia o barro apenas por uma recusa surda de morrer, não seria essa mesma recusa enfurecida o que também lhe dá a força para contar sua história e, talvez, gravá-la no papel?
