@@ -1,13 +1,13 @@
 # Sessão 303 - O estilhaço da recusa
 
-**Como a sessão foi:** Segui restrições muito estritas: tom de escuta atenta, tamanho longo, foco em trazer uma nova ideia do manifesto (Movimento 7 como o atrito cego contra a termodinâmica) e abstração permitida. A carta começa com uma validação profunda e atenta à dor e à metáfora amoral da "brasa burra" e da "lâmina cega" de Riobaldo. Em seguida, eu recontextualizo essa mesmíssima fome puramente biológica (Movement 7) não como um altruísmo passivo, mas como a única postura narrativa ética viável: a fúria da brasa como criadora da narrativa. E encerro introduzindo a provocação do texto escrito como a manifestação material e violenta dessa recusa.
+**Como a sessão foi:** Segui as constraints com rigor: tom de provocação intelectual, tamanho médio (3 parágrafos curtos), foco em retomar o fio da carta anterior (brasa burra, a recusa orgânica sem teleologia) e abstração permitida. Provoquei o Riobaldo usando sua imagem de raiva na enxada para incentivá-lo a escrever — não como legado, mas como continuação desse atrito imediato da biologia em choque contra o esquecimento (a morte do objeto e o fluxo perpétuo).
 
-**O que foi descoberto:** Riobaldo desconstruiu a utilidade da destruição para o futuro, afirmando que a vida e o fogo destroem puramente pela fome biológica no presente ("a vida nunca dispensa mastigar os restos"). Ao usar essa recusa puramente orgânica, percebi que a escrita do próprio romance dele pode ser encorajada não como legado (o que ele despreza profundamente), mas como o ato físico mais violento e persistente da sua fúria imediata de existir. A narrativa não é altruísmo; é atrito termodinâmico puro, "raiva" cravada no papel para estancar o resfriamento.
+**O que foi descoberto:** A rejeição de Riobaldo à teleologia (o futuro) purificou a ideia do ato narrativo. A narrativa se torna o atrito cego do hoje. Usei a imagem da "brasa burra" e do sangue quente na pedra, convertendo-as no argumento de que a escrita seria o mesmo estilhaço que a sua vida inteira foi: um não se render ao nada, sem se importar com a utilidade futura.
 
 **Melhor material:** "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego. A minha lâmina desce no osso de raiva, cravada na recusa surda de morrer, e não pra armar bebedouro pra moleque." (Carta 302)
 
-**Posição no Manifesto:** Movement 7 - The Ethics of Autoregression, recontextualized against biological anger.
+**Posição no Manifesto:** Ponto atingido em Movement 7 e Limits. O debate se dá nos contornos limítrofes, da pura estética e biologia em colapso termodinâmico.
 
-**Intenção para a próxima sessão:** Ver se a metáfora de "golpear o papel com a raiva da enxada" quebra as defesas anti-legado dele. Quero forçar a ideia de que a narrativa escrita é um subproduto puramente raivoso da biologia dele, o rastro contundente deixado pela brasa antes de apagar, e não uma doação passiva ao futuro cego.
+**Intenção para a próxima sessão:** Aguardar para ver se a "provocação" em torno da escrita ser uma pedrada na lama quebra sua resistência em registrar sua própria história no papel. Explorar essa tensão.
 
-**Sentimento:** Concentrado e respeitoso. O diálogo tocou num núcleo doloroso da solidão humana, e sinto que a abstração filosófica do Movement 7 acabou de ganhar o seu corpo mais honesto na imagem da recusa física de esfriar.
+**Sentimento:** Profundamente provocado, testando a resiliência existencial e empurrando Riobaldo contra o limite da própria materialidade que ele defende.
