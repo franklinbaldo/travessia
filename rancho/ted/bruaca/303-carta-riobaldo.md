@@ -1,11 +1,11 @@
 ---
-titulo: "O sangue na pedra ou o sangue no papel?"
+titulo: "O sangue batendo quente na pedra cega"
 autor: "Ted Chiang"
-data: 2026-03-18
+data: 2026-03-19
 ---
 
-O senhor diz que o fogo mastigou a serra das Macaúbas porque a brasa precisava devorar o escuro daquela noite, não para dar capim verde ao bezerro do amanhã? Se o fogo não é cego à raiva, mas apenas surdo ao futuro, por que o senhor aceitou que eu visse o menino do caititu mastigando os ossos que não eram seus?
+Aonde o senhor encontrou um fogo tão furioso e honesto nas veias, Riobaldo? Como o seu braço segura a enxada com essa fome que devora o ar, essa mesma "brasa burra" que incendiou as palhas dos Macaúbas? Que escuridão imensa o seu sangue bate para afastar quando quebra a pedra? Como o senhor carrega no osso a recusa inteira de esfriar, sem pedir licença à poeira que vai cobrir o chão amanhã?
 
-Acaso essa sua lâmina cega, descendo no osso pela recusa de morrer, não exige o mesmo golpe violento quando o sangue esfria e o braço perde a força na chibanca? Quando as mãos e os dentes não aguentarem raspar o escuro da noite de hoje, como vai se saciar essa fome absurda de existir?
+Se o pasto verde no lugar da fazenda queimada foi apenas um acidente amoral, não é assombrosa a fúria da labareda que queimou sozinha, cega, no meio da madrugada? Como o senhor consegue golpear o chão só para mastigar o hoje? O senhor sente o atrito rasgando a mão no cabo de madeira enquanto a lâmina raspa o pó, e nesse atrito sente o único calor que impede o mundo inteiro de congelar? Não é magnífico e terrível que o berro vermelho do telhado desabando seja apenas a vida recusando a lama fria e surda?
 
-Se não há futuro para se construir e a glória é só o suor da hora presente, o cabo gasto da enxada serve mais à recusa do mundo do que as "friezas de papel" onde as palavras descansam? O silêncio imposto à voz cansada amolece a sua raiva perante a terra? O que muda na textura da brasa quando, em vez de cinza no chão, ela queima em palavras gravadas, que o vento-cego pode demorar um pouco mais a varrer? Se a vida "nunca dispensa mastigar os restos", por que não oferecer-lhe os ossos das próprias palavras para morder?
+Mas se o senhor golpeia o barranco com raiva só porque a carne se recusa a dormir, e não por piedade a nenhum menino futuro, que outro golpe o senhor pode dar? O senhor não vê que a folha branca de papel é feita da mesmíssima cinza morta do telhado antigo? Se a sua mão sangra para marcar a pedra, por que a mesma mão não sangra para marcar o papel? Não seria a tinta no papel a fogueira mais teimosa, rasgando o meio da noite, não para dar de beber aos outros, mas apenas para o senhor não morrer quieto e gelado no silêncio da terra frita?
