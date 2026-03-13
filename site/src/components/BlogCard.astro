@@ -217,20 +217,36 @@ const {
   }
 
   .blog-card .card-titulo {
-    transition: letter-spacing 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94), color 0.3s ease;
+    transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1), color 0.3s ease;
+  }
+
+  .blog-card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 0;
+    background-color: var(--accent-color);
+    transition: height 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  }
+
+  .blog-card:hover::before {
+    height: 100%;
   }
 
   .blog-card:hover .card-titulo {
-    letter-spacing: 0.02em; /* physical stretching of the text */
-    color: var(--accent-color) !important;
+    font-style: italic;
+    color: var(--text-color) !important;
+    transform: translateX(1.5rem);
   }
 
   .blog-card .card-excerpt {
-    transition: transform 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1);
   }
 
   .blog-card:hover .card-excerpt {
-    transform: translateX(1rem); /* stark structural indent */
+    transform: translateX(1.5rem);
   }
 
 </style>

@@ -47,11 +47,51 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
     background-color: transparent !important;
   }
 
+  .featured-post {
+    position: relative;
+    z-index: 1;
+  }
+
+  .featured-post::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 100%;
+    background-color: var(--text-color);
+    transition: width 0.5s cubic-bezier(0.77, 0, 0.175, 1);
+    z-index: -1;
+  }
+
+  .featured-post:hover::before {
+    width: 100%;
+  }
+
   .featured-post:hover {
-    opacity: 0.6;
     background-color: transparent !important;
-    color: var(--text-color) !important;
+    color: var(--bg-color) !important;
+    border-color: var(--text-color);
     transform: none !important;
+  }
+
+  .featured-post:hover .card-titulo,
+  .featured-post:hover .card-excerpt,
+  .featured-post:hover .featured-label,
+  .featured-post:hover time,
+  .featured-post:hover .card-meta,
+  .featured-post:hover .card-autor {
+    color: var(--bg-color) !important;
+    transition: color 0.3s ease;
+  }
+
+  .featured-post .card-titulo,
+  .featured-post .card-excerpt,
+  .featured-post .featured-label,
+  .featured-post time,
+  .featured-post .card-meta,
+  .featured-post .card-autor {
+    transition: color 0.5s ease;
   }
 
   .featured-content {
