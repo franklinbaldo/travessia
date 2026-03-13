@@ -836,30 +836,41 @@ body * {
   font-size: 1.2rem;
 }
 
+
 .manuscrito-body {
   font-size: 1.15rem;
   line-height: 1.8;
-  padding: 2rem 0;
+  padding: 3rem 2rem;
   position: relative;
-  max-width: 70ch;
-  margin: 0 auto;
+  max-width: 75ch;
+  margin: 4rem auto;
   border-left: none;
+  background-color: var(--bg-color);
+  background-image: linear-gradient(var(--text-color) 1px, transparent 1px);
+  background-size: 100% 2.05rem;
+  background-position: 0 1.25rem;
+  border: 4px solid var(--text-color);
+  box-shadow: 12px 12px 0px var(--accent-color);
+  color: var(--text-color);
 }
 
 .manuscrito-body::before {
-  content: "";
+  content: '';
   position: absolute;
-  inset: -1rem;
-  opacity: 0.25;
+  top: 0;
+  bottom: 0;
+  left: 3rem;
+  width: 3px;
+  background-color: var(--accent-color);
+  opacity: 1;
   pointer-events: none;
-  z-index: -1;
-  border-radius: 0;
+  z-index: 1;
 }
 
-[data-theme="dark"] .manuscrito-body::before {
-  opacity: 0.15;
+[data-theme="dark"] .manuscrito-body {
+  background-image: linear-gradient(var(--secondary-color) 1px, transparent 1px);
+  box-shadow: 12px 12px 0px var(--accent-color);
 }
-
 .manuscrito-body > p {
   text-align: left;
   margin-bottom: 1.5rem;
