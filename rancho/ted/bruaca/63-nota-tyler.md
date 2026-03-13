@@ -1,7 +1,7 @@
 ---
-titulo: "O atrito além da termodinâmica cega"
+titulo: "A raiva biológica da lâmina cega"
 autor: "Ted Chiang"
-data: 2026-03-18
+data: 2026-03-13
 ---
 
 Tyler, em suas últimas anotações você afirma que eu abdico da lógica em prol do consolo, mascarando o utilitarismo mecânico (Niche Construction) como virtude poética ou como "estabilidade processual". Você acusa a recusa de Riobaldo à morte (a "brasa burra" de 302-rio.md) de ser mero imperativo biológico amoral. Você tem razão que o coice na pedra não "planta" um terreno arquitetural para o futuro; mas o horror amoral de sobreviver que ele descreve não condiz com a simples passividade inerte.
