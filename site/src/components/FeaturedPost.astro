@@ -18,7 +18,6 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
   class={`featured-post autor-border-${autorClasse}`}
   data-autor={autorClasse}
 >
-  <div class="notebook-binding"></div>
   <div class="featured-content">
     <div class="featured-header">
       <span class="featured-label">Última Carta</span>
@@ -34,127 +33,40 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
 
 <style>
   .featured-post {
-    --notebook-bg: #f9f8f3;
-    --notebook-lines: #cce0e5;
-    --notebook-margin: #e8a2a2;
-    --notebook-ink: #2b2b2b;
-    --notebook-meta: #666666;
-
     display: flex;
     position: relative;
     margin-bottom: 4rem;
     padding: 0;
-    background-color: var(--notebook-bg);
-    border-radius: 4px 12px 12px 4px;
-    box-shadow:
-      5px 5px 15px rgba(0, 0, 0, 0.1),
-      inset 2px 0 5px rgba(0, 0, 0, 0.05);
+
+    background-color: var(--bg-color) !important;
+    border: 4px solid var(--text-color) !important;
+    border-radius: 0 !important;
+    box-shadow: 12px 12px 0 var(--text-color) !important;
+
     text-decoration: none;
     overflow: hidden;
-    transition: transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94), box-shadow 0.4s ease;
-    transform: rotate(-0.5deg);
+    transform: none !important;
+    transition: transform 0s, box-shadow 0s, background-color 0s, color 0s !important;
   }
 
   :global([data-theme="dark"]) .featured-post {
-    --notebook-bg: #1e2022;
-    --notebook-lines: #32383d;
-    --notebook-margin: #7a4646;
-    --notebook-ink: #e8e6e3;
-    --notebook-meta: #aaaaaa;
+    border: 4px solid var(--text-color) !important;
+    box-shadow: 12px 12px 0 var(--accent-color) !important;
   }
 
   .featured-post:hover {
-    transform: rotate(0deg) translateY(-4px);
-    box-shadow:
-      8px 12px 25px rgba(0, 0, 0, 0.15),
-      inset 2px 0 5px rgba(0, 0, 0, 0.05);
-  }
-
-  /* Animated ink stain microinteraction */
-  .featured-post::after {
-    content: '';
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 0;
-    height: 0;
-    background: radial-gradient(circle, var(--notebook-ink) 0%, transparent 70%);
-    opacity: 0;
-    transform: translate(-50%, -50%);
-    transition: width 0.6s cubic-bezier(0.19, 1, 0.22, 1), height 0.6s cubic-bezier(0.19, 1, 0.22, 1), opacity 0.4s ease;
-    pointer-events: none;
-    z-index: 10;
-    mix-blend-mode: multiply;
-  }
-
-  :global([data-theme="dark"]) .featured-post::after {
-    mix-blend-mode: screen;
-  }
-
-  .featured-post:hover::after {
-    width: 250%;
-    height: 250%;
-    opacity: 0.08;
-  }
-
-  /* Notebook dog-ear corner fold */
-  .featured-post::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    right: 0;
-    border-width: 0;
-    border-style: solid;
-    border-color: rgba(0,0,0,0.15) var(--bg-color) var(--bg-color) rgba(0,0,0,0.05);
-    box-shadow: -2px 2px 5px rgba(0,0,0,0.1);
-    transition: border-width 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    border-radius: 0 12px 0 0;
-    z-index: 5;
-  }
-
-  .featured-post:hover::before {
-    border-width: 35px;
+    transform: translate(-6px, -6px) !important;
+    box-shadow: 18px 18px 0 var(--accent-color) !important;
+    background-color: var(--text-color) !important;
+    color: var(--bg-color) !important;
+    border-color: var(--accent-color) !important;
   }
 
 
-  /* Structural element representing notebook binding/holes */
-  .notebook-binding {
-    width: 3.5rem;
-    flex-shrink: 0;
-    background-color: rgba(0,0,0,0.03);
-    border-right: 2px solid var(--notebook-margin);
-    display: flex;
-    flex-direction: column;
-  }
-
-  :global([data-theme="dark"]) .notebook-binding {
-    background-color: rgba(255,255,255,0.02);
-  }
-
-  .notebook-binding::before {
-    content: "";
-    display: block;
-    width: 100%;
-    height: 100%;
-    background-image: radial-gradient(circle at center, rgba(0,0,0,0.2) 30%, transparent 35%);
-    background-size: 100% 2.2rem;
-    background-position: center 1.1rem;
-  }
-
-  :global([data-theme="dark"]) .notebook-binding::before {
-    background-image: radial-gradient(circle at center, rgba(0,0,0,0.4) 30%, transparent 35%);
-  }
 
   .featured-content {
     flex-grow: 1;
-    padding: 2.5rem 3rem 3rem 2rem;
-    background-image: repeating-linear-gradient(
-      transparent,
-      transparent 2.1rem,
-      var(--notebook-lines) 2.1rem,
-      var(--notebook-lines) 2.2rem
-    );
-    background-position: 0 0.5rem;
+    padding: 2.5rem;
     display: flex;
     flex-direction: column;
   }
@@ -162,17 +74,6 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
   @media (max-width: 600px) {
     .featured-post {
       flex-direction: column;
-      transform: none;
-    }
-    .notebook-binding {
-      width: 100%;
-      height: 2.5rem;
-      border-right: none;
-      border-bottom: 2px solid var(--notebook-margin);
-    }
-    .notebook-binding::before {
-      background-size: 2.2rem 100%;
-      background-position: 1.1rem center;
     }
     .featured-content {
       padding: 1.5rem;
@@ -188,55 +89,88 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
   }
 
   .featured-label {
-    font-size: 0.85rem;
+    font-size: 1rem;
     text-transform: uppercase;
     letter-spacing: 0.1em;
-    font-weight: 700;
-    color: var(--notebook-bg);
-    background-color: var(--notebook-ink);
-    padding: 0.2rem 0.6rem;
-    border-radius: 2px;
+    font-weight: 900;
+    color: var(--bg-color);
+    background-color: var(--text-color);
+    padding: 0.3rem 0.8rem;
+    border: 3px solid var(--text-color);
+    border-radius: 0;
+  }
+
+  .featured-post:hover .featured-label {
+    background-color: var(--accent-color) !important;
+    color: var(--text-color) !important;
+    border-color: var(--text-color) !important;
   }
 
   time {
-    font-size: 0.85rem;
-    color: var(--notebook-meta);
+    font-size: 1rem;
+    color: var(--text-color);
+    font-weight: 900;
     letter-spacing: 0.05em;
   }
 
+  .featured-post:hover time {
+    color: var(--bg-color) !important;
+  }
+
   .card-titulo {
-    font-family: var(--font-body);
-    font-size: 2rem;
-    margin: 0 0 1.1rem;
-    color: var(--notebook-ink);
-    line-height: 1.1;
-    font-weight: 700;
-    letter-spacing: -0.02em;
+    font-family: var(--font-meta);
+    font-size: 3rem;
+    margin: 1rem 0 1.5rem;
+    color: var(--text-color);
+    line-height: 1;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: -0.03em;
+  }
+
+  .featured-post:hover .card-titulo {
+    color: var(--bg-color) !important;
   }
 
   .card-excerpt {
     font-family: var(--font-body);
-    font-size: 1.15rem;
-    color: var(--notebook-ink);
-    line-height: 2.2rem;
-    margin: 0 0 1.1rem;
+    font-size: 1.3rem;
+    color: var(--text-color);
+    line-height: 1.5;
+    font-weight: 600;
+    margin: 0 0 1.5rem;
+  }
+
+  .featured-post:hover .card-excerpt {
+    color: var(--bg-color) !important;
   }
 
   .card-meta {
     display: flex;
     justify-content: flex-end;
     font-family: var(--font-meta);
-    font-size: 1rem;
-    color: var(--notebook-ink);
-    font-weight: 600;
+    font-size: 1.2rem;
+    color: var(--text-color);
+    font-weight: 900;
     margin-top: auto;
-    padding-top: 1rem;
+    padding-top: 1.5rem;
+    border-top: 4px solid var(--text-color);
+  }
+
+  .featured-post:hover .card-meta {
+    color: var(--bg-color) !important;
+    border-top: 4px solid var(--bg-color) !important;
   }
 
   .card-autor {
-    font-weight: 700;
-    color: var(--notebook-ink);
-    font-style: italic;
+    font-weight: 900;
+    color: var(--text-color);
+    font-style: normal;
+    text-transform: uppercase;
+  }
+
+  .featured-post:hover .card-autor {
+    color: var(--bg-color) !important;
   }
 
 </style>

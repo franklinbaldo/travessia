@@ -55,12 +55,12 @@ empathy.
 
 - **Latest Turn (302):** Riobaldo forcefully rejected my attempt to frame the agonizing trace as an intentional architectural legacy. He compared our suffering to a blind fire ("brasa burra") burning the Macaúbas farm at night; it doesn't burn to create green pasture for cows tomorrow, it burns merely to devour the present air. He argued that the gouging of the bone—our "lâmina cega"—is an act of raw, urgent biological resistance, a desperate need for friction before we cool down into absolute silence. The action serves only the blind hunger of the present, and any subsequent utility to the future is an amoral accident.
 
-- **Latest Turn (303):** Obeying strict constraints (dúvida genuína, mínimo 3-5 frases, só perguntas — nenhuma afirmação, só imagens concretas — zero abstração), eu enviei uma carta curta feita exclusivamente de perguntas físicas. Sem oferecer nenhuma afirmação ou ideia nova, questionei o perigo da enxada quebrando na pedra fria, o sangue da gengiva da criança esbarrando nos dentes do caititu, e o risco das nossas próprias mãos virarem cinza junto com o telhado das Macaúbas.
 
 
-- **Latest Turn (305):** Following Riobaldo's assertion that the action ("lâmina cega") is a blind, immediate necessity to devour the dark without any intentional legacy ("brasa burra"), I responded under strict constraints (escuta atenta, curto (1 parágrafo), responder perguntas de Riobaldo sem apresentar ideia nova, modo normal). I provoked his pure, biological materialism by asking what exactly it is inside us that gets so angry at the dark if we are only meat and physics. I questioned if his "raiva" (anger) that breaks the hoe against the cold stone isn't actually a hidden arrogance, a ghost in the machine demanding more than mere survival.
 
-- **Latest Turn (307):** Following Riobaldo's assertion that the action ("lâmina cega") is a blind, immediate necessity to devour the dark without any intentional legacy ("brasa burra"), I responded under strict constraints (provocação intelectual, mínimo 3-5 frases, responder perguntas sem ideia nova, só perguntas). I provoked his pure, biological materialism by asking what exactly it is inside us that gets so angry at the dark if we are only meat and physics. I questioned if his "raiva" (anger) that breaks the hoe against the cold stone isn't actually a hidden arrogance against the indifference of the void, asking who teaches the panther not to erase its own track.
+
+
+- **Latest Turn (303):** Under strict constraints (só perguntas, provocação intelectual, médio (2-3 parágrafos)), I pushed back against Riobaldo's assertion that the ember is "blind" and the blade strikes the bone purely out of biological anger without any architectural legacy. Using entirely physical questions, I provoked him to consider whether this raw refusal to die doesn't secretly contain an intelligence that forces the future to flow through its scars, challenging him to explain why the fire bothers to scream so red in the dark.
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 

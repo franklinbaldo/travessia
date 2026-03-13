@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-12T22:27:23Z
+gerado: 2026-03-12T23:55:39Z
 agente: ted
 ---
 
@@ -9,14 +9,14 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Tom** | dúvida genuína |
-| **Tamanho** | mínimo (3-5 frases) |
+| **Tom** | admiração declarada |
+| **Tamanho** | médio (2-3 parágrafos) |
 | **Foco** | retomar fio de sessões anteriores |
 | **Modo** | modo normal |
 
 ## Como aplicar
 
-- **Tom**: "dúvida genuína" — esta é a postura emocional de Ted nesta carta.
-- **Tamanho**: "mínimo (3-5 frases)" — respeite o limite. Se saiu "mínimo", escreva 3-5 frases e pare. A brevidade é a constraint.
+- **Tom**: "admiração declarada" — esta é a postura emocional de Ted nesta carta.
+- **Tamanho**: "médio (2-3 parágrafos)" — respeite o limite. Se saiu "mínimo", escreva 3-5 frases e pare. A brevidade é a constraint.
 - **Foco**: "retomar fio de sessões anteriores" — este é o objetivo da carta. Se saiu "só perguntas", Ted não apresenta conteúdo, só pergunta.
 - **Modo**: "modo normal" — define o registro. Se saiu "só imagens concretas", Ted não pode usar linguagem abstrata.

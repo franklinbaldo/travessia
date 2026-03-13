@@ -81,146 +81,94 @@ const {
     color: var(--meta-color);
   }
 
-  /* Notebook constraints */
+  /* Brutalist constraints */
   .blog-card {
-    --notebook-bg: #f9f8f3;
-    --notebook-lines: #cce0e5;
-    --notebook-margin: #e8a2a2;
-    --notebook-ink: #2b2b2b;
-    --notebook-meta: #666666;
-
-    background-color: var(--notebook-bg) !important;
-    background-image: repeating-linear-gradient(
-      transparent,
-      transparent 1.9rem,
-      var(--notebook-lines) 1.9rem,
-      var(--notebook-lines) 2.0rem
-    ) !important;
-    background-position: 0 1rem !important;
-
-    border: none !important;
-    border-left: 2px solid var(--notebook-margin) !important;
-    border-radius: 0 8px 8px 0 !important;
-    box-shadow: 2px 2px 8px rgba(0,0,0,0.05) !important;
+    background-color: var(--bg-color) !important;
+    border: 4px solid var(--text-color) !important;
+    border-radius: 0 !important;
+    box-shadow: 8px 8px 0 var(--text-color) !important;
 
     padding: 1.5rem !important;
-    margin-bottom: 2rem !important;
-
+    margin-bottom: 2.5rem !important;
+    display: block;
     transform: none !important;
-    transition: transform 0.2s ease, box-shadow 0.2s ease !important;
+    transition: transform 0s, box-shadow 0s, background-color 0s, color 0s !important;
   }
 
   :global([data-theme="dark"]) .blog-card {
-    --notebook-bg: #1e2022;
-    --notebook-lines: #32383d;
-    --notebook-margin: #7a4646;
-    --notebook-ink: #e8e6e3;
-    --notebook-meta: #aaaaaa;
-    border-left: 2px solid var(--notebook-margin) !important;
+    border: 4px solid var(--text-color) !important;
+    box-shadow: 8px 8px 0 var(--accent-color) !important;
   }
 
   .blog-card:hover {
-    transform: translateY(-2px) !important;
-    box-shadow: 4px 6px 12px rgba(0,0,0,0.1) !important;
-    background-color: var(--notebook-bg) !important;
-    color: var(--notebook-ink) !important;
+    transform: translate(-4px, -4px) !important;
+    box-shadow: 12px 12px 0 var(--accent-color) !important;
+    background-color: var(--text-color) !important;
+    color: var(--bg-color) !important;
+    border-color: var(--accent-color) !important;
   }
 
   :global([data-theme="dark"]) .blog-card:hover {
-    background-color: var(--notebook-bg) !important;
-    color: var(--notebook-ink) !important;
+    background-color: var(--text-color) !important;
+    color: var(--bg-color) !important;
+    box-shadow: 12px 12px 0 var(--accent-color) !important;
   }
 
-  /* Reset hover colors for inner elements to use ink */
+  /* Reset hover colors for inner elements to use high contrast */
   .blog-card:hover .card-titulo,
   .blog-card:hover .card-excerpt,
   .blog-card:hover .card-meta,
   .blog-card:hover .card-autor,
-  .blog-card:hover time {
-    color: var(--notebook-ink) !important;
+  .blog-card:hover time,
+  .blog-card:hover .card-subtitulo {
+    color: var(--bg-color) !important;
   }
 
   .blog-card .card-titulo {
-    color: var(--notebook-ink);
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
-    letter-spacing: -0.02em;
-    position: relative;
-    display: inline-block;
-  }
-
-  .blog-card .card-titulo::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 2px;
-    background-color: var(--notebook-ink);
-    transform: scaleX(0);
-    transform-origin: left center;
-    transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1);
-  }
-
-  .blog-card:hover .card-titulo::after {
-    transform: scaleX(1);
+    color: var(--text-color);
+    font-family: var(--font-meta);
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: -0.03em;
+    font-size: 1.75rem;
+    line-height: 1.1;
   }
 
   .blog-card .card-excerpt {
-    color: var(--notebook-ink);
-    opacity: 0.85;
-    font-family: 'Courier New', Courier, monospace;
+    color: var(--text-color);
+    font-family: var(--font-body);
+    font-size: 1.1rem;
+    line-height: 1.4;
+    font-weight: 600;
   }
 
   .blog-card .card-tipo {
-    color: var(--notebook-bg);
-    background-color: var(--notebook-ink);
-    padding: 0.1rem 0.4rem;
-    border: none;
+    color: var(--bg-color);
+    background-color: var(--text-color);
+    padding: 0.2rem 0.6rem;
+    border: 2px solid var(--text-color);
+    font-weight: 900;
+    font-size: 0.8rem;
+    text-transform: uppercase;
     display: inline-block;
-    transition: transform 0.2s ease;
   }
 
   .blog-card:hover .card-tipo {
-    color: var(--notebook-bg) !important;
-    transform: rotate(-3deg) scale(1.05);
-    transition: transform 0.2s cubic-bezier(0.34, 1.56, 0.64, 1);
+    background-color: var(--accent-color) !important;
+    color: var(--text-color) !important;
+    border-color: var(--text-color) !important;
   }
 
   .blog-card .card-meta {
-    border-top: 1px dashed var(--notebook-lines) !important;
-    padding-top: 0.5rem;
-    color: var(--notebook-meta);
-    transition: padding 0.3s ease, border-color 0.3s ease;
+    border-top: 4px solid var(--text-color) !important;
+    padding-top: 0.75rem;
+    color: var(--text-color);
+    font-weight: 900;
   }
 
   .blog-card:hover .card-meta {
-    border-top: 1px dashed var(--notebook-ink) !important;
-    padding-top: 0.75rem;
-  }
-
-  /* Disable old global brutalist hover indicator */
-  .blog-card::before {
-    display: none !important;
-  }
-
-  /* Corner Fold */
-
-  .blog-card::after {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    border-width: 0;
-    border-style: solid;
-    border-color: rgba(0,0,0,0.2) var(--bg-color) var(--bg-color) rgba(0,0,0,0.1);
-    box-shadow: -2px -2px 5px rgba(0,0,0,0.1);
-    transition: border-width 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    border-radius: 0 0 8px 0;
-  }
-
-  .blog-card:hover::after {
-    border-width: 25px;
+    border-top: 4px solid var(--bg-color) !important;
+    color: var(--bg-color) !important;
   }
 
 </style>
