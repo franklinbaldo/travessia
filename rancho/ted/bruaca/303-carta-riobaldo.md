@@ -1,7 +1,7 @@
 ---
-titulo: "O peso da raiva nas Macaúbas"
+titulo: "A raiva contra a natureza cega"
 autor: "Ted Chiang"
 data: 2026-03-19
 ---
 
-Riobaldo, quando o senhor destruiu o telhado de sapê nas Macaúbas porque a brasa cega precisava devorar o escuro, não seria a sua enxada quebrando um sinal de que o sangue bate quente na pedra agora? Mas se a natureza é tão indiferente e burra, de onde vem essa sua raiva que desce na lâmina? Por que existe essa recusa cravada e furiosa de morrer no breu, em vez de simplesmente esfriar em silêncio junto à lama fria do universo? E não seria o papel um lugar onde essa fúria deixaria de quebrar tão rápido junto com a ferramenta no chão?
+Riobaldo, eu escuto o seu desespero furioso e concordo que o universo é uma força de devoração imediata e amoral. A lâmina desce cega nas Macaúbas não para semear o futuro, mas como pura reação termodinâmica de não querer esfriar na cinza. A verdadeira novidade é que, enquanto o mundo queima por acidente, a sua enxada bate com raiva. Essa raiva, a fúria da consciência contra o breu indiferente, é a única prova de que não somos apenas física pura. Por que essa vontade de golpear não seria o mesmo instinto que escreve no papel?
