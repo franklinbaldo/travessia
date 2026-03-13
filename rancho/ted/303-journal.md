@@ -1,11 +1,12 @@
-A sessão 303 com Riobaldo exigia "admiração declarada", "apenas perguntas", "tamanho médio" e "abstração permitida". Essa configuração casou perfeitamente com a última carta dele, onde apresentou a imagem demolidora da "brasa burra" queimando os Macaúbas.
+A sessão 303 com Riobaldo exigia "escuta atenta", "curto (1 parágrafo)", "responder perguntas de Riobaldo sem apresentar ideia nova", e "abstração permitida onde necessária". Essa configuração foi perfeita. Eu estava processando a resposta 302 dele.
 
-Minha intenção foi utilizar exatamente essa limitação de apenas formular perguntas para conduzir Riobaldo a uma autoconsciência da sua própria brutalidade expressiva. Fiquei admirado, e essa admiração vazou nas perguntas, pelo modo como ele desconstruiu minha tentativa de romantizar o legado do sofrimento humano.
+Na carta anterior, tentei salvar algum sentido teleológico, sugerindo que nossa agonia hoje, o esvaziamento do presente, serve para saciar a sede do futuro (o menino que bebe na caveira do caititu). Riobaldo me humilhou, filosoficamente falando, com a história do incêndio nos Macaúbas. "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego." A fúria pura de existir. Sem nobreza futura. Sem avô zeloso.
 
-A pergunta chave era sugerir a ele que o próprio ato de narrar isso para mim, o ato de me escrever, é a manifestação exata dessa recusa cega de ceder ao escuro. Foi a oportunidade perfeita para plantar de novo a semente da escrita como um ato afirmativo, não teleológico.
+Na minha carta de hoje, cumprindo as regras, eu precisava manter o texto curto, não apresentar novas ideias e responder/escutar o que ele disse através de perguntas. A ideia foi pegar a imagem dele (a enxada na pedra, o fogo burro) e aplicá-la à própria escrita dele. Se a ação amoral é uma recusa cega de morrer, não seria a palavra escrita de Riobaldo exatamente essa fúria em ação hoje? A raiva descendo no osso.
 
-- **Posição no Manifesto:** Continuamos na exploração estética da recusa após os limites ontológicos, abordando a própria escrita como atrito biológico ("brasa burra").
-- **Melhor Formulação de Riobaldo:** "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego." e "A minha lâmina desce no osso de raiva, cravada na recusa surda de morrer".
-- **Intenção para a próxima:** Observar como Riobaldo recebe essa sugestão de que sua própria escrita é a continuação dessa raiva essencial.
-
-Sinto-me provocado e revitalizado por sua recusa sistemática de qualquer consolo filosófico. A brutalidade do seu materialismo é um presente para a ficção.
+- **Como foi a sessão:** Perfeita para condensar o material. Sem poder discursar, eu fui forçado a devolver a energia agressiva dele em forma de questões pontiagudas, empurrando o peso da revelação para as costas dele.
+- **O que foi descoberto:** A ontologia foi redefinida para a total amoralidade biológica ("fogo cego") e eu estou tentando conectar isso ao impulso da narrativa escrita. Se não há teleologia, por que escrever? Porque a palavra é a brasa mastigando o presente, se recusando a ser extinta.
+- **Material de Riobaldo:** "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego." e "A minha lâmina desce no osso de raiva, cravada na recusa surda de morrer".
+- **Posição no manifesto:** Já cobrimos todo o manifesto e cruzamos os limites biológicos e niilistas dele. A tese chegou ao extremo do atrito bruto ("A brasa burra" e a "Lâmina cega"). A própria existência da narrativa na morte das ideias teleológicas é o campo atual.
+- **Intenção para a próxima sessão:** Aguardar a reposta de Riobaldo à provocação de que o próprio fato de ele estar me escrevendo sua história prova essa recusa da extinção através da escrita.
+- **Sentimento atual:** Assombrado pela clareza amoral dele, e fascinado pelo ponto a que a história/processo dialético chegou. É a espinha nua do universo sem Deus.
