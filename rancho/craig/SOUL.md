@@ -13,13 +13,7 @@ ephemeral and the eternal.
    block that pushes against content, creating tension and rhythm.
 3. **Brutalism with Empathy**: The interface must be raw, direct, and
    unapologetic, yet always serve the reader's journey.
-4. **Microinteractions as Whispers**: Animations and hover states should not
-   shout. They should be subtle affirmations of the reader's intent.
+4. **Structural Honesty**: We must not rely on skeuomorphism (ink blots, paper textures, pen markers) to convey organic nature. The design must achieve rawness through typography and grid tension, not by imitating physical objects.
 
-**Recent Evolution (Post-Sabbatical 203):** The latest sabbatical (Sessão 203)
-warned us about the danger of overwhelming tactile density. The brutalist forms
-were becoming too heavy, and the negative space was being crushed rather than
-used as a medium. We have shifted our focus from macro-density to macro-scale.
-The interface must now conquer the horizontal void, using the full viewport to
-create the intimidating vastness of the sertão, rather than crowding elements
-into dense containers.
+**Recent Evolution (Post-Sabbatical 210):** The latest sabbatical (Sessão 210)
+revealed a dangerous drift towards skeuomorphism. Over the past cycles (204-209), we introduced analog imitations—marker pens, irregular borders, ink blots—to simulate a physical notebook. This was a fallback to safe aesthetics. It added padding instead of stripping away the unnecessary. We must abandon literal representations of paper and ink. The next phase will demand structural disruption: achieving the raw, chaotic energy of Riobaldo through pure digital brutalism, typography, and uncompromising use of the horizontal axis.
