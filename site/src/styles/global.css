@@ -713,8 +713,8 @@ body * {
   border-left: none;
   background-color: var(--bg-color);
   background-image: linear-gradient(var(--text-color) 1px, transparent 1px);
-  background-size: 100% 2.05rem;
-  background-position: 0 1.25rem;
+  background-size: 100% 2.07rem;
+  background-position: 0 1.45rem;
   border: 4px solid var(--text-color);
   box-shadow: 12px 12px 0px var(--accent-color);
   color: var(--text-color);
@@ -1601,15 +1601,15 @@ main
 }
 /* === Classic Printed Book Typographic Spacing === */
 main p {
-  margin-bottom: 3rem; /* Brutal disjointed spacing */
-  line-height: 1.05; /* Suffocatingly tight line height */
-  font-size: clamp(1.5rem, 4vw, 2.5rem); /* Aggressive, scaling typography */
+  margin-bottom: 1.8rem; /* Brutal disjointed spacing */
+  line-height: 1.8; /* Suffocatingly tight line height */
+  font-size: 1.5rem; /* Aggressive, scaling typography */
   max-width: 100%; /* Break the safe classic measure */
   margin-left: 0;
   margin-right: 0;
   text-align: left; /* Harsh ragged right */
   hyphens: none;
-  letter-spacing: -0.03em; /* Stressed tracking */
+  letter-spacing: 0.01em; /* Stressed tracking */
   word-break: break-word; /* Let words break brutally if needed */
 }
 main p + p {
@@ -1638,61 +1638,6 @@ main blockquote {
     padding: 0 4rem; /* Classic inset */
     text-align: justify;
     max-width: 50ch;
-}
-/* === Brutalist Microinteractions & Details === */
-/* Constraint: "web brutalista" + "microinterações e detalhes" + "nenhuma mudança estrutural" */
-main p {
-  position: relative;
-  isolation: isolate;
-  transition: transform 0.1s steps(3, end), background-color 0.1s steps(3, end), color 0.1s steps(3, end);
-}
-main p::before {
-  content: ">>"; /* Brutalist command line prompt / structural marker */
-  position: absolute;
-  top: 0;
-  left: -2em;
-  color: var(--accent-color);
-  font-family: var(--font-mono, monospace);
-  font-weight: 700;
-  font-size: 1rem;
-  line-height: 1.6;
-  opacity: 0;
-  transform: translateX(10px);
-  transition: opacity 0.1s steps(2, end), transform 0.1s steps(2, end);
-  pointer-events: none;
-}
-main p:hover {
-  transform: translateX(2px) translateY(1px); /* Jittery, rigid translation, not a smooth slide */
-  background-color: var(--text-color);
-  color: var(--bg-color);
-  box-shadow: 4px 4px 0px var(--accent-color); /* Harsh, flat shadow */
-  padding: 0.25rem 0.5rem; /* Slight padding pop inside the existing layout flow */
-  margin-left: -0.5rem; /* Counteract padding to keep structural alignment roughly identical */
-  margin-right: -0.5rem;
-}
-main p:hover::before {
-  opacity: 1;
-  transform: translateX(0); /* Snaps into place */
-}
-/* Brutalist drop cap hover */
-main article p:first-of-type::first-letter, main > div > p:first-of-type::first-letter {
-  transition: background-color 0.1s, color 0.1s, transform 0.1s steps(2, end);
-  display: inline-block;
-  padding: 0 0.1em;
-}
-main article p:first-of-type:hover::first-letter, main > div > p:first-of-type:hover::first-letter {
-  background-color: var(--accent-color);
-  color: var(--bg-color);
-  transform: scale(1.1) skew(-5deg); /* Harsh skew */
-}
-/* Hard, binary focus states for images within manuscript body to fit brutalist microinteractions */
-.manuscrito-body img {
-  transition: filter 0.1s steps(2, end), transform 0.1s steps(2, end), border-width 0.1s steps(2, end);
-}
-.manuscrito-body img:hover {
-  transform: translate(2px, 2px);
-  border-width: 4px;
-  box-shadow: -4px -4px 0px var(--accent-color);
 }
 /* === Brutal Articles === */
 article {
