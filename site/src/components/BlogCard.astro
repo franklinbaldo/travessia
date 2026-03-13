@@ -123,22 +123,7 @@ const {
     margin-right: -2rem !important;
   }
 
-  .blog-card::after {
-    content: '';
-    position: absolute;
-    bottom: -2px; /* cover the bottom border */
-    left: 50%;
-    width: 0;
-    height: 4px;
-    background-color: var(--accent-color);
-    transition: width 0.5s cubic-bezier(0.19, 1, 0.22, 1), left 0.5s cubic-bezier(0.19, 1, 0.22, 1);
-    z-index: 10;
-  }
 
-  .blog-card:hover::after {
-    width: 100%;
-    left: 0;
-  }
 
   :global([data-theme="dark"]) .blog-card:hover {
     background-color: transparent !important;
@@ -146,7 +131,7 @@ const {
     box-shadow: none !important;
   }
 
-  /* Maintain text colors, the microinteraction is the horizontal bar now */
+  /* Maintain text colors during hover */
   .blog-card:hover .card-titulo,
   .blog-card:hover .card-excerpt,
   .blog-card:hover .card-autor,
@@ -222,6 +207,41 @@ const {
     border-top: none !important;
     color: var(--meta-color) !important;
     opacity: 1;
+  }
+
+
+  /* Manuscrito/caderno hover interaction */
+  .blog-card {
+    position: relative;
+    overflow: visible;
+    isolation: isolate; /* Create new stacking context so z-index: -1 doesn't go behind the page background */
+  }
+
+  .blog-card::before {
+    content: '';
+    position: absolute;
+    bottom: 2rem;
+    left: 2rem;
+    width: 0;
+    height: 6px;
+    background-color: var(--accent-color);
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px; /* rough pen stroke look */
+    transform: rotate(-1deg);
+    transition: width 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    z-index: -1;
+    opacity: 0.6;
+  }
+
+  .blog-card:hover::before {
+    width: calc(100% - 4rem);
+  }
+
+  .blog-card .card-titulo {
+    transition: transform 0.2s ease-out;
+  }
+
+  .blog-card:hover .card-titulo {
+    transform: translateY(-2px) rotate(0.5deg); /* slight paper shift */
   }
 
 </style>
