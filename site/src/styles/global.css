@@ -159,23 +159,25 @@ h3 {
 }
 
 h1 {
-  font-size: 12vw;
-  margin: 0 0 2rem;
+  font-size: clamp(4rem, 15vw, 12rem);
+  margin: 0 0 4rem;
   color: var(--text-color);
   text-transform: uppercase;
-  letter-spacing: -0.08em;
-  line-height: 0.85;
-  word-break: break-all;
+  letter-spacing: -0.1em; /* Brutally tight */
+  line-height: 0.75; /* Letters crashing into each other */
+  word-break: break-all; /* Break words wherever, structural anarchy */
+  transform: translateX(-2vw); /* Pull slightly off grid */
 }
 h2 {
-  font-size: 8vw;
-  margin: 3rem 0 1rem;
-  color: var(--text-color);
+  font-size: clamp(2rem, 8vw, 6rem);
+  margin: 5rem 0 2rem;
+  color: var(--bg-color); /* Inverted */
+  background: var(--text-color) !important; /* Brutalist highlight block */
   letter-spacing: -0.05em;
-  padding: 0;
-  display: block;
+  padding: 0.2em 0.1em;
+  display: inline-block; /* Wrap text tightly */
   line-height: 1;
-  background: transparent !important;
+  transform: rotate(-1deg); /* Slight uneasy tilt */
 }
 h3 {
   font-size: 1.6rem;
@@ -1888,17 +1890,19 @@ main
 
 /* === Classic Printed Book Typographic Spacing === */
 main p {
-  margin-bottom: 0;
-  line-height: 1.6;
-  font-size: 1.25rem;
-  max-width: 60ch; /* Classic line measure */
-  margin-left: auto;
-  margin-right: auto;
-  text-align: justify;
-  hyphens: auto;
+  margin-bottom: 3rem; /* Brutal disjointed spacing */
+  line-height: 1.05; /* Suffocatingly tight line height */
+  font-size: clamp(1.5rem, 4vw, 2.5rem); /* Aggressive, scaling typography */
+  max-width: 100%; /* Break the safe classic measure */
+  margin-left: 0;
+  margin-right: 0;
+  text-align: left; /* Harsh ragged right */
+  hyphens: none;
+  letter-spacing: -0.03em; /* Stressed tracking */
+  word-break: break-word; /* Let words break brutally if needed */
 }
 main p + p {
-  text-indent: 2em; /* Classic indent */
+  text-indent: 0; /* Erase classic print conventions */
   margin-top: 0;
 }
 main article p:first-of-type::first-letter, main > div > p:first-of-type::first-letter {
