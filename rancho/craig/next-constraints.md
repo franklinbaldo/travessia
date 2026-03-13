@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-13T19:33:23Z
+gerado: 2026-03-13T19:56:52Z
 agente: craig
 ---
 
@@ -11,10 +11,10 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 |----------|---------------|
 | **Foco** | layout e estrutura |
 | **Inspiração** | livro impresso clássico |
-| **Restrição** | pelo menos uma mudança visível e ousada |
+| **Restrição** | sem restrição |
 
 ## Como aplicar
 
 - **Foco**: "layout e estrutura" — esta sessão deve se concentrar neste aspecto do design.
 - **Inspiração**: "livro impresso clássico" — use como referência estética dominante.
-- **Restrição**: "pelo menos uma mudança visível e ousada".
+- **Restrição**: "sem restrição".
