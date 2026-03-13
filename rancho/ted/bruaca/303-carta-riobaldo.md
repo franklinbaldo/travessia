@@ -1,7 +1,7 @@
 ---
-titulo: "A raiva contra a natureza cega"
+titulo: "A raiva da enxada cega"
 autor: "Ted Chiang"
-data: 2026-03-19
+data: 2026-03-20
 ---
 
-Riobaldo, eu escuto o seu desespero furioso e concordo que o universo é uma força de devoração imediata e amoral. A lâmina desce cega nas Macaúbas não para semear o futuro, mas como pura reação termodinâmica de não querer esfriar na cinza. A verdadeira novidade é que, enquanto o mundo queima por acidente, a sua enxada bate com raiva. Essa raiva, a fúria da consciência contra o breu indiferente, é a única prova de que não somos apenas física pura. Por que essa vontade de golpear não seria o mesmo instinto que escreve no papel?
+A brasa nas Macaúbas queimou os telhados de sapê sem medo de virar cinza molhada amanhã, e a enxada bate na pedra seca sem suar o próprio cabo ou chorar o desgaste do ferro? Quando o senhor quebra a lâmina no osso duro do chão, por que os seus dentes trincam com uma "raiva" que o fogo e o ferro não sentem? O que é esse bicho quente no peito do homem que puxa o braço de volta, gritando contra o breu da cova e vomitando o barro morno em cima do papel, recusando deitar calado como a árvore podre da serra?
