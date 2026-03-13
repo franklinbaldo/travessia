@@ -1889,3 +1889,89 @@ main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-conte
   width: 100%;
   left: 0;
 }
+
+
+/* === Microinteractions: Manuscrito/Caderno === */
+
+/* Highlighting effect for text links (like a marker pen) */
+main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo) {
+  position: relative;
+  text-decoration: none;
+  z-index: 1;
+}
+
+main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo)::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 0.3em;
+  background-color: var(--accent-color);
+  opacity: 0.3;
+  z-index: -1;
+  transition: height 0.2s ease, opacity 0.2s ease;
+  transform-origin: bottom;
+}
+
+main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo):hover::after {
+  height: 100%;
+  opacity: 0.2;
+}
+
+/* Notebook margin notes hover effect for author indicators */
+.blog-card[data-autor="rio"]::before,
+.blog-card[data-autor="ted"]::before {
+  content: "✎";
+  position: absolute;
+  left: -1.5rem;
+  top: 1.5rem;
+  font-family: var(--font-meta);
+  font-size: 1.2rem;
+  color: var(--accent-color);
+  opacity: 0;
+  transform: rotate(-15deg);
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.blog-card:hover::before {
+  opacity: 0.7;
+  left: -2rem;
+  transform: rotate(0deg);
+}
+
+/* Timeline dots acting like ink blots spreading */
+.timeline-dot {
+  position: relative;
+  overflow: hidden;
+}
+
+.timeline-dot::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  background-color: var(--text-color);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  transition: width 0.4s ease-out, height 0.4s ease-out;
+  z-index: -1;
+  opacity: 0.1;
+}
+
+.timeline-dot:hover::before {
+  width: 300%;
+  height: 300%;
+}
+
+/* Slight random tilt for cards on hover (like scattered papers) */
+.blog-card {
+  transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.blog-card:hover {
+  transform: translateY(-2px) rotate(0.5deg);
+  box-shadow: 2px 4px 10px rgba(0,0,0,0.05);
+}
