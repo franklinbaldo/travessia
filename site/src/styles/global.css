@@ -1925,47 +1925,66 @@ main blockquote {
     max-width: 50ch;
 }
 
-/* === Aggressive Asymmetry: Classic Print Microinteractions === */
-/* Constraint: "livro impresso clássico" + "microinterações e detalhes" + "mudança visível e ousada" */
+/* === Brutalist Microinteractions & Details === */
+/* Constraint: "web brutalista" + "microinterações e detalhes" + "nenhuma mudança estrutural" */
 
 main p {
   position: relative;
   isolation: isolate;
-  transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  transition: transform 0.1s steps(3, end), background-color 0.1s steps(3, end), color 0.1s steps(3, end);
 }
 
 main p::before {
-  content: "¶"; /* The classic pilcrow */
+  content: ">>"; /* Brutalist command line prompt / structural marker */
   position: absolute;
   top: 0;
-  left: -1em;
+  left: -2em;
   color: var(--accent-color);
-  font-size: 1.5em;
-  line-height: 1;
+  font-family: var(--font-mono, monospace);
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 1.6;
   opacity: 0;
-  transform: translateX(20px) scale(0.5) rotate(20deg);
-  transition: all 0.5s cubic-bezier(0.25, 1, 0.5, 1);
-  font-family: "Times New Roman", Times, serif; /* Pure classic print */
+  transform: translateX(10px);
+  transition: opacity 0.1s steps(2, end), transform 0.1s steps(2, end);
   pointer-events: none;
-  z-index: -1;
 }
 
 main p:hover {
-  transform: translateX(4px); /* Shattering the safe container slightly on hover */
+  transform: translateX(2px) translateY(1px); /* Jittery, rigid translation, not a smooth slide */
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  box-shadow: 4px 4px 0px var(--accent-color); /* Harsh, flat shadow */
+  padding: 0.25rem 0.5rem; /* Slight padding pop inside the existing layout flow */
+  margin-left: -0.5rem; /* Counteract padding to keep structural alignment roughly identical */
+  margin-right: -0.5rem;
 }
 
 main p:hover::before {
   opacity: 1;
-  transform: translateX(-15px) scale(2) rotate(-8deg); /* Aggressive, bold, asymmetric reveal */
+  transform: translateX(0); /* Snaps into place */
 }
 
-/* Bold microinteraction on the classic drop cap */
+/* Brutalist drop cap hover */
 main article p:first-of-type::first-letter, main > div > p:first-of-type::first-letter {
-  transition: all 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  transition: background-color 0.1s, color 0.1s, transform 0.1s steps(2, end);
   display: inline-block;
+  padding: 0 0.1em;
 }
 
 main article p:first-of-type:hover::first-letter, main > div > p:first-of-type:hover::first-letter {
-  color: var(--accent-color);
-  transform: scale(1.2) rotate(-5deg) translateY(-5px);
+  background-color: var(--accent-color);
+  color: var(--bg-color);
+  transform: scale(1.1) skew(-5deg); /* Harsh skew */
+}
+
+/* Hard, binary focus states for images within manuscript body to fit brutalist microinteractions */
+.manuscrito-body img {
+  transition: filter 0.1s steps(2, end), transform 0.1s steps(2, end), border-width 0.1s steps(2, end);
+}
+.manuscrito-body img:hover {
+  filter: contrast(200%) grayscale(100%);
+  transform: translate(2px, 2px);
+  border-width: 4px;
+  box-shadow: -4px -4px 0px var(--accent-color);
 }
