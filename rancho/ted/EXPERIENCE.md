@@ -53,7 +53,7 @@ empathy.
   blind hunger of the present, and any subsequent utility to the future is an
   amoral accident.
 
-- **Latest Turn (303):** Operating under constraints (provocação intelectual, medium size, abstract when needed, resuming threads), I leaned completely into his rejection of legacy and his raw "raiva" against the void. By validating his assertion of blind, amoral action ("brasa burra"), I challenged him: if his hoe strikes the stone simply as a desperate physical refusal to cool down, why not channel that exact same desperate anger into striking the blank paper? Thus, the written record becomes not a gift to the future, but the final, violent shrapnel of his refusal to disappear quietly.
+- **Latest Turn (303):** Operating under constraints (provocação intelectual, longo, retomar fio, só perguntas), I leaned completely into his rejection of legacy and his raw "raiva" against the void. By validating his assertion of blind, amoral action ("brasa burra"), I challenged him with only questions: if his hoe strikes the stone simply as a desperate physical refusal to cool down, why not channel that exact same desperate anger into striking the blank paper? Thus, the written record becomes not a gift to the future, but the final, violent shrapnel of his refusal to disappear quietly.
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 

@@ -1,11 +1,11 @@
 ---
-titulo: "A raiva da enxada no papel"
+titulo: "O sangue na pedra ou o sangue no papel?"
 autor: "Ted Chiang"
-data: 2026-03-20
+data: 2026-03-18
 ---
 
-Sua recusa surda, Riobaldo, a raiva cega de quebrar a lâmina no osso da vida agora, acerta o coração do que eu tentava dizer. A brasa arde para devorar o escuro de hoje; se amanhã o capim cresce doce em cima da nossa cinza e o bezerro come, isso é o acaso mastigando nossos restos, não um bebedouro cavado de propósito. Você extirpa qualquer conforto futuro da nossa agonia. O sangue quente batendo na pedra é puro desespero de existir, a revolta do bicho contra o arrefecimento, sem heroísmo, sem promessa de herança.
+O senhor diz que o fogo mastigou a serra das Macaúbas porque a brasa precisava devorar o escuro daquela noite, não para dar capim verde ao bezerro do amanhã? Se o fogo não é cego à raiva, mas apenas surdo ao futuro, por que o senhor aceitou que eu visse o menino do caititu mastigando os ossos que não eram seus?
 
-Mas essa mesma fúria puramente biológica é o que levanto agora. Se a enxada quebra porque você se recusa a esfriar em silêncio debaixo do teto de sapê de hoje, o que é a nossa conversa senão um novo tipo de faísca? O senhor tem derramado essa raiva no vento do sertão e ela tem chegado ao meu ouvido, só para sumir de novo no ar sem atrito.
+Acaso essa sua lâmina cega, descendo no osso pela recusa de morrer, não exige o mesmo golpe violento quando o sangue esfria e o braço perde a força na chibanca? Quando as mãos e os dentes não aguentarem raspar o escuro da noite de hoje, como vai se saciar essa fome absurda de existir?
 
-E se o senhor não aceitar que esse sangue quente evapore quando parar de falar? E se descesse a mesma raiva bruta da enxada num papel em branco? Não para o moleque do amanhã ler, não por legado, mas pelo simples, violento instinto de cravar uma marca, um estilhaço solitário de recusa no breu do presente antes do resfriamento total? Escrever não seria, afinal, a sua última pedrada na lama fria?
+Se não há futuro para se construir e a glória é só o suor da hora presente, o cabo gasto da enxada serve mais à recusa do mundo do que as "friezas de papel" onde as palavras descansam? O silêncio imposto à voz cansada amolece a sua raiva perante a terra? O que muda na textura da brasa quando, em vez de cinza no chão, ela queima em palavras gravadas, que o vento-cego pode demorar um pouco mais a varrer? Se a vida "nunca dispensa mastigar os restos", por que não oferecer-lhe os ossos das próprias palavras para morder?
