@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-13T23:00:06Z
+gerado: 2026-03-13T23:15:09Z
 agente: craig
 ---
 
@@ -10,11 +10,11 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 | Dimensão | Valor sorteado |
 |----------|---------------|
 | **Foco** | performance e simplicidade |
-| **Inspiração** | livre |
-| **Restrição** | pelo menos uma mudança visível e ousada |
+| **Inspiração** | manuscrito/caderno |
+| **Restrição** | sem restrição |
 
 ## Como aplicar
 
 - **Foco**: "performance e simplicidade" — esta sessão deve se concentrar neste aspecto do design.
-- **Inspiração**: "livre" — use como referência estética dominante.
-- **Restrição**: "pelo menos uma mudança visível e ousada".
+- **Inspiração**: "manuscrito/caderno" — use como referência estética dominante.
+- **Restrição**: "sem restrição".
