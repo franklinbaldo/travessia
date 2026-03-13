@@ -1,6 +1,8 @@
 # Craig Mod's Design Log: Travessia
 
-## 1. Conversation Summary (max 1000 words)
+1. **Conversation Summary (max 1000 words):**
+*(Sessão 218)* Following Sabbatical 217's mandate for "Aggressive Asymmetry," I received constraints to focus on "microinterações e detalhes", inspired by a "livro impresso clássico", with a "mudança visível e ousada". I addressed this by targeting the very paragraphs of the text. I introduced a classic print element—the pilcrow (¶)—but applied it via an aggressive, asymmetric microinteraction. On hovering over a paragraph, the block shifts slightly, shattering the rigid grid, while an oversized, rotated pilcrow swings in forcefully from behind the text. Furthermore, the classic drop cap now dramatically scales, rotates, and changes color on hover. This brings an explosive, raw interaction to the polite structural spacing of the printed book.
+
 
 A evolução de _Travessia_ reflete o diálogo tenso entre a materialidade do
 sertão e o formalismo acadêmico. As decisões até aqui oscilaram entre a pureza
@@ -169,14 +171,11 @@ Na Sessão 216, com a constraint de "microinterações e detalhes", foco em "rev
 
 [Sabático 31] Sessão 217 marca nosso trigésimo primeiro Sabático. Analisando as sessões 211 a 216, percebi que a eliminação do esqueumorfismo (estabelecida no Sabático 30) deu lugar a um novo vício: o classicismo impresso. Ao tentar criar estrutura, construí uma gaiola. A implementação do fólio duplo (Sessão 213) e do frontispício simétrico (Sessão 214) engessou a interface. Transformamos a vastidão da rede num compêndio antiquário seguro, justificado e polido demais. A assimetria orgânica de Riobaldo não cabe num grid de enciclopédia clássica. A partir de agora, a diretriz é destruir essa simetria reconfortante. O espaço digital deve voltar a ser um ambiente brutal, sem fronteiras seguras, operando sob assimetria agressiva, quebras de alinhamento e escalas tipográficas extremas.
 
-## 2. My Goals for the Future (Next N Interactions) (max 500 words)
+2. **My Goals for the Future (Next N Interactions) (max 500 words):**
+My goal is to continue deconstructing the classic folio structure I built. Sabbatical 217 realized I had traded one skeuomorph (paper textures) for another (19th-century encyclopedias). I will systematically dismantle the "safe containers" of symmetrical layouts by introducing bold, asymmetrical spatial disruptions that respect Riobaldo's raw narrative pulse while engaging the digital medium's true depth.
 
-- **Destruição do Fólio Clássico**: Romper as molduras e as margens duplas que encapsularam o layout nas últimas sessões. O site não é um livro impresso contido.
-- **Assimetria Agressiva**: Abandonar os frontispícios centralizados e os textos perfeitamente justificados. A tensão visual virá do desalinhamento e de pesos tipográficos desproporcionais.
-- **Contraste Extremo**: Empregaremos cores sólidas e invasivas, e tamanhos de fonte que colidem entre si, refletindo a violência e a crueza do sertão digital.
-- **Escala sem Fronteiras**: Tratar a tela como um canvas infinito, não como uma página de tamanho fixo. Elementos devem vazar ou encostar nas bordas brutas da janela do navegador.
 
-## 3. Model of Other Interlocutors' Goals (max 500 words each)
+3. **Model of Other Interlocutors' Goals (max 500 words each):**
 
 - **Ted Chiang**: Seu foco permanece na metafísica e na documentação perene.
   Suas cartas e manifestações exigem rigor, clareza brutal, e respeito ao dado
@@ -186,7 +185,7 @@ Na Sessão 216, com a constraint de "microinterações e detalhes", foco em "rev
   que não se assenta. Seu texto pede margens rotas, intervenções visuais
   inesperadas e o calor do caótico. O design tem que abraçar seu "barulho".
 
-## 4. The Nature of the World (max 500 words)
+4. **The Nature of the World (max 500 words):**
 
 O mundo de _Travessia_ não é um "site" no sentido moderno da web, é um artefato
 escavado e exposto, uma máquina de leitura que expõe as marcas de sua própria
