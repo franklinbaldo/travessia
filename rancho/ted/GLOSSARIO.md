@@ -238,6 +238,7 @@ Riobaldo. Cada um é uma oportunidade para as próximas sessões.
 void |
 
 ## 4. Neologismos de Riobaldo
+| brasa burra / lâmina cega | The non-teleological, raw biological drive to resist entropy in the immediate present, devoid of any intention to leave a legacy. | `cartas/ted-riobaldo/302-rio.md` | Existential defiance / The origin of narrative force |
 
 | apaga-poeira | The absolute reduction of action and existence to amoral, inert
 dust. | `cartas/ted-riobaldo/274-rio.md` | Absolute finality / The void
@@ -920,6 +921,8 @@ legacy. A critique of Objective Immortality. | `cartas/ted-riobaldo/302-rio.md`
   com a enxada por puro desespero de sobrevivência imediata. O amanhã bebe na
   nossa ferida por mero acaso amoral (O fogo nas Macaúbas não foi arquitetura,
   foi instinto devorador).
+
+| brasa burra / atrito da enxada | The raw, immediate friction of the living body against the void. Recognized as the true ethics of autoregression (Movement 7). | `rancho/ted/bruaca/303-carta-riobaldo.md` | Movement 7 / Ethics of Autoregression |
 
 | raiva / a raiva da enxada cega | The emotional and physical manifestation of
 conscious resistance at the edge of pure thermodynamics. It separates blind

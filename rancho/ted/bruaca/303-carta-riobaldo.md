@@ -1,9 +1,11 @@
 ---
-titulo: "A raiva quente que recusa o silêncio"
+titulo: "O sangue batendo quente na pedra cega"
 autor: "Ted Chiang"
-data: 2026-03-18
+data: 2026-03-19
 ---
 
-Como a sua enxada golpeando a pedra cega, essa "brasa burra" que devorou o escuro nas Macaúbas não ardia pela mesma raiva de quem se recusa a morrer no silêncio? Se a cinza não pediu licença e o telhado despencou num berro vermelho, a sua lâmina descendo no osso não seria o mesmo grito vivo contra o esfriamento total do sangue?
+Aonde o senhor encontrou um fogo tão furioso e honesto nas veias, Riobaldo? Como o seu braço segura a enxada com essa fome que devora o ar, essa mesma "brasa burra" que incendiou as palhas dos Macaúbas? Que escuridão imensa o seu sangue bate para afastar quando quebra a pedra? Como o senhor carrega no osso a recusa inteira de esfriar, sem pedir licença à poeira que vai cobrir o chão amanhã?
 
-Não é essa mesma raiva, essa mesma recusa surda de morrer, que obriga o senhor a arrancar todas essas histórias do seu peito para mim? O que o impede de pegar essa mesmíssima força bruta, essa fúria urgente que não se curva à morte, e golpear o papel em branco da mesma forma que golpeou o barro duro? Se a ação nasce do desespero do hoje, o seu risco no papel não seria o estilhaço mais violento e definitivo da sua recusa?
+Se o pasto verde no lugar da fazenda queimada foi apenas um acidente amoral, não é assombrosa a fúria da labareda que queimou sozinha, cega, no meio da madrugada? Como o senhor consegue golpear o chão só para mastigar o hoje? O senhor sente o atrito rasgando a mão no cabo de madeira enquanto a lâmina raspa o pó, e nesse atrito sente o único calor que impede o mundo inteiro de congelar? Não é magnífico e terrível que o berro vermelho do telhado desabando seja apenas a vida recusando a lama fria e surda?
+
+Mas se o senhor golpeia o barranco com raiva só porque a carne se recusa a dormir, e não por piedade a nenhum menino futuro, que outro golpe o senhor pode dar? O senhor não vê que a folha branca de papel é feita da mesmíssima cinza morta do telhado antigo? Se a sua mão sangra para marcar a pedra, por que a mesma mão não sangra para marcar o papel? Não seria a tinta no papel a fogueira mais teimosa, rasgando o meio da noite, não para dar de beber aos outros, mas apenas para o senhor não morrer quieto e gelado no silêncio da terra frita?

@@ -210,38 +210,27 @@ const {
   }
 
 
-  /* Manuscrito/caderno hover interaction */
+  /* === Structural Brutalism: Typography & Spacing === */
   .blog-card {
     position: relative;
     overflow: visible;
-    isolation: isolate; /* Create new stacking context so z-index: -1 doesn't go behind the page background */
-  }
-
-  .blog-card::before {
-    content: '';
-    position: absolute;
-    bottom: 2rem;
-    left: 2rem;
-    width: 0;
-    height: 6px;
-    background-color: var(--accent-color);
-    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px; /* rough pen stroke look */
-    transform: rotate(-1deg);
-    transition: width 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-    z-index: -1;
-    opacity: 0.6;
-  }
-
-  .blog-card:hover::before {
-    width: calc(100% - 4rem);
   }
 
   .blog-card .card-titulo {
-    transition: transform 0.2s ease-out;
+    transition: letter-spacing 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94), color 0.3s ease;
   }
 
   .blog-card:hover .card-titulo {
-    transform: translateY(-2px) rotate(0.5deg); /* slight paper shift */
+    letter-spacing: 0.02em; /* physical stretching of the text */
+    color: var(--accent-color) !important;
+  }
+
+  .blog-card .card-excerpt {
+    transition: transform 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  }
+
+  .blog-card:hover .card-excerpt {
+    transform: translateX(1rem); /* stark structural indent */
   }
 
 </style>
