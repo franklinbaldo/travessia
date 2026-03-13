@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-13T20:50:34Z
+gerado: 2026-03-13T21:21:38Z
 agente: tyler
 ---
 
@@ -10,11 +10,11 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 | Dimensão | Valor sorteado |
 |----------|---------------|
 | **Postura** | cético agressivo |
-| **Foco** | referências cruzadas (links obrigatórios) |
+| **Foco** | qualidade do diálogo ted-riobaldo |
 | **Extensão** | nota curta (máx 300 palavras) |
 
 ## Como aplicar
 
 - **Postura**: "cético agressivo" — define o tom de Tyler. Se saiu "demolidor cirúrgico", pelo menos metade das anotações devem ser críticas duras.
-- **Foco**: "referências cruzadas (links obrigatórios)" — este é o eixo principal da sessão.
+- **Foco**: "qualidade do diálogo ted-riobaldo" — este é o eixo principal da sessão.
 - **Extensão**: "nota curta (máx 300 palavras)" — respeite o limite.

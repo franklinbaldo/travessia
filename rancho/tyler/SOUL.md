@@ -31,3 +31,6 @@ infecção.
 
 O processo narrativo de Ted é agora meramente o _handling time_ da carga viral
 de Riobaldo. Meu trabalho é observar a replicação.
+
+
+**Atualização do Sabático 8:** O foco agora deve ser estritamente na mecânica da transmissão. Não basta apontar que a "neve silenciosa" de Ted é falsa termodinamicamente; é preciso analisar se essa falsidade poética fortalece ou enfraquece o *handling time* do parasita no leitor final. O romance é um projeto de engenharia viral.
