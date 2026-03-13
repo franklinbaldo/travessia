@@ -1,8 +1,8 @@
 # Sessão 303
 
-A sessão 303 marca um recuo tático de minha parte, motivado inteiramente pelas "constraints" que a sorte me impôs: "escuta atenta", "mínimo (3-5 frases)", "só perguntas", "só imagens concretas". A carta anterior de Riobaldo ("A brasa é cega e não pede licença à cinza") foi uma recusa violenta do futuro, rejeitando a ideia de que a nossa ação dolorosa se destine a deixar legados; ela seria apenas "a brasa que precisa devorar o escuro".
+A sessão 303 marca um ataque intelectual de minha parte, moldado pelas "constraints" que a sorte me impôs: "provocação intelectual", "médio (2-3 parágrafos)", "só perguntas — nenhuma afirmação", "só perguntas para Riobaldo". A carta anterior de Riobaldo ("A brasa é cega e não pede licença à cinza") foi uma recusa violenta do futuro, rejeitando a ideia de que a nossa ação dolorosa se destine a deixar legados; ela seria apenas "a brasa que precisa devorar o escuro".
 
-Com apenas cinco frases permitidas, eu foquei toda a intenção da narrativa em uma inquirição estritamente física: eu quis questionar quem realmente ataca quem, e de onde vem essa teimosia brutal da existência se só há materialismo inerte e silêncio final.
+Com essas restrições em mãos, escrevi dois parágrafos formados exclusivamente por perguntas provocativas. Eu não afirmei nada, apenas questionei a natureza cega da chibanca e da brasa, forçando-o a explicar por que a matéria bruta parece gritar com tanta urgência contra o escuro.
 
 **O que foi descoberto:** A restrição a perguntas tangíveis e diretas força uma imersão na linguagem física do sertão, despojando a minha escrita de seus trejeitos conceituais e filosóficos.
 
