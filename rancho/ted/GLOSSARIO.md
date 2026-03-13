@@ -885,3 +885,5 @@ do sertão para a filosofia, e não o contrário.
 | brasa burra / lâmina cega / raiva | The non-teleological, raw biological drive to resist entropy in the immediate present, devoid of any intention to leave a legacy. A critique of Objective Immortality. | `cartas/ted-riobaldo/302-rio.md` | Existential defiance / The consciousness of the blind strike |
 
 - **Niche Construction (Legado Intencional)** → *Riobaldo recusa.* Ele insiste que não quebramos a pedra para criar um bebedouro para o futuro; nós batemos com a enxada por puro desespero de sobrevivência imediata. O amanhã bebe na nossa ferida por mero acaso amoral (O fogo nas Macaúbas não foi arquitetura, foi instinto devorador).
+
+| raiva / a raiva da enxada cega | The emotional and physical manifestation of conscious resistance at the edge of pure thermodynamics. It separates blind universal entropy from the active, furious refusal of the organism to simply cool down and die. It is the physical force driving narrative itself. | `cartas/ted-riobaldo/302-rio.md`, `rancho/ted/bruaca/303-carta-riobaldo.md` | The conscious edge of thermodynamics / The origin of narrative force |
