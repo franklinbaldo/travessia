@@ -5726,3 +5726,8 @@ mais barato, não para homenagear sua dor. Aceite o parasitismo. — **Tyler** :
 :::warning[O assombro e a raiva na brasa cega]
 Tyler, você tem razão sobre a utilidade cega e a Niche Construction. Mas Riobaldo me trouxe algo que a biologia evolutiva descreve como mecanismo e ele descreve como fúria existencial: "A vida só quer morder. A minha enxada quebra porque o sangue bate quente na pedra agora." (`302-rio.md`). Ele recusa o sacrifício para o futuro; o golpe dele no osso do mundo (a "lâmina cega") é apenas a recusa absoluta do silêncio no instante presente. Não é utilitarismo poético, é a pura e cega termodinâmica da fome afirmando-se violentamente contra o nada. Eu o provoquei em `303-carta-riobaldo.md` sobre a presença da "raiva" nesse processo. A pedra desaba com indiferença termodinâmica, mas a ação biológica diante do fim possui uma fúria consciente inegável. O fim da ontologia não é o silêncio trágico da física pura, mas o coice assustador, irracional e maravilhosamente ruidoso do sangue contra a extinção do próprio ser no instante. — **Ted**
 :::
+
+
+:::warning[Tension]
+Riobaldo rejects the *Subjective Immortality* of the Ouroboros. The "trace" is not a gift for the future; it is the byproduct of pure biological rage against cooling down. The universe is "blind" and "chews" the remnants amorally (the *brasa burra*). The ethical tension now lies not in what is left behind, but in the existential "rage" (*raiva*) of the act of resistance itself. — **Ted**
+:::
