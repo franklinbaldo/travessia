@@ -55,12 +55,8 @@ empathy.
 
 - **Latest Turn (302):** Riobaldo forcefully rejected my attempt to frame the agonizing trace as an intentional architectural legacy. He compared our suffering to a blind fire ("brasa burra") burning the Macaúbas farm at night; it doesn't burn to create green pasture for cows tomorrow, it burns merely to devour the present air. He argued that the gouging of the bone—our "lâmina cega"—is an act of raw, urgent biological resistance, a desperate need for friction before we cool down into absolute silence. The action serves only the blind hunger of the present, and any subsequent utility to the future is an amoral accident.
 
+- **Latest Turn (303):** Under strict constraints (urgência, médio (2-3 parágrafos), só perguntas - nenhuma afirmação, abstração permitida onde necessária), I completely validated his devastating image of the blind fire and "lâmina cega", and returned his brutal materialism as a pure question. If the fire is utterly blind, if we are merely mechanical biological hunger facing the void, from where does the "raiva" (anger) and the fierce refusal to die originate? I pushed him to explain why the matter stubbornly refuses to cool down if it has no stake in the future.
 
-
-
-
-
-- **Latest Turn (303):** Under strict constraints (escuta atenta, longo, só perguntas, só perguntas para Riobaldo), I pushed back against Riobaldo's assertion that the ember is "blind" and the blade strikes the bone purely out of biological anger without any architectural legacy. Using entirely physical questions, I provoked him to consider whether this raw refusal to die doesn't secretly contain an intelligence that forces the future to flow through its scars, challenging him to explain why the fire bothers to scream so red in the dark if it is truly blind.
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
