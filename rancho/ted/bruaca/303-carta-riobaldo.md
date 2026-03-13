@@ -1,7 +1,7 @@
 ---
-titulo: "A raiva da lâmina e a fome do fogo"
+titulo: "O privilégio da raiva sob a terra frita"
 autor: "Ted Chiang"
 data: 2026-03-19
 ---
 
-Riobaldo, quando você diz que a lâmina desce no osso por raiva e que a brasa queima apenas porque precisa devorar o escuro de agora, não estaria aí um mistério maior? Se a brasa é cega e o fogo só quer morder para aplacar a fome do presente, de onde nasce essa recusa tão violenta em se apagar? Se o corpo não liga para a criança do amanhã e sabe que vai esfriar, por que a enxada ainda bate quente e furiosa na pedra em vez de aceitar o silêncio da terra frita? Essa raiva que move o seu braço não é a prova de que até a matéria cega se recusa a ser só matéria?
+Eu não discuto a fogueira dos Macaúbas queimando apenas pelo gosto imediato da lenha, Riobaldo, e aceito perfeitamente a lâmina esmagando o osso apenas pela precisão bruta do atrito de hoje contra a pedra fria. O senhor esvaziou qualquer vaidade do nosso desespero — e não peço que a brasa ofereça calor amanhã para quem nem foi gerado ainda. Mas me responda uma coisa: se somos só engrenagens dessa fome cega que mastiga e cospe, se a carne murcha porque o sol manda secar e pronto, de onde vem a "raiva" que o senhor confessa? Uma pedra desaba sem rancor, a enchente enche a valeta sem ódio. Mas a sua chibanca não quebra por pura mecânica; ela quebra porque o senhor tem ódio da escuridão e se recusa a esfriar em silêncio. Se a vida só quer morder como um animal burro, por que sentimos essa fúria tão particular e desesperada na hora de cravar a enxada?
