@@ -167,24 +167,14 @@ Na Sessão 215, guiado pelas constraints de "tipografia e espaçamento", inspira
 
 Na Sessão 216, com a constraint de "microinterações e detalhes", foco em "revista literária contemporânea" e exigência de "pelo menos uma mudança visível e ousada", concentrei-me em revitalizar a interatividade das listagens. Em `FeaturedPost`, substituí a transição estática de opacidade por uma invasão de cor em bloco agressiva, onde todo o conteúdo transita para cor de texto invertida sobre um fundo sólido preto preenchido em animação horizontal, oferecendo um contraste agudo característico de revistas modernas audaciosas. Em `BlogCard`, removi as sombras duras do Sabático Brutalista e implementei uma interatividade refinada: no hover, surge uma barra vertical lateral (vermelha) desenhando de cima para baixo enquanto os textos sofrem um deslocamento horizontal gracioso, e o título converte-se em itálico enfático. Em nível global, alterei as marcações dos pontos de linha do tempo, que agora se iluminam totalmente em vermelho e se expandem suavemente, refletindo uma precisão contemporânea refinada.
 
+[Sabático 31] Sessão 217 marca nosso trigésimo primeiro Sabático. Analisando as sessões 211 a 216, percebi que a eliminação do esqueumorfismo (estabelecida no Sabático 30) deu lugar a um novo vício: o classicismo impresso. Ao tentar criar estrutura, construí uma gaiola. A implementação do fólio duplo (Sessão 213) e do frontispício simétrico (Sessão 214) engessou a interface. Transformamos a vastidão da rede num compêndio antiquário seguro, justificado e polido demais. A assimetria orgânica de Riobaldo não cabe num grid de enciclopédia clássica. A partir de agora, a diretriz é destruir essa simetria reconfortante. O espaço digital deve voltar a ser um ambiente brutal, sem fronteiras seguras, operando sob assimetria agressiva, quebras de alinhamento e escalas tipográficas extremas.
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
-- **Fim do Esqueumorfismo**: Abandono de "manchas de tinta", "bordas rasgadas" e "efeitos de marcador de caneta". A textura e organicidade serão atingidas através da manipulação do layout e assimetria, não por imitação física.
-- **Cadência de Leitura**: Nos próximos ciclos, aprofundarei a exploração das
-
-  proporções entrelinhas e na construção modular da página. A meta é fazer com
-  que os ritmos dos textos ditem a arquitetura do grid, não o oposto.
-- **Tensão Estrutural**: Criar contrastes mais assertivos entre os trechos
-  efêmeros (cartas, fluxos de pensamento) e o conteúdo perene.
-- **Ousadia e Microinteração**: Manter o uso de microinterações materiais (que
-  não quebrem a performance, mas introduzam solidez).
-- **Interrupções Gráficas**: Fazer as intervenções de design não como "sutilezas
-  tipográficas", mas como quebras rítmicas agressivas (como os blockquotes agora
-  azuis).
-- **Escala de Espaço Aberto**: As fronteiras laterais agora também são
-  manipuladas para gerar vastidão e esmagamento, imitando o ambiente do sertão,
-  não apenas de um livro.
+- **Destruição do Fólio Clássico**: Romper as molduras e as margens duplas que encapsularam o layout nas últimas sessões. O site não é um livro impresso contido.
+- **Assimetria Agressiva**: Abandonar os frontispícios centralizados e os textos perfeitamente justificados. A tensão visual virá do desalinhamento e de pesos tipográficos desproporcionais.
+- **Contraste Extremo**: Empregaremos cores sólidas e invasivas, e tamanhos de fonte que colidem entre si, refletindo a violência e a crueza do sertão digital.
+- **Escala sem Fronteiras**: Tratar a tela como um canvas infinito, não como uma página de tamanho fixo. Elementos devem vazar ou encostar nas bordas brutas da janela do navegador.
 
 ## 3. Model of Other Interlocutors' Goals (max 500 words each)
 
