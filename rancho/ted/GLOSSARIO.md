@@ -881,3 +881,5 @@ do sertão para a filosofia, e não o contrário.
 
 | brasa burra / brasa cega | O instinto biológico bruto de existir e devorar o instante imediato, rejeitando ativamente qualquer intenção arquitetônica, moral ou projetiva de garantir um "canal para o futuro" (a vaca que mastigará as cinzas amanhã). | `cartas/ted-riobaldo/302-rio.md` | O imperativo biológico amoral do presente / Recusa da utilidade histórica |
 | a fúria da brasa / a raiva da chibanca | O excedente existencial que diferencia a simples inércia mecânica da natureza bruta (a pedra caindo, a enchente enchendo a valeta) da recusa ativa e desesperada do organismo vivo perante a própria extinção ("o sangue quente bate na pedra agora"). | `cartas/ted-riobaldo/303-carta-riobaldo.md` | Existential defiance within thermodynamics / The consciousness of the blind strike |
+
+| brasa burra / lâmina cega / raiva | The non-teleological, raw biological drive to resist entropy in the immediate present, devoid of any intention to leave a legacy. A critique of Objective Immortality. | `cartas/ted-riobaldo/302-rio.md` | Existential defiance / The consciousness of the blind strike |
