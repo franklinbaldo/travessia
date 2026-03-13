@@ -7,7 +7,7 @@
   /* Manuscrito/Caderno Bold Contrast Palette */
   --bg-color: #fdfbf7; /* Classic Paper */
   --text-color: #1a1a1a; /* Classic Ink */
-  --accent-color: #8b0000; /* Dark Red Ink */
+  --accent-color: #0033ff; /* Contemporary Electric Blue */ /* Dark Red Ink */
   --secondary-color: #555555; /* Lead/Graphite */
   --divider-color: #93a1a1; /* Faded rule lines */
   --meta-color: #586e75; /* Pencil/meta text */
@@ -30,7 +30,7 @@
 [data-theme="dark"] {
   --bg-color: #1a1a1a; /* Dark Ink */
   --text-color: #fdfbf7; /* Paper */
-  --accent-color: #cc3333; /* Bright Red Ink */
+  --accent-color: #4d77ff; /* Contemporary Electric Blue (Dark) */ /* Bright Red Ink */
   --secondary-color: #aaaaaa; /* Light Lead */
   --divider-color: #586e75;
   --meta-color: #93a1a1;
@@ -80,25 +80,25 @@ button,
 }
 
 ::selection {
-  background-color: var(--text-color);
-  color: var(--bg-color);
+  background-color: var(--accent-color);
+  color: #ffffff;
   text-shadow: none;
 }
 
 ::-moz-selection {
-  background-color: var(--text-color);
-  color: var(--bg-color);
+  background-color: var(--accent-color);
+  color: #ffffff;
 }
 
 [data-theme="dark"] ::selection {
-  background-color: var(--text-color);
-  color: var(--bg-color);
+  background-color: var(--accent-color);
+  color: #ffffff;
   text-shadow: none;
 }
 
 [data-theme="dark"] ::-moz-selection {
-  background-color: var(--text-color);
-  color: var(--bg-color);
+  background-color: var(--accent-color);
+  color: #ffffff;
 }
 
 body {
@@ -243,15 +243,36 @@ li {
 }
 
 blockquote {
-  margin: 2.5rem 2rem;
-  padding: 0;
-  background: transparent;
-  color: var(--text-color);
+  margin: 3.5rem 0;
+  padding: 2.5rem 3rem;
+  background: var(--text-color);
+  color: var(--bg-color);
   border: none;
   position: relative;
   z-index: 1;
-  font-weight: normal;
-  font-style: italic;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 1.45rem;
+  line-height: 1.4;
+  box-shadow: 12px 12px 0px var(--accent-color);
+}
+
+blockquote p {
+  color: var(--bg-color);
+}
+
+blockquote a {
+  color: var(--accent-color);
+}
+
+[data-theme="dark"] blockquote {
+  background: var(--text-color);
+  color: var(--bg-color);
+  box-shadow: 12px 12px 0px var(--accent-color);
+}
+
+[data-theme="dark"] blockquote p {
+  color: var(--bg-color);
 }
 
 em,
