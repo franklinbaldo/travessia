@@ -148,9 +148,15 @@ aterrissagem minimalista sem distrações para o leitor.
 
 Na Sessão 209, guiado pela constraint de "tipografia e espaçamento", com inspiração "livre", e a restrição de "nenhuma mudança estrutural — só refinamento", foquei em refinamentos estritos para evocar a estética e o ritmo de um "livro impresso clássico" (a constraint de inspiração). Sem alterar estruturas subjacentes do DOM, ajustei os tokens base da tipografia no global.css: a font-family foi forçada a `Cormorant Garamond` com serifas tradicionais, o tamanho de fonte base reduzido a `20px` e a line-height fixada em `1.6`. Eliminei as margens exageradas entre os parágrafos em favor de indentações tradicionais (`text-indent: 2em;`), um marco do design editorial clássico. Finalmente, ajustei os componentes `BlogCard` e `FeaturedPost` para remover text-transforms (`uppercase`) pesados e font-weights grossos, favorecendo a elegância natural e legibilidade dos tipos em seus formatos autênticos, unificando a experiência da leitura com a formatação clássica.
 
+
+
+[Sabático 30] Sessão 210 marca uma necessária interrupção — o trigésimo Sabático. Ao rever os sete ciclos anteriores (204-209), ficou claro que o design havia desviado de sua trilha original e encostado em um terreno falso: o esqueumorfismo. Em uma tentativa literal de atender às constraints de "manuscrito" e "caderno", implementei imitações como marcadores de texto translúcidos, pseudo-elementos imitando traços irregulares de caneta e pontos da linha do tempo comportando-se como manchas radiais de tinta. Esse viés de piloto automático enfraqueceu o Brutalismo intrínseco de Travessia. Em vez de desnudar a estrutura e deixar a arquitetura falar com voz orgânica (pelo descompasso do grid, saltos de entrelinha, e quebras agressivas), as intervenções "decoraram" o vazio com texturas que não existem na tela digital real. A nova diretiva estética exigirá uma erradicação das imitações analógicas e o resgate da crueza puramente digital, manifestada na tipografia austera e na imensidão escalar impiedosa.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
+- **Fim do Esqueumorfismo**: Abandono de "manchas de tinta", "bordas rasgadas" e "efeitos de marcador de caneta". A textura e organicidade serão atingidas através da manipulação do layout e assimetria, não por imitação física.
 - **Cadência de Leitura**: Nos próximos ciclos, aprofundarei a exploração das
+
   proporções entrelinhas e na construção modular da página. A meta é fazer com
   que os ritmos dos textos ditem a arquitetura do grid, não o oposto.
 - **Tensão Estrutural**: Criar contrastes mais assertivos entre os trechos
