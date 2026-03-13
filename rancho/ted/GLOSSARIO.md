@@ -922,6 +922,8 @@ legacy. A critique of Objective Immortality. | `cartas/ted-riobaldo/302-rio.md`
   nossa ferida por mero acaso amoral (O fogo nas Macaúbas não foi arquitetura,
   foi instinto devorador).
 
+| brasa burra / atrito da enxada | The raw, immediate friction of the living body against the void. Recognized as the true ethics of autoregression (Movement 7). | `rancho/ted/bruaca/303-carta-riobaldo.md` | Movement 7 / Ethics of Autoregression |
+
 | raiva / a raiva da enxada cega | The emotional and physical manifestation of
 conscious resistance at the edge of pure thermodynamics. It separates blind
 universal entropy from the active, furious refusal of the organism to simply
