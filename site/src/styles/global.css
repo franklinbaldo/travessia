@@ -1734,7 +1734,12 @@ main.home-layout {
   }
 }
 
-/* === Accessibility === */
+/* === Selection & Accessibility === */
+
+::selection {
+  background-color: var(--accent-color);
+  color: var(--bg-color);
+}
 
 *:focus-visible {
   outline: 4px solid var(--accent-color);
@@ -1868,22 +1873,18 @@ main
 .timeline-dot {
   position: relative;
   overflow: hidden;
-  transition: width 0.4s cubic-bezier(0.19, 1, 0.22, 1), background-color 0.3s ease, color 0.3s ease, border-radius 0.3s ease;
+  transition: width 0.4s cubic-bezier(0.19, 1, 0.22, 1), background-color 0.3s ease, color 0.3s ease, border-radius 0.3s ease, transform 0.3s ease;
 }
 
 .timeline-dot:hover {
   border-radius: 0; /* Ensures rigid box shape on interaction */
+  background-color: var(--accent-color) !important;
+  color: var(--bg-color) !important;
+  border-color: var(--accent-color) !important;
+  transform: scale(1.1); /* Bold contemporary magazine emphasis */
 }
 
-/* Blog Cards: heavy, rigid offset translation, not paper rotation */
-.blog-card {
-  transition: transform 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94), box-shadow 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-}
 
-.blog-card:hover {
-  transform: translate(-4px, -4px);
-  box-shadow: 4px 4px 0 var(--text-color); /* Hard, brutalist shadow */
-}
 
 /* === Classic Printed Book Typographic Spacing === */
 main p {
