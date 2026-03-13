@@ -27,14 +27,14 @@ const {
 ---
 
 <a href={url} class="blog-card" data-tipo={tipo} data-autor={autorClasse}>
+  <div class="card-meta">
+    <span class="card-tipo">{tipoLabel}</span>
+    {data && <time datetime={data.toISOString()}>{formatDate(data)}</time>}
+    {autor && <span class={`card-autor autor-${autorClasse}`}>{autor}</span>}
+  </div>
   <h2 class="card-titulo">{titulo}</h2>
   {subtitulo && <p class="card-subtitulo">{subtitulo}</p>}
   <p class="card-excerpt">{excerpt}</p>
-  <div class="card-meta">
-    <span class="card-tipo">{tipoLabel}</span>
-    {autor && <span class={`card-autor autor-${autorClasse}`}>/ {autor}</span>}
-    {data && <time datetime={data.toISOString()}>/ {formatDate(data)}</time>}
-  </div>
 </a>
 
 <style>
@@ -81,37 +81,52 @@ const {
     color: var(--meta-color);
   }
 
-  /* Brutalist constraints */
+  /* Directory List Style */
   .blog-card {
-    background-color: var(--bg-color) !important;
-    border: 4px solid var(--text-color) !important;
+    background-color: transparent !important;
+    border: none !important;
+    border-bottom: 2px solid var(--text-color) !important;
     border-radius: 0 !important;
-    box-shadow: 8px 8px 0 var(--text-color) !important;
+    box-shadow: none !important;
 
-    padding: 1.5rem !important;
-    margin-bottom: 2.5rem !important;
-    display: block;
+    padding: 2rem 0 !important;
+    margin-bottom: 0 !important;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
     transform: none !important;
-    transition: transform 0s, box-shadow 0s, background-color 0s, color 0s !important;
+    transition: background-color 0.2s ease !important;
+  }
+
+  @media (min-width: 768px) {
+    .blog-card {
+      grid-template-columns: 2fr 3fr;
+      align-items: baseline;
+      gap: 2rem;
+    }
   }
 
   :global([data-theme="dark"]) .blog-card {
-    border: 4px solid var(--text-color) !important;
-    box-shadow: 8px 8px 0 var(--accent-color) !important;
+    border-bottom: 2px solid var(--text-color) !important;
+    box-shadow: none !important;
   }
 
   .blog-card:hover {
-    transform: translate(-4px, -4px) !important;
-    box-shadow: 12px 12px 0 var(--accent-color) !important;
+    transform: none !important;
+    box-shadow: none !important;
     background-color: var(--text-color) !important;
     color: var(--bg-color) !important;
-    border-color: var(--accent-color) !important;
+    border-color: var(--text-color) !important;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+    margin-left: -1rem !important;
+    margin-right: -1rem !important;
   }
 
   :global([data-theme="dark"]) .blog-card:hover {
     background-color: var(--text-color) !important;
     color: var(--bg-color) !important;
-    box-shadow: 12px 12px 0 var(--accent-color) !important;
+    box-shadow: none !important;
   }
 
   /* Reset hover colors for inner elements to use high contrast */
@@ -127,11 +142,12 @@ const {
   .blog-card .card-titulo {
     color: var(--text-color);
     font-family: var(--font-meta);
-    font-weight: 900;
+    font-weight: 700;
     text-transform: uppercase;
-    letter-spacing: -0.03em;
-    font-size: 1.75rem;
-    line-height: 1.1;
+    letter-spacing: -0.02em;
+    font-size: 1.5rem;
+    line-height: 1.2;
+    margin: 0;
   }
 
   .blog-card .card-excerpt {
@@ -139,36 +155,54 @@ const {
     font-family: var(--font-body);
     font-size: 1.1rem;
     line-height: 1.4;
-    font-weight: 600;
+    font-weight: 400;
+    margin: 0;
   }
 
   .blog-card .card-tipo {
-    color: var(--bg-color);
-    background-color: var(--text-color);
-    padding: 0.2rem 0.6rem;
-    border: 2px solid var(--text-color);
-    font-weight: 900;
+    color: var(--text-color);
+    background-color: transparent;
+    padding: 0;
+    border: none;
+    font-weight: 700;
     font-size: 0.8rem;
     text-transform: uppercase;
     display: inline-block;
   }
 
   .blog-card:hover .card-tipo {
-    background-color: var(--accent-color) !important;
-    color: var(--text-color) !important;
-    border-color: var(--text-color) !important;
+    background-color: transparent !important;
+    color: var(--bg-color) !important;
+    border-color: transparent !important;
   }
 
   .blog-card .card-meta {
-    border-top: 4px solid var(--text-color) !important;
-    padding-top: 0.75rem;
-    color: var(--text-color);
-    font-weight: 900;
+    border-top: none !important;
+    padding-top: 0;
+    color: var(--meta-color);
+    font-weight: 400;
+    grid-row: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.2rem;
+  }
+
+  @media (min-width: 768px) {
+    .blog-card .card-meta {
+      grid-column: 1;
+    }
+    .blog-card .card-titulo,
+    .blog-card .card-excerpt,
+    .blog-card .card-subtitulo {
+      grid-column: 2;
+    }
   }
 
   .blog-card:hover .card-meta {
-    border-top: 4px solid var(--bg-color) !important;
+    border-top: none !important;
     color: var(--bg-color) !important;
+    opacity: 0.8;
   }
 
 </style>
