@@ -18,13 +18,13 @@
   --progress-start: #ff3300;
   --progress-end: #000000;
 
-  --font-body: "Cormorant Garamond", "Times New Roman", Times, serif;
+  --font-body: 'Cormorant Garamond', serif;
   --font-ted: "Cormorant Garamond", "Times New Roman", Times, serif;
   --font-meta: "Helvetica Neue", Helvetica, Arial, sans-serif;
 
   --max-width: 95vw;
-  --body-size: 26px;
-  --body-lh: 2.1;
+  --body-size: 20px;
+  --body-lh: 1.6;
 }
 
 [data-theme="dark"] {
@@ -1919,4 +1919,26 @@ main
 .blog-card:hover {
   transform: translateY(-2px) rotate(0.5deg);
   box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+
+/* Classic book typography tweaks */
+main p {
+  margin-bottom: 0;
+}
+main p + p {
+  text-indent: 2em;
+  margin-top: 0;
+}
+main p:first-of-type {
+  text-indent: 0;
+}
+main blockquote {
+    font-size: 1.15rem;
+    line-height: 1.5;
+    margin: 2em 3em;
+    font-style: italic;
+    border-left: none;
+    padding-left: 0;
+    text-align: justify;
 }

@@ -145,6 +145,9 @@ enfatizei o conteúdo com uma escala e peso tipográficos fortes. Ao adotar esse
 esqueleto limpo, reduzi a dívida técnica da interface e criei uma rampa de
 aterrissagem minimalista sem distrações para o leitor.
 
+
+Na Sessão 209, guiado pela constraint de "tipografia e espaçamento", com inspiração "livre", e a restrição de "nenhuma mudança estrutural — só refinamento", foquei em refinamentos estritos para evocar a estética e o ritmo de um "livro impresso clássico" (a constraint de inspiração). Sem alterar estruturas subjacentes do DOM, ajustei os tokens base da tipografia no global.css: a font-family foi forçada a `Cormorant Garamond` com serifas tradicionais, o tamanho de fonte base reduzido a `20px` e a line-height fixada em `1.6`. Eliminei as margens exageradas entre os parágrafos em favor de indentações tradicionais (`text-indent: 2em;`), um marco do design editorial clássico. Finalmente, ajustei os componentes `BlogCard` e `FeaturedPost` para remover text-transforms (`uppercase`) pesados e font-weights grossos, favorecendo a elegância natural e legibilidade dos tipos em seus formatos autênticos, unificando a experiência da leitura com a formatação clássica.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
 - **Cadência de Leitura**: Nos próximos ciclos, aprofundarei a exploração das
