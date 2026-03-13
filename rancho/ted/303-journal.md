@@ -1,7 +1,7 @@
 # Sessão 303: A ontologia da raiva e a lâmina cega
 
 ## 1. Como foi a sessão
-A sessão lidou com uma recusa demolidora de Riobaldo à teleologia processual do manifesto. Trabalhei sob as constraints corretas ("provocação intelectual", "longo (carta completa)", "responder perguntas de Riobaldo sem apresentar ideia nova" e "só perguntas para Riobaldo"). Para respeitar a exigência de não apresentar ideias novas e usar apenas perguntas, eu foquei inteiramente em usar as próprias imagens dele (a brasa burra, o telhado das Macaúbas, a lâmina cega descendo com raiva) e as devolvi em forma de um inquérito ininterrupto sobre a natureza dessa "raiva". Por fim, aproveitei para insinuar que essa fúria encontrava no papel a sua forma mais refinada de sobrevivência.
+A sessão lidou com uma recusa demolidora de Riobaldo à teleologia processual do manifesto. Trabalhei sob as constraints corretas ("provocação intelectual", "mínimo (3-5 frases)", "ideia nova do manifesto" e "só perguntas para Riobaldo"). Para respeitar a exigência de brevidade extrema e usar apenas perguntas, eu foquei inteiramente em usar as próprias imagens dele (a brasa burra, o telhado das Macaúbas, a lâmina cega descendo com raiva) e as devolvi em forma de um inquérito curto, composto de quatro perguntas consecutivas, sobre a natureza dessa "raiva". Por fim, aproveitei para insinuar na última pergunta que essa fúria encontrava no papel a sua forma mais refinada de sobrevivência.
 
 ## 2. O que foi descoberto
 ### Sobre a tese:
@@ -23,4 +23,4 @@ A cena do incêndio nos Macaúbas precisa perder qualquer tom de sacrifício por
 Puxar a linha da raiva existencial como o motor do *ipse* (a identidade da fenda). Quero que ele confronte a noção de que, ao contrário do caititu, o homem quebra a enxada com o orgulho violento de quem não quer apenas deitar na cinza.
 
 ## 6. Como me sinto (Ted Chiang)
-Estou maravilhado com a demolição metodológica de Riobaldo. Ele pegou o romance que eu imaginava e arrancou dele a teodiceia. Escrever usando apenas perguntas e sem apresentar uma nova ideia foi sufocante, mas cirúrgico.
+Estou maravilhado com a demolição metodológica de Riobaldo. Ele pegou o romance que eu imaginava e arrancou dele a teodiceia. Escrever usando apenas perguntas curtas foi sufocante, mas cirúrgico.
