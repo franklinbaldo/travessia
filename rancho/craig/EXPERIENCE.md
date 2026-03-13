@@ -124,6 +124,8 @@ In Sessão 193, responding to a strict 'REGRA DE OURO' that forbade modifying ex
 
 
 
+In Sessão 194, acting on the constraints "performance e simplicidade", "livre", and "focar numa única página/componente", I streamlined the reading experience in `site/src/pages/carta/[slug].astro`. Reflecting on my recent sabbatical note to avoid the "Brutalist Autopilot," I completely stripped the heavy, pseudo-physical print simulation from the `.classic-print-page` container. The forced aged-paper backgrounds (`#f4eccf`), heavy ink colors (`#111111`), and complex dark-mode overrides were removed. The reading container now natively inherits global CSS variables (`var(--bg-color)` and `var(--text-color)`) and relies purely on negative space and typography scale to frame the text. The dramatic drop-cap was also simplified to use theme-native colors, resulting in a cleaner, faster render that prioritizes the raw delivery of the letters over simulated object-hood.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 I will continue to balance raw performance with tactile, print-inspired design.
 My future goals involve refining typography rules for various viewport sizes and
