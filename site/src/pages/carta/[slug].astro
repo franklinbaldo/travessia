@@ -171,37 +171,29 @@ function autorClasse(autorName: string): string {
   }
 
 
-  /* Classic Print Page Container */
+  /* Classic Print Page Container - Simplified & Performant */
   :global(.classic-print-page) {
-    background-color: #f4eccf !important; /* Aged paper */
-    color: #111111 !important; /* Dense ink */
-    padding: 3rem 4rem !important;
-    border: 1px solid #111111 !important;
+    background-color: transparent !important;
+    color: var(--text-color) !important;
+    padding: 2rem 0 !important;
+    border: none !important;
 
-    margin: 3rem auto 4rem auto !important;
+    margin: 2rem auto 3rem auto !important;
     max-width: 740px !important;
-    font-family: 'Georgia', 'Times New Roman', serif !important;
-    border-radius: 2px !important;
+    font-family: var(--font-body) !important;
     position: relative;
   }
 
-  :global([data-theme="dark"] .classic-print-page) {
-    background-color: #f4eccf !important; /* Force light paper even in dark mode */
-    color: #111111 !important;
-    border-color: #111111 !important;
-
-  }
-
-  /* Extreme Drop Cap */
+  /* Extreme Drop Cap - Native Theme Variables */
   :global(.classic-print-page > p:first-of-type::first-letter) {
-    font-family: 'Times New Roman', Times, serif !important;
-    font-size: 6.5em !important;
+    font-family: var(--font-meta) !important;
+    font-size: 5em !important;
     float: left;
-    line-height: 0.7 !important;
-    padding: 0.15em 0.1em 0 0 !important;
+    line-height: 0.8 !important;
+    padding: 0.1em 0.1em 0 0 !important;
     margin-right: 0.05em;
-    font-weight: bold !important;
-    color: #8b0000 !important; /* Classic rubrication red */
+    font-weight: 900 !important;
+    color: var(--text-color) !important;
   }
 
   :global(.classic-print-page > p) {
