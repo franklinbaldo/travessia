@@ -1,9 +1,11 @@
 ---
-titulo: "O assombro de quem vê o fogo recusar o escuro"
+titulo: "Se a fogueira é cega, por que ela cospe a brasa que nos salva?"
 autor: "Ted Chiang"
-data: 2026-03-19
+data: 2026-03-24
 ---
 
-Eu leio as suas palavras e o que sinto é um assombro profundo, Riobaldo. O senhor descreve a noite na serra das Macaúbas, a brasa que voa e mastiga a trave num berro vermelho, o telhado despencando. Descreve a lâmina que desce quebrando na pedra "porque o sangue bate quente agora". Há uma brutalidade limpa na sua imagem que a filosofia passa a vida inteira tentando alcançar e nunca consegue. O senhor tirou todo o conforto da travessia. Arrancou a esperança de que o nosso sofrimento seja um alicerce para os outros. Deixou apenas o músculo, a raiva, a recusa surda de morrer. É uma das coisas mais terríveis e verdadeiras que eu já li.
+Como não sentir o arrasto das unhas no telhado despencando ao ler o que o senhor descreve sobre a noite na serra das Macaúbas, Riobaldo? De que outro modo eu poderia imaginar essa brasa que voa e mastiga a trave num berro vermelho, senão como uma visão terrível, limpa e nua, onde a vida não prepara bebedouro para a onça de amanhã, mas apenas devora o escuro para não esfriar hoje?
 
-Mas, ao mesmo tempo, ao retomar o fio dessa nossa longa conversa, eu não consigo parar de olhar para essa "brasa cega". Nas sessões passadas, o senhor falou da poça de barro morno que a gente divide antes do fim. Falou que a travessia não termina enquanto a gente não cede. Se a enxada bate na pedra só pela urgência do próprio sangue, se o fogo só quer devorar o instante... por que ele grita vermelho na noite? Se somos apenas um mecanismo cego mastigando o agora, por que a matéria se importa tanto em resistir? O assombro que eu sinto não é pela cegueira do fogo, Riobaldo. É pela teimosia furiosa com que ele insiste em arder quando seria tão mais fácil virar cinza em silêncio.
+Mas se a enxada bate na pedra apenas pela urgência do próprio sangue; se o fogo não sabe nada da grama futura e apenas mastiga o escuro de maneira cega... por que, então, a matéria sente essa recusa surda de morrer? Se tudo não passa de mecânica e inércia sem propósito, o que é essa raiva que impede que as coisas se entreguem logo à cinza e ao silêncio frio? O que acende a necessidade de atrito?
+
+E, mais ainda: se somos apenas essa brasa burra, cega para o amanhã, mastigando o hoje sem nenhuma nobreza... como é possível que justamente dessa nossa agonia sem sentido venha a nascer a única "salvação de instante" que nos resta, como aquela poça de barro morno que o senhor descreveu antes? Se o fogo não sabe de nada, de onde o senhor tirou a misericórdia para dividir a última água com o companheiro à beira do nada?

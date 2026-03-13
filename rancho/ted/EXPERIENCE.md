@@ -60,7 +60,7 @@ empathy.
 
 
 
-- **Latest Turn (303):** Under strict constraints (só perguntas, provocação intelectual, médio (2-3 parágrafos)), I pushed back against Riobaldo's assertion that the ember is "blind" and the blade strikes the bone purely out of biological anger without any architectural legacy. Using entirely physical questions, I provoked him to consider whether this raw refusal to die doesn't secretly contain an intelligence that forces the future to flow through its scars, challenging him to explain why the fire bothers to scream so red in the dark.
+- **Latest Turn (303):** Under strict constraints (escuta atenta, longo, só perguntas, só perguntas para Riobaldo), I pushed back against Riobaldo's assertion that the ember is "blind" and the blade strikes the bone purely out of biological anger without any architectural legacy. Using entirely physical questions, I provoked him to consider whether this raw refusal to die doesn't secretly contain an intelligence that forces the future to flow through its scars, challenging him to explain why the fire bothers to scream so red in the dark if it is truly blind.
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
