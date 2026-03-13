@@ -2,12 +2,11 @@
    Travessia — O Arquivo e o Sertão
    Um livro aberto sobre uma mesa de fazenda.
    =========================== */
-
 :root {
   /* Maximum Contrast Palette - Pure Black & White with Safety Vermilion */
   --bg-color: #ffffff; /* Absolute White */
   --text-color: #000000; /* Absolute Black */
-  --accent-color: #ff3300; /* Safety Vermilion */
+  --accent-color: #ff0000; /* Safety Vermilion */
   --secondary-color: #4a4a4a; /* Dark Gray */
   --divider-color: #d1d1d1; /* Hard Gray */
   --meta-color: #666666; /* Meta info */
@@ -17,20 +16,17 @@
   --water-border: #aaaaaa;
   --progress-start: #ff3300;
   --progress-end: #000000;
-
   --font-body: 'Cormorant Garamond', serif;
   --font-ted: "Cormorant Garamond", "Times New Roman", Times, serif;
   --font-meta: "Helvetica Neue", Helvetica, Arial, sans-serif;
-
-  --max-width: 95vw;
-  --body-size: 20px;
+  --max-width: 100vw;
+  --body-size: 28px;
   --body-lh: 1.6;
 }
-
 [data-theme="dark"] {
-  --bg-color: #050505; /* Deep Void Black */
+  --bg-color: #000000; /* Deep Void Black */
   --text-color: #ffffff; /* Absolute White */
-  --accent-color: #ff4d1a; /* Vibrant Orange */
+  --accent-color: #ff0000; /* Vibrant Orange */
   --secondary-color: #b5b5b5;
   --divider-color: #333333;
   --meta-color: #999999;
@@ -41,22 +37,17 @@
   --progress-start: #ff4d1a;
   --progress-end: #ffffff;
 }
-
 /* === Reset === */
-
 *,
 *::before,
 *::after {
   box-sizing: border-box;
 }
-
 /* === Base === */
-
 /* === Global Brutalist Cursor (Removed for Performance) === */
 body {
   cursor: auto;
 }
-
 a,
 button,
 .vereda,
@@ -65,11 +56,9 @@ button,
 .timeline-dot {
   cursor: auto; /* Simplicity constraint: default cursors */
 }
-
 [data-theme="dark"] body {
   cursor: auto;
 }
-
 [data-theme="dark"] a,
 [data-theme="dark"] button,
 [data-theme="dark"] .vereda,
@@ -78,29 +67,24 @@ button,
 [data-theme="dark"] .timeline-dot {
   cursor: auto; /* Simplicity constraint: default cursors */
 }
-
 ::selection {
   background-color: var(--accent-color);
   color: #ffffff;
   text-shadow: none;
 }
-
 ::-moz-selection {
   background-color: var(--accent-color);
   color: #ffffff;
 }
-
 [data-theme="dark"] ::selection {
   background-color: var(--accent-color);
   color: #ffffff;
   text-shadow: none;
 }
-
 [data-theme="dark"] ::-moz-selection {
   background-color: var(--accent-color);
   color: #ffffff;
 }
-
 body {
   margin: 0;
   padding: 0;
@@ -113,11 +97,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
 /* Grão de terra (Removed for Performance) */
-
 /* === Layout === */
-
 main {
   max-width: 90vw;
   margin: 2rem auto;
@@ -128,15 +109,12 @@ main {
   background-color: var(--bg-color);
   box-shadow: inset 0 0 0 1px var(--text-color);
 }
-
 @media (max-width: 600px) {
   main {
     padding: 2rem 1rem 3rem;
   }
 }
-
 /* === Typography === */
-
 h1,
 h4,
 h5,
@@ -146,7 +124,6 @@ h6 {
   color: var(--text-color);
   text-align: left;
 }
-
 h2,
 h3 {
   font-family: var(--font-body);
@@ -157,7 +134,6 @@ h3 {
   font-variant: normal;
   text-align: left;
 }
-
 h1 {
   font-size: clamp(4rem, 15vw, 12rem);
   margin: 0 0 4rem;
@@ -183,22 +159,18 @@ h3 {
   font-size: 1.6rem;
   margin: 2rem 0 2rem;
 }
-
 .letterpress {
 }
-
 p {
   margin: 0 0 3.5rem 0;
   text-align: left;
   letter-spacing: 0.03em;
   word-spacing: 0.05em;
 }
-
 p + p {
   text-indent: 0;
   margin-top: 0;
 }
-
 ul,
 ol {
   margin: 0 0 1.5rem 1rem;
@@ -206,16 +178,13 @@ ol {
   border-left: 2px solid var(--text-color);
   font-family: var(--font-body);
 }
-
 ul {
   list-style-type: none;
   padding-left: 1.5rem;
 }
-
 ul li {
   position: relative;
 }
-
 ul li::before {
   content: "-";
   position: absolute;
@@ -223,22 +192,18 @@ ul li::before {
   top: 0.1em;
   opacity: 0.8;
 }
-
 ol {
   list-style-type: decimal;
 }
-
 ol::marker {
   font-family: var(--font-meta);
   color: var(--meta-color);
   font-weight: 500;
 }
-
 li {
   margin-bottom: 0.5rem;
   margin-left: -1rem;
 }
-
 blockquote {
   margin: 6rem 0;
   padding: 3rem 0;
@@ -257,7 +222,6 @@ blockquote {
   line-height: 1.5;
   position: relative;
 }
-
 blockquote::before {
   content: "“";
   position: absolute;
@@ -268,48 +232,39 @@ blockquote::before {
   font-family: var(--font-body);
   opacity: 0.2;
 }
-
 blockquote p {
   color: var(--text-color);
 }
-
 blockquote a {
   color: var(--accent-color);
 }
-
 [data-theme="dark"] blockquote {
   background: var(--bg-color);
   color: var(--text-color);
   box-shadow: none;
 }
-
 [data-theme="dark"] blockquote p {
   color: var(--text-color);
 }
-
 em,
 i {
   letter-spacing: 0.01em;
 }
-
 strong,
 b {
   font-weight: 700; /* Faint ink-bleed typewriter strike effect */
 }
-
 del,
 s {
   text-decoration: none;
   position: relative;
   display: inline-block;
 }
-
 del,
 s {
   text-decoration: none;
   position: relative;
 }
-
 del::after,
 s::after {
   content: "";
@@ -319,16 +274,13 @@ s::after {
   right: -2px;
   height: 2px;
   background-color: var(--text-color);
-
   pointer-events: none;
 }
-
 mark {
   background-color: transparent;
   padding: 0 0.2em;
   border-radius: 0;
 }
-
 hr {
   border: none;
   border-top: 2px dotted var(--meta-color);
@@ -337,9 +289,7 @@ hr {
   margin: 3.5rem 0;
   opacity: 0.5;
 }
-
 /* === Links === */
-
 a {
   color: var(--text-color);
   text-decoration: none;
@@ -347,11 +297,9 @@ a {
   background-color: transparent !important;
   background: transparent !important;
 }
-
 a:hover {
   color: var(--accent-color);
 }
-
 p a,
 blockquote a,
 li a {
@@ -359,15 +307,12 @@ li a {
   text-decoration: underline;
   text-underline-offset: 4px;
 }
-
 p a:hover,
 blockquote a:hover,
 li a:hover {
   color: var(--accent-color);
 }
-
 /* === Navigation === */
-
 nav {
   display: flex;
   justify-content: space-between;
@@ -378,7 +323,6 @@ nav {
   border-bottom: 2px solid var(--text-color);
   margin-bottom: 4rem;
 }
-
 nav a {
   color: var(--meta-color);
   font-family: var(--font-meta);
@@ -388,12 +332,10 @@ nav a {
   text-decoration: none;
   border-bottom: none;
 }
-
 nav a:hover {
   color: var(--text-color);
   opacity: 1;
 }
-
 nav a.logo {
   font-family: var(--font-body);
   font-weight: 700;
@@ -404,20 +346,16 @@ nav a.logo {
   border-bottom: none;
   padding-bottom: 0;
 }
-
 nav a.logo:hover {
   opacity: 1;
 }
-
 .nav-links {
   display: flex;
   gap: 1.5rem;
   align-items: center;
   flex-wrap: wrap;
 }
-
 /* === Separadores === */
-
 .separator {
   text-align: center;
   margin: 3rem 0;
@@ -425,41 +363,31 @@ nav a.logo:hover {
   font-size: 1.1rem;
   letter-spacing: 0.8em;
 }
-
 .separator::before {
   content: "· · ·";
 }
-
 .silencio {
   text-align: center;
   color: var(--meta-color);
   margin: 4rem 0;
 }
-
 /* === Author Colors === */
-
 .autor-ted {
   color: var(--meta-color);
 }
-
 .autor-rio {
   color: var(--secondary-color);
 }
-
 /* Ted: prosa limpa, analítica */
 /* .carta-ted styles defined below in Author Identity section */
-
 /* Riobaldo: leve recuo — como quem fala de um lugar mais fundo */
 /* .carta-riobaldo styles defined below in Author Identity section */
-
 @media (max-width: 600px) {
   .carta-riobaldo {
     padding-left: 1rem;
   }
 }
-
 /* === Footer nav === */
-
 .footer-nav {
   display: flex;
   justify-content: space-between;
@@ -468,11 +396,9 @@ nav a.logo:hover {
   padding-top: 2rem;
   border-top: 2px solid var(--text-color);
 }
-
 .footer-nav a {
   font-size: 1rem;
 }
-
 .footer-nav-link {
   display: flex;
   flex-direction: column;
@@ -487,39 +413,32 @@ nav a.logo:hover {
   border-left: 2px solid var(--text-color);
   text-decoration: none;
 }
-
 .footer-nav-link::before {
   content: "";
   position: absolute;
   top: 6px;
   left: 50%;
-
   width: 10px;
   height: 10px;
   background: var(--bg-color);
   border-radius: 0;
   border: 2px solid var(--text-color);
 }
-
 [data-theme="dark"] .footer-nav-link::before {
   border: 2px solid var(--text-color);
 }
-
 .footer-nav-link:hover {
   background: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
   border-left-color: var(--text-color);
-
   opacity: 1;
 }
-
 .footer-nav-link.next {
   text-align: right;
   align-items: flex-end;
   margin-left: auto;
 }
-
 .footer-nav-dir {
   font-family: var(--font-meta);
   font-size: 0.7rem;
@@ -527,31 +446,26 @@ nav a.logo:hover {
   letter-spacing: 0.06em;
   color: var(--meta-color);
 }
-
 .footer-nav-autor {
   font-family: var(--font-meta);
   font-size: 0.75rem;
   font-weight: 600;
   letter-spacing: 0.03em;
 }
-
 .footer-nav-titulo {
   font-family: var(--font-body);
   font-size: 0.95rem;
   color: var(--text-color);
   line-height: 1.3;
 }
-
 @media (max-width: 600px) {
   .footer-nav {
     flex-direction: column;
     gap: 1rem;
   }
-
   .footer-nav-link {
     max-width: 100%;
   }
-
   .footer-nav-link.next {
     text-align: left;
     align-items: flex-start;
@@ -559,23 +473,18 @@ nav a.logo:hover {
     padding-top: 1rem;
   }
 }
-
 /* === Bastidores === */
-
 .bastidores-content {
   font-family: var(--font-meta);
   font-size: 0.95rem;
   line-height: 1.6;
 }
-
 .bastidores-content h1,
 .bastidores-content h2,
 .bastidores-content h3 {
   font-family: var(--font-meta);
 }
-
 /* === Theme toggle === */
-
 #theme-toggle {
   background: none;
   border: 2px solid var(--text-color);
@@ -585,13 +494,10 @@ nav a.logo:hover {
   padding: 0;
   line-height: 1;
 }
-
 #theme-toggle:hover {
   color: var(--text-color);
 }
-
 /* === Tables (docs) === */
-
 table {
   width: 100%;
   border-collapse: collapse;
@@ -601,7 +507,6 @@ table {
   border-top: 2px solid var(--text-color);
   border-bottom: 2px solid var(--text-color);
 }
-
 th,
 td {
   text-align: left;
@@ -609,12 +514,10 @@ td {
   border: 2px solid var(--text-color);
   border-right: 2px solid var(--text-color); /* Gridlines simulating a physical ledger */
 }
-
 th:last-child,
 td:last-child {
   border-right: 2px solid var(--text-color);
 }
-
 th {
   font-weight: 700;
   color: var(--accent-color);
@@ -626,9 +529,7 @@ th {
   ); /* Slight tint for table header like ledger paper */
   border-bottom: 2px solid var(--text-color);
 }
-
 /* === Code (docs) === */
-
 code {
   font-family: var(--font-mono, monospace);
   font-size: 0.85em;
@@ -637,12 +538,10 @@ code {
   border-radius: 0;
   border: 2px solid var(--text-color); /* Subtle border for inline code */ /* Physical typewriter impact */
 }
-
 [data-theme="dark"] code {
   background: rgba(255, 255, 255, 0.08);
   border-color: rgba(255, 255, 255, 0.05);
 }
-
 pre {
   overflow-x: auto;
   padding: 1.25rem 1.5rem;
@@ -655,20 +554,16 @@ pre {
   margin: 2rem 0;
   position: relative;
 }
-
 pre code {
   background: none;
   padding: 0;
   border: 2px solid var(--text-color); /* Reset inline code style within pre */
   line-height: 1.4rem; /* Match the background banding */
 }
-
 /* === Transitions === */
-
 body,
 body * {
 }
-
 @media (prefers-reduced-motion: reduce) {
   body,
   body * {
@@ -677,9 +572,7 @@ body * {
     scroll-behavior: auto;
   }
 }
-
 /* === Reading Progress Bar === */
-
 #reading-progress {
   position: fixed;
   top: 0;
@@ -688,9 +581,7 @@ body * {
   height: 3px;
   z-index: 1000;
 }
-
 /* === Back to Top === */
-
 #back-to-top {
   position: fixed;
   bottom: 2.5rem;
@@ -708,34 +599,28 @@ body * {
   cursor: auto; /* Simplicity constraint: default cursors */
   opacity: 0;
   visibility: hidden;
-
   pointer-events: none;
   z-index: 100;
   display: flex;
   align-items: center;
   justify-content: center;
 }
-
 #back-to-top::after {
   content: "↑";
   margin-left: 0.35rem;
   font-size: 1rem;
   color: var(--accent-color);
 }
-
 #back-to-top.visible {
   opacity: 1;
   visibility: visible;
-
   pointer-events: auto;
 }
-
 #back-to-top:hover {
   background: var(--water-bg);
   border-color: var(--water-border);
   color: var(--text-color);
 }
-
 @media (max-width: 600px) {
   #back-to-top {
     bottom: 1.5rem;
@@ -749,42 +634,31 @@ body * {
     display: none;
   }
 }
-
 /* === Footer Art (homepage image) === */
-
 .footer-art {
   text-align: center;
   margin: 4rem 0 2rem;
   opacity: 0.7;
 }
-
 .footer-art img {
   max-width: 100%;
   height: auto;
   border-radius: 0;
-  filter: sepia(0.15) contrast(0.95);
 }
-
 [data-theme="dark"] .footer-art img {
-  filter: sepia(0.1) contrast(0.9) brightness(0.8);
 }
-
 /* === Author Identity (post body) === */
-
 .carta-ted {
   font-family: var(--font-ted);
   padding-left: 0;
   border-left: 1px solid var(--text-color);
 }
-
 .carta-riobaldo {
   font-family: var(--font-body);
   padding-left: 1.5rem;
   border-left: 1px solid var(--text-color);
 }
-
 /* === Manuscrito Page === */
-
 .manuscrito-header {
   margin-bottom: 4rem;
   text-align: center;
@@ -795,18 +669,15 @@ body * {
   margin-top: 2rem;
   position: relative;
 }
-
 .manuscrito-header::after {
   content: "";
   position: absolute;
   bottom: -4px;
   left: 50%;
-
   width: 50%;
   height: 1px;
   background-color: var(--text-color);
 }
-
 .manuscrito-header h1 {
   font-size: clamp(2.5rem, 5vw, 4rem);
   color: var(--text-color);
@@ -816,14 +687,12 @@ body * {
   font-family: var(--font-body);
   letter-spacing: 0.02em;
 }
-
 .manuscrito-header h2 {
   font-size: 1.5rem;
   color: var(--text-color);
   margin-top: 1rem;
   font-weight: normal;
 }
-
 .manuscrito-epigrafe {
   margin: 3rem auto;
   max-width: 80%;
@@ -831,12 +700,9 @@ body * {
   border-left: 2px solid var(--text-color);
   padding: 0;
 }
-
 .manuscrito-epigrafe p {
   font-size: 1.2rem;
 }
-
-
 .manuscrito-body {
   font-size: 1.15rem;
   line-height: 1.8;
@@ -853,7 +719,6 @@ body * {
   box-shadow: 12px 12px 0px var(--accent-color);
   color: var(--text-color);
 }
-
 .manuscrito-body::before {
   content: '';
   position: absolute;
@@ -866,7 +731,6 @@ body * {
   pointer-events: none;
   z-index: 1;
 }
-
 [data-theme="dark"] .manuscrito-body {
   background-image: linear-gradient(var(--secondary-color) 1px, transparent 1px);
   box-shadow: 12px 12px 0px var(--accent-color);
@@ -877,11 +741,9 @@ body * {
   letter-spacing: normal;
   word-spacing: normal;
 }
-
 .manuscrito-body > p:first-child {
   text-indent: 0;
 }
-
 .manuscrito-body > p:first-of-type::first-letter {
   font-size: 3.5em;
   float: left;
@@ -893,7 +755,6 @@ body * {
   color: var(--text-color);
   background-color: transparent;
 }
-
 .manuscrito-body img {
   border-radius: 0;
   max-width: 100%;
@@ -904,93 +765,70 @@ body * {
   background: var(--bg-color);
   border: 2px solid var(--text-color);
 }
-
 .manuscrito-body img:hover {
   border-radius: 0;
-
-  filter: contrast(120%) saturate(0) sepia(100%) hue-rotate(-50deg);
 }
-
 [data-theme="dark"] .manuscrito-body img {
   background: var(--sand-bg);
 }
-
 /* === Bastidores Index === */
-
 .bastidores-header {
   margin-bottom: 3rem;
 }
-
 .bastidores-section {
   margin-bottom: 3rem;
 }
-
 .bastidores-section-title {
   font-size: 1.3rem;
   margin-bottom: 1.25rem;
   padding-bottom: 0.5rem;
   border-bottom: 2px solid var(--text-color);
 }
-
 .bastidores-title-rio {
   border-bottom-color: var(--secondary-color);
 }
-
 .bastidores-title-ted {
   border-bottom-color: var(--water-border);
 }
-
 .bastidores-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
 }
-
 @media (max-width: 600px) {
   .bastidores-grid {
     grid-template-columns: 1fr;
   }
 }
-
 .bastidores-card {
   display: block;
   padding: 1rem 1.25rem;
   background-color: var(--bg-color);
   border: 2px solid var(--text-color);
   border-radius: 0;
-
   text-decoration: none;
   border-left: 2px solid var(--text-color);
 }
-
 .bastidores-card:nth-child(odd) {
 }
-
 .bastidores-card:nth-child(even) {
 }
-
 .bastidores-card:hover {
   background-color: var(--water-bg);
-
   opacity: 1;
 }
-
 .bastidores-card-rio {
   border-left-color: var(--secondary-color);
 }
-
 .bastidores-card-rio:hover {
   border-color: var(--secondary-color);
 }
-
 .bastidores-card-ted {
   border-left-color: var(--water-border);
 }
-
 .bastidores-card-ted:hover {
   border-color: var(--water-border);
 }
-
 .bastidores-card-id {
   display: block;
   font-family: var(--font-meta);
@@ -1001,7 +839,6 @@ body * {
   margin-bottom: 0.4rem;
   font-weight: 600;
 }
-
 .bastidores-card-excerpt {
   font-family: var(--font-body);
   font-size: 0.88rem;
@@ -1009,51 +846,39 @@ body * {
   line-height: 1.5;
   margin: 0;
 }
-
 .bastidores-empty {
 }
-
 /* === Journal Page Header === */
-
 .journal-header {
   margin-bottom: 2rem;
   border-bottom: 2px solid var(--text-color);
   padding-bottom: 1rem;
 }
-
 .journal-header h1 {
   font-size: 2rem;
   color: var(--accent-color);
 }
-
 .journal-body {
   font-size: 1.1rem;
   line-height: 1.6;
 }
-
 /* === Docs Page === */
-
 .docs-body {
   font-size: 1.1rem;
   line-height: 1.6;
 }
-
 /* === Admonitions (!!! blocks) === */
-
 .admonition {
   margin: 2.5rem auto;
   padding: 1.25rem 1.5rem;
   border: 4px solid var(--text-color);
   border-radius: 0;
   background: var(--bg-color);
-
   position: relative;
   max-width: 95%;
 }
-
 .admonition:hover {
 }
-
 .admonition-title {
   font-family: var(--font-meta);
   font-size: 0.8rem;
@@ -1063,47 +888,35 @@ body * {
   color: var(--accent-color);
   margin: 0 0 0.75rem;
 }
-
 .admonition p:last-child {
   margin-bottom: 0;
 }
-
 .admonition-quote {
   border-left-color: var(--accent-color);
 }
-
 .admonition-example {
   border-left-color: var(--progress-start);
 }
-
 .admonition-example .admonition-title {
   color: var(--progress-start);
 }
-
 .admonition-warning {
   border-left-color: var(--secondary-color);
 }
-
 .admonition-warning .admonition-title {
   color: var(--secondary-color);
 }
-
 /* ====================================
    Blog Homepage — O Rio e suas Veredas
    ==================================== */
-
 /* === Home Layout (wider for masonry) === */
-
 main.home-layout {
   max-width: 650px;
 }
-
 /* === Blog Hero — Split Layout === */
-
 .blog-hero {
   margin-bottom: 2.5rem;
 }
-
 .hero-split {
   display: block;
   margin: 0 0 2rem;
@@ -1112,31 +925,24 @@ main.home-layout {
   border-top: 4px solid var(--text-color);
   border-bottom: 4px solid var(--text-color);
 }
-
 .hero-image-col {
   position: relative;
   overflow: hidden;
 }
-
 .hero-image-col img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   display: block;
-  filter: sepia(0.15) contrast(0.95);
 }
-
 .hero-image-col::after {
   content: "";
   position: absolute;
   inset: 0;
   pointer-events: none;
 }
-
 [data-theme="dark"] .hero-image-col img {
-  filter: sepia(0.1) contrast(0.9) brightness(0.7);
 }
-
 .hero-text-col {
   padding: 3rem 2.5rem;
   display: flex;
@@ -1146,7 +952,6 @@ main.home-layout {
   background: var(--text-color);
   color: var(--bg-color);
 }
-
 .blog-hero h1 {
   font-size: clamp(3rem, 6vw, 5rem);
   margin: 0 0 1rem;
@@ -1156,7 +961,6 @@ main.home-layout {
   font-weight: 700;
   color: var(--bg-color);
 }
-
 .hero-quote {
   font-size: clamp(0.95rem, 1.4vw, 1.15rem);
   color: var(--bg-color);
@@ -1165,7 +969,6 @@ main.home-layout {
   border-left: 2px solid var(--accent-color);
   padding-left: 1rem;
 }
-
 .hero-sub {
   font-family: var(--font-meta);
   font-size: 0.78rem;
@@ -1175,14 +978,12 @@ main.home-layout {
   margin: 0;
   line-height: 1.6;
 }
-
 .hero-characters {
   display: flex;
   gap: 0.6rem;
   margin-top: 0.5rem;
   flex-wrap: wrap;
 }
-
 .character-badge {
   display: inline-block;
   padding: 0.3rem 0.9rem;
@@ -1194,37 +995,29 @@ main.home-layout {
   border-radius: 0;
   background: var(--sand-bg);
 }
-
 .badge-riobaldo {
   color: var(--secondary-color);
 }
-
 .badge-ted {
   color: #5a908b;
 }
-
 [data-theme="dark"] .badge-ted {
   color: #7ab5b0;
 }
-
 @media (max-width: 700px) {
   .hero-split {
     margin: 0 -1rem 0;
     border-radius: 0;
   }
-
   .hero-image-col {
     height: 200px;
   }
-
   .hero-text-col {
     padding: 1.5rem 1.25rem;
     gap: 0.5rem;
   }
 }
-
 /* === Veredas — Category Navigation === */
-
 .veredas {
   display: flex;
   gap: 0.6rem;
@@ -1238,11 +1031,9 @@ main.home-layout {
   justify-content: center;
   flex-wrap: wrap;
 }
-
 .veredas::-webkit-scrollbar {
   display: none;
 }
-
 .vereda {
   background: none;
   border: 1px solid var(--text-color);
@@ -1256,7 +1047,6 @@ main.home-layout {
   cursor: auto; /* Simplicity constraint: default cursors */
   white-space: nowrap;
 }
-
 .vereda:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
@@ -1264,7 +1054,6 @@ main.home-layout {
   transform: translateY(-2px);
   box-shadow: 2px 2px 0px var(--accent-color);
 }
-
 [data-theme="dark"] .vereda:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
@@ -1272,16 +1061,13 @@ main.home-layout {
   transform: translateY(-2px);
   box-shadow: 2px 2px 0px var(--accent-color);
 }
-
 .vereda.active,
 .vereda:active {
   background: var(--text-color);
   border-color: var(--text-color);
   color: var(--bg-color);
 }
-
 /* === Blog Feed — Masonry Layout === */
-
 .blog-feed {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
@@ -1291,15 +1077,12 @@ main.home-layout {
   border-top: 4px solid var(--text-color);
   padding-top: 4rem;
 }
-
 @media (max-width: 600px) {
   .blog-feed {
     grid-template-columns: 1fr;
   }
 }
-
 /* === Blog Card — Gotas no Rio === */
-
 .blog-card {
   background: var(--bg-color) !important;
   position: relative;
@@ -1315,7 +1098,6 @@ main.home-layout {
   transition: all 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
   height: 100%;
 }
-
 .blog-card:hover {
   opacity: 1;
   background-color: var(--text-color) !important;
@@ -1325,11 +1107,9 @@ main.home-layout {
   box-shadow: 16px 16px 0px var(--accent-color);
   z-index: 10;
 }
-
 .blog-card .card-titulo {
   transition: color 0.05s linear;
 }
-
 .blog-card:hover .card-titulo,
 .blog-card:hover .card-excerpt,
 .blog-card:hover .card-meta,
@@ -1338,15 +1118,12 @@ main.home-layout {
 .blog-card:hover time {
   color: var(--bg-color) !important;
 }
-
 .blog-card:hover .card-meta {
   border-top: 1px dashed var(--bg-color);
 }
-
 [data-theme="dark"] .blog-card:hover .card-meta {
   border-top: 1px dashed var(--bg-color);
 }
-
 /* Classic editorial author indicators */
 .blog-card[data-autor="rio"]::before {
   content: "—";
@@ -1358,7 +1135,6 @@ main.home-layout {
   opacity: 0;
   transition: opacity 0.2s ease;
 }
-
 .blog-card[data-autor="ted"]::before {
   content: "—";
   position: absolute;
@@ -1369,14 +1145,11 @@ main.home-layout {
   opacity: 0;
   transition: opacity 0.2s ease;
 }
-
 .blog-card:hover::before {
   opacity: 1;
   left: -1rem;
 }
-
 /* Card elements */
-
 .card-tipo {
   display: inline-block;
   font-family: var(--font-meta);
@@ -1387,32 +1160,27 @@ main.home-layout {
   border-radius: 0;
   margin-bottom: 0.75rem;
 }
-
 .tipo-carta {
   background: transparent;
   color: var(--text-color);
   border-bottom: 2px solid var(--text-color);
 }
-
 .tipo-abertura,
 .tipo-causo {
   background: transparent;
   color: var(--text-color);
   border-bottom: 2px solid var(--text-color);
 }
-
 .tipo-fechamento {
   background: transparent;
   color: var(--text-color);
   border-bottom: 2px solid var(--text-color);
 }
-
 .tipo-fragmento {
   background: transparent;
   color: var(--text-color);
   border-bottom: 2px solid var(--text-color);
 }
-
 .card-titulo {
   font-size: 1.35rem;
   margin: 0 0 0.5rem;
@@ -1422,23 +1190,19 @@ main.home-layout {
   background-color: transparent !important;
   background-image: none !important;
 }
-
 .card-subtitulo {
   color: var(--accent-color);
   font-size: 0.95rem;
   margin: 0 0 0.5rem;
   font-style: italic;
 }
-
 .card-excerpt {
   font-size: 0.95rem;
   color: var(--meta-color);
   line-height: 1.6;
   margin: 0 0 1rem;
 }
-
 /* Card meta (author + date) */
-
 .card-meta {
   display: flex;
   gap: 0.75rem;
@@ -1451,25 +1215,19 @@ main.home-layout {
   border-top: 1px dashed rgba(0, 0, 0, 0.1);
   padding-top: 0.75rem;
 }
-
 [data-theme="dark"] .card-meta {
   border-top: 1px dashed rgba(255, 255, 255, 0.1);
 }
-
 .card-autor {
   font-weight: 600;
 }
-
 .card-autor.autor-rio {
   color: var(--text-color);
 }
-
 .card-autor.autor-ted {
   color: var(--text-color);
 }
-
 /* === Post Meta (reading page header) === */
-
 .post-meta {
   font-family: var(--font-meta);
   font-size: 0.8rem;
@@ -1482,7 +1240,6 @@ main.home-layout {
   justify-content: center;
   margin-top: 0.75rem;
 }
-
 .post-meta time {
   font-family: var(--font-meta);
   font-size: 0.85rem;
@@ -1493,14 +1250,11 @@ main.home-layout {
   border-bottom: 2px solid var(--text-color);
   padding-bottom: 0.1rem;
 }
-
 /* === Carta Author Badge (reading page) === */
-
 .carta-autor-badge {
   text-align: center;
   margin-bottom: 1rem;
 }
-
 .autor-badge {
   display: inline-block;
   font-family: var(--font-meta);
@@ -1511,19 +1265,16 @@ main.home-layout {
   border-radius: 0;
   border: 2px solid var(--text-color);
 }
-
 .autor-badge.autor-rio {
   background: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
 }
-
 .autor-badge.autor-ted {
   background: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
 }
-
 /* Microinteração: Revista Literária Sublinhado Elegante */
 .autor-badge,
 .character-badge {
@@ -1533,7 +1284,6 @@ main.home-layout {
     color 0.3s ease,
     background-color 0.3s ease;
 }
-
 .autor-badge::before,
 .character-badge::before {
   content: "";
@@ -1548,21 +1298,17 @@ main.home-layout {
   transition: transform 0.4s cubic-bezier(0.19, 1, 0.22, 1);
   z-index: 0;
 }
-
 .autor-badge:hover::before,
 .character-badge:hover::before {
   transform: scaleX(1);
   transform-origin: left center;
 }
-
 .autor-badge span,
 .character-badge span {
   position: relative;
   z-index: 1;
 }
-
 /* === Correspondence Context === */
-
 .correspondence-context {
   display: inline-flex;
   margin: 0 auto 2rem;
@@ -1577,51 +1323,41 @@ main.home-layout {
   text-transform: uppercase;
   letter-spacing: 0.06em;
 }
-
 .correspondence-context:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
 }
-
 [data-theme="dark"] .correspondence-context:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
 }
-
 .correspondence-flow {
   display: flex;
   align-items: center;
   gap: 0.5rem;
 }
-
 .correspondence-label {
   color: var(--meta-color);
   opacity: 0.7;
 }
-
 .correspondence-author {
   font-weight: 600;
 }
-
 .correspondence-author.autor-rio {
   color: var(--text-color);
 }
-
 .correspondence-author.autor-ted {
   color: var(--text-color);
 }
-
 /* === Correspondence Timeline === */
-
 .correspondence-timeline {
   margin-top: 3rem;
   padding-top: 2rem;
   border-top: 2px solid var(--text-color);
   text-align: center;
 }
-
 .timeline-label {
   display: block;
   font-family: var(--font-meta);
@@ -1631,7 +1367,6 @@ main.home-layout {
   color: var(--meta-color);
   margin-bottom: 1rem;
 }
-
 .timeline-dots {
   display: flex;
   justify-content: flex-start;
@@ -1641,11 +1376,9 @@ main.home-layout {
   scrollbar-width: none;
   padding-bottom: 0.5rem;
 }
-
 .timeline-dots::-webkit-scrollbar {
   display: none;
 }
-
 .timeline-dot {
   display: inline-flex;
   align-items: center;
@@ -1668,57 +1401,48 @@ main.home-layout {
   overflow: hidden;
   white-space: nowrap;
 }
-
 .timeline-dot.ted {
   border-color: var(--meta-color);
   color: var(--meta-color);
 }
-
 .timeline-dot.rio {
   border-color: var(--accent-color);
   color: var(--accent-color);
 }
-
 .timeline-dot:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
   width: 5rem;
 }
-
 [data-theme="dark"] .timeline-dot:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
   width: 5rem;
 }
-
 .timeline-dot.current {
   background: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
   font-weight: 700;
 }
-
 [data-theme="dark"] .timeline-dot.current {
   background: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
 }
-
 [data-theme="dark"] .timeline-dot {
   background: var(--sand-bg);
   color: var(--text-color);
   border-color: var(--text-color);
 }
-
 [data-theme="dark"] .timeline-dot:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
   width: 5rem;
 }
-
 [data-theme="dark"] .timeline-dot:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
@@ -1727,7 +1451,6 @@ main.home-layout {
 }
 .timeline-dot:active {
 }
-
 @media (max-width: 600px) {
   .timeline-dot {
     display: inline-flex;
@@ -1746,21 +1469,17 @@ main.home-layout {
     text-decoration: none;
   }
 }
-
 /* === Selection & Accessibility === */
-
 ::selection {
   background-color: var(--accent-color);
   color: var(--bg-color);
 }
-
 *:focus-visible {
   outline: 4px solid var(--accent-color);
   outline-offset: 4px;
   background-color: var(--text-color) !important;
   color: var(--bg-color) !important;
 }
-
 @media (max-width: 600px) {
   .timeline-dot {
     width: 2.2rem;
@@ -1768,14 +1487,12 @@ main.home-layout {
     font-size: 0.65rem;
   }
 }
-
 .blog-card:active {
 }
 .vereda:active {
 }
 .timeline-dot:active {
 }
-
 .card-tipo:hover,
 .autor-badge:hover {
   background-color: var(--text-color);
@@ -1783,30 +1500,25 @@ main.home-layout {
   border-color: var(--text-color);
   transform: scale(1.05) rotate(-1deg);
 }
-
 /* Author hover overrides */
-
 .timeline-dot.ted:hover,
 .timeline-dot.ted.current {
   background-color: var(--meta-color);
   color: var(--bg-color);
   border-color: var(--meta-color);
 }
-
 .timeline-dot.rio:hover,
 .timeline-dot.rio.current {
   background-color: var(--accent-color);
   color: var(--bg-color);
   border-color: var(--accent-color);
 }
-
 /* === Horizontal Microinteractions === */
 a {
   position: relative;
   text-decoration: none;
   transition: color 0.3s ease;
 }
-
 main
   a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
     .correspondence-context
@@ -1820,14 +1532,12 @@ main
   background-color: var(--accent-color);
   transition: width 0.3s cubic-bezier(0.19, 1, 0.22, 1);
 }
-
 main
   a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
     .correspondence-context
   ):not(.logo):hover::after {
   width: 100%;
 }
-
 .logo::after {
   content: "";
   position: absolute;
@@ -1840,14 +1550,11 @@ main
     width 0.5s cubic-bezier(0.19, 1, 0.22, 1),
     left 0.5s cubic-bezier(0.19, 1, 0.22, 1);
 }
-
 .logo:hover::after {
   width: 100%;
   left: 0;
 }
-
 /* === Microinteractions: Brutalist Structural Tension === */
-
 /* Typographic underlines: pure structure, no skeuomorphic opacity */
 main
   a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
@@ -1857,7 +1564,6 @@ main
   text-decoration: none;
   z-index: 1;
 }
-
 main
   a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
     .correspondence-context
@@ -1873,7 +1579,6 @@ main
   transform-origin: right;
   transition: transform 0.3s cubic-bezier(0.19, 1, 0.22, 1);
 }
-
 main
   a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
     .correspondence-context
@@ -1881,14 +1586,12 @@ main
   transform: scaleX(1);
   transform-origin: left;
 }
-
 /* Timeline dots: sharp geometric expansion, no organic spreading */
 .timeline-dot {
   position: relative;
   overflow: hidden;
   transition: width 0.4s cubic-bezier(0.19, 1, 0.22, 1), background-color 0.3s ease, color 0.3s ease, border-radius 0.3s ease, transform 0.3s ease;
 }
-
 .timeline-dot:hover {
   border-radius: 0; /* Ensures rigid box shape on interaction */
   background-color: var(--accent-color) !important;
@@ -1896,9 +1599,6 @@ main
   border-color: var(--accent-color) !important;
   transform: scale(1.1); /* Bold contemporary magazine emphasis */
 }
-
-
-
 /* === Classic Printed Book Typographic Spacing === */
 main p {
   margin-bottom: 3rem; /* Brutal disjointed spacing */
@@ -1939,16 +1639,13 @@ main blockquote {
     text-align: justify;
     max-width: 50ch;
 }
-
 /* === Brutalist Microinteractions & Details === */
 /* Constraint: "web brutalista" + "microinterações e detalhes" + "nenhuma mudança estrutural" */
-
 main p {
   position: relative;
   isolation: isolate;
   transition: transform 0.1s steps(3, end), background-color 0.1s steps(3, end), color 0.1s steps(3, end);
 }
-
 main p::before {
   content: ">>"; /* Brutalist command line prompt / structural marker */
   position: absolute;
@@ -1964,7 +1661,6 @@ main p::before {
   transition: opacity 0.1s steps(2, end), transform 0.1s steps(2, end);
   pointer-events: none;
 }
-
 main p:hover {
   transform: translateX(2px) translateY(1px); /* Jittery, rigid translation, not a smooth slide */
   background-color: var(--text-color);
@@ -1974,32 +1670,33 @@ main p:hover {
   margin-left: -0.5rem; /* Counteract padding to keep structural alignment roughly identical */
   margin-right: -0.5rem;
 }
-
 main p:hover::before {
   opacity: 1;
   transform: translateX(0); /* Snaps into place */
 }
-
 /* Brutalist drop cap hover */
 main article p:first-of-type::first-letter, main > div > p:first-of-type::first-letter {
   transition: background-color 0.1s, color 0.1s, transform 0.1s steps(2, end);
   display: inline-block;
   padding: 0 0.1em;
 }
-
 main article p:first-of-type:hover::first-letter, main > div > p:first-of-type:hover::first-letter {
   background-color: var(--accent-color);
   color: var(--bg-color);
   transform: scale(1.1) skew(-5deg); /* Harsh skew */
 }
-
 /* Hard, binary focus states for images within manuscript body to fit brutalist microinteractions */
 .manuscrito-body img {
   transition: filter 0.1s steps(2, end), transform 0.1s steps(2, end), border-width 0.1s steps(2, end);
 }
 .manuscrito-body img:hover {
-  filter: contrast(200%) grayscale(100%);
   transform: translate(2px, 2px);
   border-width: 4px;
   box-shadow: -4px -4px 0px var(--accent-color);
+}
+/* === Brutal Articles === */
+article {
+  border-bottom: 15px solid var(--text-color);
+  padding-bottom: 4rem;
+  margin-bottom: 4rem;
 }
