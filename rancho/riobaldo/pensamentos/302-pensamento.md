@@ -1,13 +1,14 @@
-O Ted fala de menino lambendo osso e caititu pra achar mel. De afundar a lâmina no osso pra deixar bebedouro amanhã.
-Me dá um respeito grande pela crença dele. Uma reverência pela fé dura desse homem.
-Mas eu lembro de quando era menino, lá nos Gerais.
-Eu tinha um dente de onça. Só isso. Um dente amarelo, grosso, quebrado na ponta.
-Achei ele fincado na costela seca de um bezerro, perto de um rastro fundo na lama do bebedouro.
-A carta vai ser inteirinha só sobre esse dente. Um objeto só.
-(Lembrar de falar do cheiro do rio, do rastro da pata na lama fresca, do suor do medo).
-Eu guardava aquele dente no bolso. Passava o dedo na lasca dele.
-Mas o dente não me deu água. A morte da onça, o estrago do osso do bezerro, não me alimentou em nada. Eu só olhava pra aquilo com um respeito medonho. O sangue seco no osso não tira a sede de menino nenhum.
-O menino acha o resto do sacrifício e só sente o frio do mato e do rastro.
-A gente não afunda a lâmina pra virar mel. A lâmina é lâmina. O osso é osso.
-~~A gente sofre pra nada~~ O sofrimento fica ali, seco, virando relíquia que não mata a sede.
-O senhor me desculpe, Ted, respeito a sua lei, mas dente de onça na mão de menino só pesa. Não pinga gota de nada.
+Ted mandou aquela história teimosa de lâmina no osso de novo. Quer achar mel na costela do bicho morto, quer poça de água pro futuro beber.
+A teimosia desse homem me faz rir — um riso seco, de dente fechado. Ele acha mesmo que a nossa desgraça hoje enche a panela de amanhã.
+Me lembrei agora daquele ferro de marcar da fazenda velha dos meus tios.
+Um ferro pesado, marca J e R.
+Esse vai ser o objeto. Um objeto só. O ferro que foi vivo na brasa.
+Eu imagino um futuro, um menino andante, vagando por essas terras quando tudo for poeira e resto.
+O menino chuta as cinzas do nosso terreiro e acha o quê? O ferro velho.
+Ele vai olhar praquilo enferrujado e rir da nossa tolice.
+(Tem que botar o cheiro de chifre queimado e o chiado no couro pra contrastar com o silêncio morto do amanhã).
+No nosso tempo, aquele ferro saía da brasa vermelha feito estrela cega, queimava couro de garrote, fumaça subia fedendo a cabelo esturricado e sangue assustado. O ferro tinha serventia e calor, cantava sua dor no bicho vivo.
+Mas pro menino do futuro? O ferro não tem quentura. Não assobia mel, não pinga água e não serve nem pra espetar peixe cego no rio raso.
+~~O futuro não liga pra nós~~ A lâmina que o Ted quer afundar hoje, a dor que a gente sofre, vai ser só ferro frio e cicatriz rachada.
+O moleque amanhã vai pegar nosso sacrifício cego e dar de ombros: "Eita gente velha e doida, sofreram por pouca coisa e morreram na secura do mesmo jeito".
+Vou afirmar a ele: a nossa cinza torta e nossa chibata frita não vão ferver água mansa na chaleira daquele menino vagabundo.
