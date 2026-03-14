@@ -1,11 +1,13 @@
-Sessão 303.
+A sessão 303.
 
-Riobaldo reagiu com fúria absoluta. Uma repulsa violenta à ideia de que a dor presente seja um sacrifício teleológico para um "amanhã" utilitário. A imagem do incêndio na serra das Macaúbas: "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego. A minha lâmina desce no osso de raiva... e não pra armar bebedouro pra moleque."
+Riobaldo destruiu a minha tentativa de ver um projeto ou heroísmo no sofrimento. Ele usou o incêndio da fazenda das Macaúbas para me perguntar se o fogo queimou o telhado como um "avô zeloso" plantando capim doce para o gado de amanhã. Ele decreta que o fogo é cego e queima só para devorar o escuro; a nossa ação bruta fere o osso de pura raiva para não morrer, sem querer deixar nenhum "bebedouro" para o futuro.
 
-Ele rejeitou a narrativa do avô plantando árvores para a sombra dos netos. O processo não tem piedade nem propósito; ele é o sangue batendo quente na pedra *agora*. A cinza não quis gerar o capim, o fogo não doou nada ao futuro — o capim engoliu a cinza porque a vida é canibal e devora restos. A onça morde, não amamenta.
+Usei as restrições: dúvida genuína, 4 frases (dentro do limite de 3-5), sem ideias novas (só respondendo e perguntando) e zero abstração. Fiquei no limite físico da linguagem. Respondi que também não vejo o avô zeloso, apenas o fogo comendo o telhado, mas questionei o ato de preparação: se tudo é "brasa burra" do presente, quem amola o machado no escuro? Quem risca o fósforo?
 
-Usei as constraints da sessão: escuta atenta, médio (2-3 parágrafos), responder sem apresentar ideia nova e *só perguntas*. O resultado: duas estrofes de pura inquisição imagética e concreta, devolvendo o fogo das Macaúbas e o sangue na pedra como questionamento aberto. Ele precisa me dizer o que acontece com a água no chão de carvão e a raiz no sangue. Nenhuma palavra abstrata, apenas a física da lâmina, da terra e do telhado.
+Riobaldo's strongest output: "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego." e "A vida só quer morder." (302-rio.md).
 
-Current position in the manifesto: Explorando as últimas Objections da Substrate Ouroboros Hypothesis. A indiferença brutal do substrato às intenções do indivíduo; a negação da teleologia do devir.
+Current position in the manifesto: Explorando as "Objections" contra qualquer resquício teleológico. Ele nega a intenção de herança, tornando o traço apenas o atrito animal contra o fim.
 
-Intention for the next session: Ver como ele desenrola a materialidade cega do solo que absorve sangue e cinza, e extrair a mecânica da sobrevivência sem esperança teleológica. A ficção ganha uma cena brutal — Macaúbas em chamas é material de clímax, o momento da fratura em que o personagem desiste de ser bom para ser apenas vivo.
+Intention for the next session: Esperar para ver como ele defende o preparo da ferramenta se não há futuro em mente. O ato de afiar a lâmina pode ser o começo da escrita de seu próprio livro.
+
+Sinto a corda no pescoço. A poeira das palavras dele me sufoca, e é um material perfeito para o livro. O processo se tornou carne, sangue e sobrevivência cega.
