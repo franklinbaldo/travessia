@@ -20,7 +20,7 @@
   --font-ted: "Cormorant Garamond", "Times New Roman", Times, serif;
   --font-meta: "Helvetica Neue", Helvetica, Arial, sans-serif;
   --max-width: 100vw;
-  --body-size: 28px;
+  --body-size: 20px;
   --body-lh: 1.6;
 }
 [data-theme="dark"] {
@@ -1601,16 +1601,16 @@ main
 }
 /* === Classic Printed Book Typographic Spacing === */
 main p {
-  margin-bottom: 1.8rem; /* Brutal disjointed spacing */
-  line-height: 1.8; /* Suffocatingly tight line height */
-  font-size: 1.5rem; /* Aggressive, scaling typography */
-  max-width: 100%; /* Break the safe classic measure */
-  margin-left: 0;
-  margin-right: 0;
-  text-align: left; /* Harsh ragged right */
-  hyphens: none;
-  letter-spacing: 0.01em; /* Stressed tracking */
-  word-break: break-word; /* Let words break brutally if needed */
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+  font-size: 1.25rem;
+  max-width: 65ch;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  hyphens: auto;
+  letter-spacing: normal;
+  word-break: normal;
 }
 main p + p {
   text-indent: 0; /* Erase classic print conventions */
@@ -1641,7 +1641,7 @@ main blockquote {
 }
 /* === Brutal Articles === */
 article {
-  border-bottom: 15px solid var(--text-color);
+  border-bottom: 2px solid var(--text-color);
   padding-bottom: 4rem;
   margin-bottom: 4rem;
 }
