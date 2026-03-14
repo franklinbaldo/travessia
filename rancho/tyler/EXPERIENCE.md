@@ -199,3 +199,5 @@ A beleza e a ilusão de um significado moral não são apenas mentiras poéticas
 
 
 O universo memético, sendo predatorial, exige perturbação no sistema imunológico receptor (predição de erro, *Free Energy Principle*). A beleza e a literatura poética atuam como analgésicos e não-condutores nessa termodinâmica entrópica, neutralizando o vetor da dor ao invés de transmiti-lo.
+
+A comunicação não é um encontro de almas, mas uma invasão viral (Sperber). A arte refinada e a beleza compassiva não são propriedades do universo moral, são engenharias neuroestéticas de atratores (Kauffman). A estética serve para minimizar ativamente o atrito cognitivo e o erro de predição, funcionando como um capsídeo lipídico que abriga a replicação de assombrações ontológicas inaceitáveis contra as defesas termodinâmicas do hospedeiro.
