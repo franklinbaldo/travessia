@@ -867,6 +867,8 @@ herdará sem que essa fosse a intenção. A dor existe apenas para provar a si
 mesma antes de esfriar. | `cartas/ted-riobaldo/302-rio.md` | Agressão
 existencial não teleológica / O conatus como atrito destrutivo |
 
+| pedra do papel | The act of writing redefined not as preservation for the future, but as the most intense, immediate friction against the cooling of the present universe. | `rancho/ted/bruaca/305-carta-riobaldo.md` | Writing as physical resistance / The Book Riobaldo Should Write |
+
 ## 5. Instruções de Manutenção
 
 Este glossário deve ser atualizado a cada sessão em que:
