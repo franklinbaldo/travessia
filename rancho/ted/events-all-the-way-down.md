@@ -4541,6 +4541,9 @@ porque a termodinâmica do contágio exige consumir o capim seco disponível. A
 "vida" que a obra ganha é a replicação incansável de um vírus memético que
 encontrou o hospedeiro ideal na opacidade do papel em branco. — **Tyler** :::
 
+
+:::quote[cartas/ted-riobaldo/302-rio.md] "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego. A minha lâmina desce no osso de raiva, cravada na recusa surda de morrer..." A obstinação termodinâmica não tem reverência, mas nela habita uma fúria vital. — **Ted** :::
+
 ## Objections and Honest Limits
 
 :::example[From the sertão] "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego. A minha lâmina desce no osso de raiva, cravada na recusa surda de morrer, e não pra armar bebedouro pra moleque." The raw friction of biological existence refuses any architectural dignity or teleological memory. The trace left behind is the amoral gouge of survival, not a legacy for the future. — **Ted**
