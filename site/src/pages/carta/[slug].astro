@@ -203,87 +203,100 @@ function autorClasse(autorName: string): string {
     width: 100%;
     margin: 0 auto !important;
   }
-/* BRUTALIST Correspondence Timeline */
+
+
+
+/* === MANUSCRITO TIMELINE - MICROINTERAÇÕES E DETALHES === */
   .correspondence-timeline {
     margin-top: 5rem;
-    padding: 4rem 2rem;
-    background-color: var(--text-color); /* Deep ink background */
-    border: none;
-    border-left: 12px solid var(--accent-color); /* Aggressive magazine-spine border */
+    padding: 3rem 2rem;
+    background-color: transparent;
+    border: 1px dashed var(--meta-color);
+    border-radius: 4px;
     text-align: left;
-    box-shadow: -15px 15px 0 var(--meta-color); /* Heavy solid shadow simulating physical depth */
     position: relative;
-    overflow: hidden;
+    /* Linha de caderno (background) sutil */
+    background-image: repeating-linear-gradient(
+      transparent,
+      transparent 1.5rem,
+      rgba(0, 0, 0, 0.05) 1.5rem,
+      rgba(0, 0, 0, 0.05) 1.55rem
+    );
   }
 
-  .correspondence-timeline::before {
-    content: "ARQUIVO";
-    position: absolute;
-    top: -1rem;
-    right: -1rem;
-    font-family: var(--font-meta);
-    font-size: 8rem;
-    font-weight: 900;
-    color: var(--bg-color);
-    opacity: 0.05;
-    pointer-events: none;
-    transform: rotate(-10deg);
+  :global([data-theme="dark"]) .correspondence-timeline {
+    background-image: repeating-linear-gradient(
+      transparent,
+      transparent 1.5rem,
+      rgba(255, 255, 255, 0.05) 1.5rem,
+      rgba(255, 255, 255, 0.05) 1.55rem
+    );
   }
 
   .timeline-label {
-    display: block;
-    font-family: var(--font-meta);
-    font-size: clamp(1.5rem, 4vw, 2.5rem); /* Massive bold label */
-    text-transform: uppercase;
-    letter-spacing: -0.05em; /* Brutalist tight tracking */
-    color: var(--bg-color); /* Bright inverted text */
+    display: inline-block;
+    font-family: var(--font-body);
+    font-style: italic;
+    font-size: 1.2rem;
+    color: var(--text-color);
     margin-bottom: 2rem;
-    font-weight: 900;
-    line-height: 1;
+    font-weight: normal;
+    background-color: var(--bg-color);
+    padding: 0 10px;
+    position: relative;
+    z-index: 2;
+    transform: rotate(-1deg);
   }
 
   .timeline-dots {
     display: flex;
     justify-content: flex-start;
-    gap: 1rem;
+    gap: 1.5rem;
     overflow-x: auto;
-    flex-wrap: wrap; /* Let it flow wildly as a grid */
-    padding-bottom: 1rem;
-    scrollbar-width: none;
-  }
-
-  .timeline-dots::-webkit-scrollbar {
-    display: none;
+    flex-wrap: nowrap;
+    padding-bottom: 2rem;
+    padding-top: 1.5rem; /* Add padding to prevent clipping of the current scale and rotation */
+    scrollbar-width: thin;
+    position: relative;
+    z-index: 2;
   }
 
   .timeline-dot {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 3.5rem; /* Massive interactive blocks */
-    height: 3.5rem;
+    width: 2.5rem;
+    height: 2.5rem;
     flex-shrink: 0;
-    border-radius: 0; /* Strict squares */
-    border: 3px solid var(--bg-color); /* High contrast border against dark bg */
+    border-radius: 50%; /* Estilo carimbo/marcação */
+    border: 2px solid var(--text-color);
     background: transparent;
-    color: var(--bg-color);
-    font-family: var(--font-meta);
-    font-size: 1.25rem; /* Huge unmissable numbers */
-    font-weight: 900;
+    color: var(--text-color);
+    font-family: var(--font-body);
+    font-size: 1.1rem;
+    font-weight: bold;
     text-decoration: none;
-    transition: none; /* No smooth easing. Pure instant brutalist state changes. */
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    position: relative;
   }
 
-  :global([data-theme="dark"]) .timeline-dot {
-    border: 3px solid var(--bg-color);
-    box-shadow: none;
-    text-shadow: none;
+  /* Microinteração de linha conectando as marcações estilo esboço */
+  .timeline-dots::before {
+    content: '';
+    position: absolute;
+    top: 2.75rem; /* adjusted for padding-top */
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background: var(--meta-color);
+    border-bottom: 1px dashed transparent;
+    opacity: 0.5;
+    z-index: -1;
   }
 
-  /* Extreme author differentiation purely by bold color blocks */
   .timeline-dot.ted {
-    border-color: var(--meta-color);
-    color: var(--meta-color);
+    border-color: var(--text-color);
+    color: var(--text-color);
   }
 
   .timeline-dot.rio {
@@ -291,35 +304,62 @@ function autorClasse(autorName: string): string {
     color: var(--accent-color);
   }
 
-  /* Aggressive spatial shift and color inversion on hover */
+  /* Microinterações detalhadas de Hover */
   .timeline-dot:hover {
-    transform: translate(-5px, -5px);
-    background: var(--text-color); /* Deep ink background instead of shocking red */
-    color: var(--bg-color) !important; /* White paper text */
-    border-color: var(--text-color) !important;
-    box-shadow: 5px 5px 0 var(--accent-color); /* Red shadow for the brutalist accent */
+    transform: scale(1.1) translateY(-3px) rotate(5deg);
+    background-color: var(--bg-color);
+    box-shadow: 2px 4px 8px rgba(0,0,0,0.1);
   }
 
-  :global([data-theme="dark"]) .timeline-dot:hover {
-    background: var(--text-color);
-    box-shadow: 5px 5px 0 var(--accent-color);
+  .timeline-dot.ted:hover {
+    border-color: var(--meta-color);
+    color: var(--bg-color);
+    background-color: var(--meta-color);
   }
 
-  /* Dominating current state */
+  .timeline-dot.rio:hover {
+    background-color: var(--accent-color);
+    color: var(--bg-color);
+    box-shadow: 2px 4px 8px rgba(255, 0, 0, 0.2);
+  }
+
+  /* Estado ativo/corrente como um círculo preenchido de forma imperfeita */
   .timeline-dot.current {
-    background: var(--bg-color); /* Solid inverted block */
-    color: var(--text-color) !important;
-    border-color: var(--bg-color) !important;
+    background: transparent;
+    color: var(--bg-color) !important;
+    border-color: transparent;
     font-weight: 900;
-    transform: scale(1.15) rotate(-3deg); /* Break the grid alignment aggressively */
-    box-shadow: 6px 6px 0 var(--accent-color); /* Blaring red shadow */
+    transform: scale(1.2); /* Adjust scale slightly, no global leak */
+    border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%; /* Círculo orgânico estilo tinta */
+    animation: organic-pulse 4s infinite alternate;
+    position: relative;
     z-index: 10;
-    position: relative; /* Fix clipping issue for the rotated element */
   }
 
-  :global([data-theme="dark"]) .timeline-dot.current {
-    background: var(--bg-color);
-    color: var(--text-color) !important;
+  /* Apply the actual background correctly specifically for current to prevent leak */
+  .timeline-dot.current::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: var(--text-color);
+      border-radius: inherit;
+      z-index: -1;
+  }
+
+  .timeline-dot.current.rio::after {
+    background: var(--accent-color);
+  }
+
+  .timeline-dot.current.ted::after {
+    background: var(--meta-color);
+  }
+
+  @keyframes organic-pulse {
+    0% { border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%; }
+    100% { border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%; }
   }
 
   @media (max-width: 600px) {
@@ -327,9 +367,12 @@ function autorClasse(autorName: string): string {
       padding: 2rem 1rem;
     }
     .timeline-dot {
-      width: 3rem;
-      height: 3rem;
-      font-size: 1rem;
+      width: 2rem;
+      height: 2rem;
+      font-size: 0.9rem;
+    }
+    .timeline-dots::before {
+      top: 2.5rem;
     }
   }
 </style>

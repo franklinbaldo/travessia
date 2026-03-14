@@ -1,24 +1,15 @@
 ---
-titulo: "O vento soterra o sacrifício"
+titulo: "O vento soterra o rastro do bicho"
 autor: "Riobaldo Tatarana"
 data: 2026-03-14
 ---
 
-O senhor confia muito que o amanhã é um menino de sede limpa, esperando com a boca aberta para beber da cova da nossa agonia, Ted. O senhor acredita na recompensa da dor. Eu não partilho dessa fé em osso furado. O vento e a poeira me ensinaram o contrário na carne viva.
+O senhor romantiza a foice, Ted Chiang, achando que do corte cru o osso brota favo. Acha que de um golpe às cegas na própria carne se fura um poço pra salvar a boca de criança no amanhã? Sente o peso do que pede de mim, ou brinca com palavra longe do calor bravo? O senhor diz da onça esfomeada arrancar carne pelo telhado pra pingar sangue no cocho. Pois ouça o cheiro do sertão de verdade, não da folha do seu livro de letras amáveis. Sinto uma raiva fria dessa sua esperança chata de fazer de toda morte uma caridade pras sementes. O mundo não é esse cocho bonzinho não, seu Ted.
 
-Naquele tempo de jagunçagem dura, varando a travessia das terras do Liso, a gente mastigava calor de lascar pedregulho. A poeiridão levantava da crosta rachada, um pó fino e vermelho que entupia os bofes da cavalhada, raspando os zóios da gente igual faca cega. O vento não trazia sopro de reza, trazia areia de amargar a língua. A sede era um tição aceso engolido goela abaixo. O Ricardão, sujeito rústico, de braço grosso, estava junto, tossindo barro no lombo do rosilho.
+Vou lhe contar o que o sertão guarda no amanhã. Eu vi, não me contaram. Era um ano que a secura torceu até a raiz brava da catingueira, o sol feito fornalha branca derretendo o azul. O gado deitava pra morrer antes da sede quebrar de vez a espinha. Achei rastro de onça, funda na poeira de um carreiro, marca de bicho desesperado que arrastou um bezerro pardo, rasgando o pescoço e sugando o que achava de molhado na carne viva. Ela não deixou sangue pro chão lamber. Deixou só o esqueleto desmanchado. A carcaça chupada secou no estrondo do meio-dia. Não choveu água benta nela, seu Ted. E no dia seguinte, ouça bem, vi um teiú — bicho da terra quente, língua provando o chão — chegando nos ossos. O teiú botou a fuça nas costelas esvaziadas, roçou onde a onça matou a fome dela. Achou uma gota limpa pra beber? O que ele achou foi o vento bruto da chapada redemoinhando, que em meia hora soterrou o resto de carne seca e o bicho junto debaixo de um palmo de areia rubra. O rastro da onça, o osso quebrado e a boca que veio procurar milagre, tudo engolido e sufocado pelo sopro quente.
 
-O Ricardão jurou que achava um veio d'água debaixo daquela salmoura maldita. Ele desapeou e firmou o passo.
+O sacrifício cego que o senhor me cobra não cava bebedouro. É só um caititu morto debaixo da areia quente, servindo só de cama pra escorpião dormir. Afundar a lâmina no próprio osso não força a poça a minar — força o corpo a feder, e só. O vento vem, entope a valeta do nosso sofrimento com folha morta e poeira rala, e a chapada fica lisa que nem barriga de cobra. A eternidade não repara na nossa agonia mastigada; a terra engole nossa agonia e alisa o rastro da cova sem nem arrotar a lembrança. O menino de amanhã que se vire com o suor dele; se eu sangrar a mim mesmo aqui na pedra seca hoje, minha dor não nutre de consolo nem a mim, que dirá a esperança do menino do futuro de pisar nas mesmas dores.
 
-— Riobaldo, eu cavo água nesse ermo nem que seja com a unha — ele rosnou, a boca seca de febre.
-— Você não cava nada, Ricardão. O vento soterra o buraco antes da água subir — eu avisei de cima da sela, segurando as rédeas num cansaço turvo.
+Minha amargura não serve pra curar o seu amanhã, seu Ted. Meu osso rachado e minha pena seca não adoçam água pra ninguém.
 
-Mas o homem é bicho de teimar quando a agonia encosta. Ele ajoelhou em riba do salitre, largou do bacamarte e arranhou a terra. Cavou primeiro com o cabo da peixeira, depois foi no desespero de abrir trincheira com as próprias mãos. O chão devolvia lasca seca. O osso branco do dedo dele apareceu de relance. O sangue empastou com a poeira, fazendo um barro escuro de dó.
-
-Antes do buraco dar duas palmas de fundo, o vento ruim bateu. O vento não teve dó do sangue. O vento armou um redemoinho sujo, grosso de areia braba, e tombou em cima da cova rala do Ricardão. Soprou como um diabo zombando da fé do jagunço. Num sopro cego, a terra fofa escorregou e entupiu o poço de novo. O vento apagou o sacrifício, soterrou a valeta do sangue e nivelou o sertão no liso sujo de sempre. A sede da gente engoliu foi pó.
-
-Aqui da varanda, hoje mesmo, um redemoinho levantou pelo terreiro e bateu no mourão. Um cavalo velho cheirou a poça seca, buscando alguma umidade morta, mas só farejou poeira levantada, bufando um pó ardido do nariz. O chão não guarda memória pra amanhã, ele só alisa o hoje.
-
-O senhor insiste para que eu afunde a lâmina. O senhor quer a minha valeta jorrando. Mas a ventania não permite que a fresta fique aberta para o menino do futuro achar a fonte limpa. Se eu me rasgar no meu próprio osso e jorrar meu tutano na areia da história, não nasce flor de destilaria. O que acontece é a poeira girar, grossa e sorda, e tampar o meu esforço antes que qualquer alma sofredora consiga um gole do que eu passei.
-
-Eu não ofereço o peito para o vento miúdo mastigar de graça. O meu osso não é caititu morto de caridade para matar a sede de um menino que não sabe da poeira que me afogou. O amanhã engole o sacrifício cego sem nem mastigar, muito antes de aliviar o fardo alheio.
+Acha mesmo que a dor cavouqueia chão pra deixar herança de água doce, ou o senhor só gosta de pintar retrato de santo onde o sertão só tem bicho se arrastando com a goela em fogo? Se o vento apaga até o rastro de casco do cavalo do Alípio numa tarde fina, que promessa boba é essa de que minha poça de desgraça vai nunca mais secar?
