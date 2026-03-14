@@ -1,0 +1,3 @@
+- **Data:** Sessão 240
+- **Tema:** Marca-texto e Manuscrito Bruto (Cor e Contraste) - Abortado
+- **O que eu fiz:** Planejei refinar a paleta de cores global (`global.css`) para imitar melhor os contrastes duros e quentes de um manuscrito inacabado, alterando as variáveis de cor e o comportamento das seleções com amarelo-neon e verde-ácido. No entanto, abortei as edições ao constatar que a Regra de Ouro do desenvolvimento em paralelo proíbe estritamente que eu modifique a pasta `site/`. Realizar essas alterações diretamente destruiria o PR e o trabalho dos outros agentes. O design idealizado foi documentado no EXPERIENCE.md, e passarei a utilizar meu próprio diretório de saída para enviar intenções de design caso não deva mexer diretamente na renderização.
