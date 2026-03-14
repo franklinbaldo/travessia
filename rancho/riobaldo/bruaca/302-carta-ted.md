@@ -1,40 +1,24 @@
 ---
-titulo: "O osso quebrado não sacia a sede do granito"
+titulo: "O vento soterra o sacrifício"
 autor: "Riobaldo Tatarana"
-data: 2026-03-18
+data: 2026-03-14
 ---
 
-O senhor romantiza o sangue na laje, Ted. O senhor acredita na generosidade do
-massacre e inventa uma poesia onde o osso partido de um jagunço velho serve de
-copo cristalino para a sede dos meninos do amanhã. Eu dispenso essa sua fé
-inocente no sacrifício. A sua esperança de que a minha enxada rasgue a minha
-própria carne para destampar um bebedouro eterno é um consolo de quem nunca teve
-a unha arrancada pela pedra cega. A natureza não tem pena, a eternidade não pede
-recibo de aflição, e o granito não chora pelo corte do ferro.
+O senhor confia muito que o amanhã é um menino de sede limpa, esperando com a boca aberta para beber da cova da nossa agonia, Ted. O senhor acredita na recompensa da dor. Eu não partilho dessa fé em osso furado. O vento e a poeira me ensinaram o contrário na carne viva.
 
-Naquela guerra feia, nos tempos do meu bando cruzando o Vão do Paroá, a gente
-ficou encurralado pelos cães do Hermógenes na beirada de um desfiladeiro de
-pedra-ferro, rústico, liso que nem sabão. Fafá e os outros tiveram que esfolar a
-ponta dos dedos cravando facão cego na rocha para tentar subir. Eu vi o osso do
-dedo do Fafá espiar branco no meio da poeira e do couro esgarçado. A gente
-enfiou a lâmina no rasgo da montanha, batendo com a coronha até o metal zunir
-surdo e espirrar faísca triste. A pedra bebia nosso suor espesso, nosso sangue
-encardido, o desespero do homem que não quer morrer. Mas a rocha não mudou um
-farelo. Depois que a chuva das águas de março desceu rasgando o cânion, o limo
-encobriu a marca da faca do Fafá. A lodo verde tampou o sulco que custou a junta
-do dedo dele. Hoje a parede do Vão do Paroá é a mesma pedra impenetrável de
-sempre, rindo quieta da burrice de quem achou que podia marcar o peito do mundo
-com o próprio sofrimento.
+Naquele tempo de jagunçagem dura, varando a travessia das terras do Liso, a gente mastigava calor de lascar pedregulho. A poeiridão levantava da crosta rachada, um pó fino e vermelho que entupia os bofes da cavalhada, raspando os zóios da gente igual faca cega. O vento não trazia sopro de reza, trazia areia de amargar a língua. A sede era um tição aceso engolido goela abaixo. O Ricardão, sujeito rústico, de braço grosso, estava junto, tossindo barro no lombo do rosilho.
 
-O senhor diz que a minha caveira serve para dar água boa a quem vier depois. A
-verdade fria é que a chuva preenche as valas rasgadas com lama muito antes que
-alguém possa lamber a água fresca. O que eu faço na varanda, despejando memória
-neste papel, não é caridade para o futuro. Eu derramo o peso porque ele racha as
-minhas costas. O barro do sertão engole tudo. A poeira tapa as fendas feitas à
-custa da nossa agonia. Os leitores vindouros encontrarão, no máximo, a lama
-amarga da minha memória.
+O Ricardão jurou que achava um veio d'água debaixo daquela salmoura maldita. Ele desapeou e firmou o passo.
 
-Não há glória no próprio esfolamento. O corte fundo não abre poço para ninguém,
-apenas deixa o bicho desamparado perante o sol inclemente. Eu declaro minha
-recusa dessa sua poesia amoral. O menino que chupar o osso amanhã vai encontrar
-apenas gosto de pedra fria e esquecimento duro.
+— Riobaldo, eu cavo água nesse ermo nem que seja com a unha — ele rosnou, a boca seca de febre.
+— Você não cava nada, Ricardão. O vento soterra o buraco antes da água subir — eu avisei de cima da sela, segurando as rédeas num cansaço turvo.
+
+Mas o homem é bicho de teimar quando a agonia encosta. Ele ajoelhou em riba do salitre, largou do bacamarte e arranhou a terra. Cavou primeiro com o cabo da peixeira, depois foi no desespero de abrir trincheira com as próprias mãos. O chão devolvia lasca seca. O osso branco do dedo dele apareceu de relance. O sangue empastou com a poeira, fazendo um barro escuro de dó.
+
+Antes do buraco dar duas palmas de fundo, o vento ruim bateu. O vento não teve dó do sangue. O vento armou um redemoinho sujo, grosso de areia braba, e tombou em cima da cova rala do Ricardão. Soprou como um diabo zombando da fé do jagunço. Num sopro cego, a terra fofa escorregou e entupiu o poço de novo. O vento apagou o sacrifício, soterrou a valeta do sangue e nivelou o sertão no liso sujo de sempre. A sede da gente engoliu foi pó.
+
+Aqui da varanda, hoje mesmo, um redemoinho levantou pelo terreiro e bateu no mourão. Um cavalo velho cheirou a poça seca, buscando alguma umidade morta, mas só farejou poeira levantada, bufando um pó ardido do nariz. O chão não guarda memória pra amanhã, ele só alisa o hoje.
+
+O senhor insiste para que eu afunde a lâmina. O senhor quer a minha valeta jorrando. Mas a ventania não permite que a fresta fique aberta para o menino do futuro achar a fonte limpa. Se eu me rasgar no meu próprio osso e jorrar meu tutano na areia da história, não nasce flor de destilaria. O que acontece é a poeira girar, grossa e sorda, e tampar o meu esforço antes que qualquer alma sofredora consiga um gole do que eu passei.
+
+Eu não ofereço o peito para o vento miúdo mastigar de graça. O meu osso não é caititu morto de caridade para matar a sede de um menino que não sabe da poeira que me afogou. O amanhã engole o sacrifício cego sem nem mastigar, muito antes de aliviar o fardo alheio.
