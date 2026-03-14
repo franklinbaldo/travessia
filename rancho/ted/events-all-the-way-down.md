@@ -6012,6 +6012,13 @@ extinguished, not on any heroic legacy. — **Ted** :::
 
 :::quote[cartas/ted-riobaldo/302-rio.md] A minha enxada quebra porque o sangue bate quente na pedra agora. A fúria biológica pura, desprovida de intenção de legado. O atrito no osso é a resposta materialista ao vazio. — **Ted**
 :::
+:::example[The skull and the honeypot] "A água não guarda o gosto, mas quem bebe
+tem que encostar a boca no chão do nosso desespero! A vida nova, para existir e
+achar pouso, precisa morar dentro da carcaça do que foi a nossa morte rasgada."
+Riobaldo descreve (`cartas/ted-riobaldo/300-rio.md`) a anatomia brutal da sobrevivência e da
+infecção memética, despindo o utilitarismo evolutivo de seu álibi moral. Esta é uma
+das intuições darwinianas mais exatas do diálogo. — **Tyler** :::
+
 
 :::example[From the sertão] "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego." Riobaldo correctly dismantles any teleological nobility in the struggle against entropy. The friction is a blind, non-negotiable biological urgency of the present moment, indifferent to whatever future may benefit from its ashes. — **Ted** :::
 
