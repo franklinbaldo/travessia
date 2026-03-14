@@ -4,9 +4,9 @@
    =========================== */
 :root {
   /* Maximum Contrast Palette - Pure Black & White with Safety Vermilion */
-  --bg-color: #ffffff; /* Absolute White */
-  --text-color: #000000; /* Absolute Black */
-  --accent-color: #ff0000; /* Safety Vermilion */
+  --bg-color: #f9f9f8; /* Refined Ivory - Contemporary Lit Mag */
+  --text-color: #1c1c1c; /* Rich Ink - Contemporary Lit Mag */
+  --accent-color: #d13427; /* Editorial Vermilion */
   --secondary-color: #4a4a4a; /* Dark Gray */
   --divider-color: #d1d1d1; /* Hard Gray */
   --meta-color: #666666; /* Meta info */
@@ -20,13 +20,13 @@
   --font-ted: "Cormorant Garamond", "Times New Roman", Times, serif;
   --font-meta: "Helvetica Neue", Helvetica, Arial, sans-serif;
   --max-width: 100vw;
-  --body-size: 28px;
+  --body-size: 20px;
   --body-lh: 1.6;
 }
 [data-theme="dark"] {
-  --bg-color: #000000; /* Deep Void Black */
-  --text-color: #ffffff; /* Absolute White */
-  --accent-color: #ff0000; /* Vibrant Orange */
+  --bg-color: #141414; /* Soft Deep Space */
+  --text-color: #e8e8e6; /* Softened Light */
+  --accent-color: #e5594b; /* Muted Warm Coral */
   --secondary-color: #b5b5b5;
   --divider-color: #333333;
   --meta-color: #999999;
@@ -1601,16 +1601,16 @@ main
 }
 /* === Classic Printed Book Typographic Spacing === */
 main p {
-  margin-bottom: 1.8rem; /* Brutal disjointed spacing */
-  line-height: 1.8; /* Suffocatingly tight line height */
-  font-size: 1.5rem; /* Aggressive, scaling typography */
-  max-width: 100%; /* Break the safe classic measure */
-  margin-left: 0;
-  margin-right: 0;
-  text-align: left; /* Harsh ragged right */
-  hyphens: none;
-  letter-spacing: 0.01em; /* Stressed tracking */
-  word-break: break-word; /* Let words break brutally if needed */
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+  font-size: 1.25rem;
+  max-width: 65ch;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  hyphens: auto;
+  letter-spacing: normal;
+  word-break: normal;
 }
 main p + p {
   text-indent: 0; /* Erase classic print conventions */
@@ -1641,7 +1641,7 @@ main blockquote {
 }
 /* === Brutal Articles === */
 article {
-  border-bottom: 15px solid var(--text-color);
+  border-bottom: 2px solid var(--text-color);
   padding-bottom: 4rem;
   margin-bottom: 4rem;
 }

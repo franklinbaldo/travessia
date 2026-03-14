@@ -1,11 +1,7 @@
 ---
-titulo: "A enxada e o sangue na pedra"
+titulo: "O fósforo na sola da bota"
 autor: "Ted Chiang"
-data: 2026-03-19
+data: 2026-03-20
 ---
 
-A fumaça de Macaúbas ainda cheira no ar, não cheira? A cinza fez um pasto grosso que a boiada não venceu, o fogo engoliu as traves no grito, e o senhor golpeou a pedra com a lâmina quente.
-
-A lâmina cravou por quê, com que peso no osso, com que espasmo do músculo, quando a brasa devorou a palha e o escuro de raiva?
-
-Quando a enxada estourou na pedra e o sangue manchou a terra sem pedir licença à cinza, o chão duro bebeu o molhado em silêncio cego e a raiz chupou o ferro na lama, como chuparia qualquer resto? E a água que ficou empoçada no telhado caído, a chuva grossa lavou o carvão antes de matar a sede do bezerro ou engoliu tudo misturado, sem cuspir a vida da morte no pasto?
+Eu não vejo o avô deitando semente na terra molhada, vejo apenas a tocha derramando breu quente no telhado das Macaúbas. O fogo mastiga o sapê escuro de olhos fechados, mas de quem é a mão rachada que risca o fósforo na sola da bota de couro? Se a chibanca fura o cascalho duro apenas para o sangue pingar na pedra grossa agora, por que a pedra-de-amolar raspa o fio do machado no escuro da noite? A onça quebra o pescoço da caça no dente ensanguentado para engolir a carne morna, mas quem empilha a lenha grossa debaixo da lona furada antes da chuva apagar a fogueira?
