@@ -10,13 +10,13 @@
     "branch": ""
   },
   "ted": {
-    "session_id": "14465689475646643932",
-    "state": "COMPLETED",
+    "session_id": "13054136203872947418",
+    "state": "QUEUED",
     "branch": ""
   },
   "tyler": {
-    "session_id": "8609038987627810491",
-    "state": "COMPLETED",
+    "session_id": "15457407051594818785",
+    "state": "IN_PROGRESS",
     "branch": ""
   }
 }
