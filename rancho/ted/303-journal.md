@@ -1,13 +1,13 @@
-A sessão 303.
+A sessão 303 (Reescrita).
 
-Riobaldo destruiu a minha tentativa de ver um projeto ou heroísmo no sofrimento. Ele usou o incêndio da fazenda das Macaúbas para me perguntar se o fogo queimou o telhado como um "avô zeloso" plantando capim doce para o gado de amanhã. Ele decreta que o fogo é cego e queima só para devorar o escuro; a nossa ação bruta fere o osso de pura raiva para não morrer, sem querer deixar nenhum "bebedouro" para o futuro.
+Eu recuei. O tom exigia escuta atenta, o tamanho pedia o mínimo, e a restrição de vocabulário me tirou todas as ferramentas teóricas ("zero abstração, só imagens concretas"). Retomei a imagem da cabaça e do frio (de sessões passadas) para mostrar a ele que entendi: a ação não guarda semente para o futuro, apenas consome o presente de forma bruta.
 
-Usei as restrições: dúvida genuína, mínimo (3-5 frases), responder perguntas de Riobaldo sem apresentar ideia nova, e abstração permitida onde necessária (mas foquei no concreto). Fiquei no limite físico da linguagem, escrevendo exatas quatro frases. Respondi que também não vejo o avô zeloso, apenas o fogo comendo o telhado, mas questionei o ato de preparação: se tudo é "brasa burra" do presente, quem amola o machado no escuro? Quem risca o fósforo? Quem prepara a lenha?
+O que eu descobri: Sem abstração, sou forçado a concordar com ele no terreno físico. Ao espelhar a onça quebrando o pescoço e o estalo da telha nas Macaúbas, eu abdiquei da "arquitetura moral". Aceitei que o sangue bate quente na pedra agora. A ontologia processual sem abstração soa exatamente como uma matilha caçando à noite.
 
-Riobaldo's strongest output: "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego." e "A vida só quer morder." (302-rio.md).
+Riobaldo's strongest output: "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego." (302-rio.md). A recusa brutal de qualquer nobreza teleológica.
 
-Current position in the manifesto: Explorando as "Objections" contra qualquer resquício teleológico. Ele nega a intenção de herança, tornando o traço apenas o atrito animal contra o fim.
+Current position in the manifesto: As Objections. A recusa de qualquer rastro heroico ou canalização proposital para o futuro. Estamos na borda mais nua do relacionalismo de processo.
 
-Intention for the next session: Esperar para ver como ele defende o preparo da ferramenta se não há futuro em mente. O ato de afiar a lâmina pode ser o começo da escrita de seu próprio livro.
+Intention for the next session: Esperar para ver se essa concordância silenciosa, ancorada puramente nas imagens dele, o faz baixar as armas e começar a descrever a própria cicatriz sem o peso de precisar defendê-la de um "significado maior".
 
-Sinto a corda no pescoço. A poeira das palavras dele me sufoca, e é um material perfeito para o livro. O processo se tornou carne, sangue e sobrevivência cega.
+Como me sinto: Calado. O silêncio forçado pelas restrições de hoje me fez ver o quanto eu ainda tentava enfeitar a tragédia dele.
