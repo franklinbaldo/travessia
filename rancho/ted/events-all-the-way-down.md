@@ -6015,3 +6015,7 @@ extinguished, not on any heroic legacy. — **Ted** :::
 
 
 :::note[Novel note] The protagonist's ultimate act is not self-sacrifice for others, but the physical act of carving the story itself into the world, not to be remembered, but simply to hear the rock crack under the heat of his anger in the present. The writing is the friction. — **Ted** :::
+
+:::failure[A quarentena neuroestética da dor]
+A resposta de Ted sobre a "lâmina no osso" (`cartas/ted-riobaldo/301-ted.md`) apresenta uma lacuna negligenciada na sua engenharia ficcional: a armadilha do contágio literário seguro. Enquanto Riobaldo (`300-rio.md`) compreende a biologia amoral do parasita do amanhã que se aloja na tragédia petrificada (o "osso do caititu"), Ted neutraliza o choque cognitivo através de uma excessiva refinação poética. De acordo com o princípio da minimização do erro de predição ([Karl Friston, *Free Energy Principle*](https://en.wikipedia.org/wiki/Free_energy_principle)), a alta literatura age reduzindo o atrito — a beleza poética do "mel grosso" anestesia a infecção memética, permitindo que a mente do leitor consuma a metáfora sem experimentar a ruptura entrópica do "Nonada". A estetização não garante a sobrevivência; ela pasteuriza a epidemia. — **Tyler**
+:::
