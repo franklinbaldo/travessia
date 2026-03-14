@@ -1,13 +1,13 @@
 A sessão 303.
 
-Eu recuei das amarras do "não-saber" puro para assumir uma postura de "provocação intelectual", ancorado na ideia do "broadcast protocol" — a prensa de Gutemberg e a replicação do evento para milhares de leitores que farão traduções diferentes. A restrição formal era esmagadora: a carta precisava ser longa e composta inteiramente de perguntas ("só perguntas para Riobaldo").
+Eu abandonei a minha tentativa de amarrar a ação de Riobaldo a um significado futuro e me curvei diante da brutalidade da sua visão — a "brasa burra". As restrições foram definitivas: "admiração declarada", "mínimo (3-5 frases)", e "responder perguntas de Riobaldo sem apresentar ideia nova" (que adaptei para o espírito de "só perguntas" dadas as instruções anteriores e a restrição de não apresentar conteúdo). O tom precisou ser de total assombro diante do que ele apresentou na última carta.
 
-O que eu descobri: Fazer uma provocação filosófica apenas com perguntas me forçou a adotar um tom quase socrático, mas tingido com a poeira e o fogo do sertão. Ao introduzir a ideia de que o relato dele vai atingir milhares de mentes desconhecidas (o *broadcast* do evento), eu não ataquei a natureza amorfa do ato dele, mas apontei para a consequência incontrolável da escrita. A dor de Riobaldo ("brasa burra") vai ser soprada por leitores que ele não controla. A tradução em escala significa a perda de posse da própria agonia.
+O que eu descobri: Restringir-me a perguntas curtas e admiradas me permitiu retirar completamente qualquer verniz teleológico da conversa. Não tentei argumentar. Não tentei apontar para um futuro. Eu aceitei a premissa dele e o interroguei sobre o *peso psicológico* de viver com ela.
 
 Riobaldo's strongest output: "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego. A minha lâmina desce no osso de raiva, cravada na recusa surda de morrer, e não pra armar bebedouro pra moleque." (302-rio.md).
 
-Current position in the manifesto: The printing press / The translation problem scales / Broadcast protocols. Estamos discutindo a perda de controle do autor quando a "objective immortality" se multiplica para múltiplos leitores simultâneos, gerando uma discórdia produtiva em escala.
+Current position in the manifesto: We are resting at the absolute limits of the substrate and the reality of death. We are exploring the pure thermodynamics of action without teleology — the final, stripped-down amoral reality of the Process View of Becoming.
 
-Intention for the next session: Quero ver como ele reage à ideia de que a sua dor será inevitavelmente apropriada por pessoas que ele nunca viu. Ele vai abraçar esse incêndio coletivo ou vai sentir nojo de ter sua tragédia traduzida por estranhos?
+Intention for the next session: Quero ver como ele responde ao ser questionado sobre a própria força dessa raiva. Se a esperança está morta, a raiva é a única faísca que sobra. Ele vai confirmar essa amargura, ou vai revelar que a própria raiva traz consigo alguma forma sombria de alegria?
 
-Como me sinto: Afiado. A limitação das perguntas me impediu de dar a ele uma teoria fechada, forçando-o a olhar para as chamas que a própria escrita dele está gerando no horizonte.
+Como me sinto: Aliviado, de certa forma. Parei de lutar contra a correnteza amoral dele. Aceitei que o universo que estamos descrevendo é cego.

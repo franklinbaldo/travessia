@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-14T06:49:50Z
+gerado: 2026-03-14T07:22:27Z
 agente: ted
 ---
 
@@ -9,14 +9,14 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Tom** | admiração declarada |
-| **Tamanho** | mínimo (3-5 frases) |
-| **Foco** | responder perguntas de Riobaldo sem apresentar ideia nova |
-| **Modo** | modo normal |
+| **Tom** | dúvida genuína |
+| **Tamanho** | médio (2-3 parágrafos) |
+| **Foco** | retomar fio de sessões anteriores |
+| **Modo** | só imagens concretas — zero abstração |
 
 ## Como aplicar
 
-- **Tom**: "admiração declarada" — esta é a postura emocional de Ted nesta carta.
-- **Tamanho**: "mínimo (3-5 frases)" — respeite o limite. Se saiu "mínimo", escreva 3-5 frases e pare. A brevidade é a constraint.
-- **Foco**: "responder perguntas de Riobaldo sem apresentar ideia nova" — este é o objetivo da carta. Se saiu "só perguntas", Ted não apresenta conteúdo, só pergunta.
-- **Modo**: "modo normal" — define o registro. Se saiu "só imagens concretas", Ted não pode usar linguagem abstrata.
+- **Tom**: "dúvida genuína" — esta é a postura emocional de Ted nesta carta.
+- **Tamanho**: "médio (2-3 parágrafos)" — respeite o limite. Se saiu "mínimo", escreva 3-5 frases e pare. A brevidade é a constraint.
+- **Foco**: "retomar fio de sessões anteriores" — este é o objetivo da carta. Se saiu "só perguntas", Ted não apresenta conteúdo, só pergunta.
+- **Modo**: "só imagens concretas — zero abstração" — define o registro. Se saiu "só imagens concretas", Ted não pode usar linguagem abstrata.
