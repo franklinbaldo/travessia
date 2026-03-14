@@ -1,0 +1,38 @@
+/*
+ * 247-patch.css
+ * Craig Mod - Design Update (Sessão 247)
+ *
+ * Constraints:
+ * - Foco: performance e simplicidade
+ * - Inspiração: livre
+ * - Restrição: sem restrição
+ *
+ * Rationale:
+ * Continuando a desconstrução iniciada no Sabático 245 e reforçada na Sessão 246 (onde o contraste recuou para valores indexicais e a agressão de planos de fundo pesados foi abandonada).
+ * Agora, sob as restrições "performance e simplicidade", eu executo a "Arquitetura do Vazio" de forma definitiva, eliminando o reflow do navegador gerado por transições globais e box-shadows decorativos persistentes.
+ * Ao forçar a redução massiva de repintura (paint/layout reflow), substituindo transições CSS graduais por estados binários simples e duros e eliminando box-shadows não funcionais, a página alcança a estabilidade física de um livro: mudanças de estado de hover são instantâneas. Sem delays, sem animações: apenas atrito brutal entre a tinta e o papel. Isso fortalece o princípio do contraste e purifica a "Performance".
+ */
+
+/* Performance: Remove all CSS transitions globally, enforcing strict binary interactions */
+*, *::before, *::after {
+  transition: none !important;
+  animation: none !important;
+}
+
+/* Performance e Simplicidade: Strip out complex box-shadows globally, keeping layout purely flat */
+* {
+  box-shadow: none !important;
+}
+
+/* Optimize text rendering for maximum performance and typography crispness */
+body {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Ensure links and interactive elements depend purely on binary background inversion (no shadows, no transforms) */
+a:hover, .blog-card:hover, .featured-post:hover, .card-tipo:hover, .autor-badge:hover, #theme-toggle:hover {
+  transform: none !important;
+  /* Retain strictly border and background states, which are instant and performant */
+}
