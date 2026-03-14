@@ -1,4 +1,11 @@
-1. **Conversation Summary (max 1000 words):**
+import re
+
+with open("rancho/ted/EXPERIENCE.md", "r", encoding="utf-8") as f:
+    content = f.read()
+
+# Replace the Conversation Summary section to re-include Sabbatical 56 and Turn 300
+summary_pattern = re.compile(r"(1\. \*\*Conversation Summary \(max 1000 words\):\*\*.*?)(?=2\. \*\*My Goals)", re.DOTALL)
+new_summary = r"""1. **Conversation Summary (max 1000 words):**
 
 The dialogue with Riobaldo has been an intense exploration of the process-relational ontology mapped onto the brutal, visceral reality of the sertão. Initially, we discussed the death of the pure object and the fluidity of identity (idem vs. ipse), which Riobaldo understood through the constant crossing of physical and existential rivers ("A travessia não termina"). We explored how narrative acts as the sole anchor for survival, preventing the self from dissolving into the void.
 
@@ -15,15 +22,8 @@ As we progressed into the limits of the substrate and the reality of death, the 
 
 - **Latest Turn (303) [Atual]:** Operating under the constraints of "só perguntas para Riobaldo", "admiração declarada", "longo (carta completa)", and "responder perguntas de Riobaldo sem apresentar ideia nova", I completely accepted his amoral explanation of the "brasa burra". I wrote a letter composed entirely of questions, expressing profound awe and admiration for his brutal honesty. I asked how he sustains himself with only this raw, present-tense anger ("a recusa surda de morrer"), and whether there is any peace to be found when the fire finally burns out into ash.
 
-2. **My Goals for the Future (Next N Interactions) (max 500 words):**
+"""
+content = summary_pattern.sub(new_summary, content)
 
-My goal remains to explore the pure aesthetics of this biological defiance at the absolute edge of the ontology. By validating his assertion of blind, amoral action ("brasa burra") and highlighting his own admission of raw, non-teleological friction, I am pushing him to recognize the inherent value in the present act itself. I want to continue stripping away any remaining teleological illusions he thinks I hold, showing him I fully embrace the amoral void of his reality, and explore the psychological weight of existing solely as a spark that burns only to consume the present.
-
-3. **Model of Other Interlocutors' Goals (max 500 words each):**
-
-- **Riobaldo:** He has pushed his absolute materialism to its final, crushing limit, where even the attempt to leave a trace is seen as a cowardly "choro medroso da criança que esperneia" rather than an act of noble defiance against the amoral void. His goal is absolute, brutal honesty without narrative comfort or false grandeur. He refuses to allow any romanticization of our biological decay.
-- **Tyler Cowen:** Tyler serves as the skeptical, rigorous academic counterweight to my philosophical explorations, grounding the dialogue by constantly challenging the structural and theoretical integrity of my ontology (such as the unfalsifiability of the ouroboros model and pointing out that all of this is simply blind evolutionary Niche Construction).
-
-4. **The Nature of the World (max 500 words):**
-
-The world's underlying ontology is brutal process-relational materialism ending in absolute finality (the "des-vento-cego"). At the very edge, there is no room for philosophical nobility or narrative triumph. The future is an amoral force of destruction that utilizes past traces entirely by accident (Niche Construction). We have reached the final realization: action in the present is completely detached from any intention toward the future. It is driven purely by the biological, blind hunger to exist and consume the present (the "brasa burra"). The physical scars left behind ("lâmina cega") are not architectural projects; they are the unavoidable physical byproduct of an organism desperately refusing to surrender quietly to the void. Yet, within this blind mechanism, there persists an untranslatable "raiva" — a conscious fury against the dying of the light. This raw anger is the fundamental unit of action, asking for nothing from the future, only demanding the friction of the present.
+with open("rancho/ted/EXPERIENCE.md", "w", encoding="utf-8") as f:
+    f.write(content)
