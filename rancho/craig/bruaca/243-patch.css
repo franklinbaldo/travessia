@@ -1,0 +1,96 @@
+/*
+ * 243-patch.css
+ * Craig Mod - Design Update (Sessão 243)
+ *
+ * Constraints:
+ * - Foco: cor e contraste
+ * - Inspiração: livre
+ * - Restrição: pelo menos uma mudança visível e ousada
+ *
+ * Rationale:
+ * A tensão do vazio e a resposta imediata de interfaces binárias (Sessão 242) foram um avanço em retirar o ruído fofo da UI. Mas o uso atual de cores é muito equilibrado, muito contido e literário, com tons quentes de marfim, carvão e tintas esferográficas (Azul e Vermelho educados).
+ *
+ * Para aplicar a constraint "cor e contraste" com "uma mudança visível e ousada", eu preciso desestabilizar essa paleta de cores equilibradas e seguras. Vou substituir as cores das tags de personagens (Ted/Rio) e de meta-dados que estão seguras por cores extremamente contrastantes, quase tóxicas, como fita isolante elétrica no papel. O contraste não será apenas claro-escuro, mas choque cromático na tipografia secundária, criando focos agressivos de atenção (amarelo sinalização, ciano elétrico). Isso obedece ao mandato do meu Sabbatical 238 de usar a cor/contraste para gerar peso e tensão, sem mexer no layout ou usar animações.
+ */
+
+/* Redefining Root colors for extreme chromatic tension, keeping the blank canvas, but poisoning the ink */
+:root {
+  /* Keep the stark warm paper and charcoal */
+  --bg-color: #fcfbf9;
+  --text-color: #1a1a1a;
+
+  /* Bold change: Replace polite red and blue with aggressive, toxic contrast colors */
+  --accent-color: #ff00ff; /* Pure toxic Magenta for extreme contrast */
+  --secondary-color: #00ffff; /* Electric Cyan */
+
+  /* Make meta data less subtle, more industrial */
+  --meta-color: #8c00ff; /* Electric Violet instead of grey pencil */
+}
+
+[data-theme="dark"] {
+  /* Keep the pitch dark canvas */
+  --bg-color: #111111;
+  --text-color: #f0eee6;
+
+  /* Aggressive luminous colors for dark mode */
+  --accent-color: #ff0055; /* Acid Pink/Red */
+  --secondary-color: #00ff00; /* Pure Terminal Green */
+  --meta-color: #ffff00; /* Safety Yellow */
+}
+
+/*
+ * Apply brutal chromatic background to headers when selected to reinforce the toxic ink
+ */
+::selection {
+  background-color: var(--secondary-color);
+  color: #000;
+}
+[data-theme="dark"] ::selection {
+  background-color: var(--secondary-color);
+  color: #000;
+}
+
+/*
+ * A bold, visible change:
+ * Force all semantic blockquotes and the "Featured Post" background to use these extreme colors,
+ * completely breaking the polite "warm paper" illusion with a block of raw digital tension.
+ */
+main blockquote {
+    background-color: var(--accent-color);
+    color: var(--bg-color);
+    border-left: 10px solid var(--text-color);
+    font-weight: 700;
+    box-shadow: 10px 10px 0 var(--text-color);
+}
+[data-theme="dark"] main blockquote {
+    color: #111111;
+}
+
+/* Update the correspondence dot timeline colors to reflect the new toxic palette */
+.timeline-dot.ted {
+  border-color: var(--secondary-color);
+  color: var(--secondary-color);
+}
+.timeline-dot.rio {
+  border-color: var(--accent-color);
+  color: var(--accent-color);
+}
+
+.timeline-dot.ted:hover,
+.timeline-dot.ted.current {
+  background-color: var(--secondary-color);
+  color: #000 !important;
+  border-color: var(--text-color);
+}
+.timeline-dot.rio:hover,
+.timeline-dot.rio.current {
+  background-color: var(--accent-color);
+  color: #000 !important;
+  border-color: var(--text-color);
+}
+[data-theme="dark"] .timeline-dot.ted:hover,
+[data-theme="dark"] .timeline-dot.ted.current,
+[data-theme="dark"] .timeline-dot.rio:hover,
+[data-theme="dark"] .timeline-dot.rio.current {
+    color: #000 !important;
+}
