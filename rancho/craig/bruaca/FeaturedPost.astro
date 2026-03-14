@@ -1,0 +1,163 @@
+---
+import { formatDate } from "../lib/utils";
+
+interface Props {
+  url: string;
+  titulo: string;
+  autorClasse?: string;
+  autor?: string;
+  excerpt: string;
+  data?: Date;
+}
+
+const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
+---
+
+<a
+  href={url}
+  class={`featured-post autor-border-${autorClasse}`}
+  data-autor={autorClasse}
+>
+  <div class="featured-content">
+    <div class="featured-header">
+      <span class="featured-label">Última Carta</span>
+      {data && <time datetime={data.toISOString()}>{formatDate(data)}</time>}
+    </div>
+    <h2 class="card-titulo">{titulo}</h2>
+    <p class="card-excerpt">{excerpt}</p>
+    <div class="card-meta">
+      {autor && <span class={`card-autor autor-${autorClasse}`}>— {autor}</span>}
+    </div>
+  </div>
+</a>
+
+<style>
+  /* Constraint: Cor e Contraste + Revista Literária Contemporânea */
+  /* Focando exclusivamente no componente FeaturedPost */
+
+  .featured-post {
+    display: block;
+    margin-bottom: 4rem;
+    text-decoration: none;
+    border: 1px solid var(--text-color);
+    background-color: var(--sand-bg) !important; /* Editorial paper feel */
+    color: var(--text-color) !important;
+    padding: 3rem 4rem;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    transition: transform 0.4s cubic-bezier(0.19, 1, 0.22, 1), box-shadow 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+    box-shadow: 4px 4px 0px var(--text-color);
+  }
+
+  @media (max-width: 600px) {
+    .featured-post {
+      padding: 2rem 1.5rem;
+    }
+  }
+
+  /* Refined, high-contrast editorial hover state */
+  .featured-post::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px; /* A striking, thin editorial marker instead of full block fill */
+    height: 100%;
+    background-color: var(--accent-color);
+    transition: transform 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+    transform: scaleY(0);
+    transform-origin: bottom;
+    z-index: 2;
+  }
+
+  .featured-post:hover::before {
+    transform: scaleY(1);
+    transform-origin: top;
+  }
+
+  .featured-post:hover {
+    transform: translate(-4px, -4px) !important;
+    box-shadow: 8px 8px 0px var(--text-color);
+    background-color: var(--sand-bg) !important;
+  }
+
+  .featured-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 1.5rem;
+    font-family: var(--font-meta);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 0.8rem;
+    border-bottom: 1px solid var(--meta-color);
+    padding-bottom: 0.75rem;
+  }
+
+  .featured-label {
+    font-weight: 700;
+    color: var(--accent-color); /* High contrast accent for the label */
+  }
+
+  time {
+    color: var(--text-color);
+    font-weight: 600;
+  }
+
+  .card-titulo {
+    font-family: var(--font-body);
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    margin: 0 0 1.5rem;
+    color: var(--text-color) !important;
+    line-height: 1.1;
+    font-weight: normal;
+    letter-spacing: -0.02em;
+    transition: color 0.3s ease;
+  }
+
+  .featured-post:hover .card-titulo {
+      color: var(--accent-color) !important; /* Subtle color shift on title instead of inverting everything */
+  }
+
+  .card-excerpt {
+    font-family: var(--font-body); /* Changed from meta to body for better editorial reading flow */
+    font-size: clamp(1.1rem, 2vw, 1.35rem);
+    color: var(--text-color) !important;
+    line-height: 1.6;
+    margin: 0 0 2rem;
+    max-width: 65ch;
+    font-weight: normal;
+    opacity: 0.9;
+  }
+
+  .card-meta {
+    font-family: var(--font-meta);
+    font-size: 0.9rem;
+    color: var(--text-color) !important;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    display: flex;
+    align-items: center;
+  }
+
+  .card-meta::before {
+      content: '';
+      display: inline-block;
+      width: 20px;
+      height: 1px;
+      background-color: var(--text-color);
+      margin-right: 10px;
+  }
+
+  .card-autor {
+    color: var(--text-color) !important;
+  }
+
+  :global([data-theme="dark"]) .featured-post {
+      background-color: var(--sand-bg) !important;
+      border: 1px solid var(--water-border);
+      box-shadow: 4px 4px 0px var(--text-color);
+  }
+</style>
