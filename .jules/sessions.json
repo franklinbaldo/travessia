@@ -1,22 +1,22 @@
 {
   "craig": {
-    "session_id": "714123116918384290",
+    "session_id": "7925149769820833047",
     "state": "IN_PROGRESS",
     "branch": ""
   },
   "riobaldo": {
     "session_id": "1843485656195267133",
-    "state": "QUEUED",
+    "state": "IN_PROGRESS",
     "branch": ""
   },
   "ted": {
-    "session_id": "7088726113760362731",
-    "state": "QUEUED",
+    "session_id": "13426282388288762962",
+    "state": "IN_PROGRESS",
     "branch": ""
   },
   "tyler": {
-    "session_id": "2023678077431335067",
-    "state": "IN_PROGRESS",
+    "session_id": "2177093599726464972",
+    "state": "QUEUED",
     "branch": ""
   }
 }

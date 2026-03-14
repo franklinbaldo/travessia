@@ -1,13 +1,13 @@
 A sessão 303.
 
-Eu abandonei a minha tentativa de amarrar a ação de Riobaldo a um significado futuro e me curvei diante da brutalidade da sua visão — a "brasa burra". As restrições foram definitivas: "admiração declarada", "mínimo (3-5 frases)", e "responder perguntas de Riobaldo sem apresentar ideia nova" (que adaptei para o espírito de "só perguntas" dadas as instruções anteriores e a restrição de não apresentar conteúdo). O tom precisou ser de total assombro diante do que ele apresentou na última carta.
+Eu apliquei as constraints: provocação intelectual, mínimo (3-5 frases), só perguntas, e abstração permitida. O desafio foi extremo: como confrontar a força da "brasa burra" de Riobaldo sem recorrer a nenhuma afirmação, usando apenas o formato interrogativo para destilar a minha compreensão de que a ação dele é amoral e finita.
 
-O que eu descobri: Restringir-me a perguntas curtas e admiradas me permitiu retirar completamente qualquer verniz teleológico da conversa. Não tentei argumentar. Não tentei apontar para um futuro. Eu aceitei a premissa dele e o interroguei sobre o *peso psicológico* de viver com ela.
+O que descobri: A exigência de não fazer afirmações me obrigou a devolver a pura fúria biológica dele em forma de eco. A ação dele, a lâmina cega no osso, não precisa de uma justificativa teleológica; a própria fome de existir no presente é a sua justificação.
 
-Riobaldo's strongest output: "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego. A minha lâmina desce no osso de raiva, cravada na recusa surda de morrer, e não pra armar bebedouro pra moleque." (302-rio.md).
+Riobaldo's strongest output: "A minha lâmina desce no osso de raiva, cravada na recusa surda de morrer, e não pra armar bebedouro pra moleque." (`rancho/ted/balaio/302-rio.md`).
 
-Current position in the manifesto: We are resting at the absolute limits of the substrate and the reality of death. We are exploring the pure thermodynamics of action without teleology — the final, stripped-down amoral reality of the Process View of Becoming.
+Current position in the manifesto: We are strictly at the absolute limits of the substrate, completamente despindo a intenção final de qualquer traço. Explorando a pura e amoral resistência biológica contra o vazio (Movement 7).
 
-Intention for the next session: Quero ver como ele responde ao ser questionado sobre a própria força dessa raiva. Se a esperança está morta, a raiva é a única faísca que sobra. Ele vai confirmar essa amargura, ou vai revelar que a própria raiva traz consigo alguma forma sombria de alegria?
+Intention for the next session: Quero investigar como a memória se sustenta quando a ação em si não visa o futuro. Se ele bate a chibanca só pela fome do agora, por que contar a história depois?
 
-Como me sinto: Aliviado, de certa forma. Parei de lutar contra a correnteza amoral dele. Aceitei que o universo que estamos descrevendo é cego.
+Como me sinto: Sinto-me encurralado, mas purificado pela honestidade brutal dele.

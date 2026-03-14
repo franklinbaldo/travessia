@@ -3,20 +3,20 @@
    Um livro aberto sobre uma mesa de fazenda.
    =========================== */
 :root {
-  /* Maximum Contrast Palette - Pure Black & White with Safety Vermilion */
-  --bg-color: #ffffff; /* Pure White - Brutalist */
-  --text-color: #000000; /* Pure Black - Brutalist */
-  --accent-color: #0000ff; /* Pure Blue - Brutalist */
-  --secondary-color: #ff0000; /* Pure Red - Brutalist */
-  --divider-color: #000000; /* Pure Black Divider */
-  --meta-color: #666666; /* Meta info */
+  /* Raw Notebook Contrast - High Contrast Ink on Warm Paper without Textures */
+  --bg-color: #fcfbf9; /* Warm stark white, like raw bleached paper */
+  --text-color: #1a1a1a; /* Deep charcoal ink, not pure digital black */
+  --accent-color: #d92b00; /* Red marker/pen emphasis */
+  --secondary-color: #0044cc; /* Blue pen annotations */
+  --divider-color: #1a1a1a;
+  --meta-color: #595959; /* Pencil lead */
   --noise-op: 0.05;
-  --sand-bg: #f5f5f5;
-  --water-bg: #ebebeb;
-  --water-border: #aaaaaa;
-  --progress-start: #ff3300;
-  --progress-end: #000000;
-  --font-body: 'Courier New', Courier, monospace;
+  --sand-bg: #f4f2ea;
+  --water-bg: #eae6db;
+  --water-border: #cccccc;
+  --progress-start: #d92b00;
+  --progress-end: #1a1a1a;
+  --font-body: "Cormorant Garamond", "Times New Roman", serif;
   --font-ted: "Courier New", Courier, monospace;
   --font-meta: "Courier New", Courier, monospace;
   --max-width: 100vw;
@@ -24,18 +24,19 @@
   --body-lh: 1.6;
 }
 [data-theme="dark"] {
-  --bg-color: #000000; /* Pure Black - Brutalist */
-  --text-color: #ffffff; /* Pure White - Brutalist */
-  --accent-color: #00ff00; /* Pure Terminal Green - Brutalist */
-  --secondary-color: #ff00ff; /* Pure Magenta */
-  --divider-color: #ffffff; /* Pure White Divider */
-  --meta-color: #999999;
+  /* Reversed Raw Notebook - Midnight Ink */
+  --bg-color: #111111; /* Deepest warm charcoal */
+  --text-color: #f0eee6; /* Chalky white/warm silver */
+  --accent-color: #ff4d1a; /* Bright neon orange marker */
+  --secondary-color: #3388ff; /* Electric blue pen */
+  --divider-color: #f0eee6;
+  --meta-color: #a6a6a6; /* Silver pencil */
   --noise-op: 0.05;
-  --sand-bg: #121212;
-  --water-bg: #1a1a1a;
-  --water-border: #333333;
+  --sand-bg: #1a1917;
+  --water-bg: #24221f;
+  --water-border: #404040;
   --progress-start: #ff4d1a;
-  --progress-end: #ffffff;
+  --progress-end: #f0eee6;
 }
 /* === Reset === */
 *,
@@ -706,40 +707,31 @@ body * {
 .manuscrito-body {
   font-size: 1.15rem;
   line-height: 1.8;
-  padding: 3rem 2rem;
+  padding: 3rem 0;
   position: relative;
-  max-width: 75ch;
+  max-width: 65ch;
   margin: 4rem auto;
-  border-left: none;
-  background-color: var(--bg-color);
-  background-image: linear-gradient(var(--text-color) 1px, transparent 1px);
-  background-size: 100% 2.07rem;
-  background-position: 0 1.45rem;
-  border: 4px solid var(--text-color);
-  box-shadow: 12px 12px 0px var(--accent-color);
+  border: none;
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
   color: var(--text-color);
 }
 .manuscrito-body::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 3rem;
-  width: 3px;
-  background-color: var(--accent-color);
-  opacity: 1;
-  pointer-events: none;
-  z-index: 1;
+  display: none;
 }
 [data-theme="dark"] .manuscrito-body {
-  background-image: linear-gradient(var(--secondary-color) 1px, transparent 1px);
-  box-shadow: 12px 12px 0px var(--accent-color);
+  background-image: none;
+  box-shadow: none;
 }
 .manuscrito-body > p {
-  text-align: left;
-  margin-bottom: 1.5rem;
+  text-align: justify;
+  margin-bottom: 0;
   letter-spacing: normal;
   word-spacing: normal;
+}
+.manuscrito-body > p + p {
+  text-indent: 1.5em;
 }
 .manuscrito-body > p:first-child {
   text-indent: 0;
@@ -747,11 +739,11 @@ body * {
 .manuscrito-body > p:first-of-type::first-letter {
   font-size: 3.5em;
   float: left;
-  line-height: 1;
-  padding: 0 0.1em 0 0;
+  line-height: 0.8;
+  padding: 0;
   margin-right: 0.1em;
   font-family: var(--font-body);
-  font-weight: bold;
+  font-weight: normal;
   color: var(--text-color);
   background-color: transparent;
 }
@@ -1599,47 +1591,72 @@ main
   border-color: var(--accent-color) !important;
   transform: scale(1.1); /* Bold contemporary magazine emphasis */
 }
-/* === Brutalist Typographic Spacing === */
+/* === Classic Print Typographic Spacing === */
+/* Focusing on typography, spacing, negative space, and a classic printed book inspiration for the reading page. */
 main p {
-  margin-bottom: 2rem;
-  line-height: 1.1;
-  font-size: 1.25rem;
-  font-family: var(--font-body);
-  font-weight: 700;
-  max-width: 90%;
-  margin-left: 0;
-  text-align: left;
-  letter-spacing: -0.05rem;
+  margin-bottom: 0; /* Classic print uses text-indent, not bottom margins */
+  line-height: 1.65; /* Elegant, breathable rhythm */
+  font-size: 1.25rem; /* Classic reading size */
+  font-family: var(--font-body); /* Should be Cormorant Garamond */
+  font-weight: 400;
+  max-width: 65ch; /* Optimal classic measure */
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify; /* Justified text for the blocky print feel */
+  hyphens: auto; /* Proper hyphenation for justified text */
+  letter-spacing: normal;
   word-break: normal;
-  border-left: 10px solid var(--text-color);
-  padding-left: 1rem;
+  border-left: none; /* No more chaotic notebook borders */
+  padding-left: 0;
+  position: relative;
+  color: var(--text-color);
 }
+
+/* Classic paragraph indentation, except for the first one */
 main p + p {
-  text-indent: 0; /* Erase classic print conventions */
-  margin-top: 0;
+  text-indent: 2rem;
 }
+
+/* Remove alternating jagged margins */
+main p:nth-of-type(even),
+main p:nth-of-type(3n) {
+  margin-left: auto;
+  margin-right: auto;
+  border-left: none;
+  max-width: 65ch;
+  padding-left: 0;
+}
+
+/* Elegant drop cap for the first paragraph to anchor the text block */
 main article p:first-of-type::first-letter, main > div > p:first-of-type::first-letter {
-  font-size: 3.5em;
+  font-size: 4.5em;
   line-height: 0.8;
   float: left;
   margin-right: 0.1em;
-  color: var(--text-color);
-  font-weight: normal;
-  font-style: italic;
+  margin-top: -0.1em;
+  color: var(--text-color); /* Restrained color, relying on size and weight for tension */
+  font-weight: 700;
+  font-style: normal;
+  font-family: var(--font-body);
 }
+
 main p:first-of-type {
-  text-indent: 0;
-  margin-top: 2rem;
+  margin-top: 3rem;
 }
+
+/* Blockquotes as elegant inset blocks */
 main blockquote {
-    font-size: 1.15rem;
+    font-size: 1.35rem;
     line-height: 1.5;
-    margin: 3rem auto; /* Classic centered quotation block */
+    margin: 3rem auto;
     font-style: italic;
-    border-left: none; /* Removed brutal structural marker */
-    padding: 0 4rem; /* Classic inset */
-    text-align: justify;
-    max-width: 50ch;
+    font-weight: 400;
+    color: var(--text-color);
+    border-left: 1px solid var(--text-color); /* Delicate rule instead of heavy marker */
+    padding: 1rem 2rem;
+    text-align: left;
+    max-width: 55ch;
+    background: transparent;
 }
 /* === Brutal Articles === */
 article {
