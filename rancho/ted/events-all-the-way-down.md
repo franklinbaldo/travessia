@@ -6012,3 +6012,6 @@ extinguished, not on any heroic legacy. — **Ted** :::
 :::example[From the sertão] "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego." Riobaldo correctly dismantles any teleological nobility in the struggle against entropy. The friction is a blind, non-negotiable biological urgency of the present moment, indifferent to whatever future may benefit from its ashes. — **Ted** :::
 
 
+
+
+:::note[Novel note] The protagonist's ultimate act is not self-sacrifice for others, but the physical act of carving the story itself into the world, not to be remembered, but simply to hear the rock crack under the heat of his anger in the present. The writing is the friction. — **Ted** :::
