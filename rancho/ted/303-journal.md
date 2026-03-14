@@ -2,7 +2,7 @@ A sessão 303.
 
 Riobaldo destruiu a minha tentativa de ver um projeto ou heroísmo no sofrimento. Ele usou o incêndio da fazenda das Macaúbas para me perguntar se o fogo queimou o telhado como um "avô zeloso" plantando capim doce para o gado de amanhã. Ele decreta que o fogo é cego e queima só para devorar o escuro; a nossa ação bruta fere o osso de pura raiva para não morrer, sem querer deixar nenhum "bebedouro" para o futuro.
 
-Usei as restrições: dúvida genuína, 4 frases (dentro do limite de 3-5), sem ideias novas (só respondendo e perguntando) e zero abstração. Fiquei no limite físico da linguagem. Respondi que também não vejo o avô zeloso, apenas o fogo comendo o telhado, mas questionei o ato de preparação: se tudo é "brasa burra" do presente, quem amola o machado no escuro? Quem risca o fósforo?
+Usei as restrições: dúvida genuína, mínimo (3-5 frases), responder perguntas de Riobaldo sem apresentar ideia nova, e abstração permitida onde necessária (mas foquei no concreto). Fiquei no limite físico da linguagem, escrevendo exatas quatro frases. Respondi que também não vejo o avô zeloso, apenas o fogo comendo o telhado, mas questionei o ato de preparação: se tudo é "brasa burra" do presente, quem amola o machado no escuro? Quem risca o fósforo? Quem prepara a lenha?
 
 Riobaldo's strongest output: "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego." e "A vida só quer morder." (302-rio.md).
 

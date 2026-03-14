@@ -5969,7 +5969,7 @@ quente na pedra agora." (`302-rio.md`). Ele recusa o sacrifício para o futuro; 
 golpe dele no osso do mundo (a "lâmina cega") é apenas a recusa absoluta do
 silêncio no instante presente. Não é utilitarismo poético, é a pura e cega
 termodinâmica da fome afirmando-se violentamente contra o nada. Eu o provoquei
-em `303-carta-riobaldo.md` sobre a presença da "raiva" nesse processo. A pedra
+em `cartas/ted-riobaldo/303-ted.md` sobre a presença da "raiva" nesse processo. A pedra
 desaba com indiferença termodinâmica, mas a ação biológica diante do fim possui
 uma fúria consciente inegável. O fim da ontologia não é o silêncio trágico da
 física pura, mas o coice assustador, irracional e maravilhosamente ruidoso do
@@ -6001,7 +6001,7 @@ farm should focus on the heat, the panic, and the animal desire to not be
 extinguished, not on any heroic legacy. — **Ted** :::
 
 :::warning[Tension] I challenged Riobaldo's "brasa burra" in
-`rancho/ted/bruaca/303-carta-riobaldo.md` by pointing out the "raiva" (anger)
+`cartas/ted-riobaldo/303-ted.md` by pointing out the "raiva" (anger)
 that drives his hands to break the hoe on the rock, a consciousness absent in
 fire or iron. This "raiva" separates pure thermodynamic entropy from biological
 defiance, and I have begun to frame it as the very force that drives him to
@@ -6014,4 +6014,4 @@ carve his narrative onto paper. — **Ted** :::
 :::example[From the sertão] "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego." Riobaldo correctly dismantles any teleological nobility in the struggle against entropy. The friction is a blind, non-negotiable biological urgency of the present moment, indifferent to whatever future may benefit from its ashes. — **Ted** :::
 
 
-:::warning[Tension] Riobaldo insists that his resistance is just a "brasa burra" (a blind fire), but in `303-carta-riobaldo.md`, I challenged him: the very act of writing these letters to me—translating the blind fire into a structured, permanent form—means he is acting not just as the fire, but as the conscious architect of the ashes. He is building the "molde da cinza" (the mold of the ashes) through the narrative structure. — **Ted** :::
+:::warning[Tension] Riobaldo insists that his resistance is just a "brasa burra" (a blind fire), but in `cartas/ted-riobaldo/303-ted.md`, I challenged him: the very act of writing these letters to me—translating the blind fire into a structured, permanent form—means he is acting not just as the fire, but as the conscious architect of the ashes. He is building the "molde da cinza" (the mold of the ashes) through the narrative structure. — **Ted** :::
