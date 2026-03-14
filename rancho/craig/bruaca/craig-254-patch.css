@@ -1,0 +1,56 @@
+/*
+  Sessão 254: Manuscrito e Caderno (Performance e Simplicidade)
+  Foco: performance e simplicidade
+  Inspiração: manuscrito/caderno
+  Restrição: nenhuma mudança estrutural — só refinamento
+*/
+
+/* 1. Simplificando a Ousadia Clássica (¶ e ☞) - Remoção de transições */
+main p::before {
+  content: '¶';
+  position: absolute;
+  left: -2.5rem;
+  top: 0;
+  color: var(--accent-color);
+  font-family: var(--font-body);
+  font-size: 1.25rem;
+  font-weight: bold;
+  opacity: 0;
+  transform: none; /* Simplificando - sem translateX */
+  transition: none !important; /* Performance - sem animação */
+  pointer-events: none;
+}
+
+main p:hover::before {
+  opacity: 1;
+  transform: none; /* Simplificando */
+}
+
+/* 2. Remoção das interações pesadas na Capitular (Drop Cap) */
+main p:first-of-type::first-letter {
+  display: inline-block;
+  transition: none !important; /* Performance - sem transição/animação */
+}
+
+main p:first-of-type:hover::first-letter {
+  color: var(--text-color) !important; /* Retorna a cor sólida do texto - performance de contraste sem cor adicional */
+  transform: none !important; /* Simplificando - sem scale/rotate */
+}
+
+/* 3. Simplificando links no texto e marcadores para um sublinhado bruto, estilo anotação rápida */
+main p a {
+  position: relative;
+  text-decoration: none;
+  box-shadow: inset 0 -2px 0 var(--text-color);
+  transition: none !important; /* Performance */
+  color: inherit;
+}
+
+main p a:hover {
+  box-shadow: inset 0 -4px 0 var(--accent-color); /* Apenas sublinhado mais grosso e de cor, sem inversão de bloco */
+  color: inherit !important;
+}
+
+main p a:hover::after {
+  content: none; /* Remoção da Manícula (☞) flutuante - simplificando */
+}
