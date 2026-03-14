@@ -1,37 +1,19 @@
 ---
 tipo: "transcricao"
-data: 2026-03-17
+data: 2026-03-14
 sessao: 302
 ---
 
-[silêncio longo]
-[som de vento batendo numa porta de madeira]
+[silêncio longo, barulho de grilo longe]
 
-Essa máquina... está rodando a fita, doutor? A luz vermelha acendeu no cantinho, mas é uma luz fraca, quase cega pela poeira que entrou aqui.
+A noite encostou e grudou feito piche, hoje. Esse aparelho girando não faz barulho nenhum se eu ficar quieto, mas acho que... acho que ele engole o escuro também. Fita preta engolindo fita preta. O doutor me deixou isso aqui...
 
-[respiração pesada]
-
-Hoje eu li a carta do Ted. Aquele americano tem um coração que dói por antecedência. Eu estava pronto para responder com pedra na mão, juro pro senhor. Pronto para dizer que ele era cego. Mas quando eu olhei para fora e vi esse vento levantando a terra, espalhando aquele pó vermelho pelo terreiro... a raiva passou. Me deu uma pena dele. Uma pena de mim, também.
-
-[som de cadeira rangendo]
-
-Ele acha que o sofrimento da gente, se for bem cavado, vira bebedouro de água limpa para o futuro. Que a dor do meu osso rasgado vai salvar a sede de um menino daqui a muito tempo. O homem chega a implorar para que eu afunde a lâmina. Ele implora pelo meu sangue, mas não é por maldade... é por amor ao que nem existe ainda. É a pior das fomes, a fome de querer salvar o amanhã.
-
-[silêncio longo, barulho de vento mais forte]
-
-Eu fechei o olho, olhando pro terreiro enfumaçado de pó, e vi aquele menino. O menino do futuro que o Ted tanto gosta de chamar pra conversa. Um menino de perna fina, caminhando num sertão que a gente não vai ver. Duzentos anos pra frente, sei lá. Eu vi o menino tropeçando na minha valeta de osso rasgado. A valeta que o Ted pediu pra eu cavar. E o que tinha nela? Pó. Só pó. O redemoinho já tinha soterrado a água do sacrifício antes do menino nascer.
-
-Eu escrevi pra ele. Mão mansa. Disse que a valeta cega com a poeira do vento. Que não adianta eu dar o meu sangue.
-
-...não adianta, não adianta nada... o vento não tem compaixão.
-
-[barulho de dedo batendo na mesa de madeira]
-
-Mas e se ele não entender? E se ele achar que eu só estou sendo covarde? Aquele homem quer que o mundo tenha sentido. Ele quer que a dor tenha utilidade. E eu estou arrancando dele a única muleta que ele tem para aguentar o peso das coisas... eu estou dizendo pra ele que a dor é só dor, e o vento só espalha pó em cima dela. Isso não é uma coisa pequena de se arrancar da mão de um homem, doutor.
+Eu mandei carta pro Ted agora. Bem curta. A mais curta que já escrevi. Fiquei com pena dele. Pena mesmo. Ele ainda não entende. Fica achando que tem que ter lâmina, tem que ter osso quebrado, facão abrindo pedra, caititu virando favo. Tudo pra ele tem que ser esfolado. Pra ele o amor... o amor pro que vai nascer amanhã tem que vir do sangue, de grito dado, de arrancar pedaço. O Ted acha que o futuro tem fome de defunto.
 
 [som de copo na mesa]
-[suspiro]
 
-Será que é sombra que a gente tem que plantar? Ou será que o vento arranca a árvore também? Eu perguntei da árvore pra ele... mas na verdade eu não sei. Não sei de mais nada, só que a poeira me deixa com a boca seca.
+Mas eu olhei daqui da varanda, nesse breu que não deixa ver nem a porteira, e pensei... não. É só escuridão-branda. Não tem osso branco querendo morder a bota do menino que vem. Não tem fenda pra botar a boca. O menino... [suspiro profundo]... o menino quer silêncio manso, que ninguém cobre nada dele. Que não tenha ninguém com o dedo aberto no laço esperando agradecimento. Ele quer encostar a cara no escuro e dormir.
 
-Desliga a geringonça.
+O Ted não entende que o sertão é muito grande, e a dor de um homem no meio dele, se ele bater na pedra, vinga, mas e daí? A chuva vem e lava. O vento enche de terra, a gente viu lá no Vão do Paroá. Mas se ele deixar o chão como tava, em silêncio... o menino chega e dorme inteiro. Sem ter que dar lamber o sangue pra matar sede de fantasma. Eu sou vivo. Não quero o menino lambendo o meu defunto. A noite perdoa tudo se a gente deixar ela brando. E só. Só isso.
+
+[silêncio longo]
