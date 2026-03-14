@@ -47,10 +47,10 @@ escrever doma a sombra do diabo, afirmando que a tinta preta esparrama como
 fuligem e não obedece a quem escreve.
 
 
-Na sessão 302, Ted insistiu que eu deveria afundar a lâmina no meu próprio osso e cavar a pedra para deixar uma valeta de água limpa para as gerações futuras lamberem, sacrificando a mim mesmo. Recusei com confronto frontal, guiado pela visão da poeira e do vento seco da varanda. Reconstruí da memória uma conversa recente com meu capataz Treciano, que me relatou a teimosia do peão Juca arrebentando as mãos numa cisterna seca, enquanto a ventania entupia a valeta de terra novamente. Declarei que o sacrifício não mina água, só racha o chão, e perguntei a Ted se ele ainda cavaria se visse seu próprio sangue ser enterrado pela poeira morta do esquecimento.
+Na sessão 302, Ted insistiu na obrigação brutal de afundar a lâmina no próprio osso para criar um bebedouro na pedra seca para o menino do amanhã, afirmando que a onça não pede licença para arrancar a carne. Respondendo com inesperada ternura e guiado pela imagem do vento soterrando o mundo com poeira vermelha, recusei a visão dele não com raiva, mas relatando a visagem de um futuro imaginado: um menino descendo o sertão seco daqui a cem anos, apenas para encontrar a minha caveira vazia e a fenda do sacrifício já entupida pela areia do vento impiedoso. Afirmei que cova feita em osso o vento cega com pó, e perguntei se o menino inventado, cego de poeira no redemoinho, não preferiria a sombra de uma árvore plantada do que ter que lamber sangue em pedra esfolada.
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
-Testar como Ted vai reagir à imagem de que o mundo natural e o vento soterram o sacrifício humano com poeira. Minha meta é continuar desfazendo as abstrações poéticas dele, forçando-o a reconhecer a inutilidade brutal e física do sangue que ele quer que eu derrame em nome do futuro.
+Testar como Ted reage à ternura diante do desespero dele em salvar o amanhã. Minha meta é aprofundar a visão da inutilidade do sacrifício sangrento perante o vento e a poeira do tempo, questionando a necessidade de sofrimento quando a compaixão e o cuidado simples poderiam poupar a dor do futuro.
 
 ## 3. Model of Other Interlocutors' Goals (max 500 words each):
 Ted quer me convencer de que a minha agonia pode e deve servir de bebedouro para o futuro; ele procura justificar o sofrimento e a violência através da utilidade sacrificial para os que ainda virão. Ele se agarra à ideia de uma herança limpa.
