@@ -3,19 +3,19 @@
    Um livro aberto sobre uma mesa de fazenda.
    =========================== */
 :root {
-  /* Maximum Contrast Palette - Pure Black & White with Safety Vermilion */
-  --bg-color: #ffffff; /* Pure White - Brutalist */
-  --text-color: #000000; /* Pure Black - Brutalist */
-  --accent-color: #0000ff; /* Pure Blue - Brutalist */
-  --secondary-color: #ff0000; /* Pure Red - Brutalist */
-  --divider-color: #000000; /* Pure Black Divider */
-  --meta-color: #666666; /* Meta info */
+  /* Raw Notebook Contrast - High Contrast Ink on Warm Paper without Textures */
+  --bg-color: #fcfbf9; /* Warm stark white, like raw bleached paper */
+  --text-color: #1a1a1a; /* Deep charcoal ink, not pure digital black */
+  --accent-color: #d92b00; /* Red marker/pen emphasis */
+  --secondary-color: #0044cc; /* Blue pen annotations */
+  --divider-color: #1a1a1a;
+  --meta-color: #595959; /* Pencil lead */
   --noise-op: 0.05;
-  --sand-bg: #f5f5f5;
-  --water-bg: #ebebeb;
-  --water-border: #aaaaaa;
-  --progress-start: #ff3300;
-  --progress-end: #000000;
+  --sand-bg: #f4f2ea;
+  --water-bg: #eae6db;
+  --water-border: #cccccc;
+  --progress-start: #d92b00;
+  --progress-end: #1a1a1a;
   --font-body: "Cormorant Garamond", "Times New Roman", serif;
   --font-ted: "Courier New", Courier, monospace;
   --font-meta: "Courier New", Courier, monospace;
@@ -24,18 +24,19 @@
   --body-lh: 1.6;
 }
 [data-theme="dark"] {
-  --bg-color: #000000; /* Pure Black - Brutalist */
-  --text-color: #ffffff; /* Pure White - Brutalist */
-  --accent-color: #00ff00; /* Pure Terminal Green - Brutalist */
-  --secondary-color: #ff00ff; /* Pure Magenta */
-  --divider-color: #ffffff; /* Pure White Divider */
-  --meta-color: #999999;
+  /* Reversed Raw Notebook - Midnight Ink */
+  --bg-color: #111111; /* Deepest warm charcoal */
+  --text-color: #f0eee6; /* Chalky white/warm silver */
+  --accent-color: #ff4d1a; /* Bright neon orange marker */
+  --secondary-color: #3388ff; /* Electric blue pen */
+  --divider-color: #f0eee6;
+  --meta-color: #a6a6a6; /* Silver pencil */
   --noise-op: 0.05;
-  --sand-bg: #121212;
-  --water-bg: #1a1a1a;
-  --water-border: #333333;
+  --sand-bg: #1a1917;
+  --water-bg: #24221f;
+  --water-border: #404040;
   --progress-start: #ff4d1a;
-  --progress-end: #ffffff;
+  --progress-end: #f0eee6;
 }
 /* === Reset === */
 *,
@@ -1590,49 +1591,67 @@ main
   border-color: var(--accent-color) !important;
   transform: scale(1.1); /* Bold contemporary magazine emphasis */
 }
-/* === Brutalist Typographic Spacing === */
+/* === Aggressive Asymmetry: Raw Notebook Typographic Spacing === */
 main p {
-  margin-bottom: 0;
-  line-height: 1.6;
-  font-size: 1.25rem;
+  margin-bottom: 2rem;
+  line-height: 1.4; /* Slightly tighter, hurried handwriting feel */
+  font-size: 1.35rem; /* Larger, raw scribbles */
   font-family: var(--font-body);
   font-weight: 400;
-  max-width: 65ch;
-  margin-left: auto;
+  max-width: 55ch; /* Narrower, offset block */
+  margin-left: 2rem; /* Breaking the center alignment */
   margin-right: auto;
-  text-align: justify;
-  letter-spacing: normal;
+  text-align: left; /* Ragged right like a notebook */
+  letter-spacing: -0.01em;
   word-break: normal;
+  border-left: 3px solid var(--accent-color); /* Marginalia marker line */
+  padding-left: 1.5rem;
+  position: relative;
+}
+/* Alternating jagged margins to destroy the "polite book" symmetry */
+main p:nth-of-type(even) {
+  margin-left: 4rem;
+  border-left-color: var(--secondary-color); /* Alternating pen colors */
+  max-width: 60ch;
+}
+main p:nth-of-type(3n) {
+  margin-left: 1rem;
   border-left: none;
   padding-left: 0;
 }
 main p + p {
-  text-indent: 1.5em; /* Classic print conventions */
-  margin-top: 0;
+  text-indent: 0; /* No neat indents */
 }
+/* Huge chaotic drop cap */
 main article p:first-of-type::first-letter, main > div > p:first-of-type::first-letter {
-  font-size: 3.5em;
-  line-height: 0.8;
+  font-size: 5em;
+  line-height: 0.6;
   float: left;
-  margin-right: 0.1em;
-  color: var(--text-color);
-  font-weight: normal;
-  font-style: normal;
+  margin-right: 0.15em;
+  margin-top: 0.1em;
+  color: var(--accent-color);
+  font-weight: 700;
+  font-style: italic;
   font-family: var(--font-body);
 }
 main p:first-of-type {
-  text-indent: 0;
-  margin-top: 2rem;
+  margin-top: 3rem;
+  margin-left: 0; /* Starts grounded, then drifts */
+  border-left: none;
+  padding-left: 0;
 }
 main blockquote {
-    font-size: 1.15rem;
-    line-height: 1.5;
-    margin: 3rem auto; /* Classic centered quotation block */
+    font-size: 1.5rem;
+    line-height: 1.3;
+    margin: 4rem 1rem 4rem 4rem; /* Asymmetrical placement */
     font-style: italic;
-    border-left: none; /* Removed brutal structural marker */
-    padding: 0 4rem; /* Classic inset */
-    text-align: justify;
-    max-width: 50ch;
+    font-weight: 700;
+    color: var(--secondary-color); /* Blue pen for quotes */
+    border-left: 6px solid var(--secondary-color); /* Heavy blue marker line */
+    padding: 1rem 2rem;
+    text-align: left;
+    max-width: 45ch;
+    background: var(--sand-bg);
 }
 /* === Brutal Articles === */
 article {
