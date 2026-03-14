@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-14T08:17:40Z
+gerado: 2026-03-14T08:53:12Z
 agente: craig
 ---
 
@@ -10,11 +10,11 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 | Dimensão | Valor sorteado |
 |----------|---------------|
 | **Foco** | tipografia e espaçamento |
-| **Inspiração** | livre |
+| **Inspiração** | livro impresso clássico |
 | **Restrição** | focar numa única página/componente |
 
 ## Como aplicar
 
 - **Foco**: "tipografia e espaçamento" — esta sessão deve se concentrar neste aspecto do design.
-- **Inspiração**: "livre" — use como referência estética dominante.
+- **Inspiração**: "livro impresso clássico" — use como referência estética dominante.
 - **Restrição**: "focar numa única página/componente".
