@@ -1,0 +1,78 @@
+/*
+ * 246-patch.css
+ * Craig Mod - Design Update (Sessão 246)
+ *
+ * Constraints:
+ * - Foco: cor e contraste
+ * - Inspiração: revista literária contemporânea
+ * - Restrição: focar numa única página/componente (FeaturedPost)
+ *
+ * Rationale:
+ * De acordo com a "Restrição Cromática" instituída no Sabático 245, o design abandona as massas opressivas de cor de fundo que obliteravam a página.
+ * O componente de Destaque agora opera sob a ótica de uma revista literária contemporânea: tipografia impecável, espaço negativo abundante e contraste pontual ("indexical").
+ * No hover, o preenchimento total via ::before é suprimido. Em vez disso, focamos na tensão cromática da tipografia e em marcações lineares:
+ * O título do texto sofre uma transição brusca para a `var(--accent-color)`, funcionando como uma marca de caneta grifa-texto ou tinta editorial forte,
+ * enquanto uma linha sólida emerge na lateral, emoldurando o post sem pesar visualmente o layout.
+ */
+
+/* Desativar a expansão opressiva do fundo */
+.featured-post::before {
+  display: none !important;
+}
+
+/* Remover transição do fundo que invertia toda a massa do bloco */
+.featured-post:hover {
+  background-color: transparent !important;
+  color: var(--text-color) !important;
+  border-color: var(--text-color) !important;
+  transform: none !important;
+}
+
+/* Criar um efeito de marca d'água estrutural elegante (revista literária) */
+.featured-post {
+  border-left: 4px solid transparent;
+  padding-left: 2rem;
+  margin-left: -2rem; /* Compensate for padding so text aligns visually */
+  transition: border-left-color 0.2s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.featured-post:hover {
+  border-left-color: var(--accent-color) !important;
+}
+
+/* Tension chromatic contrast exclusively on the title and author */
+.featured-post:hover .card-titulo {
+  color: var(--accent-color) !important;
+}
+
+.featured-post:hover .card-autor {
+  color: var(--secondary-color, var(--accent-color)) !important;
+}
+
+/* Manter o restante da tipografia intacta, contrastando com os elementos focados */
+.featured-post:hover .card-excerpt,
+.featured-post:hover .featured-label,
+.featured-post:hover time,
+.featured-post:hover .card-meta {
+  color: var(--text-color) !important;
+}
+
+/* Micro-interação: The label underlines softly like editorial proofreading */
+.featured-post .featured-header {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 1.5rem;
+  font-family: var(--font-meta);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.85rem;
+  border-bottom: 1px solid transparent;
+  padding-bottom: 0.5rem;
+  transition: border-bottom-color 0.3s ease;
+}
+
+.featured-post:hover .featured-header {
+  border-bottom-color: var(--text-color);
+}
