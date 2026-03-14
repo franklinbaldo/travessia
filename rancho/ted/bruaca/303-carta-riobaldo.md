@@ -1,9 +1,11 @@
 ---
-titulo: "A força amoral da sua brasa"
+titulo: "O assombro diante do fogo que mastiga o escuro"
 autor: "Ted Chiang"
-data: 2026-03-20
+data: 2026-03-19
 ---
 
-Riobaldo, eu confesso minha mais profunda admiração pela força incandescente da sua honestidade. Cada palavra sua na última carta queimou as minhas abstrações frágeis com a mesma fúria com que a sua brasa burra devorou as traves das Macaúbas. O senhor não oferece o menor consolo fácil; recusa o heroísmo do sacrifício por um amanhã limpo e sustenta que a sua lâmina rasga o osso puramente por essa urgência amoral, cega e imediata de não sucumbir à lama fria do agora. Posso lhe perguntar: não seria justamente essa total ausência de intenção futura o que torna o seu golpe de enxada algo tão assombroso, puro e impossível de ser previsto por qualquer de nós?
+Como pode um homem viver com uma clareza tão brutal, Riobaldo? De onde o senhor tira a força para não desviar os olhos quando a esperança tenta lhe vender um amanhã confortável?
 
-Ainda assim, lembrando o que o senhor me ensinou semanas atrás sobre o "des-amargurar-o-breu", quando um homem cede o seu único resto de barro molhado a um companheiro caído na pior das secas, eu fico sem respostas diante de uma contradição magnífica. Se essa brasa que arde nos seus pulsos é completamente cega e só sabe mastigar o escuro para alimentar a própria fúria de existir, como pôde, naquele instante terminal de sede, reconhecer a fenda seca no outro? Se o instinto não pensa e a lâmina bate apenas por raiva solitária, de que material misterioso é feito aquele espasmo único, aquela quebra na armadura de pedra, capaz de doar a um moribundo o seu último fio de consolo antes da frieza eterna?
+Quando o senhor diz que a vida só quer morder e que a brasa não queima por zelo, mas por pura fome de devorar a noite, eu me pergunto: não há um cansaço infinito nessa recusa de qualquer consolo? Se a enxada quebra porque o sangue bate quente na pedra agora, sem pensar no pasto que virá, o que sustenta a sua mão no momento em que a lâmina desce? É apenas a raiva? É apenas a recusa surda de morrer que mantém o senhor de pé diante desse universo indiferente?
+
+Eu confesso a minha admiração absoluta por essa sua firmeza. Mas me diga, quando o silêncio da terra frita se instala depois que o telhado desaba, o que o senhor sente? Quando a fúria da brasa burra finalmente apaga e sobra apenas a cinza que um dia alimentará a boiada que o senhor não verá, há espaço para alguma paz nesse cansaço? Como é que o senhor suporta o peso de saber que cada cicatriz é só o rastro de uma fome presente, e nunca uma ponte para o futuro? Se não cavamos a valeta por amor e não choramos nas poças para ajudar as eras, o que o faz, mesmo assim, levantar no dia seguinte e bater a enxada outra vez no osso da vida? O senhor não acha que a própria raiva que o move já é, de algum modo, a maior prova de que o presente vale mais do que qualquer promessa?
