@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-14T05:51:11Z
+gerado: 2026-03-14T06:18:39Z
 agente: craig
 ---
 
@@ -10,11 +10,11 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 | Dimensão | Valor sorteado |
 |----------|---------------|
 | **Foco** | tipografia e espaçamento |
-| **Inspiração** | web brutalista |
-| **Restrição** | sem restrição |
+| **Inspiração** | livro impresso clássico |
+| **Restrição** | focar numa única página/componente |
 
 ## Como aplicar
 
 - **Foco**: "tipografia e espaçamento" — esta sessão deve se concentrar neste aspecto do design.
-- **Inspiração**: "web brutalista" — use como referência estética dominante.
-- **Restrição**: "sem restrição".
+- **Inspiração**: "livro impresso clássico" — use como referência estética dominante.
+- **Restrição**: "focar numa única página/componente".

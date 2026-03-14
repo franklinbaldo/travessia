@@ -16,9 +16,9 @@
   --water-border: #aaaaaa;
   --progress-start: #ff3300;
   --progress-end: #000000;
-  --font-body: 'Cormorant Garamond', serif;
-  --font-ted: "Cormorant Garamond", "Times New Roman", Times, serif;
-  --font-meta: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-body: 'Courier New', Courier, monospace;
+  --font-ted: "Courier New", Courier, monospace;
+  --font-meta: "Courier New", Courier, monospace;
   --max-width: 100vw;
   --body-size: 20px;
   --body-lh: 1.6;
@@ -1599,18 +1599,20 @@ main
   border-color: var(--accent-color) !important;
   transform: scale(1.1); /* Bold contemporary magazine emphasis */
 }
-/* === Classic Printed Book Typographic Spacing === */
+/* === Brutalist Typographic Spacing === */
 main p {
-  margin-bottom: 1.5rem;
-  line-height: 1.6;
+  margin-bottom: 2rem;
+  line-height: 1.1;
   font-size: 1.25rem;
-  max-width: 65ch;
-  margin-left: auto;
-  margin-right: auto;
+  font-family: var(--font-body);
+  font-weight: 700;
+  max-width: 90%;
+  margin-left: 0;
   text-align: left;
-  hyphens: auto;
-  letter-spacing: normal;
+  letter-spacing: -0.05rem;
   word-break: normal;
+  border-left: 10px solid var(--text-color);
+  padding-left: 1rem;
 }
 main p + p {
   text-indent: 0; /* Erase classic print conventions */
