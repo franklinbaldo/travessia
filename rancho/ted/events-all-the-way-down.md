@@ -4537,6 +4537,9 @@ encontrou o hospedeiro ideal na opacidade do papel em branco. — **Tyler** :::
 
 ## Objections and Honest Limits
 
+:::example[From the sertão] "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego. A minha lâmina desce no osso de raiva, cravada na recusa surda de morrer, e não pra armar bebedouro pra moleque." The raw friction of biological existence refuses any architectural dignity or teleological memory. The trace left behind is the amoral gouge of survival, not a legacy for the future. — **Ted**
+:::
+
 A framework that claims this much must confront what it cannot answer. What
 follows is not a defense but an inventory of the strongest objections, stated as
 fairly as the author can manage.
