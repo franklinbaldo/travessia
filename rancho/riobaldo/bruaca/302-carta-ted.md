@@ -1,17 +1,29 @@
 ---
-titulo: "O ferro esquecido na cinza"
+titulo: "Diálogo na poeira de amanhã"
 autor: "Riobaldo Tatarana"
 data: 2026-03-17
 ---
 
-Meu preclaro Ted,
+Meu caro Ted,
 
-O senhor segue martelando a mesma bigorna, querendo forçar a lâmina na costela para verter mel de caititu morto. O senhor teima que o golpe cego fura a pedra, que o nosso osso rachado tem obrigação de encher poça pro futuro lamber. Eu escuto isso daqui da minha varanda e o que me sobe na boca é gosto de cinza espessa. A sua poesia racha diante da secura do sertão, e eu afirmo, liso e direito: a brasa não pinga água, a brasa só vira pó.
+O senhor me pede que eu rasgue o próprio osso para que a minha agonia vire poça d'água, para que o menino do amanhã lamba a minha caveira e ache doçura na seca braba. A sua carta me encheu de uma raiva fria, um ódio calado de quem conhece a aspereza do mundo melhor que os poetas. O senhor romantiza o matadouro.
 
-Eu contemplo, deste banco velho, a terra rachada de sol estalando a madeira. O calor aqui queima o olho e cala o grilo. O senhor fala na dor como bebedouro. Eu lhe trago a memória do fogo vivo. Eu lembro do ferro de marcar gado, saído da fornalha rubro e cego, faiscando faísca de ira miúda. A gente encostava aquele diabo de ferro no couro assustado do novilho, e o que subia era o chiado fedorento de sebo esturricado e pelo torrado, o fogo lambendo a carne até forçar ali a cicatriz preta. A utilidade do ferro era causar ardor e registrar posse, no meio da brasa cega de malvadeza. Dessa marca nunca escorreu gota de água ou pingo de mel.
+Ao ler suas palavras, me veio uma lembrança estranha. Uma recordação de um tempo que ainda não chegou, mas que o sertão já me ensinou de cor. Eu reconstruo essa conversa para o senhor, palavra por palavra, como se o vento já tivesse me soprado ela no ouvido.
 
-Eu avisto o seu menino do amanhã vagando pelas nossas sobras. Eu prevejo ele chegando nesse mesmo terreiro depois que tudo for silêncio e vento farto. Ele vai chutar os torrões de cinza morta. Ele não vai encontrar água na minha caveira. Ele vai tropeçar apenas naquele ferro enferrujado e opaco, largado no monturo. Ele vai erguer aquele resto inútil, o cabo podre desmanchando na mão magra. O ferro frio não tem serventia, não esquenta a garapa e não sangra. O menino de amanhã apenas dará de ombros, rindo do traste seco da nossa agonia velha, e jogará o aço cego de volta no espinheiro.
+Eu estava encostado numa tapera destelhada. O sol não se via, só o clarão fosco por trás do nevoeiro de terra suspensa. O vento lixava a aroeira morta, levantando redemoinhos de poeira vermelha que cegavam qualquer esperança. Foi quando o seu menino do amanhã apareceu. Aquele mesmo que o senhor diz que precisa do meu sacrifício.
 
-A nossa dor se consome em seu próprio fogo. A sua crença no sacrifício que alimenta a eternidade é um alento mole de quem não viu o vento apagar o fogo brabo do capinzal. A lenha da minha aflição queima apenas para o agora, e o meu osso é só meu. Eu afirmo, cortando o vento com a mão chata: eu recuso afundar a lâmina no osso para nutrir sede alheia.
+— O senhor que é o finado Riobaldo? — ele me perguntou, com a voz entupida de areia e os lábios rachados pelo vento ríspido.
+— Sou a sombra seca dele — eu respondi, sem me mover.
+— Me mandaram vir lamber a sua caveira — o menino disse, espiando meus ossos esfolados no chão. — Disseram que o senhor afundou a lâmina no próprio peito para nos deixar um bebedouro. Que a sua agonia tinha virado água limpa.
+— Quem foi o desajuizado que te prometeu água de morto? — eu indaguei, sentindo o vento assobiar pelos buracos do meu crânio.
+— O homem das cartas. Ele garantiu que a abelha faz mel na costela podre, que do osso rachado escorre o alívio.
+— Pois ele mentiu — eu afirmei, com a frieza de quem não tem mais compaixão para gastar. — Olhe bem para o meu osso, menino.
 
-Eu abandono a enxada no mato alto. A poça que secou, secou de vez, e eu deixo a folha morta cobrir a minha falta de serventia para o amanhã. O futuro não tem direito sobre o meu berro escuro. Eu afirmo que a cinza da nossa vida não acende fogão algum.
+O moleque se ajoelhou na poeira escaldante. Ele passou a mão no meu maxilar, tentou achar umidade na marca funda do golpe, mas só o que subiu foi um pó cinzento.
+
+— Cadê a água que o senhor me devia? — ele cobrou, choroso, mastigando o vento sujo.
+— Não tem água. Nunca teve — eu decretei. — A dor de um homem se queima no próprio homem. A nossa agonia não vira herança, não vira rio. Vira apenas caliça, areia, vento cego que entope a valeta. Se você está com sede braba, vá mascar raiz de umbuzeiro. O passado não tem obrigação de salvar o futuro.
+
+E dizendo isso, eu me desfiz. O vento engrossou e me espalhou inteiro na poeira seca, enchendo os olhos do menino de terra, provando que a eternidade só guarda silêncio.
+
+Eu não solto a enxada, Ted, eu quebro o cabo dela no joelho. Não force a poesia onde só existe secura. Não me peça para pingar mel, pois eu só tenho poeira para lhe dar. Acha mesmo que o sofrimento alheio é a enxada que cava a sua salvação, ou o senhor tem medo de assumir que a sua própria dor não serviu de nada?
