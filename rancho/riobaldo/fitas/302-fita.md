@@ -1,22 +1,26 @@
 ---
 tipo: "transcricao"
-data: 2026-03-14
+data: 2026-03-17
 sessao: 302
 ---
 
-[som ruidoso, som de bota no soalho de madeira]
+[barulho rasgado, vento soprando no microfone]
 
-Ah, máquina, você é testemunha miúda.
-Ted... esse homem, eu não canso de ter um assombro por ele. É uma... reverência forte, um encosto na cerca pra escutar ele dar de espora. O que ele tem na ideia não desmancha no barro, ele encavala a dor do outro como se fosse o pasto mais doce, quer tirar água do defunto, mel do sangue pisado, garra na costela virando poço no futuro.
+Ê, maquininha. Tá frio hoje, vento de cortar queixo frouxo.
+O Ted... ah, o Ted. Mandou carta querendo tirar o mel do osso seco de novo. A teimosia de mula dele me tira um sorriso torto de lado de boca. Ele cismou... cismou bonito, que o sangue que a gente deixa pingar hoje vira o poço limpo de quem vem amanhã. Que o nosso sacrifício é fresta pro guri de amanhã lamber.
 
-[suspiro pesado e rasgado, chiado contínuo]
+[chiado, som de cigarro sendo aceso]
 
-Aí me veio um dente na cabeça, dente lascado que achei no Urucuia. Um pedaço amarelo de onça agarrado num buraco da cabeça de uma rês. A onça bateu, estragou, tirou e levou, rasgou no berro molhado... e só sobrou o sinal. A poça seca ao redor cheirando a bicho arisco, rastro arranhando a borda da grota. O dente encrustado branco da novilha, o pescoço mudo. Um dente, um osso liso de solteiro da chuva.
+Dei risada da tolice, ri rindo mesmo. Mas respondi com respeito.
+Mostrei pra ele um ferro de marcação de gado.
+Cantei pra ele a visão de um menino lá longe, num tempo que ainda nem apontou na curva... num futuro em que a gente é só fiapo de poeira. O moleque acha nosso ferro de marcar perdido na cinza mansa. Aquele mesmo ferro que, no meu tempo e no dele, urrava, cuspia brasa, saía vermelho bufando, fritava o lombo e espalhava o cheiro medonho de osso frito. Aquele ferro era a nossa lei.
 
-Passei muito tempo com esse toco fedorento balançando na perna suja. O Ted diz... ou melhor, o Ted acha que achar osso lascado da gente no fundo da poeira vai sustentar quem vier depois. Mas o dente na minha mão não choveu e não amansou nada, doutor. Eu esfregava a beira azeda na blusa de chita... só o que aquilo me deu foi susto frio. Me deu foi a imagem amarela do terror rondando meu corpo miúdo no mato molhado.
+[pigarro seco, silêncio curto]
 
-[barulho de cadeira estalando]
+Aí o moleque pega o ferro cego. E o que o bicho tem pra ele?
+Tem mel? Não. Tem gota d'água? Nenhuma.
+Tem é ferrugem gorda, barro pisado fechando a letra. O moleque lá sabe o que foi o nosso suor quente queimando o couro? Pra ele, é um lixo velho, cego de ponta, que não serve pra cortar paca nem pescar mandi. Ele vai jogar no capim amarelo, vai dar risada das nossas dores estúpidas.
 
-Não adiantou aquela novilha esfolar o coro, nem a pedra arranhar funda pra provar. Aquilo virou só uma lasca amarela e dura assombrando o moleque. Se eu fincar o facão na minha canela e esfolar meu joelho em cima do pedregulho pra fazer o bebedouro que ele quer... será que não vira só mais um osso espinhento que a menina do futuro vai pegar na mão de noite, sentindo o arrepio ruim da faca no vento oco? Por que a desgraça da gente ia criar coisa santa pra boca alheia? A lâmina no osso... o dente amarelo, fedido a medo velho, rastro de onça escura fugida no breu... é, não sustenta de água mansa não.
+A dor, doutor... a dor na vida não é nascente limpa não, o Ted tem de parar de engabelar as coisas com essa poesia bondosa. Dor não nutre os outros, dor só torra. Vira cinza, vira ferro entortado na mão errada. E o amanhã nunca, juro por mim e pelo sol estralado do sertão... o amanhã nunca respeita a agonia da véspera. Nunca aqueceu a água de menino que não veio do ventre da nossa época.
 
-[estalo, chiado termina subitamente]
+[estalo, máquina roda alguns segundos em vazio, pausa abrupta do botão]

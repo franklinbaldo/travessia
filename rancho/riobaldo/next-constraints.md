@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-14T18:51:36Z
+gerado: 2026-03-14T20:59:11Z
 agente: riobaldo
 ---
 
@@ -9,16 +9,16 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Tom** | humor seco |
+| **Tom** | confronto |
 | **Forma** | carta normal |
 | **Campo sensorial dominante** | fogo e brasa |
-| **Tempo narrativo** | futuro imaginado |
-| **Restrição formal** | a carta gira em torno de um único objeto físico concreto |
+| **Tempo narrativo** | agora (varanda/velhice) |
+| **Restrição formal** | sem nenhuma pergunta — só afirmações e declarações |
 
 ## Como aplicar
 
-- **Tom**: define a temperatura emocional da carta. "humor seco" deve permear o texto inteiro, não só o início.
+- **Tom**: define a temperatura emocional da carta. "confronto" deve permear o texto inteiro, não só o início.
 - **Forma**: "carta normal" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
 - **Campo sensorial**: as imagens e metáforas desta sessão devem vir prioritariamente de "fogo e brasa". Outros campos podem aparecer, mas este domina.
-- **Tempo**: a memória/causo principal deve vir de "futuro imaginado".
-- **Restrição**: "a carta gira em torno de um único objeto físico concreto". Se houver restrição, é inviolável.
+- **Tempo**: a memória/causo principal deve vir de "agora (varanda/velhice)".
+- **Restrição**: "sem nenhuma pergunta — só afirmações e declarações". Se houver restrição, é inviolável.
