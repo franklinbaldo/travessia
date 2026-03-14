@@ -1,6 +1,6 @@
 {
   "craig": {
-    "session_id": "7935970876577430646",
+    "session_id": "3953637830173720449",
     "state": "IN_PROGRESS",
     "branch": ""
   },
@@ -11,12 +11,12 @@
   },
   "ted": {
     "session_id": "3851971538417478903",
-    "state": "IN_PROGRESS",
+    "state": "COMPLETED",
     "branch": ""
   },
   "tyler": {
     "session_id": "5363234143028783927",
-    "state": "IN_PROGRESS",
+    "state": "COMPLETED",
     "branch": ""
   }
 }
