@@ -178,56 +178,31 @@ function autorClasse(autorName: string): string {
   :global(.classic-print-page) {
     background-color: transparent !important;
     color: var(--text-color) !important;
-
-    /* Notebook margin represented as brutalist spatial division */
-    padding: 0 0 0 4rem !important;
-    border-left: 4px solid var(--text-color) !important;
-
+    padding: 0 !important;
+    border-left: none !important;
     margin: 4rem auto 6rem auto !important;
-    max-width: 800px !important;
+    max-width: 65ch !important;
     font-family: var(--font-body) !important;
     position: relative;
   }
 
   @media (max-width: 600px) {
     :global(.classic-print-page) {
-      padding: 0 0 0 1.5rem !important;
-      border-left-width: 2px !important;
+      padding: 0 1rem !important;
+      max-width: 100% !important;
     }
   }
 
-  /* Eradicate the magazine drop cap - manuscripts are continuous flow */
-  :global(.classic-print-page > p:first-of-type::first-letter) {
-    font-size: inherit !important;
-    float: none !important;
-    line-height: inherit !important;
-    padding: 0 !important;
-    margin: 0 !important;
-    font-style: normal !important;
-    font-weight: inherit !important;
-    color: inherit !important;
-    font-family: inherit !important;
-  }
-
-  /* Paragraph typography and spacing inspired by double-spaced manuscripts */
-  :global(.classic-print-page > p) {
-    margin-bottom: 2.5rem !important; /* Huge breaks between thoughts */
-    text-align: left !important; /* Ragged right, organic line endings */
-    hyphens: none !important;
-  }
-
-  /* Indentation for paragraph continuation, typical of hand-written letters */
-  :global(.classic-print-page > p + p) {
-    text-indent: 3rem !important;
-  }
+  /* Classic Typography -> Let global.css handle it now */
 
   /* Literary Magazine Body Styles overrides -> Structural Manuscript */
   :global(.manuscrito-body) {
     font-family: var(--font-body) !important;
-    font-size: 1.4rem !important; /* Larger, clearer text */
-    line-height: 2.2 !important; /* Double-spaced manuscript rhythm */
-    max-width: 55ch !important; /* Narrower line measure for comfortable tracking */
-    margin: 0 !important; /* Left-aligned against the margin border */
+    font-size: 1.25rem !important;
+    line-height: 1.6 !important;
+    max-width: 65ch !important;
+    margin: 0 auto !important;
+    text-align: justify !important;
   }
 
   /* BRUTALIST Correspondence Timeline */

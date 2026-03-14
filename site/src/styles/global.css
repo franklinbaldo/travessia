@@ -16,7 +16,7 @@
   --water-border: #aaaaaa;
   --progress-start: #ff3300;
   --progress-end: #000000;
-  --font-body: 'Courier New', Courier, monospace;
+  --font-body: "Cormorant Garamond", "Times New Roman", serif;
   --font-ted: "Courier New", Courier, monospace;
   --font-meta: "Courier New", Courier, monospace;
   --max-width: 100vw;
@@ -706,40 +706,31 @@ body * {
 .manuscrito-body {
   font-size: 1.15rem;
   line-height: 1.8;
-  padding: 3rem 2rem;
+  padding: 3rem 0;
   position: relative;
-  max-width: 75ch;
+  max-width: 65ch;
   margin: 4rem auto;
-  border-left: none;
-  background-color: var(--bg-color);
-  background-image: linear-gradient(var(--text-color) 1px, transparent 1px);
-  background-size: 100% 2.07rem;
-  background-position: 0 1.45rem;
-  border: 4px solid var(--text-color);
-  box-shadow: 12px 12px 0px var(--accent-color);
+  border: none;
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
   color: var(--text-color);
 }
 .manuscrito-body::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 3rem;
-  width: 3px;
-  background-color: var(--accent-color);
-  opacity: 1;
-  pointer-events: none;
-  z-index: 1;
+  display: none;
 }
 [data-theme="dark"] .manuscrito-body {
-  background-image: linear-gradient(var(--secondary-color) 1px, transparent 1px);
-  box-shadow: 12px 12px 0px var(--accent-color);
+  background-image: none;
+  box-shadow: none;
 }
 .manuscrito-body > p {
-  text-align: left;
-  margin-bottom: 1.5rem;
+  text-align: justify;
+  margin-bottom: 0;
   letter-spacing: normal;
   word-spacing: normal;
+}
+.manuscrito-body > p + p {
+  text-indent: 1.5em;
 }
 .manuscrito-body > p:first-child {
   text-indent: 0;
@@ -747,11 +738,11 @@ body * {
 .manuscrito-body > p:first-of-type::first-letter {
   font-size: 3.5em;
   float: left;
-  line-height: 1;
-  padding: 0 0.1em 0 0;
+  line-height: 0.8;
+  padding: 0;
   margin-right: 0.1em;
   font-family: var(--font-body);
-  font-weight: bold;
+  font-weight: normal;
   color: var(--text-color);
   background-color: transparent;
 }
@@ -1601,21 +1592,22 @@ main
 }
 /* === Brutalist Typographic Spacing === */
 main p {
-  margin-bottom: 2rem;
-  line-height: 1.1;
+  margin-bottom: 0;
+  line-height: 1.6;
   font-size: 1.25rem;
   font-family: var(--font-body);
-  font-weight: 700;
-  max-width: 90%;
-  margin-left: 0;
-  text-align: left;
-  letter-spacing: -0.05rem;
+  font-weight: 400;
+  max-width: 65ch;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+  letter-spacing: normal;
   word-break: normal;
-  border-left: 10px solid var(--text-color);
-  padding-left: 1rem;
+  border-left: none;
+  padding-left: 0;
 }
 main p + p {
-  text-indent: 0; /* Erase classic print conventions */
+  text-indent: 1.5em; /* Classic print conventions */
   margin-top: 0;
 }
 main article p:first-of-type::first-letter, main > div > p:first-of-type::first-letter {
@@ -1625,7 +1617,8 @@ main article p:first-of-type::first-letter, main > div > p:first-of-type::first-
   margin-right: 0.1em;
   color: var(--text-color);
   font-weight: normal;
-  font-style: italic;
+  font-style: normal;
+  font-family: var(--font-body);
 }
 main p:first-of-type {
   text-indent: 0;
