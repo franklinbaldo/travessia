@@ -266,38 +266,67 @@ const tipos = ['todos', ...Array.from(tiposSet)];
 </Layout>
 
 <style>
-  /* Hero — Classic Title Page Layout */
+
+  /* Hero — Chaotic Manuscript Cover Layout */
   .blog-hero {
     margin-bottom: 4rem;
-    text-align: center;
-    border-bottom: 1px solid var(--text-color);
+    text-align: left;
     padding-bottom: 4rem;
     padding-top: 2rem;
+    position: relative;
+    border: none;
   }
 
+  /* Subtly rotated title background imitating taped paper */
   .hero-typographic {
-    display: block;
-    margin: 0 auto;
+    display: inline-block;
+    padding: 2rem 3rem;
+    background-color: transparent;
+    border: 2px dashed var(--meta-color);
+    transform: rotate(-1deg);
+    position: relative;
+    z-index: 1;
+    max-width: 90%;
+  }
+
+  .hero-typographic::after {
+      content: '';
+      position: absolute;
+      top: -10px;
+      left: 10%;
+      width: 80px;
+      height: 25px;
+      background: rgba(0,0,0,0.1);
+      transform: rotate(-3deg);
+      z-index: 2;
+  }
+
+  :global([data-theme="dark"]) .hero-typographic::after {
+      background: rgba(255,255,255,0.1);
   }
 
   .hero-text-col {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 2rem;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 1.5rem;
+    transform: rotate(1deg); /* counter-rotate text slightly */
   }
 
   .blog-hero h1 {
     font-size: clamp(3rem, 8vw, 6rem);
     margin: 0;
-    letter-spacing: 0.08em;
-    line-height: 1.1;
+    letter-spacing: -0.05em;
+    line-height: 0.9;
     color: var(--text-color);
-    text-transform: uppercase;
-    font-family: var(--font-body); /* Classic Serif */
-    font-weight: normal;
-    text-align: center;
+    text-transform: lowercase;
+    font-family: var(--font-body); /* Classic Serif, scribbled feel if bold */
+    font-weight: 700;
+    text-align: left;
+    border-bottom: 4px solid var(--accent-color);
+    padding-bottom: 0.5rem;
+    width: max-content;
   }
 
   .hero-quote {
@@ -306,73 +335,109 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     font-size: clamp(1.2rem, 2.5vw, 1.8rem);
     color: var(--text-color);
     margin: 0;
-    line-height: 1.4;
-    font-weight: normal;
+    line-height: 1.2;
+    font-weight: bold;
     text-transform: none;
-    border-left: none;
     max-width: 600px;
-    text-align: center;
+    text-align: left;
     padding: 0;
+    background: transparent;
+    padding: 0.5rem;
+    border-left: 5px solid var(--meta-color);
   }
 
   .hero-sub {
-    font-family: var(--font-body);
-    font-size: 1.1rem;
-    color: var(--text-color);
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
+    font-family: var(--font-meta);
+    font-size: 1rem;
+    color: var(--meta-color);
+    text-transform: none;
     margin: 0;
-    max-width: 600px;
-    line-height: 1.6;
-    text-align: center;
+    max-width: 500px;
+    line-height: 1.4;
+    text-align: left;
   }
 
   .hero-characters {
     display: flex;
-    gap: 3rem;
-    margin-top: 2rem;
-    justify-content: center;
-    align-items: center;
+    gap: 1.5rem;
+    margin-top: 1rem;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
   }
 
   .character-badge {
     display: inline-block;
-    padding: 0;
-    border: none;
-    letter-spacing: 0.15em;
-    font-family: var(--font-body);
-    font-size: 1.2rem;
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--text-color);
+    letter-spacing: 0.05em;
+    font-family: var(--font-meta);
+    font-size: 1rem;
     text-transform: uppercase;
     background: transparent;
     color: var(--text-color);
-    font-weight: normal;
+    font-weight: bold;
+    /* Using nth-child selectors below instead of invalid random() */
   }
 
-  /* Blog Feed List - Classical Directory */
+  .character-badge:nth-child(1) { transform: rotate(-2deg); }
+  .character-badge:nth-child(2) { transform: rotate(1.5deg); }
+
+  /* Blog Feed List - Scattered Manuscript Pages */
   .blog-feed {
-    display: flex;
-    flex-direction: column;
-    gap: 0;
-    border-top: 1px solid var(--text-color);
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 3rem 2rem;
+    border-top: none;
+    margin-top: 2rem;
+    position: relative;
+    /* Linha de caderno (background) sutil para a área inteira de feed */
+    background-image: repeating-linear-gradient(
+      transparent,
+      transparent 1.5rem,
+      rgba(0, 0, 0, 0.02) 1.5rem,
+      rgba(0, 0, 0, 0.02) 1.55rem
+    );
+    padding: 3rem 1rem;
+  }
+
+  :global([data-theme="dark"]) .blog-feed {
+    background-image: repeating-linear-gradient(
+      transparent,
+      transparent 1.5rem,
+      rgba(255, 255, 255, 0.02) 1.5rem,
+      rgba(255, 255, 255, 0.02) 1.55rem
+    );
+  }
+
+  /* Asymmetric Placement Simulation */
+  :global(.blog-feed > *:nth-child(odd)) {
+    transform: translateY(20px) rotate(-1deg);
+  }
+  :global(.blog-feed > *:nth-child(even)) {
+    transform: translateY(-10px) rotate(1.5deg);
+  }
+  :global(.blog-feed > *:nth-child(3n)) {
+    transform: translateY(10px) rotate(0.5deg);
   }
 
   @media (min-width: 900px) {
     :global(main.home-layout) {
-      max-width: 1000px !important;
+      max-width: 1200px !important;
       margin: 0 auto;
       display: block !important;
       padding-top: 3rem !important;
-      padding-left: 2rem !important;
-      padding-right: 2rem !important;
+      padding-left: 4rem !important;
+      padding-right: 4rem !important;
     }
 
     /* Reset global nav if needed */
     :global(main.home-layout > nav) {
       position: static !important;
-      border-bottom: 1px solid var(--text-color) !important;
-      padding: 0 0 1.5rem 0 !important;
+      border-bottom: 3px solid var(--text-color) !important;
+      padding: 0 0 1rem 0 !important;
       background: transparent !important;
-      margin-bottom: 3rem !important;
+      margin-bottom: 4rem !important;
     }
 
     .blog-hero {
@@ -380,20 +445,27 @@ const tipos = ['todos', ...Array.from(tiposSet)];
       height: auto !important;
       border: none !important;
       overflow-y: visible !important;
-      margin-bottom: 3rem !important;
+      margin-bottom: 5rem !important;
     }
 
     .hero-typographic {
-      padding: 2rem 0;
+      padding: 3rem;
+      margin-left: 2rem;
     }
 
     .blog-feed {
-      display: flex !important;
-      flex-direction: column !important;
-      gap: 0 !important;
-      padding-bottom: 6rem !important;
+      display: grid !important;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 4rem 3rem !important;
+      padding-bottom: 8rem !important;
       margin-top: 0 !important;
-      align-items: stretch;
+      align-items: start;
+    }
+
+    /* Creating a messy masonry feel with grid */
+    :global(.blog-feed > *:nth-child(odd)) {
+        margin-top: 4rem;
     }
   }
+
 </style>
