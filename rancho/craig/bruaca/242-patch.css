@@ -1,0 +1,66 @@
+/*
+ * 242-patch.css
+ * Craig Mod - Design Update (Sessão 242)
+ *
+ * Constraints:
+ * - Foco: microinterações e detalhes
+ * - Inspiração: livre
+ * - Restrição: nenhuma mudança estrutural — só refinamento
+ *
+ * Rationale:
+ * Continuando a desconstrução das transições cinéticas e retornando ao
+ * peso brutalista estabelecido. Animações suaves de hover diluem a
+ * massa do layout. Para os pequenos blocos inline (links) e interações
+ * de foco, a resposta deve ser imediata e táctil: sem animações, apenas a
+ * inversão absoluta do espaço ou a criação repentina de massa de cor.
+ */
+
+/* 1. Basic inline links microinteractions */
+/* Remove fluid structural lines replacing them with instant solid block weight */
+main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo) {
+  text-decoration: none;
+  background-image: none !important;
+  transition: none !important;
+  z-index: 1;
+  padding: 0 0.2rem;
+  margin: 0 -0.2rem;
+}
+
+main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo)::after {
+  display: none !important; /* Kill the animated underline pseudo-element */
+}
+
+/* Instant, brutal inversion interaction */
+main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo):hover {
+  background-color: var(--text-color) !important;
+  color: var(--bg-color) !important;
+  border-radius: 0 !important;
+}
+
+/* 2. Focus interaction refinement */
+/* Replacing floating offsets with heavy immediate structure */
+*:focus-visible {
+  outline: 4px solid var(--text-color) !important;
+  outline-offset: 0 !important;
+  background-color: var(--text-color) !important;
+  color: var(--bg-color) !important;
+  transition: none !important;
+}
+
+/* 3. Button / Badge strict microinteractions */
+/* Override any remaining scale/rotate on badge elements */
+.card-tipo:hover,
+.autor-badge:hover,
+.character-badge:hover {
+  transform: none !important;
+  transition: none !important;
+  background-color: var(--text-color) !important;
+  color: var(--bg-color) !important;
+  border-color: var(--text-color) !important;
+}
+
+/* Kill the animated sliding underline on badges */
+.autor-badge::before,
+.character-badge::before {
+  display: none !important;
+}
