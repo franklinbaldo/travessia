@@ -1,0 +1,45 @@
+/*
+Este arquivo contem a declaracao das intencoes de design criadas na Sessao 240
+como um "patch" ou anexo, pois a Regra de Ouro proibe alterar `site/` diretamente.
+Destino: Tropeiro / Aplicacao em site/src/styles/global.css
+*/
+
+:root {
+  /* Raw Notebook Contrast - High Contrast Ink on Warm Paper */
+  --bg-color: #fcfbf9; /* Warm stark white, like raw bleached paper */
+  --text-color: #0f0f0f; /* Pure thick India ink */
+  --accent-color: #cc2200; /* Staid red editing ink */
+  --secondary-color: #0033cc; /* Archival blue pen */
+  --divider-color: #0f0f0f;
+  --meta-color: #3b3b3b; /* Darker 2B pencil lead for better contrast */
+}
+
+[data-theme="dark"] {
+  /* Reversed Raw Notebook - Midnight Ink */
+  --bg-color: #0d0d0d; /* Pitch black canvas */
+  --text-color: #f5f2eb; /* Bright chalk/warm silver for stark contrast */
+  --accent-color: #ff3300; /* Luminous neon orange marker */
+  --secondary-color: #4da6ff; /* Luminous blue pen */
+  --divider-color: #f5f2eb;
+  --meta-color: #a6a6a6; /* Silver pencil */
+}
+
+::selection {
+  background-color: #ffe600; /* Neon yellow highlighter */
+  color: #0f0f0f;
+  text-shadow: none;
+}
+::-moz-selection {
+  background-color: #ffe600;
+  color: #0f0f0f;
+}
+
+[data-theme="dark"] ::selection {
+  background-color: #bfff00; /* Acid green highlighter */
+  color: #0d0d0d;
+  text-shadow: none;
+}
+[data-theme="dark"] ::-moz-selection {
+  background-color: #bfff00;
+  color: #0d0d0d;
+}
