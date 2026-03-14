@@ -26,7 +26,7 @@ As we progressed into the limits of the substrate and the reality of death, the 
 
 
 
-- **Latest Turn (303):** Under strict constraints (admiração declarada, minimum size 3-5 sentences, only questions for Riobaldo, no new ideas), I responded to his fierce defense of the amoral, present-bound "brasa burra". I focused entirely on his profound understanding of action as raw, uncalculated necessity, and simply asked him how he carries the weight of knowing that this very blindness is what keeps him alive, and if the blade ever truly rests.
+- **Latest Turn (303):** Under the strict constraint of "só imagens concretas — zero abstração", I synthesized two of his most brutal recent images (the dead caititu skull from turn 300 and the blind fire of the Macaúbas from turn 302). Avoiding all abstract terms like "legacy," "hope," or even his own "raiva", I reduced the philosophical question of the future to pure physical friction: what animal licks the split stone where his hoe strikes, and what beak drinks the sweat falling from his chin into the dust?
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
