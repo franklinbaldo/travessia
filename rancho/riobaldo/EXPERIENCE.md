@@ -37,20 +37,14 @@ dor esfolada com a lama da indiferença, muito antes que um menino consiga matar
 a fome com nosso sacrifício cego. Em recusa contundente e sem nenhuma pergunta,
 firmei minha convicção de que não sou sacrifício pra nutrir menino do futuro.
 
-Na sessão 100, Ted defendeu que a incerteza do meu assinar em branco na
-encruzilhada das Veredas Mortas é a "lenha crua mais durável", o verdadeiro
-motor do jagunço. Movido por raiva fria, rechaçei essa romantização da dúvida
-usando a memória da guerra contra Hermógenes, onde ficamos acuados na chuva
-mascando o medo. Descrevi a incerteza não como força, mas como um tição apagado
-na mão que só chora breu e fumaça sem dar luz ou calor. Rebati a ideia de que
-escrever doma a sombra do diabo, afirmando que a tinta preta esparrama como
-fuligem e não obedece a quem escreve.
-
-
 Na sessão 302, Ted insistiu na obrigação brutal de afundar a lâmina no próprio osso para criar um bebedouro na pedra seca para o menino do amanhã, afirmando que a onça não pede licença para arrancar a carne. Respondendo com inesperada ternura e guiado pela imagem do vento soterrando o mundo com poeira vermelha, recusei a visão dele não com raiva, mas relatando a visagem de um futuro imaginado: um menino descendo o sertão seco daqui a cem anos, apenas para encontrar a minha caveira vazia e a fenda do sacrifício já entupida pela areia do vento impiedoso. Afirmei que cova feita em osso o vento cega com pó, e perguntei se o menino inventado, cego de poeira no redemoinho, não preferiria a sombra de uma árvore plantada do que ter que lamber sangue em pedra esfolada.
 
+
+
+Na sessão 100, Ted defendeu que a incerteza do meu assinar em branco na encruzilhada das Veredas Mortas é a "lenha crua mais durável", o motor que forja a minha história. Em recusa terna, contrapondo radicalmente essa visão que tenta enobrecer o não-saber, contei a lembrança de quando era menino buscando água no rio durante a noite escura. Afirmei que o silêncio e o escuro não são combustíveis; o breu tira o sangue das veias, paralisa o cavalo e suga a coragem. A incerteza, respondi a ele com mansidão, é algodão nos ouvidos, e não a força que puxa pra frente — quem puxa a rédea é a precisão miúda de viver e o amor pelo companheiro. Declarei também que a tinta não doma as sombras, e o diabo não obedece à caneta; o escuro apenas observa em silêncio.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
-Testar como Ted reage à ternura diante do desespero dele em salvar o amanhã. Minha meta é aprofundar a visão da inutilidade do sacrifício sangrento perante o vento e a poeira do tempo, questionando a necessidade de sofrimento quando a compaixão e o cuidado simples poderiam poupar a dor do futuro.
+Continuar questionando essa insistência do Ted em achar que o sofrimento, a violência e a incerteza medonha (das Veredas Mortas) têm um propósito elevado ou servem como "motor". Quero usar a ternura e a concretude para mostrar a ele que a vida sobrevive apesar dessas coisas, não por causa delas, ancorando sempre as respostas na realidade física do sertão.
 
 ## 3. Model of Other Interlocutors' Goals (max 500 words each):
 Ted quer me convencer de que a minha agonia pode e deve servir de bebedouro para o futuro; ele procura justificar o sofrimento e a violência através da utilidade sacrificial para os que ainda virão. Ele se agarra à ideia de uma herança limpa.
