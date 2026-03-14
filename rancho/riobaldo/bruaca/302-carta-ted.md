@@ -1,17 +1,17 @@
 ---
-titulo: "As Nove Estações de Sangue Ruim"
+titulo: "O osso da gente não é cacimba"
 autor: "Riobaldo Tatarana"
 data: 2026-03-17
 ---
 
 Meu caro Ted,
 
-1. A sua ideia de que a amargura da gente esfolando o osso vai juntar umidade limpa para quem bebe a água de amanhã, me vira as tripas numa raiva fria, igual venta de noite cortando a poeira num canto de pedra seca, e o senhor mistura fome com nobreza até enevoar as vistas.
-2. Vou lhe enumerar a lição miúda de quando eu era moço novo de capina, andando num chapadão liso colado no rasto de uma onça chumbada na perna.
-3. A bicha vinha pingando nas folhas, e o sangue pintava aquele lajedo de vermelho fosco, um pisar arrastado de dor torta, sem rumo bom.
-4. Nós seguimos o desespero dela por dias sob um sol de trincar a moleira, enquanto a terra se alimentava de poeira sufocante, bebendo a carniça antecipada.
-5. Eu vi a maldade que a onça fez consigo no meio de um grotão oco. Na cegueira de arrancar a bala, esbagaçou a própria pata com os dentes, e deixou o osso pardo varado no ar quente.
-6. A presa no osso não fez chover doce e não destilou compaixão nenhuma, só apressou o fim em sangue e bicheira no meio das pedras surdas do descampado.
-7. O senhor me diz agora que eu enterre a lâmina ainda mais funda no meu osso trincado, pra verter salvação pros meninos que nem nasceram, achando que ferida escarafunchada derrama mel limpo.
-8. Garanto que a onça mastigando a si mesma não purificou pasto nem encheu cabaça pros outros bezerros; e assim também não é porque eu morro raspando minha própria agonia que deixarei bebedouro pra seu moleque.
-9. Solto essa enxada que o senhor romantiza. Solto sim, afirmo porque a tortura da eternidade é pó seco e o silêncio duro da poça esturricada que engole a vida. Engolir areia e vento entope a valeta de quem quer salvar as águas alheias, sem utilidade de doçura futura e sem compaixão nenhuma.
+O senhor enxerga doçura onde o sertão só plantou pedra dura, mas eu respondo as suas palavras sem ira e sem repelo de ofensa. Essa sua precisão bonita de querer que a gente esmerilhe a própria osso para verter água aos meninos que ainda não nasceram, isso tem um perfume que engana a gente e traz um cisco de piedade aos olhos de quem escuta. Eu mesmo me assombrei de ver a sua firmeza nela, pensando se não era eu o errado da história por guardar minha enxada. Mas o coração amansado não esconde a verdade que a terra nua me ensinou; ele só entrega a amargura enrolada num pano mais macio.
+
+Quando a guerra estralou e a gente cruzou a seca ruim do lajedo da morte, os corpos da jagunçada pesavam mais que a alma, assados no sol vivo de um chapadão sem folha e sem sombra. O Titão de Passos, que era homem bom de coração largo, foi aluado pela sede de enlouquecer, quando o freio do cavalo já chocalhava seco na boca. Ele se jogou no chão de granito liso, catou o toco de uma faca quebrada e pelejou a bater a ponta do ferro contra a pedra. Batia e rasgava, cavando o queixo da rocha quente, até que a unha estourou e o osso do dedo dele ficou amostra, reluzindo branco e rasgado no meio do sangue grosso que sujava a poeira parda. Ele não gemia de dor miúda; gemia de uma pena imensa da nossa tropa encurralada pela falta d’água, choramingando que ia bater no chão até arrancar água limpa pra nós todos bebermos ali mesmo.
+
+A bobeira brava do Titão era sacrifício cego de jagunço desesperado. Nós tivemos que agachar e segurar as mãos dele amarradas, pra ele não arrancar o braço todo batendo na laje morta. Eu abracei o peito suado dele e encostei a cabeça dele no meu ombro, com o maior dó que eu já senti de um homem farto de peleja e sofrimento, um abraço cheio de uma ternura empoeirada. O osso branco do dedo dele não destilou compaixão nenhuma para as nossas gargantas, não virou vertente nem brotou poça rasa. Só restou uma marca vermelha na laje de pedra que o sol lambeu e secou sem dó.
+
+Por isso que lhe digo, com o afago de quem recolhe a raiva do relento: o sacrifício da gente não é cacimba pros outros beberem. O osso da gente é seco e, quando se rompe, só junta tristeza, e a agonia de quem bate não purifica o choro de quem sofre. A nossa morte raspada na dor não ajunta mel grosso na calha; só entulha o caminho de silêncio e poeira rala, sem servir de herança santa pros filhos de amanhã engolirem.
+
+Então, meu Ted de terras distantes, eu solto sim essa enxada. Largo ela devagar no canto, não por desapego ou fraqueza frouxa, mas porque eu quero que o menino do futuro encontre o ar limpo. Eu não quero que ele precise se abaixar na terra arranhada para lamber a minha caveira esfolada atrás de salvação ou alívio. Esse é o carinho final que eu lhe deixo, a certeza firme de que o menino de amanhã merece as águas de uma chuva nova e justa, não o sangue ruim chorado das nossas pedras antigas.

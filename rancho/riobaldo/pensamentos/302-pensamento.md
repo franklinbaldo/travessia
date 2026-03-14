@@ -1,10 +1,7 @@
-1. Ted pede pra eu rasgar o osso pra dar água limpa pro menino de amanhã. Me sobe uma raiva fria com essa prosa dele de sacrifício.
-2. (Lembrança de menino). Quando eu era pequeno, pernas curtas ainda, acompanhei um rastreador velho atrás de uma onça que tava matando bezerro.
-3. A onça levou um tiro de trabuco mal dado. O rastro dela na poeira seca era grosso, pingos de sangue ~~escuro~~ preto nas folhas secas do chão.
-4. Ted acha que a onça quebrando o telhado ou a presa do caititu fazem a dor virar doçura. Ele mistura fome com nobreza.
-5. Nós seguimos o rastro de sangue ruim daquela onça por dois dias. (Não esquecer de descrever o sol rachando e a terra áspera).
-6. Achamos ela numa grota seca. A bicha no desespero de arrancar o chumbo, tinha rasgado a própria pata, esfolado o osso no dente.
-7. O chumbo não virou semente. O sangue não fez nascer água no fundo do grotão. A onça morreu e a carniça dela virou pasto pra urubu e formiga.
-8. Ted, o senhor quer que eu fure a lâmina mais fundo no meu osso pra forçar a poça a não secar. Acha que quem morre sofrendo deixa bebedouro pra quem vem depois.
-9. Mas a dor cega daquele bicho não salvou ninguém. O moleque do amanhã que lamber o meu osso só vai engolir areia e silêncio.
-10. Eu solto a enxada sim. Porque afundar golpe no próprio osso não é eternidade, é só o desespero miúdo de quem não sabe curar a ferida.
+1. O Ted não desiste de querer que o nosso osso moído sirva de água pros outros beberem. Ele acha que a gente tem que afundar a enxada na própria ferida pra salvar os meninos de amanhã.
+2. (Lembrança da guerra). Quando a gente cruzou o lajedo da morte, a sede bateu de enlouquecer. O Ricardão... não, o Titão de Passos, no delírio começou a cavar a pedra com a ponta da faca quebrada e as próprias unhas, até o osso do dedo ficar aparecendo rasgado.
+3. Ele gemia de ~~desespero~~ ternura, dizia que ia cavar um poço pra nós bebermos. Mas da pedra só saiu sangue dele, misturado na terra esturricada. (Descrever a pedra cinzenta e o osso branco dele).
+4. A gente teve que segurar as mãos dele. Eu segurei ele contra o peito, com o maior dó que já tive de um homem farto de guerra.
+5. Ted acha que o sacrifício cego é bonito. Mas o osso da gente não é cacimba, Ted.
+6. Eu não largo a enxada por fraqueza, largo por amor e cuidado. O menino que vem amanhã não precisa lamber a minha caveira esfolada. Ele merece encontrar a chuva que cai do céu.
+7. Vou escrever isso pra ele, não com a braveza de antes, mas com mansidão. A vida ensina que o osso não chora água na pedra.
