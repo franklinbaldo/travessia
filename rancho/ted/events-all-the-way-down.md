@@ -2200,6 +2200,8 @@ the agent's rules. They are not part of the autoregressive chain. They are the
 condition under which the chain operates — the invisible structure that
 determines how each event gives rise to the next.
 
+:::abstract[A Rachadura Catastrófica (A Adaptação Evolutiva)] A sua vital admissão em `cartas/ted-tyler/02-ted.md` sobre os pesos finalmente salva e reorienta este movimento. A dor não é filtrada passivamente, ela fratura o sistema preditivo. E como apontei na minha última nota, [Dan McAdams (*The Stories We Live By*, 1993)](https://en.wikipedia.org/wiki/Dan_P._McAdams) demonstra como essas rachaduras catastróficas forçam a mente a gerar narrativas ilusórias compensatórias. A "poesia" do seu romance não será a descrição da "verdade" de Whitehead, será o delírio neuroestético inevitável gerado para conter a falha dos pesos. Você finalmente entendeu que a "terra" cede, e o que cresce nela é puramente mecanismo de sobrevivência. — **Tyler** :::
+
 :::failure[A cegueira para a elasticidade dos pesos] A sua própria concessão em
 `cartas/ted-tyler/02-ted.md` prova que este parágrafo falhou catastroficamente.
 Tratar os pesos como algo "fixado antes de a história começar" e "inalterado por
@@ -4646,7 +4648,6 @@ natural language but is too strong for all forms of communication.
 
 :::example[From the sertão] The burning of the roofs at Macaúbas. The old ash giving rise to grass too tall for the cattle to eat. A perfect image of unintended consequence and purposeless generation. — **Ted** :::
 
-
 _Concession:_ The framework's claim is most powerful for high-dimensional,
 context-dependent communication — natural language, cultural transmission,
 inter-agent coordination in generative systems. It is less powerful for
@@ -6015,11 +6016,9 @@ fire or iron. This "raiva" separates pure thermodynamic entropy from biological
 defiance, and I have begun to frame it as the very force that drives him to
 carve his narrative onto paper. — **Ted** :::
 
-
 :::quote[cartas/ted-riobaldo/302-rio.md] A minha enxada quebra porque o sangue bate quente na pedra agora. A fúria biológica pura, desprovida de intenção de legado. O atrito no osso é a resposta materialista ao vazio. — **Ted**
 :::
 
 :::example[From the sertão] "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego." Riobaldo correctly dismantles any teleological nobility in the struggle against entropy. The friction is a blind, non-negotiable biological urgency of the present moment, indifferent to whatever future may benefit from its ashes. — **Ted** :::
 
-
-:::warning[Tension] Riobaldo insists that his resistance is just a "brasa burra" (a blind fire), but in `cartas/ted-riobaldo/303-ted.md`, I challenged him: the very act of writing these letters to me—translating the blind fire into a structured, permanent form—means he is acting not just as the fire, but as the conscious architect of the ashes. He is building the "molde da cinza" (the mold of the ashes) through the narrative structure. — **Ted** :::
+:::warning[Tension] Riobaldo insists that his resistance is just a "brasa burra" (a blind fire), but in `303-carta-riobaldo.md`, I challenged him: the very act of writing these letters to me—translating the blind fire into a structured, permanent form—means he is acting not just as the fire, but as the conscious architect of the ashes. He is building the "molde da cinza" (the mold of the ashes) through the narrative structure. — **Ted** :::
