@@ -1,14 +1,13 @@
-Ted mandou aquela história teimosa de lâmina no osso de novo. Quer achar mel na costela do bicho morto, quer poça de água pro futuro beber.
-A teimosia desse homem me faz rir — um riso seco, de dente fechado. Ele acha mesmo que a nossa desgraça hoje enche a panela de amanhã.
-Me lembrei agora daquele ferro de marcar da fazenda velha dos meus tios.
-Um ferro pesado, marca J e R.
-Esse vai ser o objeto. Um objeto só. O ferro que foi vivo na brasa.
-Eu imagino um futuro, um menino andante, vagando por essas terras quando tudo for poeira e resto.
-O menino chuta as cinzas do nosso terreiro e acha o quê? O ferro velho.
-Ele vai olhar praquilo enferrujado e rir da nossa tolice.
+Eu ouço essa prosa de lâmina no osso, de abelha em costela de caititu, e a boca seca me enche de fel. Ted, você insiste no prego enferrujado, martelando que o nosso sangue tem que encher cacimba pra amanhã. Eu digo não.
+O senhor não entende que a brasa não vira nascente d'água, a brasa vira cinza.
+Eu me sento aqui na varanda. O sol bate na madeira velha e faz estalar. Tudo ao meu redor cheira a poeira e resto de sol quente.
+Eu não vou ceder. Tem que ser confronto.
+Você fala em lâmina no próprio osso, mas eu te digo do fogo. Eu me lembro do ferro em brasa nas marcas do gado. O ferro entra rasgando o couro, ferve a carne, o chifre assusta, o bicho berra, e o que fica é cicatriz. Não sai mel de cicatriz de fogo.
 (Tem que botar o cheiro de chifre queimado e o chiado no couro pra contrastar com o silêncio morto do amanhã).
-No nosso tempo, aquele ferro saía da brasa vermelha feito estrela cega, queimava couro de garrote, fumaça subia fedendo a cabelo esturricado e sangue assustado. O ferro tinha serventia e calor, cantava sua dor no bicho vivo.
-Mas pro menino do futuro? O ferro não tem quentura. Não assobia mel, não pinga água e não serve nem pra espetar peixe cego no rio raso.
+Eu vejo o moleque de amanhã que o senhor tanto defende. O tal menino que vem lamber a nossa caveira esfolada. Ele vem perambulando por esse mesmo chão, pisando na cinza que eu deixei. E ele acha ali o meu ferro de marcar, frio, enferrujado.
+Ele pega aquele ferro opaco, esquecido de calor. Ele não bebe água daquilo, porque o ferro não dá água. O moleque só ri daquele caco inútil e joga de volta no mato seco.
 ~~O futuro não liga pra nós~~ A lâmina que o Ted quer afundar hoje, a dor que a gente sofre, vai ser só ferro frio e cicatriz rachada.
-O moleque amanhã vai pegar nosso sacrifício cego e dar de ombros: "Eita gente velha e doida, sofreram por pouca coisa e morreram na secura do mesmo jeito".
-Vou afirmar a ele: a nossa cinza torta e nossa chibata frita não vão ferver água mansa na chaleira daquele menino vagabundo.
+A nossa dor não serve pra dar gota limpa pra ninguém. O sofrimento se queima em si mesmo e acaba. Eu me recuso a forçar a lâmina no osso, porque o osso é meu. Eu me recuso a ser a poça suja que alimenta a barriga de menino de outro tempo. A minha agonia não é água de beber.
+O senhor prega que o sacrifício é necessário, que eu tenho que afundar a enxada. Eu afirmo o contrário. Eu deito a enxada no chão, viro as costas e deixo a valeta entupir. Nenhuma gota do meu suor de hoje tem obrigação de salvar o futuro.
+A brasa que queimou, queimou. E a cinza é seca, farta de silêncio.
+Eu não deixo sombra nem doce para os dentes de quem ainda não andou.
