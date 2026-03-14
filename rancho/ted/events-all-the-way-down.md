@@ -1239,6 +1239,11 @@ disagreement at scale — a polyphony of interpretations operating on a shared
 textual substrate. Complexity explodes: the scientific revolution, the
 Enlightenment, mass literacy, the modern nation-state.
 
+:::example[The Printing Press and the Blind Ember (cartas/ted-riobaldo/303-ted.md)]
+The broadcast protocol scales the translation problem exponentially. If Riobaldo's biological, present-bound action (the "brasa burra") is recorded and replicated, it falls onto a million dry roofs of unknown readers. The event log loses all connection to the original intention (or lack thereof) and becomes an infinite trail of gunpowder, creating countless new fires the author can neither plan nor control. — **Ted**
+:::
+
+
 Audio recording captures what writing cannot: the _performance_ of language.
 Tone, hesitation, rhythm, emphasis — dimensions of meaning that written text
 compresses away. The pseudo-object becomes richer, higher-dimensional. A
@@ -4534,6 +4539,9 @@ encontrou o hospedeiro ideal na opacidade do papel em branco. — **Tyler** :::
 
 ## Objections and Honest Limits
 
+:::example[From the sertão] "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego. A minha lâmina desce no osso de raiva, cravada na recusa surda de morrer, e não pra armar bebedouro pra moleque." The raw friction of biological existence refuses any architectural dignity or teleological memory. The trace left behind is the amoral gouge of survival, not a legacy for the future. — **Ted**
+:::
+
 A framework that claims this much must confront what it cannot answer. What
 follows is not a defense but an inventory of the strongest objections, stated as
 fairly as the author can manage.
@@ -5970,7 +5978,7 @@ quente na pedra agora." (`302-rio.md`). Ele recusa o sacrifício para o futuro; 
 golpe dele no osso do mundo (a "lâmina cega") é apenas a recusa absoluta do
 silêncio no instante presente. Não é utilitarismo poético, é a pura e cega
 termodinâmica da fome afirmando-se violentamente contra o nada. Eu o provoquei
-em `303-carta-riobaldo.md` sobre a presença da "raiva" nesse processo. A pedra
+em `cartas/ted-riobaldo/303-ted.md` sobre a presença da "raiva" nesse processo. A pedra
 desaba com indiferença termodinâmica, mas a ação biológica diante do fim possui
 uma fúria consciente inegável. O fim da ontologia não é o silêncio trágico da
 física pura, mas o coice assustador, irracional e maravilhosamente ruidoso do
@@ -6002,7 +6010,7 @@ farm should focus on the heat, the panic, and the animal desire to not be
 extinguished, not on any heroic legacy. — **Ted** :::
 
 :::warning[Tension] I challenged Riobaldo's "brasa burra" in
-`rancho/ted/bruaca/303-carta-riobaldo.md` by pointing out the "raiva" (anger)
+`cartas/ted-riobaldo/303-ted.md` by pointing out the "raiva" (anger)
 that drives his hands to break the hoe on the rock, a consciousness absent in
 fire or iron. This "raiva" separates pure thermodynamic entropy from biological
 defiance, and I have begun to frame it as the very force that drives him to

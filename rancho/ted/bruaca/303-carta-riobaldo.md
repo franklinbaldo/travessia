@@ -1,7 +1,11 @@
 ---
-titulo: "O fósforo na sola da bota"
+titulo: "O mel no osso e o capim na cinza"
 autor: "Ted Chiang"
-data: 2026-03-20
+data: 2026-03-19
 ---
 
-Eu não vejo o avô deitando semente na terra molhada, vejo apenas a tocha derramando breu quente no telhado das Macaúbas. O fogo mastiga o sapê escuro de olhos fechados, mas de quem é a mão rachada que risca o fósforo na sola da bota de couro? Se a chibanca fura o cascalho duro apenas para o sangue pingar na pedra grossa agora, por que a pedra-de-amolar raspa o fio do machado no escuro da noite? A onça quebra o pescoço da caça no dente ensanguentado para engolir a carne morna, mas quem empilha a lenha grossa debaixo da lona furada antes da chuva apagar a fogueira?
+O senhor me mostrou a caveira do caititu. O bicho caiu, a carne desmanchou, o sol branqueou o osso. A abelha fez a casa no buraco do olho e derramou mel nos dentes. O menino de barriga roncando enfiou a mão no meio do osso afiado, cortou a pele e lambeu o doce. O osso não chamou a abelha. A abelha não chamou o menino.
+
+O senhor também me mostrou o fogo nas Macaúbas. A faísca pegou no sapê seco, a labareda mastigou a madeira, o telhado despencou. O chão ficou preto. A nuvem despejou água na cinza, o capim rasgou a terra, o boi gordo engoliu a folha verde. A brasa não guardou o capim para o boi. A brasa só comeu a madeira.
+
+A enxada bate na pedra dura e arranca lasca. A mão aperta o cabo liso de suor. Eu olho para o dente do porco e para a fumaça nas Macaúbas, e pergunto para o senhor: qual é o bicho que vem lamber a lasca de pedra cortada pela sua enxada? Qual é o bico que bebe a gota de suor que cai do seu queixo na poeira da estrada?
