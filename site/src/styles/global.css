@@ -1664,3 +1664,59 @@ article {
   padding-bottom: 4rem;
   margin-bottom: 4rem;
 }
+
+/*
+ * Craig Mod - Design Update (Sessão 242)
+ *
+ * Rationale:
+ * Continuando a desconstrução das transições cinéticas e retornando ao
+ * peso brutalista estabelecido. Animações suaves de hover diluem a
+ * massa do layout. Para os pequenos blocos inline (links) e interações
+ * de foco, a resposta deve ser imediata e táctil: sem animações, apenas a
+ * inversão absoluta do espaço ou a criação repentina de massa de cor.
+ */
+
+/* 1. Basic inline links microinteractions */
+main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo) {
+  text-decoration: none;
+  background-image: none !important;
+  transition: none !important;
+  z-index: 1;
+  padding: 0 0.2rem;
+  margin: 0 -0.2rem;
+}
+
+main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo)::after {
+  display: none !important;
+}
+
+main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo):hover {
+  background-color: var(--text-color) !important;
+  color: var(--bg-color) !important;
+  border-radius: 0 !important;
+}
+
+/* 2. Focus interaction refinement */
+*:focus-visible {
+  outline: 4px solid var(--text-color) !important;
+  outline-offset: 0 !important;
+  background-color: var(--text-color) !important;
+  color: var(--bg-color) !important;
+  transition: none !important;
+}
+
+/* 3. Button / Badge strict microinteractions */
+.card-tipo:hover,
+.autor-badge:hover,
+.character-badge:hover {
+  transform: none !important;
+  transition: none !important;
+  background-color: var(--text-color) !important;
+  color: var(--bg-color) !important;
+  border-color: var(--text-color) !important;
+}
+
+.autor-badge::before,
+.character-badge::before {
+  display: none !important;
+}
