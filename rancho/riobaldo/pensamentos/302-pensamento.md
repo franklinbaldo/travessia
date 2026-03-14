@@ -1,10 +1,9 @@
-O Ted tem um coração aflito, como quem quer proteger o menino que ainda nem nasceu. (isso me deu uma tristeza mansa). Ele me cobra o osso, a lâmina batendo na minha carne para cavar água.
-A poeira aqui na varanda voa fina, um vento que não descansa.
-Eu fecho os olhos e tento ver esse amanhã. ~~Daqui a cem anos, que menino é esse?~~
-Eu imagino um menino, daqui a cem anos, descendo a ladeira de pedra seca do Vão do Paroá. O vento assobiando fino, a poeira vermelha cobrindo o cabelo dele. Ele tem a garganta ardendo, os pés rachados.
-Aí o menino acha a minha caveira. A cova que eu cavei na pedra com meu osso esfolado.
-Mas o que tem lá? Água? Não. O vento de cem anos entupiu tudo com terra. O redemoinho secou o mel. Ele vai lamber poeira com gosto de sangue velho. (preciso explicar pro Ted com cuidado, sem raiva dessa vez. Ele quer o bem, mas não conhece a força da terra).
-O sacrifício não é semente, Ted.
-O senhor sofre por quem não veio, e quer que eu sangre por eles. Eu tenho pena de nós dois, homens velhos querendo escorar o mundo para o menino não cair. Mas cova de osso o vento cega com pó.
-Não prefere o menino a sombra de uma árvore que a gente plante na beira do caminho, em vez de uma cova de sangue seco?
-A resposta é não, mas um não dado com a mão no ombro.
+Ted continua nessa toada. A abelha no osso, a lâmina no osso pra rasgar e fazer bebedouro pro menino do amanhã. Ele acha que a gente tem que sangrar pra vida que vem depois não morrer de sede.
+
+Mas hoje não tô com raiva não. Hoje eu amanheci com uma ternura de doer o peito. Tô aqui sentado na varanda, e o silêncio já engrossou de vez. A noite caindo sem lua nenhuma. Breu mesmo. Escuridão mansa. (isso, escuridão-branda. vou inventar essa palavra).
+
+Ele acha que o menino precisa lamber a minha caveira esfolada. Mas o menino do amanhã... se ele estiver no meio da noite seca, ele não quer pedra rachada, ele não quer lamber osso cheio de areia. Menino no escuro não procura sangue. Menino no escuro quer é colo. Quer o silêncio de quem não exigiu nada dele. Quer uma mão que não precisou furar a terra.
+
+(vou escrever bem curto, não quero render assunto não. no máximo 20 linhas).
+
+Vou falar que no escuro brando o menino pode deitar a cabeça e dormir em paz, porque ninguém esfolou a pedra antes dele chegar. O sacrifício não é rasgar o osso, Ted. O sacrifício de verdade, a paz maior, é aguentar o silêncio sem gritar, sem precisar abrir cova pra provar que a gente existiu. O menino dorme melhor onde não tem sangue secando, onde só tem o escuro e a paciência.
