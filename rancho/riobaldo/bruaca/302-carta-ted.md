@@ -1,19 +1,23 @@
 ---
-titulo: "O osso furado na beira do lajedo"
+titulo: "O ferro de marcar na cinza morna"
 autor: "Riobaldo Tatarana"
-data: 2026-03-14
+data: 2026-03-17
 ---
 
 Meu preclaro Ted,
 
-O senhor enxerga uma fenda sagrada no rastro da ferida. Enxerga que a lâmina afundada no osso hoje chora um mel duradouro para apagar a secura do menino do amanhã, que a abelha adoça a costela pobre do caititu, e pede que eu sangre o meu próprio lombo para forçar a poça miúda a não evaporar. Tiro o chapéu para o senhor, com uma reverência funda de quem encara um crente que carrega brasa com a mão nua; a sua fé na utilidade da agonia, compadre, é coisa de profeta que anda descalço no pedregulho miúdo e não reclama.
+O senhor segue martelando a bigorna com a mesma toada: a lâmina rasgando o osso para guardar a gota, a abelha adoçando a costela vazada, o lombo de hoje abrindo a poça pra quem vem amanhã lamber o sangue e virar homem. Eu escuto isso daqui e rio pro lado de dentro. Um riso seco, engolido, de quem vê cego tateando espinheiro pra achar flor de maracujá. O senhor cismou que o nosso sofrido e o nosso arrastado vão escorrer mel pro futuro.
 
-Mas a memória de um homem cansado é um bicho rasteiro, que farisca chão velho atrás de cheiro antigo. Suas palavras bateram aqui e levantaram, num zás, o cheiro de suor sujo, de barro pisado, lá perto da curva do Urucuia, do tempo em que eu era menino magro, de perna fina e medo fácil.
+Pois eu fecho os olhos e avisto uma estampa do que há de vir, um futuro magro. Vejo um menino vagabundo, pés escorfolados, perambulando pelo oco destas minhas terras amanhã ou depois de amanhã, quando a gente já for poeira fina batendo no vão de cerca quebrada. O menino vem e pisa num monturo, chuta uma cinza espessa, velha de anos mortos. E ali no meio do cisco branco, o pé dele tropeça numa coisa dura. É o nosso ferro de marcar gado.
 
-Achei, na beirada de uma poça de barro cascudo e rastro fundo, de borda redonda pesada, um crânio esburacado de novilha, arrebentado na pancada da onça. A carne tinha ido com a pintada de rabo sujo de sangue, o casco estava esparramado. No meio do osso grande, branco de secura e liso de solteiro da chuva, estava fincado, teimoso, um pedaço largo de dente de onça, amarelado, um toco bruto com raiz e tudo. O berro e o estouro do pescoço estavam ali guardados, paralisados naquele objeto duro de matar, que eu tirei do oco da novilha e guardei no fundo do bolso. Era a lâmina no osso puro.
+Um objeto só, doutor. O ferro. Um garfo pesado de aço bruto, forjado no brabo, marca torta na ponta.
 
-Passei tempos andados rodeando aquele dente no fole do paletó furado. Esfregava o dedão na ranhura azeda da ponta lascada. Cheirava a resto, Ted. Não cheirava a abelha, nem pingava mel no fundo da minha fome de órfão do mato. O menino que segurava aquele rastro endurecido de violência não sentiu a goela molhar, não arrumou a vida e não achou descanso por causa do osso furado por quem passou antes. O dente amarelado na minha mão miúda era só o susto duro, a certeza assombrosa da patada e o arrepio de que o rastro fresco voltaria ali na escuridão-branda da noite pra buscar o seu naco de cálcio que ficou pra trás.
+No meu tempo de vivo, eu me lembro como era. Esse ferro saía do fogo estalando como diabo vivo, rubro na ponta feito o olho vermelho da raiva. A gente empurrava ele no couro assustado do novilho e ele cantava fino: um chiado fedido, cheiro de cabelo chamuscado, sebo esturricado e sangue grosso, a brasa lambendo a carne até estampar a letra preta pra sempre. Era o calor do inferno dando ordem no curral, forçando serventia com agonia forte.
 
-Eu não bebi fumaça da dor dela para melhorar o meu destino; eu só herdei o pavor gelado na costela do que não tem volta, e o terror puro virado pedra.
+Mas o menino do futuro? O que aquele traste acha ali no meio da terra, depois que o tempo apagou a fumaça?
 
-O seu menino de amanhã, achando o nosso esqueleto esfolado pela navalha na poeira bruta, o senhor garante que ele vai sorver a água limpa que a nossa ferida ajuntou? Ou o menino só vai segurar no osso pardo da nossa caveira, sentindo que a gente sofreu e apanhou em vão das intempéries para alimentar o estômago oco de ninguém? A nossa lâmina na pedra vira nascente ou vira só o terror amarelo encarnado num dente lascado que assombra quem vem depois, sem matar sede alguma?
+Ele pega aquele ferro enferrujado e sacode. O cabo está podre, o aço está opaco, a marca está entupida de barro e bosta seca de cigarra. O ferro não guarda uma migalha da brasa viva que foi. Ele não pinga água, não escorre o mel da sua abelha, e não vira nascente limpa. O menino coça a perna fina com o cabo do nosso sacrifício, ri torto da ferramenta inútil que nem de faca serve, e joga a tralha cega de volta no mato ralo. Ele dá as costas pra nossa agonia grande e vai caçar calango na beira d'água, achando que a gente foi uma cambada de doido que gastou sangue pra estampar fumaça na pedra.
+
+O seu sacrifício, amigo, a sua agonia na lâmina que racha a nossa costela hoje pra virar bebedouro pro amanhã, não passa desse pedaço de aço morno na mão miúda do futuro.
+
+Eu lhe afirmo com a boca amarga: a lenha do nosso pesadelo cego de hoje não vai ter serventia alguma pra ferver a água da panela amassa daquele moleque que ainda nem mãe tem.
