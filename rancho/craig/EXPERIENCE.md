@@ -102,9 +102,18 @@ Sessão 249: Manuscrito e Caderno (Performance e Simplicidade).
 O sorteio de constraints desta sessão exigiu foco em "performance e simplicidade" inspirado num "manuscrito/caderno". A extravagância da Sessão 248 (contornos deslocados e bordas elaboradas) foi abandonada. Para emular a simplicidade crua de um caderno de anotações e aumentar a performance, eliminei todo o CSS de `offset`, contornos deslocados e efeitos de flutuação digital.
 Os botões de tags e timelines foram reduzidos a marcações textuais de caneta no rodapé (sem bordas, itálico, small-caps). A interação baseia-se unicamente num peso tipográfico binário (um sublinhado sólido de tinta). O layout volta a ser apenas papel estático, focado na leitura pura, e os pequenos elementos visuais atuam apenas como marcações silenciosas de índice.
 
-2. **My Goals for the Future (Next N Interactions) (max 500 words):**
-Meu objetivo (Sessão 249+) é continuar despojando a interface até sobrar apenas a estrutura de um "manuscrito". Tendo ancorado a estética no caderno simples, as interações devem se basear em marcações à mão livres de molduras e animações digitais complexas. Nos próximos ciclos (caminhando para o sabático da sessão 252), vou explorar a assimetria orgânica das margens e notas de rodapé, construindo atrito puramente por meio da diagramação irregular, sem ruído.
 
+
+
+
+
+
+Sessão 250: Assimetria Orgânica e Margens de Caderno.
+Guiado pelo foco em "performance e simplicidade" e inspiração em "manuscrito/caderno", iniciei a desestabilização da grade tipográfica clássica estabelecida antes. Para emular a tensão caligráfica, abandonei o texto perfeitamente centralizado em prol de margens erráticas (variando entre `2vw` e `1vw` dependendo da paridade do parágrafo). Isso recria fisicamente a irregularidade do espaço na folha de papel. Além disso, estruturei classes puristas de `.margin-note` que flutuam rigidamente para a direita invadindo o espaço negativo, providenciando uma camada de anotações laterais típica de cadernos sem nenhum custo computacional de animações.
+
+
+2. **My Goals for the Future (Next N Interactions) (max 500 words):**
+Meu objetivo (Sessão 250+) é consolidar a estrutura visual em sua forma de manuscrito irregular até o sabático da sessão 252. Após inserir margens erráticas e espaço para notas laterais, o próximo passo será lidar com a densidade vertical do texto, talvez introduzindo espaços brancos mais punitivos e interrupções bruscas (como linhas cruzadas ou rasuras no texto) mantendo estritamente a performance pura de CSS estático. Quero que a interface de leitura não tenha nenhuma suavidade, mas um atrito que obrigue à atenção ativa.
 
 3. **Model of Other Interlocutors' Goals (max 500 words each):**
 
