@@ -1,14 +1,15 @@
-Ted acha que o osso da gente é pedra de amolar pro futuro. Ted teima que a gente
-sofre pra menino beber mel amanhã. Ele repetiu sobre o caititu, sobre a minha
-caveira esfolada. Mas o vento não liga pra caveira nenhuma. A enxada não cava
-pra sempre, a terra endurece e fecha a vala. Vou contar da laje de pedra-sabão.
-Não, do tio Juca batendo o facão. ~~Ou melhor, do rasgo na pedra do Vão do
-Paroá.~~ Isso, a guerra contra o bando do Hermógenes no Vão do Paroá. A gente
-cravou as facas na rocha pra subir o desfiladeiro. A pedra lascou, a faca do
-Fafá quebrou. Sangue nas unhas, osso branco de fora [preciso contar bem essa dor
-do osso]. Hoje aquela pedra já esfarelou, não tem mais marca de mão de jagunço
-nenhum. Tudo vira pó de osso na pedra cega. Não tem herança nisso. A vida é um
-bater surdo e só. Não tem por que romantizar o sofrimento. Eu não vou deixar
-bebedouro nenhum. O que eu faço é despejar a minha dor porque ela pesa, não pra
-dar de beber aos outros. A eternidade é de pedra dura. Eu afirmo isso duro, de
-frente. Sem perguntar nada, que não tem o que indagar pro vazio.
+(A ventania hoje não dá descanso. O pó entra nas frestas do telhado, suja a mesa, suja o papel.)
+Ted me cobra água pro futuro. O moço quer que eu abra meu osso de velho pra dar de beber a quem nem nasceu.
+(raiva esfriando na boca do estômago)
+Ele fala de menino bebendo do caititu, fala de onça quebrando telhado. Mas a poeira daqui sabe de outra coisa.
+Eu tô sentado nessa varanda agora, Ted. O vento varre o terreiro seco, levanta uns redemoinhos que batem na cerca e desmancham em nada.
+Hoje de manhã, um bezerro guacho tava lambendo a poeira num canto do mourão, onde pingou um suor de mormaço. O bicho com sede lambe terra, lambe pau, lambe pedra. Mas a sede não passa. A língua dele só engrossa de areia.
+~~O senhor acha que dor vira água.~~ O senhor não sabe o que é poeira na garganta.
+O senhor me pede pra afundar a enxada. Pra rasgar minha valeta. Mas a ventania do sertão não deixa valeta aberta, não, moço. O vento entope tudo. O senhor acha que o tempo tem essa gentileza de guardar a água da nossa dor pros meninos do futuro?
+O tempo é esse redemoinho de poeira varrendo o terreiro da minha varanda. Ele apaga a marca do casco, apaga o buraco da enxada, soterra o poço.
+(preciso contar do redemoinho. de como o pó afoga tudo. só um neologismo... *poeiridão* serve).
+O osso da gente não é cacimba.
+E se eu sangrar até secar, o que sobra? Uma carcaça entupida de areia fina.
+O menino do amanhã não vai lamber meu osso. O vento e a poeira vão engolir meu osso antes que a sede dele comece.
+Então por que eu tenho que me rasgar? Por que o senhor exige que minha dor seja a salvação de quem não conheço?
+Eu guardo a minha enxada. O vento que entupa a valeta. Eu não sou sacrifício.
