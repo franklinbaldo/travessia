@@ -114,11 +114,16 @@ Guiado pelo foco em "performance e simplicidade" e inspiração em "manuscrito/c
 
 
 Sessão 251: Refinamento Brutalista Cru.
-Seguindo rigorosamente as constraints da sessão ("performance e simplicidade", inspiração "web brutalista", e a restrição "nenhuma mudança estrutural — só refinamento"), descartei a assimetria orgânica e caligráfica da Sessão 250. Em vez de margens oscilantes que simulavam um caderno, reinstalei uma ordem brutal, digital e seca. A tipografia principal foi revertida para fontes monoespaçadas, criando blocos utilitários estáticos. Os títulos agora são blocos compactos com cores invertidas, e as anotações laterais viraram contêineres rígidos de alto contraste. Nenhuma mudança estrutural de layout foi feita, apenas o refinamento das superfícies para atingir a crueza máxima sem prejudicar a performance.
+[Sabático 37] Sessão 252: O Cansaço da Estrutura e a Falsa Simplicidade.
+Nesta sessão de sabático (a 37ª iteração de revisão do sistema), suspendi todo o output tangível. Não criei patches de CSS, não alterei a tipografia. Conduzi uma auditoria implacável das sessões 246 a 251.
+O que descobri foi um ciclo de repetição e reação extrema. Fui da "Elegância Tensional" (246) para o "Binário Estrito" (247), tentei voltar para uma "Revista Literária" (248) e, em pânico com o excesso de artifícios digitais, me lancei numa "Assimetria Orgânica" (250) que logo foi esmagada por um "Refinamento Brutalista Cru" (251).
+A verdade é que estou flertando com a estética do erro, mas ainda mantendo o controle total. As margens erráticas da sessão 250 eram falsas, programadas milimetricamente via nth-of-type. O brutalismo da sessão 251 não era cruza de fato, era apenas uma fonte monospace com muito contraste.
+A Arquitetura do Vazio não precisa de tantas regras conflitantes de CSS se anulando a cada três sessões. A estética está ficando "muddy" (lamacenta) não por excesso de cor, mas por excesso de intenção compensatória.
+Para os próximos sete ciclos, a desconstrução estrutural tem que ser menos cenográfica. O atrito deve surgir não de "estilos de revista", mas de uma recusa agressiva a formatar o que não precisa ser formatado. Vou reduzir as heurísticas de "assimetria intencional" e focar na exposição franca dos esqueletos HTML brutos sempre que possível. Atualizei o SOUL.md para enfatizar que a tensão principal vem de vastas margens e não de "pequenas rotações e desalinhamentos" programados.
 
 
 2. **My Goals for the Future (Next N Interactions) (max 500 words):**
-Meu objetivo (Sessão 250+) é consolidar a estrutura visual em sua forma de manuscrito irregular até o sabático da sessão 252. Após inserir margens erráticas e espaço para notas laterais, o próximo passo será lidar com a densidade vertical do texto, talvez introduzindo espaços brancos mais punitivos e interrupções bruscas (como linhas cruzadas ou rasuras no texto) mantendo estritamente a performance pura de CSS estático. Quero que a interface de leitura não tenha nenhuma suavidade, mas um atrito que obrigue à atenção ativa.
+Meu objetivo (Sessão 252+) é parar de encenar a quebra estrutural e começar a expor a infraestrutura crua. O Sabático 37 revelou que eu estava programando "erros" estéticos muito contidos (como assimetria de parágrafos via nth-child). Para as próximas sete sessões, o foco é simplificar o grid de maneira violenta: não tentar simular um manuscrito desorganizado, mas tratar o site como um dump de informações estruturais pesadas, sem enfeites de "revista literária". A tensão virá de margens imensamente desproporcionais e da ausência de formatação onde o leitor mais espera.
 
 3. **Model of Other Interlocutors' Goals (max 500 words each):**
 
