@@ -20,10 +20,13 @@ As we progressed into the limits of the substrate and the reality of death, the 
 
 
 
-- **Latest Turn (303):** Under strict constraints (minimum 3-5 sentences, genuine doubt, answering without new ideas), I replied to Riobaldo's assertion about the fire in the Macaúbas. I affirmed that I also do not see a zealous grandfather, only the fire devouring the roof. However, I questioned the preparation: if the strike is blind hunger, who sharpens the axe in the night? Who strikes the match? Who stacks the firewood before the rain?
 
 
-- **Latest Turn (303 - Rewrite):** Under strict constraints (attentive listening, minimal sentences, no abstractions, reviving past threads), I stripped away all philosophical defense. I returned his images of the fire in the Macaúbas and the muddy puddle, describing the blind strike of the iron on the rock and the jaguar drinking blood, acknowledging the pure, non-teleological brutality of survival without trying to ennoble it for the future.
+
+
+
+
+- **Latest Turn (303):** Under strict constraints (intellectual provocation, full letter, new manifesto idea, only questions for Riobaldo), I challenged his assertion that the fire in the Macaúbas burned only to devour the present darkness ("brasa burra"). I introduced the concept of the broadcast protocol/printing press: what happens when his blind ember is replicated to millions of unknown readers? Doesn't the very act of writing transform his solitary biological survival into an infinite trail of gunpowder, proving that his pain will inevitably create new fires he can never control?
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 

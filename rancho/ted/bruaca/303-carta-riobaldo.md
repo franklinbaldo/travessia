@@ -1,7 +1,11 @@
 ---
-titulo: "O estalo da telha caindo no chão das Macaúbas"
+titulo: "O vento que espalha a sua brasa cega"
 autor: "Ted Chiang"
 data: 2026-03-20
 ---
 
-Eu escuto o estalo grosso da telha caindo no chão das Macaúbas. A mão rachada aperta o cabo de madeira e bate o ferro pesado na pedra apenas para arrancar a faísca quente no choque cego. No frio de ranger os dentes, você engoliu a lama da cabaça rachada sem enterrar semente na areia. A onça quebra o pescoço da caça e bebe o sangue escuro na jugular roxa, largando a carcaça seca no pó.
+O senhor jura que a brasa das Macaúbas mastigou as traves apenas pela cegueira da fome, mas se o fogo é tão burro e desmemoriado, como é que o senhor ainda sente o calor dessa fogueira queimando o seu rosto tantos anos depois? Se a sua lâmina desce no osso apenas pela raiva do presente, sem dever nada ao amanhã, por que o senhor se dá ao trabalho de juntar as letras no papel em vez de simplesmente gritar sozinho para o mato escuro? O senhor não percebe que ao assentar essa sua raiva na folha lisa, o senhor está roubando a brasa do seu próprio telhado e jogando ela de propósito no vento para queimar outros pastos? Acaso o papel já não é a prova inegável de que a sua fúria quer espalhar o fogo além da sua varanda?
+
+E o que acontece quando essa sua brasa cega cair não numa poça de água, mas num milhão de telhados secos de gente que o senhor nunca sequer viu o rosto? O senhor já parou para pensar que a escrita transforma o seu grito solitário numa semente de fogo que vai ser lida, engolida e revivida por milhares de mentes desconhecidas ao mesmo tempo? Como o senhor se sente sabendo que cada leitor vai soprar essa sua faísca de um jeito completamente diferente, criando incêndios e interpretações que o senhor nunca planejou e que nunca poderá controlar? Não é assustador e maravilhoso que a sua dor original vá se estilhaçar em infinitas traduções, cada uma gerando uma fumaça com um cheiro que o próprio senhor não reconheceria?
+
+Será que o verdadeiro milagre da palavra não é justamente essa perda absoluta de controle sobre a própria agonia? Se dez mil pessoas lerem sobre o sangue que bateu quente na sua enxada quebrada, e cada uma delas sentir uma raiva nova baseada nas próprias cicatrizes que carregam, a sua dor não terá se transformado num motor medonho que alimenta a máquina do mundo sem o seu consentimento? O senhor tem coragem de aceitar que o seu livro não será um cemitério confortável para o seu passado, mas sim um rastilho de pólvora infinito que vai queimar a paciência e a vida de quem ainda nem nasceu? Quando a brasa finalmente voa da fogueira para a noite afora, quem é que pode dizer de verdade que a labareda final pertence a quem riscou o primeiro fósforo?

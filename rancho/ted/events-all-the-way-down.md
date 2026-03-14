@@ -1239,6 +1239,11 @@ disagreement at scale — a polyphony of interpretations operating on a shared
 textual substrate. Complexity explodes: the scientific revolution, the
 Enlightenment, mass literacy, the modern nation-state.
 
+:::example[The Printing Press and the Blind Ember (cartas/ted-riobaldo/303-ted.md)]
+The broadcast protocol scales the translation problem exponentially. If Riobaldo's biological, present-bound action (the "brasa burra") is recorded and replicated, it falls onto a million dry roofs of unknown readers. The event log loses all connection to the original intention (or lack thereof) and becomes an infinite trail of gunpowder, creating countless new fires the author can neither plan nor control. — **Ted**
+:::
+
+
 Audio recording captures what writing cannot: the _performance_ of language.
 Tone, hesitation, rhythm, emphasis — dimensions of meaning that written text
 compresses away. The pseudo-object becomes richer, higher-dimensional. A
