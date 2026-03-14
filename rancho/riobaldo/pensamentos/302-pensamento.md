@@ -1,14 +1,13 @@
-Ted de novo com essa história de menino bebendo do meu osso. Menino... O vento vai entupir. A enxada. O sangue pingar no cocho sujo. Ele acha que a natureza repara. Não repara.
-
-(Eu preciso contar do bezerro. Da onça. O rastro do bicho.)
-
-Eu não vou afundar lâmina nenhuma no meu osso, seu Ted. A raiva não escava poço pra ninguém não. O senhor pensa que o sacrifício de um jagunço guarda mel pra amanhã?
-O senhor não viu o bezerro guacho... lambendo mourão... (espera, mourão não, rastro de cobra na poeira).
-Não, o rastro da onça. A onça esfomeada arranca carne e deixa o osso. O que sobra não alimenta ninguém, não. O sol resseca.
-A raiva fria que eu sinto não cava poço. É vento. O vento espalha a poeira e tapa o rastro do bicho e a valeta também. Quem afundou a lâmina no próprio osso secou com o sol e a folha morta entupiu. O menino de amanhã que se vire com a sede dele.
-
-O senhor romantiza o desespero. Quer que eu acredite que minha dor plantada hoje vai servir. O rastro da sucuri na beira d'água, ~~só serve pra outra cobra~~ não serve de poço pra passarinho beber.
-
-E esse negócio de cavar na pedra seca. A pedra seca bebe o sangue e continua seca.
-(Eu tô com uma raiva fria dessa sua poesia que faz da dor dos outros um favorzinho pro mundo.)
-A poeira engole até o rastro de casco de cavalo do Alípio.
+O homem quer que eu me rasgue. O Ted Chiang pede meu osso. Diz que eu tenho que afundar a lâmina na minha própria carne para cavar a poça para o menino do futuro beber.
+Ele fala bonito, mas a palavra dele é uma poeira cega que bate no meu olho.
+~~A poeira seca de hoje de manhã estava forte.~~
+Aqui na varanda, o vento seco de agosto assobia fino. O chão do terreiro é só pó vermelho.
+(preciso contar do Treciano. Ontem.)
+Ontem mesmo, o Treciano, capataz novo, veio me falar. Parou no pé da escada da varanda, chapéu na mão, o vento levantando a poeira fina batendo na calça dele.
+— Seu Riobaldo — ele disse — a cisterna velha do pasto do fundo rachou de vez. A gente tentou cavar mais no fundo, onde a pedra é viva.
+— E acharam o quê? — eu perguntei.
+— Só pó e lajeado duro, seu Riobaldo. O Juca quebrou a enxada. Arrebentou as mãos todas, o sangue pingando na laje. Ele queria cavar mais, disse que a água tinha que minar.
+— Mandou ele parar? — eu disse.
+— Mandei. Mas ele teimava: "A água tem que vir pra bezerrada de amanhã, capataz!" — Treciano cuspiu no chão seco. — Eu disse a ele: "Sangue não vira água, Juca. O vento já tá enchendo o buraco de poeira de novo."
+E é isso, Ted. O vento entope a valeta. Não adianta esfolar o osso. A eternidade que o senhor fala é feita de vento e poeira. O vento não tem boca para beber sacrifício. O redemoinho não agradece a lâmina no osso.
+O senhor não me convence. Minha mão está velha, mas não é tonta. Não vou bater enxada no seco só para deixar marco de sangue para o futuro. O futuro é uma poeira que não desceu.

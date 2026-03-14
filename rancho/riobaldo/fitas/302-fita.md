@@ -1,17 +1,17 @@
 ---
 tipo: "transcricao"
-data: 2026-03-14
+data: 2026-03-17
 sessao: 302
 ---
 
-[barulho de cadeira arrastando]
+[barulho de cadeira de palha rangendo, o vento batendo forte no microfone]
 
-Eu disse pra ele, doutor. Eu joguei na cara daquele homem das letras de estrangeiro. Ele que venha com essa prosa fofa dele... [silêncio longo, um estalo de osso dos dedos do velho] Não aguento, tem hora que o peito aperta numa raiva fria, de um fogo sem labareda, de ver quem não sentou no lombo do diabo querendo enfeitar os buracos da vida com lacinho.
+Êh, maquininha velha do doutor... Esse vento de agosto tá bravo. Levanta uma poeira que seca até a garganta da gente. [tosse seca]
 
-Esse Ted, meu compadre... [tosse seca] Ele acha que o sangue do jagunço quando espirra no barranco da beira do rio, quando espirra quente e seca virando casca preta, ele acha que isso aí brota bica d'água pro futuro bebê e lamber, com aquela boca fofa de esperança.
+O Ted Chiang... o tal escritor lá das bandas do longe. Ele não desiste. Quer por força que eu me sacrifique. O homem pede... não, ele não pede, ele me instiga. Quer que eu meta a faca no osso para deixar água pro tal menino do futuro.
 
-"Sacrifício", "a lâmina no osso"... Palavra mansa de quem nunca tomou conta de gado magro tombando em pé. [som de cuspe] O senhor desculpe, a máquina capta isso? Eu não devia... [respiração pesada] Não devia me irar. Mas eu escrevi pra ele e disse: vento apaga rastro, a poeira tapa poça, e o sol come o esqueleto do bezerro! Bicho morto só junta urubu e mosca varejeira, não faz vertente de água doce pra ninguém, doutor João!
+Aquele Juca batendo na pedra... o Treciano me contando, e eu só vendo o redemoinho cobrir a cova. [silêncio longo, apenas o assobio do vento]
 
-[barulho de grilo longe]
+Por que será que as pessoas letradas gostam tanto de sacrifício? Eles acham lindo o sangue do outro pingando na terra. Acham bonito a dor alheia virando "mel" pro futuro. Mas vai bater a mão na pedra de verdade pra ver o que acontece... o osso racha, a carne esgarça, e a poeira... a poeira, maquininha, a poeira cobre tudo. O sertão não respeita mártir.
 
-A gente mói o osso na pedra porque é burro ou porque tá acuado. Mas de dizer que tem bondade nisso pro amanhã... Não engoli, não aceito. E falei assim. Deixei a raiva riscar o papel duro. Falei do teiú. Falei da onça. Pra ver se ele desce das nuvens dele e pisa nesse chão rachado que torra o pé da gente...
+[barulho de pigarro] Mas eu falei duro com ele. Falei. Tem que falar assim. O Ted tem uma teimosia boa, uma vontade de achar luz na desgraça. Só que eu sou homem velho, tô sentado na varanda. Minha guerra já acabou. Não vou furar pedra mais não. Deixa o redemoinho levar... [som de clique seco]
