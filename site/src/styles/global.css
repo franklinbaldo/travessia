@@ -2,20 +2,23 @@
    Travessia — O Arquivo e o Sertão
    Um livro aberto sobre uma mesa de fazenda.
    =========================== */
+/*
+ * Craig Mod - Design Update (Sessão 244)
+ * Brutalist primary colors
+ */
 :root {
-  /* Raw Notebook Contrast - High Contrast Ink on Warm Paper without Textures */
-  --bg-color: #fcfbf9; /* Warm stark white, like raw bleached paper */
-  --text-color: #1a1a1a; /* Deep charcoal ink, not pure digital black */
-  --accent-color: #d92b00; /* Red marker/pen emphasis */
-  --secondary-color: #0044cc; /* Blue pen annotations */
-  --divider-color: #1a1a1a;
-  --meta-color: #595959; /* Pencil lead */
+  --bg-color: #ffffff;
+  --text-color: #000000;
+  --accent-color: #0000ff;
+  --secondary-color: #ff0000;
+  --divider-color: #000000;
+  --meta-color: #000000;
   --noise-op: 0.05;
-  --sand-bg: #f4f2ea;
-  --water-bg: #eae6db;
-  --water-border: #cccccc;
-  --progress-start: #d92b00;
-  --progress-end: #1a1a1a;
+  --sand-bg: #e0e0e0;
+  --water-bg: #cccccc;
+  --water-border: #000000;
+  --progress-start: #0000ff;
+  --progress-end: #000000;
   --font-body: "Cormorant Garamond", "Times New Roman", serif;
   --font-ted: "Courier New", Courier, monospace;
   --font-meta: "Courier New", Courier, monospace;
@@ -23,20 +26,20 @@
   --body-size: 20px;
   --body-lh: 1.6;
 }
+
 [data-theme="dark"] {
-  /* Reversed Raw Notebook - Midnight Ink */
-  --bg-color: #111111; /* Deepest warm charcoal */
-  --text-color: #f0eee6; /* Chalky white/warm silver */
-  --accent-color: #ff4d1a; /* Bright neon orange marker */
-  --secondary-color: #3388ff; /* Electric blue pen */
-  --divider-color: #f0eee6;
-  --meta-color: #a6a6a6; /* Silver pencil */
+  --bg-color: #000000;
+  --text-color: #ffffff;
+  --accent-color: #0000ff;
+  --secondary-color: #ff0000;
+  --divider-color: #ffffff;
+  --meta-color: #ffffff;
   --noise-op: 0.05;
-  --sand-bg: #1a1917;
-  --water-bg: #24221f;
-  --water-border: #404040;
-  --progress-start: #ff4d1a;
-  --progress-end: #f0eee6;
+  --sand-bg: #1a1a1a;
+  --water-bg: #333333;
+  --water-border: #ffffff;
+  --progress-start: #0000ff;
+  --progress-end: #ffffff;
 }
 /* === Reset === */
 *,
@@ -1644,19 +1647,33 @@ main p:first-of-type {
   margin-top: 3rem;
 }
 
-/* Blockquotes as elegant inset blocks */
+/*
+ * Refinando o blockquote massivo.
+ * Mantemos o bloco geométrico, mas em contraste bruto.
+ */
 main blockquote {
     font-size: 1.35rem;
     line-height: 1.5;
     margin: 3rem auto;
     font-style: italic;
     font-weight: 400;
-    color: var(--text-color);
-    border-left: 1px solid var(--text-color); /* Delicate rule instead of heavy marker */
-    padding: 1rem 2rem;
     text-align: left;
     max-width: 55ch;
-    background: transparent;
+    padding: 1rem 2rem;
+    background-color: var(--text-color);
+    color: var(--bg-color);
+    border-left: 10px solid var(--accent-color);
+    box-shadow: 10px 10px 0 var(--accent-color);
+}
+[data-theme="dark"] main blockquote {
+    color: var(--bg-color);
+}
+
+main blockquote p {
+    color: var(--bg-color);
+}
+[data-theme="dark"] main blockquote p {
+    color: var(--bg-color);
 }
 /* === Brutal Articles === */
 article {
