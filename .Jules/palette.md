@@ -48,3 +48,8 @@ descriptive `aria-label` attributes (like "Navegação principal" or "Navegaçã
 postagem") to distinguish multiple `<nav>` landmarks. Furthermore, use
 `rel="prev"` and `rel="next"` on pagination links to explicitly define their
 sequential relationship for assistive technologies.
+
+## 2026-03-14 - Theme Toggle Button ARIA Pressed State
+
+**Learning:** When using a button element to toggle a global state like a light/dark theme, it acts as a boolean switch. Screen readers need to know its current status beyond just the `aria-label` "Alternar tema" (Toggle theme). Using `aria-pressed` provides immediate feedback on the current active state of the button.
+**Action:** For standalone state-toggling buttons (like theme switches), initialize `aria-pressed` correctly based on the current state on load, and dynamically synchronize the `aria-pressed` attribute when the state changes.
