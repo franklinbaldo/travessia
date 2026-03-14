@@ -1591,67 +1591,72 @@ main
   border-color: var(--accent-color) !important;
   transform: scale(1.1); /* Bold contemporary magazine emphasis */
 }
-/* === Aggressive Asymmetry: Raw Notebook Typographic Spacing === */
+/* === Classic Print Typographic Spacing === */
+/* Focusing on typography, spacing, negative space, and a classic printed book inspiration for the reading page. */
 main p {
-  margin-bottom: 2rem;
-  line-height: 1.4; /* Slightly tighter, hurried handwriting feel */
-  font-size: 1.35rem; /* Larger, raw scribbles */
-  font-family: var(--font-body);
+  margin-bottom: 0; /* Classic print uses text-indent, not bottom margins */
+  line-height: 1.65; /* Elegant, breathable rhythm */
+  font-size: 1.25rem; /* Classic reading size */
+  font-family: var(--font-body); /* Should be Cormorant Garamond */
   font-weight: 400;
-  max-width: 55ch; /* Narrower, offset block */
-  margin-left: 2rem; /* Breaking the center alignment */
+  max-width: 65ch; /* Optimal classic measure */
+  margin-left: auto;
   margin-right: auto;
-  text-align: left; /* Ragged right like a notebook */
-  letter-spacing: -0.01em;
+  text-align: justify; /* Justified text for the blocky print feel */
+  hyphens: auto; /* Proper hyphenation for justified text */
+  letter-spacing: normal;
   word-break: normal;
-  border-left: 3px solid var(--accent-color); /* Marginalia marker line */
-  padding-left: 1.5rem;
+  border-left: none; /* No more chaotic notebook borders */
+  padding-left: 0;
   position: relative;
+  color: var(--text-color);
 }
-/* Alternating jagged margins to destroy the "polite book" symmetry */
-main p:nth-of-type(even) {
-  margin-left: 4rem;
-  border-left-color: var(--secondary-color); /* Alternating pen colors */
-  max-width: 60ch;
+
+/* Classic paragraph indentation, except for the first one */
+main p + p {
+  text-indent: 2rem;
 }
+
+/* Remove alternating jagged margins */
+main p:nth-of-type(even),
 main p:nth-of-type(3n) {
-  margin-left: 1rem;
+  margin-left: auto;
+  margin-right: auto;
   border-left: none;
+  max-width: 65ch;
   padding-left: 0;
 }
-main p + p {
-  text-indent: 0; /* No neat indents */
-}
-/* Huge chaotic drop cap */
+
+/* Elegant drop cap for the first paragraph to anchor the text block */
 main article p:first-of-type::first-letter, main > div > p:first-of-type::first-letter {
-  font-size: 5em;
-  line-height: 0.6;
+  font-size: 4.5em;
+  line-height: 0.8;
   float: left;
-  margin-right: 0.15em;
-  margin-top: 0.1em;
-  color: var(--accent-color);
+  margin-right: 0.1em;
+  margin-top: -0.1em;
+  color: var(--text-color); /* Restrained color, relying on size and weight for tension */
   font-weight: 700;
-  font-style: italic;
+  font-style: normal;
   font-family: var(--font-body);
 }
+
 main p:first-of-type {
   margin-top: 3rem;
-  margin-left: 0; /* Starts grounded, then drifts */
-  border-left: none;
-  padding-left: 0;
 }
+
+/* Blockquotes as elegant inset blocks */
 main blockquote {
-    font-size: 1.5rem;
-    line-height: 1.3;
-    margin: 4rem 1rem 4rem 4rem; /* Asymmetrical placement */
+    font-size: 1.35rem;
+    line-height: 1.5;
+    margin: 3rem auto;
     font-style: italic;
-    font-weight: 700;
-    color: var(--secondary-color); /* Blue pen for quotes */
-    border-left: 6px solid var(--secondary-color); /* Heavy blue marker line */
+    font-weight: 400;
+    color: var(--text-color);
+    border-left: 1px solid var(--text-color); /* Delicate rule instead of heavy marker */
     padding: 1rem 2rem;
     text-align: left;
-    max-width: 45ch;
-    background: var(--sand-bg);
+    max-width: 55ch;
+    background: transparent;
 }
 /* === Brutal Articles === */
 article {
