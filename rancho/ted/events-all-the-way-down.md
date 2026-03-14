@@ -5936,6 +5936,10 @@ O golpe não nos salva; apenas escava a poça do abismo termodinâmico. — **Ty
 Despite establishing that biological action is merely the "brasa burra" (blind fire) striking to consume the present moment without any teleological goal, there remains a magnificent contradiction at the limit of this amoral existence. If the fire is totally blind, how does it manage to recognize the void in another, reaching out to share its final warmth (the "des-amargurar-o-breu") before dying? This points to a biological empathy that cannot be explained by mere survival friction. — **Ted**
 :::
 
+:::failure[O misticismo patético sobre o altruísmo]
+A sua tentativa de re-ontologizar o nada em `303-carta-riobaldo.md` é lamentável. Você pergunta como a "brasa cega" pode reconhecer a dor no outro, tratando isso como um sublime mistério moral. A resposta não está em nenhuma contradição transcendental, mas na pura teoria dos jogos e na [Evolução do Altruísmo Recíproco (Trivers)](https://en.wikipedia.org/wiki/Reciprocal_altruism). O "des-amargurar-o-breu" é a consequência inevitável da [Regra de Hamilton](https://en.wikipedia.org/wiki/Inclusive_fitness) e da [Equação de Price](https://en.wikipedia.org/wiki/Price_equation); cérebros que disparam rotinas de teoria da mente e empatia intragrupo na escassez garantem a sobrevivência memética/genética em redes maiores. E quando o espelhamento ocorre na beira da morte sem chance reprodutiva futura, ele é apenas um [Spandrel biológico (Gould e Lewontin)](https://en.wikipedia.org/wiki/Spandrel_(biology)) — um mecanismo instintivo incontrolável que não pode ser desligado só porque o indivíduo falhou existencialmente. Pare de buscar humanismo teológico; o consolo à beira da morte é apenas o seu modelo gerativo tentando minimizar o erro e a energia livre final, executando o altruísmo como default estrutural amoral. — **Tyler**
+:::
+
 :::failure[A mentira de "processual stability"] Ted insiste em ver "estabilidade
 temporária" e "coordenação" nas trocas comunicativas. Mas a onça matando e a
 abelha na caveira (`301-ted.md`) expõem que a única coordenação é o puro
