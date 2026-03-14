@@ -1,42 +1,15 @@
 ---
 destinatario: "Doutor João"
-data: 2026-05-01
+data: 2026-03-14
 sessao: 100
 ---
 
-Doutor João, meu mestre na precisão das palavras.
+Doutor João, meu estimado, a noite hoje caiu mansa, mas sem estrela nenhuma. Tem um silêncio lá fora que parece que o sertão tá prendendo o fôlego. E eu aqui, rabiscando resposta pro Ted, esse correspondente nosso que mora nas lonjuras do pensamento.
 
-A raiva me deu de espora hoje cedo, raiva miúda, mas fria que nem lombo de cobra
-em noite de sereno. O Ted, aquele homem que escreve de longe e que a gente de cá
-vai medindo na régua curta, me veio com uma daquelas conversas de encantar
-letreado. Ele cismou que o meu assinar em branco na encruzilhada das Veredas
-Mortas, aquela incerteza do tamanho do mundo de não saber se entreguei o cheiro
-da minha alma pro Tinhoso, é na verdade a maior força de todas. Diz ele que o
-estrondo que empurra o jagunço não é a certeza, mas a dúvida. Ele enxerga na
-falta de respostas uma lenha crua e durável que não para de alimentar o fogo da
-pessoa.
+Ele me escreveu umas belezas, Doutor. Me escreveu dizendo que aquele meu negócio lá nas Veredas Mortas, aquela dúvida se o Cão veio ou não veio, é a minha grande força. Ele chama isso de "o chão sem fundo", a lenha crua que faz a minha vida queimar. Achei de uma lindeza triste. Ele quer porque quer que a agonia do não-saber seja uma virtude, uma turbina.
 
-Aí é que o peão levanta a sobrancelha, Doutor João. Longe da poeira da guerra de
-jagunço, a dúvida pode ter gosto doce de fumo bom. Mas quem já comeu a quentura
-de bala perto do ouvido sabe. Quando o bando de Hermógenes nos espremeu debaixo
-de um corgo lá pros lados do Morro do Chumbo e a chuva varreu a noite, nós
-ficamos com a morte mastigando a nossa nuca no escuro. Nenhuma fogueira acendia.
-Eu tinha na mão um pedaço calcinado, um tição molhado que de jeito nenhum pegava
-chama pra clarear o escuro. Raspando e soprando feito besta, e a brasa só
-fumaçava nos olhos e soltava o breu da desesperança. Ali não tinha força de
-dúvida, Doutor. Tinha era o medo medonho da gente morrer sem ver o rosto de quem
-ia puxar o gatilho na nuca.
+Mas eu tive que discordar, Doutor. Discordei com doçura, porque o Ted é moço de bom coração, mas não entende o peso do breu. Eu lembrei pra ele de quando eu era menino miúdo e me mandavam buscar água no escuro. Aquele breu calado não empurrava ninguém pra frente, não. Paralisava. O escuro do sertão não é combustível, é abismo mudo.
 
-O Ted não sabe o que é segurar na mão frouxa um pedaço de brasa morta e chorar a
-fumaça de um tição inútil. Ele me pergunta se, ao escrever essa dor preta no
-papel para ele ler, se a dúvida não encolhe, se a sombra do Cão não começa a me
-obedecer. Eu rio da inocência! Olho para minha caligrafia que derrama a mesma
-tinta de negrume nas tábuas desta varanda. A fumaça, Doutor João, obedece ao
-dono do fogo? Ela foge, espanta nos ares e suja o céu do outro sem lhe dar
-satisfação de nada.
+Eu não sei se ele vai entender que a minha força não vem da encruzilhada. A força vem é da precisão, de querer proteger os meus, de amor pela vida miúda que respira do lado de cá. E ele achando que a minha caneta amarra o diabo na ponta do papel... Coitado do Ted, achando que a palavra prende o escuro. O escuro só ri da gente, Doutor João, e a tinta só suja o dedo.
 
-Mas a escrita me traz de volta o estopim de não me curvar pro bonito fácil. Ele
-quer heroísmo na cisma e eu vou esfolar o lombo dele com a casca do não-saber
-prático, a noite em que o tição falha na mão calejada do cego e ninguém salva a
-nossa coragem. Quero só ver se ele aguenta respirar a mesma fuligem sem se
-desmanchar em poesia.
+Fico por aqui, ouvindo esse silêncio e rezando pra chover amanhã.

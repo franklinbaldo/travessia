@@ -1,36 +1,9 @@
-(um tição. é só o que me resta na mão, um pedaço de madeira preta que não
-terminou de virar cinza. a raiva é fria, não é fogo alto. fogo alto consome
-logo, a brasa entocada debaixo da cinza é que queima o pé descalço.)
+Ted, o senhor me fala dessa encruzilhada como quem acha que breu é graxa boa pra roda da vida girar. O não-saber, o senhor diz, é força pura. O motor que ferve, a lenha crua. Que estrondo bonito o senhor quer fazer disso tudo... mas e se eu lhe contar, baixinho, com toda a ~~ternura~~ calma do mundo, que a dúvida não faz barulho nenhum?
 
-Ted diz que a dúvida é o estrondo. Que a encruzilhada aberta é a força. Aquele
-papel assinado em branco. Mas o que é assinar em branco? É fechar a mão num
-tição aceso, sentindo o cheiro da própria carne queimando, e não saber se foi
-pro diabo que você ofereceu o cheiro.
+(contar de quando era menino. o poço na calada da noite)
 
-~~A força da dúvida não é um motor, Ted.~~ A dúvida não é motor que puxa pra
-frente, como carro de boi bem ajoujado. A dúvida é um buraco negro chupando a
-coragem de um homem pelo meio. Ele diz que a incerteza é a lenha crua mais
-durável. (ele fala bonito, o letrado). Mas eu estive lá. Eu vi a guerra de
-jagunço. Eu vi o que a incerteza faz.
+Eu me alembro, era um fiapo de gente ainda, lá nos fundões do de-acaso. Meu padrinho me mandou ir na beira do rio, de noite, buscar água. O escuro... o escuro era um bicho peludo encostando na gente. Eu não sabia se tinha onça, se tinha cobra, se tinha homem ruim. Eu não sabia de nada. Esse "não-saber" não me dava força. Me tirava o sangue das veias. Eu sentia minhas pernas moles feito quiabo cozido. A gente pisava e o som sumia. O breu chupava até a coragem de rezar.
 
-[lembrar de quando cercamos o bando de Hermógenes e a chuva apagou as fogueiras.
-ficamos três dias e noites mascando brasa fria de medo, sem saber de onde vinha
-o tiro. a fumaça rasteira cegando os olhos. aquele tição na minha mão, molhado,
-não acendia o paieiro, só fumaçava e chorava breu.]
+A encruzilhada, Ted, ela não queima feito lenha. Ela é fria feito lodo debaixo de pedra. A dúvida não é navalha que rasga. É algodão nos ouvidos. O senhor acha que o mistério empurra o cavalo pra frente? Não. O cavalo estaca, fareja o escuro e refuga. O que empurra a gente não é a dúvida, meu amigo. É a precisão miúda. É o medo puro. É o amor de não querer ver o outro morrer.
 
-Se o Cão tivesse dado recibo, diz o Ted, tava resolvido. É. Estava. Se a onça
-pula em cima de você, a onça pula. Resolveu. Acabou. O pior é o mato roçando, o
-cheiro de mijo de gato-do-mato, os olhos amarelos que você acha que viu na
-beirada da fogueira mas quando vira o rosto só tem toco queimado. Isso não dá
-força, Ted. Isso mói a espinha. Mói, que mói, que vira pó.
-
-Tressando essa cisma na lousa. A tinta no papel branco. Ele pergunta se escrever
-a dúvida muda a forma dela. Se a sombra do diabo obedece ao meu punho quando eu
-escrevo. (eu olho pro meu pulso agora, manchado da idade. a tinta é preta, preta
-que nem tição apagado. e a sombra... a sombra não obedece não. ela escorrega
-pelos dedos e vai manchar as tábuas da varanda.)
-
-A sombra obedece? A fumaça obedece ao vento que sopra do fogo? Não obedece. Ela
-só avisa que o fogo está queimando longe de você, num lugar que você não alcança
-pra apagar. Raiva fria. A raiva de quem esperou a vida inteira por uma clareza e
-recebeu uma noite sem fim e um papel cheio de garrancho.
+E a tinta... a tinta preta no papel branco. O senhor me pergunta se escrever doma o Cão. Ah, Ted... que ideia mansa a sua. A caneta não faz cerca em volta do diabo. Ela só pinta as beiras do pasto que ele já pisoteou. A sombra não me obedece. Ela só senta ali no canto do quarto escuro, e me olha em silêncio enquanto eu sujo o dedo de tinta. A tinta não alivia. Só mancha.
