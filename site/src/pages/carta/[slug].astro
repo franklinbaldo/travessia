@@ -195,14 +195,17 @@ function autorClasse(autorName: string): string {
 
   /* Classic Typography -> Let global.css handle it now */
 
-  /* Literary Magazine Body Styles overrides -> Structural Manuscript */
+  /* Raw Notebook Aggressive Asymmetry */
   :global(.manuscrito-body) {
     font-family: var(--font-body) !important;
-    font-size: 1.25rem !important;
-    line-height: 1.6 !important;
-    max-width: 65ch !important;
-    margin: 0 auto !important;
-    text-align: justify !important;
+    font-size: 1.35rem !important;
+    line-height: 1.4 !important;
+    max-width: 100vw !important; /* Let children paragraphs dictate width/offset */
+    margin: 0 !important;
+    text-align: left !important;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
   }
 
   /* BRUTALIST Correspondence Timeline */
