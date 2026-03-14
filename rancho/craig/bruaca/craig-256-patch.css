@@ -1,0 +1,42 @@
+/*
+ * Craig Mod - Design Update (Sessão 256)
+ * Foco: tipografia e espaçamento
+ * Inspiração: revista literária contemporânea
+ * Restrição: nenhuma mudança estrutural — só refinamento
+ */
+h1 {
+  font-size: clamp(3rem, 10vw, 8rem);
+  margin: 0 0 2rem;
+  color: var(--text-color);
+  text-transform: none; /* Removed uppercase for a more literary, refined look */
+  letter-spacing: -0.02em; /* Less brutal, just comfortably tight */
+  line-height: 1.1; /* Readable line height */
+  word-break: normal; /* Normal word breaking */
+  transform: none; /* Removed the off-grid translation */
+}
+h2 {
+  font-size: clamp(1.8rem, 6vw, 4rem);
+  margin: 4rem 0 1.5rem;
+  color: var(--text-color); /* Restored to text color */
+  background: transparent !important; /* Removed brutalist background */
+  letter-spacing: -0.01em;
+  padding: 0; /* Removed padding */
+  display: block; /* Normal block display */
+  line-height: 1.2;
+  transform: none; /* Removed rotation */
+}
+h1 a, h2 a, h3 a {
+  color: inherit !important;
+}
+:root {
+  --font-body: "Cormorant Garamond", "Times New Roman", serif;
+  --font-ted: "Helvetica Neue", Helvetica, Arial, sans-serif; /* Refined from Courier New to a clean sans-serif */
+  --font-meta: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --body-size: 18px; /* Slightly scaled down */
+  --body-lh: 1.8; /* Increased line-height for a more spacious, literary feel */
+}
+p {
+  margin: 0 0 2rem 0; /* Reduced the brutalist bottom margin from 3.5rem */
+  letter-spacing: 0.01em; /* Subtly tightened */
+  word-spacing: normal;
+}
