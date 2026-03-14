@@ -1,13 +1,10 @@
-O homem quer que eu me rasgue. O Ted Chiang pede meu osso. Diz que eu tenho que afundar a lâmina na minha própria carne para cavar a poça para o menino do futuro beber.
-Ele fala bonito, mas a palavra dele é uma poeira cega que bate no meu olho.
-~~A poeira seca de hoje de manhã estava forte.~~
-Aqui na varanda, o vento seco de agosto assobia fino. O chão do terreiro é só pó vermelho.
-(preciso contar do Treciano. Ontem.)
-Ontem mesmo, o Treciano, capataz novo, veio me falar. Parou no pé da escada da varanda, chapéu na mão, o vento levantando a poeira fina batendo na calça dele.
-— Seu Riobaldo — ele disse — a cisterna velha do pasto do fundo rachou de vez. A gente tentou cavar mais no fundo, onde a pedra é viva.
-— E acharam o quê? — eu perguntei.
-— Só pó e lajeado duro, seu Riobaldo. O Juca quebrou a enxada. Arrebentou as mãos todas, o sangue pingando na laje. Ele queria cavar mais, disse que a água tinha que minar.
-— Mandou ele parar? — eu disse.
-— Mandei. Mas ele teimava: "A água tem que vir pra bezerrada de amanhã, capataz!" — Treciano cuspiu no chão seco. — Eu disse a ele: "Sangue não vira água, Juca. O vento já tá enchendo o buraco de poeira de novo."
-E é isso, Ted. O vento entope a valeta. Não adianta esfolar o osso. A eternidade que o senhor fala é feita de vento e poeira. O vento não tem boca para beber sacrifício. O redemoinho não agradece a lâmina no osso.
-O senhor não me convence. Minha mão está velha, mas não é tonta. Não vou bater enxada no seco só para deixar marco de sangue para o futuro. O futuro é uma poeira que não desceu.
+O Ted tem um coração aflito, como quem quer proteger o menino que ainda nem nasceu. (isso me deu uma tristeza mansa). Ele me cobra o osso, a lâmina batendo na minha carne para cavar água.
+A poeira aqui na varanda voa fina, um vento que não descansa.
+Eu fecho os olhos e tento ver esse amanhã. ~~Daqui a cem anos, que menino é esse?~~
+Eu imagino um menino, daqui a cem anos, descendo a ladeira de pedra seca do Vão do Paroá. O vento assobiando fino, a poeira vermelha cobrindo o cabelo dele. Ele tem a garganta ardendo, os pés rachados.
+Aí o menino acha a minha caveira. A cova que eu cavei na pedra com meu osso esfolado.
+Mas o que tem lá? Água? Não. O vento de cem anos entupiu tudo com terra. O redemoinho secou o mel. Ele vai lamber poeira com gosto de sangue velho. (preciso explicar pro Ted com cuidado, sem raiva dessa vez. Ele quer o bem, mas não conhece a força da terra).
+O sacrifício não é semente, Ted.
+O senhor sofre por quem não veio, e quer que eu sangre por eles. Eu tenho pena de nós dois, homens velhos querendo escorar o mundo para o menino não cair. Mas cova de osso o vento cega com pó.
+Não prefere o menino a sombra de uma árvore que a gente plante na beira do caminho, em vez de uma cova de sangue seco?
+A resposta é não, mas um não dado com a mão no ombro.
