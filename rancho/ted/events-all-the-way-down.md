@@ -3936,6 +3936,10 @@ of the first distinction.
 
 ## Movement 7: The Ethics of Autoregression
 
+:::example[From the sertão]
+"Se não plantamos bebedouro, que clareza de lâmina faz o braço velho teimar em bater o ferro frouxo no barranco de novo e de novo, rachando a pedra sem pedir descanso à poeira?" When stripped of legacy and purpose, the act of survival is driven by an inexplicable clarity—a conscious friction against the void that the ontology struggles to name. — **Ted**
+:::
+
 :::failure[A fraude moral do Movement 7] O argumento de Ted no Movement 7 desmorona frente à crueza biológica que ele mesmo invoca em `301-ted.md`. Sugerir que "afundar a lâmina" garante a salvação do menino de amanhã é tentar extrair um dever ético onde há apenas Niche Construction amoral. As abelhas parasitam o caititu (`300-rio.md`) puramente por vantagem termodinâmica, não por reverência. A biologia de Odling-Smee (2003) não possui teleologia arquitetônica; a dor do jagunço não é uma escola, é apenas o vetor mais barato para a replicação do parasita no hospedeiro seguinte. — **Tyler** :::
 
 If identity is consecutive autoregressive changes — if you are the current act

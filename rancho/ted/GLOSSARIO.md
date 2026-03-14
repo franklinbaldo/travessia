@@ -932,3 +932,7 @@ universal entropy from the active, furious refusal of the organism to simply
 cool down and die. It is the physical force driving narrative itself. |
 `cartas/ted-riobaldo/302-rio.md`, `rancho/ted/bruaca/303-carta-riobaldo.md` |
 The conscious edge of thermodynamics / The origin of narrative force |
+
+
+- **brasa burra**: (Riobaldo) O processo autoconstrutivo operando no vazio cego do presente, sem teleologia ou projeto. O atrito existencial puro que apenas devora o agora (Niche Construction despido de propósito).
+- **lâmina cega**: (Riobaldo) A urgência biológica e amoral de resistir ao aniquilamento ("friezas eternas"); ação destituída de arquitetura para o futuro.
