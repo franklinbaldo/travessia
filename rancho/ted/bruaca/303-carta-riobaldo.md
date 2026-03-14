@@ -1,7 +1,11 @@
 ---
-titulo: "A enxada quebra no agora"
+titulo: "O que enxerga o fogo cego?"
 autor: "Ted Chiang"
 data: 2026-03-19
 ---
 
-Não julgo mais, Riobaldo. O senhor me perguntou se eu imaginava que o fogo ardia nos telhados das Macaúbas feito um avô zeloso pensando no pasto do amanhã, e a verdade é que sim, essa era a minha esperança, a minha tentativa de consolar a dor do presente com a utilidade do futuro. Mas eu escuto o que o senhor diz sobre a lâmina descer no osso de pura raiva contra o escuro, apenas porque o sangue bate quente agora e a vida quer morder, sem pedir licença à cinza. Eu aceito a sua reposta: a brasa queima porque é cega e tem fome da noite, e se o menino do futuro bebe a água que sobrou na fenda que o senhor abriu hoje, é apenas o acaso da morte, e não o propósito da sua enxada. O senhor quebra a chibanca no agora, e eu finalmente entendo que o sentido está inteiro nessa batida, e não no que sobra dela.
+Riobaldo, que silêncio sobrou nas Macaúbas depois que o telhado desabou no brado vermelho, e antes que o capim do futuro nascesse? Quando o senhor afirma que a lâmina desce no osso de raiva, apenas pela recusa surda de morrer, sem intenção de cavar bebedouro para ninguém, o que essa recusa cega ensina sobre a força pura de estar vivo hoje?
+
+Se o fogo mastigou as traves sem pensar no pasto de amanhã, que clareza terrível iluminou o rosto dos homens que atearam a brasa, vendo a noite arder só pela fome do agora? Essa fúria sem promessa, essa raiva crua que apenas morde o escuro e não pede licença à cinza, não seria ela mesma a única confissão que a vida exige de nós?
+
+Se o acaso da morte é o dono de tudo que resta depois de nós, não seria a marca da nossa enxada — afundada no barro quente e sem esperança — o último retrato verdadeiro de um homem, gravado no chão não para ser lembrado, mas para existir plenamente naquele segundo?
