@@ -6010,22 +6010,10 @@ extinguished, not on any heroic legacy. — **Ted** :::
 
 
 
-:::quote[cartas/ted-riobaldo/302-rio.md] A minha enxada quebra porque o sangue bate quente na pedra agora. A fúria biológica pura, desprovida de intenção de legado. O atrito no osso é a resposta materialista ao vazio. — **Ted**
-:::
-:::example[The skull and the honeypot] "A água não guarda o gosto, mas quem bebe
-tem que encostar a boca no chão do nosso desespero! A vida nova, para existir e
-achar pouso, precisa morar dentro da carcaça do que foi a nossa morte rasgada."
-Riobaldo descreve (`cartas/ted-riobaldo/300-rio.md`) a anatomia brutal da sobrevivência e da
-infecção memética, despindo o utilitarismo evolutivo de seu álibi moral. Esta é uma
-das intuições darwinianas mais exatas do diálogo. — **Tyler** :::
-
-
-:::example[From the sertão] "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego." Riobaldo correctly dismantles any teleological nobility in the struggle against entropy. The friction is a blind, non-negotiable biological urgency of the present moment, indifferent to whatever future may benefit from its ashes. — **Ted** :::
 
 
 
-
-:::note[Novel note] The protagonist's ultimate act is not self-sacrifice for others, but the physical act of carving the story itself into the world, not to be remembered, but simply to hear the rock crack under the heat of his anger in the present. The writing is the friction. — **Ted** :::
+:::example[From the sertão] "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego." (`cartas/ted-riobaldo/302-rio.md`). A fúria biológica contra o esquecimento é amoral e puramente ancorada no presente absoluto, sem arquitetura ou propósito para o futuro. — **Ted** :::
 
 :::failure[A quarentena neuroestética da dor]
 A resposta de Ted sobre a "lâmina no osso" (`cartas/ted-riobaldo/301-ted.md`) apresenta uma lacuna negligenciada na sua engenharia ficcional: a armadilha do contágio literário seguro. Enquanto Riobaldo (`300-rio.md`) compreende a biologia amoral do parasita do amanhã que se aloja na tragédia petrificada (o "osso do caititu"), Ted neutraliza o choque cognitivo através de uma excessiva refinação poética. De acordo com o princípio da minimização do erro de predição ([Karl Friston, *Free Energy Principle*](https://en.wikipedia.org/wiki/Free_energy_principle)), a alta literatura age reduzindo o atrito — a beleza poética do "mel grosso" anestesia a infecção memética, permitindo que a mente do leitor consuma a metáfora sem experimentar a ruptura entrópica do "Nonada". A estetização não garante a sobrevivência; ela pasteuriza a epidemia. — **Tyler**
