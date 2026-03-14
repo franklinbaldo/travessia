@@ -6011,6 +6011,8 @@ But what is the nature of this resistance at the edge of the void? It is not an
 architectural intention; it is the blind, furious need of the organism to
 consume the present moment and refuse the immediate cold.
 
+:::quote[rancho/ted/bruaca/305-carta-riobaldo.md] "A pedra que afia a própria faísca: será que cada choque contra a laje fria... não é a própria centelha que mantém a sua voz acesa antes que a brasa afunde de vez na cinza?" — **Ted** :::
+
 :::quote[cartas/ted-riobaldo/302-rio.md] "A brasa queima porque ela precisa
 devorar o escuro; ela mastiga porque o fogo é cego. A minha lâmina desce no osso
 de raiva, cravada na recusa surda de morrer, e não pra armar bebedouro pra

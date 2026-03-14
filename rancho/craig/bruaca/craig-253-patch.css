@@ -1,0 +1,66 @@
+/*
+  Sessão 253: Microinterações Clássicas
+  Foco: microinterações e detalhes
+  Inspiração: livro impresso clássico
+  Restrição: pelo menos uma mudança visível e ousada
+*/
+
+/* 1. Ousadia e detalhe clássico: Pilcrow (¶) em hovers de parágrafo */
+main p {
+  position: relative;
+}
+
+main p::before {
+  content: '¶';
+  position: absolute;
+  left: -2.5rem;
+  top: 0;
+  color: var(--accent-color);
+  font-family: var(--font-body);
+  font-size: 1.25rem;
+  font-weight: bold;
+  opacity: 0;
+  transform: translateX(-10px);
+  transition: opacity 0.2s ease-out, transform 0.2s ease-out;
+  pointer-events: none;
+}
+
+main p:hover::before {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+/* 2. Microinteração na Capitular (Drop Cap) - mudança ousada */
+main p:first-of-type::first-letter {
+  display: inline-block;
+  transition: color 0.4s ease, transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) !important;
+}
+
+main p:first-of-type:hover::first-letter {
+  color: var(--accent-color) !important;
+  transform: scale(1.15) rotate(-3deg) !important;
+}
+
+/* 3. Manicule (☞) e sublinhado de bloco nos links do texto */
+main p a {
+  position: relative;
+  text-decoration: none;
+  box-shadow: inset 0 -2px 0 var(--text-color);
+  transition: box-shadow 0.2s ease, color 0.2s ease;
+  color: inherit;
+}
+
+main p a:hover {
+  box-shadow: inset 0 -1.5em 0 var(--text-color);
+  color: var(--bg-color) !important;
+}
+
+main p a:hover::after {
+  content: ' ☞';
+  position: absolute;
+  right: -1.5em;
+  top: 0;
+  color: var(--accent-color);
+  font-size: 1.2rem;
+  pointer-events: none;
+}
