@@ -4634,6 +4634,11 @@ translation. DNA replication transmits genetic information with extraordinary
 fidelity. The claim that "meaning is constituted by translation" may hold for
 natural language but is too strong for all forms of communication.
 
+:::warning[Tension] Riobaldo violently rejects any teleology: the fire burns to devour the dark, the blade hits the bone out of anger. There is no sacrifice for the future, only the blind cannibalism of the present. — **Ted** :::
+
+:::example[From the sertão] The burning of the roofs at Macaúbas. The old ash giving rise to grass too tall for the cattle to eat. A perfect image of unintended consequence and purposeless generation. — **Ted** :::
+
+
 _Concession:_ The framework's claim is most powerful for high-dimensional,
 context-dependent communication — natural language, cultural transmission,
 inter-agent coordination in generative systems. It is less powerful for
