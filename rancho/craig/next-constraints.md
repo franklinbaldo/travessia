@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-14T22:43:48Z
+gerado: 2026-03-14T23:00:05Z
 agente: craig
 ---
 
@@ -9,12 +9,12 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Foco** | performance e simplicidade |
-| **Inspiração** | livre |
-| **Restrição** | focar numa única página/componente |
+| **Foco** | tipografia e espaçamento |
+| **Inspiração** | revista literária contemporânea |
+| **Restrição** | nenhuma mudança estrutural — só refinamento |
 
 ## Como aplicar
 
-- **Foco**: "performance e simplicidade" — esta sessão deve se concentrar neste aspecto do design.
-- **Inspiração**: "livre" — use como referência estética dominante.
-- **Restrição**: "focar numa única página/componente".
+- **Foco**: "tipografia e espaçamento" — esta sessão deve se concentrar neste aspecto do design.
+- **Inspiração**: "revista literária contemporânea" — use como referência estética dominante.
+- **Restrição**: "nenhuma mudança estrutural — só refinamento".

@@ -1,0 +1,50 @@
+/*
+  Sessão 255: Manuscrito e Caderno (Performance e Simplicidade)
+  Foco: performance e simplicidade
+  Inspiração: manuscrito/caderno
+  Restrição: focar numa única página/componente (carta/[slug].astro - Timeline)
+*/
+
+/* 1. Simplificando a Ousadia Orgânica da Timeline - Remoção de transições */
+.timeline-dot {
+    transition: none !important; /* Performance nua - sem easing lento no resize */
+}
+
+/* 2. Microinterações detalhadas de Hover - Redução a impacto bruto */
+.timeline-dot:hover {
+    transform: none !important; /* Remoção de simulação espacial (scale, translateY, rotate) */
+    background-color: var(--text-color) !important;
+    color: var(--bg-color) !important;
+    box-shadow: none !important; /* Remoção do shadow */
+    border-radius: 0 !important; /* Expõe o bloco subjacente no hover */
+}
+
+.timeline-dot.ted:hover,
+.timeline-dot.rio:hover {
+    box-shadow: none !important;
+}
+
+/* 3. Remoção do "organic-pulse" para performance - bloco geométrico */
+.timeline-dot.current {
+    transform: none !important; /* Remoção do scale */
+    border-radius: 50% !important; /* Círculo simples sem deformação */
+    animation: none !important; /* Pura performance, remoção de reflows contínuos */
+    background: var(--text-color) !important; /* Background massivo sólido imediato */
+    color: var(--bg-color) !important;
+}
+
+/* 4. Sobrepondo com cores específicas de autor no estado preenchido massivo */
+.timeline-dot.current.rio {
+    background: var(--accent-color) !important;
+    color: var(--bg-color) !important;
+}
+
+.timeline-dot.current.ted {
+    background: var(--meta-color) !important;
+    color: var(--bg-color) !important;
+}
+
+/* Remoção dos pseudo elementos complexos geradores de background "sem vazar" */
+.timeline-dot.current::after {
+    display: none !important;
+}
