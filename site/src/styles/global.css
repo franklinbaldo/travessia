@@ -4,11 +4,11 @@
    =========================== */
 :root {
   /* Maximum Contrast Palette - Pure Black & White with Safety Vermilion */
-  --bg-color: #f9f9f8; /* Refined Ivory - Contemporary Lit Mag */
-  --text-color: #1c1c1c; /* Rich Ink - Contemporary Lit Mag */
-  --accent-color: #d13427; /* Editorial Vermilion */
-  --secondary-color: #4a4a4a; /* Dark Gray */
-  --divider-color: #d1d1d1; /* Hard Gray */
+  --bg-color: #ffffff; /* Pure White - Brutalist */
+  --text-color: #000000; /* Pure Black - Brutalist */
+  --accent-color: #0000ff; /* Pure Blue - Brutalist */
+  --secondary-color: #ff0000; /* Pure Red - Brutalist */
+  --divider-color: #000000; /* Pure Black Divider */
   --meta-color: #666666; /* Meta info */
   --noise-op: 0.05;
   --sand-bg: #f5f5f5;
@@ -24,11 +24,11 @@
   --body-lh: 1.6;
 }
 [data-theme="dark"] {
-  --bg-color: #141414; /* Soft Deep Space */
-  --text-color: #e8e8e6; /* Softened Light */
-  --accent-color: #e5594b; /* Muted Warm Coral */
-  --secondary-color: #b5b5b5;
-  --divider-color: #333333;
+  --bg-color: #000000; /* Pure Black - Brutalist */
+  --text-color: #ffffff; /* Pure White - Brutalist */
+  --accent-color: #00ff00; /* Pure Terminal Green - Brutalist */
+  --secondary-color: #ff00ff; /* Pure Magenta */
+  --divider-color: #ffffff; /* Pure White Divider */
   --meta-color: #999999;
   --noise-op: 0.05;
   --sand-bg: #121212;
