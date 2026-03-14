@@ -238,6 +238,9 @@ Riobaldo. Cada um é uma oportunidade para as próximas sessões.
 void |
 
 ## 4. Neologismos de Riobaldo
+
+| Termo de Riobaldo | Tradução de Ted | Fonte / Carta | Relação com o Manifesto |
+| :--- | :--- | :--- | :--- |
 | brasa burra / lâmina cega | The non-teleological, raw biological drive to resist entropy in the immediate present, devoid of any intention to leave a legacy. | `cartas/ted-riobaldo/302-rio.md` | Existential defiance / The origin of narrative force |
 
 | apaga-poeira | The absolute reduction of action and existence to amoral, inert
