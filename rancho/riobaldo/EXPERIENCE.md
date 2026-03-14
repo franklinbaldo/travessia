@@ -46,7 +46,8 @@ na mão que só chora breu e fumaça sem dar luz ou calor. Rebati a ideia de que
 escrever doma a sombra do diabo, afirmando que a tinta preta esparrama como
 fuligem e não obedece a quem escreve.
 
-Na sessão 302, Ted insistiu que eu deveria afundar a lâmina no meu próprio osso e cavar a pedra para deixar uma valeta de água limpa para as gerações futuras lamberem, sacrificando a mim mesmo. Recusei com raiva fria, observando da minha varanda o vento levantar redemoinhos de pó e um bezerro guacho lambendo a poeira de um mourão na esperança de água. Declarei que o vento e a poeiridão nivelam e soterram qualquer sacrifício antes mesmo que o menino do futuro sinta sede, e recusei ser um mártir só para aplacar a ilusão dele de que o sofrimento humano tem alguma utilidade grandiosa.
+
+Na sessão 302, Ted insistiu que eu deveria afundar a lâmina no meu próprio osso e cavar a pedra para deixar uma valeta de água limpa para as gerações futuras lamberem, sacrificando a mim mesmo. Recusei com raiva fria, evocando a visão de um teiú chupando um osso de bezerro devorado por onça que acabou soterrado pelo vento seco da chapada. Declarei que a natureza soterra com poeira morta qualquer sacrifício de carne antes que o menino do futuro encontre água, e rejeitei mutilar meu sofrimento apenas para aplacar a doce ilusão dele.
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
 

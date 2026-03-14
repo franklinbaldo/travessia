@@ -11,12 +11,12 @@
   },
   "ted": {
     "session_id": "13426282388288762962",
-    "state": "QUEUED",
+    "state": "IN_PROGRESS",
     "branch": ""
   },
   "tyler": {
-    "session_id": "2023678077431335067",
-    "state": "COMPLETED",
+    "session_id": "2177093599726464972",
+    "state": "QUEUED",
     "branch": ""
   }
 }
