@@ -84,18 +84,18 @@ const {
   /* Directory List Style */
   .blog-card {
     background-color: transparent !important;
-    border: none !important;
+    border: 1px solid transparent !important;
     border-bottom: 1px solid var(--text-color) !important;
     border-radius: 0 !important;
     box-shadow: none !important;
 
-    padding: 3rem 0 !important;
+    padding: 3rem 1rem !important;
     margin-bottom: 0 !important;
     display: grid;
     grid-template-columns: 1fr;
     gap: 1.5rem;
     transform: none !important;
-    transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease !important;
+    transition: transform 0.1s cubic-bezier(0, 0.5, 0.5, 1), box-shadow 0.1s cubic-bezier(0, 0.5, 0.5, 1), border-color 0.1s ease, background-color 0.1s ease !important;
   }
 
   @media (min-width: 768px) {
@@ -112,15 +112,12 @@ const {
   }
 
   .blog-card:hover {
-    transform: none !important;
-    box-shadow: none !important;
-    background-color: transparent !important;
+    transform: translate(-10px, -10px) !important;
+    box-shadow: 10px 10px 0 var(--accent-color) !important;
+    background-color: var(--bg-color) !important;
     color: var(--text-color) !important;
-    border-color: var(--text-color) !important;
-    padding-left: 2rem !important;
-    padding-right: 2rem !important;
-    margin-left: -2rem !important;
-    margin-right: -2rem !important;
+    border: 1px solid var(--text-color) !important;
+    z-index: 10;
   }
 
 
@@ -217,36 +214,17 @@ const {
   }
 
   .blog-card .card-titulo {
-    transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1), color 0.3s ease;
-  }
-
-  .blog-card::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 4px;
-    height: 0;
-    background-color: var(--accent-color);
-    transition: height 0.4s cubic-bezier(0.25, 1, 0.5, 1);
-  }
-
-  .blog-card:hover::before {
-    height: 100%;
+    transition: letter-spacing 0.1s ease, color 0.1s ease;
   }
 
   .blog-card:hover .card-titulo {
     font-style: italic;
     color: var(--text-color) !important;
-    transform: translateX(1.5rem);
+    letter-spacing: -0.08em;
   }
 
   .blog-card .card-excerpt {
-    transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1);
-  }
-
-  .blog-card:hover .card-excerpt {
-    transform: translateX(1.5rem);
+    transition: transform 0.1s ease;
   }
 
 </style>
