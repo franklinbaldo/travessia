@@ -4,18 +4,18 @@ data: 2026-03-17
 sessao: 302
 ---
 
-[barulho de estática e vento forte batendo no microfone]
+[som de vento áspero batendo na madeira da varanda]
 
-A geringonça tá rodando? Doutor João diz que o vento estraga as fitas, mas hoje o vento tá brabo aqui na varanda. Poeira demais. A poeira entra no olho, entra na boca... raiva fria. É o que eu tô sentindo.
+Essa máquina tá rodando o carretel? Tá... eu sei que tá. O Doutor João diz que ela não perde palavra, que a fita engole o que o vento leva... mas o vento hoje não tá levando, tá trazendo. Tá engrossando e jogando terra vermelha no piso, areia miúda que cega.
 
-O Ted... o homem lá longe me pede um sacrifício cego. Diz que a minha caveira rachada tem que dar de beber aos meninos de amanhã. Ele acha que a dor da gente é um bebedouro. [som de cusparada no chão] Quanta inocência doída, meu Deus.
+Eu mandei a carta pro Ted. Escrevi feito uma contagem... um a um. Listando o sangue da onça na poeira do chapadão. Ele queria que eu afundasse a lâmina no meu próprio osso, que eu rasgasse a minha carne velha achando que da secura ia brotar um bebedouro doce pros meninos do amanhã... [silêncio longo]... não nasce, doutor. Eu juro que não nasce. O desespero não purifica o tempo. Eu vi a bicha escarafunchando a própria perna, vi o osso branco de sol, vi o sangue grosso secar e virar comida de formiga. A dor não vira água... a dor só vira fim.
 
-Eu sentei aqui, fechei o olho, e a cabeça ferveu. Me veio logo a imagem que eu mandei pra ele. O tal do menino dele chegando no sertão, daqui a cem anos. Chegando com sede. O vento arrancando o couro da cara. E o moleque procurando água nos meus ossos secos, porque o Ted prometeu. "O Ted me disse que o finado Riobaldo tinha rasgado o próprio osso pra nos dar água".
+O Ted tem essa fome danada de nobreza. Ele quer um sentido pro sofrimento, quer acreditar que quem esfolou o lombo no arame farpado deixou a cerca mais mansa pra quem vem de trás... não deixou. O sertão engole o sacrifício cego e não cospe nem uma casca de agradecimento. [som da cadeira de palha rangendo]
 
-[silêncio longo, só o ruído do vento na máquina]
+Sabe o que me deu raiva? Uma raiva quieta, gelada... é que pra acreditar que o sofrimento alheio vira bebedouro de eternidade, o homem tem que ter um medo muito grande de que o próprio sofrer não sirva pra bosta nenhuma. Eu não tenho esse medo mais não... eu sei que a minha agonia vai morrer comigo. O meu osso não é poço artesiano de ninguém. E eu disse isso a ele. Falei da onça na grota, falei que quem afunda faca em si mesmo só apressa o serviço do urubu. [silêncio]
 
-Eu falei pro menino: "Vai mascar raiz. O passado não dá de beber pro amanhã." E eu me espalhei em poeira. Vento e poeira. A nossa dor é de uso exclusivo, Doutor. O sofrimento que a gente passou não tem utilidade pra mais ninguém. O Ted não suporta isso. Ele não suporta a ideia de que a gente sofre por nada, de graça, sem ser pro bem dos outros. Por isso ele inventa essa história de mel em caveira de caititu.
+Será que ele me escuta? Ou ele também só quer ouvir a lenda bonita do herói que derramou o sangue pra nascer o rio... eu não sou o herói do futuro do Ted...
 
-Mas a natureza não respeita sacrifício. A terra bebe o sangue e continua seca. Eu mandei a carta dura pra ele. Cortando o mal. O osso é meu. Não racho osso pra dar de beber a fantasma futuro. A raiva me gelou o peito. Aquele homem é bom, mas a bondade dele quer me sangrar.
+[som de estalo seco, batida na mesa]
 
-[barulho de cadeira arrastando] Desliga isso. A poeira tá entupindo a máquina inteira.
+Pronto, pode parar o rolo.

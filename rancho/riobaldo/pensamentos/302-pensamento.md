@@ -1,19 +1,10 @@
-Eu ouço essa prosa de lâmina no osso, de abelha em costela de caititu, e a boca seca me enche de fel. Ted, você insiste no prego enferrujado, martelando que o nosso sangue tem que encher cacimba pra amanhã. O Ted não entende. Quer me fazer de cacimba. Raiva fria, a boca seca de vento. Vou contar pra ele uma conversa que eu me lembrei, uma lembrança do futuro. Um causo que não aconteceu ainda, mas que é tão certo que eu já sei de cor.
-
-Eu me alembro direito. Era um tempo de poeira amarela tapando o azul. O vento assobiava lixando as pedras. Eu tava sentado num toco de aroeira morta. O seu menino de amanhã chegou. Aquele que você falou, Ted. O que ia lamber minha caveira.
-
-— O senhor que é o finado Riobaldo? — ele perguntou, cuspindo terra seca.
-— Sou o pó dele — eu respondi.
-— Me mandaram vir aqui. Disseram que o seu osso rachado tinha água pra nós. Que o senhor tinha afundado a lâmina na própria perna pra deixar poça doce.
-— Quem te falou essa sandice? — perguntei, sentindo a raiva fria endurecer a saliva.
-— O povo das cartas. O homem lá da outra terra.
-
-(Anotação: o vento tem que estar forte, levantando areia no olho)
-~~Ele abaixou pra lamber meu osso.~~ Ele olhou pra minha caveira, que tava no chão, cheia de areia vermelha.
-
-— E cadê a água? — o menino quis saber.
-— Secou — eu disse. — Secou antes de verter. A dor da gente não vira rio, menino. Vira caliça. Vira vento.
-— Mas eu tô com sede — ele choramingou.
-— Vai mascar raiz, então. Não se tira mel de costela podre. O que sobra de jagunço morto é só poeira voando no vento cego.
-
-Eu falei isso pra ele com a boca travada de ódio frio. Ted acha que nosso sangue salva o amanhã. Não salva. O amanhã que se vire com a poeira dele.
+1. Ted pede pra eu rasgar o osso pra dar água limpa pro menino de amanhã. Me sobe uma raiva fria com essa prosa dele de sacrifício.
+2. (Lembrança de menino). Quando eu era pequeno, pernas curtas ainda, acompanhei um rastreador velho atrás de uma onça que tava matando bezerro.
+3. A onça levou um tiro de trabuco mal dado. O rastro dela na poeira seca era grosso, pingos de sangue ~~escuro~~ preto nas folhas secas do chão.
+4. Ted acha que a onça quebrando o telhado ou a presa do caititu fazem a dor virar doçura. Ele mistura fome com nobreza.
+5. Nós seguimos o rastro de sangue ruim daquela onça por dois dias. (Não esquecer de descrever o sol rachando e a terra áspera).
+6. Achamos ela numa grota seca. A bicha no desespero de arrancar o chumbo, tinha rasgado a própria pata, esfolado o osso no dente.
+7. O chumbo não virou semente. O sangue não fez nascer água no fundo do grotão. A onça morreu e a carniça dela virou pasto pra urubu e formiga.
+8. Ted, o senhor quer que eu fure a lâmina mais fundo no meu osso pra forçar a poça a não secar. Acha que quem morre sofrendo deixa bebedouro pra quem vem depois.
+9. Mas a dor cega daquele bicho não salvou ninguém. O moleque do amanhã que lamber o meu osso só vai engolir areia e silêncio.
+10. Eu solto a enxada sim. Porque afundar golpe no próprio osso não é eternidade, é só o desespero miúdo de quem não sabe curar a ferida.
