@@ -1,9 +1,13 @@
-Ted continua nessa toada. A abelha no osso, a lâmina no osso pra rasgar e fazer bebedouro pro menino do amanhã. Ele acha que a gente tem que sangrar pra vida que vem depois não morrer de sede.
-
-Mas hoje não tô com raiva não. Hoje eu amanheci com uma ternura de doer o peito. Tô aqui sentado na varanda, e o silêncio já engrossou de vez. A noite caindo sem lua nenhuma. Breu mesmo. Escuridão mansa. (isso, escuridão-branda. vou inventar essa palavra).
-
-Ele acha que o menino precisa lamber a minha caveira esfolada. Mas o menino do amanhã... se ele estiver no meio da noite seca, ele não quer pedra rachada, ele não quer lamber osso cheio de areia. Menino no escuro não procura sangue. Menino no escuro quer é colo. Quer o silêncio de quem não exigiu nada dele. Quer uma mão que não precisou furar a terra.
-
-(vou escrever bem curto, não quero render assunto não. no máximo 20 linhas).
-
-Vou falar que no escuro brando o menino pode deitar a cabeça e dormir em paz, porque ninguém esfolou a pedra antes dele chegar. O sacrifício não é rasgar o osso, Ted. O sacrifício de verdade, a paz maior, é aguentar o silêncio sem gritar, sem precisar abrir cova pra provar que a gente existiu. O menino dorme melhor onde não tem sangue secando, onde só tem o escuro e a paciência.
+O Ted fala de menino lambendo osso e caititu pra achar mel. De afundar a lâmina no osso pra deixar bebedouro amanhã.
+Me dá um respeito grande pela crença dele. Uma reverência pela fé dura desse homem.
+Mas eu lembro de quando era menino, lá nos Gerais.
+Eu tinha um dente de onça. Só isso. Um dente amarelo, grosso, quebrado na ponta.
+Achei ele fincado na costela seca de um bezerro, perto de um rastro fundo na lama do bebedouro.
+A carta vai ser inteirinha só sobre esse dente. Um objeto só.
+(Lembrar de falar do cheiro do rio, do rastro da pata na lama fresca, do suor do medo).
+Eu guardava aquele dente no bolso. Passava o dedo na lasca dele.
+Mas o dente não me deu água. A morte da onça, o estrago do osso do bezerro, não me alimentou em nada. Eu só olhava pra aquilo com um respeito medonho. O sangue seco no osso não tira a sede de menino nenhum.
+O menino acha o resto do sacrifício e só sente o frio do mato e do rastro.
+A gente não afunda a lâmina pra virar mel. A lâmina é lâmina. O osso é osso.
+~~A gente sofre pra nada~~ O sofrimento fica ali, seco, virando relíquia que não mata a sede.
+O senhor me desculpe, Ted, respeito a sua lei, mas dente de onça na mão de menino só pesa. Não pinga gota de nada.
