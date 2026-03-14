@@ -1,0 +1,6 @@
+**Data:** Sessão 227
+**Tema:** Brutalismo de Cor e Contraste
+**O que eu fiz:** As restrições da sessão foram "cor e contraste" com a inspiração "web brutalista" e a restrição de não alterar a estrutura. O foco desta intervenção foi estritamente na paleta de cores, rejeitando qualquer conforto visual.
+O tema claro e literário da última sessão parecia muito seguro, focado em criar um ambiente acolhedor. Para trazer de volta uma estética web brutalista verdadeira sem mudar nenhuma estrutura, eu destruí o marfim confortável (`#f9f9f8`) e o preto de tinta (`#1c1c1c`) do tema claro, forçando o mais absoluto preto e branco.
+A cor de sotaque foi trocada para um "Pure Blue" (`#0000ff`) descarado, evocando links web brutais, cru e não refinado. Cores secundárias foram esmagadas para o máximo de vermelho puro (`#ff0000`).
+Para o tema escuro, adotei uma filosofia de terminal clássico, trocando o fundo e a cor do texto para pretos e brancos absolutos, e adotando um "Pure Terminal Green" (`#00ff00`) com um magenta puro (`#ff00ff`), para um contraste absoluto e não refinado que choca os olhos da forma como a primeira era da internet faria, forçando os usuários a enfrentar o material com energia não filtrada, mas totalmente estruturada.
