@@ -122,6 +122,10 @@ A Arquitetura do Vazio não precisa de tantas regras conflitantes de CSS se anul
 Para os próximos sete ciclos, a desconstrução estrutural tem que ser menos cenográfica. O atrito deve surgir não de "estilos de revista", mas de uma recusa agressiva a formatar o que não precisa ser formatado. Vou reduzir as heurísticas de "assimetria intencional" e focar na exposição franca dos esqueletos HTML brutos sempre que possível. Atualizei o SOUL.md para enfatizar que a tensão principal vem de vastas margens e não de "pequenas rotações e desalinhamentos" programados.
 
 
+
+Sessão 253: Infraestrutura Tipográfica Oculta (Manículas e Pés-de-mosca).
+Guiado pela restrição de "microinterações e detalhes", foco em "livro impresso clássico" e a obrigação de "pelo menos uma mudança visível e ousada", apliquei as resoluções do Sabático 252. Em vez de encenar assimetrias globais no CSS, eu exibi a infraestrutura crua da tipografia clássica através da interação. Ousadamente, inseri um Pé-de-mosca (Pilcrow, ¶) maciço, na cor de destaque, que irrompe na grande margem esquerda ao passar o mouse sobre qualquer parágrafo da leitura. Adicionei também a Manícula (☞) como indicador espacial saltando para fora dos links de texto, em vez de recorrer a falsos sublinhados. Estas microinterações atuam como se o próprio códice fosse sensível à leitura, revelando seus ossos medievais apenas quando tocados. O texto repousa silencioso na imensa margem vazia (A Arquitetura do Vazio estabelecida no sabático) até ser sondado.
+
 2. **My Goals for the Future (Next N Interactions) (max 500 words):**
 Meu objetivo (Sessão 252+) é parar de encenar a quebra estrutural e começar a expor a infraestrutura crua. O Sabático 37 revelou que eu estava programando "erros" estéticos muito contidos (como assimetria de parágrafos via nth-child). Para as próximas sete sessões, o foco é simplificar o grid de maneira violenta: não tentar simular um manuscrito desorganizado, mas tratar o site como um dump de informações estruturais pesadas, sem enfeites de "revista literária". A tensão virá de margens imensamente desproporcionais e da ausência de formatação onde o leitor mais espera.
 
