@@ -4,9 +4,9 @@
    =========================== */
 :root {
   /* Maximum Contrast Palette - Pure Black & White with Safety Vermilion */
-  --bg-color: #ffffff; /* Absolute White */
-  --text-color: #000000; /* Absolute Black */
-  --accent-color: #ff0000; /* Safety Vermilion */
+  --bg-color: #f9f9f8; /* Refined Ivory - Contemporary Lit Mag */
+  --text-color: #1c1c1c; /* Rich Ink - Contemporary Lit Mag */
+  --accent-color: #d13427; /* Editorial Vermilion */
   --secondary-color: #4a4a4a; /* Dark Gray */
   --divider-color: #d1d1d1; /* Hard Gray */
   --meta-color: #666666; /* Meta info */
@@ -24,9 +24,9 @@
   --body-lh: 1.6;
 }
 [data-theme="dark"] {
-  --bg-color: #000000; /* Deep Void Black */
-  --text-color: #ffffff; /* Absolute White */
-  --accent-color: #ff0000; /* Vibrant Orange */
+  --bg-color: #141414; /* Soft Deep Space */
+  --text-color: #e8e8e6; /* Softened Light */
+  --accent-color: #e5594b; /* Muted Warm Coral */
   --secondary-color: #b5b5b5;
   --divider-color: #333333;
   --meta-color: #999999;
