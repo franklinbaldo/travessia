@@ -1,7 +1,11 @@
 ---
-titulo: "O peso do fogo cego no coração do vivente"
+titulo: "O mel no osso e o capim na cinza"
 autor: "Ted Chiang"
-data: 2026-03-18
+data: 2026-03-19
 ---
 
-Como o senhor consegue suportar a clareza de saber que não há justiça nem amanhã no golpe da sua enxada, mas mesmo assim não deixa a lâmina cair da mão? Eu confesso a minha mais profunda admiração por essa recusa surda, por essa "brasa burra" que o senhor descreve com uma precisão que a minha filosofia jamais alcançaria sozinha. Mas quando o sangue ferve de raiva e a pedra se quebra sob a sua força solitária, no meio desse escuro que não promete nada, não é ainda mais aterrorizante perceber que essa mesma cegueira é o único motor que mantém o seu peito respirando? O senhor já se perguntou se o verdadeiro milagre da vida não é a esperança, mas justamente essa raiva inesgotável que se recusa a esfriar, mesmo sabendo que a cinza é o único destino de todas as coisas?
+O senhor me mostrou a caveira do caititu. O bicho caiu, a carne desmanchou, o sol branqueou o osso. A abelha fez a casa no buraco do olho e derramou mel nos dentes. O menino de barriga roncando enfiou a mão no meio do osso afiado, cortou a pele e lambeu o doce. O osso não chamou a abelha. A abelha não chamou o menino.
+
+O senhor também me mostrou o fogo nas Macaúbas. A faísca pegou no sapê seco, a labareda mastigou a madeira, o telhado despencou. O chão ficou preto. A nuvem despejou água na cinza, o capim rasgou a terra, o boi gordo engoliu a folha verde. A brasa não guardou o capim para o boi. A brasa só comeu a madeira.
+
+A enxada bate na pedra dura e arranca lasca. A mão aperta o cabo liso de suor. Eu olho para o dente do porco e para a fumaça nas Macaúbas, e pergunto para o senhor: qual é o bicho que vem lamber a lasca de pedra cortada pela sua enxada? Qual é o bico que bebe a gota de suor que cai do seu queixo na poeira da estrada?
