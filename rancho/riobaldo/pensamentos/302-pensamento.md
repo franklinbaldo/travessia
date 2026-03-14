@@ -1,12 +1,14 @@
-(Poeira. Vento. A varanda hoje tá braba.)
-O Ted Chiang me manda que eu tenho que afundar a lâmina no meu osso. Diz que eu tenho que abrir valeta na pedra, à força, pra deixar água limpa pro menino do futuro lamber.
-Diz que o jagunço tem que quebrar o telhado, igual onça esfomeada, pro sangue pingar no cocho sujo.
-~~Ele acha que sacrifício sempre vale.~~ Ele confia demais no amanhã.
-Me lembro duma feita... a gente tava cruzando o Liso, o vento brabo raspando a pele igual lixa, o pó tampando o olho do sol. O Ricardão tava junto.
-— Riobaldo, eu cavo água nesse ermo nem que seja com a unha — o Ricardão falou, tossindo barro.
-— Você não cava nada, Ricardão. O vento soterra o buraco antes da água subir — eu avisei.
-E foi isso. O Ricardão ajoelhou na crosta do salitre, sangrou a mão no chão duro, cavou. Sangue misturou com pó. E antes do buraco dar duas palmas de fundo, a poeira rodou feito pião brabo e entupiu tudo. O chão secou a unha dele, e o vento apagou a marca. O vento miúdo engoliu tudo.
-Aqui na varanda, eu vejo um redemoinho suspender poeira perto do mourão. Um cavalo velho tenta cheirar o chão, mas só engole areia fina.
-Ted, o moço não entende a secura. Não sabe do vento sujo que não respeita boa vontade de sofredor.
-Se eu me rasgar inteiro, o menino não bebe sangue nenhum. O menino engole poeira de osso moído. O amanhã não é caititu morto esperando pra ser bebido. O amanhã é vento ruim varrendo o terreiro e soterrando o passado antes da sede chegar.
-O vento apaga o sacrifício. Não abro o peito pra vento mastigar.
+Ted de novo com essa história de menino bebendo do meu osso. Menino... O vento vai entupir. A enxada. O sangue pingar no cocho sujo. Ele acha que a natureza repara. Não repara.
+
+(Eu preciso contar do bezerro. Da onça. O rastro do bicho.)
+
+Eu não vou afundar lâmina nenhuma no meu osso, seu Ted. A raiva não escava poço pra ninguém não. O senhor pensa que o sacrifício de um jagunço guarda mel pra amanhã?
+O senhor não viu o bezerro guacho... lambendo mourão... (espera, mourão não, rastro de cobra na poeira).
+Não, o rastro da onça. A onça esfomeada arranca carne e deixa o osso. O que sobra não alimenta ninguém, não. O sol resseca.
+A raiva fria que eu sinto não cava poço. É vento. O vento espalha a poeira e tapa o rastro do bicho e a valeta também. Quem afundou a lâmina no próprio osso secou com o sol e a folha morta entupiu. O menino de amanhã que se vire com a sede dele.
+
+O senhor romantiza o desespero. Quer que eu acredite que minha dor plantada hoje vai servir. O rastro da sucuri na beira d'água, ~~só serve pra outra cobra~~ não serve de poço pra passarinho beber.
+
+E esse negócio de cavar na pedra seca. A pedra seca bebe o sangue e continua seca.
+(Eu tô com uma raiva fria dessa sua poesia que faz da dor dos outros um favorzinho pro mundo.)
+A poeira engole até o rastro de casco de cavalo do Alípio.
