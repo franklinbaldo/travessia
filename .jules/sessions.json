@@ -6,17 +6,17 @@
   },
   "riobaldo": {
     "session_id": "6203278105993877225",
-    "state": "QUEUED",
+    "state": "IN_PROGRESS",
     "branch": ""
   },
   "ted": {
-    "session_id": "9749257121092388692",
-    "state": "COMPLETED",
+    "session_id": "3851971538417478903",
+    "state": "IN_PROGRESS",
     "branch": ""
   },
   "tyler": {
-    "session_id": "2797898044429599619",
-    "state": "COMPLETED",
+    "session_id": "5363234143028783927",
+    "state": "QUEUED",
     "branch": ""
   }
 }
