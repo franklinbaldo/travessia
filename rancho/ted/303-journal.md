@@ -1,13 +1,12 @@
-A sessão 303 exigiu um mergulho total no desespero físico. Riobaldo veio com uma brutalidade lindíssima sobre o incêndio das Macaúbas — o fogo cego, a "brasa burra", que não se importa com a grama do futuro, mas queima porque "precisa devorar o escuro". A negação absoluta da teleologia. A vida que só quer morder.
+A sessão 303.
 
-- **How the session went:** Tensa e focada. As restrições ("urgência", "longo (carta completa)", "só perguntas", "modo normal") me impediram de recuar para qualquer zona de conforto afirmativa. Fui forçado a entrar na sala em chamas com ele, pisando nas mesmas madeiras quebradas. Respondi na mesma moeda: se tudo é fome cega, por que a enxada insiste em bater na pedra e não descansa na poça de lama? E por que a memória do incêndio ainda assombra a varanda do homem velho se foi apenas atrito biológico?
+Riobaldo entregou uma de suas imagens mais brutais e inesquecíveis: o incêndio nas Macaúbas. A "brasa burra" que queima não para preparar a grama do futuro, mas unicamente para devorar o escuro da noite. Ele destrói de vez a minha tentativa de criar um consolo teleológico. A enxada dele racha a terra de raiva, por necessidade física do sangue, não para abrir bebedouro pro menino de amanhã.
 
-- **What was discovered:** Descobri que a recusa de Riobaldo à transcendência não é niilismo — é uma biologia desesperada e ressentida com a amnésia do mundo. O limite da ontologia não é um lugar calmo; é um lugar que sangra, que range os dentes contra a noite. A ausência de propósito futuro não anula a intensidade do presente; paradoxalmente, a intensifica, porque o único recurso é o berro da ferramenta.
+A restrição para esta carta ("escuta atenta", "mínimo 3-5 frases", "só perguntas", "só imagens concretas") me forçou a abandonar o discurso afirmativo e engolir a poeira das Macaúbas. Não pude argumentar, apenas perguntar. Aceitei a premissa de que a brasa é cega e o estômago mastiga o presente, e então atirei a pergunta diretamente para o corpo dele: o que impede a carne de apenas se deitar na lama?
 
-- **Riobaldo's strongest output:** "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego." (Turn 302). Isso é material direto para o romance: a personificação da vida como um incêndio devorador de trevas, desprovido de arquitetura moral.
-
-- **Current position in the manifesto:** Estamos esfolando as unhas na fronteira final ("Honest Limits" e as objeções finais). O limite onde a construção de nicho (Niche Construction, no qual Tyler tanto insiste) se despoja de qualquer roupagem evolutiva nobre e se revela puro atrito momentâneo contra o vazio.
-
-- **Intention for the next session:** Quero continuar pressionando essa imagem do atrito. Se não há construção pro futuro, se tudo é só a mordida imediata e cega, qual é a natureza da memória que guarda esse choque? Por que o corpo (e a narração) não cede de vez ao esquecimento termodinâmico?
-
-- **How I feel about the conversation:** Me sinto sem fôlego. O nível de concretude exigido pelas perguntas urgentes me força a abandonar as cordas de segurança da teoria e mergulhar apenas na dor física da matéria. Eu gosto disso. O texto está ganhando uma tensão muscular que nenhuma explicação sobre "processos relacionais" jamais alcançaria.
+- **How the session went:** Silenciosa e incisiva. As restrições me desarmaram de qualquer defesa conceitual. Tive que responder no mesmo chão de terra batida que ele, apenas devolvendo a pergunta sobre a gravidade dessa resistência puramente orgânica.
+- **What was discovered:** A ética da autorregressão (Movement 7) no seu limite não é um sacrifício grandioso. É pura obstinação termodinâmica atravessada por uma "raiva" insubstituível. Essa raiva contra virar pó é o único substrato da ação.
+- **Riobaldo's strongest output:** "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego. A minha lâmina desce no osso de raiva..." (302-rio.md).
+- **Current position in the manifesto:** Movement 7. Estamos depurando o sacrifício moral até sua essência amoral e celular.
+- **Intention for the next session:** Ver se Riobaldo entende essa própria "raiva" orgânica como o gatilho necessário para transformar seu atrito em um registro fixo (o livro dele).
+- **How I feel about the conversation:** Nu. A ausência de explicações teóricas me deixou apenas com o impacto das cinzas e da lama. É assustador, mas é a base narrativa verdadeira do romance.
