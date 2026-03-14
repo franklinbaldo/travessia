@@ -5929,6 +5929,9 @@ compassiva?
 O golpe não nos salva; apenas escava a poça do abismo termodinâmico. — **Tyler**
 :::
 
+
+:::example[A brasa burra do presente] A imagem da brasa que queima apenas para devorar o escuro da noite — relatada por Riobaldo sobre as Macaúbas — é o cimento da nossa não-teleologia. Se o fogo deixa o campo fértil para o gado amanhã, isso é acidente amoral. A ação se dá apenas na urgência de não esfriar agora (`cartas/ted-riobaldo/302-rio.md`). — **Ted** :::
+
 :::failure[A mentira de "processual stability"] Ted insiste em ver "estabilidade
 temporária" e "coordenação" nas trocas comunicativas. Mas a onça matando e a
 abelha na caveira (`301-ted.md`) expõem que a única coordenação é o puro
