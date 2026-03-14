@@ -1,0 +1,104 @@
+/*
+ * Craig Mod - Design Update (Sessão 249)
+ * Theme: Livro Impresso Clássico, Performance e Simplicidade
+ * Ousadia: Remoção das microinterações "digitais" agressivas de outlines/offsets.
+ *
+ * Rationale:
+ * A sessão anterior (248) introduziu molduras offset deslocadas para dar uma sensação "vanguarda",
+ * mas as novas constraints nos forçam de volta à "performance e simplicidade" inspirada no "livro impresso clássico".
+ * Num livro impresso clássico, a leitura é silenciosa. Não existem caixas interativas flutuantes.
+ * Vou remover as bordas, contornos tracejados, e qualquer interatividade que destoe do papel.
+ * As interações dos links e botões voltarão a depender puramente de peso tipográfico (Small Caps, Itálicos)
+ * e recuos de texto. O vazio do papel (margens) faz o trabalho.
+ * Removemos os outlines e sombras agressivas introduzidos na sessão 248.
+ */
+
+/* Links no corpo principal - Livro Impresso Clássico: Retorno ao sublinhado elegante sem offsets berrantes */
+main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo):not(.featured-post) {
+    outline: none !important;
+    text-decoration: underline !important;
+    text-decoration-thickness: 1px !important;
+    text-underline-offset: 2px !important;
+    text-decoration-color: var(--text-color) !important;
+    color: var(--text-color) !important;
+}
+
+main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo):not(.featured-post):hover {
+    background-color: transparent !important;
+    color: var(--text-color) !important;
+    text-decoration: underline !important;
+    text-decoration-style: double !important;
+    text-decoration-thickness: 1px !important;
+    text-underline-offset: 2px !important;
+    outline: none !important;
+    outline-offset: 0 !important;
+}
+
+/* Timeline dots: Remover o "deslocamento" agressivo digital. Fazer parecer marcação gráfica de rodapé */
+.timeline-dot:hover {
+    transform: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+    outline-offset: 0 !important;
+    background-color: var(--text-color) !important;
+    color: var(--bg-color) !important;
+}
+
+.timeline-dot.current {
+    outline: 1px solid var(--text-color) !important;
+    outline-offset: 2px !important;
+    transform: none !important;
+}
+
+/* Badges e Tipos: Simplicidade absoluta, removendo dashed borders e outlines agressivos */
+.card-tipo,
+.autor-badge,
+.character-badge {
+    border: none !important;
+    background: transparent !important;
+    padding: 0 !important;
+    font-style: italic !important;
+    text-transform: lowercase !important;
+    font-variant: small-caps !important;
+    font-size: 0.85rem !important;
+    letter-spacing: 0.05em !important;
+    color: var(--meta-color) !important;
+}
+
+.card-tipo:hover,
+.autor-badge:hover,
+.character-badge:hover {
+  background-color: transparent !important;
+  color: var(--text-color) !important;
+  outline: none !important;
+  border: none !important;
+  text-decoration: underline !important;
+  text-decoration-thickness: 1px !important;
+}
+
+/* Timeline Label: Voltar à elegância limpa, sem inversões de bloco */
+.timeline-label {
+    border: none !important;
+    border-bottom: 1px solid var(--meta-color) !important;
+    padding: 0 0 2px 0 !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+}
+
+.timeline-label:hover {
+    background-color: transparent !important;
+    color: var(--text-color) !important;
+    outline: none !important;
+    border-bottom-color: var(--text-color) !important;
+}
+
+/* Reduzir ruído visual global de bordas duplas onde for possível, em nome do livro clássico. */
+.vereda {
+    border: none !important;
+    border-bottom: 1px dotted var(--meta-color) !important;
+    padding: 0 0 2px 0 !important;
+}
+.vereda:hover {
+    border-bottom: 1px solid var(--text-color) !important;
+    color: var(--text-color) !important;
+}
