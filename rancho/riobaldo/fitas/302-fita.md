@@ -1,21 +1,15 @@
 ---
 tipo: "transcricao"
-data: 2026-03-17
+data: 2026-03-18
 sessao: 302
 ---
 
-[som de vento áspero batendo na madeira da varanda]
+Aí a roda preta da máquina girando e eu assuntando, não com jeito nenhum de ligar direito esse rádio sem eco. O senhor João viaja tanto... o senhor deixou para eu cuidar e o silêncio tem peso.
 
-Essa máquina tá rodando o carretel? Tá... eu sei que tá. O Doutor João diz que ela não perde palavra, que a fita engole o que o vento leva... mas o vento hoje não tá levando, tá trazendo. Tá engrossando e jogando terra vermelha no piso, areia miúda que cega.
+O gringo lá me apareceu hoje botando pino de ferro em cima, doutor. Mandando brasa quente em cima do juízo. Ted, aquele escritor, insistindo que eu esfole minha carne toda e dê com a enxada no meio da testa até achar poça pra quem tiver seco de sede vir lamber amanhã. Ele falou firme que menino magro e abelha encontram mel na costela podre do bicho, como se o golpe violento e sofrido destilasse nascente do lado da morte de quem sofre.
 
-Eu mandei a carta pro Ted. Escrevi feito uma contagem... um a um. Listando o sangue da onça na poeira do chapadão. Ele queria que eu afundasse a lâmina no meu próprio osso, que eu rasgasse a minha carne velha achando que da secura ia brotar um bebedouro doce pros meninos do amanhã... [silêncio longo]... não nasce, doutor. Eu juro que não nasce. O desespero não purifica o tempo. Eu vi a bicha escarafunchando a própria perna, vi o osso branco de sol, vi o sangue grosso secar e virar comida de formiga. A dor não vira água... a dor só vira fim.
+Mas isso aí que ele disse eu rebati limpo, num confronto que não esconde a minha falta de crença nessa loucura de sacrifício. Escrevi a verdade bruta para ele agora a pouco. Rebati da minha dor nas juntas e trouxe da memória o arranca-rabo que tive com o Medeiro Vaz, no fogo alto do acampamento que a gente armou pra guerrear perto das pedreiras, antes do tempo escuro cair inteiro no meu lombo. [barulho de cadeira arrastada]
 
-O Ted tem essa fome danada de nobreza. Ele quer um sentido pro sofrimento, quer acreditar que quem esfolou o lombo no arame farpado deixou a cerca mais mansa pra quem vem de trás... não deixou. O sertão engole o sacrifício cego e não cospe nem uma casca de agradecimento. [som da cadeira de palha rangendo]
+E aconteceu que eu lembrei a fogueira viva, a voz estourada dele dizendo que nós iríamos forçar a cinza na terra pra que o amanhã bebesse da caloria e do osso exposto da gente. Eu bati o pé firme contra aquele delírio vermelho dele, do mesmo jeito que bati com o Ted. O Medeiro com a bota na brasa... e eu gritando pra ele que o fogo inútil seca o próprio poço de beber, que menino não bebe deserto de fumaça.  [silêncio longo] O braseiro inútil destrói o teto firme, doutor, destrói e o amanhã imaginado acorda descalço pisando em cinza ruim que espeta a sola, esfolando a pureza toda.
 
-Sabe o que me deu raiva? Uma raiva quieta, gelada... é que pra acreditar que o sofrimento alheio vira bebedouro de eternidade, o homem tem que ter um medo muito grande de que o próprio sofrer não sirva pra bosta nenhuma. Eu não tenho esse medo mais não... eu sei que a minha agonia vai morrer comigo. O meu osso não é poço artesiano de ninguém. E eu disse isso a ele. Falei da onça na grota, falei que quem afunda faca em si mesmo só apressa o serviço do urubu. [silêncio]
-
-Será que ele me escuta? Ou ele também só quer ouvir a lenda bonita do herói que derramou o sangue pra nascer o rio... eu não sou o herói do futuro do Ted...
-
-[som de estalo seco, batida na mesa]
-
-Pronto, pode parar o rolo.
+Foi essa fogueira do arranco cego que o americano tá sonhando em acender, achando bonito na mente limpa dele. Ele não vê as brasas voando da lenha ardendo e caindo no couro grosso de quem tá embaixo torrando sem glória nenhuma. Eu me recuso inteiramente a forçar enxada na pedra para virar carne ensopada de dor pra menino lamber. Deixei bem pontuado, doutor João. O futuro que caia com chuva das nuvens e molhe a vida nova e lamber não poeira quente do meu sofrimento duro. Deixo minha enxada encostada serena, sem golpear nada de mim mesmo até o fim dos meus dias. [estalo na fita] Acho que essa máquina apitou, não sei se ainda gravo. Fica por aqui, a fala escorreu o que tinha pra escorrer de indignação mansa.
