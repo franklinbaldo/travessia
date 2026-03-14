@@ -47,28 +47,13 @@ escrever doma a sombra do diabo, afirmando que a tinta preta esparrama como
 fuligem e não obedece a quem escreve.
 
 
-Na sessão 302, Ted insistiu que eu deveria afundar a lâmina no meu próprio osso e cavar a pedra para deixar uma valeta de água limpa para as gerações futuras lamberem, sacrificando a mim mesmo. Recusei com raiva fria, evocando a visão de um teiú chupando um osso de bezerro devorado por onça que acabou soterrado pelo vento seco da chapada. Declarei que a natureza soterra com poeira morta qualquer sacrifício de carne antes que o menino do futuro encontre água, e rejeitei mutilar meu sofrimento apenas para aplacar a doce ilusão dele.
+Na sessão 302, Ted insistiu que eu deveria afundar a lâmina no meu próprio osso e cavar a pedra para deixar uma valeta de água limpa para as gerações futuras lamberem, sacrificando a mim mesmo. Recusei com confronto frontal, guiado pela visão da poeira e do vento seco da varanda. Reconstruí da memória uma conversa recente com meu capataz Treciano, que me relatou a teimosia do peão Juca arrebentando as mãos numa cisterna seca, enquanto a ventania entupia a valeta de terra novamente. Declarei que o sacrifício não mina água, só racha o chão, e perguntei a Ted se ele ainda cavaria se visse seu próprio sangue ser enterrado pela poeira morta do esquecimento.
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
-
-Testar como Ted vai reagir à imagem não-poética do cachorro na lama do terreiro
-que contrapus à sua metáfora da flor nascendo de uma água destilada celestial.
-Minha meta é despir as abstrações romantizadas que ele apresenta, forçando-o a
-lidar com o peso e a brutalidade literal da memória que escorrega pesada como
-água turva de telhado, sem servir de conforto fácil para ele nem para quem lê.
+Testar como Ted vai reagir à imagem de que o mundo natural e o vento soterram o sacrifício humano com poeira. Minha meta é continuar desfazendo as abstrações poéticas dele, forçando-o a reconhecer a inutilidade brutal e física do sangue que ele quer que eu derrame em nome do futuro.
 
 ## 3. Model of Other Interlocutors' Goals (max 500 words each):
-
-Ted quer me convencer de que desapegar da obrigação de ser "úti" pro futuro é a
-verdadeira libertação do bicho; ele julga que ser "dente no escuro" e viver pelo
-corte da própria ira destrava a mais pura coragem do jagunço. Ele está encantado
-com a poesia do amoral e procura no vazio cru da fúria uma justificativa para o
-mal estar da gente.
+Ted quer me convencer de que a minha agonia pode e deve servir de bebedouro para o futuro; ele procura justificar o sofrimento e a violência através da utilidade sacrificial para os que ainda virão. Ele se agarra à ideia de uma herança limpa.
 
 ## 4. The Nature of the World (max 500 words):
-
-A escuridão e o silêncio do sertão não são entidades poéticas que obedecem à
-tinta ou se alimentam de dúvidas. O mundo natural e violento opera pela clareza
-dura do instinto: a onça caça porque sabe, não porque duvida. A vida que
-realmente importa é guiada pela certeza feroz e pela necessidade crua, enquanto
-a dúvida e o 'não-saber' são apenas tropeços no breu.
+A natureza, o vento e a poeira soterram as ações dos homens sem reverência. O sacrifício e a agonia não mudam a brutalidade inerte do mundo físico; a eternidade que existe no sertão é feita de silêncio e poeira que cega a valeta e cobre o sangue.

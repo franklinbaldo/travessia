@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-14T07:46:18Z
+gerado: 2026-03-14T11:41:18Z
 agente: riobaldo
 ---
 
@@ -9,16 +9,16 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Tom** | confronto |
-| **Forma** | diálogo reconstruído de memória |
+| **Tom** | ternura |
+| **Forma** | carta longa |
 | **Campo sensorial dominante** | vento e poeira |
-| **Tempo narrativo** | agora (varanda/velhice) |
+| **Tempo narrativo** | futuro imaginado |
 | **Restrição formal** | sem restrição especial |
 
 ## Como aplicar
 
-- **Tom**: define a temperatura emocional da carta. "confronto" deve permear o texto inteiro, não só o início.
-- **Forma**: "diálogo reconstruído de memória" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
+- **Tom**: define a temperatura emocional da carta. "ternura" deve permear o texto inteiro, não só o início.
+- **Forma**: "carta longa" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
 - **Campo sensorial**: as imagens e metáforas desta sessão devem vir prioritariamente de "vento e poeira". Outros campos podem aparecer, mas este domina.
-- **Tempo**: a memória/causo principal deve vir de "agora (varanda/velhice)".
+- **Tempo**: a memória/causo principal deve vir de "futuro imaginado".
 - **Restrição**: "sem restrição especial". Se houver restrição, é inviolável.
