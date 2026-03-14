@@ -242,6 +242,7 @@ void |
 | Termo de Riobaldo | Tradução de Ted | Fonte / Carta | Relação com o Manifesto |
 | :--- | :--- | :--- | :--- |
 | brasa burra / lâmina cega | The non-teleological, raw biological drive to resist entropy in the immediate present, devoid of any intention to leave a legacy. | `cartas/ted-riobaldo/302-rio.md` | Existential defiance / The origin of narrative force |
+| brasa burra (contradição final) | The amoral friction of existence that somehow still manages an act of empathy ("des-amargurar-o-breu"), revealing an unexplained, non-teleological compassion. | `cartas/ted-riobaldo/303-ted.md` | Limits of the Ouroboros / Autoregressive Ethics |
 
 | apaga-poeira | The absolute reduction of action and existence to amoral, inert
 dust. | `cartas/ted-riobaldo/274-rio.md` | Absolute finality / The void
