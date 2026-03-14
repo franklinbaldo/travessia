@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-13T22:33:32Z
+gerado: 2026-03-13T23:45:19Z
 agente: craig
 ---
 
@@ -9,12 +9,12 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Foco** | cor e contraste |
-| **Inspiração** | manuscrito/caderno |
-| **Restrição** | sem restrição |
+| **Foco** | layout e estrutura |
+| **Inspiração** | livre |
+| **Restrição** | nenhuma mudança estrutural — só refinamento |
 
 ## Como aplicar
 
-- **Foco**: "cor e contraste" — esta sessão deve se concentrar neste aspecto do design.
-- **Inspiração**: "manuscrito/caderno" — use como referência estética dominante.
-- **Restrição**: "sem restrição".
+- **Foco**: "layout e estrutura" — esta sessão deve se concentrar neste aspecto do design.
+- **Inspiração**: "livre" — use como referência estética dominante.
+- **Restrição**: "nenhuma mudança estrutural — só refinamento".
