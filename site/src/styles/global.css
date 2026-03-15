@@ -139,25 +139,26 @@ h3 {
   text-align: left;
 }
 h1 {
-  font-size: clamp(4rem, 15vw, 12rem);
-  margin: 0 0 4rem;
+  font-size: clamp(3rem, 10vw, 8rem);
+  margin: 0 0 3rem;
   color: var(--text-color);
-  text-transform: uppercase;
-  letter-spacing: -0.1em; /* Brutally tight */
-  line-height: 0.75; /* Letters crashing into each other */
-  word-break: break-all; /* Break words wherever, structural anarchy */
-  transform: translateX(-2vw); /* Pull slightly off grid */
+  text-transform: none;
+  letter-spacing: -0.02em; /* Refined spacing */
+  line-height: 1.1; /* Balanced line-height */
+  word-break: normal; /* Restore legibility */
+  transform: none; /* Align to grid */
 }
 h2 {
-  font-size: clamp(2rem, 8vw, 6rem);
-  margin: 5rem 0 2rem;
+  font-size: clamp(1.8rem, 5vw, 4rem);
+  margin: 4rem 0 2rem;
   color: var(--text-color); /* Editorial */
   background: var(--sand-bg) !important; /* Soft highlight */
-  letter-spacing: -0.05em;
-  padding: 0.2em 0.1em;
-  display: inline-block; /* Wrap text tightly */
-  line-height: 1;
-  transform: rotate(-1deg); /* Slight uneasy tilt */
+  letter-spacing: -0.02em;
+  padding: 0.2em 0.5em; /* Better padding */
+  display: inline-block;
+  line-height: 1.2;
+  transform: none; /* Remove uneasy tilt for refinement */
+  border-radius: 2px;
 }
 h3 {
   font-size: 1.6rem;
