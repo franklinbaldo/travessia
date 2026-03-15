@@ -305,44 +305,45 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     align-items: flex-start;
     gap: 1.5rem;
     transform: none; /* remove counter-rotate */
+    background: transparent !important;
+    padding: 0 !important;
   }
 
   .blog-hero h1 {
-    font-size: clamp(4rem, 15vw, 12rem);
+    font-size: clamp(3rem, 10vw, 8rem);
     margin: 0;
-    letter-spacing: -0.02em;
+    letter-spacing: -0.01em;
     line-height: 1.1;
-    color: var(--bg-color);
+    color: var(--text-color);
     text-transform: none; /* Restore casing */
     font-family: var(--font-body); /* Classic Serif */
-    font-weight: 500; /* Lighter weight for refinement */
+    font-weight: normal; /* Lighter weight for refinement */
     text-align: left;
-    border-bottom: 2px solid var(--accent-color); /* Thinner border */
-    padding-bottom: 0.5rem;
-    width: max-content;
+    border-bottom: 1px solid var(--divider-color); /* Thinner border */
+    padding-bottom: 1rem;
+    width: 100%;
   }
 
   .hero-quote {
     font-style: italic;
     font-family: var(--font-body);
-    font-size: clamp(1.2rem, 2.5vw, 1.8rem);
-    color: var(--bg-color);
+    font-size: clamp(1.1rem, 2vw, 1.4rem);
+    color: var(--text-color);
     margin: 0;
-    line-height: 1.2;
-    font-weight: bold;
+    line-height: 1.6;
+    font-weight: normal;
     text-transform: none;
     max-width: 600px;
     text-align: left;
     padding: 0;
-    background: var(--bg-color); color: var(--text-color);
-    padding: 0.5rem;
-    border-left: 5px solid var(--meta-color);
+    background: transparent;
+    border: none;
   }
 
   .hero-sub {
     font-family: var(--font-meta);
     font-size: 1rem;
-    color: var(--bg-color);
+    color: var(--meta-color);
     text-transform: none;
     margin: 0;
     max-width: 500px;
@@ -353,7 +354,7 @@ const tipos = ['todos', ...Array.from(tiposSet)];
   .hero-characters {
     display: flex;
     gap: 1.5rem;
-    margin-top: 1rem;
+    margin-top: 1.5rem;
     justify-content: flex-start;
     align-items: flex-start;
     flex-wrap: wrap;
@@ -361,50 +362,35 @@ const tipos = ['todos', ...Array.from(tiposSet)];
 
   .character-badge {
     display: inline-block;
-    padding: 0.5rem 1rem;
-    border: 1px solid var(--bg-color);
+    padding: 0;
+    border: none;
+    border-bottom: 1px solid var(--text-color);
     letter-spacing: 0.05em;
     font-family: var(--font-meta);
-    font-size: 1rem;
+    font-size: 0.9rem;
     text-transform: uppercase;
-    background: var(--bg-color);
+    background: transparent;
     color: var(--text-color);
-    font-weight: bold;
-    /* Using nth-child selectors below instead of invalid random() */
+    font-weight: normal;
   }
 
-  /* Remove random rotations for refinement */
   .character-badge:nth-child(1) { transform: none; }
   .character-badge:nth-child(2) { transform: none; }
 
   /* Blog Feed List - Scattered Manuscript Pages */
   .blog-feed {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 3rem 2rem;
-    border-top: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    border-top: 2px solid var(--text-color);
     margin-top: 2rem;
     position: relative;
-    /* Linha de caderno (background) crua e exposta */
     background-color: transparent;
-    padding: 3rem 1rem;
-    background-attachment: local;
+    padding: 0;
   }
 
   :global([data-theme="dark"]) .blog-feed {
     background-color: transparent;
-  }
-
-  /* Asymmetric scattered layout for manuscript tension */
-  :global(.blog-feed > *:nth-child(odd)) {
-    margin-top: 2rem;
-  }
-  :global(.blog-feed > *:nth-child(even)) {
-    margin-top: -1rem;
-  }
-  :global(.blog-feed > *:nth-child(3n)) {
-    margin-top: 1rem;
-    grid-column: span 2;
   }
 
   @media (min-width: 900px) {
@@ -440,17 +426,12 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     }
 
     .blog-feed {
-      display: grid !important;
-      grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
-      gap: 5rem 4rem !important;
+      display: flex !important;
+      flex-direction: column !important;
+      gap: 0 !important;
       padding-bottom: 8rem !important;
       margin-top: 0 !important;
-      align-items: start;
-    }
-
-    /* Creating an unstructured, tense grid */
-    :global(.blog-feed > *:nth-child(odd)) {
-        margin-top: 3rem;
+      align-items: stretch;
     }
   }
 
