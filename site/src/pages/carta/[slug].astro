@@ -101,14 +101,16 @@ function autorClasse(autorName: string): string {
 
 <style>
     /* Editorial Magazine Header - High Contrast Contemporary */
+  /* Editorial Magazine Header - High Contrast Contemporary */
   .editorial-header {
-    margin: 4rem auto 3rem;
-    max-width: 65ch;
+    margin: 8rem auto 4rem; /* Increased top margin for deeper entry */
+    max-width: 55ch; /* Narrower measure for the header */
     text-align: left;
-    border-bottom: 3px double var(--text-color);
-    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--text-color); /* Thinner, single line border */
+    padding-bottom: 3rem; /* More breathing room */
     background-color: transparent;
     color: var(--text-color);
+    letter-spacing: -0.01em;
   }
 
   .editorial-header > div, .editorial-header > h1 {
@@ -144,12 +146,12 @@ function autorClasse(autorName: string): string {
 
   .editorial-header h1 {
     font-family: var(--font-body);
-    font-size: clamp(3rem, 8vw, 6rem);
-    line-height: 0.9;
-    margin: 0 0 1.5rem 0;
+    font-size: clamp(2.5rem, 6vw, 4.5rem); /* Slightly smaller, more refined */
+    line-height: 1.1; /* Looser line height */
+    margin: 0 0 2rem 0; /* More space below */
     color: var(--text-color);
-    font-weight: 900;
-    letter-spacing: -0.04em;
+    font-weight: 400; /* Regular weight, not 900 */
+    letter-spacing: -0.02em; /* Tighter letter spacing for serif */
     text-align: left;
   }
 
@@ -239,15 +241,15 @@ function autorClasse(autorName: string): string {
     /* Refined paragraph presentation - Early Print Folio */
   :global(.manuscrito-body p) {
     text-indent: 0 !important;
-    max-width: 75ch !important;
+    max-width: 55ch !important; /* Narrower measure for extreme focus */
     text-align: left !important;
     background-color: transparent !important;
-    margin-bottom: 2.05rem !important;
+    margin-bottom: 2.5rem !important; /* Huge paragraph spacing */
     color: var(--text-color) !important;
-    font-size: 1.15rem !important;
-    line-height: 2.05rem !important;
-    letter-spacing: -0.01em !important;
-    word-spacing: normal !important;
+    font-size: 1.25rem !important; /* Larger text */
+    line-height: 2.2 !important; /* Extreme line-height for forced breathing */
+    letter-spacing: 0.01em !important; /* Slightly open */
+    word-spacing: 0.05em !important;
     hyphens: auto !important;
   }
 
