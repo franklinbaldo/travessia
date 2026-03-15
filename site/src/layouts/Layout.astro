@@ -63,8 +63,8 @@ const isCurrentPage = (path: string) => {
           <a href={`${base}docs/riobaldo-blueprint`} aria-current={isCurrentPage(`${base}docs/riobaldo-blueprint`) ? 'page' : undefined}>Como funciona</a>
           <a href={`${base}docs/events-all-the-way-down`} aria-current={isCurrentPage(`${base}docs/events-all-the-way-down`) ? 'page' : undefined}>O Projeto</a>
           <button id="theme-toggle" aria-label="Alternar tema" aria-pressed="false">
-            <span class="icon-moon">☽</span>
-            <span class="icon-sun">☀</span>
+            <span class="icon-moon" aria-hidden="true">☽</span>
+            <span class="icon-sun" aria-hidden="true">☀</span>
           </button>
         </div>
       </nav>
