@@ -1,0 +1,47 @@
+/* Sessão 258 - Manuscrito, Performance e Simplicidade */
+/* Mudança visível e ousada: quebra violenta da centralidade e margens extremas */
+
+main {
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 2rem 5vw 5rem 15vw !important; /* Margem imensa na esquerda (linha de caderno), texto solto */
+  border: none !important;
+  border-left: 2px solid var(--accent-color) !important; /* Linha de margem clássica de caderno */
+  background-color: transparent !important;
+}
+
+@media (max-width: 600px) {
+  main {
+    padding: 1rem 1rem 3rem 10vw !important;
+  }
+}
+
+p {
+  margin: 0 0 1rem 0 !important;
+  text-indent: 2rem !important; /* Recuo analógico de caderno */
+  line-height: 1.4 !important;
+}
+
+/* Expurgar o excesso de "revista literária" e brutalismo artificial */
+h1 {
+  font-size: 3rem !important;
+  letter-spacing: normal !important;
+  line-height: 1.2 !important;
+  word-break: normal !important;
+  transform: none !important;
+  text-transform: none !important;
+  margin-left: -10vw !important; /* Ousadia: títulos invadem violentamente a margem de segurança */
+}
+
+h2 {
+  background: transparent !important;
+  color: var(--text-color) !important;
+  transform: none !important;
+  letter-spacing: normal !important;
+  padding: 0 !important;
+  margin-left: -5vw !important;
+}
+
+h1 a, h2 a, h3 a {
+  color: inherit !important;
+}
