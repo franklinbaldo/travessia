@@ -70,43 +70,74 @@ const isRich = !!(prev?.autor || next?.autor);
   }
 </nav>
 
+
 <style>
   .footer-nav {
     display: flex;
     justify-content: space-between;
-    gap: 1.5rem;
-    margin-top: 4rem;
+    gap: 2rem;
+    margin-top: 5rem;
     padding-top: 2rem;
-    border-top: 4px solid var(--text-color);
+    border-top: 1px dashed var(--meta-color);
   }
 
   .footer-nav a {
     font-size: 1rem;
+    text-decoration: none;
   }
 
-  /* Brutalist constraints */
+  /* Manuscript constraints: subtle, handwritten note aesthetic */
   .footer-nav-link {
     display: flex;
     flex-direction: column;
-    gap: 0.4rem;
+    gap: 0.5rem;
     position: relative;
     max-width: 45%;
     flex: 1;
-    padding: 1.5rem !important;
+    padding: 1.5rem 1.5rem !important;
 
-    background-color: var(--bg-color) !important;
-    border: 4px solid var(--text-color) !important;
+    background-color: transparent !important;
+    border: none !important;
     border-radius: 0 !important;
-    box-shadow: 8px 8px 0 var(--text-color) !important;
+    box-shadow: none !important;
 
     text-decoration: none;
     transform: none !important;
-    transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease !important;
+    transition: transform 0.2s cubic-bezier(0.25, 1, 0.5, 1) !important;
   }
 
-  :global([data-theme="dark"]) .footer-nav-link {
-    border: 4px solid var(--text-color) !important;
-    box-shadow: 8px 8px 0 var(--accent-color) !important;
+  /* Microinteração de sublinhado estilo rabisco manual */
+  .footer-nav-link::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 10%;
+    width: 80%;
+    height: 2px;
+    background-color: var(--accent-color);
+    border-radius: 50%;
+    transform: scaleX(0) rotate(-1deg);
+    transform-origin: center;
+    opacity: 0.7;
+    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  }
+
+  /* Efeito de papel dobrado no hover */
+  .footer-nav-link:hover {
+    transform: translateY(-3px) rotate(0.5deg) !important;
+    background-color: rgba(0, 0, 0, 0.02) !important;
+  }
+
+  :global([data-theme="dark"]) .footer-nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.03) !important;
+  }
+
+  .footer-nav-link.next:hover {
+    transform: translateY(-3px) rotate(-0.5deg) !important;
+  }
+
+  .footer-nav-link:hover::before {
+    transform: scaleX(1) rotate(-1deg);
   }
 
   .footer-nav-link.next {
@@ -115,51 +146,42 @@ const isRich = !!(prev?.autor || next?.autor);
     margin-left: auto;
   }
 
-  /* Brutalist microinteractions: violent hover state */
-  .footer-nav-link:hover {
-    transform: translate(-2px, -2px) !important;
-    box-shadow: 10px 10px 0 var(--accent-color) !important;
-    background-color: var(--text-color) !important;
-    color: var(--bg-color) !important;
-    border-color: var(--accent-color) !important;
+  .footer-nav-link.next::before {
+    transform: scaleX(0) rotate(1deg);
   }
 
-  :global([data-theme="dark"]) .footer-nav-link:hover {
-    background-color: var(--text-color) !important;
-    color: var(--bg-color) !important;
-    box-shadow: 12px 12px 0 var(--accent-color) !important;
+  .footer-nav-link.next:hover::before {
+    transform: scaleX(1) rotate(1deg);
   }
 
   .footer-nav-dir {
     font-family: var(--font-meta);
-    font-size: 0.75rem;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
+    font-size: 0.8rem;
+    text-transform: lowercase;
+    font-style: italic;
+    letter-spacing: 0.02em;
     color: var(--meta-color);
-    font-weight: 900;
-  }
-
-  .footer-nav-link:hover .footer-nav-dir,
-  .footer-nav-link:hover .footer-nav-autor,
-  .footer-nav-link:hover .footer-nav-titulo {
-    color: var(--bg-color) !important;
+    font-weight: normal;
   }
 
   .footer-nav-autor {
-    font-family: var(--font-meta);
-    font-size: 0.85rem;
-    font-weight: 900;
-    letter-spacing: 0.03em;
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    font-weight: normal;
     color: var(--text-color);
   }
 
   .footer-nav-titulo {
     font-family: var(--font-body);
-    font-size: 1.1rem;
+    font-size: 1.25rem;
     color: var(--text-color);
-    line-height: 1.4;
-    font-weight: bold;
-    letter-spacing: -0.02em;
+    line-height: 1.3;
+    font-weight: normal;
+    font-style: italic;
+  }
+
+  .footer-nav-link:hover .footer-nav-titulo {
+    color: var(--accent-color) !important;
   }
 
   @media (max-width: 600px) {
@@ -170,11 +192,18 @@ const isRich = !!(prev?.autor || next?.autor);
 
     .footer-nav-link {
       max-width: 100%;
+      text-align: center;
+      align-items: center;
     }
 
     .footer-nav-link.next {
-      text-align: right;
-      align-items: flex-end;
+      text-align: center;
+      align-items: center;
+    }
+
+    .footer-nav-link::before {
+      left: 20%;
+      width: 60%;
     }
   }
 </style>
