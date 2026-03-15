@@ -1630,18 +1630,7 @@ main p:nth-of-type(3n) {
   padding-left: 0;
 }
 
-/* Elegant drop cap for the first paragraph to anchor the text block */
-main article p:first-of-type::first-letter, main > div > p:first-of-type::first-letter {
-  font-size: 4.5em;
-  line-height: 0.8;
-  float: left;
-  margin-right: 0.1em;
-  margin-top: -0.1em;
-  color: var(--text-color); /* Restrained color, relying on size and weight for tension */
-  font-weight: 700;
-  font-style: normal;
-  font-family: var(--font-body);
-}
+
 
 main p:first-of-type {
   margin-top: 3rem;
@@ -1660,20 +1649,20 @@ main blockquote {
     text-align: left;
     max-width: 55ch;
     padding: 1rem 2rem;
-    background-color: var(--text-color);
-    color: var(--bg-color);
+    background-color: var(--bg-color); /* Matches manuscript background */
+    color: var(--text-color); /* Matches manuscript text */
     border-left: 10px solid var(--accent-color);
-    box-shadow: 10px 10px 0 var(--accent-color);
+    box-shadow: 10px 10px 0 var(--secondary-color); /* Add red secondary color for contrast */
 }
 [data-theme="dark"] main blockquote {
-    color: var(--bg-color);
+    color: var(--text-color);
 }
 
 main blockquote p {
-    color: var(--bg-color);
+    color: var(--text-color);
 }
 [data-theme="dark"] main blockquote p {
-    color: var(--bg-color);
+    color: var(--text-color);
 }
 /* === Brutal Articles === */
 article {
