@@ -32,38 +32,33 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
 </a>
 
 <style>
-  /* Constraint: Web Brutalista Pura + Microinterações */
-  /* Eliminar complacência editorial e adotar atrito imediato */
+  /* Constraint: Performance e Simplicidade */
+  /* Eliminar interações ruidosas; focar na leitura bruta */
   .featured-post {
     display: block;
     margin-bottom: 4rem;
     text-decoration: none;
-    border-top: 2px solid var(--text-color);
-    border-bottom: 2px solid var(--text-color);
+    border-top: 1px solid var(--text-color);
+    border-bottom: 1px solid var(--text-color);
     color: var(--text-color) !important;
-    padding: 3rem 1rem;
-    transition: none !important; /* Brutalist binary snap */
+    padding: 2rem 0;
+    transition: background-color 0.1s ease !important; /* Minimal interaction */
     background-color: transparent !important;
     transform: none;
-  }
-
-  .featured-post {
     position: relative;
     z-index: 1;
   }
 
   .featured-post::before {
-    display: none !important; /* Remove fluent opacity background fills */
+    display: none !important;
   }
 
-
   .featured-post:hover {
-    background-color: var(--text-color) !important; /* Complete blackout */
-    color: var(--bg-color) !important;
-    border-color: var(--text-color);
-    transform: translate(-10px, -10px) !important; /* Aggressive shift */
-    box-shadow: 10px 10px 0 var(--accent-color) !important; /* Sharp toxic drop shadow */
-    transition: none !important;
+    background-color: var(--sand-bg) !important; /* Performant subtle change */
+    color: var(--text-color) !important;
+    border-color: var(--accent-color);
+    transform: none !important; /* No expensive layout shift */
+    box-shadow: none !important; /* No expensive shadow render */
   }
 
   .featured-post:hover .card-titulo,
@@ -72,8 +67,7 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
   .featured-post:hover time,
   .featured-post:hover .card-meta,
   .featured-post:hover .card-autor {
-    color: var(--bg-color) !important;
-    transition: none !important;
+    color: var(--text-color) !important;
   }
 
   .featured-post .card-titulo,
