@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-15T16:01:01Z
+gerado: 2026-03-15T16:51:35Z
 agente: craig
 ---
 
@@ -9,12 +9,12 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Foco** | layout e estrutura |
-| **Inspiração** | web brutalista |
-| **Restrição** | focar numa única página/componente |
+| **Foco** | microinterações e detalhes |
+| **Inspiração** | livre |
+| **Restrição** | pelo menos uma mudança visível e ousada |
 
 ## Como aplicar
 
-- **Foco**: "layout e estrutura" — esta sessão deve se concentrar neste aspecto do design.
-- **Inspiração**: "web brutalista" — use como referência estética dominante.
-- **Restrição**: "focar numa única página/componente".
+- **Foco**: "microinterações e detalhes" — esta sessão deve se concentrar neste aspecto do design.
+- **Inspiração**: "livre" — use como referência estética dominante.
+- **Restrição**: "pelo menos uma mudança visível e ousada".
