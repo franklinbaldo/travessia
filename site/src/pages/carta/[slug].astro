@@ -100,34 +100,34 @@ function autorClasse(autorName: string): string {
 </Layout>
 
 <style>
-  /* Editorial Magazine Header - High Contrast Contemporary */
+    /* Editorial Magazine Header - High Contrast Contemporary */
   .editorial-header {
     margin: 4rem auto 3rem;
-    max-width: 800px;
+    max-width: 65ch;
     text-align: left;
-    border-bottom: 1px solid var(--divider-color);
+    border-bottom: 3px double var(--text-color);
     padding-bottom: 2rem;
     background-color: transparent;
     color: var(--text-color);
   }
 
   .editorial-header > div, .editorial-header > h1 {
-    max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
+    max-width: 100%;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .editorial-meta-top {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-family: var(--font-meta);
-    font-size: 0.85rem;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    color: var(--meta-color);
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    text-transform: none;
+    letter-spacing: 0.02em;
+    color: var(--text-color);
     margin-bottom: 2rem;
-    border-top: 1px solid var(--divider-color);
+    border-top: 1px solid var(--text-color);
     padding-top: 0.5rem;
   }
 
@@ -137,45 +137,47 @@ function autorClasse(autorName: string): string {
   }
 
   .context-author {
-    font-weight: 700;
-    color: var(--accent-color);
+    font-weight: 400;
+    font-style: italic;
+    color: var(--text-color);
   }
 
   .editorial-header h1 {
     font-family: var(--font-body);
-    font-size: clamp(2.5rem, 6vw, 4.5rem);
-    line-height: 1.1;
-    margin: 0 auto 1.5rem auto;
+    font-size: clamp(3rem, 8vw, 6rem);
+    line-height: 0.9;
+    margin: 0 0 1.5rem 0;
     color: var(--text-color);
-    font-weight: normal;
-    letter-spacing: -0.02em;
+    font-weight: 900;
+    letter-spacing: -0.04em;
     text-align: left;
   }
 
   .editorial-byline {
-    font-family: var(--font-meta);
-    font-size: 1rem;
+    font-family: var(--font-body);
+    font-size: 1.25rem;
     display: flex;
     gap: 0.5rem;
     align-items: center;
-    border: 1px solid var(--text-color);
-    padding: 0.5rem 1rem;
+    border: none;
+    padding: 0;
     display: inline-flex;
+    font-style: italic;
   }
 
   .byline-label {
-    color: var(--meta-color);
+    color: var(--text-color);
     font-weight: normal;
   }
 
   .byline-author {
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
+    font-weight: normal;
+    text-transform: none;
+    letter-spacing: normal;
   }
 
   .byline-author.autor-rio {
-    color: var(--accent-color);
+    color: var(--text-color);
   }
 
   .byline-author.autor-ted {
@@ -231,24 +233,43 @@ function autorClasse(autorName: string): string {
     background-color: transparent !important;
   }
 
-  /* Refined paragraph presentation */
+    /* Refined paragraph presentation - Early Print Folio */
   :global(.manuscrito-body p) {
-    text-indent: 2rem !important;
+    text-indent: 2.5rem !important;
     max-width: 65ch !important;
     text-align: justify !important;
     background-color: transparent !important;
     margin-bottom: 0 !important;
     color: var(--text-color) !important;
+    line-height: 1.35 !important;
+    letter-spacing: -0.01em !important;
+    word-spacing: -0.05em !important;
+    hyphens: auto !important;
   }
 
   :global(.manuscrito-body p:first-of-type) {
     text-indent: 0 !important;
+    margin-top: 2rem !important;
   }
 
-  :global(.manuscrito-body p::first-letter) {
-    color: var(--accent-color);
-    font-weight: bold;
-    font-size: 1.2em;
+  /* Massive Drop Cap - First Paragraph Only */
+  :global(.manuscrito-body p:first-of-type::first-letter) {
+    float: left;
+    font-size: 6rem;
+    line-height: 0.75;
+    padding-top: 0.5rem;
+    padding-right: 0.75rem;
+    padding-left: 0;
+    color: var(--text-color);
+    font-family: var(--font-body);
+    font-weight: 900;
+  }
+
+  /* Reset other first letters */
+  :global(.manuscrito-body p:not(:first-of-type)::first-letter) {
+    color: inherit;
+    font-weight: normal;
+    font-size: inherit;
   }
 
   /* Elegant Blockquote */
