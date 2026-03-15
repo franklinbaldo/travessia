@@ -95,7 +95,7 @@ const {
     grid-template-columns: 1fr;
     gap: 1.5rem;
     transform: none !important;
-    transition: transform 0.1s cubic-bezier(0, 0.5, 0.5, 1), box-shadow 0.1s cubic-bezier(0, 0.5, 0.5, 1), border-color 0.1s ease, background-color 0.1s ease !important;
+    transition: none !important; /* Removed transition for brutalist snap */
   }
 
   @media (min-width: 768px) {
@@ -112,11 +112,11 @@ const {
   }
 
   .blog-card:hover {
-    transform: translateY(-4px) !important;
-    box-shadow: 0 12px 24px -10px rgba(0,0,0,0.15) !important;
-    border-radius: 4px !important;
-    background-color: var(--bg-color) !important;
-    color: var(--text-color) !important;
+    transform: translate(-10px, -10px) !important; /* Brutalist sharp offset */
+    box-shadow: 10px 10px 0 var(--text-color) !important; /* Harsh solid shadow */
+    border-radius: 0 !important; /* Strictly rectangular */
+    background-color: var(--accent-color) !important; /* Abrasive inversion */
+    color: var(--bg-color) !important;
     border: 1px solid var(--text-color) !important;
     z-index: 10;
   }
@@ -124,18 +124,18 @@ const {
 
 
   :global([data-theme="dark"]) .blog-card:hover {
-    background-color: transparent !important;
-    color: var(--text-color) !important;
-    box-shadow: none !important;
+    background-color: var(--accent-color) !important;
+    color: var(--bg-color) !important;
+    box-shadow: 10px 10px 0 var(--text-color) !important;
   }
 
-  /* Maintain text colors during hover */
+  /* Invert text colors forcefully during hover */
   .blog-card:hover .card-titulo,
   .blog-card:hover .card-excerpt,
   .blog-card:hover .card-autor,
   .blog-card:hover time,
   .blog-card:hover .card-subtitulo {
-    color: var(--text-color) !important;
+    color: var(--bg-color) !important;
   }
 
   .blog-card .card-titulo {
