@@ -385,50 +385,52 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     border-top: none;
     margin-top: 2rem;
     position: relative;
-    /* Linha de caderno (background) sutil para a área inteira de feed */
+    /* Linha de caderno (background) crua e exposta */
     background-image: repeating-linear-gradient(
       transparent,
-      transparent 1.5rem,
-      rgba(0, 0, 0, 0.02) 1.5rem,
-      rgba(0, 0, 0, 0.02) 1.55rem
+      transparent 2.95rem,
+      var(--divider-color) 2.95rem,
+      var(--divider-color) 3rem
     );
     padding: 3rem 1rem;
+    background-attachment: local;
   }
 
   :global([data-theme="dark"]) .blog-feed {
     background-image: repeating-linear-gradient(
       transparent,
-      transparent 1.5rem,
-      rgba(255, 255, 255, 0.02) 1.5rem,
-      rgba(255, 255, 255, 0.02) 1.55rem
+      transparent 2.95rem,
+      var(--divider-color) 2.95rem,
+      var(--divider-color) 3rem
     );
   }
 
-  /* Remove asymmetric placement for structural refinement */
+  /* Asymmetric scattered layout for manuscript tension */
   :global(.blog-feed > *:nth-child(odd)) {
-    transform: none;
+    transform: translateY(2rem) rotate(-1deg);
   }
   :global(.blog-feed > *:nth-child(even)) {
-    transform: none;
+    transform: translateY(-1rem) rotate(0.5deg);
   }
   :global(.blog-feed > *:nth-child(3n)) {
-    transform: none;
+    transform: translateY(1rem) rotate(1.5deg);
+    grid-column: span 2;
   }
 
   @media (min-width: 900px) {
     :global(main.home-layout) {
-      max-width: 1200px !important;
+      max-width: 1400px !important;
       margin: 0 auto;
       display: block !important;
       padding-top: 3rem !important;
-      padding-left: 4rem !important;
-      padding-right: 4rem !important;
+      padding-left: 5% !important;
+      padding-right: 5% !important;
     }
 
     /* Reset global nav if needed */
     :global(main.home-layout > nav) {
       position: static !important;
-      border-bottom: 3px solid var(--text-color) !important;
+      border-bottom: 2px solid var(--text-color) !important;
       padding: 0 0 1rem 0 !important;
       background: transparent !important;
       margin-bottom: 4rem !important;
@@ -443,22 +445,22 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     }
 
     .hero-typographic {
-      padding: 3rem;
-      margin-left: 2rem;
+      padding: 3rem 0;
+      margin-left: 0;
     }
 
     .blog-feed {
       display: grid !important;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 4rem 3rem !important;
+      grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+      gap: 5rem 4rem !important;
       padding-bottom: 8rem !important;
       margin-top: 0 !important;
       align-items: start;
     }
 
-    /* Creating a structured grid */
+    /* Creating an unstructured, tense grid */
     :global(.blog-feed > *:nth-child(odd)) {
-        margin-top: 0;
+        margin-top: 3rem;
     }
   }
 

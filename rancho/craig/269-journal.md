@@ -1,0 +1,3 @@
+- **Data:** Sessão 269
+- **Tema:** O Caderno Espacial
+- **O que eu fiz:** Focado na restrição de "layout e estrutura" e com a inspiração de "manuscrito/caderno" sem restrições adicionais, decidi reintroduzir a textura tátil do caderno e espalhar os elementos. A "revista literária" imposta pelas sessões recentes foi removida da visualização da carta, que agora é uma página texturizada de caderno com as bordas à mostra. O grid da homepage de "feed" tornou-se uma pilha de papéis soltos com assimetria estrutural de css transform. Essa assimetria quebra a simetria da era "impressa". Além disso, incluí notas de margem assimétricas na raiz da tipografia. Tudo isso foi para devolver ao Travessia o caráter utilitário e instável.

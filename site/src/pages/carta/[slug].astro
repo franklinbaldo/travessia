@@ -188,17 +188,19 @@ function autorClasse(autorName: string): string {
   :global(.classic-print-page) {
     background-color: transparent !important;
     color: var(--text-color) !important;
-    padding: 0 !important;
-    border-left: none !important;
-    margin: 4rem auto 6rem auto !important;
-    max-width: 65ch !important;
+    padding: 0 5% 0 20% !important;
+    border-left: 4px solid var(--accent-color) !important;
+    margin: 4rem 0 6rem 5% !important;
+    max-width: 100% !important;
     font-family: var(--font-body) !important;
     position: relative;
   }
 
   @media (max-width: 600px) {
     :global(.classic-print-page) {
-      padding: 0 1rem !important;
+      padding: 0 1rem 0 3rem !important;
+      margin-left: 1rem !important;
+      border-left: 2px solid var(--accent-color) !important;
       max-width: 100% !important;
     }
   }
@@ -211,12 +213,17 @@ function autorClasse(autorName: string): string {
   :global(.manuscrito-body) {
     display: block;
     width: 100%;
-    max-width: 65ch !important;
-    margin: 4rem auto 6rem auto !important;
+    max-width: 100% !important;
+    margin: 0 !important;
     position: relative;
-    padding: 0 1rem !important;
+    padding: 0 0 2rem 0 !important;
     background-color: transparent !important;
-    background-image: none !important;
+    background-image: repeating-linear-gradient(
+      transparent,
+      transparent 1.95rem,
+      var(--divider-color) 1.95rem,
+      var(--divider-color) 2rem
+    ) !important;
     border: none !important;
     box-shadow: none !important;
   }
@@ -235,15 +242,15 @@ function autorClasse(autorName: string): string {
 
     /* Refined paragraph presentation - Early Print Folio */
   :global(.manuscrito-body p) {
-    text-indent: 2.5rem !important;
-    max-width: 65ch !important;
-    text-align: justify !important;
+    text-indent: 0 !important;
+    max-width: 75ch !important;
+    text-align: left !important;
     background-color: transparent !important;
-    margin-bottom: 0 !important;
+    margin-bottom: 2rem !important;
     color: var(--text-color) !important;
-    line-height: 1.35 !important;
+    line-height: 2rem !important;
     letter-spacing: -0.01em !important;
-    word-spacing: -0.05em !important;
+    word-spacing: normal !important;
     hyphens: auto !important;
   }
 
@@ -254,15 +261,13 @@ function autorClasse(autorName: string): string {
 
   /* Massive Drop Cap - First Paragraph Only */
   :global(.manuscrito-body p:first-of-type::first-letter) {
-    float: left;
-    font-size: 6rem;
-    line-height: 0.75;
-    padding-top: 0.5rem;
-    padding-right: 0.75rem;
-    padding-left: 0;
-    color: var(--text-color);
-    font-family: var(--font-body);
-    font-weight: 900;
+    float: none;
+    font-size: inherit;
+    line-height: inherit;
+    padding: 0;
+    color: inherit;
+    font-family: inherit;
+    font-weight: inherit;
   }
 
   /* Reset other first letters */
@@ -274,13 +279,18 @@ function autorClasse(autorName: string): string {
 
   /* Elegant Blockquote */
   :global(.manuscrito-body blockquote) {
-    background-color: transparent !important;
-    border-left: 2px solid var(--accent-color) !important;
-    margin: 3rem 0 !important;
-    padding: 1rem 0 1rem 2rem !important;
-    box-shadow: none !important;
+    background-color: var(--sand-bg) !important;
+    border-left: 10px solid var(--accent-color) !important;
+    margin: 2rem -2rem 2rem 0 !important;
+    padding: 1rem 2rem !important;
+    box-shadow: -10px 10px 0 var(--meta-color) !important;
     font-style: italic;
     color: var(--text-color) !important;
+  }
+
+  :global([data-theme="dark"] .manuscrito-body blockquote) {
+    background-color: transparent !important;
+    box-shadow: -10px 10px 0 var(--text-color) !important;
   }
 
 /* === MANUSCRITO TIMELINE - MICROINTERAÇÕES E DETALHES === */

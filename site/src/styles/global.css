@@ -1665,6 +1665,22 @@ main blockquote p {
 [data-theme="dark"] main blockquote p {
     color: var(--text-color);
 }
+
+/* Asymmetric Notebook Structural Intrusions */
+main p.margin-note {
+  float: right;
+  width: 30%;
+  margin-right: -35%;
+  font-family: var(--font-meta);
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: var(--meta-color);
+  border-left: 2px solid var(--accent-color);
+  padding-left: 1rem;
+  margin-top: 0.5rem;
+  text-align: left;
+  clear: right;
+}
 /* === Brutal Articles === */
 article {
   border-bottom: 2px solid var(--text-color);
