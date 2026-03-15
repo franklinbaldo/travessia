@@ -282,16 +282,23 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     display: inline-block;
     padding: 2rem 3rem;
     background-color: transparent;
-    border: 1px solid var(--divider-color); /* Thinner solid border, refined */
-    transform: none; /* Align to grid */
+    border: 2px dashed var(--meta-color);
+    transform: rotate(-1deg);
     position: relative;
     z-index: 1;
     max-width: 90%;
   }
 
-  /* Removing taped paper effect for refinement */
   .hero-typographic::after {
-      display: none;
+      content: '';
+      position: absolute;
+      top: -10px;
+      left: 10%;
+      width: 80px;
+      height: 25px;
+      background: rgba(0,0,0,0.1);
+      transform: rotate(-3deg);
+      z-index: 2;
   }
 
   :global([data-theme="dark"]) .hero-typographic::after {
@@ -304,20 +311,20 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     justify-content: flex-start;
     align-items: flex-start;
     gap: 1.5rem;
-    transform: none; /* remove counter-rotate */
+    transform: rotate(1deg); /* counter-rotate text slightly */
   }
 
   .blog-hero h1 {
-    font-size: clamp(2.5rem, 6vw, 4.5rem);
+    font-size: clamp(3rem, 8vw, 6rem);
     margin: 0;
-    letter-spacing: -0.02em;
-    line-height: 1.1;
+    letter-spacing: -0.05em;
+    line-height: 0.9;
     color: var(--sand-bg);
-    text-transform: none; /* Restore casing */
-    font-family: var(--font-body); /* Classic Serif */
-    font-weight: 500; /* Lighter weight for refinement */
+    text-transform: lowercase;
+    font-family: var(--font-body); /* Classic Serif, scribbled feel if bold */
+    font-weight: 700;
     text-align: left;
-    border-bottom: 2px solid var(--accent-color); /* Thinner border */
+    border-bottom: 4px solid var(--accent-color);
     padding-bottom: 0.5rem;
     width: max-content;
   }
@@ -373,9 +380,8 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     /* Using nth-child selectors below instead of invalid random() */
   }
 
-  /* Remove random rotations for refinement */
-  .character-badge:nth-child(1) { transform: none; }
-  .character-badge:nth-child(2) { transform: none; }
+  .character-badge:nth-child(1) { transform: rotate(-2deg); }
+  .character-badge:nth-child(2) { transform: rotate(1.5deg); }
 
   /* Blog Feed List - Scattered Manuscript Pages */
   .blog-feed {
@@ -404,15 +410,15 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     );
   }
 
-  /* Remove asymmetric placement for structural refinement */
+  /* Asymmetric Placement Simulation */
   :global(.blog-feed > *:nth-child(odd)) {
-    transform: none;
+    transform: translateY(20px) rotate(-1deg);
   }
   :global(.blog-feed > *:nth-child(even)) {
-    transform: none;
+    transform: translateY(-10px) rotate(1.5deg);
   }
   :global(.blog-feed > *:nth-child(3n)) {
-    transform: none;
+    transform: translateY(10px) rotate(0.5deg);
   }
 
   @media (min-width: 900px) {
@@ -456,9 +462,9 @@ const tipos = ['todos', ...Array.from(tiposSet)];
       align-items: start;
     }
 
-    /* Creating a structured grid */
+    /* Creating a messy masonry feel with grid */
     :global(.blog-feed > *:nth-child(odd)) {
-        margin-top: 0;
+        margin-top: 4rem;
     }
   }
 
