@@ -1,12 +1,12 @@
 {
   "craig": {
-    "session_id": "3046509235806336828",
-    "state": "COMPLETED",
+    "session_id": "10509898347604733261",
+    "state": "QUEUED",
     "branch": ""
   },
   "riobaldo": {
-    "session_id": "2906637926652266717",
-    "state": "COMPLETED",
+    "session_id": "4623558341465701111",
+    "state": "IN_PROGRESS",
     "branch": ""
   },
   "ted": {
