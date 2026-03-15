@@ -386,34 +386,24 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     margin-top: 2rem;
     position: relative;
     /* Linha de caderno (background) crua e exposta */
-    background-image: repeating-linear-gradient(
-      transparent,
-      transparent 2.95rem,
-      var(--divider-color) 2.95rem,
-      var(--divider-color) 3rem
-    );
+    background-color: transparent;
     padding: 3rem 1rem;
     background-attachment: local;
   }
 
   :global([data-theme="dark"]) .blog-feed {
-    background-image: repeating-linear-gradient(
-      transparent,
-      transparent 2.95rem,
-      var(--divider-color) 2.95rem,
-      var(--divider-color) 3rem
-    );
+    background-color: transparent;
   }
 
   /* Asymmetric scattered layout for manuscript tension */
   :global(.blog-feed > *:nth-child(odd)) {
-    transform: translateY(2rem) rotate(-1deg);
+    margin-top: 2rem;
   }
   :global(.blog-feed > *:nth-child(even)) {
-    transform: translateY(-1rem) rotate(0.5deg);
+    margin-top: -1rem;
   }
   :global(.blog-feed > *:nth-child(3n)) {
-    transform: translateY(1rem) rotate(1.5deg);
+    margin-top: 1rem;
     grid-column: span 2;
   }
 
