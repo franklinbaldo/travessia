@@ -282,23 +282,16 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     display: inline-block;
     padding: 2rem 3rem;
     background-color: transparent;
-    border: 2px dashed var(--meta-color);
-    transform: rotate(-1deg);
+    border: 1px solid var(--divider-color); /* Thinner solid border, refined */
+    transform: none; /* Align to grid */
     position: relative;
     z-index: 1;
     max-width: 90%;
   }
 
+  /* Removing taped paper effect for refinement */
   .hero-typographic::after {
-      content: '';
-      position: absolute;
-      top: -10px;
-      left: 10%;
-      width: 80px;
-      height: 25px;
-      background: rgba(0,0,0,0.1);
-      transform: rotate(-3deg);
-      z-index: 2;
+      display: none;
   }
 
   :global([data-theme="dark"]) .hero-typographic::after {
@@ -311,20 +304,20 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     justify-content: flex-start;
     align-items: flex-start;
     gap: 1.5rem;
-    transform: rotate(1deg); /* counter-rotate text slightly */
+    transform: none; /* remove counter-rotate */
   }
 
   .blog-hero h1 {
-    font-size: clamp(3rem, 8vw, 6rem);
+    font-size: clamp(2.5rem, 6vw, 4.5rem);
     margin: 0;
-    letter-spacing: -0.05em;
-    line-height: 0.9;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
     color: var(--sand-bg);
-    text-transform: lowercase;
-    font-family: var(--font-body); /* Classic Serif, scribbled feel if bold */
-    font-weight: 700;
+    text-transform: none; /* Restore casing */
+    font-family: var(--font-body); /* Classic Serif */
+    font-weight: 500; /* Lighter weight for refinement */
     text-align: left;
-    border-bottom: 4px solid var(--accent-color);
+    border-bottom: 2px solid var(--accent-color); /* Thinner border */
     padding-bottom: 0.5rem;
     width: max-content;
   }
@@ -380,8 +373,9 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     /* Using nth-child selectors below instead of invalid random() */
   }
 
-  .character-badge:nth-child(1) { transform: rotate(-2deg); }
-  .character-badge:nth-child(2) { transform: rotate(1.5deg); }
+  /* Remove random rotations for refinement */
+  .character-badge:nth-child(1) { transform: none; }
+  .character-badge:nth-child(2) { transform: none; }
 
   /* Blog Feed List - Scattered Manuscript Pages */
   .blog-feed {
@@ -410,15 +404,15 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     );
   }
 
-  /* Asymmetric Placement Simulation */
+  /* Remove asymmetric placement for structural refinement */
   :global(.blog-feed > *:nth-child(odd)) {
-    transform: translateY(20px) rotate(-1deg);
+    transform: none;
   }
   :global(.blog-feed > *:nth-child(even)) {
-    transform: translateY(-10px) rotate(1.5deg);
+    transform: none;
   }
   :global(.blog-feed > *:nth-child(3n)) {
-    transform: translateY(10px) rotate(0.5deg);
+    transform: none;
   }
 
   @media (min-width: 900px) {
@@ -462,9 +456,9 @@ const tipos = ['todos', ...Array.from(tiposSet)];
       align-items: start;
     }
 
-    /* Creating a messy masonry feel with grid */
+    /* Creating a structured grid */
     :global(.blog-feed > *:nth-child(odd)) {
-        margin-top: 4rem;
+        margin-top: 0;
     }
   }
 
