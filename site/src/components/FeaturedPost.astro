@@ -32,17 +32,16 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
 </a>
 
 <style>
-  /* Constraint: Performance e Simplicidade */
-  /* Eliminar interações ruidosas; focar na leitura bruta */
+  /* Refinement for classic print */
   .featured-post {
     display: block;
     margin-bottom: 4rem;
     text-decoration: none;
-    border-top: 1px solid var(--text-color);
-    border-bottom: 1px solid var(--text-color);
+    border-top: 2px solid var(--text-color);
+    border-bottom: 2px solid var(--text-color);
     color: var(--text-color) !important;
-    padding: 2rem 0;
-    transition: background-color 0.1s ease !important; /* Minimal interaction */
+    padding: 3rem 0;
+    transition: none !important;
     background-color: transparent !important;
     transform: none;
     position: relative;
@@ -54,11 +53,11 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
   }
 
   .featured-post:hover {
-    background-color: var(--sand-bg) !important; /* Performant subtle change */
+    background-color: transparent !important;
     color: var(--text-color) !important;
-    border-color: var(--accent-color);
-    transform: none !important; /* No expensive layout shift */
-    box-shadow: none !important; /* No expensive shadow render */
+    border-color: var(--text-color);
+    transform: none !important;
+    box-shadow: none !important;
   }
 
   .featured-post:hover .card-titulo,
@@ -68,6 +67,10 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
   .featured-post:hover .card-meta,
   .featured-post:hover .card-autor {
     color: var(--text-color) !important;
+  }
+
+  .featured-post:hover .card-titulo {
+    color: var(--accent-color) !important;
   }
 
   .featured-post .card-titulo,

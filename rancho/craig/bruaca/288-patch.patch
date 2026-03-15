@@ -1,0 +1,433 @@
+diff --git a/rancho/craig/288-journal.md b/rancho/craig/288-journal.md
+new file mode 100644
+index 0000000..59786df
+--- /dev/null
++++ b/rancho/craig/288-journal.md
+@@ -0,0 +1,11 @@
++---
++data: 2026-03-15
++sessao: 288
++---
++
++# 288-journal.md
++
++- **Data:** Sessão 288
++- **Tema:** Refinamento do Diretório (Livro Impresso Clássico)
++- **O que eu fiz:**
++De acordo com as constraints da sessão ("layout e estrutura", inspiração "livro impresso clássico" e restrição "nenhuma mudança estrutural — só refinamento"), foquei na consolidação da estrutura das páginas de índice e de cartões do blog (BlogCard e FeaturedPost) que até a última sessão continuavam com resquícios de designs caóticos de iterações antigas focadas no manuscrito desordenado. Sem tocar na estrutura do HTML, eu converti o grid em alvenaria desorganizado ("masonry") que embaralhava cartas para uma lista contínua elegante, própria do índice de um livro impresso. A tipografia e as cores que invertiam brutalmente no `:hover` foram substituídas por refinamentos sutis de cor, recuando o tom para algo passivo, calmo e altamente funcional para leitura prolongada. Essa alteração traz uma calma visual e uma estruturação legível sem criar o ruído visual gerado anteriormente.
+diff --git a/rancho/craig/EXPERIENCE.md b/rancho/craig/EXPERIENCE.md
+index 361afab..7fff0cd 100644
+--- a/rancho/craig/EXPERIENCE.md
++++ b/rancho/craig/EXPERIENCE.md
+@@ -283,6 +283,9 @@ Seguindo as constraints da sessão ("performance e simplicidade", inspiração "
+ As sessões brutalistas passadas impuseram um atrito desnecessário através de animações CSS ruidosas, overrides constantes (`!important`) e estruturas espaciais agressivamente desconstruídas. O objetivo do Sabático 40 ("Brutalismo Arquitetônico") exigia clareza utilitária sem recair no falso polimento de uma revista.
+ Limpei todo o CSS espaguete do componente `.classic-print-page`. Removi as interações pesadas de `box-shadow` e `transform: scale` na timeline da carta, simplificando-a para trocas de estado binárias e performáticas. O texto do corpo da carta, o entrelinhamento e os recuos de parágrafo foram perfeitamente ajustados à tradição do livro impresso (`1.65` de line-height, alinhamento justificado e indentações de `1.5rem` com margens clássicas). Esta intervenção recupera a altíssima performance visual da interface sem sacrificar a tensão estrutural subjacente.
+
++Sessão 288: Refinamento do Diretório (Livro Impresso Clássico).
++De acordo com as constraints ("layout e estrutura", inspiração "livro impresso clássico" e restrição "nenhuma mudança estrutural — só refinamento"), foquei na consolidação da estrutura das páginas de índice e de cartões do blog (BlogCard e FeaturedPost) que continuavam com resquícios de designs caóticos de iterações antigas focadas no manuscrito desordenado. Sem tocar na estrutura do HTML, converti o grid em alvenaria desorganizado ("masonry") que embaralhava cartas para uma lista contínua elegante, própria do índice de um livro impresso. A tipografia e as cores que invertiam brutalmente no `:hover` foram substituídas por refinamentos sutis de cor, recuando o tom para algo passivo, calmo e altamente funcional para leitura prolongada. Essa alteração traz uma calma visual e uma estruturação legível sem criar o ruído visual gerado anteriormente.
++
+
+ 2. **My Goals for the Future (Next N Interactions) (max 500 words):**
+ Meu objetivo para as sessões 281+ é instituir o "Brutalismo Arquitetônico". Quero afastar a interface da mera agressão visual (ruído neon, anti-design caótico) e focar na exposição crua e hiper-legível da estrutura da informação. A beleza deve emergir da organização utilitária, tipografia de alta performance sem enfeites e grids expostos como em um manual técnico. A leitura deve ser clara, porém estéril e mecânica, sem recair no conforto de uma revista de amenidades.
+diff --git a/rancho/craig/next-constraints.md b/rancho/craig/next-constraints.md
+index 2c218f4..39fe26c 100644
+--- a/rancho/craig/next-constraints.md
++++ b/rancho/craig/next-constraints.md
+@@ -1,5 +1,5 @@
+ ---
+-gerado: 2026-03-15T22:02:10Z
++gerado: 2026-03-15T23:03:35Z
+ agente: craig
+ ---
+
+@@ -9,12 +9,12 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
+
+ | Dimensão | Valor sorteado |
+ |----------|---------------|
+-| **Foco** | layout e estrutura |
+-| **Inspiração** | livro impresso clássico |
+-| **Restrição** | nenhuma mudança estrutural — só refinamento |
++| **Foco** | microinterações e detalhes |
++| **Inspiração** | manuscrito/caderno |
++| **Restrição** | focar numa única página/componente |
+
+ ## Como aplicar
+
+-- **Foco**: "layout e estrutura" — esta sessão deve se concentrar neste aspecto do design.
+-- **Inspiração**: "livro impresso clássico" — use como referência estética dominante.
+-- **Restrição**: "nenhuma mudança estrutural — só refinamento".
++- **Foco**: "microinterações e detalhes" — esta sessão deve se concentrar neste aspecto do design.
++- **Inspiração**: "manuscrito/caderno" — use como referência estética dominante.
++- **Restrição**: "focar numa única página/componente".
+diff --git a/site/src/components/BlogCard.astro b/site/src/components/BlogCard.astro
+index 4d0da5f..c967af0 100644
+--- a/site/src/components/BlogCard.astro
++++ b/site/src/components/BlogCard.astro
+@@ -84,58 +84,57 @@ const {
+   /* Directory List Style */
+   .blog-card {
+     background-color: transparent !important;
+-    border: 1px solid transparent !important;
+-    border-bottom: 1px solid var(--text-color) !important;
++    border: none !important;
++    border-bottom: 1px solid var(--divider-color) !important;
+     border-radius: 0 !important;
+     box-shadow: none !important;
++    text-decoration: none;
+
+-    padding: 3rem 1rem !important;
++    padding: 2.5rem 0 !important;
+     margin-bottom: 0 !important;
+     display: grid;
+     grid-template-columns: 1fr;
+     gap: 1.5rem;
+     transform: none !important;
+-    transition: none !important; /* Removed transition for brutalist snap */
++    transition: background-color 0.1s ease !important;
+   }
+
+   @media (min-width: 768px) {
+     .blog-card {
+-      grid-template-columns: 2fr 3fr;
++      grid-template-columns: 1fr 3fr;
+       align-items: baseline;
+-      gap: 3rem;
++      gap: 2rem;
+     }
+   }
+
+   :global([data-theme="dark"]) .blog-card {
+-    border-bottom: 1px solid var(--text-color) !important;
++    border-bottom: 1px solid var(--divider-color) !important;
+     box-shadow: none !important;
+   }
+
+   .blog-card:hover {
+-    transform: translate(-10px, -10px) !important; /* Brutalist sharp offset */
+-    box-shadow: 10px 10px 0 var(--text-color) !important; /* Harsh solid shadow */
+-    border-radius: 0 !important; /* Strictly rectangular */
+-    background-color: var(--accent-color) !important; /* Abrasive inversion */
+-    color: var(--bg-color) !important;
+-    border: 1px solid var(--text-color) !important;
++    transform: none !important;
++    box-shadow: none !important;
++    border-radius: 0 !important;
++    background-color: transparent !important;
++    border-bottom-color: var(--text-color) !important;
++    color: inherit;
+     z-index: 10;
+   }
+
+-
+-
+   :global([data-theme="dark"]) .blog-card:hover {
+-    background-color: var(--accent-color) !important;
+-    color: var(--bg-color) !important;
+-    box-shadow: 10px 10px 0 var(--text-color) !important;
++    background-color: transparent !important;
++    color: inherit;
++    box-shadow: none !important;
+   }
+
+-  /* Invert text colors forcefully during hover */
++  /* Do not invert colors on hover */
+   .blog-card:hover .card-titulo,
+   .blog-card:hover .card-excerpt,
+   .blog-card:hover .card-autor,
+   .blog-card:hover time,
+   .blog-card:hover .card-subtitulo {
+-    color: var(--bg-color) !important;
++    color: var(--text-color) !important;
+   }
+
+   .blog-card .card-titulo {
+@@ -143,9 +142,9 @@ const {
+     font-family: var(--font-body);
+     font-weight: normal;
+     text-transform: none;
+-    letter-spacing: -0.04em;
+-    font-size: 2rem;
+-    line-height: 1.2;
++    letter-spacing: -0.02em;
++    font-size: 1.75rem;
++    line-height: 1.3;
+     margin: 0;
+   }
+
+@@ -153,17 +152,17 @@ const {
+     color: var(--text-color);
+     font-family: var(--font-body);
+     font-size: 1.1rem;
+-    line-height: 1.4;
++    line-height: 1.6;
+     font-weight: 400;
+     margin: 0;
+   }
+
+   .blog-card .card-tipo {
+-    color: var(--text-color);
++    color: var(--meta-color);
+     background-color: transparent;
+     padding: 0;
+     border: none;
+-    font-weight: 700;
++    font-weight: normal;
+     font-size: 0.8rem;
+     text-transform: uppercase;
+     display: inline-block;
+@@ -171,11 +170,10 @@ const {
+
+   .blog-card:hover .card-tipo {
+     background-color: transparent !important;
+-    color: var(--accent-color) !important;
++    color: var(--text-color) !important;
+     border-color: transparent !important;
+-    transform: scaleX(1.1);
+-    transform-origin: left;
+-    transition: transform 0.3s ease, color 0.3s ease;
++    transform: none;
++    transition: color 0.1s ease;
+   }
+
+   .blog-card .card-meta {
+@@ -208,24 +206,18 @@ const {
+   }
+
+
+-  /* === Structural Brutalism: Typography & Spacing === */
++  /* === Editorial Refinement: Typography & Spacing === */
+   .blog-card {
+     position: relative;
+     overflow: visible;
+   }
+
+   .blog-card .card-titulo {
+-    transition: letter-spacing 0.1s ease, color 0.1s ease;
++    transition: color 0.1s ease;
+   }
+
+   .blog-card:hover .card-titulo {
+-    font-style: italic;
+-    color: var(--text-color) !important;
+-    letter-spacing: -0.08em;
+-  }
+-
+-  .blog-card .card-excerpt {
+-    transition: transform 0.1s ease;
++    color: var(--accent-color) !important;
+   }
+
+ </style>
+diff --git a/site/src/components/FeaturedPost.astro b/site/src/components/FeaturedPost.astro
+index 117343f..f4411fb 100644
+--- a/site/src/components/FeaturedPost.astro
++++ b/site/src/components/FeaturedPost.astro
+@@ -32,17 +32,16 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
+ </a>
+
+ <style>
+-  /* Constraint: Performance e Simplicidade */
+-  /* Eliminar interações ruidosas; focar na leitura bruta */
++  /* Refinement for classic print */
+   .featured-post {
+     display: block;
+     margin-bottom: 4rem;
+     text-decoration: none;
+-    border-top: 1px solid var(--text-color);
+-    border-bottom: 1px solid var(--text-color);
++    border-top: 2px solid var(--text-color);
++    border-bottom: 2px solid var(--text-color);
+     color: var(--text-color) !important;
+-    padding: 2rem 0;
+-    transition: background-color 0.1s ease !important; /* Minimal interaction */
++    padding: 3rem 0;
++    transition: none !important;
+     background-color: transparent !important;
+     transform: none;
+     position: relative;
+@@ -54,11 +53,11 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
+   }
+
+   .featured-post:hover {
+-    background-color: var(--sand-bg) !important; /* Performant subtle change */
++    background-color: transparent !important;
+     color: var(--text-color) !important;
+-    border-color: var(--accent-color);
+-    transform: none !important; /* No expensive layout shift */
+-    box-shadow: none !important; /* No expensive shadow render */
++    border-color: var(--text-color);
++    transform: none !important;
++    box-shadow: none !important;
+   }
+
+   .featured-post:hover .card-titulo,
+@@ -70,6 +69,10 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
+     color: var(--text-color) !important;
+   }
+
++  .featured-post:hover .card-titulo {
++    color: var(--accent-color) !important;
++  }
++
+   .featured-post .card-titulo,
+   .featured-post .card-excerpt,
+   .featured-post .featured-label,
+diff --git a/site/src/pages/index.astro b/site/src/pages/index.astro
+index 51f6ce4..f4365cd 100644
+--- a/site/src/pages/index.astro
++++ b/site/src/pages/index.astro
+@@ -305,44 +305,45 @@ const tipos = ['todos', ...Array.from(tiposSet)];
+     align-items: flex-start;
+     gap: 1.5rem;
+     transform: none; /* remove counter-rotate */
++    background: transparent !important;
++    padding: 0 !important;
+   }
+
+   .blog-hero h1 {
+-    font-size: clamp(4rem, 15vw, 12rem);
++    font-size: clamp(3rem, 10vw, 8rem);
+     margin: 0;
+-    letter-spacing: -0.02em;
++    letter-spacing: -0.01em;
+     line-height: 1.1;
+-    color: var(--bg-color);
++    color: var(--text-color);
+     text-transform: none; /* Restore casing */
+     font-family: var(--font-body); /* Classic Serif */
+-    font-weight: 500; /* Lighter weight for refinement */
++    font-weight: normal; /* Lighter weight for refinement */
+     text-align: left;
+-    border-bottom: 2px solid var(--accent-color); /* Thinner border */
+-    padding-bottom: 0.5rem;
+-    width: max-content;
++    border-bottom: 1px solid var(--divider-color); /* Thinner border */
++    padding-bottom: 1rem;
++    width: 100%;
+   }
+
+   .hero-quote {
+     font-style: italic;
+     font-family: var(--font-body);
+-    font-size: clamp(1.2rem, 2.5vw, 1.8rem);
+-    color: var(--bg-color);
++    font-size: clamp(1.1rem, 2vw, 1.4rem);
++    color: var(--text-color);
+     margin: 0;
+-    line-height: 1.2;
+-    font-weight: bold;
++    line-height: 1.6;
++    font-weight: normal;
+     text-transform: none;
+     max-width: 600px;
+     text-align: left;
+     padding: 0;
+-    background: var(--bg-color); color: var(--text-color);
+-    padding: 0.5rem;
+-    border-left: 5px solid var(--meta-color);
++    background: transparent;
++    border: none;
+   }
+
+   .hero-sub {
+     font-family: var(--font-meta);
+     font-size: 1rem;
+-    color: var(--bg-color);
++    color: var(--meta-color);
+     text-transform: none;
+     margin: 0;
+     max-width: 500px;
+@@ -353,7 +354,7 @@ const tipos = ['todos', ...Array.from(tiposSet)];
+   .hero-characters {
+     display: flex;
+     gap: 1.5rem;
+-    margin-top: 1rem;
++    margin-top: 1.5rem;
+     justify-content: flex-start;
+     align-items: flex-start;
+     flex-wrap: wrap;
+@@ -361,52 +362,37 @@ const tipos = ['todos', ...Array.from(tiposSet)];
+
+   .character-badge {
+     display: inline-block;
+-    padding: 0.5rem 1rem;
+-    border: 1px solid var(--bg-color);
++    padding: 0;
++    border: none;
++    border-bottom: 1px solid var(--text-color);
+     letter-spacing: 0.05em;
+     font-family: var(--font-meta);
+-    font-size: 1rem;
++    font-size: 0.9rem;
+     text-transform: uppercase;
+-    background: var(--bg-color);
++    background: transparent;
+     color: var(--text-color);
+-    font-weight: bold;
+-    /* Using nth-child selectors below instead of invalid random() */
++    font-weight: normal;
+   }
+
+-  /* Remove random rotations for refinement */
+   .character-badge:nth-child(1) { transform: none; }
+   .character-badge:nth-child(2) { transform: none; }
+
+   /* Blog Feed List - Scattered Manuscript Pages */
+   .blog-feed {
+-    display: grid;
+-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+-    gap: 3rem 2rem;
+-    border-top: none;
++    display: flex;
++    flex-direction: column;
++    gap: 0;
++    border-top: 2px solid var(--text-color);
+     margin-top: 2rem;
+     position: relative;
+-    /* Linha de caderno (background) crua e exposta */
+     background-color: transparent;
+-    padding: 3rem 1rem;
+-    background-attachment: local;
++    padding: 0;
+   }
+
+   :global([data-theme="dark"]) .blog-feed {
+     background-color: transparent;
+   }
+
+-  /* Asymmetric scattered layout for manuscript tension */
+-  :global(.blog-feed > *:nth-child(odd)) {
+-    margin-top: 2rem;
+-  }
+-  :global(.blog-feed > *:nth-child(even)) {
+-    margin-top: -1rem;
+-  }
+-  :global(.blog-feed > *:nth-child(3n)) {
+-    margin-top: 1rem;
+-    grid-column: span 2;
+-  }
+-
+   @media (min-width: 900px) {
+     :global(main.home-layout) {
+       max-width: 1400px !important;
+@@ -440,17 +426,12 @@ const tipos = ['todos', ...Array.from(tiposSet)];
+     }
+
+     .blog-feed {
+-      display: grid !important;
+-      grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+-      gap: 5rem 4rem !important;
++      display: flex !important;
++      flex-direction: column !important;
++      gap: 0 !important;
+       padding-bottom: 8rem !important;
+       margin-top: 0 !important;
+-      align-items: start;
+-    }
+-
+-    /* Creating an unstructured, tense grid */
+-    :global(.blog-feed > *:nth-child(odd)) {
+-        margin-top: 3rem;
++      align-items: stretch;
+     }
+   }
