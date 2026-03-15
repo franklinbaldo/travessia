@@ -312,7 +312,7 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     margin: 0;
     letter-spacing: -0.02em;
     line-height: 1.1;
-    color: var(--sand-bg);
+    color: var(--bg-color);
     text-transform: none; /* Restore casing */
     font-family: var(--font-body); /* Classic Serif */
     font-weight: 500; /* Lighter weight for refinement */
@@ -326,7 +326,7 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     font-style: italic;
     font-family: var(--font-body);
     font-size: clamp(1.2rem, 2.5vw, 1.8rem);
-    color: var(--sand-bg);
+    color: var(--bg-color);
     margin: 0;
     line-height: 1.2;
     font-weight: bold;
@@ -334,7 +334,7 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     max-width: 600px;
     text-align: left;
     padding: 0;
-    background: transparent;
+    background: var(--bg-color); color: var(--text-color);
     padding: 0.5rem;
     border-left: 5px solid var(--meta-color);
   }
@@ -342,7 +342,7 @@ const tipos = ['todos', ...Array.from(tiposSet)];
   .hero-sub {
     font-family: var(--font-meta);
     font-size: 1rem;
-    color: var(--meta-color);
+    color: var(--bg-color);
     text-transform: none;
     margin: 0;
     max-width: 500px;
@@ -362,13 +362,13 @@ const tipos = ['todos', ...Array.from(tiposSet)];
   .character-badge {
     display: inline-block;
     padding: 0.5rem 1rem;
-    border: 1px solid var(--sand-bg);
+    border: 1px solid var(--bg-color);
     letter-spacing: 0.05em;
     font-family: var(--font-meta);
     font-size: 1rem;
     text-transform: uppercase;
-    background: transparent;
-    color: var(--sand-bg);
+    background: var(--bg-color);
+    color: var(--text-color);
     font-weight: bold;
     /* Using nth-child selectors below instead of invalid random() */
   }
