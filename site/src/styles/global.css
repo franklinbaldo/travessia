@@ -1686,10 +1686,12 @@ article {
 main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo) {
   text-decoration: none;
   background-image: none !important;
-  transition: none !important;
+  transition: color 0.3s ease, background-color 0.3s ease !important;
   z-index: 1;
-  padding: 0 0.2rem;
-  margin: 0 -0.2rem;
+  padding: 0 0.1rem;
+  margin: 0;
+  border-bottom: 1px solid var(--accent-color);
+  color: var(--text-color);
 }
 
 main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo)::after {
@@ -1697,10 +1699,12 @@ main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-conte
 }
 
 main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo):hover {
-  background-color: var(--text-color) !important;
-  color: var(--bg-color) !important;
-  border-radius: 0 !important;
+  background-color: transparent !important;
+  color: var(--accent-color) !important;
+  border-bottom: 2px solid var(--accent-color);
 }
+
+
 
 /* 2. Focus interaction refinement */
 *:focus-visible {
