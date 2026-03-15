@@ -32,19 +32,19 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
 </a>
 
 <style>
-  /* Constraint: Performance e Simplicidade + Revista Literária Contemporânea */
-  /* Removemos transitions complexas, transformações e bg colors pesados.
-     Foco puramente tipográfico. */
+  /* Constraint: Web Brutalista Pura + Microinterações */
+  /* Eliminar complacência editorial e adotar atrito imediato */
   .featured-post {
     display: block;
     margin-bottom: 4rem;
     text-decoration: none;
-    border-top: 1px solid var(--text-color);
-    border-bottom: 1px solid var(--text-color);
+    border-top: 2px solid var(--text-color);
+    border-bottom: 2px solid var(--text-color);
     color: var(--text-color) !important;
-    padding: 3rem 0;
-    transition: opacity 0.2s ease;
+    padding: 3rem 1rem;
+    transition: none !important; /* Brutalist binary snap */
     background-color: transparent !important;
+    transform: none;
   }
 
   .featured-post {
@@ -53,27 +53,17 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
   }
 
   .featured-post::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 0%;
-    height: 100%;
-    background-color: var(--sand-bg);
-    transition: width 0.6s cubic-bezier(0.25, 1, 0.5, 1), opacity 0.6s ease;
-    opacity: 0.5;
-    z-index: -1;
+    display: none !important; /* Remove fluent opacity background fills */
   }
 
-  .featured-post:hover::before {
-    width: 100%;
-  }
 
   .featured-post:hover {
-    background-color: transparent !important;
+    background-color: var(--text-color) !important; /* Complete blackout */
     color: var(--bg-color) !important;
     border-color: var(--text-color);
-    transform: none !important;
+    transform: translate(-10px, -10px) !important; /* Aggressive shift */
+    box-shadow: 10px 10px 0 var(--accent-color) !important; /* Sharp toxic drop shadow */
+    transition: none !important;
   }
 
   .featured-post:hover .card-titulo,
@@ -82,8 +72,8 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
   .featured-post:hover time,
   .featured-post:hover .card-meta,
   .featured-post:hover .card-autor {
-    color: var(--text-color) !important;
-    transition: color 0.3s ease;
+    color: var(--bg-color) !important;
+    transition: none !important;
   }
 
   .featured-post .card-titulo,
@@ -92,7 +82,7 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
   .featured-post time,
   .featured-post .card-meta,
   .featured-post .card-autor {
-    transition: color 0.5s ease;
+    transition: none !important;
   }
 
   .featured-content {

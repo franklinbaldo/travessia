@@ -1701,15 +1701,15 @@ article {
  * inversão absoluta do espaço ou a criação repentina de massa de cor.
  */
 
-/* 1. Basic inline links microinteractions */
+/* 1. Basic inline links microinteractions (Brutalist Strict Binary) */
 main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo) {
   text-decoration: none;
   background-image: none !important;
-  transition: color 0.3s ease, background-color 0.3s ease !important;
+  transition: none !important; /* Brutalist snap */
   z-index: 1;
   padding: 0 0.1rem;
   margin: 0;
-  border-bottom: 1px solid var(--accent-color);
+  border-bottom: 2px solid var(--accent-color); /* Thicker line */
   color: var(--text-color);
 }
 
@@ -1718,29 +1718,30 @@ main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-conte
 }
 
 main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo):hover {
-  background-color: var(--sand-bg) !important;
-  color: var(--text-color) !important;
-  border-bottom: 1px solid var(--text-color);
+  background-color: var(--accent-color) !important; /* Toxic/solid inversion */
+  color: var(--bg-color) !important;
+  border-bottom: 2px solid var(--accent-color);
 }
 
 
 
-/* 2. Focus interaction refinement */
+/* 2. Focus interaction brutalism */
 *:focus-visible {
-  outline: 4px solid var(--text-color) !important;
-  outline-offset: 0 !important;
+  outline: 4px solid var(--accent-color) !important;
+  outline-offset: 4px !important;
   background-color: var(--text-color) !important;
   color: var(--bg-color) !important;
-  transition: all 0.3s ease !important;
+  transition: none !important;
 }
 
-/* 3. Button / Badge strict microinteractions */
+/* 3. Button / Badge harsh microinteractions */
 .card-tipo:hover,
 .autor-badge:hover,
 .character-badge:hover {
-  transform: none !important;
-  transition: all 0.3s ease !important;
-  background-color: var(--text-color) !important;
+  transform: translate(-4px, -4px) !important; /* Brutalist offset */
+  box-shadow: 4px 4px 0 var(--text-color) !important;
+  transition: none !important;
+  background-color: var(--accent-color) !important;
   color: var(--bg-color) !important;
   border-color: var(--text-color) !important;
 }
@@ -1750,4 +1751,8 @@ main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-conte
   display: none !important;
 }
 
-/* Global performance override removed for editorial smoothness */
+/* Global performance override restored for pure brutalist friction */
+* {
+  transition: none !important;
+  animation: none !important;
+}
