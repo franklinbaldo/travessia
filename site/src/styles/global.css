@@ -1599,37 +1599,31 @@ main
 /* === Classic Print Typographic Spacing === */
 /* Focusing on typography, spacing, negative space, and a classic printed book inspiration for the reading page. */
 main p {
-  margin-bottom: 0; /* Classic print uses text-indent, not bottom margins */
-  line-height: 1.65; /* Elegant, breathable rhythm */
-  font-size: 1.25rem; /* Classic reading size */
-  font-family: var(--font-body); /* Should be Cormorant Garamond */
-  font-weight: 400;
-  max-width: 65ch; /* Optimal classic measure */
-  margin-left: auto;
-  margin-right: auto;
-  text-align: left; /* Refinement towards notebook edge */
-  hyphens: auto; /* Proper hyphenation for justified text */
-  letter-spacing: normal;
+  margin-bottom: 2rem;
+  line-height: 1.1;
+  font-size: 1.5rem;
+  font-family: monospace, var(--font-ted);
+  font-weight: 700;
+  max-width: 100%;
+  text-align: left;
+  hyphens: none;
   word-break: normal;
-  border-left: none; /* No more chaotic notebook borders */
-  padding-left: 0;
-  position: relative;
+  border-left: 10px solid var(--text-color);
+  padding-left: 2rem;
   color: var(--text-color);
+  background: transparent;
 }
 
 /* Classic paragraph indentation, except for the first one */
 main p + p {
-  text-indent: 2rem;
+  text-indent: 0;
 }
 
 /* Remove alternating jagged margins */
-main p:nth-of-type(even),
-main p:nth-of-type(3n) {
-  margin-left: auto;
-  margin-right: auto;
-  border-left: none;
-  max-width: 65ch;
-  padding-left: 0;
+main p:nth-of-type(even), main p:nth-of-type(3n) {
+  max-width: 100%;
+  border-left: 10px solid var(--text-color);
+  padding-left: 2rem;
 }
 
 
@@ -1643,19 +1637,18 @@ main p:first-of-type {
  * Mantemos o bloco geométrico, mas em contraste bruto.
  */
 main blockquote {
-    font-size: 1.35rem;
-    line-height: 1.5;
-    margin: 3rem auto;
-    font-style: italic;
-    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 1.2;
+    margin: 4rem 0;
+    font-style: normal;
+    font-weight: 900;
     text-align: left;
-    max-width: 55ch;
-    padding: 1rem 2rem;
-    background-color: var(--bg-color); /* Matches manuscript background */
-    color: var(--text-color); /* Matches manuscript text */
-    border-left: 4px solid var(--text-color);
-    box-shadow: none;
-    opacity: 0.85; /* Add red secondary color for contrast */
+    max-width: 100%;
+    padding: 2rem;
+    background-color: var(--text-color);
+    color: var(--bg-color);
+    border: none;
+    box-shadow: 10px 10px 0 var(--accent-color);
 }
 [data-theme="dark"] main blockquote {
     color: var(--text-color);
