@@ -1,0 +1,59 @@
+diff --git a/site/src/styles/global.css b/site/src/styles/global.css
+index ebcc8a3..9e714eb 100644
+--- a/site/src/styles/global.css
++++ b/site/src/styles/global.css
+@@ -19,12 +19,12 @@
+   --water-border: rgba(43, 43, 43, 0.1);
+   --progress-start: #8b2621;
+   --progress-end: #2b2b2b;
+-  --font-body: "Cormorant Garamond", "Times New Roman", serif;
++  --font-body: "Georgia", "Times New Roman", serif;
+   --font-ted: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   --font-meta: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   --max-width: 100vw;
+   --body-size: 20px;
+-  --body-lh: 1.6;
++  --body-lh: 1.8;
+ }
+
+ [data-theme="dark"] {
+@@ -143,7 +143,7 @@ h1 {
+   margin: 0 0 3rem;
+   color: var(--text-color);
+   text-transform: none;
+-  letter-spacing: -0.02em; /* Refined spacing */
++  letter-spacing: -0.01em;
+   line-height: 1.1; /* Balanced line-height */
+   word-break: normal; /* Restore legibility */
+   transform: none; /* Align to grid */
+@@ -1599,7 +1599,7 @@ main
+ /* Focusing on typography, spacing, negative space, and a classic printed book inspiration for the reading page. */
+ main p {
+   margin-bottom: 0; /* Classic print uses text-indent, not bottom margins */
+-  line-height: 1.65; /* Elegant, breathable rhythm */
++  line-height: 1.8; /* Elegant, breathable rhythm - literary mag */
+   font-size: 1.25rem; /* Classic reading size */
+   font-family: var(--font-body); /* Should be Cormorant Garamond */
+   font-weight: 400;
+@@ -1618,7 +1618,7 @@ main p {
+
+ /* Classic paragraph indentation, except for the first one */
+ main p + p {
+-  text-indent: 2rem;
++  text-indent: 1.5rem;
+ }
+
+ /* Remove alternating jagged margins */
+@@ -1642,9 +1642,9 @@ main p:first-of-type {
+  * Mantemos o bloco geométrico, mas em contraste bruto.
+  */
+ main blockquote {
+-    font-size: 1.35rem;
+-    line-height: 1.5;
+-    margin: 3rem auto;
++    font-size: 1.25rem;
++    line-height: 1.8;
++    margin: 4rem auto;
+     font-style: italic;
+     font-weight: 400;
+     text-align: left;
