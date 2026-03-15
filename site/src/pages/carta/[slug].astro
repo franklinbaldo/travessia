@@ -265,43 +265,29 @@ function autorClasse(autorName: string): string {
 /* === MANUSCRITO TIMELINE - MICROINTERAÇÕES E DETALHES === */
   .correspondence-timeline {
     margin-top: 5rem;
-    padding: 3rem 2rem;
+    padding: 3rem 0;
     background-color: transparent;
-    border: 1px dashed var(--meta-color);
-    border-radius: 4px;
+    border: none;
+    border-top: 1px solid var(--divider-color);
     text-align: left;
     position: relative;
-    /* Linha de caderno (background) sutil */
-    background-image: repeating-linear-gradient(
-      transparent,
-      transparent 1.5rem,
-      rgba(0, 0, 0, 0.05) 1.5rem,
-      rgba(0, 0, 0, 0.05) 1.55rem
-    );
   }
 
-  :global([data-theme="dark"]) .correspondence-timeline {
-    background-image: repeating-linear-gradient(
-      transparent,
-      transparent 1.5rem,
-      rgba(255, 255, 255, 0.05) 1.5rem,
-      rgba(255, 255, 255, 0.05) 1.55rem
-    );
-  }
+
 
   .timeline-label {
     display: inline-block;
-    font-family: var(--font-body);
-    font-style: italic;
-    font-size: 1.2rem;
-    color: var(--text-color);
+    font-family: var(--font-meta);
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--meta-color);
     margin-bottom: 2rem;
     font-weight: normal;
-    background-color: var(--bg-color);
-    padding: 0 10px;
+    background-color: transparent;
+    padding: 0;
     position: relative;
     z-index: 2;
-    transform: rotate(-1deg);
   }
 
   .timeline-dots {
@@ -337,18 +323,7 @@ function autorClasse(autorName: string): string {
   }
 
   /* Microinteração de linha conectando as marcações estilo esboço */
-  .timeline-dots::before {
-    content: '';
-    position: absolute;
-    top: 2.75rem; /* adjusted for padding-top */
-    left: 0;
-    width: 100%;
-    height: 1px;
-    background: var(--meta-color);
-    border-bottom: 1px dashed transparent;
-    opacity: 0.5;
-    z-index: -1;
-  }
+
 
   .timeline-dot.ted {
     border-color: var(--text-color);
@@ -362,9 +337,10 @@ function autorClasse(autorName: string): string {
 
   /* Microinterações detalhadas de Hover */
   .timeline-dot:hover {
-    transform: scale(1.1) translateY(-3px) rotate(5deg);
+    transform: scale(1.1) translateY(-2px);
     background-color: var(--bg-color);
-    box-shadow: 2px 4px 8px rgba(0,0,0,0.1);
+    box-shadow: 2px 2px 0 var(--text-color);
+    border-radius: 0;
   }
 
   .timeline-dot.ted:hover {
@@ -376,7 +352,7 @@ function autorClasse(autorName: string): string {
   .timeline-dot.rio:hover {
     background-color: var(--accent-color);
     color: var(--bg-color);
-    box-shadow: 2px 4px 8px rgba(255, 0, 0, 0.2);
+    box-shadow: 2px 2px 0 var(--accent-color);
   }
 
   /* Estado ativo/corrente como um círculo preenchido de forma imperfeita */
@@ -384,39 +360,22 @@ function autorClasse(autorName: string): string {
     background: transparent;
     color: var(--bg-color) !important;
     border-color: transparent;
-    font-weight: 900;
-    transform: scale(1.2); /* Adjust scale slightly, no global leak */
-    border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%; /* Círculo orgânico estilo tinta */
-    animation: organic-pulse 4s infinite alternate;
-    position: relative;
+    font-weight: 700;
+    transform: scale(1.1);
+    border-radius: 0;
+    background-color: var(--text-color);
     z-index: 10;
   }
 
   /* Apply the actual background correctly specifically for current to prevent leak */
-  .timeline-dot.current::after {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      background: var(--text-color);
-      border-radius: inherit;
-      z-index: -1;
-  }
 
-  .timeline-dot.current.rio::after {
-    background: var(--accent-color);
-  }
 
-  .timeline-dot.current.ted::after {
-    background: var(--meta-color);
-  }
 
-  @keyframes organic-pulse {
-    0% { border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%; }
-    100% { border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%; }
-  }
+
+
+
+
+
 
   @media (max-width: 600px) {
     .correspondence-timeline {
