@@ -1,0 +1,139 @@
+diff --git a/site/src/styles/global.css b/site/src/styles/global.css
+index ebcc8a3..c59f00c 100644
+--- a/site/src/styles/global.css
++++ b/site/src/styles/global.css
+@@ -19,9 +19,10 @@
+   --water-border: rgba(43, 43, 43, 0.1);
+   --progress-start: #8b2621;
+   --progress-end: #2b2b2b;
+-  --font-body: "Cormorant Garamond", "Times New Roman", serif;
++  --font-body: var(--font-mono, monospace); /* Brutalist mechanical reset */
+   --font-ted: "Helvetica Neue", Helvetica, Arial, sans-serif;
+-  --font-meta: "Helvetica Neue", Helvetica, Arial, sans-serif;
++  --font-meta: var(--font-mono, monospace); /* Hard brutalist mono for everything */
++  --font-mono: "Courier New", Courier, monospace; /* Hard brutalist mono */
+   --max-width: 100vw;
+   --body-size: 20px;
+   --body-lh: 1.6;
+@@ -1599,11 +1600,11 @@ main
+ /* Focusing on typography, spacing, negative space, and a classic printed book inspiration for the reading page. */
+ main p {
+   margin-bottom: 0; /* Classic print uses text-indent, not bottom margins */
+-  line-height: 1.65; /* Elegant, breathable rhythm */
+-  font-size: 1.25rem; /* Classic reading size */
+-  font-family: var(--font-body); /* Should be Cormorant Garamond */
++  line-height: 1.15; /* Oppressive density */
++  font-size: 1.5rem; /* Large unrefined text */
++  font-family: var(--font-mono, monospace); /* Raw mechanical feel */
+   font-weight: 400;
+-  max-width: 65ch; /* Optimal classic measure */
++  max-width: 95%; /* Break comfortable measure */
+   margin-left: auto;
+   margin-right: auto;
+   text-align: left; /* Refinement towards notebook edge */
+diff --git a/site/src/pages/index.astro b/site/src/pages/index.astro
+index f53ea37..8454987 100644
+--- a/site/src/pages/index.astro
++++ b/site/src/pages/index.astro
+@@ -314,10 +314,10 @@ const tipos = ['todos', ...Array.from(tiposSet)];
+     line-height: 1.1;
+     color: var(--sand-bg);
+     text-transform: none; /* Restore casing */
+-    font-family: var(--font-body); /* Classic Serif */
+-    font-weight: 500; /* Lighter weight for refinement */
++    font-family: var(--font-mono, monospace); /* Raw mechanical feel */
++    font-weight: 900; /* Maximum weight */
+     text-align: left;
+-    border-bottom: 2px solid var(--accent-color); /* Thinner border */
++    border-bottom: 20px solid var(--text-color); /* Brutalist massive underline */
+     padding-bottom: 0.5rem;
+     width: max-content;
+   }
+@@ -362,7 +362,7 @@ const tipos = ['todos', ...Array.from(tiposSet)];
+   .character-badge {
+     display: inline-block;
+     padding: 0.5rem 1rem;
+-    border: 1px solid var(--sand-bg);
++    border: 10px solid var(--text-color); /* Heavy badge border */
+     letter-spacing: 0.05em;
+     font-family: var(--font-meta);
+     font-size: 1rem;
+@@ -381,7 +381,7 @@ const tipos = ['todos', ...Array.from(tiposSet)];
+   .blog-feed {
+     display: grid;
+     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+-    gap: 3rem 2rem;
++    gap: 0; /* Remove gap for chaotic pile */
+     border-top: none;
+     margin-top: 2rem;
+     position: relative;
+diff --git a/site/src/pages/carta/[slug].astro b/site/src/pages/carta/[slug].astro
+index ed2efcf..6be2e65 100644
+--- a/site/src/pages/carta/[slug].astro
++++ b/site/src/pages/carta/[slug].astro
+@@ -102,10 +102,11 @@ function autorClasse(autorName: string): string {
+ <style>
+     /* Editorial Magazine Header - High Contrast Contemporary */
+   .editorial-header {
+-    margin: 4rem auto 3rem;
++    margin: 0; padding: 4rem 2rem; background: var(--text-color); color: var(--bg-color); /* Inverted brutalist header block */
++    --text-color: var(--bg-color); /* Local override */
+     max-width: 65ch;
+     text-align: left;
+-    border-bottom: 3px double var(--text-color);
++    border-bottom: 20px solid var(--text-color); /* Brutalist massive header border */
+     padding-bottom: 2rem;
+     background-color: transparent;
+     color: var(--text-color);
+@@ -188,12 +189,12 @@ function autorClasse(autorName: string): string {
+   :global(.classic-print-page) {
+     background-color: transparent !important;
+     color: var(--text-color) !important;
+-    font-size: 1.15rem !important;
+-    padding: 0 5% 0 20% !important;
+-    border-left: 4px solid var(--accent-color) !important;
++    font-size: 1.5rem !important; /* Large, unrefined text */
++    padding: 0 0 0 35% !important; /* Brutalist asymmetric shift */
++    border-left: 15px solid var(--text-color) !important; /* Brutalist massive border */
+     margin: 4rem 0 6rem 5% !important;
+     max-width: 100% !important;
+-    font-family: var(--font-body) !important;
++    font-family: var(--font-mono, monospace) !important; /* Raw mechanical feel */
+     position: relative;
+   }
+
+@@ -239,13 +240,13 @@ function autorClasse(autorName: string): string {
+     /* Refined paragraph presentation - Early Print Folio */
+   :global(.manuscrito-body p) {
+     text-indent: 0 !important;
+-    max-width: 75ch !important;
++    max-width: 95% !important; /* Break the comfortable measure */
+     text-align: left !important;
+     background-color: transparent !important;
+     margin-bottom: 2.05rem !important;
+     color: var(--text-color) !important;
+-    font-size: 1.15rem !important;
+-    line-height: 2.05rem !important;
++    font-size: 1.5rem !important; /* Large, unrefined text */
++    line-height: 1.15rem !important; /* Oppressive density */
+     letter-spacing: -0.01em !important;
+     word-spacing: normal !important;
+     hyphens: auto !important;
+@@ -283,7 +284,7 @@ function autorClasse(autorName: string): string {
+     box-shadow: none !important;
+     font-style: italic;
+     color: var(--text-color) !important;
+-    font-size: 1.15rem !important;
++    font-size: 1.5rem !important; /* Large, unrefined text */
+   }
+
+   :global([data-theme="dark"] .manuscrito-body blockquote) {
+@@ -297,7 +298,7 @@ function autorClasse(autorName: string): string {
+     padding: 3rem 0;
+     background-color: transparent;
+     border: none;
+-    border-top: 1px solid var(--divider-color);
++    border-top: 10px solid var(--text-color); /* Brutalist block separation */
+     text-align: left;
+     position: relative;
+   }
