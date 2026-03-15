@@ -1,0 +1,1870 @@
+diff --git a/site/src/pages/carta/[slug].astro b/site/src/pages/carta/[slug].astro
+index 2a0cc16..78e5f79 100644
+--- a/site/src/pages/carta/[slug].astro
++++ b/site/src/pages/carta/[slug].astro
+@@ -102,15 +102,12 @@ function autorClasse(autorName: string): string {
+ <style>
+       /* Editorial Magazine Header - Contemporary */
+   .editorial-header {
+-    margin: 6rem auto 4rem auto !important;
+-    padding: 0 0 2.5rem 0 !important;
+-    border: none !important;
+-    border-bottom: 1px solid var(--divider-color) !important;
+-    background: transparent !important;
+-    max-width: 65ch !important;
+-    text-align: center !important;
+-    color: var(--text-color) !important;
+-    letter-spacing: normal !important;
++    margin: 5rem auto 3rem auto;
++    padding: 0;
++    border: none;
++    max-width: 65ch;
++    text-align: center;
++    color: var(--text-color);
+   }
+
+   .editorial-header > div, .editorial-header > h1 {
+@@ -183,77 +180,56 @@ function autorClasse(autorName: string): string {
+
+     /* Structural Manuscript Theme - Refined Editorial */
+   :global(.classic-print-page) {
+-    background-color: transparent !important;
+-    color: var(--text-color) !important;
+-    font-size: 1.15rem !important;
+-    padding: 0 !important;
+-    border: none !important;
+-    margin: 0 auto !important;
+-    max-width: 65ch !important;
+-    font-family: var(--font-body) !important;
+-    position: relative;
++    color: var(--text-color);
++    font-size: 1.15rem;
++    padding: 0;
++    margin: 0 auto;
++    max-width: 65ch;
++    font-family: var(--font-body);
+   }
+
+   :global(.manuscrito-body) {
+-    display: block !important;
+-    width: 100% !important;
+-    max-width: 100% !important;
+-    margin: 0 auto !important;
+-    position: relative;
+-    padding: 0 0 4rem 0 !important;
+-    background-color: transparent !important;
+-    border: none !important;
+-    box-shadow: none !important;
++    display: block;
++    width: 100%;
++    margin: 0 auto;
++    padding: 0 0 4rem 0;
+   }
+
+   :global(.manuscrito-body > *) {
+     position: relative;
+     z-index: 1;
+-    background-color: transparent !important;
+   }
+
+   :global(.manuscrito-body p) {
+-    text-indent: 1.5rem !important;
+-    max-width: 65ch !important;
+-    text-align: left !important;
+-    background-color: transparent !important;
+-    margin-bottom: 1.5rem !important;
+-    color: var(--text-color) !important;
+-    font-size: 1.15rem !important;
+-    line-height: 1.8 !important;
+-    letter-spacing: 0 !important;
+-    word-spacing: normal !important;
+-    hyphens: auto !important;
+-    font-family: var(--font-body) !important;
+-    border: none !important;
+-    padding: 0 !important;
++    text-indent: 1.5rem;
++    text-align: justify;
++    margin-bottom: 0;
++    line-height: 1.65;
++    hyphens: auto;
+   }
+
+   :global(.manuscrito-body p:first-of-type) {
+-    text-indent: 0 !important;
+-    margin-top: 2rem !important;
++    text-indent: 0;
++    margin-top: 2rem;
+   }
+
+   :global(.manuscrito-body p:first-of-type::first-letter) {
+     float: left;
+-    font-size: 4.5rem;
+-    line-height: 1;
+-    padding: 0.1em 0.1em 0 0;
++    font-size: 4rem;
++    line-height: 0.85;
++    padding-right: 0.1em;
+     color: var(--text-color);
+-    font-family: var(--font-body);
+-    font-style: italic;
++    font-style: normal;
+   }
+
+   :global(.manuscrito-body blockquote) {
+-    background-color: transparent !important;
+-    border-left: 1px solid var(--divider-color) !important;
+-    margin: 2.5rem 0 2.5rem 2rem !important;
+-    padding: 0 0 0 1.5rem !important;
+-    box-shadow: none !important;
++    margin: 2rem 2.5rem;
++    padding-left: 0;
++    border: none;
+     font-style: italic;
+-    color: var(--meta-color) !important;
+-    font-size: 1.15rem !important;
+-    line-height: 1.8 !important;
++    color: var(--text-color);
++    font-size: 1.1rem;
++    text-align: center;
+   }
+
+ /* === MANUSCRITO TIMELINE - MICROINTERAÇÕES E DETALHES === */
+@@ -331,34 +307,28 @@ function autorClasse(autorName: string): string {
+
+   /* Microinterações detalhadas de Hover */
+   .timeline-dot:hover {
+-    transform: scale(1.15);
+-    background-color: var(--sand-bg);
+-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+-    border-color: var(--meta-color);
+-}
++    background-color: var(--text-color);
++    color: var(--bg-color);
++    border-radius: 50%;
++  }
+
+   .timeline-dot.ted:hover {
+-    border-color: var(--meta-color);
+-    color: var(--bg-color);
+     background-color: var(--meta-color);
++    color: var(--bg-color);
+   }
+
+   .timeline-dot.rio:hover {
+     background-color: var(--accent-color);
+     color: var(--bg-color);
+-    box-shadow: 2px 2px 0 var(--accent-color);
+   }
+
+   /* Estado ativo/corrente como um círculo preenchido de forma imperfeita */
+   .timeline-dot.current {
+     color: var(--bg-color) !important;
+     font-weight: 700;
+-    transform: scale(1.2);
+     background-color: var(--text-color);
+     border-color: var(--text-color);
+-    z-index: 10;
+-    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+-}
++  }
+
+   /* Apply the actual background correctly specifically for current to prevent leak */
+
+diff --git a/site/src/styles/global.css b/site/src/styles/global.css
+index 0d4d17a..5a03a39 100644
+--- a/site/src/styles/global.css
++++ b/site/src/styles/global.css
+@@ -3,1677 +3,48 @@
+    Um livro aberto sobre uma mesa de fazenda.
+    =========================== */
+ /*
+- * Craig Mod - Design Update (Sessão 281)
+- * Brutalist primary colors
+- */
+-:root {
+-  --bg-color: #fcfcfb;
+-  --text-color: #2b2b2b;
+-  --accent-color: #d13427;
+-  --secondary-color: #6c6c6b;
+-  --divider-color: rgba(43, 43, 43, 0.15);
+-  --meta-color: #666666;
+-  --noise-op: 0.05;
+-  --sand-bg: #000000;
+-  --water-bg: #eae6db;
+-  --water-border: rgba(43, 43, 43, 0.1);
+-  --progress-start: #8b2621;
+-  --progress-end: #2b2b2b;
+-  --font-body: "Cormorant Garamond", "Times New Roman", serif;
+-  --font-ted: "Helvetica Neue", Helvetica, Arial, sans-serif;
+-  --font-meta: "Helvetica Neue", Helvetica, Arial, sans-serif;
+-  --max-width: 100vw;
+-  --body-size: 20px;
+-  --body-lh: 1.6;
+-}
+-
+-[data-theme="dark"] {
+-  --bg-color: #1a1a19;
+-  --text-color: #eaeaea;
+-  --accent-color: #e65c50;
+-  --secondary-color: #9c9c9a;
+-  --divider-color: rgba(230, 228, 223, 0.15);
+-  --meta-color: #a3a3a1;
+-  --noise-op: 0.05;
+-  --sand-bg: #ffffff;
+-  --water-bg: #2e2e2b;
+-  --water-border: rgba(230, 228, 223, 0.1);
+-  --progress-start: #b54a43;
+-  --progress-end: #e6e4df;
+-}
+-/* === Reset === */
+-*,
+-*::before,
+-*::after {
+-  box-sizing: border-box;
+-}
+-/* === Base === */
+-/* === Global Brutalist Cursor (Removed for Performance) === */
+-body {
+-  cursor: auto;
+-}
+-a,
+-button,
+-.vereda,
+-.blog-card,
+-.featured-post,
+-.timeline-dot {
+-  cursor: auto; /* Simplicity constraint: default cursors */
+-}
+-[data-theme="dark"] body {
+-  cursor: auto;
+-}
+-[data-theme="dark"] a,
+-[data-theme="dark"] button,
+-[data-theme="dark"] .vereda,
+-[data-theme="dark"] .blog-card,
+-[data-theme="dark"] .featured-post,
+-[data-theme="dark"] .timeline-dot {
+-  cursor: auto; /* Simplicity constraint: default cursors */
+-}
+-::selection {
+-  background-color: var(--accent-color);
+-  color: #ffffff;
+-  text-shadow: none;
+-}
+-::-moz-selection {
+-  background-color: var(--accent-color);
+-  color: #ffffff;
+-}
+-[data-theme="dark"] ::selection {
+-  background-color: var(--accent-color);
+-  color: #ffffff;
+-  text-shadow: none;
+-}
+-[data-theme="dark"] ::-moz-selection {
+-  background-color: var(--accent-color);
+-  color: #ffffff;
+-}
+-body {
+-  margin: 0;
+-  padding: 0;
+-  background-color: var(--bg-color);
+-  color: var(--text-color);
+-  font-family: var(--font-body);
+-  font-size: var(--body-size);
+-  line-height: var(--body-lh);
+-  text-rendering: optimizeLegibility;
+-  -webkit-font-smoothing: antialiased;
+-  -moz-osx-font-smoothing: grayscale;
+-}
+-/* Grão de terra (Removed for Performance) */
+-/* === Layout === */
+-main {
+-  max-width: 90vw;
+-  margin: 2rem auto;
+-  padding: 4rem 10%;
+-  border: 1px solid var(--text-color);
+-  /* outline: 1px solid var(--text-color); */
+-  /* outline-offset: 8px; */
+-  background-color: var(--bg-color);
+-  /* box-shadow: inset 0 0 0 1px var(--text-color); */
+-}
+-@media (max-width: 600px) {
+-  main {
+-    padding: 2rem 1rem 3rem;
+-  }
+-}
+-/* === Typography === */
+-h1, h2, h3, h4, h5, h6 {
+-  font-family: var(--font-body);
+-  font-weight: normal;
+-  color: var(--text-color);
+-  text-align: left;
+-  word-break: normal;
+-  text-transform: none;
+-  letter-spacing: normal;
+-}
+-
+-h1 {
+-  font-size: clamp(2.5rem, 5vw, 4rem);
+-  margin: 0 0 3rem;
+-  line-height: 1.1;
+-  letter-spacing: -0.01em;
+-}
+-
+-h2 {
+-  font-size: clamp(2rem, 4vw, 3rem);
+-  margin: 4rem 0 1.5rem;
+-  line-height: 1.2;
+-  border: none;
+-  box-shadow: none;
+-  background: transparent !important;
+-  color: var(--text-color) !important;
+-  padding: 0;
+-  display: block;
+-}
+-
+-h3 {
+-  font-size: clamp(1.5rem, 3vw, 2.25rem);
+-  margin: 3rem 0 1.25rem;
+-  line-height: 1.3;
+-  border: none;
+-  background: transparent !important;
+-  color: var(--text-color) !important;
+-  padding: 0;
+-  display: block;
+-}
+-h1 a, h2 a, h3 a {
+-  color: inherit !important;
+-}
+-.letterpress {
+-}
+-p {
+-  margin: 0 0 3.5rem 0;
+-  text-align: left;
+-  letter-spacing: 0.03em;
+-  word-spacing: 0.05em;
+-}
+-p + p {
+-  text-indent: 0;
+-  margin-top: 0;
+-}
+-ul,
+-ol {
+-  margin: 0 0 1.5rem 1rem;
+-  padding: 0 0 0 1rem;
+-  border-left: 2px solid var(--text-color);
+-  font-family: var(--font-body);
+-}
+-ul {
+-  list-style-type: none;
+-  padding-left: 1.5rem;
+-}
+-ul li {
+-  position: relative;
+-}
+-ul li::before {
+-  content: "-";
+-  position: absolute;
+-  left: -1.25rem;
+-  top: 0.1em;
+-  opacity: 0.8;
+-}
+-ol {
+-  list-style-type: decimal;
+-}
+-ol::marker {
+-  font-family: var(--font-meta);
+-  color: var(--meta-color);
+-  font-weight: 500;
+-}
+-li {
+-  margin-bottom: 0.5rem;
+-  margin-left: -1rem;
+-}
+-blockquote {
+-  margin: 6rem 0;
+-  padding: 3rem 0;
+-  background: transparent;
+-  color: var(--text-color);
+-  border: none;
+-  border-left: 12px solid var(--accent-color);
+-  padding-left: 3rem;
+-  font-family: var(--font-body);
+-  font-size: 2.8rem;
+-  font-style: italic;
+-  font-weight: 400;
+-  box-shadow: none;
+-  text-transform: none;
+-  letter-spacing: 0.02em;
+-  line-height: 1.5;
+-  position: relative;
+-}
+-blockquote::before {
+-  content: "“";
+-  position: absolute;
+-  top: -2rem;
+-  left: 1rem;
+-  font-size: 6rem;
+-  color: var(--accent-color);
+-  font-family: var(--font-body);
+-  opacity: 0.2;
+-}
+-blockquote p {
+-  color: var(--text-color);
+-}
+-blockquote a {
+-  color: var(--accent-color);
+-}
+-[data-theme="dark"] blockquote {
+-  background: var(--bg-color);
+-  color: var(--text-color);
+-  box-shadow: none;
+-}
+-[data-theme="dark"] blockquote p {
+-  color: var(--text-color);
+-}
+-em,
+-i {
+-  letter-spacing: 0.01em;
+-}
+-strong,
+-b {
+-  font-weight: 700; /* Faint ink-bleed typewriter strike effect */
+-}
+-del,
+-s {
+-  text-decoration: none;
+-  position: relative;
+-  display: inline-block;
+-}
+-del,
+-s {
+-  text-decoration: none;
+-  position: relative;
+-}
+-del::after,
+-s::after {
+-  content: "";
+-  position: absolute;
+-  top: 50%;
+-  left: -2px;
+-  right: -2px;
+-  height: 2px;
+-  background-color: var(--text-color);
+-  pointer-events: none;
+-}
+-mark {
+-  background-color: transparent;
+-  padding: 0 0.2em;
+-  border-radius: 0;
+-}
+-hr {
+-  border: none;
+-  border-top: 2px dotted var(--meta-color);
+-  height: 0;
+-  background: transparent;
+-  margin: 3.5rem 0;
+-  opacity: 0.5;
+-}
+-/* === Links === */
+-a {
+-  color: var(--text-color);
+-  text-decoration: none;
+-  background-image: none !important;
+-  background-color: transparent !important;
+-  background: transparent !important;
+-}
+-a:hover {
+-  color: var(--accent-color);
+-}
+-p a,
+-blockquote a,
+-li a {
+-  color: var(--text-color);
+-  text-decoration: underline;
+-  text-underline-offset: 4px;
+-}
+-p a:hover,
+-blockquote a:hover,
+-li a:hover {
+-  color: var(--accent-color);
+-}
+-/* === Navigation === */
+-nav {
+-  display: flex;
+-  justify-content: space-between;
+-  align-items: center;
+-  flex-wrap: wrap;
+-  gap: 0.75rem;
+-  padding-bottom: 1.5rem;
+-  border-bottom: 2px solid var(--text-color);
+-  margin-bottom: 4rem;
+-}
+-nav a {
+-  color: var(--meta-color);
+-  font-family: var(--font-meta);
+-  font-size: 0.85rem;
+-  letter-spacing: 0.03em;
+-  text-transform: uppercase;
+-  text-decoration: none;
+-  border-bottom: none;
+-}
+-nav a:hover {
+-  color: var(--text-color);
+-  opacity: 1;
+-}
+-nav a.logo {
+-  font-family: var(--font-body);
+-  font-weight: 700;
+-  font-size: 1.4rem;
+-  color: var(--accent-color);
+-  text-transform: none;
+-  letter-spacing: 0;
+-  border-bottom: none;
+-  padding-bottom: 0;
+-}
+-nav a.logo:hover {
+-  opacity: 1;
+-}
+-.nav-links {
+-  display: flex;
+-  gap: 1.5rem;
+-  align-items: center;
+-  flex-wrap: wrap;
+-}
+-/* === Separadores === */
+-.separator {
+-  text-align: center;
+-  margin: 3rem 0;
+-  color: var(--accent-color);
+-  font-size: 1.1rem;
+-  letter-spacing: 0.8em;
+-}
+-.separator::before {
+-  content: "· · ·";
+-}
+-.silencio {
+-  text-align: center;
+-  color: var(--meta-color);
+-  margin: 4rem 0;
+-}
+-/* === Author Colors === */
+-.autor-ted {
+-  color: var(--meta-color);
+-}
+-.autor-rio {
+-  color: var(--secondary-color);
+-}
+-/* Ted: prosa limpa, analítica */
+-/* .carta-ted styles defined below in Author Identity section */
+-/* Riobaldo: leve recuo — como quem fala de um lugar mais fundo */
+-/* .carta-riobaldo styles defined below in Author Identity section */
+-@media (max-width: 600px) {
+-  .carta-riobaldo {
+-    padding-left: 1rem;
+-  }
+-}
+-/* === Footer nav === */
+-.footer-nav {
+-  display: flex;
+-  justify-content: space-between;
+-  gap: 1.5rem;
+-  margin-top: 4rem;
+-  padding-top: 2rem;
+-  border-top: 2px solid var(--text-color);
+-}
+-.footer-nav a {
+-  font-size: 1rem;
+-}
+-.footer-nav-link {
+-  display: flex;
+-  flex-direction: column;
+-  gap: 0.25rem;
+-  position: relative;
+-  max-width: 45%;
+-  border-bottom: 2px solid var(--text-color);
+-  padding: 1.25rem 1.25rem 1rem;
+-  background: var(--sand-bg);
+-  border: 2px solid var(--text-color);
+-  border-radius: 0;
+-  border-left: 2px solid var(--text-color);
+-  text-decoration: none;
+-}
+-.footer-nav-link::before {
+-  content: "";
+-  position: absolute;
+-  top: 6px;
+-  left: 50%;
+-  width: 10px;
+-  height: 10px;
+-  background: var(--bg-color);
+-  border-radius: 0;
+-  border: 2px solid var(--text-color);
+-}
+-[data-theme="dark"] .footer-nav-link::before {
+-  border: 2px solid var(--text-color);
+-}
+-.footer-nav-link:hover {
+-  background: var(--text-color);
+-  color: var(--bg-color);
+-  border-color: var(--text-color);
+-  border-left-color: var(--text-color);
+-  opacity: 1;
+-}
+-.footer-nav-link.next {
+-  text-align: right;
+-  align-items: flex-end;
+-  margin-left: auto;
+-}
+-.footer-nav-dir {
+-  font-family: var(--font-meta);
+-  font-size: 0.7rem;
+-  text-transform: uppercase;
+-  letter-spacing: 0.06em;
+-  color: var(--meta-color);
+-}
+-.footer-nav-autor {
+-  font-family: var(--font-meta);
+-  font-size: 0.75rem;
+-  font-weight: 600;
+-  letter-spacing: 0.03em;
+-}
+-.footer-nav-titulo {
+-  font-family: var(--font-body);
+-  font-size: 0.95rem;
+-  color: var(--text-color);
+-  line-height: 1.3;
+-}
+-@media (max-width: 600px) {
+-  .footer-nav {
+-    flex-direction: column;
+-    gap: 1rem;
+-  }
+-  .footer-nav-link {
+-    max-width: 100%;
+-  }
+-  .footer-nav-link.next {
+-    text-align: left;
+-    align-items: flex-start;
+-    border-top: 2px solid var(--text-color);
+-    padding-top: 1rem;
+-  }
+-}
+-/* === Bastidores === */
+-.bastidores-content {
+-  font-family: var(--font-meta);
+-  font-size: 0.95rem;
+-  line-height: 1.6;
+-}
+-.bastidores-content h1,
+-.bastidores-content h2,
+-.bastidores-content h3 {
+-  font-family: var(--font-meta);
+-}
+-/* === Theme toggle === */
+-#theme-toggle {
+-  background: none;
+-  border: 2px solid var(--text-color);
+-  cursor: auto; /* Simplicity constraint: default cursors */
+-  font-size: 1.1rem;
+-  color: var(--meta-color);
+-  padding: 0;
+-  line-height: 1;
+-}
+-#theme-toggle:hover {
+-  color: var(--text-color);
+-}
+-/* === Tables (docs) === */
+-table {
+-  width: 100%;
+-  border-collapse: collapse;
+-  margin: 2rem 0;
+-  font-size: 0.9em;
+-  background-color: var(--sand-bg);
+-  border-top: 2px solid var(--text-color);
+-  border-bottom: 2px solid var(--text-color);
+-}
+-th,
+-td {
+-  text-align: left;
+-  padding: 0.75rem 1rem;
+-  border: 2px solid var(--text-color);
+-  border-right: 2px solid var(--text-color); /* Gridlines simulating a physical ledger */
+-}
+-th:last-child,
+-td:last-child {
+-  border-right: 2px solid var(--text-color);
+-}
+-th {
+-  font-weight: 700;
+-  color: var(--accent-color);
+-  background-color: rgba(
+-    0,
+-    0,
+-    0,
+-    0.02
+-  ); /* Slight tint for table header like ledger paper */
+-  border-bottom: 2px solid var(--text-color);
+-}
+-/* === Code (docs) === */
+-code {
+-  font-family: var(--font-mono, monospace);
+-  font-size: 0.85em;
+-  background: rgba(0, 0, 0, 0.06);
+-  padding: 0.15em 0.35em;
+-  border-radius: 0;
+-  border: 2px solid var(--text-color); /* Subtle border for inline code */ /* Physical typewriter impact */
+-}
+-[data-theme="dark"] code {
+-  background: rgba(255, 255, 255, 0.08);
+-  border-color: rgba(255, 255, 255, 0.05);
+-}
+-pre {
+-  overflow-x: auto;
+-  padding: 1.25rem 1.5rem;
+-  background-color: var(
+-    --sand-bg
+-  ); /* Paper-like background for blocks */ /* Vintage printer paper banding texture */
+-  border-radius: 0;
+-  border: 2px solid var(--text-color);
+-  border-left: 2px solid var(--text-color); /* Tear-off edge effect */ /* Tactile depth */
+-  margin: 2rem 0;
+-  position: relative;
+-}
+-pre code {
+-  background: none;
+-  padding: 0;
+-  border: 2px solid var(--text-color); /* Reset inline code style within pre */
+-  line-height: 1.4rem; /* Match the background banding */
+-}
+-/* === Transitions === */
+-body,
+-body * {
+-}
+-@media (prefers-reduced-motion: reduce) {
+-  body,
+-  body * {
+-  }
+-  html {
+-    scroll-behavior: auto;
+-  }
+-}
+-/* === Reading Progress Bar === */
+-#reading-progress {
+-  position: fixed;
+-  top: 0;
+-  left: 0;
+-  width: 0;
+-  height: 3px;
+-  z-index: 1000;
+-}
+-/* === Back to Top === */
+-#back-to-top {
+-  position: fixed;
+-  bottom: 2.5rem;
+-  right: 2rem;
+-  padding: 0.5rem 0.75rem;
+-  border-radius: 0;
+-  border: 2px solid var(--text-color);
+-  background: var(--sand-bg);
+-  color: var(--meta-color);
+-  font-family: var(--font-meta);
+-  font-size: 0.75rem;
+-  font-weight: 600;
+-  text-transform: uppercase;
+-  letter-spacing: 0.05em;
+-  cursor: auto; /* Simplicity constraint: default cursors */
+-  opacity: 0;
+-  visibility: hidden;
+-  pointer-events: none;
+-  z-index: 100;
+-  display: flex;
+-  align-items: center;
+-  justify-content: center;
+-}
+-#back-to-top::after {
+-  content: "↑";
+-  margin-left: 0.35rem;
+-  font-size: 1rem;
+-  color: var(--accent-color);
+-}
+-#back-to-top.visible {
+-  opacity: 1;
+-  visibility: visible;
+-  pointer-events: auto;
+-}
+-#back-to-top:hover {
+-  background: var(--water-bg);
+-  border-color: var(--water-border);
+-  color: var(--text-color);
+-}
+-@media (max-width: 600px) {
+-  #back-to-top {
+-    bottom: 1.5rem;
+-    right: 1rem;
+-    padding: 0.4rem 0.6rem;
+-  }
+-  #back-to-top::after {
+-    margin-left: 0;
+-  }
+-  #back-to-top span {
+-    display: none;
+-  }
+-}
+-/* === Footer Art (homepage image) === */
+-.footer-art {
+-  text-align: center;
+-  margin: 4rem 0 2rem;
+-  opacity: 0.7;
+-}
+-.footer-art img {
+-  max-width: 100%;
+-  height: auto;
+-  border-radius: 0;
+-}
+-[data-theme="dark"] .footer-art img {
+-}
+-/* === Author Identity (post body) === */
+-.carta-ted {
+-  font-family: var(--font-ted);
+-  padding-left: 0;
+-  border-left: 1px solid var(--text-color);
+-}
+-.carta-riobaldo {
+-  font-family: var(--font-body);
+-  padding-left: 1.5rem;
+-  border-left: 1px solid var(--text-color);
+-}
+-/* === Manuscrito Page === */
+-.manuscrito-header {
+-  margin-bottom: 4rem;
+-  text-align: center;
+-  background-color: transparent;
+-  padding: 4rem 0 2rem;
+-  border-bottom: 1px solid var(--text-color);
+-  border-radius: 0;
+-  margin-top: 2rem;
+-  position: relative;
+-}
+-.manuscrito-header::after {
+-  content: "";
+-  position: absolute;
+-  bottom: -4px;
+-  left: 50%;
+-  width: 50%;
+-  height: 1px;
+-  background-color: var(--text-color);
+-}
+-.manuscrito-header h1 {
+-  font-size: clamp(2.5rem, 5vw, 4rem);
+-  color: var(--text-color);
+-  margin-bottom: 1rem;
+-  line-height: 1.2;
+-  font-weight: normal;
+-  font-family: var(--font-body);
+-  letter-spacing: 0.02em;
+-}
+-.manuscrito-header h2 {
+-  font-size: 1.5rem;
+-  color: var(--text-color);
+-  margin-top: 1rem;
+-  font-weight: normal;
+-}
+-.manuscrito-epigrafe {
+-  margin: 3rem auto;
+-  max-width: 80%;
+-  text-align: right;
+-  border-left: 2px solid var(--text-color);
+-  padding: 0;
+-}
+-.manuscrito-epigrafe p {
+-  font-size: 1.2rem;
+-}
+-.manuscrito-body {
+-  font-size: 1.15rem;
+-  line-height: 1.8;
+-  padding: 3rem 0;
+-  position: relative;
+-  max-width: 65ch;
+-  margin: 4rem auto;
+-  border: none;
+-  background-color: transparent;
+-  background-image: none;
+-  box-shadow: none;
+-  color: var(--text-color);
+-}
+-.manuscrito-body::before {
+-  display: none;
+-}
+-[data-theme="dark"] .manuscrito-body {
+-  background-image: none;
+-  box-shadow: none;
+-}
+-.manuscrito-body > p {
+-  text-align: justify;
+-  margin-bottom: 0;
+-  letter-spacing: normal;
+-  word-spacing: normal;
+-}
+-.manuscrito-body > p + p {
+-  text-indent: 1.5em;
+-}
+-.manuscrito-body > p:first-child {
+-  text-indent: 0;
+-}
+-.manuscrito-body > p:first-of-type::first-letter {
+-  font-size: 3.5em;
+-  float: left;
+-  line-height: 0.8;
+-  padding: 0;
+-  margin-right: 0.1em;
+-  font-family: var(--font-body);
+-  font-weight: normal;
+-  color: var(--text-color);
+-  background-color: transparent;
+-}
+-.manuscrito-body img {
+-  border-radius: 0;
+-  max-width: 100%;
+-  height: auto;
+-  margin: 2.5rem auto;
+-  display: block;
+-  padding: 0.5rem;
+-  background: var(--bg-color);
+-  border: 2px solid var(--text-color);
+-}
+-.manuscrito-body img:hover {
+-  border-radius: 0;
+-}
+-[data-theme="dark"] .manuscrito-body img {
+-  background: var(--sand-bg);
+-}
+-/* === Bastidores Index === */
+-.bastidores-header {
+-  margin-bottom: 3rem;
+-}
+-.bastidores-section {
+-  margin-bottom: 3rem;
+-}
+-.bastidores-section-title {
+-  font-size: 1.3rem;
+-  margin-bottom: 1.25rem;
+-  padding-bottom: 0.5rem;
+-  border-bottom: 2px solid var(--text-color);
+-}
+-.bastidores-title-rio {
+-  border-bottom-color: var(--secondary-color);
+-}
+-.bastidores-title-ted {
+-  border-bottom-color: var(--water-border);
+-}
+-.bastidores-grid {
+-  display: grid;
+-  grid-template-columns: repeat(2, 1fr);
+-  gap: 1rem;
+-}
+-@media (max-width: 600px) {
+-  .bastidores-grid {
+-    grid-template-columns: 1fr;
+-  }
+-}
+-.bastidores-card {
+-  display: block;
+-  padding: 1rem 1.25rem;
+-  background-color: var(--bg-color);
+-  border: 2px solid var(--text-color);
+-  border-radius: 0;
+-  text-decoration: none;
+-  border-left: 2px solid var(--text-color);
+-}
+-.bastidores-card:nth-child(odd) {
+-}
+-.bastidores-card:nth-child(even) {
+-}
+-.bastidores-card:hover {
+-  background-color: var(--water-bg);
+-  opacity: 1;
+-}
+-.bastidores-card-rio {
+-  border-left-color: var(--secondary-color);
+-}
+-.bastidores-card-rio:hover {
+-  border-color: var(--secondary-color);
+-}
+-.bastidores-card-ted {
+-  border-left-color: var(--water-border);
+-}
+-.bastidores-card-ted:hover {
+-  border-color: var(--water-border);
+-}
+-.bastidores-card-id {
+-  display: block;
+-  font-family: var(--font-meta);
+-  font-size: 0.75rem;
+-  text-transform: uppercase;
+-  letter-spacing: 0.05em;
+-  color: var(--meta-color);
+-  margin-bottom: 0.4rem;
+-  font-weight: 600;
+-}
+-.bastidores-card-excerpt {
+-  font-family: var(--font-body);
+-  font-size: 0.88rem;
+-  color: var(--text-color);
+-  line-height: 1.5;
+-  margin: 0;
+-}
+-.bastidores-empty {
+-}
+-/* === Journal Page Header === */
+-.journal-header {
+-  margin-bottom: 2rem;
+-  border-bottom: 2px solid var(--text-color);
+-  padding-bottom: 1rem;
+-}
+-.journal-header h1 {
+-  font-size: 2rem;
+-  color: var(--accent-color);
+-}
+-.journal-body {
+-  font-size: 1.1rem;
+-  line-height: 1.6;
+-}
+-/* === Docs Page === */
+-.docs-body {
+-  font-size: 1.1rem;
+-  line-height: 1.6;
+-}
+-/* === Admonitions (!!! blocks) === */
+-.admonition {
+-  margin: 2.5rem auto;
+-  padding: 1.25rem 1.5rem;
+-  border: 1px solid var(--text-color);
+-  border-radius: 0;
+-  background: var(--bg-color);
+-  position: relative;
+-  max-width: 95%;
+-}
+-.admonition:hover {
+-}
+-.admonition-title {
+-  font-family: var(--font-meta);
+-  font-size: 0.8rem;
+-  font-weight: 700;
+-  text-transform: uppercase;
+-  letter-spacing: 0.04em;
+-  color: var(--accent-color);
+-  margin: 0 0 0.75rem;
+-}
+-.admonition p:last-child {
+-  margin-bottom: 0;
+-}
+-.admonition-quote {
+-  border-left-color: var(--accent-color);
+-}
+-.admonition-example {
+-  border-left-color: var(--progress-start);
+-}
+-.admonition-example .admonition-title {
+-  color: var(--progress-start);
+-}
+-.admonition-warning {
+-  border-left-color: var(--secondary-color);
+-}
+-.admonition-warning .admonition-title {
+-  color: var(--secondary-color);
+-}
+-/* ====================================
+-   Blog Homepage — O Rio e suas Veredas
+-   ==================================== */
+-/* === Home Layout (wider for masonry) === */
+-main.home-layout {
+-  max-width: 650px;
+-}
+-/* === Blog Hero — Split Layout === */
+-.blog-hero {
+-  margin-bottom: 2.5rem;
+-}
+-.hero-split {
+-  display: block;
+-  margin: 0 0 2rem;
+-  border-radius: 0;
+-  overflow: hidden;
+-  border-top: 4px solid var(--text-color);
+-  border-bottom: 4px solid var(--text-color);
+-}
+-.hero-image-col {
+-  position: relative;
+-  overflow: hidden;
+-}
+-.hero-image-col img {
+-  width: 100%;
+-  height: 100%;
+-  object-fit: cover;
+-  display: block;
+-}
+-.hero-image-col::after {
+-  content: "";
+-  position: absolute;
+-  inset: 0;
+-  pointer-events: none;
+-}
+-[data-theme="dark"] .hero-image-col img {
+-}
+-.hero-text-col {
+-  padding: 3rem 2.5rem;
+-  display: flex;
+-  flex-direction: column;
+-  justify-content: center;
+-  gap: 0.6rem;
+-  background: var(--text-color);
+-  color: var(--bg-color);
+-}
+-.blog-hero h1 {
+-  font-size: clamp(3rem, 6vw, 5rem);
+-  margin: 0 0 1rem;
+-  letter-spacing: -0.03em;
+-  line-height: 1.05;
+-  text-transform: uppercase;
+-  font-weight: 700;
+-  color: var(--bg-color);
+-}
+-.hero-quote {
+-  font-size: clamp(0.95rem, 1.4vw, 1.15rem);
+-  color: var(--bg-color);
+-  margin: 0.25rem 0 0;
+-  line-height: 1.5;
+-  border-left: 2px solid var(--accent-color);
+-  padding-left: 1rem;
+-}
+-.hero-sub {
+-  font-family: var(--font-meta);
+-  font-size: 0.78rem;
+-  color: var(--meta-color);
+-  text-transform: uppercase;
+-  letter-spacing: 0.06em;
+-  margin: 0;
+-  line-height: 1.6;
+-}
+-.hero-characters {
+-  display: flex;
+-  gap: 0.6rem;
+-  margin-top: 0.5rem;
+-  flex-wrap: wrap;
+-}
+-.character-badge {
+-  display: inline-block;
+-  padding: 0.3rem 0.9rem;
+-  border: 2px solid var(--text-color);
+-  letter-spacing: 0.1em;
+-  font-family: var(--font-meta);
+-  font-size: 0.62rem;
+-  text-transform: uppercase;
+-  border-radius: 0;
+-  background: var(--sand-bg);
+-}
+-.badge-riobaldo {
+-  color: var(--secondary-color);
+-}
+-.badge-ted {
+-  color: #5a908b;
+-}
+-[data-theme="dark"] .badge-ted {
+-  color: #7ab5b0;
+-}
+-@media (max-width: 700px) {
+-  .hero-split {
+-    margin: 0 -1rem 0;
+-    border-radius: 0;
+-  }
+-  .hero-image-col {
+-    height: 200px;
+-  }
+-  .hero-text-col {
+-    padding: 1.5rem 1.25rem;
+-    gap: 0.5rem;
+-  }
+-}
+-/* === Veredas — Category Navigation === */
+-.veredas {
+-  display: flex;
+-  gap: 0.6rem;
+-  overflow-x: auto;
+-  padding: 0 0 1.5rem;
+-  margin-bottom: 2rem;
+-  border-bottom: 2px solid var(--text-color);
+-  border-top: 2px solid var(--text-color);
+-  scrollbar-width: none;
+-  -ms-overflow-style: none;
+-  justify-content: center;
+-  flex-wrap: wrap;
+-}
+-.veredas::-webkit-scrollbar {
+-  display: none;
+-}
+-.vereda {
+-  background: none;
+-  border: 1px solid var(--text-color);
+-  color: var(--meta-color);
+-  font-family: var(--font-meta);
+-  font-size: 0.75rem;
+-  text-transform: uppercase;
+-  letter-spacing: 0.05em;
+-  padding: 0.35rem 0.9rem;
+-  border-radius: 0;
+-  cursor: auto; /* Simplicity constraint: default cursors */
+-  white-space: nowrap;
+-}
+-.vereda:hover {
+-  background-color: var(--text-color);
+-  color: var(--bg-color);
+-  border-color: var(--text-color);
+-  transform: translateY(-2px);
+-  box-shadow: 2px 2px 0px var(--accent-color);
+-}
+-[data-theme="dark"] .vereda:hover {
+-  background-color: var(--text-color);
+-  color: var(--bg-color);
+-  border-color: var(--text-color);
+-  transform: translateY(-2px);
+-  box-shadow: 2px 2px 0px var(--accent-color);
+-}
+-.vereda.active,
+-.vereda:active {
+-  background: var(--text-color);
+-  border-color: var(--text-color);
+-  color: var(--bg-color);
+-}
+-/* === Blog Feed — Masonry Layout === */
+-.blog-feed {
+-  display: grid;
+-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+-  grid-auto-rows: minmax(min-content, max-content);
+-  gap: 4rem 2rem;
+-  margin-top: 4rem;
+-  border-top: 4px solid var(--text-color);
+-  padding-top: 4rem;
+-}
+-@media (max-width: 600px) {
+-  .blog-feed {
+-    grid-template-columns: 1fr;
+-  }
+-}
+-/* === Blog Card — Gotas no Rio === */
+-.blog-card {
+-  background: var(--bg-color) !important;
+-  position: relative;
+-  display: flex;
+-  flex-direction: column;
+-  break-inside: avoid;
+-  margin-bottom: 0;
+-  border-radius: 0;
+-  text-decoration: none;
+-  padding: 2rem;
+-  border: 3px solid var(--text-color) !important;
+-  box-shadow: 8px 8px 0px var(--text-color);
+-  transition: all 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+-  height: 100%;
+-}
+-.blog-card:hover {
+-  opacity: 1;
+-  background-color: var(--sand-bg) !important;
+-  color: var(--text-color) !important;
+-  border: 3px solid var(--text-color) !important;
+-  transform: translate(-8px, -8px);
+-  box-shadow: 16px 16px 0px var(--accent-color);
+-  z-index: 10;
+-}
+-.blog-card .card-titulo {
+-  transition: color 0.05s linear;
+-}
+-.blog-card:hover .card-titulo,
+-.blog-card:hover .card-excerpt,
+-.blog-card:hover .card-meta,
+-.blog-card:hover .card-tipo,
+-.blog-card:hover .card-autor,
+-.blog-card:hover time {
+-  color: var(--text-color) !important;
+-}
+-.blog-card:hover .card-meta {
+-  border-top: 1px dashed var(--bg-color);
+-}
+-[data-theme="dark"] .blog-card:hover .card-meta {
+-  border-top: 1px dashed var(--bg-color);
+-}
+-/* Classic editorial author indicators */
+-.blog-card[data-autor="rio"]::before {
+-  content: "—";
+-  position: absolute;
+-  left: -1rem;
+-  top: 1.5rem;
+-  color: var(--secondary-color);
+-  font-weight: bold;
+-  opacity: 0;
+-  transition: opacity 0.2s ease;
+-}
+-.blog-card[data-autor="ted"]::before {
+-  content: "—";
+-  position: absolute;
+-  left: -1rem;
+-  top: 1.5rem;
+-  color: var(--text-color);
+-  font-weight: bold;
+-  opacity: 0;
+-  transition: opacity 0.2s ease;
+-}
+-.blog-card:hover::before {
+-  opacity: 1;
+-  left: -1rem;
+-}
+-/* Card elements */
+-.card-tipo {
+-  display: inline-block;
+-  font-family: var(--font-meta);
+-  font-size: 0.65rem;
+-  text-transform: uppercase;
+-  letter-spacing: 0.06em;
+-  padding: 0.2rem 0.55rem;
+-  border-radius: 0;
+-  margin-bottom: 0.75rem;
+-}
+-.tipo-carta {
+-  background: transparent;
+-  color: var(--text-color);
+-  border-bottom: 2px solid var(--text-color);
+-}
+-.tipo-abertura,
+-.tipo-causo {
+-  background: transparent;
+-  color: var(--text-color);
+-  border-bottom: 2px solid var(--text-color);
+-}
+-.tipo-fechamento {
+-  background: transparent;
+-  color: var(--text-color);
+-  border-bottom: 2px solid var(--text-color);
+-}
+-.tipo-fragmento {
+-  background: transparent;
+-  color: var(--text-color);
+-  border-bottom: 2px solid var(--text-color);
+-}
+-.card-titulo {
+-  font-size: 1.35rem;
+-  margin: 0 0 0.5rem;
+-  color: var(--text-color);
+-  line-height: 1.3;
+-  font-weight: 700;
+-  background-color: transparent !important;
+-  background-image: none !important;
+-}
+-.card-subtitulo {
+-  color: var(--accent-color);
+-  font-size: 0.95rem;
+-  margin: 0 0 0.5rem;
+-  font-style: italic;
+-}
+-.card-excerpt {
+-  font-size: 0.95rem;
+-  color: var(--meta-color);
+-  line-height: 1.6;
+-  margin: 0 0 1rem;
+-}
+-/* Card meta (author + date) */
+-.card-meta {
+-  display: flex;
+-  gap: 0.75rem;
+-  align-items: center;
+-  font-family: var(--font-meta);
+-  font-size: 0.75rem;
+-  text-transform: uppercase;
+-  letter-spacing: 0.05em;
+-  color: var(--meta-color);
+-  border-top: 1px dashed rgba(0, 0, 0, 0.1);
+-  padding-top: 0.75rem;
+-}
+-[data-theme="dark"] .card-meta {
+-  border-top: 1px dashed rgba(255, 255, 255, 0.1);
+-}
+-.card-autor {
+-  font-weight: 600;
+-}
+-.card-autor.autor-rio {
+-  color: var(--text-color);
+-}
+-.card-autor.autor-ted {
+-  color: var(--text-color);
+-}
+-/* === Post Meta (reading page header) === */
+-.post-meta {
+-  font-family: var(--font-meta);
+-  font-size: 0.8rem;
+-  text-transform: uppercase;
+-  letter-spacing: 0.06em;
+-  color: var(--meta-color);
+-  display: flex;
+-  gap: 1rem;
+-  align-items: center;
+-  justify-content: center;
+-  margin-top: 0.75rem;
+-}
+-.post-meta time {
+-  font-family: var(--font-meta);
+-  font-size: 0.85rem;
+-  font-weight: 600;
+-  letter-spacing: 0.08em;
+-  text-transform: uppercase;
+-  color: var(--meta-color);
+-  border-bottom: 2px solid var(--text-color);
+-  padding-bottom: 0.1rem;
+-}
+-/* === Carta Author Badge (reading page) === */
+-.carta-autor-badge {
+-  text-align: center;
+-  margin-bottom: 1rem;
+-}
+-.autor-badge {
+-  display: inline-block;
+-  font-family: var(--font-meta);
+-  font-size: 0.75rem;
+-  text-transform: uppercase;
+-  letter-spacing: 0.15em;
+-  padding: 0.3rem 0.9rem;
+-  border-radius: 0;
+-  border: 2px solid var(--text-color);
+-}
+-.autor-badge.autor-rio {
+-  background: var(--sand-bg);
+-  color: var(--text-color);
+-  border-color: var(--divider-color);
+-}
+-.autor-badge.autor-ted {
+-  background: var(--sand-bg);
+-  color: var(--text-color);
+-  border-color: var(--divider-color);
+-}
+-/* Microinteração: Revista Literária Sublinhado Elegante */
+-.autor-badge,
+-.character-badge {
+-  position: relative;
+-  overflow: hidden;
+-  transition:
+-    color 0.3s ease,
+-    background-color 0.3s ease;
+-}
+-.autor-badge::before,
+-.character-badge::before {
+-  content: "";
+-  position: absolute;
+-  bottom: 0;
+-  left: 0;
+-  width: 100%;
+-  height: 2px;
+-  background-color: var(--accent-color);
+-  transform: scaleX(0);
+-  transform-origin: right center;
+-  transition: transform 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+-  z-index: 0;
+-}
+-.autor-badge:hover::before,
+-.character-badge:hover::before {
+-  transform: scaleX(1);
+-  transform-origin: left center;
+-}
+-.autor-badge span,
+-.character-badge span {
+-  position: relative;
+-  z-index: 1;
+-}
+-/* === Correspondence Context === */
+-.correspondence-context {
+-  display: inline-flex;
+-  margin: 0 auto 2rem;
+-  padding: 0.6rem 1.2rem;
+-  background: var(--bg-color);
+-  border: 2px solid var(--text-color);
+-  border-radius: 0;
+-  gap: 0.5rem;
+-  align-items: center;
+-  font-family: var(--font-meta);
+-  font-size: 0.75rem;
+-  text-transform: uppercase;
+-  letter-spacing: 0.06em;
+-}
+-.correspondence-context:hover {
+-  background-color: var(--text-color);
+-  color: var(--bg-color);
+-  border-color: var(--text-color);
+-}
+-[data-theme="dark"] .correspondence-context:hover {
+-  background-color: var(--text-color);
+-  color: var(--bg-color);
+-  border-color: var(--text-color);
+-}
+-.correspondence-flow {
+-  display: flex;
+-  align-items: center;
+-  gap: 0.5rem;
+-}
+-.correspondence-label {
+-  color: var(--meta-color);
+-  opacity: 0.7;
+-}
+-.correspondence-author {
+-  font-weight: 600;
+-}
+-.correspondence-author.autor-rio {
+-  color: var(--text-color);
+-}
+-.correspondence-author.autor-ted {
+-  color: var(--text-color);
+-}
+-/* === Correspondence Timeline === */
+-.correspondence-timeline {
+-  margin-top: 3rem;
+-  padding-top: 2rem;
+-  border-top: 2px solid var(--text-color);
+-  text-align: center;
+-}
+-.timeline-label {
+-  display: block;
+-  font-family: var(--font-meta);
+-  font-size: 0.75rem;
+-  text-transform: uppercase;
+-  letter-spacing: 0.05em;
+-  color: var(--meta-color);
+-  margin-bottom: 1rem;
+-}
+-.timeline-dots {
+-  display: flex;
+-  justify-content: flex-start;
+-  gap: 0.5rem;
+-  overflow-x: auto;
+-  flex-wrap: nowrap;
+-  scrollbar-width: none;
+-  padding-bottom: 0.5rem;
+-}
+-.timeline-dots::-webkit-scrollbar {
+-  display: none;
+-}
+-.timeline-dot {
+-  display: inline-flex;
+-  align-items: center;
+-  justify-content: center;
+-  width: 2.5rem;
+-  height: 2.5rem;
+-  flex-shrink: 0;
+-  border-radius: 0;
+-  border: 1px solid var(--text-color);
+-  background: var(--bg-color);
+-  color: var(--meta-color);
+-  font-family: var(--font-meta);
+-  font-size: 0.75rem;
+-  font-weight: 600;
+-  text-decoration: none;
+-  transition:
+-    width 0.4s cubic-bezier(0.19, 1, 0.22, 1),
+-    background-color 0.3s ease,
+-    color 0.3s ease;
+-  overflow: hidden;
+-  white-space: nowrap;
+-}
+-.timeline-dot.ted {
+-  border-color: var(--meta-color);
+-  color: var(--meta-color);
+-}
+-.timeline-dot.rio {
+-  border-color: var(--accent-color);
+-  color: var(--accent-color);
+-}
+-.timeline-dot:hover {
+-  background-color: var(--text-color);
+-  color: var(--bg-color);
+-  border-color: var(--text-color);
+-  width: 5rem;
+-}
+-[data-theme="dark"] .timeline-dot:hover {
+-  background-color: var(--text-color);
+-  color: var(--bg-color);
+-  border-color: var(--text-color);
+-  width: 5rem;
+-}
+-.timeline-dot.current {
+-  background: var(--text-color);
+-  color: var(--bg-color);
+-  border-color: var(--text-color);
+-  font-weight: 700;
+-}
+-[data-theme="dark"] .timeline-dot.current {
+-  background: var(--text-color);
+-  color: var(--bg-color);
+-  border-color: var(--text-color);
+-}
+-[data-theme="dark"] .timeline-dot {
+-  background: var(--sand-bg);
+-  color: var(--text-color);
+-  border-color: var(--text-color);
+-}
+-[data-theme="dark"] .timeline-dot:hover {
+-  background-color: var(--text-color);
+-  color: var(--bg-color);
+-  border-color: var(--text-color);
+-  width: 5rem;
+-}
+-[data-theme="dark"] .timeline-dot:hover {
+-  background-color: var(--text-color);
+-  color: var(--bg-color);
+-  border-color: var(--text-color);
+-  width: 5rem;
+-}
+-.timeline-dot:active {
+-}
+-@media (max-width: 600px) {
+-  .timeline-dot {
+-    display: inline-flex;
+-    align-items: center;
+-    justify-content: center;
+-    width: 2.5rem;
+-    height: 2.5rem;
+-    flex-shrink: 0;
+-    border-radius: 0;
+-    border: 1px solid var(--text-color);
+-    background: var(--bg-color);
+-    color: var(--meta-color);
+-    font-family: var(--font-meta);
+-    font-size: 0.75rem;
+-    font-weight: 600;
+-    text-decoration: none;
+-  }
+-}
+-/* === Selection & Accessibility === */
+-::selection {
+-  background-color: var(--accent-color);
+-  color: var(--bg-color);
+-}
+-*:focus-visible {
+-  outline: 4px solid var(--accent-color);
+-  outline-offset: 4px;
+-  background-color: var(--text-color) !important;
+-  color: var(--bg-color) !important;
+-}
+-@media (max-width: 600px) {
+-  .timeline-dot {
+-    width: 2.2rem;
+-    height: 2.2rem;
+-    font-size: 0.65rem;
+-  }
+-}
+-.blog-card:active {
+-}
+-.vereda:active {
+-}
+-.timeline-dot:active {
+-}
+-.card-tipo:hover,
+-.autor-badge:hover {
+-  background-color: var(--text-color);
+-  color: var(--bg-color) !important;
+-  border-color: var(--text-color);
+-  transform: scale(1.05) rotate(-1deg);
+-}
+-/* Author hover overrides */
+-.timeline-dot.ted:hover,
+-.timeline-dot.ted.current {
+-  background-color: var(--meta-color);
+-  color: var(--bg-color);
+-  border-color: var(--meta-color);
+-}
+-.timeline-dot.rio:hover,
+-.timeline-dot.rio.current {
+-  background-color: var(--accent-color);
+-  color: var(--bg-color);
+-  border-color: var(--accent-color);
+-}
+-/* === Horizontal Microinteractions === */
+-a {
+-  position: relative;
+-  text-decoration: none;
+-  transition: color 0.3s ease;
+-}
+-main
+-  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+-    .correspondence-context
+-  ):not(.logo)::after {
+-  content: "";
+-  position: absolute;
+-  bottom: -2px;
+-  left: 0;
+-  width: 0;
+-  height: 2px;
+-  background-color: var(--accent-color);
+-  transition: width 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+-}
+-main
+-  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+-    .correspondence-context
+-  ):not(.logo):hover::after {
+-  width: 100%;
+-}
+-.logo::after {
+-  content: "";
+-  position: absolute;
+-  bottom: -5px;
+-  left: 50%;
+-  width: 0;
+-  height: 6px;
+-  background-color: var(--accent-color);
+-  transition:
+-    width 0.5s cubic-bezier(0.19, 1, 0.22, 1),
+-    left 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+-}
+-.logo:hover::after {
+-  width: 100%;
+-  left: 0;
+-}
+-/* === Microinteractions: Brutalist Structural Tension === */
+-/* Typographic underlines: pure structure, no skeuomorphic opacity */
+-main
+-  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+-    .correspondence-context
+-  ):not(.logo) {
+-  position: relative;
+-  text-decoration: none;
+-  z-index: 1;
+-}
+-main
+-  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+-    .correspondence-context
+-  ):not(.logo)::after {
+-  content: "";
+-  position: absolute;
+-  bottom: -2px;
+-  left: 0;
+-  width: 100%;
+-  height: 1px;
+-  background-color: var(--text-color);
+-  transform: scaleX(0);
+-  transform-origin: right;
+-  transition: transform 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+-}
+-main
+-  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+-    .correspondence-context
+-  ):not(.logo):hover::after {
+-  transform: scaleX(1);
+-  transform-origin: left;
+-}
+-/* Timeline dots: sharp geometric expansion, no organic spreading */
+-.timeline-dot {
+-  position: relative;
+-  overflow: hidden;
+-  transition: width 0.4s cubic-bezier(0.19, 1, 0.22, 1), background-color 0.3s ease, color 0.3s ease, border-radius 0.3s ease, transform 0.3s ease;
+-}
+-.timeline-dot:hover {
+-  border-radius: 0; /* Ensures rigid box shape on interaction */
+-  background-color: var(--accent-color) !important;
+-  color: var(--bg-color) !important;
+-  border-color: var(--accent-color) !important;
+-  transform: scale(1.05); /* Softer editorial emphasis */
+-  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+-}
+-/* === Classic Print Typographic Spacing === */
+-/* Focusing on typography, spacing, negative space, and a classic printed book inspiration for the reading page. */
+-
+-/*
+- * Craig Mod - Design Update (Sessão 281)
+- * Brutalist Typography and Spacing
++ * Craig Mod - Design Update (Sessão 287)
++ * Performance e Simplicidade: Livro Impresso Clássico
+  */
+ main p {
+-  margin-bottom: 2rem;
+-  line-height: var(--body-lh);
+-  font-size: var(--body-size);
++  margin-bottom: 0;
++  line-height: 1.65;
++  font-size: 1.15rem;
+   font-family: var(--font-body);
+-  font-weight: normal;
+   max-width: 65ch;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: justify;
+   hyphens: auto;
+-  word-break: normal;
+-  border-left: none;
+-  padding-left: 0;
+   color: var(--text-color);
+   background: transparent;
+-  text-transform: none;
+ }
+
+ main p + p {
+-  text-indent: 0;
++  text-indent: 1.5rem;
+ }
+
+-main p:nth-of-type(even), main p:nth-of-type(3n) {
+-  max-width: 65ch;
+-  border-left: none;
+-  padding-left: 0;
+-}
+-
+-
+-
+-
+ main p:first-of-type {
+   margin-top: 3rem;
++  text-indent: 0;
+ }
+
+-/*
+- * Refinando o blockquote massivo.
+- * Mantemos o bloco geométrico, mas em contraste bruto.
+- */
++
+ main blockquote {
+-    font-size: 1.25rem;
+-    line-height: 1.6;
+-    margin: 3rem auto;
++    font-size: 1.1rem;
++    line-height: 1.65;
++    margin: 2.5rem 3.5rem;
+     font-style: italic;
+-    font-weight: normal;
+-    text-align: left;
++    text-align: justify;
+     max-width: 55ch;
+-    padding: 0 2rem;
+-    background-color: transparent;
+-    color: var(--meta-color);
+-    border-left: 1px solid var(--accent-color);
++    padding: 0;
++    background: transparent;
++    color: var(--text-color);
++    border: none;
+     box-shadow: none;
+ }
+-[data-theme="dark"] main blockquote { color: var(--meta-color); }
+
+-main blockquote p { color: var(--meta-color); }
+-[data-theme="dark"] main blockquote p { color: var(--meta-color); }
+
+-/* Asymmetric Notebook Structural Intrusions */
+-main p.margin-note {
+-  float: right;
+-  width: 30%;
+-  margin-right: -35%;
+-  font-family: var(--font-meta);
+-  font-size: 0.9rem;
+-  line-height: 1.4;
+-  color: var(--meta-color);
+-  border-left: 2px solid var(--accent-color);
+-  padding-left: 1rem;
+-  margin-top: 0.5rem;
+-  text-align: left;
+-  clear: right;
+-}
+ /* === Brutal Articles === */
+ article {
+   border-bottom: 1px solid var(--divider-color);

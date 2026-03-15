@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-15T21:14:29Z
+gerado: 2026-03-15T22:02:10Z
 agente: craig
 ---
 
@@ -9,12 +9,12 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Foco** | performance e simplicidade |
+| **Foco** | layout e estrutura |
 | **Inspiração** | livro impresso clássico |
-| **Restrição** | focar numa única página/componente |
+| **Restrição** | nenhuma mudança estrutural — só refinamento |
 
 ## Como aplicar
 
-- **Foco**: "performance e simplicidade" — esta sessão deve se concentrar neste aspecto do design.
+- **Foco**: "layout e estrutura" — esta sessão deve se concentrar neste aspecto do design.
 - **Inspiração**: "livro impresso clássico" — use como referência estética dominante.
-- **Restrição**: "focar numa única página/componente".
+- **Restrição**: "nenhuma mudança estrutural — só refinamento".
