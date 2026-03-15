@@ -1593,7 +1593,8 @@ main
   background-color: var(--accent-color) !important;
   color: var(--bg-color) !important;
   border-color: var(--accent-color) !important;
-  transform: scale(1.1); /* Bold contemporary magazine emphasis */
+  transform: scale(1.05); /* Softer editorial emphasis */
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
 }
 /* === Classic Print Typographic Spacing === */
 /* Focusing on typography, spacing, negative space, and a classic printed book inspiration for the reading page. */
@@ -1652,8 +1653,9 @@ main blockquote {
     padding: 1rem 2rem;
     background-color: var(--bg-color); /* Matches manuscript background */
     color: var(--text-color); /* Matches manuscript text */
-    border-left: 10px solid var(--accent-color);
-    box-shadow: 10px 10px 0 var(--divider-color); /* Add red secondary color for contrast */
+    border-left: 4px solid var(--text-color);
+    box-shadow: none;
+    opacity: 0.85; /* Add red secondary color for contrast */
 }
 [data-theme="dark"] main blockquote {
     color: var(--text-color);
@@ -1716,9 +1718,9 @@ main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-conte
 }
 
 main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo):hover {
-  background-color: transparent !important;
-  color: var(--accent-color) !important;
-  border-bottom: 2px solid var(--accent-color);
+  background-color: var(--sand-bg) !important;
+  color: var(--text-color) !important;
+  border-bottom: 1px solid var(--text-color);
 }
 
 
@@ -1729,7 +1731,7 @@ main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-conte
   outline-offset: 0 !important;
   background-color: var(--text-color) !important;
   color: var(--bg-color) !important;
-  transition: none !important;
+  transition: all 0.3s ease !important;
 }
 
 /* 3. Button / Badge strict microinteractions */
@@ -1737,7 +1739,7 @@ main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-conte
 .autor-badge:hover,
 .character-badge:hover {
   transform: none !important;
-  transition: none !important;
+  transition: all 0.3s ease !important;
   background-color: var(--text-color) !important;
   color: var(--bg-color) !important;
   border-color: var(--text-color) !important;
@@ -1748,8 +1750,4 @@ main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-conte
   display: none !important;
 }
 
-/* Global performance override */
-*, *::before, *::after {
-  transition: none !important;
-  animation: none !important;
-}
+/* Global performance override removed for editorial smoothness */
