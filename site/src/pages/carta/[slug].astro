@@ -100,39 +100,38 @@ function autorClasse(autorName: string): string {
 </Layout>
 
 <style>
-    /* Editorial Magazine Header - High Contrast Contemporary */
-  /* Editorial Magazine Header - High Contrast Contemporary */
+      /* Editorial Magazine Header - Contemporary */
   .editorial-header {
-    margin: 0 !important; padding: 2rem !important; border: 8px solid var(--text-color) !important; background: var(--accent-color) !important; color: var(--text-color) !important;
-    max-width: 100vw !important;
-    margin: 0; padding: 2rem; border: 4px solid var(--text-color); border-bottom: 8px solid var(--text-color); background: var(--accent-color); color: var(--bg-color);
-    max-width: 100%; /* Brutalist full width */
-    text-align: left;
-    border-bottom: 1px solid var(--text-color); /* Thinner, single line border */
-    padding-bottom: 3rem; /* More breathing room */
-    background-color: transparent;
-    color: var(--text-color);
-    letter-spacing: -0.01em;
+    margin: 6rem auto 4rem auto !important;
+    padding: 0 0 2.5rem 0 !important;
+    border: none !important;
+    border-bottom: 1px solid var(--divider-color) !important;
+    background: transparent !important;
+    max-width: 65ch !important;
+    text-align: center !important;
+    color: var(--text-color) !important;
+    letter-spacing: normal !important;
   }
 
   .editorial-header > div, .editorial-header > h1 {
     max-width: 100%;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .editorial-meta-top {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    font-family: var(--font-body);
-    font-size: 0.95rem;
-    text-transform: none;
-    letter-spacing: 0.02em;
-    color: var(--text-color);
+    gap: 1.5rem;
+    font-family: var(--font-meta);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--meta-color);
     margin-bottom: 2rem;
-    border-top: 1px solid var(--text-color);
-    padding-top: 0.5rem;
+    border-top: none;
+    padding-top: 0;
   }
 
   .editorial-context {
@@ -141,26 +140,28 @@ function autorClasse(autorName: string): string {
   }
 
   .context-author {
-    font-weight: 400;
-    font-style: italic;
-    color: var(--text-color);
+    font-weight: normal;
+    font-style: normal;
+    color: var(--meta-color);
   }
 
   .editorial-header h1 {
     font-family: var(--font-body);
-    font-size: clamp(2.5rem, 6vw, 4.5rem); /* Slightly smaller, more refined */
-    line-height: 1.1; /* Looser line height */
-    margin: 0 0 2rem 0; /* More space below */
+    font-size: clamp(2.5rem, 5vw, 4.2rem);
+    line-height: 1.15;
+    margin: 0 0 1.5rem 0;
     color: var(--text-color);
-    font-weight: 400; /* Regular weight, not 900 */
-    letter-spacing: -0.02em; /* Tighter letter spacing for serif */
-    text-align: left;
+    font-weight: 300;
+    letter-spacing: -0.01em;
+    font-style: italic;
+    text-align: center;
   }
 
   .editorial-byline {
     font-family: var(--font-body);
-    font-size: 1.25rem;
+    font-size: 1.15rem;
     display: flex;
+    justify-content: center;
     gap: 0.5rem;
     align-items: center;
     border: none;
@@ -170,7 +171,7 @@ function autorClasse(autorName: string): string {
   }
 
   .byline-label {
-    color: var(--text-color);
+    color: var(--meta-color);
     font-weight: normal;
   }
 
@@ -180,117 +181,52 @@ function autorClasse(autorName: string): string {
     letter-spacing: normal;
   }
 
-  .byline-author.autor-rio {
-    color: var(--text-color);
-  }
-
-  .byline-author.autor-ted {
-    color: var(--text-color);
-  }
-
-  /* Structural Manuscript Theme - No Skeuomorphism */
+    /* Structural Manuscript Theme - Refined Editorial */
   :global(.classic-print-page) {
     background-color: transparent !important;
     color: var(--text-color) !important;
     font-size: 1.15rem !important;
-    padding: 0 5% 0 20% !important;
-    border-left: 4px solid var(--accent-color) !important;
-    margin: 4rem 0 6rem 5% !important;
-    max-width: 100% !important;
+    padding: 0 !important;
+    border: none !important;
+    margin: 0 auto !important;
+    max-width: 65ch !important;
     font-family: var(--font-body) !important;
     position: relative;
   }
 
-  @media (max-width: 600px) {
-    :global(.classic-print-page) {
-      padding: 0 1rem 0 3rem !important;
-      margin-left: 1rem !important;
-      border-left: 2px solid var(--accent-color) !important;
-      max-width: 100% !important;
-    }
-  }
-
-  /* Classic Typography -> Let global.css handle it now */
-
-
-
-  /* Brutalist Layout Override for Reading Page */
-  :global(.classic-print-page) {
-    padding: 0 !important;
-    margin: 0 !important;
-    border: none !important;
-    max-width: 100vw !important;
-  }
-
   :global(.manuscrito-body) {
-    display: grid !important;
-    grid-template-columns: 1fr !important;
-    width: 100vw !important;
-    padding: 0 !important;
-    margin: 0 !important;
-  }
-
-  :global(.manuscrito-body p) {
-    max-width: 100vw !important;
-    margin: 0 !important;
-    padding: 2rem !important;
-    border-bottom: 4px solid var(--text-color) !important;
-    font-family: monospace, var(--font-ted) !important;
-    font-size: 1.5rem !important;
-    line-height: 1.2 !important;
-    text-align: left !important;
-    hyphens: none !important;
-    background: var(--bg-color) !important;
-  }
-
-  :global(.manuscrito-body p:nth-child(odd)) {
-    background: transparent !important;
-  }
-
-  :global(.manuscrito-body p:first-of-type) {
-    margin-top: 0 !important;
-  }
-
-  /* Classic Print Typography Integration */
-  /* Contemporary Literary Magazine Theme */
-  :global(.manuscrito-body) {
-    display: block;
-    width: 100%;
+    display: block !important;
+    width: 100% !important;
     max-width: 100% !important;
-    margin: 0 !important;
+    margin: 0 auto !important;
     position: relative;
-    padding: 0 0 2rem 0 !important;
-    background-color: transparent !important;
+    padding: 0 0 4rem 0 !important;
     background-color: transparent !important;
     border: none !important;
     box-shadow: none !important;
   }
 
-  /* Remove notebook margin line */
-  :global(.manuscrito-body)::before {
-    display: none;
-  }
-
-  /* Ensure text sits gracefully */
   :global(.manuscrito-body > *) {
     position: relative;
     z-index: 1;
     background-color: transparent !important;
   }
 
-    /* Refined paragraph presentation - Early Print Folio */
   :global(.manuscrito-body p) {
-    text-indent: 0 !important;
-    max-width: 55ch !important; /* Narrower measure for extreme focus */
+    text-indent: 1.5rem !important;
+    max-width: 65ch !important;
     text-align: left !important;
     background-color: transparent !important;
-    margin-bottom: 2.5rem !important; /* Huge paragraph spacing */
+    margin-bottom: 1.5rem !important;
     color: var(--text-color) !important;
-    font-size: 1.25rem !important; /* Larger text */
-    line-height: 2.2 !important; /* Extreme line-height for forced breathing */
-    letter-spacing: 0.01em !important; /* Slightly open */
-    word-spacing: 0.05em !important;
+    font-size: 1.15rem !important;
+    line-height: 1.8 !important;
+    letter-spacing: 0 !important;
+    word-spacing: normal !important;
     hyphens: auto !important;
+    font-family: var(--font-body) !important;
+    border: none !important;
+    padding: 0 !important;
   }
 
   :global(.manuscrito-body p:first-of-type) {
@@ -298,39 +234,26 @@ function autorClasse(autorName: string): string {
     margin-top: 2rem !important;
   }
 
-  /* Massive Drop Cap - First Paragraph Only */
   :global(.manuscrito-body p:first-of-type::first-letter) {
-    float: none;
-    font-size: inherit;
-    line-height: inherit;
-    padding: 0;
-    color: inherit;
-    font-family: inherit;
-    font-weight: inherit;
+    float: left;
+    font-size: 4.5rem;
+    line-height: 1;
+    padding: 0.1em 0.1em 0 0;
+    color: var(--text-color);
+    font-family: var(--font-body);
+    font-style: italic;
   }
 
-  /* Reset other first letters */
-  :global(.manuscrito-body p:not(:first-of-type)::first-letter) {
-    color: inherit;
-    font-weight: normal;
-    font-size: inherit;
-  }
-
-  /* Elegant Blockquote */
   :global(.manuscrito-body blockquote) {
-    background-color: var(--sand-bg) !important;
-    border-left: 2px solid var(--accent-color) !important;
-    margin: 2rem -2rem 2rem 0 !important;
-    padding: 1rem 2rem !important;
+    background-color: transparent !important;
+    border-left: 1px solid var(--divider-color) !important;
+    margin: 2.5rem 0 2.5rem 2rem !important;
+    padding: 0 0 0 1.5rem !important;
     box-shadow: none !important;
     font-style: italic;
-    color: var(--text-color) !important;
+    color: var(--meta-color) !important;
     font-size: 1.15rem !important;
-  }
-
-  :global([data-theme="dark"] .manuscrito-body blockquote) {
-    background-color: transparent !important;
-    box-shadow: none !important;
+    line-height: 1.8 !important;
   }
 
 /* === MANUSCRITO TIMELINE - MICROINTERAÇÕES E DETALHES === */
