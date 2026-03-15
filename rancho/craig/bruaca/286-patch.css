@@ -1,0 +1,89 @@
+/* 1. Basic inline links microinteractions (Brutalist Strict Binary) */
+main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo) {
+  text-decoration: none;
+  background-image: none !important;
+  transition: none !important;
+  z-index: 1;
+  padding: 0.1rem 0.2rem;
+  margin: 0;
+  border-bottom: none;
+  background-color: transparent;
+  color: var(--accent-color);
+}
+
+main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo)::after {
+  display: none !important;
+}
+
+main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo):hover {
+  background-color: var(--text-color) !important;
+  color: var(--bg-color) !important;
+  border-bottom: none;
+}
+
+/* 3. Button / Badge harsh microinteractions */
+.card-tipo:hover,
+.autor-badge:hover,
+.character-badge:hover {
+  transform: none !important;
+  box-shadow: none !important;
+  transition: none !important;
+  background-color: var(--text-color) !important;
+  color: var(--bg-color) !important;
+  border-color: var(--text-color) !important;
+}
+
+.autor-badge::before,
+.character-badge::before {
+  display: none !important;
+}
+
+/* Timeline dots: sharp geometric expansion, no organic spreading */
+.timeline-dot {
+  position: relative;
+  overflow: hidden;
+  transition: none !important;
+}
+.timeline-dot:hover {
+  border-radius: 0; /* Ensures rigid box shape on interaction */
+  background-color: var(--text-color) !important;
+  color: var(--bg-color) !important;
+  border-color: var(--text-color) !important;
+  transform: none; /* No scaling */
+  box-shadow: none; /* No shadow */
+}
+
+/* === Horizontal Microinteractions === */
+a {
+  position: relative;
+  text-decoration: none;
+  transition: none !important;
+}
+.logo::after {
+  content: "";
+  position: absolute;
+  bottom: -5px;
+  left: 50%;
+  width: 0;
+  height: 6px;
+  background-color: var(--accent-color);
+  transition: none !important;
+}
+.logo:hover::after {
+  width: 100%;
+  left: 0;
+}
+
+/* === Navigation === */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 0;
+  border-bottom: none;
+}
+nav a:hover {
+  color: var(--text-color) !important;
+  opacity: 1;
+  background-color: transparent !important;
+}
