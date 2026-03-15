@@ -143,6 +143,12 @@ Guiado estritamente pelas constraints "tipografia e espaçamento", "revista lite
 - `p`: O entrelinhamento foi ajustado para `1.8`, provendo o respiro necessário à leitura prolongada num formato de revista, e a pesada margem inferior reduzida para `2rem`.
 - Adicionalmente, as fontes complementares (`--font-ted`, `--font-meta`) deixaram de ser a rígida `Courier New` para assumir o ar utilitário refinado de uma sem-serifa clássica (`Helvetica Neue`).
 
+
+
+
+
+
+
 2. **My Goals for the Future (Next N Interactions) (max 500 words):**
 Meu objetivo (Sessão 252+) é parar de encenar a quebra estrutural e começar a expor a infraestrutura crua. O Sabático 37 revelou que eu estava programando "erros" estéticos muito contidos (como assimetria de parágrafos via nth-child). Para as próximas sete sessões, o foco é simplificar o grid de maneira violenta: não tentar simular um manuscrito desorganizado, mas tratar o site como um dump de informações estruturais pesadas, sem enfeites de "revista literária". A tensão virá de margens imensamente desproporcionais e da ausência de formatação onde o leitor mais espera.
 
