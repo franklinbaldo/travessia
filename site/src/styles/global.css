@@ -7,18 +7,18 @@
  * Brutalist primary colors
  */
 :root {
-  --bg-color: #f9f9f8;
-  --text-color: #1c1c1c;
-  --accent-color: #d13427;
-  --secondary-color: #a0a0a0;
-  --divider-color: rgba(28, 28, 28, 0.2);
+  --bg-color: #faf9f5;
+  --text-color: #2b2b2b;
+  --accent-color: #8b2621;
+  --secondary-color: #7a7a7a;
+  --divider-color: rgba(43, 43, 43, 0.15);
   --meta-color: #666666;
   --noise-op: 0.05;
-  --sand-bg: #f0f0f0;
-  --water-bg: #e0e0e0;
-  --water-border: rgba(28, 28, 28, 0.1);
-  --progress-start: #d13427;
-  --progress-end: #1c1c1c;
+  --sand-bg: #f4f2ea;
+  --water-bg: #eae6db;
+  --water-border: rgba(43, 43, 43, 0.1);
+  --progress-start: #8b2621;
+  --progress-end: #2b2b2b;
   --font-body: "Cormorant Garamond", "Times New Roman", serif;
   --font-ted: "Helvetica Neue", Helvetica, Arial, sans-serif;
   --font-meta: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -28,18 +28,18 @@
 }
 
 [data-theme="dark"] {
-  --bg-color: #141414;
-  --text-color: #e8e8e6;
-  --accent-color: #d13427;
-  --secondary-color: #888888;
-  --divider-color: rgba(232, 232, 230, 0.2);
-  --meta-color: #999999;
+  --bg-color: #1a1a19;
+  --text-color: #e6e4df;
+  --accent-color: #b54a43;
+  --secondary-color: #8c8c8a;
+  --divider-color: rgba(230, 228, 223, 0.15);
+  --meta-color: #a3a3a1;
   --noise-op: 0.05;
-  --sand-bg: #1f1f1f;
-  --water-bg: #2a2a2a;
-  --water-border: rgba(232, 232, 230, 0.1);
-  --progress-start: #d13427;
-  --progress-end: #e8e8e6;
+  --sand-bg: #242422;
+  --water-bg: #2e2e2b;
+  --water-border: rgba(230, 228, 223, 0.1);
+  --progress-start: #b54a43;
+  --progress-end: #e6e4df;
 }
 /* === Reset === */
 *,
@@ -151,8 +151,8 @@ h1 {
 h2 {
   font-size: clamp(2rem, 8vw, 6rem);
   margin: 5rem 0 2rem;
-  color: var(--bg-color); /* Inverted */
-  background: var(--text-color) !important; /* Brutalist highlight block */
+  color: var(--text-color); /* Editorial */
+  background: var(--sand-bg) !important; /* Soft highlight */
   letter-spacing: -0.05em;
   padding: 0.2em 0.1em;
   display: inline-block; /* Wrap text tightly */
@@ -1095,8 +1095,8 @@ main.home-layout {
 }
 .blog-card:hover {
   opacity: 1;
-  background-color: var(--text-color) !important;
-  color: var(--bg-color) !important;
+  background-color: var(--sand-bg) !important;
+  color: var(--text-color) !important;
   border: 3px solid var(--text-color) !important;
   transform: translate(-8px, -8px);
   box-shadow: 16px 16px 0px var(--accent-color);
@@ -1111,7 +1111,7 @@ main.home-layout {
 .blog-card:hover .card-tipo,
 .blog-card:hover .card-autor,
 .blog-card:hover time {
-  color: var(--bg-color) !important;
+  color: var(--text-color) !important;
 }
 .blog-card:hover .card-meta {
   border-top: 1px dashed var(--bg-color);
@@ -1261,14 +1261,14 @@ main.home-layout {
   border: 2px solid var(--text-color);
 }
 .autor-badge.autor-rio {
-  background: var(--text-color);
-  color: var(--bg-color);
-  border-color: var(--text-color);
+  background: var(--sand-bg);
+  color: var(--text-color);
+  border-color: var(--divider-color);
 }
 .autor-badge.autor-ted {
-  background: var(--text-color);
-  color: var(--bg-color);
-  border-color: var(--text-color);
+  background: var(--sand-bg);
+  color: var(--text-color);
+  border-color: var(--divider-color);
 }
 /* Microinteração: Revista Literária Sublinhado Elegante */
 .autor-badge,
@@ -1652,7 +1652,7 @@ main blockquote {
     background-color: var(--bg-color); /* Matches manuscript background */
     color: var(--text-color); /* Matches manuscript text */
     border-left: 10px solid var(--accent-color);
-    box-shadow: 10px 10px 0 var(--secondary-color); /* Add red secondary color for contrast */
+    box-shadow: 10px 10px 0 var(--divider-color); /* Add red secondary color for contrast */
 }
 [data-theme="dark"] main blockquote {
     color: var(--text-color);
