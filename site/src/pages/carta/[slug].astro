@@ -188,6 +188,7 @@ function autorClasse(autorName: string): string {
   :global(.classic-print-page) {
     background-color: transparent !important;
     color: var(--text-color) !important;
+    font-size: 1.15rem !important;
     padding: 0 5% 0 20% !important;
     border-left: 4px solid var(--accent-color) !important;
     margin: 4rem 0 6rem 5% !important;
@@ -218,12 +219,7 @@ function autorClasse(autorName: string): string {
     position: relative;
     padding: 0 0 2rem 0 !important;
     background-color: transparent !important;
-    background-image: repeating-linear-gradient(
-      transparent,
-      transparent 1.95rem,
-      var(--divider-color) 1.95rem,
-      var(--divider-color) 2rem
-    ) !important;
+    background-color: transparent !important;
     border: none !important;
     box-shadow: none !important;
   }
@@ -246,9 +242,10 @@ function autorClasse(autorName: string): string {
     max-width: 75ch !important;
     text-align: left !important;
     background-color: transparent !important;
-    margin-bottom: 2rem !important;
+    margin-bottom: 2.05rem !important;
     color: var(--text-color) !important;
-    line-height: 2rem !important;
+    font-size: 1.15rem !important;
+    line-height: 2.05rem !important;
     letter-spacing: -0.01em !important;
     word-spacing: normal !important;
     hyphens: auto !important;
@@ -280,17 +277,18 @@ function autorClasse(autorName: string): string {
   /* Elegant Blockquote */
   :global(.manuscrito-body blockquote) {
     background-color: var(--sand-bg) !important;
-    border-left: 10px solid var(--accent-color) !important;
+    border-left: 2px solid var(--accent-color) !important;
     margin: 2rem -2rem 2rem 0 !important;
     padding: 1rem 2rem !important;
-    box-shadow: -10px 10px 0 var(--meta-color) !important;
+    box-shadow: none !important;
     font-style: italic;
     color: var(--text-color) !important;
+    font-size: 1.15rem !important;
   }
 
   :global([data-theme="dark"] .manuscrito-body blockquote) {
     background-color: transparent !important;
-    box-shadow: -10px 10px 0 var(--text-color) !important;
+    box-shadow: none !important;
   }
 
 /* === MANUSCRITO TIMELINE - MICROINTERAÇÕES E DETALHES === */
