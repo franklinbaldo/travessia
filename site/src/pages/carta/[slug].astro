@@ -103,8 +103,10 @@ function autorClasse(autorName: string): string {
     /* Editorial Magazine Header - High Contrast Contemporary */
   /* Editorial Magazine Header - High Contrast Contemporary */
   .editorial-header {
-    margin: 8rem auto 4rem; /* Increased top margin for deeper entry */
-    max-width: 55ch; /* Narrower measure for the header */
+    margin: 0 !important; padding: 2rem !important; border: 8px solid var(--text-color) !important; background: var(--accent-color) !important; color: var(--text-color) !important;
+    max-width: 100vw !important;
+    margin: 0; padding: 2rem; border: 4px solid var(--text-color); border-bottom: 8px solid var(--text-color); background: var(--accent-color); color: var(--bg-color);
+    max-width: 100%; /* Brutalist full width */
     text-align: left;
     border-bottom: 1px solid var(--text-color); /* Thinner, single line border */
     padding-bottom: 3rem; /* More breathing room */
@@ -210,6 +212,44 @@ function autorClasse(autorName: string): string {
 
   /* Classic Typography -> Let global.css handle it now */
 
+
+
+  /* Brutalist Layout Override for Reading Page */
+  :global(.classic-print-page) {
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none !important;
+    max-width: 100vw !important;
+  }
+
+  :global(.manuscrito-body) {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    width: 100vw !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  :global(.manuscrito-body p) {
+    max-width: 100vw !important;
+    margin: 0 !important;
+    padding: 2rem !important;
+    border-bottom: 4px solid var(--text-color) !important;
+    font-family: monospace, var(--font-ted) !important;
+    font-size: 1.5rem !important;
+    line-height: 1.2 !important;
+    text-align: left !important;
+    hyphens: none !important;
+    background: var(--bg-color) !important;
+  }
+
+  :global(.manuscrito-body p:nth-child(odd)) {
+    background: transparent !important;
+  }
+
+  :global(.manuscrito-body p:first-of-type) {
+    margin-top: 0 !important;
+  }
 
   /* Classic Print Typography Integration */
   /* Contemporary Literary Magazine Theme */
