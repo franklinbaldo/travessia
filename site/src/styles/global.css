@@ -3,7 +3,7 @@
    Um livro aberto sobre uma mesa de fazenda.
    =========================== */
 /*
- * Craig Mod - Design Update (Sessão 244)
+ * Craig Mod - Design Update (Sessão 281)
  * Brutalist primary colors
  */
 :root {
@@ -138,16 +138,18 @@ h3 {
   font-variant: normal;
   text-align: left;
 }
+
 h1 {
-  font-size: clamp(3rem, 10vw, 8rem);
-  margin: 0 0 3rem;
+  font-size: clamp(4rem, 15vw, 12rem); /* Massive */
+  margin: 0 0 5rem;
   color: var(--text-color);
-  text-transform: none;
-  letter-spacing: -0.02em; /* Refined spacing */
-  line-height: 1.1; /* Balanced line-height */
-  word-break: normal; /* Restore legibility */
-  transform: none; /* Align to grid */
+  text-transform: uppercase;
+  letter-spacing: -0.05em; /* Tighter spacing for brutalist feel */
+  line-height: 0.9; /* Crushed line height */
+  word-break: break-all;
+  transform: none;
 }
+
 h2 {
   font-size: clamp(1.8rem, 5vw, 4rem);
   margin: 4rem 0 2rem;
@@ -1598,33 +1600,38 @@ main
 }
 /* === Classic Print Typographic Spacing === */
 /* Focusing on typography, spacing, negative space, and a classic printed book inspiration for the reading page. */
+
+/*
+ * Craig Mod - Design Update (Sessão 281)
+ * Brutalist Typography and Spacing
+ */
 main p {
-  margin-bottom: 2rem;
-  line-height: 1.1;
-  font-size: 1.5rem;
-  font-family: monospace, var(--font-ted);
+  margin-bottom: 3.5rem; /* Increased spacing */
+  line-height: 1.3;
+  font-size: 1.8rem; /* Larger, bolder type */
+  font-family: 'Courier New', Courier, monospace; /* Brutalist monospace */
   font-weight: 700;
   max-width: 100%;
   text-align: left;
   hyphens: none;
-  word-break: normal;
-  border-left: 10px solid var(--text-color);
+  word-break: break-word; /* Let words break roughly */
+  border-left: 15px solid var(--accent-color); /* Thicker, louder border */
   padding-left: 2rem;
   color: var(--text-color);
   background: transparent;
+  text-transform: uppercase; /* Yelling text */
 }
 
-/* Classic paragraph indentation, except for the first one */
 main p + p {
   text-indent: 0;
 }
 
-/* Remove alternating jagged margins */
 main p:nth-of-type(even), main p:nth-of-type(3n) {
   max-width: 100%;
-  border-left: 10px solid var(--text-color);
+  border-left: 15px solid var(--accent-color);
   padding-left: 2rem;
 }
+
 
 
 
