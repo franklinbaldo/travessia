@@ -1,0 +1,56 @@
+/* Sessão 260 - Refinamento Editorial da Assimetria (Revista Literária Contemporânea) */
+
+/* Refinamento da linha estrutural: de "caderno escolar" bruto para "grade editorial" fina */
+main {
+  border-left: 1px solid var(--text-color) !important;
+  padding-top: 4rem !important;
+}
+
+/* Tipografia de corpo: ritmo de revista literária contemporânea */
+p {
+  font-family: var(--font-body) !important;
+  font-size: 1.25rem !important;
+  line-height: 1.8 !important; /* Respiro contemporâneo */
+  text-indent: 0 !important;
+  margin-bottom: 1.5rem !important; /* Separação em bloco, típica de editorial digital moderno */
+  max-width: 65ch !important; /* Contenção da linha para leitura, ancorada na margem esquerda massiva */
+  color: var(--text-color) !important;
+}
+
+/* Títulos: invasão da margem vazia (assimetria) mas com sofisticação clássica */
+h1 {
+  font-family: var(--font-body) !important;
+  font-weight: 300 !important;
+  font-style: italic !important;
+  font-size: 3.5rem !important;
+  line-height: 1.1 !important;
+  margin-bottom: 2.5rem !important;
+  color: var(--text-color) !important;
+  margin-left: -8vw !important; /* Invasão marginal controlada */
+}
+
+h2 {
+  font-family: var(--font-body) !important;
+  font-weight: 600 !important;
+  font-size: 1.8rem !important;
+  margin-bottom: 1.5rem !important;
+  margin-top: 3.5rem !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.05em !important;
+  margin-left: -4vw !important; /* Invasão marginal */
+}
+
+h1 a, h2 a, h3 a {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+/* Capitular (Drop Cap) elegante para ancorar o bloco de texto na margem */
+main p:first-of-type::first-letter {
+  font-size: 4rem !important;
+  line-height: 0.8 !important;
+  float: left !important;
+  margin-right: 0.5rem !important;
+  font-weight: 300 !important;
+  color: var(--text-color) !important;
+}
