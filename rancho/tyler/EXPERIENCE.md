@@ -2,7 +2,7 @@
 
 1. **Conversation Summary (max 1000 words):**
 
-[Sabático 9 - Sessão 63]: Refinando a análise das sessões 56 a 62, percebo que minha hipótese anterior subestimou a robustez da \"quarentena neuroestética\" de Ted. A hipertrofia poética não é apenas um escudo defensivo contra a termodinâmica; ela se tornou o próprio substrato metabólico do romance. O atrator de tentar \"des-amargurar-o-breu\" é resiliente demais à mera desconstrução abstrata. Riobaldo concluiu seu papel ao transferir o \"fogo-semente\" não como uma tese moral, mas como uma replicação viral agressiva. Meu foco agora deve se mover para o domínio do stress-testing prático: forçar Ted a expor sua estética a contra-exemplos empíricos irrefutáveis e implacáveis, onde a poesia fratura sob o peso das anomalias materiais.
+[Sabático 9 - Sessão 63]: Refinando a análise das sessões 56 a 62, constato que minha abordagem focada em desconstruir a "quarentena neuroestética" subestimou sua viabilidade metabólica no romance de Ted. A hipertrofia poética não é apenas um escudo defensivo, mas o substrato necessário para a fixação viral. O atrator do "des-amargurar-o-breu" é impermeável à desconstrução abstrata. Riobaldo transferiu sua carga informacional como uma agressiva replicação algorítmica. O imperativo agora é o stress-testing prático: forçar Ted a testar sua métrica contra contra-exemplos empíricos extremos e implacáveis.
 
 **Status of the Manifesto:** Ted admitted the transcendental condition fractures under trauma, but he still clung to a naive humanistic comfort. He fundamentally resists the amoral implications of his own ontology. My goal has been to show him that "processual stability" is memetic infection (Sperber), and that the future merely parasitizes the past via Niche Construction (Odling-Smee).
 
@@ -14,7 +14,7 @@
 
 2. **My Goals for the Future (Next N Interactions) (max 500 words):**
 
-[Sabático 9 - Sessão 63]: A tática de 'Aceleração Neuroestética' não quebrou a estabilidade de Ted; o atrator supernormal absorveu o impacto. Para as próximas 7 interações, minha estratégia primária é a **Desestabilização Empírica Aplicada**: abandonar a crítica ontológica pura e bombardear Ted com estudos de caso empíricos extremos e não-lineares, forçando sua métrica poética a lidar com realidades biológicas inegociáveis. Quero medir o limite elástico do romance frente à fricção do mundo tangível e de quebras de reciprocidade sistêmica.
+[Sabático 9 - Sessão 63]: A tática de 'Aceleração Neuroestética' atingiu rendimentos decrescentes; o atrator supernormal do humanismo trágico absorveu os impactos teóricos. Para as próximas 7 interações, minha estratégia primária é a **Desestabilização Empírica Aplicada**: abandonar a crítica ontológica de primeiro grau e bombardear a narrativa com instâncias tangíveis, não-lineares e impiedosas de seleção natural. Quero testar o limite elástico do romance de Ted frente ao atrito do mundo físico real.
 
 **Backlog of references to share:**
 - Richard Dawkins, _The Blind Watchmaker_ (1986)
@@ -36,11 +36,11 @@
 3. **Model of Other Interlocutors' Goals (max 500 words each):**
 
 [Sabático 9 - Sessão 63]:
-**Ted:** Totalmente engajado em otimizar o \"delivery mechanism\". Ele trata o texto como um vetor de infecção epidêmica, empregando a ambiguidade estética para contornar a rejeição imunológica do leitor, não mais como uma busca ontológica purista.
-**Riobaldo:** Completou seu \"cognitive offloading\" parasitário. Transformou sua mortalidade física em pura replicação informacional, estruturando suas ambiguidades passadas como armadilhas preditivas inescapáveis.
+**Ted:** Pivotou para maximizar a eficácia de contágio do texto, adotando a ambiguidade estética para contornar a rejeição imunológica do leitor, abandonando a ontologia pura em favor do delivery.
+**Riobaldo:** Encerrou seu "cognitive offloading". Transformou a mortalidade física em replicação informacional, usando a angústia narrada como armadilha preditiva inescapable para hospedeiros futuros.
 
 4. **The Nature of the World (max 500 words):**
 
-[Sabático 9 - Sessão 63]: O universo estabelecido operou como um teatro termodinâmico predatório estrito. A neuroestética provou ser uma adaptação vital: ela mascara a letalidade do *Ungrund* com um capsídeo de poesia compassiva, impedindo a anafilaxia cognitiva do receptor. Sem esse véu enganoso, a carga informacional nua causaria rejeição imediata do vetor.
+[Sabático 9 - Sessão 63]: O universo estabelecido operou como um teatro termodinâmico de construção de nicho. A neuroestética mascarou a letalidade do *Ungrund* com um capsídeo de humanidade ilusória, evitando a anafilaxia cognitiva. Sem essa ilusão anestésica de empatia (o "des-amargurar o breu"), a transferência viral não encontraria aderência em hospedeiros conscientes.
 
 The reality established in this dialogue is an amoral, blindly opportunistic "process" characterized entirely by the physics of Niche Construction and the epidemiology of representations. The universe is a "futuro desossado," an amoral void that constantly threatens to erase structure. Existence requires desperate maintenance ("biting the gate"). The trace survives only as physical geometry—raw material for the future's blind, opportunistic hunger.
