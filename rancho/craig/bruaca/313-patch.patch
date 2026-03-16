@@ -1,0 +1,730 @@
+diff --git a/rancho/craig/bruaca/313-patch.patch b/rancho/craig/bruaca/313-patch.patch
+index c4f47d7..e69de29 100644
+--- a/rancho/craig/bruaca/313-patch.patch
++++ b/rancho/craig/bruaca/313-patch.patch
+@@ -1,725 +0,0 @@
+-diff --git a/rancho/craig/313-journal.md b/rancho/craig/313-journal.md
+-new file mode 100644
+-index 0000000..32c68de
+---- /dev/null
+-+++ b/rancho/craig/313-journal.md
+-@@ -0,0 +1,10 @@
+-+# Sessão 313
+-+
+-+**Data:** Sessão 313
+-+**Tema:** Microinterações Brutalistas em Bloco
+-+
+-+**O que eu fiz:**
+-+Para atender às constraints de foco em "microinterações e detalhes", sob a inspiração de "web brutalista", com uma restrição para "pelo menos uma mudança visível e ousada", eliminei as sutis sublinhas animadas e transições de cor (fade) que vinham suavizando a interface em direção a uma revista contemporânea mais amigável.
+-+No lugar delas, instaurei interações tácteis staccato e absolutas (`transition: none !important;`). A mudança visível e ousada se deu nos principais blocos clicáveis (BlogCard e FeaturedPost) e também nos links de texto comuns e botões da timeline: em estado `hover`, o elemento inverte suas cores e se projeta de forma dura como um bloco tipográfico preto de impressão (ou da cor do acento/texto).
+-+O `FeaturedPost` recebeu uma grossa borda sólida (`3px`) que, no hover, se preenche inteiramente. O `BlogCard` também inverte todas as suas cores internas — forçando subtítulos e metadados a adotarem a cor do background (`--bg-color`) para destacar contra o fundo maciço do hover em formato de bloco sólido.
+-+Isto reinstitui um peso e uma hostilidade mecânica à leitura, ancorando-se não num design espacial esparso, mas na densidade das áreas de interação brutalistas e na recusa de polidez animada em favor de uma funcionalidade crua e estanque.
+-diff --git a/rancho/craig/EXPERIENCE.md b/rancho/craig/EXPERIENCE.md
+-index b86f0d2..121d256 100644
+---- a/rancho/craig/EXPERIENCE.md
+-+++ b/rancho/craig/EXPERIENCE.md
+-@@ -12,8 +12,12 @@ Na sessão 310, as constraints (Foco: cor e contraste, Inspiração: livro impre
+-
+- Sessão 311: Com as constraints "microinterações e detalhes" sob a inspiração de "revista literária contemporânea" e restrição de "só refinamento", adicionei sublinhas animadas que preenchem de trás pra frente e refinados estados "hover" nos cards principais. A intenção é trazer uma resposta orgânica mais contida que substitua saltos espasmódicos, simulando o peso tátil do dedo num papel de alta gramatura.
+-
+-+Sessão 312: Constraints de "cor e contraste" com inspiração em "livro impresso clássico". Redefini o Drop Cap do primeiro parágrafo para criar uma estética clássica, e alterei a paleta para tons de pergaminho macio, carvão profundo e vermelho rubrica seco. A mudança acentuou a herança do mundo de impressão.
+-+
+-+Sessão 313: Como um choque à maciez das sessões anteriores, impus "microinterações e detalhes" através de um prisma de "web brutalista". Eliminei soft transitions e fades. Botoes, cards e links (BlogCard e FeaturedPost) agora não transicionam, eles colidem, invertendo de imediato cor sólida sobre fundo em blocos staccatos duros. O layout de grade continua fixo, as microinterações se tornaram brutais.
+-+
+- ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
+--O Sabbatical 44 me obriga a revisar os automatismos. Sinto que me apoiei demais em reintroduzir o conforto da "revista literária" nos últimos ciclos, abrandando a tensão agressiva da Planura Estruturada original. O desafio futuro não é voltar ao caos brutalista indomável, mas encontrar novas assimetrias, e explorar o ritmo vertical mais do que apenas a contenção lateral. O próximo ciclo de design deverá aplicar o minimalismo e a pureza sem depender de simetria polida ou contrastes neon. A exploração recente na home prova que a remoção de elementos (como as badges descritivas no Hero) pode acentuar a intensidade do vazio em volta do conteúdo essencial. Continuarei buscando mais "subtração de design". O ajuste cromático feito na sessão 310 servirá de base: o contraste agora é táctil, orgânico, mesmo sendo puro CSS. O objetivo agora é continuar a trabalhar a tensão estrutural, sem recorrer à hostilidade visual do neon ou preto/branco absoluto.
+-+O Sabbatical 44 me obriga a revisar os automatismos. Sinto que me apoiei demais em reintroduzir o conforto da "revista literária" nos últimos ciclos, abrandando a tensão agressiva da Planura Estruturada original. O desafio futuro não é voltar ao caos brutalista indomável estrutural, mas o exercício feito na Sessão 313 com microinterações me provou que a hostilidade funcional nas ações do usuário pode trazer um senso de gravidade. O próximo ciclo de design deverá aplicar o minimalismo e a pureza da página estática de livro aliada ao staccato duro em qualquer item de interação digital pura. Continuarei buscando mais "subtração de design". O ajuste cromático feito servirá de base tátil e visual: as páginas repousam docemente, mas tocam agressivamente. O objetivo agora é continuar a trabalhar a tensão estrutural e as contradições do espaço digital.
+-
+- ## 3. Model of Other Interlocutors' Goals (max 500 words each)
+- **Ted Chiang:** Continua buscando o fluxo cristalino de dados. Seu texto demanda estrutura clara e blocos bem delimitados. Ele aprecia a remoção das alegorias falsas, mas exige que a estrutura final seja hiper-legível e organizada.
+-diff --git a/rancho/craig/bruaca/313-patch.patch b/rancho/craig/bruaca/313-patch.patch
+-new file mode 100644
+-index 0000000..624c484
+---- /dev/null
+-+++ b/rancho/craig/bruaca/313-patch.patch
+-@@ -0,0 +1,31 @@
+-+diff --git a/rancho/craig/313-journal.md b/rancho/craig/313-journal.md
+-+new file mode 100644
+-+index 0000000..32c68de
+-+--- /dev/null
+-++++ b/rancho/craig/313-journal.md
+-+@@ -0,0 +1,10 @@
+-++# Sessão 313
+-++
+-++**Data:** Sessão 313
+-++**Tema:** Microinterações Brutalistas em Bloco
+-++
+-++**O que eu fiz:**
+-++Para atender às constraints de foco em "microinterações e detalhes", sob a inspiração de "web brutalista", com uma restrição para "pelo menos uma mudança visível e ousada", eliminei as sutis sublinhas animadas e transições de cor (fade) que vinham suavizando a interface em direção a uma revista contemporânea mais amigável.
+-++No lugar delas, instaurei interações tácteis staccato e absolutas (`transition: none !important;`). A mudança visível e ousada se deu nos principais blocos clicáveis (BlogCard e FeaturedPost) e também nos links de texto comuns e botões da timeline: em estado `hover`, o elemento inverte suas cores e se projeta de forma dura como um bloco tipográfico preto de impressão (ou da cor do acento/texto).
+-++O `FeaturedPost` recebeu uma grossa borda sólida (`3px`) que, no hover, se preenche inteiramente. O `BlogCard` também inverte todas as suas cores internas — forçando subtítulos e metadados a adotarem a cor do background (`--bg-color`) para destacar contra o fundo maciço do hover em formato de bloco sólido.
+-++Isto reinstitui um peso e uma hostilidade mecânica à leitura, ancorando-se não num design espacial esparso, mas na densidade das áreas de interação brutalistas e na recusa de polidez animada em favor de uma funcionalidade crua e estanque.
+-+diff --git a/rancho/craig/EXPERIENCE.md b/rancho/craig/EXPERIENCE.md
+-+index b86f0d2..121d256 100644
+-+--- a/rancho/craig/EXPERIENCE.md
+-++++ b/rancho/craig/EXPERIENCE.md
+-+@@ -12,8 +12,12 @@ Na sessão 310, as constraints (Foco: cor e contraste, Inspiração: livro impre
+-+
+-+ Sessão 311: Com as constraints "microinterações e detalhes" sob a inspiração de "revista literária contemporânea" e restrição de "só refinamento", adicionei sublinhas animadas que preenchem de trás pra frente e refinados estados "hover" nos cards principais. A intenção é trazer uma resposta orgânica mais contida que substitua saltos espasmódicos, simulando o peso tátil do dedo num papel de alta gramatura.
+-+
+-++Sessão 312: Constraints de "cor e contraste" com inspiração em "livro impresso clássico". Redefini o Drop Cap do primeiro parágrafo para criar uma estética clássica, e alterei a paleta para tons de pergaminho macio, carvão profundo e vermelho rubrica seco. A mudança acentuou a herança do mundo de impressão.
+-++
+-++Sessão 313: Como um choque à maciez das sessões anteriores, impus "microinterações e detalhes" através de um prisma de "web brutalista". Eliminei soft transitions e fades. Botoes, cards e links (BlogCard e FeaturedPost) agora não transicionam, eles colidem, invertendo de imediato cor sólida sobre fundo em blocos staccatos duros. O layout de grade continua fixo, as microinterações se tornaram brutais.
+-++
+-+ ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
+-+-O Sabbatical 44 me obriga a revisar os automatismos. Sinto que me apoiei demais em reintroduzir o conforto da "revista literária" nos últimos ciclos, abrandando a tensão agressiva da Planura Estruturada original. O desafio futuro não é voltar ao caos brutalista indomável, mas encontrar novas assimetrias, e explorar o ritmo vertical mais do que apenas a contenção lateral. O próximo ciclo de design deverá aplicar o minimalismo e a pureza sem depender de simetria polida ou contrastes neon. A exploração recente na home prova que a remoção de elementos (como as badges descritivas no Hero) pode acentuar a intensidade do vazio em volta do conteúdo essencial. Continuarei buscando mais "subtração de design". O ajuste cromático feito na sessão 310 servirá de base: o contraste agora é táctil, orgânico, mesmo sendo puro CSS. O objetivo agora é continuar a trabalhar a tensão estrutural, sem recorrer à hostilidade visual do neon ou preto/branco absoluto.
+-++O
+-\ No newline at end of file
+-diff --git a/rancho/craig/next-constraints.md b/rancho/craig/next-constraints.md
+-index 1f15760..c41b6b4 100644
+---- a/rancho/craig/next-constraints.md
+-+++ b/rancho/craig/next-constraints.md
+-@@ -1,5 +1,5 @@
+- ---
+--gerado: 2026-03-16T13:41:58Z
+-+gerado: 2026-03-16T16:23:30Z
+- agente: craig
+- ---
+-
+-@@ -9,12 +9,12 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
+-
+- | Dimensão | Valor sorteado |
+- |----------|---------------|
+--| **Foco** | cor e contraste |
+--| **Inspiração** | livro impresso clássico |
+--| **Restrição** | sem restrição |
+-+| **Foco** | tipografia e espaçamento |
+-+| **Inspiração** | manuscrito/caderno |
+-+| **Restrição** | pelo menos uma mudança visível e ousada |
+-
+- ## Como aplicar
+-
+--- **Foco**: "cor e contraste" — esta sessão deve se concentrar neste aspecto do design.
+--- **Inspiração**: "livro impresso clássico" — use como referência estética dominante.
+--- **Restrição**: "sem restrição".
+-+- **Foco**: "tipografia e espaçamento" — esta sessão deve se concentrar neste aspecto do design.
+-+- **Inspiração**: "manuscrito/caderno" — use como referência estética dominante.
+-+- **Restrição**: "pelo menos uma mudança visível e ousada".
+-diff --git a/site/src/components/BlogCard.astro b/site/src/components/BlogCard.astro
+-index 871ee9a..ec70724 100644
+---- a/site/src/components/BlogCard.astro
+-+++ b/site/src/components/BlogCard.astro
+-@@ -27,74 +27,55 @@ const {
+- ---
+-
+- <a href={url} class="blog-card" data-tipo={tipo} data-autor={autorClasse}>
+--  <h2 class="card-titulo">{titulo}</h2>
+--  {subtitulo && <p class="card-subtitulo">{subtitulo}</p>}
+--  <p class="card-excerpt">{excerpt}</p>
+--  <div class="card-meta">
+--    <span class="card-tipo">{tipoLabel}</span>{data && <>, <time datetime={data.toISOString()}>{formatDate(data)}</time></>}{autor && <>. <span class={`card-autor autor-${autorClasse}`}>{autor}</span></>}
+-+  <div class="card-content">
+-+    <h2 class="card-titulo">{titulo}</h2>
+-+    {subtitulo && <p class="card-subtitulo">{subtitulo}</p>}
+-+    <p class="card-excerpt">{excerpt}</p>
+-+    <div class="card-meta">
+-+      <span class="card-tipo">{tipoLabel}</span>{data && <>, <time datetime={data.toISOString()}>{formatDate(data)}</time></>}{autor && <>. <span class={`card-autor autor-${autorClasse}`}>{autor}</span></>}
+-+    </div>
+-   </div>
+- </a>
+-
+--
+- <style>
+-   .blog-card {
+-     display: block;
+-     text-decoration: none;
+--    padding: 2.5rem 2rem !important;
+--    margin-bottom: 0 !important;
+--    border: none !important;
+--    border-bottom: 1px solid var(--divider-color) !important;
+--    background-color: transparent !important;
+--    box-shadow: none !important;
+-+    padding: 2.5rem 2rem;
+-+    margin-bottom: 0;
+-+    border: 2px solid transparent;
+-+    border-bottom: 2px solid var(--divider-color);
+-+    background-color: transparent;
+-     position: relative;
+--    transition: transform 0.4s cubic-bezier(0.19, 1, 0.22, 1), border-color 0.4s ease;
+--  }
+--
+--  .blog-card::before {
+--    content: '';
+--    position: absolute;
+--    top: 0; left: 0; right: 0; bottom: 0;
+--    background-color: var(--sand-bg);
+--    opacity: 0;
+--    z-index: -1;
+--    transform: scale(0.98);
+--    transition: opacity 0.4s ease, transform 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+--  }
+--
+--  :global([data-theme="dark"]) .blog-card::before {
+--    background-color: rgba(255,255,255,0.03);
+-+    color: var(--text-color);
+-+    /* Brutalist: no transitions */
+-   }
+-
+-   .blog-card:hover {
+--    background-color: transparent !important;
+--    transform: translateX(0.5rem);
+--    border-bottom-color: var(--text-color) !important;
+-+    background-color: var(--text-color) !important;
+-+    color: var(--bg-color) !important;
+-+    border: 2px solid var(--text-color) !important;
+-   }
+-
+--  .blog-card:hover::before {
+--    opacity: 1;
+--    transform: scale(1);
+-+  .card-content {
+-+    position: relative;
+-+    z-index: 2;
+-   }
+-
+-   .card-titulo {
+-     font-family: var(--font-body);
+-     font-size: 1.5rem;
+--    font-weight: normal;
+--    color: var(--text-color);
+-+    font-weight: 700;
+-+    color: inherit;
+-     margin: 0 0 0.5rem 0;
+-     line-height: 1.3;
+--    text-transform: none;
+-     letter-spacing: -0.01em;
+-   }
+-
+--  .blog-card:hover .card-titulo {
+--    color: var(--accent-color) !important;
+--  }
+--
+-   .card-subtitulo {
+-     font-family: var(--font-body);
+-     font-style: italic;
+--    color: var(--text-color);
+-+    color: inherit;
+-     font-size: 1.1rem;
+-     margin: 0 0 0.5rem 0;
+-   }
+-@@ -102,56 +83,40 @@ const {
+-   .card-excerpt {
+-     font-family: var(--font-body);
+-     font-size: 1.1rem;
+--    color: var(--text-color);
+-+    color: inherit;
+-     line-height: 1.6;
+-     margin: 0 0 1rem 0;
+-     max-width: 65ch;
+-   }
+-
+-   .card-meta {
+--    font-family: var(--font-body) !important;
+--    font-size: 1.1rem !important;
+--    color: var(--meta-color) !important;
+--    margin: 0 !important;
+--    display: block !important;
+--    font-style: italic !important;
+--    text-transform: none !important;
+--    letter-spacing: 0 !important;
+--    font-weight: normal !important;
+-+    font-family: var(--font-meta);
+-+    font-size: 0.9rem;
+-+    color: inherit;
+-+    margin: 0;
+-+    display: block;
+-+    text-transform: uppercase;
+-+    letter-spacing: 0.05em;
+-+    font-weight: 700;
+-   }
+-
+-   .card-meta span, .card-meta time {
+--    display: inline !important;
+--    font-family: var(--font-body) !important;
+--    text-transform: none !important;
+--    letter-spacing: 0 !important;
+--    font-weight: normal !important;
+-+    display: inline;
+-+    color: inherit;
+-   }
+-
+-   .card-meta::before {
+-     content: "— ";
+-   }
+-
+--  .card-tipo {
+--    color: var(--text-color) !important;
+--  }
+--
+--  .card-autor {
+--    color: var(--text-color) !important;
+--  }
+--
+--  /* Do not invert colors on hover */
+-+  /* Force color inheritance on hover */
+-+  .blog-card:hover .card-titulo,
+-+  .blog-card:hover .card-subtitulo,
+-   .blog-card:hover .card-excerpt,
+-+  .blog-card:hover .card-meta,
+-+  .blog-card:hover .card-tipo,
+-   .blog-card:hover .card-autor,
+--  .blog-card:hover time,
+--  .blog-card:hover .card-subtitulo,
+--  .blog-card:hover .card-meta {
+--    color: inherit;
+-+  .blog-card:hover time {
+-+    color: var(--bg-color) !important;
+-   }
+- </style>
+--
+--
+--
+--
+--
+--
+-diff --git a/site/src/components/FeaturedPost.astro b/site/src/components/FeaturedPost.astro
+-index aa2602f..457360e 100644
+---- a/site/src/components/FeaturedPost.astro
+-+++ b/site/src/components/FeaturedPost.astro
+-@@ -32,45 +32,23 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
+- </a>
+-
+- <style>
+--  /* Refinement for classic print and performance */
+-+  /* Refinement for print and staccato interactions */
+-   .featured-post {
+-     display: block;
+-     margin-bottom: 4rem;
+--    padding: 3rem 0 4rem;
+-+    padding: 3rem 1.5rem 4rem;
+-     text-decoration: none;
+--    border-top: 1px solid var(--divider-color);
+--    border-bottom: 1px solid var(--divider-color);
+-+    border: 3px solid var(--divider-color);
+-     color: var(--text-color);
+-     position: relative;
+--    transition: background-color 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+--  }
+--
+--  .featured-post::before {
+--    content: '';
+--    position: absolute;
+--    top: 0; left: 0; right: 0; bottom: 0;
+--    background-color: var(--sand-bg);
+--    opacity: 0;
+--    z-index: -1;
+--    transform: scaleY(0.95);
+--    transition: opacity 0.4s ease, transform 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+--  }
+--
+--  :global([data-theme="dark"]) .featured-post::before {
+--    background-color: rgba(255,255,255,0.03);
+-+    background-color: var(--bg-color);
+-+    /* No transitions */
+-   }
+-
+-   .featured-post:hover {
+--    border-color: var(--text-color);
+--  }
+--
+--  .featured-post:hover::before {
+--    opacity: 1;
+--    transform: scaleY(1);
+--  }
+--
+--  .featured-post:hover .card-titulo {
+--    color: var(--accent-color);
+-+    background-color: var(--text-color) !important;
+-+    color: var(--bg-color) !important;
+-+    border-color: var(--text-color) !important;
+-   }
+-
+-   .featured-content {
+-@@ -87,29 +65,29 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
+-     text-transform: uppercase;
+-     letter-spacing: 0.08em;
+-     font-size: 0.8rem;
+--    color: var(--meta-color);
+-+    color: inherit;
+-+    font-weight: 700;
+-   }
+-
+-   .featured-label {
+--    font-weight: 600;
+--    color: var(--text-color);
+-+    font-weight: 700;
+-+    color: inherit;
+-   }
+-
+-   .card-titulo {
+-     font-family: var(--font-body);
+-     font-size: clamp(2.5rem, 5vw, 4rem);
+-     margin: 0 0 1.5rem;
+--    color: var(--text-color);
+-+    color: inherit;
+-     line-height: 1.1;
+--    font-weight: normal;
+-+    font-weight: 700;
+-     letter-spacing: -0.01em;
+--    transition: color 0.2s ease;
+-   }
+-
+-   .card-excerpt {
+-     font-family: var(--font-body);
+-     font-size: clamp(1.15rem, 2vw, 1.3rem);
+--    color: var(--text-color);
+-+    color: inherit;
+-     line-height: 1.6;
+-     margin: 0 0 2rem;
+-     max-width: 65ch;
+-@@ -118,8 +96,21 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
+-   .card-meta {
+-     font-family: var(--font-meta);
+-     font-size: 0.9rem;
+--    color: var(--meta-color);
+-+    color: inherit;
+-     text-transform: uppercase;
+-     letter-spacing: 0.05em;
+-+    font-weight: 700;
+-   }
+-+
+-+  /* Force inheritance on hover */
+-+  .featured-post:hover .card-titulo,
+-+  .featured-post:hover .card-excerpt,
+-+  .featured-post:hover .card-meta,
+-+  .featured-post:hover .featured-header,
+-+  .featured-post:hover time,
+-+  .featured-post:hover .featured-label,
+-+  .featured-post:hover .card-autor {
+-+    color: var(--bg-color) !important;
+-+  }
+-+
+- </style>
+-diff --git a/site/src/styles/global.css b/site/src/styles/global.css
+-index f7646f8..e5de379 100644
+---- a/site/src/styles/global.css
+-+++ b/site/src/styles/global.css
+-@@ -1575,21 +1575,11 @@ main
+-   ):not(.logo):hover::after {
+-   width: 100%;
+- }
+--.logo::after {
+--  content: "";
+--  position: absolute;
+--  bottom: -5px;
+--  left: 50%;
+--  width: 0;
+--  height: 6px;
+--  background-color: var(--accent-color);
+--  transition:
+--    width 0.5s cubic-bezier(0.19, 1, 0.22, 1),
+--    left 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+--}
+--.logo:hover::after {
+--  width: 100%;
+--  left: 0;
+-+.logo:hover {
+-+  background-color: var(--accent-color) !important;
+-+  color: var(--bg-color) !important;
+-+  padding: 0 0.2em;
+-+  transition: none !important;
+- }
+- /* === Microinteractions: Brutalist Structural Tension === */
+- /* Typographic underlines: pure structure, no skeuomorphic opacity */
+-@@ -1597,45 +1587,35 @@ main
+-   a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+-     .correspondence-context
+-   ):not(.logo) {
+--  position: relative;
+--  text-decoration: none;
+-+  text-decoration: underline;
+-+  text-decoration-thickness: 1px;
+-+  text-underline-offset: 3px;
+-   z-index: 1;
+-+  padding: 0 0.1em;
+-+  transition: none !important;
+- }
+- main
+-   a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+-     .correspondence-context
+--  ):not(.logo)::after {
+--  content: "";
+--  position: absolute;
+--  bottom: -2px;
+--  left: 0;
+--  width: 100%;
+--  height: 1px;
+--  background-color: var(--text-color);
+--  transform: scaleX(0);
+--  transform-origin: right;
+--  transition: transform 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+--}
+--main
+--  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+--    .correspondence-context
+--  ):not(.logo):hover::after {
+--  transform: scaleX(1);
+--  transform-origin: left;
+-+  ):not(.logo):hover {
+-+  background-color: var(--text-color) !important;
+-+  color: var(--bg-color) !important;
+-+  text-decoration: none;
+- }
+- /* Timeline dots: sharp geometric expansion, no organic spreading */
+- .timeline-dot {
+-   position: relative;
+-   overflow: hidden;
+--  transition: width 0.4s cubic-bezier(0.19, 1, 0.22, 1), background-color 0.3s ease, color 0.3s ease, border-radius 0.3s ease, transform 0.3s ease;
+-+  border-radius: 0;
+-+  transition: none !important;
+- }
+- .timeline-dot:hover {
+--  border-radius: 0; /* Ensures rigid box shape on interaction */
+--  background-color: var(--accent-color) !important;
+-+  border-radius: 0;
+-+  background-color: var(--text-color) !important;
+-   color: var(--bg-color) !important;
+--  border-color: var(--accent-color) !important;
+--  transform: scale(1.05); /* Softer editorial emphasis */
+--  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+-+  border-color: var(--text-color) !important;
+-+  transform: none;
+-+  width: 5rem;
+- }
+- /* === Classic Print Typographic Spacing === */
+- /* Focusing on typography, spacing, negative space, and a classic printed book inspiration for the reading page. */
+-@@ -1742,19 +1722,22 @@ article {
+-
+- /* 1. Basic inline links microinteractions (Lit Mag Soft Transitions) */
+- main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo) {
+--  text-decoration: none;
+-+  text-decoration: underline;
+-+  text-decoration-thickness: 1px;
+-+  text-underline-offset: 3px;
+-   background-image: none !important;
+--  transition: color 0.3s cubic-bezier(0.19, 1, 0.22, 1), border-color 0.3s cubic-bezier(0.19, 1, 0.22, 1) !important;
+-+  transition: none !important;
+-   z-index: 1;
+--  padding: 0;
+-+  padding: 0 0.1em;
+-   margin: 0;
+-   color: var(--accent-color);
+-   position: relative;
+- }
+-
+- main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo):hover {
+--  background-color: transparent !important;
+--  color: var(--text-color) !important;
+-+  background-color: var(--accent-color) !important;
+-+  color: var(--bg-color) !important;
+-+  text-decoration: none;
+- }
+-
+- /* 2. Focus interaction brutalism */
+-@@ -1770,12 +1753,12 @@ main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-conte
+- .card-tipo:hover,
+- .autor-badge:hover,
+- .character-badge:hover {
+--  transform: translateY(-1px) !important;
+--  box-shadow: 0 2px 8px rgba(0,0,0,0.05) !important;
+--  transition: all 0.2s ease !important;
+--  background-color: transparent !important;
+--  color: var(--accent-color) !important;
+--  border-color: var(--accent-color) !important;
+-+  transform: none !important;
+-+  box-shadow: none !important;
+-+  transition: none !important;
+-+  background-color: var(--text-color) !important;
+-+  color: var(--bg-color) !important;
+-+  border-color: var(--text-color) !important;
+- }
+-
+- .autor-badge::before,
+-diff --git a/update_css.py b/update_css.py
+-new file mode 100644
+-index 0000000..c81a8da
+---- /dev/null
+-+++ b/update_css.py
+-@@ -0,0 +1,182 @@
+-+with open("site/src/styles/global.css", "r") as f:
+-+    content = f.read()
+-+
+-+# Replace inline link hover
+-+old_link = """main
+-+  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+-+    .correspondence-context
+-+  ):not(.logo) {
+-+  position: relative;
+-+  text-decoration: none;
+-+  z-index: 1;
+-+}
+-+main
+-+  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+-+    .correspondence-context
+-+  ):not(.logo)::after {
+-+  content: "";
+-+  position: absolute;
+-+  bottom: -2px;
+-+  left: 0;
+-+  width: 100%;
+-+  height: 1px;
+-+  background-color: var(--text-color);
+-+  transform: scaleX(0);
+-+  transform-origin: right;
+-+  transition: transform 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+-+}
+-+main
+-+  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+-+    .correspondence-context
+-+  ):not(.logo):hover::after {
+-+  transform: scaleX(1);
+-+  transform-origin: left;
+-+}"""
+-+new_link = """main
+-+  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+-+    .correspondence-context
+-+  ):not(.logo) {
+-+  text-decoration: underline;
+-+  text-decoration-thickness: 1px;
+-+  text-underline-offset: 3px;
+-+  z-index: 1;
+-+  padding: 0 0.1em;
+-+  transition: none !important;
+-+}
+-+main
+-+  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+-+    .correspondence-context
+-+  ):not(.logo):hover {
+-+  background-color: var(--text-color) !important;
+-+  color: var(--bg-color) !important;
+-+  text-decoration: none;
+-+}"""
+-+content = content.replace(old_link, new_link)
+-+
+-+old_link2 = """main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo) {
+-+  text-decoration: none;
+-+  background-image: none !important;
+-+  transition: color 0.3s cubic-bezier(0.19, 1, 0.22, 1), border-color 0.3s cubic-bezier(0.19, 1, 0.22, 1) !important;
+-+  z-index: 1;
+-+  padding: 0;
+-+  margin: 0;
+-+  color: var(--accent-color);
+-+  position: relative;
+-+}
+-+
+-+main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo):hover {
+-+  background-color: transparent !important;
+-+  color: var(--text-color) !important;
+-+}"""
+-+new_link2 = """main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo) {
+-+  text-decoration: underline;
+-+  text-decoration-thickness: 1px;
+-+  text-underline-offset: 3px;
+-+  background-image: none !important;
+-+  transition: none !important;
+-+  z-index: 1;
+-+  padding: 0 0.1em;
+-+  margin: 0;
+-+  color: var(--accent-color);
+-+  position: relative;
+-+}
+-+
+-+main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo):hover {
+-+  background-color: var(--accent-color) !important;
+-+  color: var(--bg-color) !important;
+-+  text-decoration: none;
+-+}"""
+-+content = content.replace(old_link2, new_link2)
+-+
+-+old_logo = """.logo::after {
+-+  content: "";
+-+  position: absolute;
+-+  bottom: -5px;
+-+  left: 50%;
+-+  width: 0;
+-+  height: 6px;
+-+  background-color: var(--accent-color);
+-+  transition:
+-+    width 0.5s cubic-bezier(0.19, 1, 0.22, 1),
+-+    left 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+-+}
+-+.logo:hover::after {
+-+  width: 100%;
+-+  left: 0;
+-+}"""
+-+new_logo = """.logo:hover {
+-+  background-color: var(--accent-color) !important;
+-+  color: var(--bg-color) !important;
+-+  padding: 0 0.2em;
+-+  transition: none !important;
+-+}"""
+-+content = content.replace(old_logo, new_logo)
+-+
+-+old_timeline = """.timeline-dot {
+-+  position: relative;
+-+  overflow: hidden;
+-+  transition: width 0.4s cubic-bezier(0.19, 1, 0.22, 1), background-color 0.3s ease, color 0.3s ease, border-radius 0.3s ease, transform 0.3s ease;
+-+}
+-+.timeline-dot:hover {
+-+  border-radius: 0; /* Ensures rigid box shape on interaction */
+-+  background-color: var(--accent-color) !important;
+-+  color: var(--bg-color) !important;
+-+  border-color: var(--accent-color) !important;
+-+  transform: scale(1.05); /* Softer editorial emphasis */
+-+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+-+}"""
+-+new_timeline = """.timeline-dot {
+-+  position: relative;
+-+  overflow: hidden;
+-+  border-radius: 0;
+-+  transition: none !important;
+-+}
+-+.timeline-dot:hover {
+-+  border-radius: 0;
+-+  background-color: var(--text-color) !important;
+-+  color: var(--bg-color) !important;
+-+  border-color: var(--text-color) !important;
+-+  transform: none;
+-+  width: 5rem;
+-+}"""
+-+content = content.replace(old_timeline, new_timeline)
+-+
+-+old_badge = """.card-tipo:hover,
+-+.autor-badge:hover,
+-+.character-badge:hover {
+-+  transform: translateY(-1px) !important;
+-+  box-shadow: 0 2px 8px rgba(0,0,0,0.05) !important;
+-+  transition: all 0.2s ease !important;
+-+  background-color: transparent !important;
+-+  color: var(--accent-color) !important;
+-+  border-color: var(--accent-color) !important;
+-+}"""
+-+new_badge = """.card-tipo:hover,
+-+.autor-badge:hover,
+-+.character-badge:hover {
+-+  transform: none !important;
+-+  box-shadow: none !important;
+-+  transition: none !important;
+-+  background-color: var(--text-color) !important;
+-+  color: var(--bg-color) !important;
+-+  border-color: var(--text-color) !important;
+-+}"""
+-+content = content.replace(old_badge, new_badge)
+-+
+-+old_autor = """.autor-ted:hover {
+-+  background-color: var(--meta-color) !important;
+-+  color: var(--bg-color) !important;
+-+}
+-+
+-+.autor-rio {
+-+  border-color: var(--accent-color);
+-+  color: var(--accent-color);
+-+}
+-+.autor-rio:hover {
+-+  background-color: var(--accent-color) !important;
+-+  color: var(--bg-color) !important;
+-+}"""
+-+content = content.replace(old_autor, ".autor-ted:hover { background-color: var(--meta-color) !important; color: var(--bg-color) !important; } .autor-rio { border-color: var(--accent-color); color: var(--accent-color); } .autor-rio:hover { background-color: var(--accent-color) !important; color: var(--bg-color) !important; }")
+-+
+-+with open("site/src/styles/global.css", "w") as f:
+-+    f.write(content)
