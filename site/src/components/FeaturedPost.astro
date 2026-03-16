@@ -32,54 +32,19 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
 </a>
 
 <style>
-  /* Refinement for classic print */
+  /* Refinement for classic print and performance */
   .featured-post {
     display: block;
     margin-bottom: 4rem;
+    padding: 3rem 0 4rem;
     text-decoration: none;
-    border-top: 1px solid var(--text-color);
-    border-bottom: 1px solid var(--text-color);
-    color: var(--text-color) !important;
-    padding: 3rem 0;
-    transition: none !important;
-    background-color: transparent !important;
-    transform: none;
-    position: relative;
-    z-index: 1;
-  }
-
-  .featured-post::before {
-    display: none !important;
-  }
-
-  .featured-post:hover {
-    background-color: transparent !important;
-    color: var(--text-color) !important;
-    border-color: var(--text-color);
-    transform: none !important;
-    box-shadow: none !important;
-  }
-
-  .featured-post:hover .card-titulo,
-  .featured-post:hover .card-excerpt,
-  .featured-post:hover .featured-label,
-  .featured-post:hover time,
-  .featured-post:hover .card-meta,
-  .featured-post:hover .card-autor {
-    color: var(--text-color) !important;
+    border-top: 1px solid var(--divider-color);
+    border-bottom: 1px solid var(--divider-color);
+    color: var(--text-color);
   }
 
   .featured-post:hover .card-titulo {
-    color: var(--accent-color) !important;
-  }
-
-  .featured-post .card-titulo,
-  .featured-post .card-excerpt,
-  .featured-post .featured-label,
-  .featured-post time,
-  .featured-post .card-meta,
-  .featured-post .card-autor {
-    transition: none !important;
+    color: var(--accent-color);
   }
 
   .featured-content {
@@ -89,54 +54,46 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
 
   .featured-header {
     display: flex;
-    justify-content: space-between;
+    gap: 1.5rem;
     align-items: baseline;
-    margin-bottom: 1.5rem;
+    margin-bottom: 2rem;
     font-family: var(--font-meta);
     text-transform: uppercase;
-    letter-spacing: 0.05em;
-    font-size: 0.85rem;
+    letter-spacing: 0.08em;
+    font-size: 0.8rem;
+    color: var(--meta-color);
   }
 
   .featured-label {
-    font-weight: 700;
+    font-weight: 600;
     color: var(--text-color);
-  }
-
-  time {
-    color: var(--meta-color);
   }
 
   .card-titulo {
     font-family: var(--font-body);
-    font-size: clamp(3rem, 6vw, 4.5rem);
+    font-size: clamp(2.5rem, 5vw, 4rem);
     margin: 0 0 1.5rem;
-    color: var(--text-color) !important;
-    line-height: 1.05;
+    color: var(--text-color);
+    line-height: 1.1;
     font-weight: normal;
     letter-spacing: -0.01em;
+    transition: color 0.2s ease;
   }
 
   .card-excerpt {
-    font-family: var(--font-meta);
-    font-size: clamp(1.1rem, 2vw, 1.4rem);
-    color: var(--meta-color) !important;
-    line-height: 1.5;
+    font-family: var(--font-body);
+    font-size: clamp(1.15rem, 2vw, 1.3rem);
+    color: var(--text-color);
+    line-height: 1.6;
     margin: 0 0 2rem;
-    max-width: 800px;
-    font-weight: normal;
+    max-width: 65ch;
   }
 
   .card-meta {
     font-family: var(--font-meta);
     font-size: 0.9rem;
-    color: var(--text-color) !important;
-    font-weight: 700;
+    color: var(--meta-color);
     text-transform: uppercase;
     letter-spacing: 0.05em;
-  }
-
-  .card-autor {
-    color: var(--text-color) !important;
   }
 </style>

@@ -219,11 +219,6 @@ const tipos = ['todos', ...Array.from(tiposSet)];
       <div class="hero-text-col">
         <h1>Travessia</h1>
         <p class="hero-quote">"O diabo não há! É o homem humano. Travessia."</p>
-        <p class="hero-sub">Dois homens que nunca se encontraram trocam cartas sobre o que não tem nome.</p>
-        <div class="hero-characters">
-          <span class="character-badge badge-riobaldo">Riobaldo Tatarana</span>
-          <span class="character-badge badge-ted">Ted Chiang</span>
-        </div>
       </div>
     </div>
   </section>
@@ -267,7 +262,7 @@ const tipos = ['todos', ...Array.from(tiposSet)];
 
 <style>
 
-  /* Hero — Chaotic Manuscript Cover Layout */
+  /* Hero — Performance and Simplicity */
   .blog-hero {
     margin-bottom: 4rem;
     text-align: left;
@@ -277,25 +272,19 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     border: none;
   }
 
-  /* Subtly rotated title background imitating taped paper */
   .hero-typographic {
     display: inline-block;
-    padding: 2rem 3rem;
+    padding: 2rem 0;
     background-color: transparent;
     border: none;
-    transform: none; /* Align to grid */
+    transform: none;
     position: relative;
     z-index: 1;
     max-width: 90%;
   }
 
-  /* Removing taped paper effect for refinement */
   .hero-typographic::after {
-      display: none;
-  }
-
-  :global([data-theme="dark"]) .hero-typographic::after {
-      background: rgba(255,255,255,0.1);
+    display: none;
   }
 
   .hero-text-col {
@@ -304,7 +293,7 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     justify-content: flex-start;
     align-items: flex-start;
     gap: 1.5rem;
-    transform: none; /* remove counter-rotate */
+    transform: none;
     background: transparent !important;
     padding: 0 !important;
   }
@@ -315,11 +304,11 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     letter-spacing: -0.01em;
     line-height: 1.1;
     color: var(--text-color);
-    text-transform: none; /* Restore casing */
-    font-family: var(--font-body); /* Classic Serif */
-    font-weight: normal; /* Lighter weight for refinement */
+    text-transform: none;
+    font-family: var(--font-body);
+    font-weight: normal;
     text-align: left;
-    border-bottom: 1px solid var(--divider-color); /* Thinner border */
+    border-bottom: 1px solid var(--divider-color);
     padding-bottom: 1rem;
     width: 100%;
   }
@@ -327,7 +316,7 @@ const tipos = ['todos', ...Array.from(tiposSet)];
   .hero-quote {
     font-style: italic;
     font-family: var(--font-body);
-    font-size: clamp(1.1rem, 2vw, 1.4rem);
+    font-size: clamp(1.2rem, 3vw, 1.8rem);
     color: var(--text-color);
     margin: 0;
     line-height: 1.6;
@@ -339,43 +328,6 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     background: transparent;
     border: none;
   }
-
-  .hero-sub {
-    font-family: var(--font-meta);
-    font-size: 1rem;
-    color: var(--meta-color);
-    text-transform: none;
-    margin: 0;
-    max-width: 500px;
-    line-height: 1.4;
-    text-align: left;
-  }
-
-  .hero-characters {
-    display: flex;
-    gap: 1.5rem;
-    margin-top: 1.5rem;
-    justify-content: flex-start;
-    align-items: flex-start;
-    flex-wrap: wrap;
-  }
-
-  .character-badge {
-    display: inline-block;
-    padding: 0;
-    border: none;
-    border-bottom: 1px solid var(--text-color);
-    letter-spacing: 0.05em;
-    font-family: var(--font-meta);
-    font-size: 0.9rem;
-    text-transform: uppercase;
-    background: transparent;
-    color: var(--text-color);
-    font-weight: normal;
-  }
-
-  .character-badge:nth-child(1) { transform: none; }
-  .character-badge:nth-child(2) { transform: none; }
 
   /* Blog Feed List - Scattered Manuscript Pages */
   .blog-feed {
