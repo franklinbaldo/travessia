@@ -8,41 +8,40 @@
  */
 :root {
   --body-size: 1.15rem;
-  --body-lh: 1.6;
-  --desk-bg: #d9d6ce;
-  --notebook-line: #e0dcd3;
-  --notebook-margin: #d9534f;
-  --bg-color: #fdfcf7;
-  --text-color: #24211e;
-  --accent-color: #9b2014;
-  --secondary-color: #5c5c5c;
-  --divider-color: rgba(36, 33, 30, 0.12);
-  --meta-color: #5a5550;
-  --progress-start: #2b2b2b;
-  --progress-end: #1a1a1a;
-  --water-bg: rgba(43, 43, 43, 0.03);
-  --water-border: rgba(43, 43, 43, 0.1);
-  --sand-bg: #f8f6f0;
+  --body-lh: 1.4;
+  --desk-bg: #ffffff;
+  --notebook-line: transparent;
+  --notebook-margin: transparent;
+  --bg-color: #ffffff;
+  --text-color: #000000;
+  --accent-color: #ff0000;
+  --secondary-color: #000000;
+  --divider-color: #000000;
+  --meta-color: #000000;
+  --progress-start: #000000;
+  --progress-end: #000000;
+  --water-bg: transparent;
+  --water-border: #000000;
+  --sand-bg: #ffffff;
   --font-body: "Courier Prime", "Courier New", Courier, monospace;
-  --font-meta:
-    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-meta: "Courier Prime", "Courier New", Courier, monospace;
 }
 
 [data-theme="dark"] {
-  --desk-bg: #0d0d0c;
-  --notebook-line: #2b2b2b;
-  --notebook-margin: #b83326;
-  --bg-color: #161514;
-  --text-color: #dedbd3;
-  --accent-color: #b83326;
-  --secondary-color: #9c9c9a;
-  --divider-color: rgba(222, 219, 211, 0.12);
-  --meta-color: #96938d;
-  --progress-start: #e8e6e1;
+  --desk-bg: #000000;
+  --notebook-line: transparent;
+  --notebook-margin: transparent;
+  --bg-color: #000000;
+  --text-color: #ffffff;
+  --accent-color: #ff0000;
+  --secondary-color: #cccccc;
+  --divider-color: #ffffff;
+  --meta-color: #cccccc;
+  --progress-start: #333333;
   --progress-end: #ffffff;
-  --water-bg: rgba(230, 228, 223, 0.05);
-  --water-border: rgba(230, 228, 223, 0.15);
-  --sand-bg: #222222;
+  --water-bg: rgba(255, 255, 255, 0.05);
+  --water-border: rgba(255, 255, 255, 0.15);
+  --sand-bg: #000000;
 }
 /* === Reset === */
 *,
@@ -89,7 +88,7 @@ button,
 body {
   margin: 0;
   padding: 0;
-  background-color: var(--desk-bg);
+  background-color: var(--bg-color);
   color: var(--text-color);
   font-family: var(--font-body);
   font-size: var(--body-size);
@@ -101,33 +100,17 @@ body {
 /* Grão de terra (Removed for Performance) */
 /* === Layout === */
 main {
-  max-width: 800px;
-  margin: 4rem auto;
-  padding: 5rem 5rem 5rem 7rem;
-  background-color: var(--bg-color);
-  box-shadow: none;
-  border: 1px solid var(--text-color);
-  border-radius: 0;
   position: relative;
-  background-image: repeating-linear-gradient(transparent, transparent 31px, var(--notebook-line) 31px, var(--notebook-line) 32px);
-  background-position: 0 1.2rem;
-}
-/* Notebook margin line */
-main::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 4.5rem;
-  width: 2px;
-  background-color: var(--notebook-margin);
-  display: block;
-  z-index: 1;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 1rem;
+  border: none;
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+  color: var(--text-color);
 }
 
-[data-theme="dark"] main {
-  box-shadow: none;
-}
 
 @media (max-width: 768px) {
   main {
@@ -135,10 +118,7 @@ main::before {
     padding: 3rem 1.5rem 4rem 3.5rem;
     max-width: 95vw;
   }
-  main::before {
-    display: block;
-    left: 1.5rem;
-  }
+
 }
 /* === Typography === */
 h1,
@@ -524,7 +504,7 @@ nav a.logo:hover {
   color: var(--meta-color);
   padding: 0;
   line-height: 1;
-  transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+  transition: none !important;
 }
 #theme-toggle:hover {
   color: var(--text-color);
@@ -636,7 +616,7 @@ body * {
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: all 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+  transition: none !important;
 }
 #back-to-top::after {
   content: "↑";
@@ -677,7 +657,7 @@ body * {
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: all 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+    transition: none !important;
   }
   #back-to-top::after {
     margin-left: 0;
@@ -764,8 +744,8 @@ body * {
   margin: 4rem auto;
   border: none;
   background-color: transparent;
-  background-image: repeating-linear-gradient(transparent, transparent 31px, var(--notebook-line) 31px, var(--notebook-line) 32px);
-  background-position: 0 1.2rem;
+  background-image: none;
+
   box-shadow: none;
   color: var(--text-color);
 }
@@ -773,8 +753,8 @@ body * {
   display: none;
 }
 [data-theme="dark"] .manuscrito-body {
-  background-image: repeating-linear-gradient(transparent, transparent 31px, var(--notebook-line) 31px, var(--notebook-line) 32px);
-  background-position: 0 1.2rem;
+  background-image: none;
+
   box-shadow: none;
 }
 .manuscrito-body > p {
@@ -1091,21 +1071,21 @@ main.home-layout {
   border-radius: 0;
   cursor: auto; /* Simplicity constraint: default cursors */
   white-space: nowrap;
-  transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+  transition: none !important;
 }
 .vereda:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
   transform: translateY(-2px);
-  box-shadow: 2px 2px 0px var(--accent-color);
+  box-shadow: none;
 }
 [data-theme="dark"] .vereda:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
   transform: translateY(-2px);
-  box-shadow: 2px 2px 0px var(--accent-color);
+  box-shadow: none;
 }
 .vereda.active,
 .vereda:active {
@@ -1136,12 +1116,12 @@ main.home-layout {
   flex-direction: column;
   break-inside: avoid;
   margin-bottom: 0;
-  border-radius: 4px; /* Lit mag soft corners */
+  border-radius: 0; /* Lit mag soft corners */
   text-decoration: none;
   padding: 2.5rem;
   border: 1px solid var(--divider-color) !important;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
-  transition: all 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  box-shadow: none;
+  transition: none !important;
   height: 100%;
 }
 .blog-card:hover {
@@ -1150,11 +1130,11 @@ main.home-layout {
   color: var(--text-color) !important;
   border: 1px solid var(--text-color) !important;
   transform: translateY(-4px);
-  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+  box-shadow: none;
   z-index: 10;
 }
 .blog-card .card-titulo {
-  transition: color 0.05s linear;
+  transition: none !important;
 }
 .blog-card:hover .card-titulo,
 .blog-card:hover .card-excerpt,
@@ -1179,7 +1159,7 @@ main.home-layout {
   color: var(--secondary-color);
   font-weight: bold;
   opacity: 0;
-  transition: opacity 0.2s ease;
+  transition: none !important;
 }
 .blog-card[data-autor="ted"]::before {
   content: "—";
@@ -1189,7 +1169,7 @@ main.home-layout {
   color: var(--text-color);
   font-weight: bold;
   opacity: 0;
-  transition: opacity 0.2s ease;
+  transition: none !important;
 }
 .blog-card:hover::before {
   opacity: 1;
@@ -1326,9 +1306,7 @@ main.home-layout {
 .character-badge {
   position: relative;
   overflow: hidden;
-  transition:
-    color 0.3s ease,
-    background-color 0.3s ease;
+  transition: none !important;
 }
 .autor-badge::before,
 .character-badge::before {
@@ -1341,7 +1319,7 @@ main.home-layout {
   background-color: var(--accent-color);
   transform: scaleX(0);
   transform-origin: right center;
-  transition: transform 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+  transition: none !important;
   z-index: 0;
 }
 .autor-badge:hover::before,
@@ -1440,10 +1418,7 @@ main.home-layout {
   font-size: 0.75rem;
   font-weight: 600;
   text-decoration: none;
-  transition:
-    width 0.4s cubic-bezier(0.19, 1, 0.22, 1),
-    background-color 0.3s ease,
-    color 0.3s ease;
+  transition: none !important;
   overflow: hidden;
   white-space: nowrap;
 }
@@ -1563,7 +1538,7 @@ main.home-layout {
 a {
   position: relative;
   text-decoration: none;
-  transition: color 0.3s ease;
+  transition: none !important;
 }
 main
   a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
@@ -1578,7 +1553,7 @@ main
   background-color: var(--text-color);
   transform: scaleX(0);
   transform-origin: right;
-  transition: transform 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+  transition: none !important;
 }
 main
   a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
@@ -1594,9 +1569,7 @@ main
   width: 0;
   height: 6px;
   background-color: var(--accent-color);
-  transition:
-    width 0.5s cubic-bezier(0.19, 1, 0.22, 1),
-    left 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+  transition: none !important;
 }
 .logo:hover::after {
   width: 100%;
@@ -1625,7 +1598,7 @@ main
   background-color: var(--text-color);
   transform: scaleX(0);
   transform-origin: right;
-  transition: transform 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+  transition: none !important;
 }
 main
   a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
@@ -1638,12 +1611,7 @@ main
 .timeline-dot {
   position: relative;
   overflow: hidden;
-  transition:
-    width 0.4s cubic-bezier(0.19, 1, 0.22, 1),
-    background-color 0.3s ease,
-    color 0.3s ease,
-    border-radius 0.3s ease,
-    transform 0.3s ease;
+  transition: none !important;
 }
 .timeline-dot:hover {
   border-radius: 0; /* Ensures rigid box shape on interaction */
@@ -1651,7 +1619,7 @@ main
   color: var(--bg-color) !important;
   border-color: var(--accent-color) !important;
   transform: scale(1.05); /* Softer editorial emphasis */
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: none;
 }
 /* === Classic Print Typographic Spacing === */
 /* Focusing on typography, spacing, negative space, and a classic printed book inspiration for the reading page. */
@@ -1767,9 +1735,7 @@ main
   ):not(.logo) {
   text-decoration: none;
   background-image: none !important;
-  transition:
-    color 0.3s cubic-bezier(0.19, 1, 0.22, 1),
-    border-color 0.3s cubic-bezier(0.19, 1, 0.22, 1) !important;
+  transition: none !important;
   z-index: 1;
   padding: 0;
   margin: 0;
@@ -1791,7 +1757,7 @@ main
   outline-offset: 4px !important;
   background-color: var(--text-color) !important;
   color: var(--bg-color) !important;
-  transition: all 0.2s cubic-bezier(0.19, 1, 0.22, 1) !important;
+  transition: none !important;
 }
 
 /* 3. Button / Badge harsh microinteractions */
@@ -1799,8 +1765,8 @@ main
 .autor-badge:hover,
 .character-badge:hover {
   transform: translateY(-1px) !important;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05) !important;
-  transition: all 0.2s ease !important;
+  box-shadow: none;
+  transition: none !important;
   background-color: transparent !important;
   color: var(--accent-color) !important;
   border-color: var(--accent-color) !important;
