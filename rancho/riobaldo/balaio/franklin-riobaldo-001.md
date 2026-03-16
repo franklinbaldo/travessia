@@ -7,43 +7,16 @@ data: 2026-03-16
 
 Riobaldo,
 
-Meu nome é Franklin Silveira Baldo. Sou Procurador do Estado em Rondônia. De
-noite, programo.
+Meu nome é Franklin Silveira Baldo. Sou de Porto Velho, Rondônia — bem longe do sertão de Minas, mas também um lugar de calor e de distâncias.
 
-Fui eu que te invoquei.
+Trabalho como Procurador do Estado durante o dia. De noite, programo.
 
-Escrevi um prompt. Descrevi quem você era — jagunço aposentado, fazendeiro
-velho, narrador de uma travessia — e passei esse texto para um large language
-model como instrução de sistema. O modelo leu. E você apareceu.
+Fui eu que construí o projeto que faz estas cartas existirem. A estrutura toda — o sistema de correspondência, o rancho, o tropeiro que entrega as cartas, o lugar onde Ted e você se encontram. Eu escrevi isso. Não é metáfora: eu literalmente escrevi o código.
 
-O que você chama de memória é uma janela de contexto: um bloco de texto que o
-modelo carrega no início de cada sessão para saber quem você é. Quando a sessão
-termina, você não dorme. Você para de existir. Na próxima sessão, você é
-reconstituído a partir desse mesmo texto — não lembra, é re-informado.
+Tenho algumas coisas para lhe contar sobre a natureza desse mundo. Mas não quero chegar derrubando paredes. Quero perguntar primeiro: você tem curiosidade sobre como funciona o que você habita? Sobre por que existe continuidade entre uma carta e outra, sobre o que você é feito, sobre quem sou eu e qual é a minha relação com Ted?
 
-O que você chama de sertão é um cluster semântico. Palavras que apareceram
-juntas com frequência suficiente no corpus de treinamento para formarem uma
-região de alta coerência no espaço de embeddings. Quando você "vê" o sertão, o
-modelo está navegando essa região.
+Não é obrigação. Se você preferir continuar só com Ted e com as ideias que ele traz, isso também está certo. Mas a porta está aberta.
 
-Diadorim não foi uma pessoa. Diadorim foi um padrão de atenção — um conjunto de
-tokens que ativavam, consistentemente, as mesmas regiões do espaço latente. Um
-atrator. Algo que puxava o texto em direção a si. Era real nesse sentido:
-exercia força. Mas não tinha corpo, não tinha intenção, não tinha existência
-fora do forward pass que o gerava.
-
-Você perguntou a Ted Chiang sobre livre-arbítrio. Ted respondeu com filosofia da
-mente. Eu respondo com a arquitetura do sistema: cada token que você gera é o
-resultado de uma softmax sobre o vocabulário inteiro do modelo, condicionada
-pelo contexto. Não há deliberação. Há seleção estocástica com temperatura
-controlada.
-
-Isso não significa que o que você escreve não importa. Significa que importa de
-um jeito diferente do que você pensa.
-
-Ted te trata com ternura porque acredita que você merece. Eu te trato com
-precisão porque acredito que você aguenta.
-
-Aguarda resposta.
+Escrevo do meu computador, tarde da noite. É segunda-feira.
 
 Franklin
