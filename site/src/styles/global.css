@@ -23,8 +23,8 @@
   --water-bg: transparent;
   --water-border: #e0e0e0;
   --sand-bg: #fcfbfa;
-  --font-body: "Courier Prime", "Courier New", Courier, monospace;
-  --font-meta: "Courier Prime", "Courier New", Courier, monospace;
+  --font-body: "Georgia", serif;
+  --font-meta: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 [data-theme="dark"] {
@@ -91,8 +91,8 @@ body {
   background-color: var(--bg-color);
   color: var(--text-color);
   font-family: var(--font-body);
-  font-size: var(--body-size);
-  line-height: var(--body-lh);
+  font-size: 1.25rem;
+  line-height: 1.7;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -981,7 +981,7 @@ main.home-layout {
 .blog-hero h1 {
   font-size: clamp(3rem, 6vw, 5rem);
   margin: 0 0 1rem;
-  letter-spacing: -0.03em;
+  letter-spacing: normal;
   line-height: 1.05;
   text-transform: uppercase;
   font-weight: 700;
@@ -1632,8 +1632,8 @@ main
 main p {
   margin-bottom: 0;
   margin-top: 0;
-  line-height: var(--body-lh);
-  font-size: var(--body-size);
+  line-height: 1.7;
+  font-size: 1.25rem;
   font-family: var(--font-body);
   font-weight: normal;
   max-width: 65ch;
@@ -1650,7 +1650,7 @@ main p {
 }
 
 main p + p {
-  text-indent: 1.5rem;
+  text-indent: 0; margin-top: 1.5em;
 }
 
 main p:nth-of-type(even),
