@@ -59,6 +59,9 @@ function autorClasse(autorName: string): string {
 
     <div class={`manuscrito-body classic-print-page ${isRio ? 'carta-riobaldo' : ''}`}>
       <Content />
+      <div class="classic-folio" data-folio={entry.id.split('-')[0]}>
+        {entry.id.split('-')[0]}
+      </div>
     </div>
   </article>
 
