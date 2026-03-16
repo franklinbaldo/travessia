@@ -8,7 +8,7 @@
  */
 :root {
   --body-size: 1.15rem;
-  --body-lh: 2rem;
+  --body-lh: 1.6;
   --desk-bg: #d9d6ce;
   --notebook-line: transparent;
   --notebook-margin: transparent;
@@ -1621,13 +1621,14 @@ main
  * Brutalist Typography and Spacing
  */
 main p {
-  margin-bottom: 2rem;
+  margin-bottom: 0;
+  margin-top: 0;
   line-height: var(--body-lh);
   font-size: var(--body-size);
   font-family: var(--font-body);
   font-weight: normal;
-  max-width: 100%;
-  margin-left: 0;
+  max-width: 65ch;
+  margin-left: auto;
   margin-right: auto;
   text-align: left;
   hyphens: auto;
@@ -1640,11 +1641,11 @@ main p {
 }
 
 main p + p {
-  text-indent: 0;
+  text-indent: 1.5rem;
 }
 
 main p:nth-of-type(even), main p:nth-of-type(3n) {
-  max-width: 100%;
+  max-width: 65ch;
   border-left: none;
   padding-left: 0;
 }
@@ -1653,7 +1654,7 @@ main p:nth-of-type(even), main p:nth-of-type(3n) {
 
 
 main p:first-of-type {
-  margin-top: 3rem;
+  margin-top: 0;
 }
 
 /*
@@ -1667,7 +1668,7 @@ main blockquote {
     font-style: italic;
     font-weight: normal;
     text-align: left;
-    max-width: 55ch;
+    max-width: 65ch;
     padding: 0 2rem;
     background-color: transparent;
     color: var(--meta-color);
