@@ -1,5 +1,8 @@
 /* 1. Basic inline links microinteractions (Brutalist Strict Binary) */
-main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo) {
+main
+  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+    .correspondence-context
+  ):not(.logo) {
   text-decoration: none;
   background-image: none !important;
   transition: none !important;
@@ -11,11 +14,17 @@ main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-conte
   color: var(--accent-color);
 }
 
-main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo)::after {
+main
+  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+    .correspondence-context
+  ):not(.logo)::after {
   display: none !important;
 }
 
-main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo):hover {
+main
+  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+    .correspondence-context
+  ):not(.logo):hover {
   background-color: var(--text-color) !important;
   color: var(--bg-color) !important;
   border-bottom: none;

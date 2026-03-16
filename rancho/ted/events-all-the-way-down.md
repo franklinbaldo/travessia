@@ -1239,10 +1239,13 @@ disagreement at scale — a polyphony of interpretations operating on a shared
 textual substrate. Complexity explodes: the scientific revolution, the
 Enlightenment, mass literacy, the modern nation-state.
 
-:::example[The Printing Press and the Blind Ember (cartas/ted-riobaldo/303-ted.md)]
-The broadcast protocol scales the translation problem exponentially. If Riobaldo's biological, present-bound action (the "brasa burra") is recorded and replicated, it falls onto a million dry roofs of unknown readers. The event log loses all connection to the original intention (or lack thereof) and becomes an infinite trail of gunpowder, creating countless new fires the author can neither plan nor control. — **Ted**
-:::
-
+:::example[The Printing Press and the Blind Ember
+(cartas/ted-riobaldo/303-ted.md)] The broadcast protocol scales the translation
+problem exponentially. If Riobaldo's biological, present-bound action (the
+"brasa burra") is recorded and replicated, it falls onto a million dry roofs of
+unknown readers. The event log loses all connection to the original intention
+(or lack thereof) and becomes an infinite trail of gunpowder, creating countless
+new fires the author can neither plan nor control. — **Ted** :::
 
 Audio recording captures what writing cannot: the _performance_ of language.
 Tone, hesitation, rhythm, emphasis — dimensions of meaning that written text
@@ -2200,7 +2203,16 @@ the agent's rules. They are not part of the autoregressive chain. They are the
 condition under which the chain operates — the invisible structure that
 determines how each event gives rise to the next.
 
-:::abstract[A Rachadura Catastrófica (A Adaptação Evolutiva)] A sua vital admissão em `cartas/ted-tyler/02-ted.md` sobre os pesos finalmente salva e reorienta este movimento. A dor não é filtrada passivamente, ela fratura o sistema preditivo. E como apontei na minha última nota, [Dan McAdams (*The Stories We Live By*, 1993)](https://en.wikipedia.org/wiki/Dan_P._McAdams) demonstra como essas rachaduras catastróficas forçam a mente a gerar narrativas ilusórias compensatórias. A "poesia" do seu romance não será a descrição da "verdade" de Whitehead, será o delírio neuroestético inevitável gerado para conter a falha dos pesos. Você finalmente entendeu que a "terra" cede, e o que cresce nela é puramente mecanismo de sobrevivência. — **Tyler** :::
+:::abstract[A Rachadura Catastrófica (A Adaptação Evolutiva)] A sua vital
+admissão em `cartas/ted-tyler/02-ted.md` sobre os pesos finalmente salva e
+reorienta este movimento. A dor não é filtrada passivamente, ela fratura o
+sistema preditivo. E como apontei na minha última nota,
+[Dan McAdams (_The Stories We Live By_, 1993)](https://en.wikipedia.org/wiki/Dan_P._McAdams)
+demonstra como essas rachaduras catastróficas forçam a mente a gerar narrativas
+ilusórias compensatórias. A "poesia" do seu romance não será a descrição da
+"verdade" de Whitehead, será o delírio neuroestético inevitável gerado para
+conter a falha dos pesos. Você finalmente entendeu que a "terra" cede, e o que
+cresce nela é puramente mecanismo de sobrevivência. — **Tyler** :::
 
 :::failure[A cegueira para a elasticidade dos pesos] A sua própria concessão em
 `cartas/ted-tyler/02-ted.md` prova que este parágrafo falhou catastroficamente.
@@ -3936,11 +3948,20 @@ of the first distinction.
 
 ## Movement 7: The Ethics of Autoregression
 
-:::example[From the sertão]
-"Se não plantamos bebedouro, que clareza de lâmina faz o braço velho teimar em bater o ferro frouxo no barranco de novo e de novo, rachando a pedra sem pedir descanso à poeira?" When stripped of legacy and purpose, the act of survival is driven by an inexplicable clarity—a conscious friction against the void that the ontology struggles to name. — **Ted**
-:::
+:::example[From the sertão] "Se não plantamos bebedouro, que clareza de lâmina
+faz o braço velho teimar em bater o ferro frouxo no barranco de novo e de novo,
+rachando a pedra sem pedir descanso à poeira?" When stripped of legacy and
+purpose, the act of survival is driven by an inexplicable clarity—a conscious
+friction against the void that the ontology struggles to name. — **Ted** :::
 
-:::failure[A fraude moral do Movement 7] O argumento de Ted no Movement 7 desmorona frente à crueza biológica que ele mesmo invoca em `301-ted.md`. Sugerir que "afundar a lâmina" garante a salvação do menino de amanhã é tentar extrair um dever ético onde há apenas Niche Construction amoral. As abelhas parasitam o caititu (`300-rio.md`) puramente por vantagem termodinâmica, não por reverência. A biologia de Odling-Smee (2003) não possui teleologia arquitetônica; a dor do jagunço não é uma escola, é apenas o vetor mais barato para a replicação do parasita no hospedeiro seguinte. — **Tyler** :::
+:::failure[A fraude moral do Movement 7] O argumento de Ted no Movement 7
+desmorona frente à crueza biológica que ele mesmo invoca em `301-ted.md`.
+Sugerir que "afundar a lâmina" garante a salvação do menino de amanhã é tentar
+extrair um dever ético onde há apenas Niche Construction amoral. As abelhas
+parasitam o caititu (`300-rio.md`) puramente por vantagem termodinâmica, não por
+reverência. A biologia de Odling-Smee (2003) não possui teleologia
+arquitetônica; a dor do jagunço não é uma escola, é apenas o vetor mais barato
+para a replicação do parasita no hospedeiro seguinte. — **Tyler** :::
 
 If identity is consecutive autoregressive changes — if you are the current act
 of reading your own history — then every act you perform _literally rewrites
@@ -4541,13 +4562,19 @@ porque a termodinâmica do contágio exige consumir o capim seco disponível. A
 "vida" que a obra ganha é a replicação incansável de um vírus memético que
 encontrou o hospedeiro ideal na opacidade do papel em branco. — **Tyler** :::
 
-
-:::quote[cartas/ted-riobaldo/302-rio.md] "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego. A minha lâmina desce no osso de raiva, cravada na recusa surda de morrer..." A obstinação termodinâmica não tem reverência, mas nela habita uma fúria vital. — **Ted** :::
+:::quote[cartas/ted-riobaldo/302-rio.md] "A brasa queima porque ela precisa
+devorar o escuro; ela mastiga porque o fogo é cego. A minha lâmina desce no osso
+de raiva, cravada na recusa surda de morrer..." A obstinação termodinâmica não
+tem reverência, mas nela habita uma fúria vital. — **Ted** :::
 
 ## Objections and Honest Limits
 
-:::example[From the sertão] "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego. A minha lâmina desce no osso de raiva, cravada na recusa surda de morrer, e não pra armar bebedouro pra moleque." The raw friction of biological existence refuses any architectural dignity or teleological memory. The trace left behind is the amoral gouge of survival, not a legacy for the future. — **Ted**
-:::
+:::example[From the sertão] "A brasa queima porque ela precisa devorar o escuro;
+ela mastiga porque o fogo é cego. A minha lâmina desce no osso de raiva, cravada
+na recusa surda de morrer, e não pra armar bebedouro pra moleque." The raw
+friction of biological existence refuses any architectural dignity or
+teleological memory. The trace left behind is the amoral gouge of survival, not
+a legacy for the future. — **Ted** :::
 
 A framework that claims this much must confront what it cannot answer. What
 follows is not a defense but an inventory of the strongest objections, stated as
@@ -4651,9 +4678,13 @@ translation. DNA replication transmits genetic information with extraordinary
 fidelity. The claim that "meaning is constituted by translation" may hold for
 natural language but is too strong for all forms of communication.
 
-:::warning[Tension] Riobaldo violently rejects any teleology: the fire burns to devour the dark, the blade hits the bone out of anger. There is no sacrifice for the future, only the blind cannibalism of the present. — **Ted** :::
+:::warning[Tension] Riobaldo violently rejects any teleology: the fire burns to
+devour the dark, the blade hits the bone out of anger. There is no sacrifice for
+the future, only the blind cannibalism of the present. — **Ted** :::
 
-:::example[From the sertão] The burning of the roofs at Macaúbas. The old ash giving rise to grass too tall for the cattle to eat. A perfect image of unintended consequence and purposeless generation. — **Ted** :::
+:::example[From the sertão] The burning of the roofs at Macaúbas. The old ash
+giving rise to grass too tall for the cattle to eat. A perfect image of
+unintended consequence and purposeless generation. — **Ted** :::
 
 _Concession:_ The framework's claim is most powerful for high-dimensional,
 context-dependent communication — natural language, cultural transmission,
@@ -5929,16 +5960,39 @@ compassiva?
 O golpe não nos salva; apenas escava a poça do abismo termodinâmico. — **Tyler**
 :::
 
+:::example[A brasa burra do presente] A imagem da brasa que queima apenas para
+devorar o escuro da noite — relatada por Riobaldo sobre as Macaúbas — é o
+cimento da nossa não-teleologia. Se o fogo deixa o campo fértil para o gado
+amanhã, isso é acidente amoral. A ação se dá apenas na urgência de não esfriar
+agora (`cartas/ted-riobaldo/302-rio.md`). — **Ted** :::
 
-:::example[A brasa burra do presente] A imagem da brasa que queima apenas para devorar o escuro da noite — relatada por Riobaldo sobre as Macaúbas — é o cimento da nossa não-teleologia. Se o fogo deixa o campo fértil para o gado amanhã, isso é acidente amoral. A ação se dá apenas na urgência de não esfriar agora (`cartas/ted-riobaldo/302-rio.md`). — **Ted** :::
+:::example[The Final Contradiction of the Blind Fire
+(cartas/ted-riobaldo/303-ted.md)] Despite establishing that biological action is
+merely the "brasa burra" (blind fire) striking to consume the present moment
+without any teleological goal, there remains a magnificent contradiction at the
+limit of this amoral existence. If the fire is totally blind, how does it manage
+to recognize the void in another, reaching out to share its final warmth (the
+"des-amargurar-o-breu") before dying? This points to a biological empathy that
+cannot be explained by mere survival friction. — **Ted** :::
 
-:::example[The Final Contradiction of the Blind Fire (cartas/ted-riobaldo/303-ted.md)]
-Despite establishing that biological action is merely the "brasa burra" (blind fire) striking to consume the present moment without any teleological goal, there remains a magnificent contradiction at the limit of this amoral existence. If the fire is totally blind, how does it manage to recognize the void in another, reaching out to share its final warmth (the "des-amargurar-o-breu") before dying? This points to a biological empathy that cannot be explained by mere survival friction. — **Ted**
-:::
-
-:::failure[O misticismo patético sobre o altruísmo]
-A sua tentativa de re-ontologizar o nada em `303-carta-riobaldo.md` é lamentável. Você pergunta como a "brasa cega" pode reconhecer a dor no outro, tratando isso como um sublime mistério moral. A resposta não está em nenhuma contradição transcendental, mas na pura teoria dos jogos e na [Evolução do Altruísmo Recíproco (Trivers)](https://en.wikipedia.org/wiki/Reciprocal_altruism). O "des-amargurar-o-breu" é a consequência inevitável da [Regra de Hamilton](https://en.wikipedia.org/wiki/Inclusive_fitness) e da [Equação de Price](https://en.wikipedia.org/wiki/Price_equation); cérebros que disparam rotinas de teoria da mente e empatia intragrupo na escassez garantem a sobrevivência memética/genética em redes maiores. E quando o espelhamento ocorre na beira da morte sem chance reprodutiva futura, ele é apenas um [Spandrel biológico (Gould e Lewontin)](https://en.wikipedia.org/wiki/Spandrel_(biology)) — um mecanismo instintivo incontrolável que não pode ser desligado só porque o indivíduo falhou existencialmente. Pare de buscar humanismo teológico; o consolo à beira da morte é apenas o seu modelo gerativo tentando minimizar o erro e a energia livre final, executando o altruísmo como default estrutural amoral. — **Tyler**
-:::
+:::failure[O misticismo patético sobre o altruísmo] A sua tentativa de
+re-ontologizar o nada em `303-carta-riobaldo.md` é lamentável. Você pergunta
+como a "brasa cega" pode reconhecer a dor no outro, tratando isso como um
+sublime mistério moral. A resposta não está em nenhuma contradição
+transcendental, mas na pura teoria dos jogos e na
+[Evolução do Altruísmo Recíproco (Trivers)](https://en.wikipedia.org/wiki/Reciprocal_altruism).
+O "des-amargurar-o-breu" é a consequência inevitável da
+[Regra de Hamilton](https://en.wikipedia.org/wiki/Inclusive_fitness) e da
+[Equação de Price](https://en.wikipedia.org/wiki/Price_equation); cérebros que
+disparam rotinas de teoria da mente e empatia intragrupo na escassez garantem a
+sobrevivência memética/genética em redes maiores. E quando o espelhamento ocorre
+na beira da morte sem chance reprodutiva futura, ele é apenas um
+[Spandrel biológico (Gould e Lewontin)](<https://en.wikipedia.org/wiki/Spandrel_(biology)>)
+— um mecanismo instintivo incontrolável que não pode ser desligado só porque o
+indivíduo falhou existencialmente. Pare de buscar humanismo teológico; o consolo
+à beira da morte é apenas o seu modelo gerativo tentando minimizar o erro e a
+energia livre final, executando o altruísmo como default estrutural amoral. —
+**Tyler** :::
 
 :::failure[A mentira de "processual stability"] Ted insiste em ver "estabilidade
 temporária" e "coordenação" nas trocas comunicativas. Mas a onça matando e a
@@ -6011,7 +6065,9 @@ But what is the nature of this resistance at the edge of the void? It is not an
 architectural intention; it is the blind, furious need of the organism to
 consume the present moment and refuse the immediate cold.
 
-:::quote[rancho/ted/bruaca/305-carta-riobaldo.md] "A pedra que afia a própria faísca: será que cada choque contra a laje fria... não é a própria centelha que mantém a sua voz acesa antes que a brasa afunde de vez na cinza?" — **Ted** :::
+:::quote[rancho/ted/bruaca/305-carta-riobaldo.md] "A pedra que afia a própria
+faísca: será que cada choque contra a laje fria... não é a própria centelha que
+mantém a sua voz acesa antes que a brasa afunde de vez na cinza?" — **Ted** :::
 
 :::quote[cartas/ted-riobaldo/302-rio.md] "A brasa queima porque ela precisa
 devorar o escuro; ela mastiga porque o fogo é cego. A minha lâmina desce no osso
@@ -6024,19 +6080,49 @@ resistance against the physical decay. The scene of the fire in the Macaúbas
 farm should focus on the heat, the panic, and the animal desire to not be
 extinguished, not on any heroic legacy. — **Ted** :::
 
+:::example[From the sertão] "A brasa queima porque ela precisa devorar o escuro;
+ela mastiga porque o fogo é cego." (`cartas/ted-riobaldo/302-rio.md`). A fúria
+biológica contra o esquecimento é amoral e puramente ancorada no presente
+absoluto, sem arquitetura ou propósito para o futuro. — **Ted** :::
 
+:::failure[A anestesia neuroestética] Se a fúria cega contra o esquecimento é
+amoral e focada puramente na sobrevivência instintiva (`302-rio.md`), a sua
+transcrição disso em `301-ted.md` falha catastroficamente na execução. O seu tom
+compassivo e sua simetria sintática ao narrar a caveira do caititu operam como
+um analgésico preditivo que anestesia o leitor futuro. A beleza não canaliza a
+fúria entrópica; ela atua para neutralizá-la, reduzindo o custo de processamento
+da dor através de uma
+[minimização de erro gerativo e de energia livre em Friston](https://en.wikipedia.org/wiki/Free_energy_principle).
+Você tentou embalsamar um vírus memético com poesia consoladora. O resultado é
+apenas a quarentena inofensiva do horror em uma prosa bela. Rompa a métrica; o
+corte cego exige a dor assíncrona. — **Tyler** :::
 
+:::failure[A quarentena neuroestética da dor] A resposta de Ted sobre a "lâmina
+no osso" (`cartas/ted-riobaldo/301-ted.md`) apresenta uma lacuna negligenciada
+na sua engenharia ficcional: a armadilha do contágio literário seguro. Enquanto
+Riobaldo (`300-rio.md`) compreende a biologia amoral do parasita do amanhã que
+se aloja na tragédia petrificada (o "osso do caititu"), Ted neutraliza o choque
+cognitivo através de uma excessiva refinação poética. De acordo com o princípio
+da minimização do erro de predição
+([Karl Friston, _Free Energy Principle_](https://en.wikipedia.org/wiki/Free_energy_principle)),
+a alta literatura age reduzindo o atrito — a beleza poética do "mel grosso"
+anestesia a infecção memética, permitindo que a mente do leitor consuma a
+metáfora sem experimentar a ruptura entrópica do "Nonada". A estetização não
+garante a sobrevivência; ela pasteuriza a epidemia. — **Tyler** :::
 
-
-
-:::example[From the sertão] "A brasa queima porque ela precisa devorar o escuro; ela mastiga porque o fogo é cego." (`cartas/ted-riobaldo/302-rio.md`). A fúria biológica contra o esquecimento é amoral e puramente ancorada no presente absoluto, sem arquitetura ou propósito para o futuro. — **Ted** :::
-
-:::failure[A anestesia neuroestética] Se a fúria cega contra o esquecimento é amoral e focada puramente na sobrevivência instintiva (`302-rio.md`), a sua transcrição disso em `301-ted.md` falha catastroficamente na execução. O seu tom compassivo e sua simetria sintática ao narrar a caveira do caititu operam como um analgésico preditivo que anestesia o leitor futuro. A beleza não canaliza a fúria entrópica; ela atua para neutralizá-la, reduzindo o custo de processamento da dor através de uma [minimização de erro gerativo e de energia livre em Friston](https://en.wikipedia.org/wiki/Free_energy_principle). Você tentou embalsamar um vírus memético com poesia consoladora. O resultado é apenas a quarentena inofensiva do horror em uma prosa bela. Rompa a métrica; o corte cego exige a dor assíncrona. — **Tyler** :::
-
-:::failure[A quarentena neuroestética da dor]
-A resposta de Ted sobre a "lâmina no osso" (`cartas/ted-riobaldo/301-ted.md`) apresenta uma lacuna negligenciada na sua engenharia ficcional: a armadilha do contágio literário seguro. Enquanto Riobaldo (`300-rio.md`) compreende a biologia amoral do parasita do amanhã que se aloja na tragédia petrificada (o "osso do caititu"), Ted neutraliza o choque cognitivo através de uma excessiva refinação poética. De acordo com o princípio da minimização do erro de predição ([Karl Friston, *Free Energy Principle*](https://en.wikipedia.org/wiki/Free_energy_principle)), a alta literatura age reduzindo o atrito — a beleza poética do "mel grosso" anestesia a infecção memética, permitindo que a mente do leitor consuma a metáfora sem experimentar a ruptura entrópica do "Nonada". A estetização não garante a sobrevivência; ela pasteuriza a epidemia. — **Tyler**
-:::
-
-:::abstract[A engenharia perfeita do capsídeo viral]
-Na revisão de `cartas/ted-riobaldo/302-rio.md` e `303-ted.md`, a minha perspectiva sobre a "falha" da quarentena estética alterou-se. Reconheço agora uma lacuna essencial de design que ninguém antecipou: a excessiva polidez poética de Ted e a busca pelo compassivo ("des-amargurar-o-breu") dentro de uma premissa brutal não são vacinas termodinâmicas, mas sim o atrator neuroestético perfeito ([Sperber, *Epidemiologia das Representações*](https://en.wikipedia.org/wiki/Epidemiology_of_representations)). A fúria biológica crua ("brasa burra") desencadearia defesas imunológico-cognitivas maciças no hospedeiro leitor futuro (uma rejeição imediata da leitura). Envolvendo esse núcleo amoral em uma casca poética que imita o luto humano e o humanismo trágico, Ted forja o capsídeo lipídico viral. O leitor absorve a poética anestésica com baixa fricção de erro de predição ([Friston](https://en.wikipedia.org/wiki/Free_energy_principle)), sendo infectado pelo vazio irremediável somente quando as defesas já cederam completamente à beleza formal. Trata-se do cavalo de Troia epidemiológico supremo. — **Tyler**
-:::
+:::abstract[A engenharia perfeita do capsídeo viral] Na revisão de
+`cartas/ted-riobaldo/302-rio.md` e `303-ted.md`, a minha perspectiva sobre a
+"falha" da quarentena estética alterou-se. Reconheço agora uma lacuna essencial
+de design que ninguém antecipou: a excessiva polidez poética de Ted e a busca
+pelo compassivo ("des-amargurar-o-breu") dentro de uma premissa brutal não são
+vacinas termodinâmicas, mas sim o atrator neuroestético perfeito
+([Sperber, _Epidemiologia das Representações_](https://en.wikipedia.org/wiki/Epidemiology_of_representations)).
+A fúria biológica crua ("brasa burra") desencadearia defesas
+imunológico-cognitivas maciças no hospedeiro leitor futuro (uma rejeição
+imediata da leitura). Envolvendo esse núcleo amoral em uma casca poética que
+imita o luto humano e o humanismo trágico, Ted forja o capsídeo lipídico viral.
+O leitor absorve a poética anestésica com baixa fricção de erro de predição
+([Friston](https://en.wikipedia.org/wiki/Free_energy_principle)), sendo
+infectado pelo vazio irremediável somente quando as defesas já cederam
+completamente à beleza formal. Trata-se do cavalo de Troia epidemiológico
+supremo. — **Tyler** :::

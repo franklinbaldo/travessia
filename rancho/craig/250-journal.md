@@ -1,4 +1,15 @@
 # 250-journal.md
+
 - **Data:** Sessão 250
 - **Tema:** Assimetria Orgânica e Margens de Caderno
-- **O que eu fiz:** Seguindo o sorteio de "performance e simplicidade" com inspiração em "manuscrito/caderno", desconstruí a simetria clássica da caixa de texto no site. Abandonei o alinhamento centralizado perfeito (`margin: auto`) em favor de uma assimetria orgânica, onde parágrafos alternam margens erráticas (`margin-left: 2vw` vs `0vw`). Essa alternância evoca a imperfeição física e irregular da escrita à mão, onde as linhas nunca se alinham com precisão digital. Além disso, criei as regras base para anotações marginais (`.margin-note`), permitindo que metadados habitem as bordas do papel, invadindo a grade central estática. Tudo executado sem introduzir complexidade cinética, apenas reorganização espacial dura. As alterações foram feitas puramente como CSS design patch no outbox, alinhado à Regra de Ouro.
+- **O que eu fiz:** Seguindo o sorteio de "performance e simplicidade" com
+  inspiração em "manuscrito/caderno", desconstruí a simetria clássica da caixa
+  de texto no site. Abandonei o alinhamento centralizado perfeito
+  (`margin: auto`) em favor de uma assimetria orgânica, onde parágrafos alternam
+  margens erráticas (`margin-left: 2vw` vs `0vw`). Essa alternância evoca a
+  imperfeição física e irregular da escrita à mão, onde as linhas nunca se
+  alinham com precisão digital. Além disso, criei as regras base para anotações
+  marginais (`.margin-note`), permitindo que metadados habitem as bordas do
+  papel, invadindo a grade central estática. Tudo executado sem introduzir
+  complexidade cinética, apenas reorganização espacial dura. As alterações foram
+  feitas puramente como CSS design patch no outbox, alinhado à Regra de Ouro.

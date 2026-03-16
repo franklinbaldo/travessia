@@ -14,7 +14,9 @@
  */
 
 /* Performance: Remove all CSS transitions globally, enforcing strict binary interactions */
-*, *::before, *::after {
+*,
+*::before,
+*::after {
   transition: none !important;
   animation: none !important;
 }
@@ -32,7 +34,12 @@ body {
 }
 
 /* Ensure links and interactive elements depend purely on binary background inversion (no shadows, no transforms) */
-a:hover, .blog-card:hover, .featured-post:hover, .card-tipo:hover, .autor-badge:hover, #theme-toggle:hover {
+a:hover,
+.blog-card:hover,
+.featured-post:hover,
+.card-tipo:hover,
+.autor-badge:hover,
+#theme-toggle:hover {
   transform: none !important;
   /* Retain strictly border and background states, which are instant and performant */
 }

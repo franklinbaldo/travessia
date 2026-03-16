@@ -7,7 +7,7 @@
 
 /* 1. Simplificando a Ousadia Clássica (¶ e ☞) - Remoção de transições */
 main p::before {
-  content: '¶';
+  content: "¶";
   position: absolute;
   left: -2.5rem;
   top: 0;
@@ -33,7 +33,9 @@ main p:first-of-type::first-letter {
 }
 
 main p:first-of-type:hover::first-letter {
-  color: var(--text-color) !important; /* Retorna a cor sólida do texto - performance de contraste sem cor adicional */
+  color: var(
+    --text-color
+  ) !important; /* Retorna a cor sólida do texto - performance de contraste sem cor adicional */
   transform: none !important; /* Simplificando - sem scale/rotate */
 }
 

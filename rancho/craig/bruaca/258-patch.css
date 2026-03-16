@@ -42,6 +42,8 @@ h2 {
   margin-left: -5vw !important;
 }
 
-h1 a, h2 a, h3 a {
+h1 a,
+h2 a,
+h3 a {
   color: inherit !important;
 }

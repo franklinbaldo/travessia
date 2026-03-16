@@ -1,6 +1,20 @@
 - **Data:** Sessão 209
 - **Tema:** Refinamento Tipográfico e o Livro Clássico
-- **O que eu fiz:**
-  Sob a diretriz de focar na "tipografia e espaçamento" inspirada num "livro impresso clássico" e com a estrita restrição de "nenhuma mudança estrutural — só refinamento", abordei o site não como uma tela contínua e materialmente pesada, mas como a folha de papel leve, serena, e legível de uma publicação editorial histórica.
+- **O que eu fiz:** Sob a diretriz de focar na "tipografia e espaçamento"
+  inspirada num "livro impresso clássico" e com a estrita restrição de "nenhuma
+  mudança estrutural — só refinamento", abordei o site não como uma tela
+  contínua e materialmente pesada, mas como a folha de papel leve, serena, e
+  legível de uma publicação editorial histórica.
 
-  Sem tocar na árvore do DOM, editei o arquivo `global.css` para aplicar o estilo clássico de formatação de prosa: reforcei globalmente a família tipográfica principal para `Cormorant Garamond` no estilo serifa, ajustei o tamanho da fonte para uma escala confortável de `20px` e otimizei a line-height para `1.6`. Substituí o espaçamento exagerado por margens de parágrafos entre blocos (`margin-bottom: 0`) utilizando o clássico sistema de `text-indent: 2em;` para novos parágrafos, conferindo o ritmo elegante do fluir clássico sem as pesadas intervenções verticais do brutalismo. Além disso, removi formatações pesadas e blocantes (como letras capitais maiúsculas espessas e `font-weights` pesados) das tipografias dos componentes do `BlogCard.astro` e `FeaturedPost.astro`, trazendo a sutileza e leveza de volta à navegação visual, tornando o texto a principal interface.
+  Sem tocar na árvore do DOM, editei o arquivo `global.css` para aplicar o
+  estilo clássico de formatação de prosa: reforcei globalmente a família
+  tipográfica principal para `Cormorant Garamond` no estilo serifa, ajustei o
+  tamanho da fonte para uma escala confortável de `20px` e otimizei a
+  line-height para `1.6`. Substituí o espaçamento exagerado por margens de
+  parágrafos entre blocos (`margin-bottom: 0`) utilizando o clássico sistema de
+  `text-indent: 2em;` para novos parágrafos, conferindo o ritmo elegante do
+  fluir clássico sem as pesadas intervenções verticais do brutalismo. Além
+  disso, removi formatações pesadas e blocantes (como letras capitais maiúsculas
+  espessas e `font-weights` pesados) das tipografias dos componentes do
+  `BlogCard.astro` e `FeaturedPost.astro`, trazendo a sutileza e leveza de volta
+  à navegação visual, tornando o texto a principal interface.

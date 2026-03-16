@@ -24,7 +24,8 @@
   --water-border: rgba(43, 43, 43, 0.1);
   --sand-bg: #f8f6f0;
   --font-body: "Cormorant Garamond", Georgia, serif;
-  --font-meta: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-meta:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 }
 
 [data-theme="dark"] {
@@ -139,7 +140,12 @@ main::before {
   }
 }
 /* === Typography === */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: var(--font-body);
   font-weight: normal;
   color: var(--text-color);
@@ -178,7 +184,9 @@ h3 {
   padding: 0;
   display: block;
 }
-h1 a, h2 a, h3 a {
+h1 a,
+h2 a,
+h3 a {
   color: inherit !important;
 }
 .letterpress {
@@ -647,29 +655,29 @@ body * {
 }
 @media (max-width: 600px) {
   #back-to-top {
-  position: fixed;
-  bottom: 2.5rem;
-  right: 2rem;
-  padding: 0.5rem 0.75rem;
-  border-radius: 0;
-  border: 2px solid var(--text-color);
-  background: var(--sand-bg);
-  color: var(--meta-color);
-  font-family: var(--font-meta);
-  font-size: 0.75rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  cursor: auto; /* Simplicity constraint: default cursors */
-  opacity: 0;
-  visibility: hidden;
-  pointer-events: none;
-  z-index: 100;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: all 0.4s cubic-bezier(0.19, 1, 0.22, 1);
-}
+    position: fixed;
+    bottom: 2.5rem;
+    right: 2rem;
+    padding: 0.5rem 0.75rem;
+    border-radius: 0;
+    border: 2px solid var(--text-color);
+    background: var(--sand-bg);
+    color: var(--meta-color);
+    font-family: var(--font-meta);
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    cursor: auto; /* Simplicity constraint: default cursors */
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+  }
   #back-to-top::after {
     margin-left: 0;
   }
@@ -1129,7 +1137,7 @@ main.home-layout {
   text-decoration: none;
   padding: 2.5rem;
   border: 1px solid var(--divider-color) !important;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.03);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
   transition: all 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
   height: 100%;
 }
@@ -1139,7 +1147,7 @@ main.home-layout {
   color: var(--text-color) !important;
   border: 1px solid var(--text-color) !important;
   transform: translateY(-4px);
-  box-shadow: 0 12px 30px rgba(0,0,0,0.08);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
   z-index: 10;
 }
 .blog-card .card-titulo {
@@ -1627,7 +1635,12 @@ main
 .timeline-dot {
   position: relative;
   overflow: hidden;
-  transition: width 0.4s cubic-bezier(0.19, 1, 0.22, 1), background-color 0.3s ease, color 0.3s ease, border-radius 0.3s ease, transform 0.3s ease;
+  transition:
+    width 0.4s cubic-bezier(0.19, 1, 0.22, 1),
+    background-color 0.3s ease,
+    color 0.3s ease,
+    border-radius 0.3s ease,
+    transform 0.3s ease;
 }
 .timeline-dot:hover {
   border-radius: 0; /* Ensures rigid box shape on interaction */
@@ -1635,7 +1648,7 @@ main
   color: var(--bg-color) !important;
   border-color: var(--accent-color) !important;
   transform: scale(1.05); /* Softer editorial emphasis */
-  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 /* === Classic Print Typographic Spacing === */
 /* Focusing on typography, spacing, negative space, and a classic printed book inspiration for the reading page. */
@@ -1668,14 +1681,12 @@ main p + p {
   text-indent: 1.5rem;
 }
 
-main p:nth-of-type(even), main p:nth-of-type(3n) {
+main p:nth-of-type(even),
+main p:nth-of-type(3n) {
   max-width: 65ch;
   border-left: none;
   padding-left: 0;
 }
-
-
-
 
 main p:first-of-type {
   margin-top: 0;
@@ -1686,23 +1697,29 @@ main p:first-of-type {
  * Mantemos o bloco geométrico, mas em contraste bruto.
  */
 main blockquote {
-    font-size: 1.25rem;
-    line-height: 1.6;
-    margin: 3rem 0 3rem 2rem;
-    font-style: italic;
-    font-weight: normal;
-    text-align: left;
-    max-width: 65ch;
-    padding: 0 2rem;
-    background-color: transparent;
-    color: var(--meta-color);
-    border-left: 1px solid var(--accent-color);
-    box-shadow: none;
+  font-size: 1.25rem;
+  line-height: 1.6;
+  margin: 3rem 0 3rem 2rem;
+  font-style: italic;
+  font-weight: normal;
+  text-align: left;
+  max-width: 65ch;
+  padding: 0 2rem;
+  background-color: transparent;
+  color: var(--meta-color);
+  border-left: 1px solid var(--accent-color);
+  box-shadow: none;
 }
-[data-theme="dark"] main blockquote { color: var(--meta-color); }
+[data-theme="dark"] main blockquote {
+  color: var(--meta-color);
+}
 
-main blockquote p { color: var(--meta-color); }
-[data-theme="dark"] main blockquote p { color: var(--meta-color); }
+main blockquote p {
+  color: var(--meta-color);
+}
+[data-theme="dark"] main blockquote p {
+  color: var(--meta-color);
+}
 
 /* Asymmetric Notebook Structural Intrusions */
 main p.margin-note {
@@ -1741,10 +1758,15 @@ article {
  */
 
 /* 1. Basic inline links microinteractions (Lit Mag Soft Transitions) */
-main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo) {
+main
+  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+    .correspondence-context
+  ):not(.logo) {
   text-decoration: none;
   background-image: none !important;
-  transition: color 0.3s cubic-bezier(0.19, 1, 0.22, 1), border-color 0.3s cubic-bezier(0.19, 1, 0.22, 1) !important;
+  transition:
+    color 0.3s cubic-bezier(0.19, 1, 0.22, 1),
+    border-color 0.3s cubic-bezier(0.19, 1, 0.22, 1) !important;
   z-index: 1;
   padding: 0;
   margin: 0;
@@ -1752,7 +1774,10 @@ main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-conte
   position: relative;
 }
 
-main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo):hover {
+main
+  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+    .correspondence-context
+  ):not(.logo):hover {
   background-color: transparent !important;
   color: var(--text-color) !important;
 }
@@ -1771,7 +1796,7 @@ main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-conte
 .autor-badge:hover,
 .character-badge:hover {
   transform: translateY(-1px) !important;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.05) !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05) !important;
   transition: all 0.2s ease !important;
   background-color: transparent !important;
   color: var(--accent-color) !important;

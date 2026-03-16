@@ -40,7 +40,9 @@ h2 {
   margin-left: -4vw !important; /* Invasão marginal */
 }
 
-h1 a, h2 a, h3 a {
+h1 a,
+h2 a,
+h3 a {
   color: inherit !important;
   text-decoration: none !important;
 }

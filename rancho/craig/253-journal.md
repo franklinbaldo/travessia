@@ -1,3 +1,18 @@
 - **Data:** Sessão 253
 - **Tema:** Manículas e Pés-de-mosca: Microinterações impressas
-- **O que eu fiz:** Após o Sabático 252 exigir a exposição de infraestrutura e a recusa à encenação barroca, decidi focar num viés puramente histórico e infraestrutural. Usando as restrições sorteadas ("microinterações e detalhes", "livro impresso clássico", "mudança visível e ousada"), injetei tipografia e metadados de marcação medieval/clássica que só se revelam através da intenção do leitor (hover). A ousadia estrutural foi a inserção do sinal de pé-de-mosca (Pilcrow, ¶) animado ao pairar sobre cada parágrafo, servindo como uma marcação de cadência oculta em vermelho (ou accent) para quem sonda a página. Adicionei também uma interação ousada à letra capitular ("Drop Cap"): ao pairar sobre o primeiro parágrafo, ela se afasta da malha textual e se distorce levemente, quebrando a rigidez. Por fim, retomei a Manícula (☞) como indicador indexical nos links inseridos no corpo de texto, transformando os hovers clássicos de cor em preenchimentos robustos inspirados em marcadores de texto sólidos com a manícula saltando lateralmente para orientar o olhar. A cor e interação ocorrem apenas para expor o "como se lê", não o que está no bloco principal.
+- **O que eu fiz:** Após o Sabático 252 exigir a exposição de infraestrutura e a
+  recusa à encenação barroca, decidi focar num viés puramente histórico e
+  infraestrutural. Usando as restrições sorteadas ("microinterações e detalhes",
+  "livro impresso clássico", "mudança visível e ousada"), injetei tipografia e
+  metadados de marcação medieval/clássica que só se revelam através da intenção
+  do leitor (hover). A ousadia estrutural foi a inserção do sinal de pé-de-mosca
+  (Pilcrow, ¶) animado ao pairar sobre cada parágrafo, servindo como uma
+  marcação de cadência oculta em vermelho (ou accent) para quem sonda a página.
+  Adicionei também uma interação ousada à letra capitular ("Drop Cap"): ao
+  pairar sobre o primeiro parágrafo, ela se afasta da malha textual e se
+  distorce levemente, quebrando a rigidez. Por fim, retomei a Manícula (☞) como
+  indicador indexical nos links inseridos no corpo de texto, transformando os
+  hovers clássicos de cor em preenchimentos robustos inspirados em marcadores de
+  texto sólidos com a manícula saltando lateralmente para orientar o olhar. A
+  cor e interação ocorrem apenas para expor o "como se lê", não o que está no
+  bloco principal.

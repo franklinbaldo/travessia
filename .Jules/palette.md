@@ -51,10 +51,23 @@ sequential relationship for assistive technologies.
 
 ## 2026-03-14 - Theme Toggle Button ARIA Pressed State
 
-**Learning:** When using a button element to toggle a global state like a light/dark theme, it acts as a boolean switch. Screen readers need to know its current status beyond just the `aria-label` "Alternar tema" (Toggle theme). Using `aria-pressed` provides immediate feedback on the current active state of the button.
-**Action:** For standalone state-toggling buttons (like theme switches), initialize `aria-pressed` correctly based on the current state on load, and dynamically synchronize the `aria-pressed` attribute when the state changes.
+**Learning:** When using a button element to toggle a global state like a
+light/dark theme, it acts as a boolean switch. Screen readers need to know its
+current status beyond just the `aria-label` "Alternar tema" (Toggle theme).
+Using `aria-pressed` provides immediate feedback on the current active state of
+the button. **Action:** For standalone state-toggling buttons (like theme
+switches), initialize `aria-pressed` correctly based on the current state on
+load, and dynamically synchronize the `aria-pressed` attribute when the state
+changes.
 
 ## 2026-03-15 - Explicitly Hiding Decorative Child Elements in Labeled Buttons
 
-**Learning:** When an interactive element (like a button) uses an `aria-label` to provide its accessible name, any child elements that contain text characters or icons used purely for visual decoration (like state icons `☽` and `☀`) must be explicitly hidden from screen readers using `aria-hidden="true"`. Otherwise, assistive technologies may announce both the `aria-label` and the text content of the children, creating redundant and confusing auditory noise.
-**Action:** Always add `aria-hidden="true"` to child elements that contain text or icon characters if the parent element already provides a complete accessible name via `aria-label`.
+**Learning:** When an interactive element (like a button) uses an `aria-label`
+to provide its accessible name, any child elements that contain text characters
+or icons used purely for visual decoration (like state icons `☽` and `☀`) must
+be explicitly hidden from screen readers using `aria-hidden="true"`. Otherwise,
+assistive technologies may announce both the `aria-label` and the text content
+of the children, creating redundant and confusing auditory noise. **Action:**
+Always add `aria-hidden="true"` to child elements that contain text or icon
+characters if the parent element already provides a complete accessible name via
+`aria-label`.

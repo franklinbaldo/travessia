@@ -56,14 +56,14 @@
  * completely breaking the polite "warm paper" illusion with a block of raw digital tension.
  */
 main blockquote {
-    background-color: var(--accent-color);
-    color: var(--bg-color);
-    border-left: 10px solid var(--text-color);
-    font-weight: 700;
-    box-shadow: 10px 10px 0 var(--text-color);
+  background-color: var(--accent-color);
+  color: var(--bg-color);
+  border-left: 10px solid var(--text-color);
+  font-weight: 700;
+  box-shadow: 10px 10px 0 var(--text-color);
 }
 [data-theme="dark"] main blockquote {
-    color: #111111;
+  color: #111111;
 }
 
 /* Update the correspondence dot timeline colors to reflect the new toxic palette */
@@ -92,5 +92,5 @@ main blockquote {
 [data-theme="dark"] .timeline-dot.ted.current,
 [data-theme="dark"] .timeline-dot.rio:hover,
 [data-theme="dark"] .timeline-dot.rio.current {
-    color: #000 !important;
+  color: #000 !important;
 }

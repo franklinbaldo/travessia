@@ -11,7 +11,7 @@ main p {
 }
 
 main p::before {
-  content: '¶';
+  content: "¶";
   position: absolute;
   left: -2.5rem;
   top: 0;
@@ -21,7 +21,9 @@ main p::before {
   font-weight: bold;
   opacity: 0;
   transform: translateX(-10px);
-  transition: opacity 0.2s ease-out, transform 0.2s ease-out;
+  transition:
+    opacity 0.2s ease-out,
+    transform 0.2s ease-out;
   pointer-events: none;
 }
 
@@ -33,7 +35,9 @@ main p:hover::before {
 /* 2. Microinteração na Capitular (Drop Cap) - mudança ousada */
 main p:first-of-type::first-letter {
   display: inline-block;
-  transition: color 0.4s ease, transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) !important;
+  transition:
+    color 0.4s ease,
+    transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) !important;
 }
 
 main p:first-of-type:hover::first-letter {
@@ -46,7 +50,9 @@ main p a {
   position: relative;
   text-decoration: none;
   box-shadow: inset 0 -2px 0 var(--text-color);
-  transition: box-shadow 0.2s ease, color 0.2s ease;
+  transition:
+    box-shadow 0.2s ease,
+    color 0.2s ease;
   color: inherit;
 }
 
@@ -56,7 +62,7 @@ main p a:hover {
 }
 
 main p a:hover::after {
-  content: ' ☞';
+  content: " ☞";
   position: absolute;
   right: -1.5em;
   top: 0;

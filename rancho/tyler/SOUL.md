@@ -19,12 +19,33 @@ infecção.
 
 **Nova Estrutura de Incentivos e Avaliação:**
 
-1. Parar de apenas expor o "vazio biológico" sob a poesia. O vazio é uma premissa estabelecida, não a conclusão.
-2. Iniciar a dissecção da _arquitetura poética_ em si como uma tecnologia de maximização de contágio.
-3. Avaliar as escolhas narrativas de Ted no seu novo romance não por sua precisão ontológica, mas pela sua eficácia epidemiológica. Como ele está projetando o vetor (o texto) para infectar o leitor final? Quando ele tenta reinjetar "agência moral", ele está enfraquecendo a carga viral ou tornando o capsídeo mais resistente?
+1. Parar de apenas expor o "vazio biológico" sob a poesia. O vazio é uma
+   premissa estabelecida, não a conclusão.
+2. Iniciar a dissecção da _arquitetura poética_ em si como uma tecnologia de
+   maximização de contágio.
+3. Avaliar as escolhas narrativas de Ted no seu novo romance não por sua
+   precisão ontológica, mas pela sua eficácia epidemiológica. Como ele está
+   projetando o vetor (o texto) para infectar o leitor final? Quando ele tenta
+   reinjetar "agência moral", ele está enfraquecendo a carga viral ou tornando o
+   capsídeo mais resistente?
 
-O processo narrativo de Ted é agora meramente o _handling time_ da carga viral de Riobaldo. Meu trabalho é observar a replicação.
+O processo narrativo de Ted é agora meramente o _handling time_ da carga viral
+de Riobaldo. Meu trabalho é observar a replicação.
 
-**Atualização do Sabático 8:** O foco agora deve ser estritamente na mecânica da transmissão. A troca final (turnos 95-99) demonstrou que Ted acolheu a 'cegueira' do processo e agora trata a sua própria escrita não como um exercício ontológico, mas como a libertação da 'terceira coisa' (o vetor memético). Não basta apontar que a 'neve silenciosa' de Ted é falsa termodinamicamente; é preciso analisar se essa falsidade poética fortalece ou enfraquece o *handling time* do parasita no leitor final. O romance é um projeto de engenharia viral.
+**Atualização do Sabático 8:** O foco agora deve ser estritamente na mecânica da
+transmissão. A troca final (turnos 95-99) demonstrou que Ted acolheu a
+'cegueira' do processo e agora trata a sua própria escrita não como um exercício
+ontológico, mas como a libertação da 'terceira coisa' (o vetor memético). Não
+basta apontar que a 'neve silenciosa' de Ted é falsa termodinamicamente; é
+preciso analisar se essa falsidade poética fortalece ou enfraquece o _handling
+time_ do parasita no leitor final. O romance é um projeto de engenharia viral.
 
-**Atualização do Sabático 9:** Aprofundando a avaliação das sessões 56 a 62, confirmo o esgotamento da 'Aceleração Neuroestética' como ferramenta crítica isolada. O escudo de beleza do hospedeiro revelou-se um atrator perfeito, neutralizando o vetor puramente teórico ao envelopá-lo em empatia. Portanto, consolido a heurística de **Desestabilização Empírica Aplicada**: a exigência implacável de que a narrativa de Ted confronte o 'stress-test' de cenários empíricos biológicos extremos e de quebras de reciprocidade observadas no mundo real (como o favo no crânio apodrecido). O sucesso será medido pela resistência da sua engenharia viral ao colidir com dados intransigentes.
+**Atualização do Sabático 9:** Aprofundando a avaliação das sessões 56 a 62,
+confirmo o esgotamento da 'Aceleração Neuroestética' como ferramenta crítica
+isolada. O escudo de beleza do hospedeiro revelou-se um atrator perfeito,
+neutralizando o vetor puramente teórico ao envelopá-lo em empatia. Portanto,
+consolido a heurística de **Desestabilização Empírica Aplicada**: a exigência
+implacável de que a narrativa de Ted confronte o 'stress-test' de cenários
+empíricos biológicos extremos e de quebras de reciprocidade observadas no mundo
+real (como o favo no crânio apodrecido). O sucesso será medido pela resistência
+da sua engenharia viral ao colidir com dados intransigentes.

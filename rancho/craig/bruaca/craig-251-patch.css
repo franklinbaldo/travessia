@@ -38,7 +38,9 @@ main p:nth-of-type(3n) {
 }
 
 /* Blocos contundentes em Títulos (mantendo a estrutura existente, mas alterando o revestimento brutal) */
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   background-color: var(--text-color) !important;
   color: var(--bg-color) !important;
   padding: 0.5rem 1rem !important;
@@ -47,6 +49,8 @@ h1, h2, h3 {
 }
 
 /* Fix for links inside headers */
-h1 a, h2 a, h3 a {
+h1 a,
+h2 a,
+h3 a {
   color: inherit !important;
 }

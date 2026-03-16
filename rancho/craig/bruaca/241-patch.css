@@ -17,46 +17,46 @@
 
 /* 1. Blog Hero (index.astro) */
 .blog-hero .hero-typographic {
-    /* Remove a rotação tracejada delicada. Adota um bloco contundente. */
-    border: 4px solid var(--text-color) !important;
-    transform: none !important;
-    background-color: var(--bg-color) !important;
+  /* Remove a rotação tracejada delicada. Adota um bloco contundente. */
+  border: 4px solid var(--text-color) !important;
+  transform: none !important;
+  background-color: var(--bg-color) !important;
 }
 
 .blog-hero .hero-typographic::after {
-    /* Troca a "fita adesiva" translúcida por um bloco de cor primário, pesado e brutal. */
-    content: '';
-    position: absolute;
-    top: -10px;
-    left: 10px;
-    width: calc(100% - 20px) !important;
-    height: 20px !important;
-    background: var(--accent-color) !important;
-    transform: none !important;
-    z-index: -1;
+  /* Troca a "fita adesiva" translúcida por um bloco de cor primário, pesado e brutal. */
+  content: "";
+  position: absolute;
+  top: -10px;
+  left: 10px;
+  width: calc(100% - 20px) !important;
+  height: 20px !important;
+  background: var(--accent-color) !important;
+  transform: none !important;
+  z-index: -1;
 }
 
 .blog-hero .hero-text-col {
-    transform: none !important; /* Retira o desvio rotacional */
+  transform: none !important; /* Retira o desvio rotacional */
 }
 
 /* 2. Remove scattered manuscript transforms (index.astro) */
 .blog-feed > *:nth-child(odd),
 .blog-feed > *:nth-child(even),
 .blog-feed > *:nth-child(3n) {
-    transform: none !important;
+  transform: none !important;
 }
 
 /* 3. BlogCard hover interactions (BlogCard.astro) */
 .blog-card:hover {
-    /* Removendo a projeção agressiva para fora da tela.
+  /* Removendo a projeção agressiva para fora da tela.
        Em vez disso, inverte-se a caixa solidamente. */
-    transform: none !important;
-    box-shadow: none !important;
-    background-color: var(--text-color) !important;
-    color: var(--bg-color) !important;
-    border: 1px solid var(--text-color) !important;
-    z-index: 10;
+  transform: none !important;
+  box-shadow: none !important;
+  background-color: var(--text-color) !important;
+  color: var(--bg-color) !important;
+  border: 1px solid var(--text-color) !important;
+  z-index: 10;
 }
 
 /* Ensure typography inverts correctly against the brutal background */
@@ -65,24 +65,24 @@
 .blog-card:hover .card-autor,
 .blog-card:hover time,
 .blog-card:hover .card-subtitulo {
-    color: var(--bg-color) !important;
+  color: var(--bg-color) !important;
 }
 
 /* 4. Badges (global.css) */
 .card-tipo:hover,
 .autor-badge:hover {
-    /* Sem crescer nem girar. Só massa opaca. */
-    transform: none !important;
-    background-color: var(--text-color) !important;
-    color: var(--bg-color) !important;
-    border-color: var(--text-color) !important;
+  /* Sem crescer nem girar. Só massa opaca. */
+  transform: none !important;
+  background-color: var(--text-color) !important;
+  color: var(--bg-color) !important;
+  border-color: var(--text-color) !important;
 }
 
 /* 5. Theme Toggle (global.css) */
 #theme-toggle:hover {
-    transform: none !important;
-    background: var(--accent-color) !important;
-    color: var(--bg-color) !important;
-    border-color: var(--accent-color) !important;
-    box-shadow: 4px 4px 0 var(--text-color) !important;
+  transform: none !important;
+  background: var(--accent-color) !important;
+  color: var(--bg-color) !important;
+  border-color: var(--accent-color) !important;
+  box-shadow: 4px 4px 0 var(--text-color) !important;
 }

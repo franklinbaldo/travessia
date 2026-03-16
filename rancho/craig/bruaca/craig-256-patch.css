@@ -25,12 +25,15 @@ h2 {
   line-height: 1.2;
   transform: none; /* Removed rotation */
 }
-h1 a, h2 a, h3 a {
+h1 a,
+h2 a,
+h3 a {
   color: inherit !important;
 }
 :root {
   --font-body: "Cormorant Garamond", "Times New Roman", serif;
-  --font-ted: "Helvetica Neue", Helvetica, Arial, sans-serif; /* Refined from Courier New to a clean sans-serif */
+  --font-ted:
+    "Helvetica Neue", Helvetica, Arial, sans-serif; /* Refined from Courier New to a clean sans-serif */
   --font-meta: "Helvetica Neue", Helvetica, Arial, sans-serif;
   --body-size: 18px; /* Slightly scaled down */
   --body-lh: 1.8; /* Increased line-height for a more spacious, literary feel */

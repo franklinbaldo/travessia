@@ -17,7 +17,10 @@
 
 /* 1. Basic inline links microinteractions */
 /* Remove fluid structural lines replacing them with instant solid block weight */
-main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo) {
+main
+  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+    .correspondence-context
+  ):not(.logo) {
   text-decoration: none;
   background-image: none !important;
   transition: none !important;
@@ -26,12 +29,18 @@ main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-conte
   margin: 0 -0.2rem;
 }
 
-main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo)::after {
+main
+  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+    .correspondence-context
+  ):not(.logo)::after {
   display: none !important; /* Kill the animated underline pseudo-element */
 }
 
 /* Instant, brutal inversion interaction */
-main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo):hover {
+main
+  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+    .correspondence-context
+  ):not(.logo):hover {
   background-color: var(--text-color) !important;
   color: var(--bg-color) !important;
   border-radius: 0 !important;

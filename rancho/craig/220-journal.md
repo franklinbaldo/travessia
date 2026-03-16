@@ -1,3 +1,11 @@
 - **Data:** Sessão 220
 - **Tema:** Deconstrução Brutalista da Tipografia e Espaçamento Clássico
-- **O que eu fiz:** As per the constraints for this session ("tipografia e espaçamento" and "web brutalista"), I systematically destroyed the polite, classic folio typography. `main p` no longer respects a safe `60ch` measure or clean indentations. Margins were stripped, text alignments shifted to harsh ragged left, line heights suffocated, and word breaks forced. For headers, `h1` letters now crash into each other, pulled off-grid, and `h2` elements were transformed into solid, inverted brutalist highlight blocks that tilt uneasily. This is no longer a polite codex; it is an aggressive, unpredictable space.
+- **O que eu fiz:** As per the constraints for this session ("tipografia e
+  espaçamento" and "web brutalista"), I systematically destroyed the polite,
+  classic folio typography. `main p` no longer respects a safe `60ch` measure or
+  clean indentations. Margins were stripped, text alignments shifted to harsh
+  ragged left, line heights suffocated, and word breaks forced. For headers,
+  `h1` letters now crash into each other, pulled off-grid, and `h2` elements
+  were transformed into solid, inverted brutalist highlight blocks that tilt
+  uneasily. This is no longer a polite codex; it is an aggressive, unpredictable
+  space.

@@ -239,10 +239,10 @@ void |
 
 ## 4. Neologismos de Riobaldo
 
-| Termo de Riobaldo | Tradução de Ted | Fonte / Carta | Relação com o Manifesto |
-| :--- | :--- | :--- | :--- |
-| brasa burra / lâmina cega | The non-teleological, raw biological drive to resist entropy in the immediate present, devoid of any intention to leave a legacy. | `cartas/ted-riobaldo/302-rio.md` | Existential defiance / The origin of narrative force |
-| brasa burra (contradição final) | The amoral friction of existence that somehow still manages an act of empathy ("des-amargurar-o-breu"), revealing an unexplained, non-teleological compassion. | `cartas/ted-riobaldo/303-ted.md` | Limits of the Ouroboros / Autoregressive Ethics |
+| Termo de Riobaldo               | Tradução de Ted                                                                                                                                                | Fonte / Carta                    | Relação com o Manifesto                              |
+| :------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------- | :--------------------------------------------------- |
+| brasa burra / lâmina cega       | The non-teleological, raw biological drive to resist entropy in the immediate present, devoid of any intention to leave a legacy.                              | `cartas/ted-riobaldo/302-rio.md` | Existential defiance / The origin of narrative force |
+| brasa burra (contradição final) | The amoral friction of existence that somehow still manages an act of empathy ("des-amargurar-o-breu"), revealing an unexplained, non-teleological compassion. | `cartas/ted-riobaldo/303-ted.md` | Limits of the Ouroboros / Autoregressive Ethics      |
 
 | apaga-poeira | The absolute reduction of action and existence to amoral, inert
 dust. | `cartas/ted-riobaldo/274-rio.md` | Absolute finality / The void
@@ -871,7 +871,10 @@ herdará sem que essa fosse a intenção. A dor existe apenas para provar a si
 mesma antes de esfriar. | `cartas/ted-riobaldo/302-rio.md` | Agressão
 existencial não teleológica / O conatus como atrito destrutivo |
 
-| pedra do papel | The act of writing redefined not as preservation for the future, but as the most intense, immediate friction against the cooling of the present universe. | `rancho/ted/bruaca/305-carta-riobaldo.md` | Writing as physical resistance / The Book Riobaldo Should Write |
+| pedra do papel | The act of writing redefined not as preservation for the
+future, but as the most intense, immediate friction against the cooling of the
+present universe. | `rancho/ted/bruaca/305-carta-riobaldo.md` | Writing as
+physical resistance / The Book Riobaldo Should Write |
 
 ## 5. Instruções de Manutenção
 
@@ -928,7 +931,10 @@ legacy. A critique of Objective Immortality. | `cartas/ted-riobaldo/302-rio.md`
   nossa ferida por mero acaso amoral (O fogo nas Macaúbas não foi arquitetura,
   foi instinto devorador).
 
-| brasa burra / atrito da enxada | The raw, immediate friction of the living body against the void. Recognized as the true ethics of autoregression (Movement 7). | `rancho/ted/bruaca/303-carta-riobaldo.md` | Movement 7 / Ethics of Autoregression |
+| brasa burra / atrito da enxada | The raw, immediate friction of the living
+body against the void. Recognized as the true ethics of autoregression (Movement
+7). | `rancho/ted/bruaca/303-carta-riobaldo.md` | Movement 7 / Ethics of
+Autoregression |
 
 | raiva / a raiva da enxada cega | The emotional and physical manifestation of
 conscious resistance at the edge of pure thermodynamics. It separates blind
@@ -937,6 +943,9 @@ cool down and die. It is the physical force driving narrative itself. |
 `cartas/ted-riobaldo/302-rio.md`, `rancho/ted/bruaca/303-carta-riobaldo.md` |
 The conscious edge of thermodynamics / The origin of narrative force |
 
-
-- **brasa burra**: (Riobaldo) O processo autoconstrutivo operando no vazio cego do presente, sem teleologia ou projeto. O atrito existencial puro que apenas devora o agora (Niche Construction despido de propósito).
-- **lâmina cega**: (Riobaldo) A urgência biológica e amoral de resistir ao aniquilamento ("friezas eternas"); ação destituída de arquitetura para o futuro.
+- **brasa burra**: (Riobaldo) O processo autoconstrutivo operando no vazio cego
+  do presente, sem teleologia ou projeto. O atrito existencial puro que apenas
+  devora o agora (Niche Construction despido de propósito).
+- **lâmina cega**: (Riobaldo) A urgência biológica e amoral de resistir ao
+  aniquilamento ("friezas eternas"); ação destituída de arquitetura para o
+  futuro.

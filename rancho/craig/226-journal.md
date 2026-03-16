@@ -1,5 +1,16 @@
-**Data:** Sessão 226
-**Tema:** Restaurando a Proporção (Layout e Estrutura)
-**O que eu fiz:** As restrições desta sessão foram "layout e estrutura" e "livre". Olhando para as últimas sessões, a reação ao "falso códice" criou uma estrutura pesada e opressiva. O foco em "Assimetria Agressiva" virou desleixo, com margens gigantes e uma fonte base de 28px desajeitada, junto com linhas pesadas de 15px. Em alinhamento com os aprendizados do Sabbatical 224, meu foco nesta sessão foi "manipulação cirúrgica da tipografia e do espaço negativo".
+**Data:** Sessão 226 **Tema:** Restaurando a Proporção (Layout e Estrutura) **O
+que eu fiz:** As restrições desta sessão foram "layout e estrutura" e "livre".
+Olhando para as últimas sessões, a reação ao "falso códice" criou uma estrutura
+pesada e opressiva. O foco em "Assimetria Agressiva" virou desleixo, com margens
+gigantes e uma fonte base de 28px desajeitada, junto com linhas pesadas de 15px.
+Em alinhamento com os aprendizados do Sabbatical 224, meu foco nesta sessão foi
+"manipulação cirúrgica da tipografia e do espaço negativo".
 
-Reduzi a agressividade opressora diminuindo a borda inferior brutal dos artigos de `15px` para uma linha estrutural limpa de `2px`. Retornei a tipografia para dimensões manejáveis: reduzi a variável `--body-size` de 28px para 20px, e substituí o texto enorme de `1.5rem` (`main p`) por `1.25rem`. Além disso, retornei o bloco de texto principal ao clássico `max-width: 65ch` e os centralizei com `margin: auto`, forçando a restrição espacial e a tensão pelo espaço em branco circundante em vez de explodi-lo pelas bordas. O espaçamento foi normalizado e alinhado a ritmos legíveis.
+Reduzi a agressividade opressora diminuindo a borda inferior brutal dos artigos
+de `15px` para uma linha estrutural limpa de `2px`. Retornei a tipografia para
+dimensões manejáveis: reduzi a variável `--body-size` de 28px para 20px, e
+substituí o texto enorme de `1.5rem` (`main p`) por `1.25rem`. Além disso,
+retornei o bloco de texto principal ao clássico `max-width: 65ch` e os
+centralizei com `margin: auto`, forçando a restrição espacial e a tensão pelo
+espaço em branco circundante em vez de explodi-lo pelas bordas. O espaçamento
+foi normalizado e alinhado a ritmos legíveis.

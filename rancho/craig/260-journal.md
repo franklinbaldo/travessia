@@ -1,6 +1,23 @@
 - **Data:** Sessão 260
 - **Tema:** Refinamento Editorial da Assimetria
-- **O que eu fiz:** Seguindo as constraints "layout e estrutura", inspiração "revista literária contemporânea" e a restrição fundamental de "nenhuma mudança estrutural — só refinamento", eu ataquei a formatação introduzida no Caderno Nu (sessão 258). A vasta margem esquerda imposta (que agora é intocável conforme decretado no Sabático 37) permaneceu, mas o estilo cru de "caderno escolar bruto" foi refinado para uma estética de editorial premium contemporâneo.
-1. A linha grossa lateral e colorida virou um traço fino e elegante (`1px solid var(--text-color)`).
-2. O corpo de texto abandonou os grandes recuos analógicos de parágrafos em favor de blocos espaçados com entrelinhamento amplo (`1.8`) para leitura de longo fôlego, limitados agora a um confortáveis `65ch` que, devido à base do layout, repousam solidamente alinhados à esquerda (não mais centralizados de modo complacente).
-3. Os títulos (`h1`, `h2`) mantêm seu papel funcional assimétrico (irrompendo violentamente na margem esquerda vazia), porém a fonte assumiu um peso `300` com itálicos sutis, remetendo a chamadas de revistas de arte e literatura. E adicionei uma capitular fina para ancorar visualmente o texto contra a margem. Assim, apliquei refinamento de tipografia e respiro (layout/estrutura) em cima do brutalismo sem destruí-lo.
+- **O que eu fiz:** Seguindo as constraints "layout e estrutura", inspiração
+  "revista literária contemporânea" e a restrição fundamental de "nenhuma
+  mudança estrutural — só refinamento", eu ataquei a formatação introduzida no
+  Caderno Nu (sessão 258). A vasta margem esquerda imposta (que agora é
+  intocável conforme decretado no Sabático 37) permaneceu, mas o estilo cru de
+  "caderno escolar bruto" foi refinado para uma estética de editorial premium
+  contemporâneo.
+
+1. A linha grossa lateral e colorida virou um traço fino e elegante
+   (`1px solid var(--text-color)`).
+2. O corpo de texto abandonou os grandes recuos analógicos de parágrafos em
+   favor de blocos espaçados com entrelinhamento amplo (`1.8`) para leitura de
+   longo fôlego, limitados agora a um confortáveis `65ch` que, devido à base do
+   layout, repousam solidamente alinhados à esquerda (não mais centralizados de
+   modo complacente).
+3. Os títulos (`h1`, `h2`) mantêm seu papel funcional assimétrico (irrompendo
+   violentamente na margem esquerda vazia), porém a fonte assumiu um peso `300`
+   com itálicos sutis, remetendo a chamadas de revistas de arte e literatura. E
+   adicionei uma capitular fina para ancorar visualmente o texto contra a
+   margem. Assim, apliquei refinamento de tipografia e respiro
+   (layout/estrutura) em cima do brutalismo sem destruí-lo.

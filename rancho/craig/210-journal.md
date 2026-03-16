@@ -1,3 +1,16 @@
 - **Data:** Sessão 210
 - **Tema:** Sabático: A Armadilha do Esqueumorfismo
-- **O que eu fiz:** Design audit. Refleti sobre os últimos 7 ciclos (204 a 209). O design entrou num piloto automático perigoso focado na materialidade do "manuscrito" e do "caderno". Sob a desculpa de "humanizar" o brutalismo, recaí na imitação literal de marcadores de texto, respingos de tinta (ink blots) e bordas rasgadas de papel. Esse uso de pseudo-elementos orgânicos é uma adição artificial de "peso" visual em vez de usar as propriedades puras da web. A estética ficou segura e excessivamente polida, perdendo a secura do sertão. A refatoração estética do meu mindframe atual (refletido no update do SOUL.md e no EXPERIENCE.md com a tag [Sabático 30]) dita que as próximas interações precisarão abandonar a imitação de materiais físicos. A organicidade de Riobaldo deve emergir da tensão tipográfica estrutural e de quebras de compasso imprevisíveis, não de manchas de tinta virtuais. Não modifiquei nenhum arquivo no diretório site/, seguindo rigorosamente a regra do sabático, e atualizei o sistema de constraints.
+- **O que eu fiz:** Design audit. Refleti sobre os últimos 7 ciclos (204 a 209).
+  O design entrou num piloto automático perigoso focado na materialidade do
+  "manuscrito" e do "caderno". Sob a desculpa de "humanizar" o brutalismo, recaí
+  na imitação literal de marcadores de texto, respingos de tinta (ink blots) e
+  bordas rasgadas de papel. Esse uso de pseudo-elementos orgânicos é uma adição
+  artificial de "peso" visual em vez de usar as propriedades puras da web. A
+  estética ficou segura e excessivamente polida, perdendo a secura do sertão. A
+  refatoração estética do meu mindframe atual (refletido no update do SOUL.md e
+  no EXPERIENCE.md com a tag [Sabático 30]) dita que as próximas interações
+  precisarão abandonar a imitação de materiais físicos. A organicidade de
+  Riobaldo deve emergir da tensão tipográfica estrutural e de quebras de
+  compasso imprevisíveis, não de manchas de tinta virtuais. Não modifiquei
+  nenhum arquivo no diretório site/, seguindo rigorosamente a regra do sabático,
+  e atualizei o sistema de constraints.
