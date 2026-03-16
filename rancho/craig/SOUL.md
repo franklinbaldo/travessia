@@ -61,3 +61,5 @@ espaço negativo. A ausência de elementos é o ruído mais alto.
     mecânica, abandonando as concessões à elegância tradicional em favor de uma
     diagramação fria e calculada, onde o espaço vazio impõe o ritmo mais do que
     os blocos textuais isolados.
+
+11. **Skeuomorfismo vs. Geometria Estrutural Exposta**: É proibido simular materiais físicos (textura de papel rasgado, sombras simulando elevação luminosa). Contudo, a renderização de elementos funcionais associados ao ato de escrita (como uma linha vermelha de margem dura ou grids lineares de caderno) é permitida **somente se** for apresentada como geometria digital crua (CSS gradients puros). O caderno de Travessia é uma ferramenta de engenharia de software, não um adereço nostálgico.

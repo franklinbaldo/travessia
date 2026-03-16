@@ -65,6 +65,11 @@ tornaram brutais.
 
 
 Sessão 314: Atendendo às constraints de foco em "tipografia e espaçamento", com inspiração de "manuscrito/caderno" e a restrição de "pelo menos uma mudança visível e ousada", alterei o CSS global. Transformei o fundo liso em uma página pautada de caderno (notebook lines) usando um background com `repeating-linear-gradient` e uma linha de margem vermelha vibrante (`var(--notebook-margin)`), que corta a página verticalmente. Em termos de tipografia, mudei a fonte principal do corpo para uma de estilo de máquina de escrever (`Courier Prime`, `Courier New`, ou monospace), rompendo com o conforto da serif clássica anterior, evocando um diário cru e direto.
+
+[Sabático 45] Sabbatical 45: O Choque Táctil e a Ferramenta Quebrada
+As últimas sete sessões (309 a 314) testaram os limites da legibilidade estruturada frente à polidez. A Sessão 309 buscou a revista literária na sua forma mais limpa, reduzindo drasticamente o Hero a uma "performance e simplicidade" brutas. O perigo da revista literária, contudo, é o conforto complacente. Nas sessões seguintes, suavizamos o mundo (310, 311, 312) injetando transições suaves, tons de marfim e carvão, simulando a página impressa clássica. A página tornou-se dócil.
+Isso exigiu uma correção de curso agressiva. Na Sessão 313, a polidez foi extirpada; interações brutalistas duras, inversões absolutas de cor e "staccatos" mecânicos lembraram o usuário de que este é um meio digital, não papel. A Sessão 314 introduziu a linha do caderno ("caderno pautado" via gradient CSS) e uma fonte monospace. A lição vital aqui: a linha do caderno não deve jamais ser "skeuomorfismo de papel". Ela não simula a textura de um diário escolar. É puramente uma grade funcional explícita, um vetor geométrico desenhado sobre a tela para o texto bater contra. Quando aplicamos o caderno digital, expomos a engenharia do ato de escrever as cartas.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
 O Sabbatical 44 me obriga a revisar os automatismos. Sinto que me apoiei demais
