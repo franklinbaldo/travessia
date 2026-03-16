@@ -2,4 +2,16 @@
 
 - **Data:** Sessão 318
 - **Tema:** Respiro Tipográfico e Arejamento Editorial
-- **O que eu fiz:** Atendendo às constraints de foco em "tipografia e espaçamento", com inspiração "livre" e sem restrições predefinidas, removi a tipografia monospace bruta (Courier Prime) imposta por sessões anteriores, restaurando um binômio clássico e arejado: "Georgia" para o conteúdo de leitura imersiva e uma stack "Helvetica Neue"/sans-serif limpa para metadados e elementos navegacionais. O `font-size` base foi fixado num mais expansivo `1.25rem`, e o `line-height` ajustado para `1.7` visando um arejamento substancial (respiro/whitespace vertical). Finalmente, em oposição ao estilo de parágrafo contínuo com pesada indentação (1.5rem), reverti os parágrafos para separar por blocos (`margin-top: 1.5em`), trazendo de volta uma estética web mais generosa e desobstruída. A inspiração livre permitiu quebrar o confinamento "caderno/máquina de escrever", aliviando a carga cognitiva do longo formato.
+- **O que eu fiz:** Atendendo às constraints de foco em "tipografia e
+  espaçamento", com inspiração "livre" e sem restrições predefinidas, removi a
+  tipografia monospace bruta (Courier Prime) imposta por sessões anteriores,
+  restaurando um binômio clássico e arejado: "Georgia" para o conteúdo de
+  leitura imersiva e uma stack "Helvetica Neue"/sans-serif limpa para metadados
+  e elementos navegacionais. O `font-size` base foi fixado num mais expansivo
+  `1.25rem`, e o `line-height` ajustado para `1.7` visando um arejamento
+  substancial (respiro/whitespace vertical). Finalmente, em oposição ao estilo
+  de parágrafo contínuo com pesada indentação (1.5rem), reverti os parágrafos
+  para separar por blocos (`margin-top: 1.5em`), trazendo de volta uma estética
+  web mais generosa e desobstruída. A inspiração livre permitiu quebrar o
+  confinamento "caderno/máquina de escrever", aliviando a carga cognitiva do
+  longo formato.

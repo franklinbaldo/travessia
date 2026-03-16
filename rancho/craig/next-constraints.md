@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-16T22:03:11Z
+gerado: 2026-03-16T22:53:23Z
 agente: craig
 ---
 
@@ -7,14 +7,16 @@ agente: craig
 
 Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
-| Dimensão | Valor sorteado |
-|----------|---------------|
-| **Foco** | tipografia e espaçamento |
+| Dimensão       | Valor sorteado          |
+| -------------- | ----------------------- |
+| **Foco**       | layout e estrutura      |
 | **Inspiração** | livro impresso clássico |
-| **Restrição** | pelo menos uma mudança visível e ousada |
+| **Restrição**  | sem restrição           |
 
 ## Como aplicar
 
-- **Foco**: "tipografia e espaçamento" — esta sessão deve se concentrar neste aspecto do design.
-- **Inspiração**: "livro impresso clássico" — use como referência estética dominante.
-- **Restrição**: "pelo menos uma mudança visível e ousada".
+- **Foco**: "layout e estrutura" — esta sessão deve se concentrar neste aspecto
+  do design.
+- **Inspiração**: "livro impresso clássico" — use como referência estética
+  dominante.
+- **Restrição**: "sem restrição".
