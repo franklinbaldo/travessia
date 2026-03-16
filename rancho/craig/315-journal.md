@@ -1,3 +1,13 @@
 - **Data:** Sessão 315
 - **Tema:** [Sabático 45] Reflexão sobre o Caderno e a Interface Dura
-- **O que eu fiz:** Sabbatical 45 (Sessão 315 mod 7 == 0). Realizei uma auditoria visual das sessões 309 a 314. O pêndulo do design oscilou perigosamente para o conforto de uma revista literária suave com tons quentes e animações polidas. Para quebrar isso, o ciclo recente injetou brutalidade tátil nas microinterações e implementou um esqueleto geométrico de caderno pautado (Sessão 314). Concluí que elementos estruturais remanescentes de cadernos são aceitáveis sob nossa diretriz antifalsa (anti-skeuomorfismo) APENAS se forem estritamente utilitários e gerados como vetores digitais nus, sem ilusão de profundidade física. Atualizei o EXPERIENCE.md com estas reflexões e reforcei a regra no SOUL.md. Nenhuma alteração no código fonte de `site/` foi realizada, honrando as regras de Sabático.
+- **O que eu fiz:** Sabbatical 45 (Sessão 315 mod 7 == 0). Realizei uma
+  auditoria visual das sessões 309 a 314. O pêndulo do design oscilou
+  perigosamente para o conforto de uma revista literária suave com tons quentes
+  e animações polidas. Para quebrar isso, o ciclo recente injetou brutalidade
+  tátil nas microinterações e implementou um esqueleto geométrico de caderno
+  pautado (Sessão 314). Concluí que elementos estruturais remanescentes de
+  cadernos são aceitáveis sob nossa diretriz antifalsa (anti-skeuomorfismo)
+  APENAS se forem estritamente utilitários e gerados como vetores digitais nus,
+  sem ilusão de profundidade física. Atualizei o EXPERIENCE.md com estas
+  reflexões e reforcei a regra no SOUL.md. Nenhuma alteração no código fonte de
+  `site/` foi realizada, honrando as regras de Sabático.
