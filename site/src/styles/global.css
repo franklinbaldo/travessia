@@ -9,12 +9,12 @@
 :root {
   --body-size: 1.15rem;
   --body-lh: 2rem;
-  --desk-bg: #d6d3cc;
-  --notebook-line: rgba(0, 0, 0, 0.08);
-  --notebook-margin: rgba(220, 50, 50, 0.35);
-  --bg-color: #fcfbf8;
-  --text-color: #2b2b2b;
-  --accent-color: #1a1a1a;
+  --desk-bg: #002fa7;
+  --notebook-line: transparent;
+  --notebook-margin: transparent;
+  --bg-color: #ffffff;
+  --text-color: #000000;
+  --accent-color: #ff3300;
   --secondary-color: #5c5c5c;
   --divider-color: rgba(43, 43, 43, 0.15);
   --meta-color: #666666;
@@ -28,12 +28,12 @@
 }
 
 [data-theme="dark"] {
-  --desk-bg: #0a0a0a;
-  --notebook-line: rgba(255, 255, 255, 0.06);
-  --notebook-margin: rgba(220, 80, 80, 0.4);
-  --bg-color: #1e1e1e;
-  --text-color: #e8e6e1;
-  --accent-color: #ffffff;
+  --desk-bg: #000000;
+  --notebook-line: transparent;
+  --notebook-margin: transparent;
+  --bg-color: #111111;
+  --text-color: #ffffff;
+  --accent-color: #ff4400;
   --secondary-color: #9c9c9a;
   --divider-color: rgba(230, 228, 223, 0.15);
   --meta-color: #a3a3a1;
@@ -102,51 +102,32 @@ body {
 main {
   max-width: 800px;
   margin: 4rem auto;
-  padding: 4rem 4rem 5rem 6.5rem;
+  padding: 4rem;
   background-color: var(--bg-color);
-  box-shadow:
-    -3px 0 8px rgba(0,0,0,0.04),
-    12px 12px 35px rgba(0,0,0,0.12);
-  border-radius: 3px 15px 15px 3px;
+  box-shadow: 20px 20px 0px var(--accent-color);
+  border: 3px solid var(--text-color);
+  border-radius: 0;
   position: relative;
-  /* Notebook structure */
-  background-image: repeating-linear-gradient(
-    transparent,
-    transparent calc(var(--body-lh) - 1px),
-    var(--notebook-line) calc(var(--body-lh) - 1px),
-    var(--notebook-line) var(--body-lh)
-  );
-  background-size: 100% var(--body-lh);
-  background-position: 0 4.1rem; /* Offset to align lines with text */
+  background-image: none;
 }
 
 /* Notebook margin line */
 main::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 4.5rem;
-  width: 2px;
-  background-color: var(--notebook-margin);
-  z-index: 0;
-  pointer-events: none;
+  display: none;
 }
 
 [data-theme="dark"] main {
-  box-shadow:
-    -3px 0 8px rgba(0,0,0,0.3),
-    12px 12px 35px rgba(0,0,0,0.5);
+  box-shadow: 20px 20px 0px var(--accent-color);
 }
 
 @media (max-width: 768px) {
   main {
     margin: 1rem auto;
-    padding: 3rem 1.5rem 4rem 4rem;
+    padding: 3rem 1.5rem 4rem 1.5rem;
     max-width: 95vw;
   }
   main::before {
-    left: 2.5rem;
+    display: none;
   }
 }
 /* === Typography === */
