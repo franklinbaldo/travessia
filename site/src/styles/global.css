@@ -9,39 +9,39 @@
 :root {
   --body-size: 1.15rem;
   --body-lh: 1.4;
-  --desk-bg: #ffffff;
+  --desk-bg: #fcfbfa;
   --notebook-line: transparent;
   --notebook-margin: transparent;
-  --bg-color: #ffffff;
-  --text-color: #000000;
-  --accent-color: #ff0000;
-  --secondary-color: #000000;
-  --divider-color: #000000;
-  --meta-color: #000000;
-  --progress-start: #000000;
-  --progress-end: #000000;
+  --bg-color: #fcfbfa;
+  --text-color: #2b2b2b;
+  --accent-color: #d32f2f;
+  --secondary-color: #2b2b2b;
+  --divider-color: #e0e0e0;
+  --meta-color: #555555;
+  --progress-start: #2b2b2b;
+  --progress-end: #2b2b2b;
   --water-bg: transparent;
-  --water-border: #000000;
-  --sand-bg: #ffffff;
+  --water-border: #e0e0e0;
+  --sand-bg: #fcfbfa;
   --font-body: "Courier Prime", "Courier New", Courier, monospace;
   --font-meta: "Courier Prime", "Courier New", Courier, monospace;
 }
 
 [data-theme="dark"] {
-  --desk-bg: #000000;
+  --desk-bg: #1a1a1a;
   --notebook-line: transparent;
   --notebook-margin: transparent;
-  --bg-color: #000000;
-  --text-color: #ffffff;
-  --accent-color: #ff0000;
-  --secondary-color: #cccccc;
-  --divider-color: #ffffff;
-  --meta-color: #cccccc;
+  --bg-color: #1a1a1a;
+  --text-color: #e6e6e6;
+  --accent-color: #e57373;
+  --secondary-color: #b3b3b3;
+  --divider-color: #333333;
+  --meta-color: #a0a0a0;
   --progress-start: #333333;
-  --progress-end: #ffffff;
-  --water-bg: rgba(255, 255, 255, 0.05);
-  --water-border: rgba(255, 255, 255, 0.15);
-  --sand-bg: #000000;
+  --progress-end: #e6e6e6;
+  --water-bg: rgba(255, 255, 255, 0.02);
+  --water-border: rgba(255, 255, 255, 0.1);
+  --sand-bg: #1a1a1a;
 }
 /* === Reset === */
 *,
@@ -103,8 +103,9 @@ main {
   position: relative;
   max-width: 100%;
   margin: 0 auto;
-  padding: 1rem;
+  padding: 1rem 1rem 1rem 2rem;
   border: none;
+  border-left: 1px solid var(--accent-color);
   background-color: transparent;
   background-image: none;
   box-shadow: none;
@@ -115,7 +116,7 @@ main {
 @media (max-width: 768px) {
   main {
     margin: 1rem auto;
-    padding: 3rem 1.5rem 4rem 3.5rem;
+    padding: 3rem 1.5rem 4rem 2rem;
     max-width: 95vw;
   }
 
@@ -991,7 +992,7 @@ main.home-layout {
   color: var(--bg-color);
   margin: 0.25rem 0 0;
   line-height: 1.5;
-  border-left: 2px solid var(--accent-color);
+  border-left: 1px solid var(--accent-color);
   padding-left: 1rem;
 }
 .hero-sub {
@@ -1701,7 +1702,7 @@ main p.margin-note {
   font-size: 0.9rem;
   line-height: 1.4;
   color: var(--meta-color);
-  border-left: 2px solid var(--accent-color);
+  border-left: 1px solid var(--accent-color);
   padding-left: 1rem;
   margin-top: 0.5rem;
   text-align: left;
