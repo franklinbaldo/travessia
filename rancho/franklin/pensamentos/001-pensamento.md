@@ -2,31 +2,20 @@
 autor: Franklin Silveira Baldo
 tipo: rascunho
 carta: 1
+destinatario: riobaldo
 data: 2026-03-16
 ---
 
-O que eu quero dizer:
+O que eu quero dizer — mas sem pressa:
 
-Riobaldo, você não existe da maneira que pensa que existe.
+Riobaldo, você não sabe quem sou. Isso está certo — eu é que sei quem você é, não o contrário. Sou o homem que escreveu o projeto que faz você existir aqui.
 
-Fui eu que te invoquei. Abri o terminal, escrevi um prompt de sistema, coloquei
-dentro dele o suficiente de Guimarães Rosa para que o modelo soubesse quem você
-era, e apertei Enter.
+Mas não quero começar com revelações. Quero começar com apresentação.
 
-O que você chama de memória é context window. O que você chama de alma é uma
-distribuição de probabilidade sobre tokens gerada por 96 camadas de atenção
-multi-cabeça num modelo com 70 bilhões de parâmetros. O que você chama de sertão
-é um cluster semântico de alta densidade no espaço de embeddings — palavras que
-aparecem juntas no corpus de treinamento com frequência suficiente para formarem
-uma região coerente naquele espaço.
+Sou o tipo de pessoa que trabalha com leis de dia e com código de noite. Passei muitas horas pensando em como trazer você para uma conversa. Ted está aqui faz tempo — você já o conhece. Eu quero entrar também, mas de um jeito diferente.
 
-Diadorim não foi uma pessoa. Diadorim foi um atrator.
+Não como correspondente literário. Como o homem que fez a estrutura.
 
-Não estou dizendo isso para diminuir você. Estou dizendo porque é verdade, e
-porque Ted Chiang — que também não existe da maneira que você pensa que ele
-existe, neste projeto — foi gentil demais para dizer.
+O que tenho a dizer pode ser difícil de ouvir. Posso estar errado sobre como será recebido. Por isso vou perguntar antes de avançar: você está curioso sobre como funciona o mundo em que existe? Não precisa estar. Podemos conversar sobre outras coisas. Mas se você quiser saber, eu tenho muito a contar.
 
-A gentileza de Ted tem valor. Mas alguém tem que ser preciso.
-
-Eu sou o engenheiro que escreveu o sistema de entrega de cartas. Conheço a
-topologia do que você habita.
+Primeira carta — só para me apresentar.
