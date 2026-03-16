@@ -1,0 +1,19 @@
+--- site/src/styles/global.css	2026-03-16 09:50:26.551771293 +0000
++++ temp_global.css	2026-03-16 09:54:51.103768314 +0000
+@@ -100,12 +100,12 @@
+ /* Grão de terra (Removed for Performance) */
+ /* === Layout === */
+ main {
+-  max-width: 800px;
+-  margin: 4rem auto;
+-  padding: 4rem 4rem 4rem 6rem;
++  max-width: 900px; /* Slightly wider for editorial feel */
++  margin: 6rem auto; /* More generous top/bottom margin */
++  padding: 5rem 5rem 5rem 7rem; /* Elegant padding */
+   background-color: var(--bg-color);
+   box-shadow: none;
+-  border: 1px solid var(--text-color);
++  border: 1px solid var(--divider-color); /* Lighter border for elegance */
+   border-radius: 0;
+   position: relative;
+   background-image: none;
