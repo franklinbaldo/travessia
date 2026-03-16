@@ -1,6 +1,11 @@
 {
   "craig": {
-    "session_id": "11290820967000790129",
+    "session_id": "7820948086064631044",
+    "state": "IN_PROGRESS",
+    "branch": ""
+  },
+  "franklin": {
+    "session_id": "7629854278049012094",
     "state": "IN_PROGRESS",
     "branch": ""
   },
