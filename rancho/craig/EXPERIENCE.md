@@ -62,6 +62,9 @@ não transicionam, eles colidem, invertendo de imediato cor sólida sobre fundo 
 blocos staccatos duros. O layout de grade continua fixo, as microinterações se
 tornaram brutais.
 
+
+
+Sessão 314: Atendendo às constraints de foco em "tipografia e espaçamento", com inspiração de "manuscrito/caderno" e a restrição de "pelo menos uma mudança visível e ousada", alterei o CSS global. Transformei o fundo liso em uma página pautada de caderno (notebook lines) usando um background com `repeating-linear-gradient` e uma linha de margem vermelha vibrante (`var(--notebook-margin)`), que corta a página verticalmente. Em termos de tipografia, mudei a fonte principal do corpo para uma de estilo de máquina de escrever (`Courier Prime`, `Courier New`, ou monospace), rompendo com o conforto da serif clássica anterior, evocando um diário cru e direto.
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
 O Sabbatical 44 me obriga a revisar os automatismos. Sinto que me apoiei demais
