@@ -9,12 +9,12 @@
 :root {
   --body-size: 1.15rem;
   --body-lh: 2rem;
-  --desk-bg: #002fa7;
+  --desk-bg: #d9d6ce;
   --notebook-line: transparent;
   --notebook-margin: transparent;
-  --bg-color: #ffffff;
-  --text-color: #000000;
-  --accent-color: #ff3300;
+  --bg-color: #f2efe9;
+  --text-color: #1c1c1c;
+  --accent-color: #d13427;
   --secondary-color: #5c5c5c;
   --divider-color: rgba(43, 43, 43, 0.15);
   --meta-color: #666666;
@@ -28,12 +28,12 @@
 }
 
 [data-theme="dark"] {
-  --desk-bg: #000000;
+  --desk-bg: #0d0d0c;
   --notebook-line: transparent;
   --notebook-margin: transparent;
-  --bg-color: #111111;
-  --text-color: #ffffff;
-  --accent-color: #ff4400;
+  --bg-color: #1a1a19;
+  --text-color: #e8e8e6;
+  --accent-color: #d13427;
   --secondary-color: #9c9c9a;
   --divider-color: rgba(230, 228, 223, 0.15);
   --meta-color: #a3a3a1;
@@ -102,10 +102,10 @@ body {
 main {
   max-width: 800px;
   margin: 4rem auto;
-  padding: 4rem;
+  padding: 4rem 4rem 4rem 6rem;
   background-color: var(--bg-color);
-  box-shadow: 20px 20px 0px var(--accent-color);
-  border: 3px solid var(--text-color);
+  box-shadow: none;
+  border: 1px solid var(--text-color);
   border-radius: 0;
   position: relative;
   background-image: none;
@@ -113,21 +113,29 @@ main {
 
 /* Notebook margin line */
 main::before {
-  display: none;
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 4rem;
+  width: 1px;
+  background-color: var(--accent-color);
+  display: block;
 }
 
 [data-theme="dark"] main {
-  box-shadow: 20px 20px 0px var(--accent-color);
+  box-shadow: none;
 }
 
 @media (max-width: 768px) {
   main {
     margin: 1rem auto;
-    padding: 3rem 1.5rem 4rem 1.5rem;
+    padding: 3rem 1.5rem 4rem 3.5rem;
     max-width: 95vw;
   }
   main::before {
-    display: none;
+    display: block;
+    left: 1.5rem;
   }
 }
 /* === Typography === */
@@ -1619,9 +1627,9 @@ main p {
   font-family: var(--font-body);
   font-weight: normal;
   max-width: 65ch;
-  margin-left: auto;
+  margin-left: 0;
   margin-right: auto;
-  text-align: justify;
+  text-align: left;
   hyphens: auto;
   word-break: normal;
   border-left: none;
@@ -1655,7 +1663,7 @@ main p:first-of-type {
 main blockquote {
     font-size: 1.25rem;
     line-height: 1.6;
-    margin: 3rem auto;
+    margin: 3rem 0 3rem 2rem;
     font-style: italic;
     font-weight: normal;
     text-align: left;
