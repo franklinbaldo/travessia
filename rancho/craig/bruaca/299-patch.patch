@@ -1,0 +1,182 @@
+diff --git a/site/src/components/FooterNav.astro b/site/src/components/FooterNav.astro
+index 62ab79f..f6610c6 100644
+--- a/site/src/components/FooterNav.astro
++++ b/site/src/components/FooterNav.astro
+@@ -103,42 +103,24 @@ const isRich = !!(prev?.autor || next?.autor);
+
+     text-decoration: none;
+     transform: none !important;
+-    transition: transform 0.2s cubic-bezier(0.25, 1, 0.5, 1) !important;
++    transition: background-color 0.1s ease !important;
+   }
+
+-  /* Microinteração de sublinhado estilo rabisco manual */
+-  .footer-nav-link::before {
+-    content: '';
+-    position: absolute;
+-    bottom: 0;
+-    left: 10%;
+-    width: 80%;
+-    height: 2px;
+-    background-color: var(--accent-color);
+-    border-radius: 50%;
+-    transform: scaleX(0) rotate(-1deg);
+-    transform-origin: center;
+-    opacity: 0.7;
+-    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+-  }
+-
+-  /* Efeito de papel dobrado no hover */
+   .footer-nav-link:hover {
+-    transform: translateY(-3px) rotate(0.5deg) !important;
+     background-color: rgba(0, 0, 0, 0.02) !important;
++    text-decoration: underline;
++    text-decoration-style: solid;
++    text-decoration-thickness: 1px;
++    text-underline-offset: 4px;
+   }
+
+   :global([data-theme="dark"]) .footer-nav-link:hover {
+     background-color: rgba(255, 255, 255, 0.03) !important;
+   }
+
+-  .footer-nav-link.next:hover {
+-    transform: translateY(-3px) rotate(-0.5deg) !important;
+-  }
++
+
+-  .footer-nav-link:hover::before {
+-    transform: scaleX(1) rotate(-1deg);
+-  }
++
+
+   .footer-nav-link.next {
+     text-align: right;
+@@ -146,13 +128,9 @@ const isRich = !!(prev?.autor || next?.autor);
+     margin-left: auto;
+   }
+
+-  .footer-nav-link.next::before {
+-    transform: scaleX(0) rotate(1deg);
+-  }
++
+
+-  .footer-nav-link.next:hover::before {
+-    transform: scaleX(1) rotate(1deg);
+-  }
++
+
+   .footer-nav-dir {
+     font-family: var(--font-meta);
+@@ -200,10 +178,5 @@ const isRich = !!(prev?.autor || next?.autor);
+       text-align: center;
+       align-items: center;
+     }
+-
+-    .footer-nav-link::before {
+-      left: 20%;
+-      width: 60%;
+-    }
+   }
+ </style>
+diff --git a/site/src/styles/global.css b/site/src/styles/global.css
+index 553248f..ce71c20 100644
+--- a/site/src/styles/global.css
++++ b/site/src/styles/global.css
+@@ -9,15 +9,15 @@
+ :root {
+   --body-size: 1.15rem;
+   --body-lh: 2rem;
+-  --desk-bg: #d9d6ce;
++  --desk-bg: #ffffff;
+   --notebook-line: transparent;
+   --notebook-margin: transparent;
+-  --bg-color: #f2efe9;
+-  --text-color: #1c1c1c;
+-  --accent-color: #d13427;
++  --bg-color: #ffffff;
++  --text-color: #000000;
++  --accent-color: #0000ff;
+   --secondary-color: #5c5c5c;
+   --divider-color: rgba(43, 43, 43, 0.15);
+-  --meta-color: #666666;
++  --meta-color: #4a4a4a;
+   --progress-start: #2b2b2b;
+   --progress-end: #1a1a1a;
+   --water-bg: rgba(43, 43, 43, 0.03);
+@@ -28,15 +28,15 @@
+ }
+
+ [data-theme="dark"] {
+-  --desk-bg: #0d0d0c;
++  --desk-bg: #000000;
+   --notebook-line: transparent;
+   --notebook-margin: transparent;
+-  --bg-color: #1a1a19;
+-  --text-color: #e8e8e6;
+-  --accent-color: #d13427;
++  --bg-color: #000000;
++  --text-color: #ffffff;
++  --accent-color: #e5ff00;
+   --secondary-color: #9c9c9a;
+   --divider-color: rgba(230, 228, 223, 0.15);
+-  --meta-color: #a3a3a1;
++  --meta-color: #b5b5b5;
+   --progress-start: #e8e6e1;
+   --progress-end: #ffffff;
+   --water-bg: rgba(230, 228, 223, 0.05);
+@@ -105,7 +105,7 @@ main {
+   padding: 4rem 4rem 4rem 6rem;
+   background-color: var(--bg-color);
+   box-shadow: none;
+-  border: 1px solid var(--text-color);
++  border: none;
+   border-radius: 0;
+   position: relative;
+   background-image: none;
+@@ -120,7 +120,7 @@ main::before {
+   left: 4rem;
+   width: 1px;
+   background-color: var(--accent-color);
+-  display: block;
++  display: none;
+ }
+
+ [data-theme="dark"] main {
+@@ -134,7 +134,7 @@ main::before {
+     max-width: 95vw;
+   }
+   main::before {
+-    display: block;
++    display: none;
+     left: 1.5rem;
+   }
+ }
+@@ -1621,7 +1621,7 @@ main
+  * Brutalist Typography and Spacing
+  */
+ main p {
+-  margin-bottom: 2rem;
++  margin-bottom: 0;
+   line-height: var(--body-lh);
+   font-size: var(--body-size);
+   font-family: var(--font-body);
+@@ -1629,7 +1629,7 @@ main p {
+   max-width: 65ch;
+   margin-left: 0;
+   margin-right: auto;
+-  text-align: left;
++  text-align: justify;
+   hyphens: auto;
+   word-break: normal;
+   border-left: none;
+@@ -1640,7 +1640,8 @@ main p {
+ }
+
+ main p + p {
+-  text-indent: 0;
++  text-indent: 2em;
++  margin-top: 0;
+ }
+
+ main p:nth-of-type(even), main p:nth-of-type(3n) {

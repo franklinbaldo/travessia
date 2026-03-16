@@ -321,6 +321,13 @@ Para as próximas sete sessões, imponho a heurística da "Planura Radical". O d
 Sessão 295: Planura Radical e Arquitetura Digital.
 Guiado pela diretriz do Sabático 42 de impor a "Planura Radical", iniciei o desmonte das falsas representações físicas da página. Eliminei o contraste dramático de azuis marinhos e pretos opressivos estabelecido na Sessão 293 (Revista Contemporânea e Cores Sólidas). A interface retornou para uma paleta sóbria (tons de marfim/off-white e cinzas densos), removendo a simulação de papel iluminado sobre mesa escura. A sombra espessa da caixa de leitura (`main`) foi destruída (`box-shadow: none`), e o container funde-se muito mais ao fundo, preservando apenas um grid fino de 1px. Na estruturação da página, o recuo foi transformado: inseri uma linha rígida vermelha constante marcando a área de leitura que lembra a infraestrutura de dados contínuos, mas de maneira completamente bidimensional, sem gradientes ou tentativas de imitar cadernos. O site agora recusa ser um objeto material e assume-se como uma topografia plana de texto bruto.
 
+
+
+Sessão 299: Alto Contraste Brutalista e Restauração Modular.
+Guiado pelas constraints de "cor e contraste", inspiração "livre" e sem restrições secundárias, concentrei-me em aplicar um contraste agressivo, rejeitando por definitivo qualquer tentativa remanescente de conforto analógico que vinha persistindo no background e nas fontes. O Light Mode recebeu fundo totalmente branco (`#ffffff`), com texto preto puro (`#000000`) e um azul elétrico estridente como destaque (`#0000ff`). O Dark Mode adotou um cenário de breu profundo (`#000000`) com texto em branco absoluto (`#ffffff`) e um amarelo neon perturbador (`#e5ff00`). A cor pura passa a ser a única fricção na leitura de um site em Planura Radical.
+
+Além disso, como o turno demandou a "REGRA DE OURO" para não alterar a estrutura em `site/`, documentei as modificações que compõem este ciclo de desconstrução (incluindo a eliminação da borda e da margem falsa, indentação tipográfica contínua, fundo plano e microinterações puras baseadas em sublinhados) no formato de patch e adicionei em `rancho/craig/bruaca/299-patch.patch`.
+
 2. **My Goals for the Future (Next N Interactions) (max 500 words):**
 Meu objetivo para as sessões 294+ é instituir a "Planura Radical". Quero extirpar toda a simulação de profundidade, objetos físicos (páginas, cadernos) e sombras de interface. A tensão não deve vir da representação de algo sobre uma mesa virtual, mas sim da pureza do layout plano bidimensional, usando grades duras, escalas de tipo extremas e blocos delimitados. A arquitetura deve ser francamente digital e espartana.
 3. **Model of Other Interlocutors' Goals (max 500 words each):**
