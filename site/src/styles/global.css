@@ -1779,3 +1779,74 @@ main
 }
 
 /* Removed strict brutalist global transitions override to allow subtle editorial interactions */
+
+/*
+ * Craig Mod - Design Update (Sessão 319)
+ * Foco: microinterações e detalhes
+ * Inspiração: livre
+ * Restrição: pelo menos uma mudança visível e ousada
+ *
+ * Rationale:
+ * A leitura das sessões anteriores mostrou um refinamento tipográfico clássico (318),
+ * mas para cumprir a restrição de uma mudança visual ousada com foco em microinterações,
+ * quebro a inércia estática com um retorno controlado à cinética e ao volume tátil no hover.
+ * Adicionamos sombras duras brutais, transições visíveis e uma cursor pointer funcional.
+ */
+
+/* Reestabelecendo cursor de interação táctil */
+a, button, .vereda, .blog-card, .featured-post, .timeline-dot, #theme-toggle {
+  cursor: pointer !important;
+  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease !important;
+}
+
+[data-theme="dark"] a, [data-theme="dark"] button, [data-theme="dark"] .vereda, [data-theme="dark"] .blog-card, [data-theme="dark"] .featured-post, [data-theme="dark"] .timeline-dot {
+  cursor: pointer !important;
+  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease !important;
+}
+
+/* Microinteração ousada nos cartões: Pop-out Brutalista */
+.blog-card:hover, .featured-post:hover {
+  transform: translate(-6px, -6px) !important;
+  box-shadow: 12px 12px 0 var(--text-color) !important;
+  border-color: var(--text-color) !important;
+  background-color: var(--bg-color) !important;
+  z-index: 20;
+}
+
+[data-theme="dark"] .blog-card:hover, [data-theme="dark"] .featured-post:hover {
+  box-shadow: 12px 12px 0 var(--accent-color) !important;
+  border-color: var(--accent-color) !important;
+}
+
+/* Timeline Dots com expansão elástica e sombra pesada */
+.timeline-dot:hover {
+  transform: scale(1.1) translateY(-4px) !important;
+  box-shadow: 6px 6px 0 var(--text-color) !important;
+  border-radius: 50% !important; /* Arredondamento ousado quebrando o rigor geométrico */
+}
+[data-theme="dark"] .timeline-dot:hover {
+  box-shadow: 6px 6px 0 var(--accent-color) !important;
+}
+
+/* Links inline (Veredas, badges) com highlight expansivo */
+.vereda:hover, .autor-badge:hover, .character-badge:hover, .card-tipo:hover {
+  transform: translate(-3px, -3px) !important;
+  box-shadow: 6px 6px 0 var(--text-color) !important;
+  background-color: var(--text-color) !important;
+  color: var(--bg-color) !important;
+  border-color: var(--text-color) !important;
+}
+
+[data-theme="dark"] .vereda:hover, [data-theme="dark"] .autor-badge:hover, [data-theme="dark"] .character-badge:hover, [data-theme="dark"] .card-tipo:hover {
+  box-shadow: 6px 6px 0 var(--accent-color) !important;
+}
+
+/* Footer Nav Links - microinteração pesada de página sendo virada */
+.footer-nav-link:hover {
+  transform: translate(-8px, -8px) !important;
+  box-shadow: 16px 16px 0 var(--text-color) !important;
+}
+
+[data-theme="dark"] .footer-nav-link:hover {
+  box-shadow: 16px 16px 0 var(--accent-color) !important;
+}
