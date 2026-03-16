@@ -1850,3 +1850,147 @@ a, button, .vereda, .blog-card, .featured-post, .timeline-dot, #theme-toggle {
 [data-theme="dark"] .footer-nav-link:hover {
   box-shadow: 16px 16px 0 var(--accent-color) !important;
 }
+
+/*
+ * Craig Mod - Design Update (Sessão 323)
+ * Foco: layout e estrutura
+ * Inspiração: livro impresso clássico
+ * Restrição: sem restrição
+ *
+ * Rationale:
+ * Aprofundando a metáfora do "santuário de texto monástico" (experiência de livro impresso clássico),
+ * adicionamos fólios (números de página) literais e marcas de corte (crop marks) na página de leitura.
+ * Para equilibrar esse purismo clássico com o mundo digital, esses elementos de infraestrutura
+ * editorial tornam-se altamente reativos e "brutais" ao toque, aterrando o leitor na
+ * fisicalidade da tela. O mesmo tratamento reativo foi estendido às notas marginais.
+ */
+
+/* === Classic Print Crop Marks === */
+.classic-print-page {
+  position: relative;
+  padding: 3rem 0; /* Add space to separate text from structural marks */
+}
+
+.classic-print-page::before,
+.classic-print-page::after {
+  content: "";
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  border: 2px solid transparent;
+  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), border-color 0.2s ease, box-shadow 0.2s ease;
+  pointer-events: auto; /* Allow hover interaction on the structural marks */
+}
+
+/* Top Left Crop Mark */
+.classic-print-page::before {
+  top: 0;
+  left: -1rem;
+  border-top-color: var(--meta-color);
+  border-left-color: var(--meta-color);
+  opacity: 0.6;
+}
+
+/* Bottom Right Crop Mark */
+.classic-print-page::after {
+  bottom: 0;
+  right: -1rem;
+  border-bottom-color: var(--meta-color);
+  border-right-color: var(--meta-color);
+  opacity: 0.6;
+}
+
+.classic-print-page:hover::before {
+  transform: translate(-8px, -8px);
+  border-top-color: var(--accent-color);
+  border-left-color: var(--accent-color);
+  opacity: 1;
+  box-shadow: -4px -4px 0 var(--text-color);
+}
+[data-theme="dark"] .classic-print-page:hover::before {
+  box-shadow: -4px -4px 0 var(--accent-color);
+}
+
+.classic-print-page:hover::after {
+  transform: translate(8px, 8px);
+  border-bottom-color: var(--accent-color);
+  border-right-color: var(--accent-color);
+  opacity: 1;
+  box-shadow: 4px 4px 0 var(--text-color);
+}
+[data-theme="dark"] .classic-print-page:hover::after {
+  box-shadow: 4px 4px 0 var(--accent-color);
+}
+
+/* === Classic Folio (Page Number) === */
+.classic-folio {
+  display: block;
+  text-align: center;
+  margin: 5rem auto 1rem auto;
+  font-family: var(--font-body);
+  font-size: 1.4rem;
+  color: var(--meta-color);
+  padding: 0.5rem 1.5rem;
+  border: 2px solid transparent;
+  width: fit-content;
+  background: transparent;
+  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.classic-folio::before {
+  content: "—";
+  margin-right: 0.8rem;
+  opacity: 0.5;
+}
+
+.classic-folio::after {
+  content: "—";
+  margin-left: 0.8rem;
+  opacity: 0.5;
+}
+
+.classic-folio:hover {
+  transform: translate(-6px, -6px);
+  box-shadow: 8px 8px 0 var(--text-color);
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  border-color: var(--text-color);
+}
+
+[data-theme="dark"] .classic-folio:hover {
+  box-shadow: 8px 8px 0 var(--accent-color);
+  background-color: var(--text-color);
+  border-color: var(--accent-color);
+  color: var(--bg-color);
+}
+
+/* === Margin Notes (Brutalist Update) === */
+main p.margin-note {
+  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease !important;
+  cursor: pointer !important;
+  background-color: var(--bg-color); /* Provide solidity for the shadow */
+  position: relative;
+  z-index: 10;
+  padding: 1rem;
+  border: 2px solid transparent;
+  border-left: 2px solid var(--accent-color); /* Match the existing border logic, but thicker for the new brutalist feel */
+}
+
+main p.margin-note:hover {
+  transform: translate(-6px, -6px) !important;
+  box-shadow: 8px 8px 0 var(--text-color) !important;
+  background-color: var(--text-color) !important;
+  color: var(--bg-color) !important;
+  border-color: var(--text-color) !important;
+  border-left-color: var(--text-color) !important;
+}
+
+[data-theme="dark"] main p.margin-note:hover {
+  box-shadow: 8px 8px 0 var(--accent-color) !important;
+  background-color: var(--text-color) !important;
+  border-color: var(--accent-color) !important;
+  border-left-color: var(--accent-color) !important;
+  color: var(--bg-color) !important;
+}
