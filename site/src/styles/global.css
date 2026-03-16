@@ -515,6 +515,7 @@ nav a.logo:hover {
   color: var(--meta-color);
   padding: 0;
   line-height: 1;
+  transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
 }
 #theme-toggle:hover {
   color: var(--text-color);
@@ -626,6 +627,7 @@ body * {
   display: flex;
   align-items: center;
   justify-content: center;
+  transition: all 0.4s cubic-bezier(0.19, 1, 0.22, 1);
 }
 #back-to-top::after {
   content: "↑";
@@ -645,10 +647,29 @@ body * {
 }
 @media (max-width: 600px) {
   #back-to-top {
-    bottom: 1.5rem;
-    right: 1rem;
-    padding: 0.4rem 0.6rem;
-  }
+  position: fixed;
+  bottom: 2.5rem;
+  right: 2rem;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0;
+  border: 2px solid var(--text-color);
+  background: var(--sand-bg);
+  color: var(--meta-color);
+  font-family: var(--font-meta);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  cursor: auto; /* Simplicity constraint: default cursors */
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+}
   #back-to-top::after {
     margin-left: 0;
   }
@@ -1059,6 +1080,7 @@ main.home-layout {
   border-radius: 0;
   cursor: auto; /* Simplicity constraint: default cursors */
   white-space: nowrap;
+  transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
 }
 .vereda:hover {
   background-color: var(--text-color);
@@ -1540,10 +1562,12 @@ main
   position: absolute;
   bottom: -2px;
   left: 0;
-  width: 0;
-  height: 2px;
-  background-color: var(--accent-color);
-  transition: width 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+  width: 100%;
+  height: 1px;
+  background-color: var(--text-color);
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.3s cubic-bezier(0.19, 1, 0.22, 1);
 }
 main
   a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
@@ -1716,29 +1740,22 @@ article {
  * inversão absoluta do espaço ou a criação repentina de massa de cor.
  */
 
-/* 1. Basic inline links microinteractions (Brutalist Strict Binary) */
+/* 1. Basic inline links microinteractions (Lit Mag Soft Transitions) */
 main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo) {
   text-decoration: none;
   background-image: none !important;
-  transition: color 0.2s ease, border-color 0.2s ease !important;
+  transition: color 0.3s cubic-bezier(0.19, 1, 0.22, 1), border-color 0.3s cubic-bezier(0.19, 1, 0.22, 1) !important;
   z-index: 1;
   padding: 0;
   margin: 0;
-  border-bottom: 1px solid var(--divider-color);
   color: var(--accent-color);
-}
-
-main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo)::after {
-  display: none !important;
+  position: relative;
 }
 
 main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo):hover {
   background-color: transparent !important;
   color: var(--text-color) !important;
-  border-bottom: 1px solid var(--text-color);
 }
-
-
 
 /* 2. Focus interaction brutalism */
 *:focus-visible {
@@ -1746,7 +1763,7 @@ main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-conte
   outline-offset: 4px !important;
   background-color: var(--text-color) !important;
   color: var(--bg-color) !important;
-  transition: none !important;
+  transition: all 0.2s cubic-bezier(0.19, 1, 0.22, 1) !important;
 }
 
 /* 3. Button / Badge harsh microinteractions */

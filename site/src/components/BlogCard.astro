@@ -40,16 +40,40 @@ const {
   .blog-card {
     display: block;
     text-decoration: none;
-    padding: 2rem 0 !important;
+    padding: 2.5rem 2rem !important;
     margin-bottom: 0 !important;
     border: none !important;
     border-bottom: 1px solid var(--divider-color) !important;
     background-color: transparent !important;
     box-shadow: none !important;
+    position: relative;
+    transition: transform 0.4s cubic-bezier(0.19, 1, 0.22, 1), border-color 0.4s ease;
+  }
+
+  .blog-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background-color: var(--sand-bg);
+    opacity: 0;
+    z-index: -1;
+    transform: scale(0.98);
+    transition: opacity 0.4s ease, transform 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+  }
+
+  :global([data-theme="dark"]) .blog-card::before {
+    background-color: rgba(255,255,255,0.03);
   }
 
   .blog-card:hover {
     background-color: transparent !important;
+    transform: translateX(0.5rem);
+    border-bottom-color: var(--text-color) !important;
+  }
+
+  .blog-card:hover::before {
+    opacity: 1;
+    transform: scale(1);
   }
 
   .card-titulo {

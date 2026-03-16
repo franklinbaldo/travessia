@@ -41,6 +41,32 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
     border-top: 1px solid var(--divider-color);
     border-bottom: 1px solid var(--divider-color);
     color: var(--text-color);
+    position: relative;
+    transition: background-color 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+  }
+
+  .featured-post::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background-color: var(--sand-bg);
+    opacity: 0;
+    z-index: -1;
+    transform: scaleY(0.95);
+    transition: opacity 0.4s ease, transform 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+  }
+
+  :global([data-theme="dark"]) .featured-post::before {
+    background-color: rgba(255,255,255,0.03);
+  }
+
+  .featured-post:hover {
+    border-color: var(--text-color);
+  }
+
+  .featured-post:hover::before {
+    opacity: 1;
+    transform: scaleY(1);
   }
 
   .featured-post:hover .card-titulo {
