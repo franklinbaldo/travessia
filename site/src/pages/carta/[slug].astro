@@ -107,7 +107,7 @@ function autorClasse(autorName: string): string {
     border: none !important;
     border-bottom: 1px solid var(--divider-color) !important;
     background: transparent !important;
-    max-width: 100% !important;
+    max-width: 60ch !important;
     text-align: center !important;
     color: var(--text-color) !important;
     letter-spacing: normal !important;
@@ -190,14 +190,14 @@ function autorClasse(autorName: string): string {
     border: none !important;
     margin: 0 auto !important;
     max-width: 100% !important;
-    font-family: var(--font-body) !important;
+    font-family: 'Cormorant Garamond', Georgia, serif !important;
     position: relative;
   }
 
   :global(.manuscrito-body) {
     display: block !important;
     width: 100% !important;
-    max-width: 100% !important;
+    max-width: 60ch !important;
     margin: 0 auto !important;
     position: relative;
     padding: 0 0 4rem 0 !important;
@@ -213,18 +213,19 @@ function autorClasse(autorName: string): string {
   }
 
   :global(.manuscrito-body p) {
-    text-indent: 1.5rem !important;
+    text-indent: 2.5rem !important;
     max-width: 100% !important;
-    text-align: left !important;
+    text-align: justify !important;
     background-color: transparent !important;
-    margin-bottom: 1.5rem !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
     color: var(--text-color) !important;
-    font-size: 1.2rem !important;
-    line-height: 1.85 !important;
-    letter-spacing: 0.01em !important;
-    word-spacing: normal !important;
+    font-size: 1.25rem !important;
+    line-height: 1.6 !important;
+    letter-spacing: normal !important;
+    word-spacing: -0.02em !important;
     hyphens: auto !important;
-    font-family: var(--font-body) !important;
+    font-family: 'Cormorant Garamond', Georgia, serif !important;
     border: none !important;
     padding: 0 !important;
   }
@@ -236,26 +237,27 @@ function autorClasse(autorName: string): string {
 
   :global(.manuscrito-body p:first-of-type::first-letter) {
     float: left;
-    font-size: 5rem;
+    font-size: 4.8rem;
     line-height: 0.8;
-    padding: 0.1em 0.15em 0 0;
-    margin-top: -0.1em;
+    padding: 0.1em 0.1em 0 0;
+    margin-top: -0.05em;
     color: var(--text-color);
-    font-family: var(--font-body);
+    font-family: 'Cormorant Garamond', Georgia, serif;
     font-style: normal;
     font-weight: 700;
   }
 
   :global(.manuscrito-body blockquote) {
     background-color: transparent !important;
-    border-left: 1px solid var(--divider-color) !important;
-    margin: 2.5rem 0 2.5rem 2rem !important;
-    padding: 0 0 0 1.5rem !important;
+    border-left: none !important;
+    margin: 2rem 2.5rem !important;
+    padding: 0 !important;
     box-shadow: none !important;
     font-style: italic;
     color: var(--meta-color) !important;
     font-size: 1.15rem !important;
-    line-height: 1.8 !important;
+    line-height: 1.6 !important;
+    text-align: justify !important;
   }
 
 /* === MANUSCRITO TIMELINE - MICROINTERAÇÕES E DETALHES === */
