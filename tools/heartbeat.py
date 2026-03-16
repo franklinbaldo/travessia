@@ -58,6 +58,11 @@ ARCHIVE_ROUTES = {
     ("riobaldo", "ze bebelo"): "cartas/riobaldo-zebebelo",
     ("riobaldo", "doutor joão"): "cartas/riobaldo-doutor_joao",
     ("riobaldo", "doutor joao"): "cartas/riobaldo-doutor_joao",
+    # Franklin Silveira Baldo ↔ Riobaldo (author confrontation)
+    ("franklin", "riobaldo"): "cartas/franklin-riobaldo",
+    ("riobaldo", "franklin"): "cartas/franklin-riobaldo",
+    ("franklin silveira baldo", "riobaldo"): "cartas/franklin-riobaldo",
+    ("riobaldo", "franklin silveira baldo"): "cartas/franklin-riobaldo",
 }
 
 # Filename patterns for the archive — how the file should be named in cartas/
@@ -66,6 +71,7 @@ ARCHIVE_NAMES = {
     "cartas/ted-tyler": "{num}-{suffix}.md",  # e.g. 03-tyler.md
     "cartas/riobaldo-zebebelo": "{num}-carta-ze_bebelo.md",
     "cartas/riobaldo-doutor_joao": "{num}-carta-doutor_joao.md",
+    "cartas/franklin-riobaldo": "{num}-{suffix}.md",  # e.g. 001-franklin.md or 001-rio.md
 }
 
 
