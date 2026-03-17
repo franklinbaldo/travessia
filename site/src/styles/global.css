@@ -1994,3 +1994,122 @@ main p.margin-note:hover {
   border-left-color: var(--accent-color) !important;
   color: var(--bg-color) !important;
 }
+
+/* === Pop-Brutalist Footnotes === */
+
+.manuscrito-body sup > a {
+  display: inline-block;
+  font-family: var(--font-meta);
+  font-size: 0.75rem;
+  font-weight: bold;
+  color: var(--bg-color);
+  background-color: var(--text-color);
+  padding: 0.1rem 0.3rem;
+  margin-left: 0.2rem;
+  border-radius: 0;
+  text-decoration: none;
+  box-shadow: 2px 2px 0 var(--meta-color);
+  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.2s ease, background-color 0.2s ease;
+  vertical-align: super;
+  line-height: 1;
+}
+
+.manuscrito-body sup > a:hover {
+  transform: translate(-2px, -2px) scale(1.1);
+  box-shadow: 4px 4px 0 var(--accent-color);
+  background-color: var(--accent-color);
+}
+
+.manuscrito-body section.footnotes {
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 4px solid var(--text-color);
+}
+
+.manuscrito-body section.footnotes h2.sr-only {
+  display: none;
+}
+
+.manuscrito-body section.footnotes ol {
+  padding-left: 0;
+  list-style-type: none;
+  counter-reset: footnote-counter;
+}
+
+.manuscrito-body section.footnotes li {
+  position: relative;
+  font-family: var(--font-meta);
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--text-color);
+  background-color: var(--bg-color);
+  border: 2px solid var(--text-color);
+  padding: 1rem 1.5rem 1rem 3rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 4px 4px 0 var(--text-color);
+  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.2s ease;
+  counter-increment: footnote-counter;
+}
+
+[data-theme="dark"] .manuscrito-body section.footnotes li {
+  background-color: var(--sand-bg);
+}
+
+.manuscrito-body section.footnotes li::before {
+  content: counter(footnote-counter);
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 2.5rem;
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.manuscrito-body section.footnotes li:hover {
+  transform: translate(-4px, -4px);
+  box-shadow: 8px 8px 0 var(--accent-color);
+  border-color: var(--accent-color);
+}
+
+.manuscrito-body section.footnotes li:hover::before {
+  background-color: var(--accent-color);
+}
+
+.manuscrito-body section.footnotes li p {
+  margin: 0;
+  text-indent: 0 !important;
+  font-family: var(--font-meta) !important;
+  font-size: 0.95rem !important;
+}
+
+.manuscrito-body section.footnotes a.data-footnote-backref {
+  display: inline-block;
+  margin-left: 0.5rem;
+  text-decoration: none;
+  color: var(--meta-color);
+  font-weight: bold;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.manuscrito-body section.footnotes a.data-footnote-backref:hover {
+  color: var(--accent-color);
+  transform: scale(1.2);
+}
+
+/* Fix for drop caps in footnotes */
+.manuscrito-body section.footnotes p:first-of-type::first-letter {
+  font-size: 1em;
+  float: none;
+  line-height: inherit;
+  padding: 0;
+  margin: 0;
+  font-family: inherit;
+  font-weight: inherit;
+  color: inherit;
+}
