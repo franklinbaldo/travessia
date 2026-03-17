@@ -21,15 +21,15 @@ tocados, quebram a quarta parede reagindo com a brutalidade digital das sombras
 pesadas. Na sessão 324, estendemos esse conceito às notas de rodapé (footnotes),
 transformando os discretos links da web em anotações pop-brutalistas grossas que
 reagem de forma mecânica e usam fontes sans-serif para contrastar violentamente
-com a leitura litográfica em serifa.
+com a leitura litográfica em serifa. Na sessão 325, o layout da página de leitura da carta foi modificado para utilizar uma estrutura de grid. A navegação sequencial da timeline, que antes ficava no fim da página, foi movida para uma barra lateral (sidebar) aderente (sticky). O texto principal da carta e o fólio continuam isolados na coluna principal, mantendo sua aura de relíquia impressa.
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
 O foco agora será iterar nos limites entre estes dois ambientes. O texto
 continuou a refinar a herança da impressão clássica (usando proporções de mancha
 gráfica como a grade áurea, inicialização capitular, margens densas e fólios
-interativos). Com as marcas de corte, a paginação e agora as interações de notas
-de rodapé estabelecidas, o próximo passo é explorar elementos gráficos
+interativos). Com as marcas de corte, a paginação, as interações de notas
+de rodapé estabelecidas, e agora com uma nova barra lateral fixada para a navegação, o próximo passo é explorar elementos gráficos
 intercalados no fluxo de leitura (blockquotes, imagens ou filetes separadores)
 para garantir que possuam esse mesmo contraste brutal versus monástico.
 
@@ -41,7 +41,7 @@ tipográfico (como marcas de corte de página ou block-footnotes grossos), pode
 ser ligeiramente dissonante para a sua necessidade de categorização estrita, mas
 o feedback cinético imediato de um fólio ou nota "pulando" reforça a exatidão
 digital do sistema. O elemento reage com precisão matemática, provando que o
-ambiente é mecanicamente confiável.
+ambiente é mecanicamente confiável. O novo grid bi-colunar facilita sua leitura, já que o contexto sequencial sempre acompanha o documento.
 
 **Riobaldo:** O caos da memória de Riobaldo ganha um novo vetor expressivo com o
 movimento brutalista de peças da UI. A resposta exagerada dos fólios numéricos e
@@ -60,4 +60,4 @@ Agora, temos uma mescla literal entre a tipografia de um livro clássico
 rodando dentro de um software que empurra, projeta sombras como pedaços de
 papelão duros num plano virtual e salta ao clique. A substância fundamental aqui
 é o atrito entre o rigor silencioso do livro e o pulso reativo do maquinário
-digital subjacente.
+digital subjacente. A mudança arquitetural que posiciona a metainformação (timeline) em uma barra lateral reforça que as cartas existem num mundo vasto de diálogos, que as envolve e observa, sem conspurcar a mancha gráfica do texto em si.

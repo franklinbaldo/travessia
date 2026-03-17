@@ -35,55 +35,59 @@ function autorClasse(autorName: string): string {
 ---
 
 <Layout title={`${titulo} | Travessia`}>
-  <article>
-    <header class="editorial-header">
-      <div class="editorial-meta-top">
-        <time datetime={entry.data.data ? entry.data.data.toISOString() : ''}>
-          {entry.data.data ? formatDate(new Date(entry.data.data)) : ''}
-        </time>
-        {prev && (
-          <div class="editorial-context">
-            <span>Em resposta a</span>
-            <span class="context-author">{prev.data.autor}</span>
-          </div>
-        )}
+  <div class="carta-layout-grid">
+    <aside class="carta-sidebar">
+      <header class="editorial-header">
+        <div class="editorial-meta-top">
+          <time datetime={entry.data.data ? entry.data.data.toISOString() : ''}>
+            {entry.data.data ? formatDate(new Date(entry.data.data)) : ''}
+          </time>
+          {prev && (
+            <div class="editorial-context">
+              <span>Em resposta a</span>
+              <span class="context-author">{prev.data.autor}</span>
+            </div>
+          )}
+        </div>
+
+        <h1>{titulo}</h1>
+
+        <div class="editorial-byline">
+          <span class="byline-label">Por</span>
+          <span class={`byline-author autor-${isRio ? 'rio' : 'ted'}`}>{autor}</span>
+        </div>
+      </header>
+
+      <div class="correspondence-timeline">
+        <span class="timeline-label">Sequência da correspondência</span>
+        <div class="timeline-dots">
+          {sorted.map((item: any, index: number) => {
+            const isCurrentItem = item.id === entry.id;
+            const isItemTed = !item.data.autor.includes('Riobaldo');
+            return (
+              <a
+                href={`${base}carta/${item.id}`}
+                class={`timeline-dot ${isCurrentItem ? 'current' : ''} ${isItemTed ? 'ted' : 'rio'}`}
+                aria-label={`Carta ${index + 1}: ${item.data.autor}`}
+                aria-current={isCurrentItem ? 'page' : undefined}
+                title={item.data.titulo}
+              >
+                {index + 1}
+              </a>
+            );
+          })}
+        </div>
       </div>
+    </aside>
 
-      <h1>{titulo}</h1>
-
-      <div class="editorial-byline">
-        <span class="byline-label">Por</span>
-        <span class={`byline-author autor-${isRio ? 'rio' : 'ted'}`}>{autor}</span>
+    <article class="carta-content">
+      <div class={`manuscrito-body classic-print-page ${isRio ? 'carta-riobaldo' : ''}`}>
+        <Content />
+        <div class="classic-folio" data-folio={entry.id.split('-')[0]}>
+          {entry.id.split('-')[0]}
+        </div>
       </div>
-    </header>
-
-    <div class={`manuscrito-body classic-print-page ${isRio ? 'carta-riobaldo' : ''}`}>
-      <Content />
-      <div class="classic-folio" data-folio={entry.id.split('-')[0]}>
-        {entry.id.split('-')[0]}
-      </div>
-    </div>
-  </article>
-
-  <div class="correspondence-timeline">
-    <span class="timeline-label">Sequência da correspondência</span>
-    <div class="timeline-dots">
-      {sorted.map((item: any, index: number) => {
-        const isCurrentItem = item.id === entry.id;
-        const isItemTed = !item.data.autor.includes('Riobaldo');
-        return (
-          <a
-            href={`${base}carta/${item.id}`}
-            class={`timeline-dot ${isCurrentItem ? 'current' : ''} ${isItemTed ? 'ted' : 'rio'}`}
-            aria-label={`Carta ${index + 1}: ${item.data.autor}`}
-            aria-current={isCurrentItem ? 'page' : undefined}
-            title={item.data.titulo}
-          >
-            {index + 1}
-          </a>
-        );
-      })}
-    </div>
+    </article>
   </div>
 
   <FooterNav
@@ -104,14 +108,54 @@ function autorClasse(autorName: string): string {
 
 <style>
       /* Editorial Magazine Header - Contemporary */
+  /* Layout Grid for Letter Page */
+  .carta-layout-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+    max-width: 1400px;
+    margin: 4rem auto;
+    align-items: start;
+  }
+
+  @media (min-width: 1024px) {
+    .carta-layout-grid {
+      grid-template-columns: 350px 1fr;
+      gap: 6rem;
+    }
+  }
+
+  .carta-sidebar {
+    position: sticky;
+    top: 4rem;
+    height: max-content;
+    padding-right: 2rem;
+    border-right: 2px solid var(--text-color);
+  }
+
+  @media (max-width: 1023px) {
+    .carta-sidebar {
+      position: static;
+      border-right: none;
+      border-bottom: 2px solid var(--text-color);
+      padding-right: 0;
+      padding-bottom: 2rem;
+    }
+  }
+
+  .carta-content {
+    max-width: 100%;
+    overflow: hidden;
+  }
+
   .editorial-header {
-    margin: 6rem auto 4rem auto !important;
-    padding: 0 0 2.5rem 0 !important;
+    margin: 0 0 3rem 0 !important;
+    padding: 0 0 2rem 0 !important;
     border: none !important;
-    border-bottom: 1px solid var(--divider-color) !important;
+    border-bottom: 2px solid var(--text-color) !important;
     background: transparent !important;
-    max-width: 60ch !important;
-    text-align: center !important;
+    max-width: 100% !important;
+    text-align: left !important;
     color: var(--text-color) !important;
     letter-spacing: normal !important;
   }
@@ -124,9 +168,10 @@ function autorClasse(autorName: string): string {
 
   .editorial-meta-top {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 1.5rem;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 0.5rem;
     font-family: var(--font-meta);
     font-size: 0.8rem;
     text-transform: uppercase;
@@ -150,26 +195,25 @@ function autorClasse(autorName: string): string {
 
   .editorial-header h1 {
     font-family: var(--font-body);
-    font-size: clamp(2.5rem, 5vw, 4.2rem);
+    font-size: clamp(2.5rem, 4vw, 3.5rem);
     line-height: 1.15;
     margin: 0 0 1.5rem 0;
     color: var(--text-color);
     font-weight: 300;
     letter-spacing: -0.01em;
     font-style: italic;
-    text-align: center;
+    text-align: left;
   }
 
   .editorial-byline {
     font-family: var(--font-body);
     font-size: 1.15rem;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     gap: 0.5rem;
     align-items: center;
     border: none;
     padding: 0;
-    display: inline-flex;
     font-style: italic;
   }
 
@@ -265,11 +309,10 @@ function autorClasse(autorName: string): string {
 
 /* === MANUSCRITO TIMELINE - MICROINTERAÇÕES E DETALHES === */
   .correspondence-timeline {
-    margin-top: 5rem;
-    padding: 3rem 0;
+    margin-top: 0;
+    padding: 0;
     background-color: transparent;
     border: none;
-    border-top: 1px solid var(--divider-color);
     text-align: left;
     position: relative;
   }
@@ -294,12 +337,10 @@ function autorClasse(autorName: string): string {
   .timeline-dots {
     display: flex;
     justify-content: flex-start;
-    gap: 1.5rem;
-    overflow-x: auto;
-    flex-wrap: nowrap;
-    padding-bottom: 2rem;
-    padding-top: 1.5rem; /* Add padding to prevent clipping of the current scale and rotation */
-    scrollbar-width: thin;
+    gap: 1rem;
+    flex-wrap: wrap;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
     position: relative;
     z-index: 2;
   }
