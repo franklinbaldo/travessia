@@ -68,21 +68,21 @@ button,
 }
 ::selection {
   background-color: var(--accent-color);
-  color: #ffffff;
+  color: var(--bg-color);
   text-shadow: none;
 }
 ::-moz-selection {
   background-color: var(--accent-color);
-  color: #ffffff;
+  color: var(--bg-color);
 }
 [data-theme="dark"] ::selection {
   background-color: var(--accent-color);
-  color: #ffffff;
+  color: var(--bg-color);
   text-shadow: none;
 }
 [data-theme="dark"] ::-moz-selection {
   background-color: var(--accent-color);
-  color: #ffffff;
+  color: var(--bg-color);
 }
 body {
   margin: 0;
@@ -2118,4 +2118,68 @@ main p.margin-note:hover {
   font-family: inherit;
   font-weight: inherit;
   color: inherit;
+}
+
+/*
+ * Craig Mod - Design Update (Sessão 334)
+ * Foco: microinterações e detalhes
+ * Inspiração: manuscrito/caderno
+ * Restrição: pelo menos uma mudança visível e ousada
+ *
+ * Rationale:
+ * A experiência brutalista precisa de um aterramento tátil para não se tornar apenas um painel de controle alienígena.
+ * Introduzindo a "Marca d'Água do Manuscrito": elementos interativos e links (veredas, badges) agora não apenas invertem a cor,
+ * mas revelam uma textura subjacente, um ruído de papel/tinta (simulado via CSS background-image radial-gradient brutalista),
+ * transformando a área chapada em um bloco de "carimbo" ou "tipografia prensada".
+ * O hover não é apenas uma mudança de estado, é a revelação da matriz física sob a tela digital.
+ */
+
+/* The Bold Microinteraction: Brutalist Ink Stamp Reveal */
+.vereda:hover,
+.autor-badge:hover,
+.character-badge:hover,
+.card-tipo:hover,
+.timeline-dot:hover,
+.classic-folio:hover,
+main p.margin-note:hover,
+.footer-nav-link:hover {
+  background-image: radial-gradient(var(--bg-color) 1px, transparent 1px),
+    radial-gradient(var(--bg-color) 1px, transparent 1px) !important;
+  background-size: 8px 8px !important;
+  background-position: 0 0, 4px 4px !important;
+  background-color: var(--text-color) !important;
+  color: var(--bg-color) !important;
+  border-color: var(--text-color) !important;
+  transform: translate(-4px, -4px) !important;
+  /* Hard shadow removed to keep flatness, but movement retained */
+}
+
+/* Redefining the link inline hover to feel like a thick highlighter pen stroke from a notebook */
+main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo):hover {
+  background-color: var(--text-color) !important;
+  color: var(--bg-color) !important;
+  padding: 0 0.2em;
+  margin: 0 -0.2em;
+  border-radius: 0;
+}
+
+/* The horizontal line (hr) becomes a bold physical notebook margin separator */
+hr {
+  border-top: 4px solid var(--text-color);
+  opacity: 1;
+  position: relative;
+  margin: 5rem 0;
+}
+hr::after {
+  content: "§";
+  position: absolute;
+  top: -1.2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--bg-color);
+  padding: 0 1rem;
+  color: var(--text-color);
+  font-family: var(--font-body);
+  font-size: 1.5rem;
+  font-weight: bold;
 }
