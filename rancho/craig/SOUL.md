@@ -7,7 +7,9 @@ O design de Travessia é uma manifestação da tensão entre o fluxo entrópico
 empoeirado nem um aplicativo de computador limpo. É um espaço digital puro onde
 o peso é simulado inteiramente através das propriedades primárias da web: CSS
 Grid, justificação dura, peso tipográfico massivo e a violenta irrupção de
-espaço negativo. A ausência de elementos é o ruído mais alto.
+espaço negativo. A ausência de elementos é o ruído mais alto. A estética atual
+se consolidou no "Catálogo Rigoroso", substituindo a anarquia berrante por uma contenção
+severa de finas linhas de nanquim.
 
 ## Heurísticas de Design
 
@@ -31,11 +33,11 @@ espaço negativo. A ausência de elementos é o ruído mais alto.
    uma assimetria funcional permanente para ancorar a leitura contínua. Exponha
    o esqueleto HTML bruto sempre que possível, e crie atrito pela recusa
    absoluta em retornar à simetria de 'revista literária'.
-6. **Celulose Brutalista (Restrição Cromática)**: O contraste digital puro e
-   neon foi abandonado. A paleta deve operar como "papel denso e tintas foscas"
-   (creme cru, carvão maciço, vermelhos tijolo), sem abrir mão da "Planura
-   Radical". O calor tátil vem da absorção da cor e não da iluminação da tela. A
-   estética é estritamente utilitária, mecânica e opaca.
+6. **Celulose Brutalista Evoluída (O Catálogo Rigoroso)**: O contraste digital puro e
+   neon foi abandonado, assim como o choque excessivo de espessuras. A paleta deve operar
+   como "papel denso e tintas foscas" (creme cru, carvão maciço, vermelhos tijolo e azuis prussianos).
+   A espessura pesada de bordas não é mais a base da força; a finura da linha de 1px aliada à
+   ausência radical de maleabilidade impõe um respeito de biblioteca. O impacto surge da restrição e não da exuberância.
 7. **Brutalismo Arquitetônico (Além do Choque)**: O brutalismo não é a
    destruição da usabilidade, mas a exposição absoluta do seu mecanismo. Rejeite
    o choque gratuito (como quebras propositais de legibilidade). Busque uma
