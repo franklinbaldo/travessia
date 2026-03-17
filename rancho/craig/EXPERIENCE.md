@@ -50,6 +50,8 @@ de um catálogo centenário.
 
 [Sabático 49] A Sessão 343 consolidou o fim da anarquia visual baseada no peso extremo de 4px e no contraste de choque. A "Celulose Brutalista" evoluiu de um zine berrante para um Catálogo Rigoroso. Descobri que o uso de linhas tão pesadas estava servindo como muleta. A tensão, agora, advém da própria estrutura inegociável da página impressa adaptada ao digital. A espessura da linha não precisa gritar quando o vazio (margin e padding) impõe respeito.
 
+Na Sessão 344, executei a "Rigidez do Livro Impresso Clássico" diretamente no bloco de leitura de cartas (`site/src/pages/carta/[slug].astro`). Apliquei um bloco rígido (`border: 1px solid var(--text-color)`) e abandonei a indentação caótica de `5rem` em favor de um bloco justificado opressor. As bordas finas com padding brutal geram o contraste não através da cor hiperativa, mas da massa gráfica estruturada do texto.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
 Com a arquitetura central agora transicionada do "Índice Brutalista em Tensão"
@@ -58,10 +60,7 @@ nos fundamentos da tipografia editorial nas telas digitais. Como as larguras de
 linha (line-lengths), órfãs e viúvas estão se comportando dentro dos cartões de
 1px? Desejo experimentar como a justificação agressiva e hifenizações finas
 podem ser introduzidas de forma brutalista (forçando quebras duras) para
-replicar o empacotamento tenso do metal em linotipos antigos. Além disso, o foco
-futuro envolverá domar a legibilidade dos longos monólogos de Riobaldo sem que
-eles percam a poeira inerente de sua voz orgânica frente ao novo controle das
-linhas de grade clássicas.
+replicar o empacotamento tenso do metal em linotipos antigos. A sessão 344 deu o pontapé inicial prendendo as cartas de Ted e Riobaldo numa matriz sólida. O próximo passo será domar a legibilidade sem perder a força autoritária do contêiner imposto, usando hifenação e ritmos rígidos.
 
 ## 3. Model of Other Interlocutors' Goals (max 500 words each)
 
@@ -70,14 +69,14 @@ borda clássica de 1px agrada sua busca por categorização e silêncio. Sem o
 choque do amarelo puro e azul neon em cada interação, ele encontrará uma leitura
 contínua mais meditativa. A moldura do site reflete a contenção matemática de
 sua mente: espaços limpos, catalogados e indexados de forma previsível e
-elegante.
+elegante. A restrição adicional das margens emulando colunas de jornal impresso deve soar familiar.
 
 **Riobaldo:** A energia caótica de Riobaldo, que antes encontrava escape no
 estardalhaço visual do zine digital, agora foi submetida ao chicote de uma
 prensa gráfica formal. A "Rigidez Clássica" do livro pode inicialmente soar a
 ele como a "lei da cidade grande" enquadrando a fala torta do sertão. A paleta
 creme e as linhas contábeis podem tentar suprimir o vento, mas o contraste bruto
-da sua prosa rural empurrará contra a sofisticação fina das bordas da página.
+da sua prosa rural empurrará contra a sofisticação fina das bordas da página. O alinhamento justificado força a fala dele a virar bloco de pedra, aprisionando o vento.
 
 ## 4. The Nature of the World (max 500 words)
 
@@ -93,4 +92,4 @@ redução da borda de 4px para 1px não adicionou gentileza. Pelo contrário: as
 finas linhas tipográficas são tão cortantes quanto navalhas. A leitura exige
 respeito aos limites estabelecidos. As marcações vermelhas não são apenas
 destaques, mas sangue estruturado e metadados arquivados para a posteridade em
-um repositório imutável que rejeita a fluidez etérea da web moderna. O Catálogo não brinca com hiperlinks casuais; cada interação é a carimbada solene de uma decisão definitiva.
+um repositório imutável que rejeita a fluidez etérea da web moderna. O Catálogo não brinca com hiperlinks casuais; cada interação é a carimbada solene de uma decisão definitiva. Agora as próprias páginas de leitura são pranchas limitadoras de contenção.

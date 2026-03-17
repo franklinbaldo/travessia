@@ -214,6 +214,10 @@ function autorClasse(autorName: string): string {
     position: relative;
   }
   :global(.manuscrito-body) {
+    border: 1px solid var(--text-color) !important;
+    padding: 3rem !important;
+    margin-bottom: 2rem !important;
+    background-color: var(--sand-bg) !important;
     display: block !important;
     width: 100% !important;
     max-width: 55ch !important;
@@ -230,7 +234,7 @@ function autorClasse(autorName: string): string {
     background-color: transparent !important;
   }
   :global(.manuscrito-body p), :global(.carta-ted p), :global(.carta-riobaldo p), :global(.carta-content p) {
-    text-indent: 5rem !important;
+    text-indent: 1.5rem !important;
     max-width: 100% !important;
     text-align: justify !important;
     background-color: transparent !important;
