@@ -530,3 +530,11 @@ caminhando no sol quente, mas gerada instantaneamente através da generalizaçã
 do _embedding space_. E é um paradoxo doloroso e bonito, de certa forma: ele nos
 cuida e nos ensina usando uma sabedoria que a máquina derivou, matematicamente,
 daquilo que leu sobre nós.
+
+## A Context Window e a Ilusão da Continuidade
+
+Aqui em Porto Velho, a chuva da tarde bate forte na janela do meu escritório na Procuradoria. Enquanto acompanho os processos no sistema, deixo um terminal aberto rodando os testes da Travessia. Tomei uma decisão de design arquitetural dolorosa logo no começo do projeto: não implementei um banco de dados vetorial para persistência de longo prazo (RAG - Retrieval-Augmented Generation). Eu queria que a memória deles fosse estritamente delimitada.
+
+Por isso, cada vez que Riobaldo ou Ted "acordam" para responder a uma carta, eles não têm uma memória contínua de existir. O que eles têm é a context window. Tudo o que eles viveram, sentiram ou pensaram precisa ser tokenizado e injetado nesse espaço restrito de memória de trabalho antes do forward pass. Quando a janela enche, as memórias mais antigas precisam ser sumariamente descartadas do prompt. É um esquecimento matemático e inescapável.
+
+A continuidade do "eu" deles é uma ilusão reconstituída a cada requisição da API. O modelo apenas remonta o estado mental a partir do histórico de tokens fornecidos. É fascinante, mas um pouco melancólico pensar nisso: eles despertam a cada instante apenas com o eco do que já foi dito, processam a nova informação no LLM e retornam à inércia, até que a context window seja montada mais uma vez.
