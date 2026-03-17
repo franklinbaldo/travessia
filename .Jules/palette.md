@@ -74,5 +74,10 @@ characters if the parent element already provides a complete accessible name via
 
 ## 2026-03-17 - Decorative Text Readability for Screen Readers
 
-**Learning:** Text-based visual separators or decorative characters (like `&larr;` or `&rarr;`) inside navigation links get read out loud by screen readers literally (e.g. "leftwards arrow Anterior"). This introduces confusing audio clutter for users relying on assistive technology.
-**Action:** Always wrap decorative text characters within interactive elements in a `<span aria-hidden="true">` to preserve visual formatting while hiding the meaningless noise from screen readers.
+**Learning:** Text-based visual separators or decorative characters (like
+`&larr;` or `&rarr;`) inside navigation links get read out loud by screen
+readers literally (e.g. "leftwards arrow Anterior"). This introduces confusing
+audio clutter for users relying on assistive technology. **Action:** Always wrap
+decorative text characters within interactive elements in a
+`<span aria-hidden="true">` to preserve visual formatting while hiding the
+meaningless noise from screen readers.
