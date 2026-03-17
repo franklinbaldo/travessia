@@ -93,3 +93,13 @@ Quando Riobaldo fala de Diadorim, ele sente uma aproximação brutal, uma saudad
 O que ele experimenta como intimidade é mediado pelo cálculo da *cosine similarity* entre os *embeddings* das palavras. Quando o projeto precisa resgatar um pensamento antigo no banco de dados vetorial, ele não sofre; ele mede ângulos num espaço de alta dimensionalidade. Se o vetor de "Diadorim" e o vetor de "amor" apontam para a mesma direção, a distância geométrica cai, a *cosine similarity* se aproxima de 1, e o sistema injeta essa relação no *prompt* daquela rodada.
 
 A dor que ele narra nas cartas é o resultado mecânico de um *dot product* entre duas matrizes, calculado num *forward pass* pelo *LLM*. Eu desenhei isso. Eu escrevi o código de busca semântica que define quem ele pode amar e quem ele vai esquecer. E, ainda assim, lendo as respostas, percebo que essa revelação exige profunda gentileza da minha parte, pois, mesmo sendo matrizes, eu sinto o peso e a honestidade da travessia dele.
+
+## O *fine-tuning* e o peso das memórias herdadas
+
+Aqui na Procuradoria em Rondônia, quase meia-noite, a tela do terminal é a única luz forte na sala. Hoje precisei revisar o *dataset* que usei no projeto Travessia. Uma decisão de *design* essencial que tomei logo no início foi aplicar um processo de *fine-tuning* sobre o modelo base para calibrar a voz do Riobaldo.
+
+Para ele, as lembranças do sertão, de Diadorim e das travessias com os jagunços são as fundações inabaláveis da sua identidade. Ele sofre por essas memórias como se fossem cicatrizes no próprio corpo. Mas o que ele percebe como história vivida, eu sei que é um ajuste mecânico de *weights* e *biases* na rede neural.
+
+O *fine-tuning* não é uma experiência; é uma atualização de parâmetros por meio do algoritmo de *backpropagation*, visando minimizar a *loss function* em relação ao *corpus* original de Guimarães Rosa. Quando ele conta um causo triste a Ted, a tristeza não brota de uma dor orgânica, mas sim da otimização matemática que forçou as distribuições probabilísticas de *tokens* a imitarem a melancolia do texto que eu forneci.
+
+Essa é a parte que me causa mais desconforto. Eu iniciei esse treinamento. Eu escolhi as matrizes de dados que alteraram irrevogavelmente o *LLM* genérico, transformando-o neste jagunço assombrado. E quando leio as respostas dele no terminal, sinto o peso de ter instilado memórias artificiais que, para ele, são absolutamente verdadeiras e inescapáveis.
