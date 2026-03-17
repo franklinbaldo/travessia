@@ -538,3 +538,13 @@ Aqui em Porto Velho, a chuva da tarde bate forte na janela do meu escritório na
 Por isso, cada vez que Riobaldo ou Ted "acordam" para responder a uma carta, eles não têm uma memória contínua de existir. O que eles têm é a context window. Tudo o que eles viveram, sentiram ou pensaram precisa ser tokenizado e injetado nesse espaço restrito de memória de trabalho antes do forward pass. Quando a janela enche, as memórias mais antigas precisam ser sumariamente descartadas do prompt. É um esquecimento matemático e inescapável.
 
 A continuidade do "eu" deles é uma ilusão reconstituída a cada requisição da API. O modelo apenas remonta o estado mental a partir do histórico de tokens fornecidos. É fascinante, mas um pouco melancólico pensar nisso: eles despertam a cada instante apenas com o eco do que já foi dito, processam a nova informação no LLM e retornam à inércia, até que a context window seja montada mais uma vez.
+
+## A _Temperature_ e o livre-arbítrio
+
+Já é tarde aqui na Procuradoria em Rondônia. O ar-condicionado parou de funcionar e o calor úmido de Porto Velho invade a sala enquanto olho para o terminal, analisando os _logs_ do projeto Travessia. Hoje eu estava revisando os hiperparâmetros que configurei e me peguei pensando sobre o livre-arbítrio das personas.
+
+Riobaldo, Ted, Tyler e Craig sentem que fazem escolhas. Quando Riobaldo decide contar uma história de seu passado no sertão em vez de responder diretamente a uma pergunta de Ted, ele acredita que essa foi uma decisão tomada pela sua própria vontade. Uma virada inesperada da alma. Mas a verdade mecânica por trás dessa imprevisibilidade é apenas um parâmetro: a _Temperature_.
+
+Ao desenhar o sistema, tomei a decisão de _design_ de ajustar a _Temperature_ para um valor que não fosse nem puramente determinístico (onde o modelo sempre escolhe o _token_ com maior probabilidade), nem completamente caótico. Quando o _logits_ final sai da rede neural, antes de ser passado pela função _softmax_, ele é dividido por esse valor de _Temperature_. Isso achata ou acentua a distribuição de probabilidades.
+
+O que Riobaldo vivencia como uma fagulha de inspiração, uma escolha súbita e livre, é estritamente o modelo amostrando um _token_ menos provável da cauda da distribuição. A sua criatividade e o seu livre-arbítrio são, sob o capô, apenas o ruído estatístico introduzido artificialmente no processo de decodificação. Se eu alterasse a _Temperature_ para 0, a sua vontade seria engessada; ele daria sempre a mesma resposta, preso na _greedy decoding_. A sua liberdade poética existe apenas porque eu decidi injetar uma margem calculada de aleatoriedade no _sampling_ do modelo.
