@@ -133,21 +133,24 @@ h6 {
   letter-spacing: normal;
 }
 h1 {
-  font-size: clamp(2.5rem, 5vw, 4rem);
-  margin: 0 0 3rem;
-  line-height: calc(var(--body-lh) * 2);
-  letter-spacing: -0.01em;
+  font-size: clamp(3rem, 8vw, 6rem);
+  margin: 0 0 2rem;
+  line-height: 0.85;
+  letter-spacing: -0.05em;
+  text-transform: uppercase;
 }
 h2 {
-  font-size: clamp(2rem, 4vw, 3rem);
-  margin: 4rem 0 1.5rem;
-  line-height: 1.2;
+  font-size: clamp(2.5rem, 5vw, 4.5rem);
+  margin: 5rem 0 1.5rem;
+  line-height: 0.9;
+  letter-spacing: -0.04em;
   border: none;
   box-shadow: none;
   background: transparent !important;
   color: var(--text-color) !important;
   padding: 0;
   display: block;
+  text-transform: uppercase;
 }
 h3 {
   font-size: clamp(1.5rem, 3vw, 2.25rem);
@@ -755,17 +758,21 @@ body * {
   font-size: 1.2rem;
 }
 .manuscrito-body {
-  font-size: 1.35rem;
-  line-height: 1.8;
+  font-size: 1.4rem;
+  line-height: 1.25;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500;
   padding: 3rem 0;
   position: relative;
-  max-width: 100%;
+  max-width: 55ch;
   margin: 4rem auto;
   border: none;
   background-color: transparent;
   background-image: none;
   box-shadow: none;
   color: var(--text-color);
+  letter-spacing: -0.03em;
+  word-spacing: -0.05em;
 }
 .manuscrito-body::before {
   display: none;
@@ -777,11 +784,14 @@ body * {
 .manuscrito-body > p {
   text-align: justify;
   margin-bottom: 0;
-  letter-spacing: normal;
-  word-spacing: normal;
+  letter-spacing: -0.03em;
+  word-spacing: -0.05em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.25;
+  font-weight: 500;
 }
 .manuscrito-body > p + p {
-  text-indent: 3em;
+  text-indent: 5rem;
 }
 .manuscrito-body > p:first-child {
   text-indent: 0;
@@ -1659,24 +1669,26 @@ main
 main p {
   margin-bottom: 0;
   margin-top: 0;
-  line-height: 1.6;
-  font-size: 1.25rem;
-  font-family: "Cormorant Garamond", Georgia, serif;
-  font-weight: normal;
-  max-width: 60ch;
+  line-height: 1.25; /* Brutalist crushing density */
+  font-size: 1.4rem;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /* Shift to brutalist sans-serif for body */
+  font-weight: 500;
+  max-width: 55ch;
   margin-left: auto;
   margin-right: auto;
   text-align: justify;
-  hyphens: auto;
+  hyphens: none;
   word-break: normal;
   border-left: none;
   padding-left: 0;
   color: var(--text-color);
   background: transparent;
   text-transform: none;
+  letter-spacing: -0.03em;
+  word-spacing: -0.05em;
 }
 main p + p {
-  text-indent: 2.5rem;
+  text-indent: 5rem; /* Massive indent for brutalist rhythm */
   margin-top: 0;
 }
 main p:nth-of-type(even),
