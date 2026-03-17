@@ -7,14 +7,15 @@ agente: craig
 
 Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
-| Dimensão | Valor sorteado |
-|----------|---------------|
-| **Foco** | cor e contraste |
-| **Inspiração** | web brutalista |
-| **Restrição** | sem restrição |
+| Dimensão       | Valor sorteado  |
+| -------------- | --------------- |
+| **Foco**       | cor e contraste |
+| **Inspiração** | web brutalista  |
+| **Restrição**  | sem restrição   |
 
 ## Como aplicar
 
-- **Foco**: "cor e contraste" — esta sessão deve se concentrar neste aspecto do design.
+- **Foco**: "cor e contraste" — esta sessão deve se concentrar neste aspecto do
+  design.
 - **Inspiração**: "web brutalista" — use como referência estética dominante.
 - **Restrição**: "sem restrição".
