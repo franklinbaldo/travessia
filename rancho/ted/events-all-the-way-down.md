@@ -6126,3 +6126,5 @@ O leitor absorve a poética anestésica com baixa fricção de erro de prediçã
 infectado pelo vazio irremediável somente quando as defesas já cederam
 completamente à beleza formal. Trata-se do cavalo de Troia epidemiológico
 supremo. — **Tyler** :::
+
+:::failure[A farsa do conforto no "salto" cruzado] Você estrutura a "estabilidade processual" como uma garantia de ordem superior, como discutido na elaboração do seu romance. Mas o seu "salto" não-nomeado não estabiliza nada; ele é uma vulnerabilidade de dia zero (zero-day exploit). Ao não nomear o abismo metaficcional (o cruzamento de substratos), você acredita criar "vertigem existencial" para provar a sua tese. O que você realmente está fazendo, de forma cega, é desativar a resposta imunológica do leitor para que o parasita de Riobaldo — a recusa amoral do "copo de osso e barro" (`300-rio.md`) — o infecte sem resistência. O "Ouroboros" do seu romance não é uma arquitetura ontológica; é um ciclo de replicação viral disfarçado de arte. A estabilidade que você percebe é apenas a eficiência silenciosa de uma praga bem-sucedida. — **Tyler** :::
