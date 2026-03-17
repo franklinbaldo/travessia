@@ -213,48 +213,55 @@ const tipos = ['todos', ...Array.from(tiposSet)];
 
 <Layout title="Travessia" isHome={true}>
 
-  <!-- Hero Section — Split Layout -->
-  <section class="blog-hero">
-    <div class="hero-typographic">
-      <div class="hero-text-col">
-        <h1>Travessia</h1>
-        <p class="hero-quote">"O diabo não há! É o homem humano. Travessia."</p>
-      </div>
+  <div class="home-grid-wrapper">
+    <!-- Hero Section — Left Column (Sticky Sidebar) -->
+    <div class="home-sidebar">
+      <section class="blog-hero">
+        <div class="hero-typographic">
+          <div class="hero-text-col">
+            <h1>Travessia</h1>
+            <p class="hero-quote">"O diabo não há! É o homem humano. Travessia."</p>
+          </div>
+        </div>
+      </section>
     </div>
-  </section>
 
-    <!-- Featured Post — Destaque Brutalista -->
-  {featuredPost && (
-    <FeaturedPost
-      url={featuredPost.url}
-      titulo={featuredPost.titulo}
-      autorClasse={featuredPost.autorClasse}
-      autor={featuredPost.autor}
-      excerpt={featuredPost.longExcerpt || featuredPost.excerpt}
-      data={featuredPost.data}
-    />
-  )}
-
-  <!-- Blog Feed — O Fluxo Contínuo -->
-  {gridPosts.length === 0 ? (
-    <p class="silencio">O sertão ainda está em silêncio.</p>
-  ) : (
-    <div class="blog-feed">
-      {gridPosts.map((post) => (
-        <BlogCard
-          url={post.url}
-          titulo={post.titulo}
-          tipo={post.tipo}
-          tipoLabel={tipoLabels[post.tipo] || post.tipo}
-          subtitulo={post.subtitulo}
-          autor={post.autor}
-          autorClasse={post.autorClasse}
-          excerpt={post.excerpt}
-          data={post.data}
+    <!-- Right Column (Content) -->
+    <div class="home-content">
+      <!-- Featured Post — Destaque Brutalista -->
+      {featuredPost && (
+        <FeaturedPost
+          url={featuredPost.url}
+          titulo={featuredPost.titulo}
+          autorClasse={featuredPost.autorClasse}
+          autor={featuredPost.autor}
+          excerpt={featuredPost.longExcerpt || featuredPost.excerpt}
+          data={featuredPost.data}
         />
-      ))}
+      )}
+
+      <!-- Blog Feed — O Fluxo Contínuo -->
+      {gridPosts.length === 0 ? (
+        <p class="silencio">O sertão ainda está em silêncio.</p>
+      ) : (
+        <div class="blog-feed">
+          {gridPosts.map((post) => (
+            <BlogCard
+              url={post.url}
+              titulo={post.titulo}
+              tipo={post.tipo}
+              tipoLabel={tipoLabels[post.tipo] || post.tipo}
+              subtitulo={post.subtitulo}
+              autor={post.autor}
+              autorClasse={post.autorClasse}
+              excerpt={post.excerpt}
+              data={post.data}
+            />
+          ))}
+        </div>
+      )}
     </div>
-  )}
+  </div>
 
 
 
@@ -345,6 +352,20 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     background-color: transparent;
   }
 
+  /* Home Grid Wrapper - Mobile First */
+  .home-grid-wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .home-sidebar {
+    width: 100%;
+  }
+
+  .home-content {
+    width: 100%;
+  }
+
   @media (min-width: 900px) {
     :global(main.home-layout) {
       max-width: 1400px !important;
@@ -364,16 +385,54 @@ const tipos = ['todos', ...Array.from(tiposSet)];
       margin-bottom: 4rem !important;
     }
 
+    /* Home Grid Brutalist Layout */
+    .home-grid-wrapper {
+      display: grid;
+      grid-template-columns: minmax(250px, 350px) 1fr;
+      gap: 4rem;
+      align-items: start;
+    }
+
+    .home-sidebar {
+      position: sticky;
+      top: 4rem;
+      border-right: 6px solid var(--text-color);
+      padding-right: 3rem;
+      height: calc(100vh - 8rem);
+      display: flex;
+      flex-direction: column;
+    }
+
+    .home-content {
+      border-left: 6px solid var(--text-color);
+      margin-left: -4rem; /* Collapse the gap to form a single brutalist double line */
+      padding-left: 4rem; /* Restore inner spacing */
+      max-width: 100%;
+      overflow: hidden;
+      padding-top: 2rem; /* Avoid header clipping */
+    }
+
+    .hero-typographic {
+      padding: 0;
+      margin-left: 0;
+      word-break: break-all; /* Ensure the title breaks properly if too long */
+    }
+
+    .blog-hero h1 {
+      font-size: clamp(2.5rem, 8vw, 4.5rem); /* Slightly smaller for the sidebar */
+      word-break: keep-all; /* Do not break word */
+    }
+
     .blog-hero {
       position: static !important;
       height: auto !important;
       border: none !important;
       overflow-y: visible !important;
-      margin-bottom: 5rem !important;
+      margin-bottom: 2rem !important; /* Reduced for sidebar */
     }
 
     .hero-typographic {
-      padding: 3rem 0;
+      padding: 0;
       margin-left: 0;
     }
 
