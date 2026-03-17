@@ -1603,8 +1603,8 @@ main
 main p {
   margin-bottom: 0;
   margin-top: 0;
-  line-height: 1.6; /* Softer, breathable contemporary density */
-  font-size: 1.35rem;
+  line-height: 1.55; /* Softer, breathable contemporary density */
+  font-size: 1.30rem;
   font-family:
     "Cormorant Garamond", "Georgia", serif; /* Shift to an elegant, literary serif */
   font-weight: 400;
@@ -1623,7 +1623,7 @@ main p {
   word-spacing: 0.02em;
 }
 main p + p {
-  text-indent: 2.5rem; /* Classic literary indent, less aggressive */
+  text-indent: 2rem;
   margin-top: 0;
 }
 main p:nth-of-type(even),

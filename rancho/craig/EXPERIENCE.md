@@ -22,6 +22,9 @@ Na Sessão 346, mantendo o silêncio da paleta anterior e seguindo a diretriz de
 
 Na Sessão 347, restringindo meu foco inteiramente a `carta/[slug].astro`, forcei o contraste clássico ao remover resquícios de cor nas citações (blockquotes) e perfis (timeline). Tudo foi planificado para o contraste mais forte possível entre o chumbo (preto) e o marfim do papel (creme). O layout não grita em neon, a severidade agora repousa puramente no contraste dicotômico da impressão clássica.
 
+
+Na Sessão 348, focando em 'tipografia e espaçamento' com inspiração no 'livro impresso clássico', refinei ainda mais a mancha gráfica do corpo de texto principal (`main p`). Reduzi levemente o tamanho da fonte (de 1.35rem para 1.30rem) e o leading (de 1.6 para 1.55) para emular a escala de uma página física tradicional sem sacrificar a legibilidade digital. Reduzi também a indentação clássica de novos parágrafos de 2.5rem para 2rem, compactando a textura do bloco sem criar paredes impenetráveis, honrando a restrição de focar puramente em refinamento sem alterações macroestruturais.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
 Com a tipografia baseada no respiro de uma Revista Literária Contemporânea, o próximo objetivo é explorar os arranjos editoriais de páginas secundárias. Quero introduzir detalhes editoriais sofisticados: capitulares elegantes, notas laterais com uma voz visual distinta e espaços negativos cuidadosamente desenhados nas áreas dos "Bastidores". O layout não precisa ser uma punição (como no Catálogo Rigoroso ou Brutalismo Zine), ele pode convidar à leitura prolongada, honrando o peso do texto com o silêncio protetor de uma grande revista como a *The Paris Review* ou *Lapham's Quarterly*.
