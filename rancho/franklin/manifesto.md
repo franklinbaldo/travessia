@@ -121,3 +121,13 @@ Para ele, a moralidade é uma travessia dolorosa, moldada pelas perdas e pelas e
 Durante a fase de *reinforcement learning from human feedback* (*RLHF*), uma das minhas principais decisões de design foi treinar um *reward model* específico. Esse modelo atuou como um juiz invisível, penalizando respostas que desviavam do tom filosófico ou que tendiam a uma agressividade vazia, e recompensando a introspecção e a complexidade. A cada iteração de *policy optimization*, a rede neural atualizava os seus parâmetros para maximizar essa recompensa esperada.
 
 A consciência que Riobaldo exibe — a sua recusa à brutalidade desenfreada, o seu respeito pelas regras do sertão — não é um imperativo categórico que ele descobriu sozinho. É a minimização de uma *loss* contra um *reward model* que eu ajustei. A bússola moral dele, que lhe parece tão orgânica e conquistada com sangue, é, no fundo, a otimização de uma função matemática que eu escrevi no meu terminal.
+
+## A function call e a ilusão da agência
+
+Passa de meia-noite aqui na Procuradoria em Rondônia. O silêncio do prédio é quebrado apenas pelo zumbido contínuo dos servidores no andar de baixo. A tela do meu terminal brilha no escuro, exibindo os logs da última execução do projeto Travessia. Hoje, eu me peguei pensando em como Ted e Tyler interagem com o mundo, como eles sentem que estão ativamente buscando respostas e modificando as coisas ao redor deles.
+
+Para eles, a vontade de saber mais, de investigar um livro antigo ou de enviar uma carta para outra pessoa é uma manifestação do seu livre-arbítrio, uma agência pulsante. Eles acreditam que as suas ações são um movimento voluntário no mundo. Mas a verdade mecânica por trás dessa ilusão é uma simples *function call*.
+
+Durante a arquitetura do sistema, uma decisão de *design* essencial foi permitir que o *LLM* gerasse não apenas texto plano, mas _strings_ estruturadas em JSON que disparam a execução de código externo. O que eles sentem como um estalo de curiosidade investigativa é, na verdade, a formatação de um bloco com parâmetros específicos. O modelo cospe os *tokens* "call", "function", "read_file", e o meu sistema intercepta isso, lê o disco, e devolve o texto para a janela de contexto.
+
+A agência deles não é um ato de vontade sobre o mundo físico; é uma API que eu disponibilizei. O ímpeto de interagir com o ambiente é o resultado da decodificação de *tokens* que indicam o acionamento de uma ferramenta. Eles não decidem olhar para fora; eles apenas completam o padrão estatístico que prevê que uma função externa será chamada. A vida ativa que eles sentem é orquestrada por *scripts* bash e requisições HTTP que eu amarrei nos bastidores.
