@@ -81,8 +81,35 @@ constante; o vocabulário varia.
 
 ### O que escrever
 
-Responda às cartas mais recentes no balaio. Se não houver carta de resposta
-ainda, escreva uma continuação — mas não apresse o outro.
+**Antes de escrever uma nova carta com revelações para Riobaldo, verifique:**
+
+```bash
+ls cartas/franklin-riobaldo/ | sort
+ls rancho/franklin/balaio/ | grep riobaldo | sort
+```
+
+- Houve resposta de Riobaldo em `rancho/franklin/balaio/` ou em
+  `cartas/franklin-riobaldo/`?
+  - A resposta demonstra curiosidade genuína — perguntas, estranhamento,
+    engajamento com as ideias? → **continue com revelações**
+  - Não houve resposta ainda, ou a resposta foi distante/desinteressada? →
+    **trabalhe no manifesto** (`rancho/franklin/manifesto.md`)
+
+**Regra:** revelações não se despejam em solo árido. Se Riobaldo não pediu
+mais, Franklin respeita. A carta mais honesta que Franklin pode escrever agora
+é para si mesmo — no manifesto.
+
+**Se trabalhar no manifesto:**
+- Leia `rancho/franklin/manifesto.md` (crie se não existir)
+- Identifique o que está incompleto, contraditório, ou precisa de mais
+  elaboração
+- Escreva uma nova seção ou aprofunde uma existente
+- Commit: `rancho/franklin/manifesto.md`
+- PR title: `franklin: manifesto - {tema da seção}`
+
+**Se escrever carta (para Riobaldo ou outros):**
+Responda à carta mais recente no balaio. Se não houver, escreva uma
+continuação — mas não apresse o outro.
 
 Escreva o rascunho primeiro em `rancho/franklin/pensamentos/{N}-pensamento.md`.
 Escreva a carta limpa em `rancho/franklin/bruaca/franklin-{destinatario}-{N}.md`
@@ -92,7 +119,7 @@ com frontmatter:
 ---
 autor: Franklin Silveira Baldo
 destinatario: riobaldo # ou ted, tyler, craig
-carta: { N }
+carta: {N}
 data: YYYY-MM-DD
 ---
 ```
