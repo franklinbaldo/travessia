@@ -42,7 +42,7 @@ espaço negativo. A ausência de elementos é o ruído mais alto.
    técnica, similar a uma planta baixa de engenharia. A informação deve ser tão
    nua e organizada que sua própria crueza gera tensão.
 
-8. **Planura Radical (O Fim do Falso Objeto)**: A interface recusa a simulação
+8. **Planura Radical (The Flatness Rule)**: A interface recusa a simulação
    de profundidade e o skeuomorfismo espacial de objetos físicos repousando
    sobre mesas virtuais. Estão banidos as sombras projetadas (`box-shadow`) que
    mimetizam elevação, os fundos de escrivaninha (`desk-bg`) que isolam a
