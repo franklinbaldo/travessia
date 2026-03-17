@@ -74,27 +74,36 @@ const base = import.meta.env.BASE_URL;
   }
 
   .bastidores-section {
-    margin-bottom: 3rem;
+    margin-bottom: 4rem; /* more space between chunks */
   }
 
   .bastidores-section-title {
-    font-size: 1.3rem;
-    margin-bottom: 1.25rem;
-    padding-bottom: 0.5rem; border-bottom: 2px solid var(--text-color);
+    font-size: 2rem; /* Larger, harsher titles */
+    text-transform: uppercase;
+    font-family: var(--font-body);
+    font-weight: 800;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 4px solid var(--text-color); /* Thicker line */
+    letter-spacing: -0.02em;
   }
 
+  /* Title colors overriding standard text color */
   .bastidores-title-rio {
-    border-bottom-color: var(--secondary-color);
+    color: var(--secondary-color);
   }
 
   .bastidores-title-ted {
-    border-bottom-color: var(--water-border);
+    color: var(--accent-color);
   }
 
   .bastidores-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 1rem;
+    gap: 0; /* Remove gap for a connected grid effect */
+    border: 4px solid var(--text-color); /* Encapsulate the grid */
+    border-bottom: none;
+    border-right: none;
   }
 
   @media (max-width: 600px) {
@@ -105,69 +114,72 @@ const base = import.meta.env.BASE_URL;
 
   .bastidores-card {
     display: block;
-    padding: 1rem 1.25rem;
-    background: var(--sand-bg); border: 2px solid var(--text-color); border-radius: 0;
-    text-decoration: none; border-left: 2px solid var(--text-color);
-    transition:
-      background-color 0.3s ease,
-      border-color 0.3s ease,
-      transform 0.2s ease;
+    padding: 1.5rem 1.5rem;
+    background: var(--bg-color);
+    border-bottom: 4px solid var(--text-color); /* Bottom border */
+    border-right: 4px solid var(--text-color); /* Right border to complete inner grid lines */
+    text-decoration: none;
+    transition: none; /* No soft transitions in brutalism */
+    position: relative;
+    z-index: 1;
   }
 
   .bastidores-card:hover {
-    background: var(--water-bg);
-    transform: translateY(-2px);
-    opacity: 1;
+    background: var(--brutal-hover-bg);
+    transform: translate(-4px, -4px); /* pop up */
+    box-shadow: 4px 4px 0 var(--text-color);
+    z-index: 10;
   }
 
   .bastidores-card-rio {
-    border-left-color: var(--secondary-color);
+    /* Base color overrides */
   }
 
   .bastidores-card-rio:hover {
-    border-color: var(--secondary-color);
+    border-color: var(--text-color); /* maintain grid lines on hover */
   }
 
   .bastidores-card-ted {
-    border-left-color: var(--water-border);
+    /* Base color overrides */
   }
 
   .bastidores-card-ted:hover {
-    border-color: var(--water-border);
-  }
-
-  .bastidores-title-craig {
-    border-bottom-color: var(--accent-color);
-  }
-
-  .bastidores-card-craig {
-    border-left-color: var(--accent-color);
-  }
-
-  .bastidores-card-craig:hover {
-    border-color: var(--accent-color);
+    border-color: var(--text-color);
   }
 
   .bastidores-card-id {
     display: block;
     font-family: var(--font-meta);
-    font-size: 0.75rem;
+    font-size: 0.85rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    color: var(--meta-color);
-    margin-bottom: 0.4rem;
-    font-weight: 600;
+    color: var(--text-color); /* Make meta bolder */
+    margin-bottom: 0.5rem;
+    font-weight: 800;
+    border-bottom: 2px solid var(--text-color); /* Title line */
+    display: inline-block;
+  }
+
+  .bastidores-card:hover .bastidores-card-id {
+    color: var(--text-color);
   }
 
   .bastidores-card-excerpt {
-    font-family: var(--font-body);
-    font-size: 0.88rem;
+    font-family: var(--font-meta); /* Monospace abstract log feel */
+    font-size: 0.95rem;
     color: var(--text-color);
-    line-height: 1.5;
+    line-height: 1.4;
     margin: 0;
   }
 
+  .bastidores-card:hover .bastidores-card-excerpt {
+    color: var(--text-color);
+  }
+
   .bastidores-empty {
-    font-style: italic;
+    font-style: normal;
+    font-family: var(--font-meta);
+    font-weight: bold;
+    text-transform: uppercase;
   }
 </style>

@@ -32,101 +32,98 @@ const {
   </div>
 </a>
 <style>
+  /* BRUTALIST BLOG CARD (Sessão 337 - Cor e Contraste) */
   .blog-card {
     display: block;
     text-decoration: none;
     padding: 2.5rem 2rem !important;
-    margin-bottom: 0 !important;
-    border: none !important;
-    border-bottom: 1px solid var(--divider-color) !important;
-    background-color: transparent !important;
+    margin-bottom: -4px !important; /* overlap thick borders */
+    border: 4px solid var(--text-color) !important; /* Thick brutal borders */
+    background-color: var(--bg-color) !important; /* Opaque solid blocks */
     box-shadow: none !important;
     position: relative;
     transition: none !important;
-  }
-  .blog-card::before {
-    content: '';
-    position: absolute;
-    top: 0; left: 0; right: 0; bottom: 0;
-    background-color: var(--sand-bg);
-    opacity: 0;
-    z-index: -1;
-    transform: scale(0.98);
-    transition: opacity 0.4s ease, transform 0.4s cubic-bezier(0.19, 1, 0.22, 1);
-  }
-  :global([data-theme="dark"]) .blog-card::before {
-    background-color: rgba(255,255,255,0.03);
+    z-index: 1;
   }
   .blog-card:hover {
-    background-color: transparent !important;
-    /* transform: translateX(0.5rem); */
-    border-bottom-color: var(--text-color) !important;
-  }
-  .blog-card:hover::before {
-    opacity: 1;
-    transform: scale(1);
+    background-color: var(--brutal-hover-bg) !important;
+    transform: translate(-6px, -6px); /* physical jump */
+    box-shadow: 6px 6px 0 var(--text-color) !important; /* sharp shadow */
+    z-index: 10;
   }
   .card-titulo {
     font-family: var(--font-body);
     font-size: 1.5rem;
-    font-weight: normal;
+    font-weight: 800; /* Bolder for brutalism */
     color: var(--text-color);
     margin: 0 0 0.5rem 0;
-    line-height: 1.3;
-    text-transform: none;
+    line-height: 1.1;
+    text-transform: uppercase; /* Index-like uppercase */
     letter-spacing: -0.01em;
   }
+  /* On hover, text inverts inside the neon box */
   .blog-card:hover .card-titulo {
-    color: var(--accent-color) !important;
+    color: var(--text-color) !important;
+    background-color: transparent !important;
   }
   .card-subtitulo {
     font-family: var(--font-body);
-    font-style: italic;
+    font-style: normal; /* remove italics */
+    font-weight: bold;
     color: var(--text-color);
     font-size: 1.1rem;
     margin: 0 0 0.5rem 0;
+    border-bottom: 2px solid var(--text-color); /* inline division */
+    display: inline-block;
   }
   .card-excerpt {
-    font-family: var(--font-body);
-    font-size: 1.1rem;
+    font-family: var(--font-meta); /* monospaced/meta font for raw data feel */
+    font-size: 1rem;
     color: var(--text-color);
-    line-height: 1.6;
+    line-height: 1.4;
     margin: 0 0 1rem 0;
-    max-width: 65ch;
+    max-width: 100%;
   }
   .card-meta {
-    font-family: var(--font-body) !important;
-    font-size: 1.1rem !important;
-    color: var(--meta-color) !important;
+    font-family: var(--font-meta) !important;
+    font-size: 0.9rem !important;
+    color: var(--text-color) !important; /* High contrast black */
     margin: 0 !important;
     display: block !important;
-    font-style: italic !important;
-    text-transform: none !important;
-    letter-spacing: 0 !important;
-    font-weight: normal !important;
+    font-style: normal !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.05em !important;
+    font-weight: bold !important;
+    border-top: 2px solid var(--text-color); /* Metadata separator */
+    padding-top: 0.5rem;
   }
   .card-meta span, .card-meta time {
     display: inline !important;
-    font-family: var(--font-body) !important;
-    text-transform: none !important;
-    letter-spacing: 0 !important;
-    font-weight: normal !important;
+    font-family: var(--font-meta) !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.05em !important;
+    font-weight: bold !important;
   }
   .card-meta::before {
-    content: "— ";
+    content: "=> "; /* Code-like prompt */
   }
   .card-tipo {
+    color: var(--accent-color) !important; /* Punchy red/magenta */
+  }
+  .blog-card:hover .card-tipo {
     color: var(--text-color) !important;
   }
   .card-autor {
+    color: var(--secondary-color) !important; /* Punchy blue/cyan */
+  }
+  .blog-card:hover .card-autor {
     color: var(--text-color) !important;
   }
-  /* Do not invert colors on hover */
+  /* Maintain black text inside the brutal hover bg */
   .blog-card:hover .card-excerpt,
-  .blog-card:hover .card-autor,
   .blog-card:hover time,
   .blog-card:hover .card-subtitulo,
   .blog-card:hover .card-meta {
-    color: inherit;
+    color: var(--text-color) !important;
   }
 </style>
