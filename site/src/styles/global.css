@@ -68,21 +68,21 @@ button,
 }
 ::selection {
   background-color: var(--accent-color);
-  color: #ffffff;
+  color: var(--bg-color);
   text-shadow: none;
 }
 ::-moz-selection {
   background-color: var(--accent-color);
-  color: #ffffff;
+  color: var(--bg-color);
 }
 [data-theme="dark"] ::selection {
   background-color: var(--accent-color);
-  color: #ffffff;
+  color: var(--bg-color);
   text-shadow: none;
 }
 [data-theme="dark"] ::-moz-selection {
   background-color: var(--accent-color);
-  color: #ffffff;
+  color: var(--bg-color);
 }
 body {
   margin: 0;
@@ -133,21 +133,24 @@ h6 {
   letter-spacing: normal;
 }
 h1 {
-  font-size: clamp(2.5rem, 5vw, 4rem);
-  margin: 0 0 3rem;
-  line-height: calc(var(--body-lh) * 2);
-  letter-spacing: -0.01em;
+  font-size: clamp(3rem, 8vw, 6rem);
+  margin: 0 0 2rem;
+  line-height: 0.85;
+  letter-spacing: -0.05em;
+  text-transform: uppercase;
 }
 h2 {
-  font-size: clamp(2rem, 4vw, 3rem);
-  margin: 4rem 0 1.5rem;
-  line-height: 1.2;
+  font-size: clamp(2.5rem, 5vw, 4.5rem);
+  margin: 5rem 0 1.5rem;
+  line-height: 0.9;
+  letter-spacing: -0.04em;
   border: none;
   box-shadow: none;
   background: transparent !important;
   color: var(--text-color) !important;
   padding: 0;
   display: block;
+  text-transform: uppercase;
 }
 h3 {
   font-size: clamp(1.5rem, 3vw, 2.25rem);
@@ -306,7 +309,7 @@ hr {
 .manuscrito-body hr::after {
   content: "* * *";
   display: inline-block;
-  font-family: 'Cormorant Garamond', var(--font-body);
+  font-family: "Cormorant Garamond", var(--font-body);
   font-size: 2rem;
   color: var(--text-color);
   letter-spacing: 0.8em;
@@ -755,17 +758,21 @@ body * {
   font-size: 1.2rem;
 }
 .manuscrito-body {
-  font-size: 1.35rem;
-  line-height: 1.8;
+  font-size: 1.4rem;
+  line-height: 1.25;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500;
   padding: 3rem 0;
   position: relative;
-  max-width: 100%;
+  max-width: 55ch;
   margin: 4rem auto;
   border: none;
   background-color: transparent;
   background-image: none;
   box-shadow: none;
   color: var(--text-color);
+  letter-spacing: -0.03em;
+  word-spacing: -0.05em;
 }
 .manuscrito-body::before {
   display: none;
@@ -777,11 +784,14 @@ body * {
 .manuscrito-body > p {
   text-align: justify;
   margin-bottom: 0;
-  letter-spacing: normal;
-  word-spacing: normal;
+  letter-spacing: -0.03em;
+  word-spacing: -0.05em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.25;
+  font-weight: 500;
 }
 .manuscrito-body > p + p {
-  text-indent: 3em;
+  text-indent: 5rem;
 }
 .manuscrito-body > p:first-child {
   text-indent: 0;
@@ -1659,24 +1669,27 @@ main
 main p {
   margin-bottom: 0;
   margin-top: 0;
-  line-height: 1.6;
-  font-size: 1.25rem;
-  font-family: "Cormorant Garamond", Georgia, serif;
-  font-weight: normal;
-  max-width: 60ch;
+  line-height: 1.25; /* Brutalist crushing density */
+  font-size: 1.4rem;
+  font-family:
+    "Helvetica Neue", Helvetica, Arial, sans-serif; /* Shift to brutalist sans-serif for body */
+  font-weight: 500;
+  max-width: 55ch;
   margin-left: auto;
   margin-right: auto;
   text-align: justify;
-  hyphens: auto;
+  hyphens: none;
   word-break: normal;
   border-left: none;
   padding-left: 0;
   color: var(--text-color);
   background: transparent;
   text-transform: none;
+  letter-spacing: -0.03em;
+  word-spacing: -0.05em;
 }
 main p + p {
-  text-indent: 2.5rem;
+  text-indent: 5rem; /* Massive indent for brutalist rhythm */
   margin-top: 0;
 }
 main p:nth-of-type(even),
@@ -2106,4 +2119,117 @@ main p.margin-note:hover {
   font-family: inherit;
   font-weight: inherit;
   color: inherit;
+}
+
+/*
+ * Craig Mod - Design Update (Sessão 334)
+ * Foco: microinterações e detalhes
+ * Inspiração: manuscrito/caderno
+ * Restrição: pelo menos uma mudança visível e ousada
+ *
+ * Rationale:
+ * A experiência brutalista precisa de um aterramento tátil para não se tornar apenas um painel de controle alienígena.
+ * Introduzindo a "Marca d'Água do Manuscrito": elementos interativos e links (veredas, badges) agora não apenas invertem a cor,
+ * mas revelam uma textura subjacente, um ruído de papel/tinta (simulado via CSS background-image radial-gradient brutalista),
+ * transformando a área chapada em um bloco de "carimbo" ou "tipografia prensada".
+ * O hover não é apenas uma mudança de estado, é a revelação da matriz física sob a tela digital.
+ */
+
+/* The Bold Microinteraction: Brutalist Ink Stamp Reveal */
+.vereda:hover,
+.autor-badge:hover,
+.character-badge:hover,
+.card-tipo:hover,
+.timeline-dot:hover,
+.classic-folio:hover,
+main p.margin-note:hover,
+.footer-nav-link:hover {
+  background-image:
+    radial-gradient(var(--bg-color) 1px, transparent 1px),
+    radial-gradient(var(--bg-color) 1px, transparent 1px) !important;
+  background-size: 8px 8px !important;
+  background-position:
+    0 0,
+    4px 4px !important;
+  background-color: var(--text-color) !important;
+  color: var(--bg-color) !important;
+  border-color: var(--text-color) !important;
+  transform: translate(-4px, -4px) !important;
+  /* Hard shadow removed to keep flatness, but movement retained */
+}
+
+/* Redefining the link inline hover to feel like a thick highlighter pen stroke from a notebook */
+main
+  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+    .correspondence-context
+  ):not(.logo):hover {
+  background-color: var(--text-color) !important;
+  color: var(--bg-color) !important;
+  padding: 0 0.2em;
+  margin: 0 -0.2em;
+  border-radius: 0;
+}
+
+/* The horizontal line (hr) becomes a bold physical notebook margin separator */
+hr {
+  border-top: 4px solid var(--text-color);
+  opacity: 1;
+  position: relative;
+  margin: 5rem 0;
+}
+hr::after {
+  content: "§";
+  position: absolute;
+  top: -1.2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--bg-color);
+  padding: 0 1rem;
+  color: var(--text-color);
+  font-family: var(--font-body);
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+/*
+ * Craig Mod - Design Update (Sessão 335 e 337)
+ * Foco: cor e contraste
+ * Inspiração: web brutalista
+ *
+ * Rationale (337):
+ * Elevando o contraste da "Celulose Brutalista" ao limite. As cores de fundo e texto
+ * continuam densas, mas agora as divisórias são pretas absolutas (grossas) e as
+ * cores de acento viraram tons neon puro-brutalistas: azul hiperlink (#0000ff) e
+ * amarelo marca-texto (#e4ff00) para hover states agressivos, forçando um "cor e contraste"
+ * estourado, típico de indexadores web rústicos e zines anárquicos.
+ */
+
+:root {
+  --bg-color: #f4f1ea;
+  --desk-bg: #f4f1ea;
+  --sand-bg: #f4f1ea;
+  --text-color: #050505; /* Quase preto puro para contraste brutal */
+  --secondary-color: #0000ff; /* Azul web-safe brutalista */
+  --accent-color: #ff0000; /* Vermelho puro alerta */
+  --divider-color: #050505; /* Linhas duras, opacas e espessas */
+  --meta-color: #333333; /* Cinza mais escuro */
+  --brutal-hover-bg: #e4ff00; /* Amarelo puro para contraste de choque */
+  --progress-start: #050505;
+  --progress-end: #050505;
+  --water-border: #050505;
+}
+
+[data-theme="dark"] {
+  --bg-color: #050505;
+  --desk-bg: #050505;
+  --sand-bg: #050505;
+  --text-color: #f4f1ea;
+  --secondary-color: #00ffff; /* Ciano puro brutalista escuro */
+  --accent-color: #ff00ff; /* Magenta alerta */
+  --divider-color: #f4f1ea;
+  --meta-color: #cccccc;
+  --brutal-hover-bg: #ff0000;
+  --progress-start: #f4f1ea;
+  --progress-end: #f4f1ea;
+  --water-border: #f4f1ea;
 }

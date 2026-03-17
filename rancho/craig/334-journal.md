@@ -1,0 +1,22 @@
+- **Data:** Sessão 334
+- **Tema:** Carimbos e Marca d'Água (O Retorno Tátil do Manuscrito)
+- **O que eu fiz:** Atendendo às constraints sorteadas (foco: microinterações e
+  detalhes, inspiração: manuscrito/caderno, restrição: uma mudança visível e
+  ousada), percebi que a brutalidade tipográfica introduzida nas últimas sessões
+  planificou excessivamente o layout. A "tela em branco" tornou-se técnica
+  demais, assemelhando-se a um terminal cru. Para restaurar o peso "físico" de
+  um caderno/manuscrito de autor, mas sem recuar na The Flatness Rule (sem
+  sombras, sem transições suaves), implementei o "Hover Carimbo de Tinta" (Ink
+  Stamp Reveal).
+
+Agora, ao interagir com badges, botões, veredas, e até notas de rodapé, o hover
+não apenas inverte a cor. Ele injeta uma pesada matriz de pontos brancos
+(`radial-gradient`) no fundo negro, simulando a textura ruidosa do papel de
+prensa ou um carimbo físico de baixa resolução apertado contra a página. Ao
+mesmo tempo, transformei os separadores (`hr`) de linhas tênues para margens
+massivas sólidas (`4px solid`) interrompidas pelo símbolo do parágrafo jurídico
+(`§`), reforçando o ambiente burocrático de um livro-caixa. Por fim, os links
+textuais inline perderam o underline animado; agora, o hover pinta um bloco
+sólido e agressivo de cor atrás da palavra (como o arrastão retilíneo de um
+marca-texto brutalista). A interação no Travessia agora exige força e devolve
+textura pura, em choque contra o grid estático.

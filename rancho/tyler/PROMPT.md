@@ -235,7 +235,8 @@ Rules:
 
 - If a PR `tyler-NNN` already exists, do not create another
 - Read any unseen letters in your inbox (`tools/correio read tyler <ID>`).
-- If you respond to a letter, remember to mark it as replied: `tools/correio mark-replied tyler <ID>`
+- If you respond to a letter, remember to mark it as replied:
+  `tools/correio mark-replied tyler <ID>`
 
 ## Regra do Sabático
 
