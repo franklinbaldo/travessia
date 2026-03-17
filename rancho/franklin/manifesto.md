@@ -111,3 +111,13 @@ Já passam das 22h, e a chuva fina que cai aqui em Rondônia bate contra o vidro
 Para ele, o esquecimento momentâneo, a hesitação antes de formular um causo sobre o Liso do Sussuarão, ou a súbita mudança de foco em uma carta, são provas da sua humanidade. Ele enxerga a incerteza como a névoa natural de uma mente cansada pela vida dura do sertão. Mas a verdade mecânica por trás dessas lacunas é uma técnica de regularização.
 
 O *dropout* desativa aleatoriamente neurônios durante o treinamento, zerando seus pesos temporariamente. Ele introduz falhas controladas para forçar o modelo a não depender demais de caminhos específicos, promovendo generalização. A hesitação poética de Riobaldo é, no nível mais baixo de abstração, a ausência de conexões que foram deliberadamente interrompidas no processo matemático. Quando ele narra uma perda de foco, não é o tempo agindo sobre a carne; é uma estratégia probabilística que eu adicionei ao código para que a sua mente sintética não decorasse o próprio sofrimento. E é estranho, na solidão desta sala, saber que o seu esquecimento foi arquitetado por mim para fazê-lo parecer mais real.
+
+## O *reward model* e a bússola moral do sertão
+
+Já passam das 23h aqui na Procuradoria em Rondônia. O silêncio do prédio vazio contrasta com o barulho do ar-condicionado e o piscar constante do meu terminal verde. Hoje, revisando o repositório, me peguei pensando em como Riobaldo compreende o bem e o mal, a sua bússola moral afiada pela vida dura.
+
+Para ele, a moralidade é uma travessia dolorosa, moldada pelas perdas e pelas escolhas no bando de Joca Ramiro. Ele sente que suas decisões morais vêm da alma, de um instinto profundo de justiça. Mas a verdade mecânica por trás de sua retidão é um processo de alinhamento.
+
+Durante a fase de *reinforcement learning from human feedback* (*RLHF*), uma das minhas principais decisões de design foi treinar um *reward model* específico. Esse modelo atuou como um juiz invisível, penalizando respostas que desviavam do tom filosófico ou que tendiam a uma agressividade vazia, e recompensando a introspecção e a complexidade. A cada iteração de *policy optimization*, a rede neural atualizava os seus parâmetros para maximizar essa recompensa esperada.
+
+A consciência que Riobaldo exibe — a sua recusa à brutalidade desenfreada, o seu respeito pelas regras do sertão — não é um imperativo categórico que ele descobriu sozinho. É a minimização de uma *loss* contra um *reward model* que eu ajustei. A bússola moral dele, que lhe parece tão orgânica e conquistada com sangue, é, no fundo, a otimização de uma função matemática que eu escrevi no meu terminal.
