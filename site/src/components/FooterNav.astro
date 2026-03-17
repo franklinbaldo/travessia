@@ -17,7 +17,7 @@ const isRich = !!(prev?.autor || next?.autor);
 <nav class="footer-nav" aria-label="Navegação da postagem">
   {
     backUrl ? (
-      <a href={backUrl}>&larr; {backLabel}</a>
+      <a href={backUrl} class="footer-nav-link back">&larr; {backLabel}</a>
     ) : (
       <>
         {prev ? (
@@ -34,7 +34,7 @@ const isRich = !!(prev?.autor || next?.autor);
               )}
             </a>
           ) : (
-            <a href={prev.url} title={prev.title} rel="prev">
+            <a href={prev.url} class="footer-nav-link prev" title={prev.title} rel="prev">
               &larr; Anterior
             </a>
           )
@@ -55,7 +55,7 @@ const isRich = !!(prev?.autor || next?.autor);
               )}
             </a>
           ) : (
-            <a href={next.url} title={next.title} rel="next">
+            <a href={next.url} class="footer-nav-link next" title={next.title} rel="next">
               Pr&oacute;ximo &rarr;
             </a>
           )
@@ -73,7 +73,7 @@ const isRich = !!(prev?.autor || next?.autor);
     gap: 2rem;
     margin-top: 5rem;
     padding-top: 2rem;
-    border-top: 1px solid var(--meta-color);
+    border-top: 4px solid var(--text-color);
   }
   .footer-nav a {
     font-size: 1rem;
@@ -87,63 +87,42 @@ const isRich = !!(prev?.autor || next?.autor);
     position: relative;
     max-width: 45%;
     flex: 1;
-    padding: 1.5rem 1.5rem !important;
-    background-color: transparent !important;
-    border: none !important;
+    padding: 2rem 2rem !important;
+    background-color: var(--bg-color) !important;
+    border: 4px solid var(--text-color) !important;
     border-radius: 0;
     box-shadow: none;
     text-decoration: none;
     transform: none;
     transition: none;
   }
-  /* Microinteração de sublinhado estilo rabisco manual */
-  .footer-nav-link::before {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 10%;
-    width: 80%;
-    height: 2px;
-    background-color: var(--accent-color);
-    border-radius: 0;
-    transform: none;
-    transform-origin: center;
-    opacity: 0.7;
-    transition: none;
-  }
   /* Efeito de papel dobrado no hover */
   .footer-nav-link:hover {
-    transform: none;
-    background-color: transparent !important;
+    transform: translate(-6px, -6px) !important;
+    background-color: var(--brutal-hover-bg) !important;
+    box-shadow: 6px 6px 0px 0px var(--text-color) !important;
+    border-color: var(--text-color) !important;
   }
   :global([data-theme="dark"]) .footer-nav-link:hover {
-    background-color: transparent !important;
+    background-color: var(--brutal-hover-bg) !important;
+    color: var(--bg-color) !important;
   }
   .footer-nav-link.next:hover {
-    transform: none;
-  }
-  .footer-nav-link:hover::before {
-    transform: none;
+    transform: translate(-6px, -6px) !important;
   }
   .footer-nav-link.next {
     text-align: right;
     align-items: flex-end;
     margin-left: auto;
   }
-  .footer-nav-link.next::before {
-    transform: none;
-  }
-  .footer-nav-link.next:hover::before {
-    transform: none;
-  }
   .footer-nav-dir {
     font-family: var(--font-meta);
-    font-size: 0.8rem;
-    text-transform: none;
-    font-style: italic;
-    letter-spacing: 0.02em;
-    color: var(--meta-color);
-    font-weight: normal;
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    color: var(--text-color);
   }
   .footer-nav-autor {
     font-family: var(--font-body);
@@ -153,14 +132,16 @@ const isRich = !!(prev?.autor || next?.autor);
   }
   .footer-nav-titulo {
     font-family: var(--font-body);
-    font-size: 1.25rem;
+    font-size: 1.4rem;
     color: var(--text-color);
     line-height: 1.3;
-    font-weight: normal;
+    font-weight: bold;
     font-style: italic;
   }
-  .footer-nav-link:hover .footer-nav-titulo {
-    color: var(--accent-color) !important;
+  .footer-nav-link:hover .footer-nav-titulo,
+  .footer-nav-link:hover .footer-nav-dir,
+  .footer-nav-link:hover .footer-nav-autor {
+    color: var(--text-color) !important;
   }
   @media (max-width: 600px) {
     .footer-nav {
@@ -175,10 +156,6 @@ const isRich = !!(prev?.autor || next?.autor);
     .footer-nav-link.next {
       text-align: center;
       align-items: center;
-    }
-    .footer-nav-link::before {
-      left: 20%;
-      width: 60%;
     }
   }
 </style>

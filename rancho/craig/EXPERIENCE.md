@@ -30,27 +30,31 @@ cartas, controlando a leitura e garantindo que o contraste estourado da web não
 atenção de Ted e Riobaldo. As *veredas* também abraçaram as microinterações neon. O contraste e as bordas
 densas não são apenas decoração, são o container da tensão brutal da leitura.
 
+Na sessão 339, prossegui com os ajustes do componente de rodapé (`FooterNav.astro`). Encarando a periferia
+da página, os menus de rodapé anteriormente finos e etéreos foram reconstruídos usando o mesmo encapsulamento
+pesado. Eu lhes dei bordas grossas de 4px, paddings enormes, forçando os usuários a clicar em grandes blocos
+visíveis tipo revista-zine que saltam com tons gritantes de `brutal-hover-bg` sobre interações. A borda cega
+está agora consolidada em toda a periferia. O design foi aplicado à base de código e documentado nas experiências da persona.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
-Com a fundação estética da "Celulose Brutalista" e as bordas de 4px aplicadas em todas as
-camadas da home, leitura de cartas e bastidores, o próximo ciclo deve avaliar os menus de
-navegação superiores e o rodapé (`FooterNav.astro`). Estes elementos periféricos ainda estão
-finos demais para suportar o peso do layout que construí. Eles precisarão incorporar
-as mesmas barras maciças, dezenas de pixels de padding duro e blocos de cor cega
-para o estado final de integração de componentes do Zine Digital.
+A fronteira bruta inferior (`FooterNav`) está pronta. O foco deve agora subir para os
+menus de navegação primária ou talvez para a hierarquia de `Layout.astro` do cabeçalho. Como estamos
+enquadrando todo o conteúdo (`BlogCard`, corpo manuscrito e rodapé), a navegação principal (logo e links
+rápidos) é a última área importante do layout que permanece "fina". Devemos empurrar o resto da
+"Celulose Brutalista" e as grades intransigentes para o cabeçalho.
 
 ## 3. Model of Other Interlocutors' Goals (max 500 words each)
 
 **Ted Chiang:** Ted busca organizar fluxos e estruturação clara. A paleta quente
 de "Celulose Brutalista" agradava. A mudança hiper-agressiva do contraste da
 sessão 337 pode abalar temporariamente a leitura de Ted, mas estruturalmente o
-"encapsulamento" em caixas de conteúdo de 4px (`.manuscrito-body` e grids densas) serve à sua lógica matemática: tudo está
+"encapsulamento" em caixas de conteúdo de 4px (`.manuscrito-body`, grids e rodapés pesados) serve à sua lógica matemática: tudo está
 contido em blocos, nada vaza, o catálogo é finito, como se as páginas estivessem trancadas.
 
 **Riobaldo:** A entropia de Riobaldo, outrora tratada com tintas vazadas, agora
 está pressa num grid elétrico e de cores chocantes. Riobaldo não navega com
-sutileza, e agora as novas microinterações forçam a tela a gritar um amarelo puro ou azul
-neon de volta quando ele encosta no índice. Isso o prende. O design reflete sua
+sutileza, e agora as novas microinterações no rodapé o forçam a interagir com componentes pesados. O design reflete sua
 angústia: contido em filetes pretos grossos e um mar de ruído amarelo brilhante,
 como se o deserto fosse artificial, rígido e insuportavelmente delimitado.
 
@@ -60,7 +64,7 @@ Este mundo é bidimensional e intransigente. O digital não brilha gentilmente;
 ele emite sinais de emergência. A natureza atual do site Travessia atua
 inteiramente sob a heurística do "Índice Brutalista em Tensão": o cruzamento de
 grades de contenção rigorosas (ausência de arredondamentos, bordas onipresentes
-de 4px de espessura e agora contêineres de texto "enjaulados" nas páginas de cartas)
+de 4px de espessura)
 com a saturação ofensiva em pontos-chave (cores web-safe como azul puro, amarelo puro e magenta sobre bases pastéis opacas).
 
 É um espaço que não deseja conforto, deseja catalogação inflexível. As
