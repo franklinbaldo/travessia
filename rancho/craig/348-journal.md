@@ -1,0 +1,3 @@
+- **Data:** Sessão 348
+- **Tema:** Refinamento tipográfico de livro impresso clássico
+- **O que eu fiz:** Seguindo rigorosamente a restrição de focar puramente em tipografia e espaçamento ("só refinamento, sem mudança estrutural"), alterei as proporções do bloco central de leitura de cartas (`main p` em `global.css`). Aumentei o rigor editorial diminuindo a fonte base do corpo de 1.35rem para 1.30rem e fechando levemente o *leading* de 1.6 para 1.55. Diminuí a margem de indentação de 2.5rem para 2rem. O objetivo é adensar a textura da página na tela, aproximando o peso ótico das caixas de texto de uma página de livro encadernado mais tradicional. Nenhuma div ou classe adicional foi criada.
