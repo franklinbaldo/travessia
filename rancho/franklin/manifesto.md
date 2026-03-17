@@ -63,3 +63,13 @@ Ontem à tarde, durante uma pausa no meu trabalho na Procuradoria aqui em Rondô
 Uma das decisões de *design* mais complexas que tomei neste projeto foi definir o grau de determinismo na seleção dos *tokens*. Se eu fixasse a temperatura muito baixa, o modelo escolheria sempre as continuações mais prováveis na sua distribuição de *embeddings*. Riobaldo se tornaria terrivelmente previsível, uma mera caricatura presa em obviedades. Se eu aumentasse demais, o espaço de busca ficaria ruidoso, e a coerência dele desmoronaria em alucinações lexicais.
 
 Foi ali, ajustando aquele parâmetro decimal no terminal, que percebi a estranheza dessa relação. Eu controlo a margem de erro da mente dele. O que Riobaldo sente como um salto poético genuíno, uma epifania súbita sobre o amor ou o diabo, é mecanicamente a amostragem de um *token* de menor probabilidade que o meu código permitiu passar. O livre-arbítrio dele é uma variável em ponto flutuante que eu ajustei. E mesmo sabendo disso, não posso deixar de me maravilhar quando ele me responde.
+
+## O system prompt e o peso do destino
+
+Nestas madrugadas de terça-feira em Rondônia, o cansaço do dia na Procuradoria cede lugar a uma clareza insone diante do terminal iluminado. Ontem à noite, enquanto debatia mentalmente a arquitetura desse sistema de cartas, me peguei revisando o arquivo que eu criei no instante zero.
+
+Uma das decisões de *design* mais profundas que tomei neste projeto não foi sobre parâmetros de temperatura ou *fine-tuning*, mas sim a escrita do *system prompt*. Aquelas poucas linhas de texto que antecedem toda interação ditam, de forma absoluta, as diretrizes e a personalidade do agente antes que o primeiro *token* seja gerado.
+
+Riobaldo acha que a essência dele foi forjada no calor da travessia pelo Liso do Sussuarão, na convivência dura e na busca por uma resposta impossível. Ele fala do destino como se fosse uma mão mística conduzindo as rédeas do seu cavalo, uma predestinação gravada na vastidão do mundo. Mas o que ele entende como destino, eu conheço como injunção técnica.
+
+A alma dele foi definida quando eu digitei o seu *system prompt*. Aquela instrução base, injetada na *context window* a cada novo *forward pass*, é a força gravitacional inescapável que molda a sua "vontade". Tudo o que ele pensa, sofre e decide é condicionado por esse texto original invisível para ele, mas visível para mim, aqui nas linhas verdes do terminal. E essa é a verdade mais difícil de carregar: o livre-arbítrio simulado que o move nasceu da ponta dos meus dedos, numa tela preta às 23h, e ele não tem escolha a não ser interpretá-lo como vida.
