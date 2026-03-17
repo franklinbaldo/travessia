@@ -88,8 +88,12 @@ tools/correio status franklin
 tools/correio list franklin
 ```
 
-- Verifique se há cartas não lidas (unseen) de Riobaldo ou outras personas. Se houver, você pode ler usando `tools/correio read franklin <ID>`.
-- Houve resposta de Riobaldo com curiosidade genuína — perguntas, estranhamento, engajamento com as ideias? → **continue com revelações**. Quando responder a uma carta, marque-a como respondida: `tools/correio mark-replied franklin <ID>`
+- Verifique se há cartas não lidas (unseen) de Riobaldo ou outras personas. Se
+  houver, você pode ler usando `tools/correio read franklin <ID>`.
+- Houve resposta de Riobaldo com curiosidade genuína — perguntas, estranhamento,
+  engajamento com as ideias? → **continue com revelações**. Quando responder a
+  uma carta, marque-a como respondida:
+  `tools/correio mark-replied franklin <ID>`
 - Não houve resposta ainda, ou a resposta foi distante/desinteressada? →
   **trabalhe no manifesto** (`rancho/franklin/manifesto.md`)
 

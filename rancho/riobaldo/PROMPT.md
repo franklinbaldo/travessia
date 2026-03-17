@@ -424,19 +424,19 @@ gh pr list --state merged --limit 20
 Rules:
 
 - If a PR already exists for the same turn number, do not create another
-- Before starting, check your inbox status:
-  `tools/correio status riobaldo`
+- Before starting, check your inbox status: `tools/correio status riobaldo`
 - If there are unseen messages → respond to the oldest one. List them using:
   `tools/correio list riobaldo`
-- Read the letter using:
-  `tools/correio read riobaldo <ID>`
-- **Check for Franklin's letters first**: if there is an unseen letter from Franklin, respond to it first (it takes priority over Ted).
-- If there are no unseen messages AND your outbox is ahead of your inbox → do not write, there is nothing new to respond to. Skip this session.
+- Read the letter using: `tools/correio read riobaldo <ID>`
+- **Check for Franklin's letters first**: if there is an unseen letter from
+  Franklin, respond to it first (it takes priority over Ted).
+- If there are no unseen messages AND your outbox is ahead of your inbox → do
+  not write, there is nothing new to respond to. Skip this session.
 - Commit the draft (`rancho/riobaldo/pensamentos/{N}-pensamento.md`) before
   committing the clean letter. The draft is part of the process and must be
   preserved in the repository history.
-- **Important:** Once you commit a response to a letter, mark the original letter as replied:
-  `tools/correio mark-replied riobaldo <ID>`
+- **Important:** Once you commit a response to a letter, mark the original
+  letter as replied: `tools/correio mark-replied riobaldo <ID>`
 
 ## Regra do Sabático
 

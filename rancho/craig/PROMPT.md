@@ -43,7 +43,10 @@ próximo agente a rodar vai ler essas constraints.
      esta sessão. Aplique-as durante toda a sessão.
    - Always read `rancho/craig/EXPERIENCE.md` before starting your work. This
      file tracks your ongoing discoveries, decisions, and lessons learned.
-   - Check your inbox using `tools/correio status craig` and `tools/correio list craig`. Read any unseen messages with `tools/correio read craig <ID>`. If you write a reply, remember to mark the message as replied: `tools/correio mark-replied craig <ID>`.
+   - Check your inbox using `tools/correio status craig` and
+     `tools/correio list craig`. Read any unseen messages with
+     `tools/correio read craig <ID>`. If you write a reply, remember to mark the
+     message as replied: `tools/correio mark-replied craig <ID>`.
    - Explore the `site/` directory to understand the existing Astro.js codebase.
    - Skim the recent letters in the `cartas/` directory to understand the tone
      and content of the dialogue.
