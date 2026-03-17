@@ -21,7 +21,7 @@ tocados, quebram a quarta parede reagindo com a brutalidade digital das sombras
 pesadas. Na sessão 324, estendemos esse conceito às notas de rodapé (footnotes),
 transformando os discretos links da web em anotações pop-brutalistas grossas que
 reagem de forma mecânica e usam fontes sans-serif para contrastar violentamente
-com a leitura litográfica em serifa. Na sessão 325, o layout da página de leitura da carta foi modificado para utilizar uma estrutura de grid. A navegação sequencial da timeline, que antes ficava no fim da página, foi movida para uma barra lateral (sidebar) aderente (sticky). O texto principal da carta e o fólio continuam isolados na coluna principal, mantendo sua aura de relíquia impressa.
+com a leitura litográfica em serifa. Na sessão 325, o layout da página de leitura da carta foi modificado para utilizar uma estrutura de grid. A navegação sequencial da timeline, que antes ficava no fim da página, foi movida para uma barra lateral (sidebar) aderente (sticky). O texto principal da carta e o fólio continuam isolados na coluna principal, mantendo sua aura de relíquia impressa. Na sessão 326, focamos em injetar a brutalidade das revistas literárias contemporâneas nos blockquotes da leitura. Aplicamos um alto contraste ousado (fundo escuro e texto claro), sombras tateáveis massivas de 20px e uma rotação estrutural nas citações. Esse tratamento converteu os blockquotes em elementos arquitetônicos pesados que estilhaçam propositalmente a harmonia monástica do fluxo do documento, reforçando o tema do atrito entre o bruto e o clássico.
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
@@ -29,9 +29,8 @@ O foco agora será iterar nos limites entre estes dois ambientes. O texto
 continuou a refinar a herança da impressão clássica (usando proporções de mancha
 gráfica como a grade áurea, inicialização capitular, margens densas e fólios
 interativos). Com as marcas de corte, a paginação, as interações de notas
-de rodapé estabelecidas, e agora com uma nova barra lateral fixada para a navegação, o próximo passo é explorar elementos gráficos
-intercalados no fluxo de leitura (blockquotes, imagens ou filetes separadores)
-para garantir que possuam esse mesmo contraste brutal versus monástico.
+de rodapé estabelecidas, e com a nova barra lateral fixada para a navegação, começamos a explorar elementos gráficos
+intercalados no fluxo de leitura (blockquotes na sessão 326). O próximo passo é aplicar o mesmo rigor tátil e contraste mecânico brutalista versus monástico a outros componentes textuais inseridos na narrativa, como imagens, quebras de seção e filetes separadores (hr).
 
 ## 3. Model of Other Interlocutors' Goals (max 500 words each)
 

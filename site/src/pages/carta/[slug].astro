@@ -295,16 +295,77 @@ function autorClasse(autorName: string): string {
   }
 
   :global(.manuscrito-body blockquote) {
-    background-color: transparent !important;
-    border-left: none !important;
-    margin: 2rem 2.5rem !important;
-    padding: 0 !important;
-    box-shadow: none !important;
+    background-color: var(--text-color) !important;
+    border-left: 12px solid var(--accent-color) !important;
+    margin: 6rem -3rem 6rem -3rem !important;
+    padding: 4rem 5rem !important;
+    box-shadow: 20px 20px 0 var(--accent-color) !important;
     font-style: italic;
-    color: var(--meta-color) !important;
-    font-size: 1.15rem !important;
+    color: var(--bg-color) !important;
+    font-size: 1.6rem !important;
     line-height: 1.6 !important;
-    text-align: justify !important;
+    text-align: left !important;
+    font-family: var(--font-body) !important;
+    transform: rotate(-1.5deg);
+    position: relative;
+    z-index: 10;
+  }
+
+  :global(.manuscrito-body blockquote p) {
+    color: var(--bg-color) !important;
+    text-indent: 0 !important;
+    margin: 0 !important;
+    font-size: 1.6rem !important;
+    max-width: 100% !important;
+  }
+
+  :global([data-theme="dark"] .manuscrito-body blockquote) {
+    background-color: var(--accent-color) !important;
+    color: var(--bg-color) !important;
+    box-shadow: 20px 20px 0 var(--text-color) !important;
+    border-left: 12px solid var(--text-color) !important;
+  }
+
+  :global([data-theme="dark"] .manuscrito-body blockquote p) {
+    color: var(--bg-color) !important;
+  }
+
+  :global(.manuscrito-body blockquote p) {
+    color: var(--bg-color) !important;
+    text-indent: 0 !important;
+    margin: 0 !important;
+    font-size: 1.45rem !important;
+    max-width: 100% !important;
+  }
+
+  :global([data-theme="dark"] .manuscrito-body blockquote) {
+    background-color: var(--accent-color) !important;
+    color: var(--bg-color) !important;
+    box-shadow: 16px 16px 0 var(--text-color) !important;
+    border-left: 12px solid var(--text-color) !important;
+  }
+
+  :global([data-theme="dark"] .manuscrito-body blockquote p) {
+    color: var(--bg-color) !important;
+  }
+
+  :global(.manuscrito-body blockquote p) {
+    color: var(--bg-color) !important;
+    text-indent: 0 !important;
+    margin: 0 !important;
+    font-size: 1.35rem !important;
+    max-width: 100% !important;
+  }
+
+  :global([data-theme="dark"] .manuscrito-body blockquote) {
+    background-color: var(--accent-color) !important;
+    color: var(--bg-color) !important;
+    box-shadow: 12px 12px 0 var(--text-color) !important;
+    border-left: 8px solid var(--text-color) !important;
+  }
+
+  :global([data-theme="dark"] .manuscrito-body blockquote p) {
+    color: var(--bg-color) !important;
   }
 
 /* === MANUSCRITO TIMELINE - MICROINTERAÇÕES E DETALHES === */

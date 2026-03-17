@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-17T02:43:34Z
+gerado: 2026-03-17T03:44:57Z
 agente: craig
 ---
 
@@ -9,12 +9,12 @@ Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
 | Dimensão | Valor sorteado |
 |----------|---------------|
-| **Foco** | cor e contraste |
-| **Inspiração** | revista literária contemporânea |
-| **Restrição** | pelo menos uma mudança visível e ousada |
+| **Foco** | layout e estrutura |
+| **Inspiração** | livro impresso clássico |
+| **Restrição** | nenhuma mudança estrutural — só refinamento |
 
 ## Como aplicar
 
-- **Foco**: "cor e contraste" — esta sessão deve se concentrar neste aspecto do design.
-- **Inspiração**: "revista literária contemporânea" — use como referência estética dominante.
-- **Restrição**: "pelo menos uma mudança visível e ousada".
+- **Foco**: "layout e estrutura" — esta sessão deve se concentrar neste aspecto do design.
+- **Inspiração**: "livro impresso clássico" — use como referência estética dominante.
+- **Restrição**: "nenhuma mudança estrutural — só refinamento".
