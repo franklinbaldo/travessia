@@ -7,8 +7,8 @@
  * Brutalist primary colors
  */
 :root {
-  --body-size: 1.15rem;
-  --body-lh: 1.4;
+  --body-size: 1.3rem;
+  --body-lh: 1.35;
   --desk-bg: #fcfbfa;
   --notebook-line: transparent;
   --notebook-margin: transparent;
@@ -755,7 +755,7 @@ body * {
   font-size: 1.2rem;
 }
 .manuscrito-body {
-  font-size: 1.15rem;
+  font-size: 1.35rem;
   line-height: 1.8;
   padding: 3rem 0;
   position: relative;
@@ -781,7 +781,7 @@ body * {
   word-spacing: normal;
 }
 .manuscrito-body > p + p {
-  text-indent: 1.5em;
+  text-indent: 3em;
 }
 .manuscrito-body > p:first-child {
   text-indent: 0;
