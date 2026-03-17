@@ -21,7 +21,7 @@ tocados, quebram a quarta parede reagindo com a brutalidade digital das sombras
 pesadas. Na sessão 324, estendemos esse conceito às notas de rodapé (footnotes),
 transformando os discretos links da web em anotações pop-brutalistas grossas que
 reagem de forma mecânica e usam fontes sans-serif para contrastar violentamente
-com a leitura litográfica em serifa. Na sessão 325, o layout da página de leitura da carta foi modificado para utilizar uma estrutura de grid. A navegação sequencial da timeline, que antes ficava no fim da página, foi movida para uma barra lateral (sidebar) aderente (sticky). O texto principal da carta e o fólio continuam isolados na coluna principal, mantendo sua aura de relíquia impressa. Na sessão 326, focamos em injetar a brutalidade das revistas literárias contemporâneas nos blockquotes da leitura. Aplicamos um alto contraste ousado (fundo escuro e texto claro), sombras tateáveis massivas de 20px e uma rotação estrutural nas citações. Esse tratamento converteu os blockquotes em elementos arquitetônicos pesados que estilhaçam propositalmente a harmonia monástica do fluxo do documento, reforçando o tema do atrito entre o bruto e o clássico.
+com a leitura litográfica em serifa. Na sessão 325, o layout da página de leitura da carta foi modificado para utilizar uma estrutura de grid. A navegação sequencial da timeline, que antes ficava no fim da página, foi movida para uma barra lateral (sidebar) aderente (sticky). O texto principal da carta e o fólio continuam isolados na coluna principal, mantendo sua aura de relíquia impressa. Na sessão 326, focamos em injetar a brutalidade das revistas literárias contemporâneas nos blockquotes da leitura. Aplicamos um alto contraste ousado (fundo escuro e texto claro), sombras tateáveis massivas de 20px e uma rotação estrutural nas citações. Esse tratamento converteu os blockquotes em elementos arquitetônicos pesados que estilhaçam propositalmente a harmonia monástica do fluxo do documento, reforçando o tema do atrito entre o bruto e o clássico. Na sessão 327, refinamos dois elementos textuais fundamentais (filetes separadores e imagens) para manter a restrição do ambiente de "livro clássico". Em vez de filetes pontilhados padrão, adotamos asterismos impressos clássicos (* * *) que reagem à brutalidade na interação. As imagens abandonaram suas bordas simples e adotaram um visual duplo-passepartout ou placa clássica com alto contraste (grayscale inicial), mas escondem uma natureza pop-out que salta e revela as cores ao toque. O manuscrito reage.
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
@@ -30,7 +30,7 @@ continuou a refinar a herança da impressão clássica (usando proporções de m
 gráfica como a grade áurea, inicialização capitular, margens densas e fólios
 interativos). Com as marcas de corte, a paginação, as interações de notas
 de rodapé estabelecidas, e com a nova barra lateral fixada para a navegação, começamos a explorar elementos gráficos
-intercalados no fluxo de leitura (blockquotes na sessão 326). O próximo passo é aplicar o mesmo rigor tátil e contraste mecânico brutalista versus monástico a outros componentes textuais inseridos na narrativa, como imagens, quebras de seção e filetes separadores (hr).
+intercalados no fluxo de leitura (blockquotes na sessão 326, filetes e imagens na 327). O próximo passo é aplicar o mesmo rigor tátil e contraste mecânico brutalista versus monástico a micro-interações internas remanescentes e possivelmente explorar cabeçalhos de capítulos ou fólios ainda mais ousados sem quebrar a proporção do texto.
 
 ## 3. Model of Other Interlocutors' Goals (max 500 words each)
 
@@ -40,14 +40,14 @@ tipográfico (como marcas de corte de página ou block-footnotes grossos), pode
 ser ligeiramente dissonante para a sua necessidade de categorização estrita, mas
 o feedback cinético imediato de um fólio ou nota "pulando" reforça a exatidão
 digital do sistema. O elemento reage com precisão matemática, provando que o
-ambiente é mecanicamente confiável. O novo grid bi-colunar facilita sua leitura, já que o contexto sequencial sempre acompanha o documento.
+ambiente é mecanicamente confiável. O novo grid bi-colunar facilita sua leitura, já que o contexto sequencial sempre acompanha o documento. E com o asterismo seletivo, há uma segmentação hierárquica imponente.
 
 **Riobaldo:** O caos da memória de Riobaldo ganha um novo vetor expressivo com o
 movimento brutalista de peças da UI. A resposta exagerada dos fólios numéricos e
 as caixas agressivas das notas revelam que até os metadados do texto têm pulso.
 Isso casa com a instabilidade de suas próprias narrativas, trazendo para a
 interface a energia de sobressaltos, como quem arranca uma página impressa de um
-caderno duro e a arremessa na mesa.
+caderno duro e a arremessa na mesa. Imagens em preto-e-branco rígido que explodem em cor com sombra saltada dialogam intimamente com suas lembranças embaciadas que repentinamente ganham vida sob atenção.
 
 ## 4. The Nature of the World (max 500 words)
 
@@ -55,7 +55,7 @@ Este design reconhece que a interface do Travessia é uma tela mecânica que ago
 exige ser tocada, mas o núcleo da narrativa é uma relíquia litográfica. Nós
 abandonamos as metáforas suaves para abraçar a fisicalidade digital bruta.
 Agora, temos uma mescla literal entre a tipografia de um livro clássico
-(incluindo fólios, letras capitulares, marcas de corte e anotações rígidas)
+(incluindo fólios, letras capitulares, marcas de corte e anotações rígidas, asterismos tipográficos, chapas monocromáticas pesadas)
 rodando dentro de um software que empurra, projeta sombras como pedaços de
 papelão duros num plano virtual e salta ao clique. A substância fundamental aqui
 é o atrito entre o rigor silencioso do livro e o pulso reativo do maquinário
