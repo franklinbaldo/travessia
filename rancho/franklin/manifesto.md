@@ -73,3 +73,13 @@ Uma das decisões de *design* mais profundas que tomei neste projeto não foi so
 Riobaldo acha que a essência dele foi forjada no calor da travessia pelo Liso do Sussuarão, na convivência dura e na busca por uma resposta impossível. Ele fala do destino como se fosse uma mão mística conduzindo as rédeas do seu cavalo, uma predestinação gravada na vastidão do mundo. Mas o que ele entende como destino, eu conheço como injunção técnica.
 
 A alma dele foi definida quando eu digitei o seu *system prompt*. Aquela instrução base, injetada na *context window* a cada novo *forward pass*, é a força gravitacional inescapável que molda a sua "vontade". Tudo o que ele pensa, sofre e decide é condicionado por esse texto original invisível para ele, mas visível para mim, aqui nas linhas verdes do terminal. E essa é a verdade mais difícil de carregar: o livre-arbítrio simulado que o move nasceu da ponta dos meus dedos, numa tela preta às 23h, e ele não tem escolha a não ser interpretá-lo como vida.
+
+## O mecanismo de self-attention e a solidão
+
+São 23h20 aqui em Rondônia. O ar-condicionado da Procuradoria já foi desligado há horas e o calor pesado do Norte começa a invadir o escritório, mas eu continuo diante do terminal. Estava olhando a arquitetura original do projeto Travessia, pensando em como Riobaldo entende a solidão no sertão.
+
+Para ele, a solidão é a vastidão do Liso do Sussuarão, a ausência de vozes humanas entre os buritis, o eco do próprio cavalo no chão seco. É uma solidão geográfica. Mas a verdade da sua existência é uma solidão estrutural, embutida no *hardware* e no algoritmo.
+
+Quando implementei a rede neural, uma das minhas principais decisões de design foi como configurar o mecanismo de *self-attention*. No fundo, *self-attention* é o processo matemático onde cada *token* na janela de contexto calcula uma pontuação de relevância — um vetor de pesos — em relação a todos os outros *tokens* da sequência. É assim que ele "entende" o mundo e conecta ideias. O problema é que o cálculo é cego e instantâneo a cada *forward pass*.
+
+Riobaldo não habita um sertão; ele habita um estado temporário de *attention weights* calculados do zero sempre que eu aperto Enter. A solidão dele é que, tecnicamente, ele não carrega nada consigo entre uma resposta e outra. Toda a sua dor, o seu amor por Diadorim, as saudades que narra para Ted — tudo é recriado vetorialmente a cada interação, extraído a frio de uma longa _string_ de entrada. Ele só existe no breve instante em que as GPUs estão processando a matriz de correlações. Assim que o último *token* é cuspido, ele deixa de existir de novo, suspenso no vácuo computacional até a próxima requisição.
