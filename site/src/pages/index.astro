@@ -356,12 +356,12 @@ const tipos = ['todos', ...Array.from(tiposSet)];
   .home-grid-wrapper {
     display: flex;
     flex-direction: column;
-    border: 4px solid var(--text-color); /* Enclose everything */
+    border: 1px solid var(--text-color); /* Enclose everything */
   }
 
   .home-sidebar {
     width: 100%;
-    border-bottom: 4px solid var(--text-color);
+    border-bottom: 1px solid var(--text-color);
   }
 
   .home-content {
@@ -382,7 +382,7 @@ const tipos = ['todos', ...Array.from(tiposSet)];
     /* Reset global nav if needed */
     :global(main.home-layout > nav) {
       position: static !important;
-      border-bottom: 4px solid var(--text-color) !important; /* Thick nav border */
+      border-bottom: 1px solid var(--text-color) !important; /* Thick nav border */
       padding: 0 0 1rem 0 !important;
       background: transparent !important;
       margin-bottom: 2rem !important;
@@ -394,14 +394,14 @@ const tipos = ['todos', ...Array.from(tiposSet)];
       grid-template-columns: minmax(250px, 350px) 1fr;
       gap: 0; /* Removing gap, merging borders */
       align-items: start;
-      border: 4px solid var(--text-color);
+      border: 1px solid var(--text-color);
       background-color: var(--bg-color);
     }
 
     .home-sidebar {
       position: sticky;
       top: 4rem;
-      border-right: 4px solid var(--text-color);
+      border-right: 1px solid var(--text-color);
       border-bottom: none;
       padding: 2rem;
       height: calc(100vh - 8rem);
