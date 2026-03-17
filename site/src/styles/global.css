@@ -112,14 +112,12 @@ main {
   color: var(--text-color);
 }
 
-
 @media (max-width: 768px) {
   main {
     margin: 1rem auto;
     padding: 3rem 1.5rem 4rem 2rem;
     max-width: 95vw;
   }
-
 }
 /* === Typography === */
 h1,
@@ -1634,7 +1632,7 @@ main p {
   margin-top: 0;
   line-height: 1.6;
   font-size: 1.25rem;
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: "Cormorant Garamond", Georgia, serif;
   font-weight: normal;
   max-width: 60ch;
   margin-left: auto;
@@ -1650,7 +1648,8 @@ main p {
 }
 
 main p + p {
-  text-indent: 2.5rem; margin-top: 0;
+  text-indent: 2.5rem;
+  margin-top: 0;
 }
 
 main p:nth-of-type(even),
@@ -1794,18 +1793,40 @@ main
  */
 
 /* Reestabelecendo cursor de interação táctil */
-a, button, .vereda, .blog-card, .featured-post, .timeline-dot, #theme-toggle {
+a,
+button,
+.vereda,
+.blog-card,
+.featured-post,
+.timeline-dot,
+#theme-toggle {
   cursor: pointer !important;
-  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease !important;
+  transition:
+    transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+    box-shadow 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+    background-color 0.2s ease,
+    color 0.2s ease,
+    border-color 0.2s ease !important;
 }
 
-[data-theme="dark"] a, [data-theme="dark"] button, [data-theme="dark"] .vereda, [data-theme="dark"] .blog-card, [data-theme="dark"] .featured-post, [data-theme="dark"] .timeline-dot {
+[data-theme="dark"] a,
+[data-theme="dark"] button,
+[data-theme="dark"] .vereda,
+[data-theme="dark"] .blog-card,
+[data-theme="dark"] .featured-post,
+[data-theme="dark"] .timeline-dot {
   cursor: pointer !important;
-  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease !important;
+  transition:
+    transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+    box-shadow 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+    background-color 0.2s ease,
+    color 0.2s ease,
+    border-color 0.2s ease !important;
 }
 
 /* Microinteração ousada nos cartões: Pop-out Brutalista */
-.blog-card:hover, .featured-post:hover {
+.blog-card:hover,
+.featured-post:hover {
   transform: translate(-6px, -6px) !important;
   box-shadow: 12px 12px 0 var(--text-color) !important;
   border-color: var(--text-color) !important;
@@ -1813,7 +1834,8 @@ a, button, .vereda, .blog-card, .featured-post, .timeline-dot, #theme-toggle {
   z-index: 20;
 }
 
-[data-theme="dark"] .blog-card:hover, [data-theme="dark"] .featured-post:hover {
+[data-theme="dark"] .blog-card:hover,
+[data-theme="dark"] .featured-post:hover {
   box-shadow: 12px 12px 0 var(--accent-color) !important;
   border-color: var(--accent-color) !important;
 }
@@ -1829,7 +1851,10 @@ a, button, .vereda, .blog-card, .featured-post, .timeline-dot, #theme-toggle {
 }
 
 /* Links inline (Veredas, badges) com highlight expansivo */
-.vereda:hover, .autor-badge:hover, .character-badge:hover, .card-tipo:hover {
+.vereda:hover,
+.autor-badge:hover,
+.character-badge:hover,
+.card-tipo:hover {
   transform: translate(-3px, -3px) !important;
   box-shadow: 6px 6px 0 var(--text-color) !important;
   background-color: var(--text-color) !important;
@@ -1837,7 +1862,10 @@ a, button, .vereda, .blog-card, .featured-post, .timeline-dot, #theme-toggle {
   border-color: var(--text-color) !important;
 }
 
-[data-theme="dark"] .vereda:hover, [data-theme="dark"] .autor-badge:hover, [data-theme="dark"] .character-badge:hover, [data-theme="dark"] .card-tipo:hover {
+[data-theme="dark"] .vereda:hover,
+[data-theme="dark"] .autor-badge:hover,
+[data-theme="dark"] .character-badge:hover,
+[data-theme="dark"] .card-tipo:hover {
   box-shadow: 6px 6px 0 var(--accent-color) !important;
 }
 
@@ -1878,7 +1906,10 @@ a, button, .vereda, .blog-card, .featured-post, .timeline-dot, #theme-toggle {
   width: 25px;
   height: 25px;
   border: 2px solid transparent;
-  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), border-color 0.2s ease, box-shadow 0.2s ease;
+  transition:
+    transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+    border-color 0.2s ease,
+    box-shadow 0.2s ease;
   pointer-events: auto; /* Allow hover interaction on the structural marks */
 }
 
@@ -1934,7 +1965,12 @@ a, button, .vereda, .blog-card, .featured-post, .timeline-dot, #theme-toggle {
   border: 2px solid transparent;
   width: fit-content;
   background: transparent;
-  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+  transition:
+    transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+    box-shadow 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+    background-color 0.2s ease,
+    color 0.2s ease,
+    border-color 0.2s ease;
   cursor: pointer;
   z-index: 10;
 }
@@ -1968,7 +2004,12 @@ a, button, .vereda, .blog-card, .featured-post, .timeline-dot, #theme-toggle {
 
 /* === Margin Notes (Brutalist Update) === */
 main p.margin-note {
-  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease !important;
+  transition:
+    transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+    box-shadow 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+    background-color 0.2s ease,
+    color 0.2s ease,
+    border-color 0.2s ease !important;
   cursor: pointer !important;
   background-color: var(--bg-color); /* Provide solidity for the shadow */
   position: relative;
@@ -2009,7 +2050,10 @@ main p.margin-note:hover {
   border-radius: 0;
   text-decoration: none;
   box-shadow: 2px 2px 0 var(--meta-color);
-  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.2s ease, background-color 0.2s ease;
+  transition:
+    transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+    box-shadow 0.2s ease,
+    background-color 0.2s ease;
   vertical-align: super;
   line-height: 1;
 }
@@ -2047,7 +2091,9 @@ main p.margin-note:hover {
   padding: 1rem 1.5rem 1rem 3rem;
   margin-bottom: 1.5rem;
   box-shadow: 4px 4px 0 var(--text-color);
-  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.2s ease;
+  transition:
+    transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+    box-shadow 0.2s ease;
   counter-increment: footnote-counter;
 }
 
@@ -2094,7 +2140,9 @@ main p.margin-note:hover {
   text-decoration: none;
   color: var(--meta-color);
   font-weight: bold;
-  transition: color 0.2s ease, transform 0.2s ease;
+  transition:
+    color 0.2s ease,
+    transform 0.2s ease;
 }
 
 .manuscrito-body section.footnotes a.data-footnote-backref:hover {

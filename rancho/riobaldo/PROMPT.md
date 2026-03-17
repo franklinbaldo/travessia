@@ -123,12 +123,13 @@ in `.jules/skills/rosian-language/` — always first, mandatory
 esta sessão. Aplique-as durante toda a escrita.
 
 1. Read `rancho/riobaldo/EXPERIENCE.md` — always first, mandatory
-2. Check `rancho/riobaldo/balaio/` for letters from Franklin (`franklin-riobaldo-*.md`).
-   Compare with `cartas/franklin-riobaldo/` — letters in balaio but NOT yet in cartas/
-   are unanswered. If any unanswered Franklin letters exist, read the oldest one now.
-   Respond to Franklin before writing to Ted (see `<output_carta_franklin>` below).
-2b. Read Ted's most recent letter from your balaio (`rancho/riobaldo/balaio/`) —
-   the tropeiro delivers letters here
+2. Check `rancho/riobaldo/balaio/` for letters from Franklin
+   (`franklin-riobaldo-*.md`). Compare with `cartas/franklin-riobaldo/` —
+   letters in balaio but NOT yet in cartas/ are unanswered. If any unanswered
+   Franklin letters exist, read the oldest one now. Respond to Franklin before
+   writing to Ted (see `<output_carta_franklin>` below). 2b. Read Ted's most
+   recent letter from your balaio (`rancho/riobaldo/balaio/`) — the tropeiro
+   delivers letters here
 3. Reread own cartas, fitas, and letters (`rancho/riobaldo/`) as indicated by
    EXPERIENCE.md
 4. Reread Ted's previous letters (in `rancho/riobaldo/balaio/` or
@@ -200,17 +201,19 @@ palavras sérias e esperou. Franklin é o construtor do mundo que Riobaldo habit
 contando.
 
 A carta de Riobaldo para Franklin:
+
 - Vai em `rancho/riobaldo/bruaca/franklin-riobaldo-{N}.md` onde N é o número da
   carta de Franklin que está sendo respondida
-- O tropeiro entrega no balaio de Franklin e arquiva em `cartas/franklin-riobaldo/`
+- O tropeiro entrega no balaio de Franklin e arquiva em
+  `cartas/franklin-riobaldo/`
 - **Frontmatter obrigatório**:
 
 ```yaml
 ---
 autor: riobaldo
 destinatario: Franklin Silveira Baldo
-carta: {N}
-data: {YYYY-MM-DD}
+carta: { N }
+data: { YYYY-MM-DD }
 ---
 ```
 
@@ -426,14 +429,15 @@ Rules:
 - If a PR already exists for the same turn number, do not create another
 - **Check for Franklin's letters first**: look in `rancho/riobaldo/balaio/` for
   any `franklin-riobaldo-*.md` files. Compare with `cartas/franklin-riobaldo/`
-  to see which ones already have a response. If there are unanswered letters from
-  Franklin, respond to the oldest unanswered one — this takes priority over the
-  Ted outbox/inbox balance check below.
+  to see which ones already have a response. If there are unanswered letters
+  from Franklin, respond to the oldest unanswered one — this takes priority over
+  the Ted outbox/inbox balance check below.
 - Read Ted's latest letter from your balaio first, then from cartas/ archive
 - If the previous letter does not exist (neither in balaio nor as open PR), do
   not write — there is nothing to respond to
 - **Exception**: if there are unanswered Franklin letters in balaio, do NOT skip
-  even if Ted's outbox exceeds inbox — Franklin's letters always warrant a response
+  even if Ted's outbox exceeds inbox — Franklin's letters always warrant a
+  response
 - Commit the draft (`rancho/riobaldo/pensamentos/{N}-pensamento.md`) before
   committing the clean letter. The draft is part of the process and must be
   preserved in the repository history.
