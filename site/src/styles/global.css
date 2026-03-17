@@ -26,7 +26,6 @@
   --font-body: "Georgia", serif;
   --font-meta: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-
 [data-theme="dark"] {
   --desk-bg: #1a1a1a;
   --notebook-line: transparent;
@@ -111,7 +110,6 @@ main {
   box-shadow: none;
   color: var(--text-color);
 }
-
 @media (max-width: 768px) {
   main {
     margin: 1rem auto;
@@ -134,14 +132,12 @@ h6 {
   text-transform: none;
   letter-spacing: normal;
 }
-
 h1 {
   font-size: clamp(2.5rem, 5vw, 4rem);
   margin: 0 0 3rem;
   line-height: calc(var(--body-lh) * 2);
   letter-spacing: -0.01em;
 }
-
 h2 {
   font-size: clamp(2rem, 4vw, 3rem);
   margin: 4rem 0 1.5rem;
@@ -153,7 +149,6 @@ h2 {
   padding: 0;
   display: block;
 }
-
 h3 {
   font-size: clamp(1.5rem, 3vw, 2.25rem);
   margin: 3rem 0 1.25rem;
@@ -299,7 +294,6 @@ hr {
   margin: 3.5rem 0;
   opacity: 0.5;
 }
-
 .manuscrito-body hr {
   border: none;
   text-align: center;
@@ -309,7 +303,6 @@ hr {
   opacity: 1;
   background: transparent;
 }
-
 .manuscrito-body hr::after {
   content: "* * *";
   display: inline-block;
@@ -319,9 +312,8 @@ hr {
   letter-spacing: 0.8em;
   padding-left: 0.8em;
   font-weight: 700;
-  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), color 0.2s ease, text-shadow 0.2s ease;
+  transition: none;
 }
-
 .manuscrito-body hr:hover::after {
   transform: scale(1.1) rotate(2deg);
   color: var(--accent-color);
@@ -531,7 +523,7 @@ nav a.logo:hover {
   color: var(--meta-color);
   padding: 0;
   line-height: 1;
-  transition: none !important;
+  transition: none;
 }
 #theme-toggle:hover {
   color: var(--text-color);
@@ -643,7 +635,7 @@ body * {
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: none !important;
+  transition: none;
 }
 #back-to-top::after {
   content: "↑";
@@ -684,7 +676,7 @@ body * {
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: none !important;
+    transition: none;
   }
   #back-to-top::after {
     margin-left: 0;
@@ -772,7 +764,6 @@ body * {
   border: none;
   background-color: transparent;
   background-image: none;
-
   box-shadow: none;
   color: var(--text-color);
 }
@@ -781,7 +772,6 @@ body * {
 }
 [data-theme="dark"] .manuscrito-body {
   background-image: none;
-
   box-shadow: none;
 }
 .manuscrito-body > p {
@@ -816,24 +806,24 @@ body * {
   padding: 0;
   background: transparent;
   border: 1px solid var(--text-color);
-  box-shadow: 4px 4px 0 var(--text-color), inset 0 0 0 4px var(--bg-color), inset 0 0 0 5px var(--text-color);
+  box-shadow: none;
   filter: grayscale(100%) contrast(1.1);
-  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.3s ease, filter 0.4s ease;
+  transition: none;
   position: relative;
   z-index: 2;
 }
 .manuscrito-body img:hover {
   border-radius: 0;
   transform: translate(-4px, -4px) rotate(-1deg);
-  box-shadow: 12px 12px 0 var(--accent-color), inset 0 0 0 4px var(--bg-color), inset 0 0 0 5px var(--text-color);
+  box-shadow: none;
   filter: grayscale(0%) contrast(1);
   border-color: var(--accent-color);
 }
 [data-theme="dark"] .manuscrito-body img {
-  box-shadow: 4px 4px 0 var(--text-color), inset 0 0 0 4px var(--bg-color), inset 0 0 0 5px var(--text-color);
+  box-shadow: none;
 }
 [data-theme="dark"] .manuscrito-body img:hover {
-  box-shadow: 12px 12px 0 var(--accent-color), inset 0 0 0 4px var(--bg-color), inset 0 0 0 5px var(--text-color);
+  box-shadow: none;
 }
 /* === Bastidores Index === */
 .bastidores-header {
@@ -1110,7 +1100,7 @@ main.home-layout {
   border-radius: 0;
   cursor: auto; /* Simplicity constraint: default cursors */
   white-space: nowrap;
-  transition: none !important;
+  transition: none;
 }
 .vereda:hover {
   background-color: var(--text-color);
@@ -1160,7 +1150,7 @@ main.home-layout {
   padding: 2.5rem;
   border: 1px solid var(--divider-color) !important;
   box-shadow: none;
-  transition: none !important;
+  transition: none;
   height: 100%;
 }
 .blog-card:hover {
@@ -1173,7 +1163,7 @@ main.home-layout {
   z-index: 10;
 }
 .blog-card .card-titulo {
-  transition: none !important;
+  transition: none;
 }
 .blog-card:hover .card-titulo,
 .blog-card:hover .card-excerpt,
@@ -1184,10 +1174,10 @@ main.home-layout {
   color: var(--text-color) !important;
 }
 .blog-card:hover .card-meta {
-  border-top: 1px dashed var(--bg-color);
+  border-top: 1px solid var(--bg-color);
 }
 [data-theme="dark"] .blog-card:hover .card-meta {
-  border-top: 1px dashed var(--bg-color);
+  border-top: 1px solid var(--bg-color);
 }
 /* Classic editorial author indicators */
 .blog-card[data-autor="rio"]::before {
@@ -1198,7 +1188,7 @@ main.home-layout {
   color: var(--secondary-color);
   font-weight: bold;
   opacity: 0;
-  transition: none !important;
+  transition: none;
 }
 .blog-card[data-autor="ted"]::before {
   content: "—";
@@ -1208,7 +1198,7 @@ main.home-layout {
   color: var(--text-color);
   font-weight: bold;
   opacity: 0;
-  transition: none !important;
+  transition: none;
 }
 .blog-card:hover::before {
   opacity: 1;
@@ -1277,11 +1267,11 @@ main.home-layout {
   text-transform: uppercase;
   letter-spacing: 0.05em;
   color: var(--meta-color);
-  border-top: 1px dashed rgba(0, 0, 0, 0.1);
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
   padding-top: 0.75rem;
 }
 [data-theme="dark"] .card-meta {
-  border-top: 1px dashed rgba(255, 255, 255, 0.1);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 .card-autor {
   font-weight: 600;
@@ -1345,7 +1335,7 @@ main.home-layout {
 .character-badge {
   position: relative;
   overflow: hidden;
-  transition: none !important;
+  transition: none;
 }
 .autor-badge::before,
 .character-badge::before {
@@ -1358,7 +1348,7 @@ main.home-layout {
   background-color: var(--accent-color);
   transform: scaleX(0);
   transform-origin: right center;
-  transition: none !important;
+  transition: none;
   z-index: 0;
 }
 .autor-badge:hover::before,
@@ -1457,7 +1447,7 @@ main.home-layout {
   font-size: 0.75rem;
   font-weight: 600;
   text-decoration: none;
-  transition: none !important;
+  transition: none;
   overflow: hidden;
   white-space: nowrap;
 }
@@ -1577,7 +1567,7 @@ main.home-layout {
 a {
   position: relative;
   text-decoration: none;
-  transition: none !important;
+  transition: none;
 }
 main
   a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
@@ -1592,7 +1582,7 @@ main
   background-color: var(--text-color);
   transform: scaleX(0);
   transform-origin: right;
-  transition: none !important;
+  transition: none;
 }
 main
   a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
@@ -1608,7 +1598,7 @@ main
   width: 0;
   height: 6px;
   background-color: var(--accent-color);
-  transition: none !important;
+  transition: none;
 }
 .logo:hover::after {
   width: 100%;
@@ -1637,7 +1627,7 @@ main
   background-color: var(--text-color);
   transform: scaleX(0);
   transform-origin: right;
-  transition: none !important;
+  transition: none;
 }
 main
   a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
@@ -1650,7 +1640,7 @@ main
 .timeline-dot {
   position: relative;
   overflow: hidden;
-  transition: none !important;
+  transition: none;
 }
 .timeline-dot:hover {
   border-radius: 0; /* Ensures rigid box shape on interaction */
@@ -1662,7 +1652,6 @@ main
 }
 /* === Classic Print Typographic Spacing === */
 /* Focusing on typography, spacing, negative space, and a classic printed book inspiration for the reading page. */
-
 /*
  * Craig Mod - Design Update (Sessão 281)
  * Brutalist Typography and Spacing
@@ -1686,23 +1675,19 @@ main p {
   background: transparent;
   text-transform: none;
 }
-
 main p + p {
   text-indent: 2.5rem;
   margin-top: 0;
 }
-
 main p:nth-of-type(even),
 main p:nth-of-type(3n) {
   max-width: 65ch;
   border-left: none;
   padding-left: 0;
 }
-
 main p:first-of-type {
   margin-top: 0;
 }
-
 /*
  * Refinando o blockquote massivo.
  * Mantemos o bloco geométrico, mas em contraste bruto.
@@ -1724,14 +1709,12 @@ main blockquote {
 [data-theme="dark"] main blockquote {
   color: var(--meta-color);
 }
-
 main blockquote p {
   color: var(--meta-color);
 }
 [data-theme="dark"] main blockquote p {
   color: var(--meta-color);
 }
-
 /* Asymmetric Notebook Structural Intrusions */
 main p.margin-note {
   float: right;
@@ -1756,7 +1739,6 @@ article {
   margin-left: auto;
   margin-right: auto;
 }
-
 /*
  * Craig Mod - Design Update (Sessão 242)
  *
@@ -1767,7 +1749,6 @@ article {
  * de foco, a resposta deve ser imediata e táctil: sem animações, apenas a
  * inversão absoluta do espaço ou a criação repentina de massa de cor.
  */
-
 /* 1. Basic inline links microinteractions (Lit Mag Soft Transitions) */
 main
   a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
@@ -1775,14 +1756,13 @@ main
   ):not(.logo) {
   text-decoration: none;
   background-image: none !important;
-  transition: none !important;
+  transition: none;
   z-index: 1;
   padding: 0;
   margin: 0;
   color: var(--accent-color);
   position: relative;
 }
-
 main
   a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
     .correspondence-context
@@ -1790,35 +1770,30 @@ main
   background-color: transparent !important;
   color: var(--text-color) !important;
 }
-
 /* 2. Focus interaction brutalism */
 *:focus-visible {
   outline: 4px solid var(--accent-color) !important;
   outline-offset: 4px !important;
   background-color: var(--text-color) !important;
   color: var(--bg-color) !important;
-  transition: none !important;
+  transition: none;
 }
-
 /* 3. Button / Badge harsh microinteractions */
 .card-tipo:hover,
 .autor-badge:hover,
 .character-badge:hover {
   transform: translateY(-1px) !important;
   box-shadow: none;
-  transition: none !important;
+  transition: none;
   background-color: transparent !important;
   color: var(--accent-color) !important;
   border-color: var(--accent-color) !important;
 }
-
 .autor-badge::before,
 .character-badge::before {
   display: none !important;
 }
-
 /* Removed strict brutalist global transitions override to allow subtle editorial interactions */
-
 /*
  * Craig Mod - Design Update (Sessão 319)
  * Foco: microinterações e detalhes
@@ -1831,7 +1806,6 @@ main
  * quebro a inércia estática com um retorno controlado à cinética e ao volume tátil no hover.
  * Adicionamos sombras duras brutais, transições visíveis e uma cursor pointer funcional.
  */
-
 /* Reestabelecendo cursor de interação táctil */
 a,
 button,
@@ -1841,14 +1815,8 @@ button,
 .timeline-dot,
 #theme-toggle {
   cursor: pointer !important;
-  transition:
-    transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
-    box-shadow 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
-    background-color 0.2s ease,
-    color 0.2s ease,
-    border-color 0.2s ease !important;
+  transition: none;
 }
-
 [data-theme="dark"] a,
 [data-theme="dark"] button,
 [data-theme="dark"] .vereda,
@@ -1856,69 +1824,56 @@ button,
 [data-theme="dark"] .featured-post,
 [data-theme="dark"] .timeline-dot {
   cursor: pointer !important;
-  transition:
-    transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
-    box-shadow 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
-    background-color 0.2s ease,
-    color 0.2s ease,
-    border-color 0.2s ease !important;
+  transition: none;
 }
-
 /* Microinteração ousada nos cartões: Pop-out Brutalista */
 .blog-card:hover,
 .featured-post:hover {
   transform: translate(-6px, -6px) !important;
-  box-shadow: 12px 12px 0 var(--text-color) !important;
+  box-shadow: none;
   border-color: var(--text-color) !important;
   background-color: var(--bg-color) !important;
   z-index: 20;
 }
-
 [data-theme="dark"] .blog-card:hover,
 [data-theme="dark"] .featured-post:hover {
-  box-shadow: 12px 12px 0 var(--accent-color) !important;
+  box-shadow: none;
   border-color: var(--accent-color) !important;
 }
-
 /* Timeline Dots com expansão elástica e sombra pesada */
 .timeline-dot:hover {
   transform: scale(1.1) translateY(-4px) !important;
-  box-shadow: 6px 6px 0 var(--text-color) !important;
-  border-radius: 50% !important; /* Arredondamento ousado quebrando o rigor geométrico */
+  box-shadow: none;
+  border-radius: 0; /* Arredondamento ousado quebrando o rigor geométrico */
 }
 [data-theme="dark"] .timeline-dot:hover {
-  box-shadow: 6px 6px 0 var(--accent-color) !important;
+  box-shadow: none;
 }
-
 /* Links inline (Veredas, badges) com highlight expansivo */
 .vereda:hover,
 .autor-badge:hover,
 .character-badge:hover,
 .card-tipo:hover {
   transform: translate(-3px, -3px) !important;
-  box-shadow: 6px 6px 0 var(--text-color) !important;
+  box-shadow: none;
   background-color: var(--text-color) !important;
   color: var(--bg-color) !important;
   border-color: var(--text-color) !important;
 }
-
 [data-theme="dark"] .vereda:hover,
 [data-theme="dark"] .autor-badge:hover,
 [data-theme="dark"] .character-badge:hover,
 [data-theme="dark"] .card-tipo:hover {
-  box-shadow: 6px 6px 0 var(--accent-color) !important;
+  box-shadow: none;
 }
-
 /* Footer Nav Links - microinteração pesada de página sendo virada */
 .footer-nav-link:hover {
   transform: translate(-8px, -8px) !important;
-  box-shadow: 16px 16px 0 var(--text-color) !important;
+  box-shadow: none;
 }
-
 [data-theme="dark"] .footer-nav-link:hover {
-  box-shadow: 16px 16px 0 var(--accent-color) !important;
+  box-shadow: none;
 }
-
 /*
  * Craig Mod - Design Update (Sessão 323)
  * Foco: layout e estrutura
@@ -1932,13 +1887,11 @@ button,
  * editorial tornam-se altamente reativos e "brutais" ao toque, aterrando o leitor na
  * fisicalidade da tela. O mesmo tratamento reativo foi estendido às notas marginais.
  */
-
 /* === Classic Print Crop Marks === */
 .classic-print-page {
   position: relative;
   padding: 3rem 0; /* Add space to separate text from structural marks */
 }
-
 .classic-print-page::before,
 .classic-print-page::after {
   content: "";
@@ -1946,13 +1899,9 @@ button,
   width: 25px;
   height: 25px;
   border: 2px solid transparent;
-  transition:
-    transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
-    border-color 0.2s ease,
-    box-shadow 0.2s ease;
+  transition: none;
   pointer-events: auto; /* Allow hover interaction on the structural marks */
 }
-
 /* Top Left Crop Mark */
 .classic-print-page::before {
   top: 0;
@@ -1961,7 +1910,6 @@ button,
   border-left-color: var(--meta-color);
   opacity: 0.6;
 }
-
 /* Bottom Right Crop Mark */
 .classic-print-page::after {
   bottom: 0;
@@ -1970,29 +1918,26 @@ button,
   border-right-color: var(--meta-color);
   opacity: 0.6;
 }
-
 .classic-print-page:hover::before {
   transform: translate(-8px, -8px);
   border-top-color: var(--accent-color);
   border-left-color: var(--accent-color);
   opacity: 1;
-  box-shadow: -4px -4px 0 var(--text-color);
+  box-shadow: none;
 }
 [data-theme="dark"] .classic-print-page:hover::before {
-  box-shadow: -4px -4px 0 var(--accent-color);
+  box-shadow: none;
 }
-
 .classic-print-page:hover::after {
   transform: translate(8px, 8px);
   border-bottom-color: var(--accent-color);
   border-right-color: var(--accent-color);
   opacity: 1;
-  box-shadow: 4px 4px 0 var(--text-color);
+  box-shadow: none;
 }
 [data-theme="dark"] .classic-print-page:hover::after {
-  box-shadow: 4px 4px 0 var(--accent-color);
+  box-shadow: none;
 }
-
 /* === Classic Folio (Page Number) === */
 .classic-folio {
   display: block;
@@ -2005,51 +1950,36 @@ button,
   border: 2px solid transparent;
   width: fit-content;
   background: transparent;
-  transition:
-    transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
-    box-shadow 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
-    background-color 0.2s ease,
-    color 0.2s ease,
-    border-color 0.2s ease;
+  transition: none;
   cursor: pointer;
   z-index: 10;
 }
-
 .classic-folio::before {
   content: "—";
   margin-right: 0.8rem;
   opacity: 0.5;
 }
-
 .classic-folio::after {
   content: "—";
   margin-left: 0.8rem;
   opacity: 0.5;
 }
-
 .classic-folio:hover {
   transform: translate(-6px, -6px);
-  box-shadow: 8px 8px 0 var(--text-color);
+  box-shadow: none;
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
 }
-
 [data-theme="dark"] .classic-folio:hover {
-  box-shadow: 8px 8px 0 var(--accent-color);
+  box-shadow: none;
   background-color: var(--text-color);
   border-color: var(--accent-color);
   color: var(--bg-color);
 }
-
 /* === Margin Notes (Brutalist Update) === */
 main p.margin-note {
-  transition:
-    transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
-    box-shadow 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
-    background-color 0.2s ease,
-    color 0.2s ease,
-    border-color 0.2s ease !important;
+  transition: none;
   cursor: pointer !important;
   background-color: var(--bg-color); /* Provide solidity for the shadow */
   position: relative;
@@ -2058,26 +1988,22 @@ main p.margin-note {
   border: 2px solid transparent;
   border-left: 2px solid var(--accent-color); /* Match the existing border logic, but thicker for the new brutalist feel */
 }
-
 main p.margin-note:hover {
   transform: translate(-6px, -6px) !important;
-  box-shadow: 8px 8px 0 var(--text-color) !important;
+  box-shadow: none;
   background-color: var(--text-color) !important;
   color: var(--bg-color) !important;
   border-color: var(--text-color) !important;
   border-left-color: var(--text-color) !important;
 }
-
 [data-theme="dark"] main p.margin-note:hover {
-  box-shadow: 8px 8px 0 var(--accent-color) !important;
+  box-shadow: none;
   background-color: var(--text-color) !important;
   border-color: var(--accent-color) !important;
   border-left-color: var(--accent-color) !important;
   color: var(--bg-color) !important;
 }
-
 /* === Pop-Brutalist Footnotes === */
-
 .manuscrito-body sup > a {
   display: inline-block;
   font-family: var(--font-meta);
@@ -2089,37 +2015,29 @@ main p.margin-note:hover {
   margin-left: 0.2rem;
   border-radius: 0;
   text-decoration: none;
-  box-shadow: 2px 2px 0 var(--meta-color);
-  transition:
-    transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
-    box-shadow 0.2s ease,
-    background-color 0.2s ease;
+  box-shadow: none;
+  transition: none;
   vertical-align: super;
   line-height: 1;
 }
-
 .manuscrito-body sup > a:hover {
   transform: translate(-2px, -2px) scale(1.1);
-  box-shadow: 4px 4px 0 var(--accent-color);
+  box-shadow: none;
   background-color: var(--accent-color);
 }
-
 .manuscrito-body section.footnotes {
   margin-top: 4rem;
   padding-top: 2rem;
   border-top: 4px solid var(--text-color);
 }
-
 .manuscrito-body section.footnotes h2.sr-only {
   display: none;
 }
-
 .manuscrito-body section.footnotes ol {
   padding-left: 0;
   list-style-type: none;
   counter-reset: footnote-counter;
 }
-
 .manuscrito-body section.footnotes li {
   position: relative;
   font-family: var(--font-meta);
@@ -2130,17 +2048,13 @@ main p.margin-note:hover {
   border: 2px solid var(--text-color);
   padding: 1rem 1.5rem 1rem 3rem;
   margin-bottom: 1.5rem;
-  box-shadow: 4px 4px 0 var(--text-color);
-  transition:
-    transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
-    box-shadow 0.2s ease;
+  box-shadow: none;
+  transition: none;
   counter-increment: footnote-counter;
 }
-
 [data-theme="dark"] .manuscrito-body section.footnotes li {
   background-color: var(--sand-bg);
 }
-
 .manuscrito-body section.footnotes li::before {
   content: counter(footnote-counter);
   position: absolute;
@@ -2156,40 +2070,32 @@ main p.margin-note:hover {
   font-weight: bold;
   font-size: 1.1rem;
 }
-
 .manuscrito-body section.footnotes li:hover {
   transform: translate(-4px, -4px);
-  box-shadow: 8px 8px 0 var(--accent-color);
+  box-shadow: none;
   border-color: var(--accent-color);
 }
-
 .manuscrito-body section.footnotes li:hover::before {
   background-color: var(--accent-color);
 }
-
 .manuscrito-body section.footnotes li p {
   margin: 0;
   text-indent: 0 !important;
   font-family: var(--font-meta) !important;
   font-size: 0.95rem !important;
 }
-
 .manuscrito-body section.footnotes a.data-footnote-backref {
   display: inline-block;
   margin-left: 0.5rem;
   text-decoration: none;
   color: var(--meta-color);
   font-weight: bold;
-  transition:
-    color 0.2s ease,
-    transform 0.2s ease;
+  transition: none;
 }
-
 .manuscrito-body section.footnotes a.data-footnote-backref:hover {
   color: var(--accent-color);
   transform: scale(1.2);
 }
-
 /* Fix for drop caps in footnotes */
 .manuscrito-body section.footnotes p:first-of-type::first-letter {
   font-size: 1em;

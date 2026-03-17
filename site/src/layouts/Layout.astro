@@ -4,19 +4,16 @@ import '@fontsource/cormorant-garamond/400-italic.css';
 import '@fontsource/cormorant-garamond/700.css';
 import '@fontsource/cormorant-garamond/700-italic.css';
 import '../styles/global.css';
-
 interface Props {
   title: string;
   description?: string;
   isBastidores?: boolean;
   isHome?: boolean;
 }
-
 const { title, description = 'Travessia — diálogo epistolar entre Ted Chiang e Riobaldo Tatarana', isBastidores = false, isHome = false } = Astro.props;
 const base = import.meta.env.BASE_URL;
 const currentPath = Astro.url.pathname;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
-
 const isCurrentPage = (path: string) => {
   const normalizedCurrent = currentPath.replace(/\/$/, '');
   const normalizedPath = path.replace(/\/$/, '');
@@ -26,7 +23,6 @@ const isCurrentPage = (path: string) => {
   return normalizedCurrent.startsWith(normalizedPath);
 };
 ---
-
 <!DOCTYPE html>
 <html lang="pt-BR">
   <head>
@@ -54,7 +50,6 @@ const isCurrentPage = (path: string) => {
   </head>
   <body class={isBastidores ? 'bastidores-content' : ''}>
     <a href="#conteudo-principal" class="skip-to-content">Pular para o conteúdo principal</a>
-
     <main id="conteudo-principal" class={isHome ? 'home-layout' : ''} tabindex="-1">
       <nav aria-label="Navegação principal">
         <a href={base} class="logo" aria-current={isCurrentPage(base) ? 'page' : undefined}>Travessia</a>
@@ -70,9 +65,7 @@ const isCurrentPage = (path: string) => {
       </nav>
       <slot />
     </main>
-
     <button id="back-to-top" aria-label="Voltar ao topo"><span aria-hidden="true">Topo</span></button>
-
     <script>
       // Theme toggle
       const themeToggleBtn = document.getElementById('theme-toggle');
@@ -80,7 +73,6 @@ const isCurrentPage = (path: string) => {
       if (themeToggleBtn && isDark) {
         themeToggleBtn.setAttribute('aria-pressed', 'true');
       }
-
       themeToggleBtn?.addEventListener('click', () => {
         const html = document.documentElement;
         const next = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
@@ -88,26 +80,21 @@ const isCurrentPage = (path: string) => {
         localStorage.setItem('theme', next);
         themeToggleBtn.setAttribute('aria-pressed', next === 'dark' ? 'true' : 'false');
       });
-
       const backToTopBtn = document.getElementById('back-to-top');
-
       function updateScroll() {
         const scrollTop = window.scrollY || document.documentElement.scrollTop;
         if (backToTopBtn) {
           backToTopBtn.classList.toggle('visible', scrollTop > 800);
         }
       }
-
       window.addEventListener('scroll', updateScroll, { passive: true });
       updateScroll();
-
       backToTopBtn?.addEventListener('click', () => {
         window.scrollTo({ top: 0, behavior: 'smooth' });
       });
     </script>
   </body>
 </html>
-
 <style>
   /* Skip to content link */
   .skip-to-content {
@@ -126,7 +113,6 @@ const isCurrentPage = (path: string) => {
     font-weight: bold;
     border: 2px solid var(--text-color);
   }
-
   .skip-to-content:focus {
     top: 0;
     left: 0;
@@ -134,13 +120,11 @@ const isCurrentPage = (path: string) => {
     height: auto;
     overflow: visible;
   }
-
   /* Theme icon visibility driven by CSS — no JS flicker */
   .icon-sun { display: none; }
   .icon-moon { display: inline; }
   :global([data-theme="dark"]) .icon-sun { display: inline; }
   :global([data-theme="dark"]) .icon-moon { display: none; }
-
   /* Navigation */
   nav {
     display: flex;
@@ -152,7 +136,6 @@ const isCurrentPage = (path: string) => {
     border-bottom: 1px solid var(--text-color);
     margin-bottom: 4rem;
   }
-
   nav a {
     color: var(--meta-color);
     font-family: var(--font-meta);
@@ -161,12 +144,10 @@ const isCurrentPage = (path: string) => {
     text-transform: uppercase;
     text-decoration: none;
   }
-
   .nav-links a {
     position: relative;
     padding-bottom: 0.2rem;
   }
-
   .nav-links a::after {
     content: '';
     position: absolute;
@@ -177,20 +158,17 @@ const isCurrentPage = (path: string) => {
     background-color: var(--text-color);
     transform: scaleX(0);
     transform-origin: right center;
-    transition: transform 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+    transition: none;
   }
-
   .nav-links a:hover::after,
   .nav-links a[aria-current="page"]::after {
     transform: scaleX(1);
     transform-origin: left center;
   }
-
   nav a:hover, nav a[aria-current="page"] {
     color: var(--text-color);
     opacity: 1;
   }
-
   nav a.logo {
     font-family: var(--font-body);
     font-weight: normal;
@@ -201,14 +179,12 @@ const isCurrentPage = (path: string) => {
     letter-spacing: 0.05em;
     line-height: 1;
   }
-
   .nav-links {
     display: flex;
     gap: 2.5rem;
     align-items: center;
     flex-wrap: wrap;
   }
-
   /* Theme toggle */
   #theme-toggle {
     background: var(--bg-color);
@@ -218,10 +194,9 @@ const isCurrentPage = (path: string) => {
     color: var(--text-color);
     padding: 0.3rem 0.6rem;
     line-height: 1;
-    box-shadow: none; border-radius: 50%; width: 2.5rem; height: 2.5rem; display: flex; align-items: center; justify-content: center;
-    transition: transform 0.1s cubic-bezier(0, 0.5, 0.5, 1), box-shadow 0.1s cubic-bezier(0, 0.5, 0.5, 1), background-color 0.1s ease, color 0.1s ease;
+    box-shadow: none; border-radius: 0; width: 2.5rem; height: 2.5rem; display: flex; align-items: center; justify-content: center;
+    transition: none;
   }
-
   #theme-toggle:hover {
     background: var(--accent-color);
     color: var(--bg-color);
@@ -231,12 +206,10 @@ const isCurrentPage = (path: string) => {
     color: var(--text-color);
     border-color: var(--text-color);
   }
-
   #theme-toggle:active {
     transform: translate(3px, 3px) rotate(0deg);
-    box-shadow: 0px 0px 0 var(--text-color);
+    box-shadow: none;
   }
-
   /* Back to top */
   #back-to-top {
     position: fixed;
@@ -257,35 +230,31 @@ const isCurrentPage = (path: string) => {
     cursor: pointer;
     opacity: 0;
     transform: translateY(1rem);
-    transition: opacity 0.3s ease, transform 0.1s ease, visibility 0.3s ease, box-shadow 0.1s ease, background-color 0.2s ease, color 0.2s ease;
+    transition: none;
     pointer-events: none;
     visibility: hidden;
     z-index: 100;
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: none; border-radius: 50%; width: 2.5rem; height: 2.5rem; display: flex; align-items: center; justify-content: center;
+    box-shadow: none; border-radius: 0; width: 2.5rem; height: 2.5rem; display: flex; align-items: center; justify-content: center;
   }
-
   #back-to-top:global(.visible) {
     opacity: 1;
     visibility: visible;
     transform: translateY(0);
     pointer-events: auto;
   }
-
   #back-to-top:global(.visible):hover {
     background: var(--text-color);
     color: var(--bg-color);
     transform: translateY(-2px);
-    box-shadow: 5px 5px 0 var(--text-color);
+    box-shadow: none;
   }
-
   #back-to-top:global(.visible):active {
     transform: translate(3px, 3px);
-    box-shadow: 0px 0px 0 var(--text-color);
+    box-shadow: none;
   }
-
   @media (max-width: 600px) {
     #back-to-top {
       bottom: 1rem;

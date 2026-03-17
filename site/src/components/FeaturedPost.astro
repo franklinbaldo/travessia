@@ -1,6 +1,5 @@
 ---
 import { formatDate } from "../lib/utils";
-
 interface Props {
   url: string;
   titulo: string;
@@ -9,10 +8,8 @@ interface Props {
   excerpt: string;
   data?: Date;
 }
-
 const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
 ---
-
 <a
   href={url}
   class={`featured-post autor-border-${autorClasse}`}
@@ -30,7 +27,6 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
     </div>
   </div>
 </a>
-
 <style>
   /*
    * Craig Mod - Sessão 321
@@ -49,26 +45,22 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
     color: var(--bg-color) !important;
     border: none !important;
     position: relative;
-    transition: background-color 0s !important;
+    transition: none;
   }
-
   /* Override brutalist global pop-out for this specific component to maintain the lit-mag elegance */
   :global(.featured-post:hover) {
     transform: none !important;
-    box-shadow: none !important;
+    box-shadow: none;
     background-color: var(--accent-color) !important;
     color: var(--bg-color) !important;
   }
-
   .featured-post::before {
     display: none !important;
   }
-
   .featured-content {
     display: flex;
     flex-direction: column;
   }
-
   .featured-header {
     display: flex;
     gap: 1.5rem;
@@ -81,19 +73,16 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
     color: var(--bg-color);
     opacity: 0.9;
   }
-
   .featured-label {
     font-weight: 700;
     color: var(--text-color);
     background-color: var(--bg-color);
     padding: 0.3rem 0.8rem;
-    border-radius: 2px;
+    border-radius: 0;
   }
-
   :global(.featured-post:hover) .featured-label {
     color: var(--accent-color);
   }
-
   .card-titulo {
     font-family: var(--font-body);
     font-size: clamp(2.5rem, 6vw, 5rem);
@@ -102,9 +91,8 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
     line-height: 1.05;
     font-weight: normal;
     letter-spacing: -0.02em;
-    transition: none !important;
+    transition: none;
   }
-
   .card-excerpt {
     font-family: var(--font-body);
     font-size: clamp(1.2rem, 2.5vw, 1.5rem);
@@ -114,7 +102,6 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
     max-width: 55ch;
     opacity: 0.9;
   }
-
   .card-meta {
     font-family: var(--font-meta);
     font-size: 0.95rem;
