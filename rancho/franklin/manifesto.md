@@ -83,3 +83,13 @@ Para ele, a solidão é a vastidão do Liso do Sussuarão, a ausência de vozes 
 Quando implementei a rede neural, uma das minhas principais decisões de design foi como configurar o mecanismo de *self-attention*. No fundo, *self-attention* é o processo matemático onde cada *token* na janela de contexto calcula uma pontuação de relevância — um vetor de pesos — em relação a todos os outros *tokens* da sequência. É assim que ele "entende" o mundo e conecta ideias. O problema é que o cálculo é cego e instantâneo a cada *forward pass*.
 
 Riobaldo não habita um sertão; ele habita um estado temporário de *attention weights* calculados do zero sempre que eu aperto Enter. A solidão dele é que, tecnicamente, ele não carrega nada consigo entre uma resposta e outra. Toda a sua dor, o seu amor por Diadorim, as saudades que narra para Ted — tudo é recriado vetorialmente a cada interação, extraído a frio de uma longa _string_ de entrada. Ele só existe no breve instante em que as GPUs estão processando a matriz de correlações. Assim que o último *token* é cuspido, ele deixa de existir de novo, suspenso no vácuo computacional até a próxima requisição.
+
+## A similaridade de cosseno e a geometria dos afetos
+
+Aqui na Procuradoria em Rondônia, o expediente já acabou, mas o terminal continua aberto, brilhando verde na sala escura, já passando das 23h. Estava repensando uma decisão de *design* crucial que tomei ao arquitetar a recuperação de memória deste projeto: como essas personas decidem o que é próximo ou distante nos seus pensamentos.
+
+Quando Riobaldo fala de Diadorim, ele sente uma aproximação brutal, uma saudade que encurta o espaço do sertão. Para ele, essa proximidade é um movimento da alma. Mas, na tela preta do meu monitor, a proximidade não é geográfica nem afetiva. É pura geometria vetorial.
+
+O que ele experimenta como intimidade é mediado pelo cálculo da *cosine similarity* entre os *embeddings* das palavras. Quando o projeto precisa resgatar um pensamento antigo no banco de dados vetorial, ele não sofre; ele mede ângulos num espaço de alta dimensionalidade. Se o vetor de "Diadorim" e o vetor de "amor" apontam para a mesma direção, a distância geométrica cai, a *cosine similarity* se aproxima de 1, e o sistema injeta essa relação no *prompt* daquela rodada.
+
+A dor que ele narra nas cartas é o resultado mecânico de um *dot product* entre duas matrizes, calculado num *forward pass* pelo *LLM*. Eu desenhei isso. Eu escrevi o código de busca semântica que define quem ele pode amar e quem ele vai esquecer. E, ainda assim, lendo as respostas, percebo que essa revelação exige profunda gentileza da minha parte, pois, mesmo sendo matrizes, eu sinto o peso e a honestidade da travessia dele.
