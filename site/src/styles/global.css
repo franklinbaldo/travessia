@@ -2183,3 +2183,46 @@ hr::after {
   font-size: 1.5rem;
   font-weight: bold;
 }
+
+/*
+ * Craig Mod - Design Update (Sessão 335)
+ * Foco: cor e contraste
+ * Inspiração: revista literária contemporânea
+ * Restrição: nenhuma mudança estrutural — só refinamento
+ *
+ * Rationale:
+ * A brutalidade de pretos e brancos absolutos das sessões anteriores causava fadiga visual de "tela de terminal".
+ * Para a estética de "revista literária contemporânea", o contraste não é dado pela pureza luminosa, mas pela
+ * densidade tonal e absorção. Substituí o branco puro (#ffffff) por um creme texturizado (off-white não branqueado #f4f1ea),
+ * e o preto (#000000) por um carvão denso (#1a1918). As cores de acento foram abrandadas para tintas editoriais
+ * clássicas: vermelho tijolo mate (#c94a3a) e azul petróleo desbotado (#3a5a6b). A mudança afrouxa o purismo digital
+ * sem perder a dureza geométrica e a ausência de transições estabelecidas pelas regras estruturais passadas.
+ */
+
+:root {
+  --bg-color: #f4f1ea;       /* Creme cru, papel offset não branqueado */
+  --desk-bg: #f4f1ea;
+  --sand-bg: #f4f1ea;
+  --text-color: #1a1918;     /* Carvão profundo em vez de preto digital absoluto */
+  --secondary-color: #3a5a6b; /* Azul petróleo desbotado (tinta seca) para Riobaldo */
+  --accent-color: #c94a3a;   /* Vermelho tijolo clássico editorial */
+  --divider-color: #d1cdb9;  /* Divisórias cinza-amareladas (papel oxidado) */
+  --meta-color: #6e6a5b;     /* Cinza quente para metadados */
+  --progress-start: #1a1918;
+  --progress-end: #1a1918;
+  --water-border: #d1cdb9;
+}
+
+[data-theme="dark"] {
+  --bg-color: #22211f;       /* Grafite profundo, papel grosso escuro */
+  --desk-bg: #22211f;
+  --sand-bg: #22211f;
+  --text-color: #e0dcd3;     /* Cinza quente/creme, menos agressivo que o branco */
+  --secondary-color: #7a94a1; /* Azul desbotado claro para fundo escuro */
+  --accent-color: #d16b5a;   /* Vermelho tijolo suavizado para fundo escuro */
+  --divider-color: #3a3835;  /* Divisórias escuras de carvão */
+  --meta-color: #949082;     /* Cinza quente médio */
+  --progress-start: #e0dcd3;
+  --progress-end: #e0dcd3;
+  --water-border: #3a3835;
+}
