@@ -15,5 +15,8 @@
     "hastscript": "^9.0.1",
     "remark-directive": "^4.0.0",
     "unist-util-visit": "^5.1.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.58.2"
   }
 }
