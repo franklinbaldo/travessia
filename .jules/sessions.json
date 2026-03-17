@@ -1,17 +1,17 @@
 {
   "craig": {
-    "session_id": "2448241404408054740",
+    "session_id": "17450592005785467472",
     "state": "IN_PROGRESS",
     "branch": ""
   },
   "franklin": {
-    "session_id": "1849299007023540383",
+    "session_id": "4572904705923226662",
     "state": "IN_PROGRESS",
     "branch": ""
   },
   "riobaldo": {
     "session_id": "16489638342986008364",
-    "state": "IN_PROGRESS",
+    "state": "COMPLETED",
     "branch": ""
   },
   "ted": {
