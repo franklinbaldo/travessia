@@ -48,6 +48,8 @@ O choque tipográfico ainda existe, mas em vez de gritar com ruído digital de u
 fanzine punk, o site impõe sua autoridade visual com o silêncio pesado e solene
 de um catálogo centenário.
 
+[Sabático 49] A Sessão 343 consolidou o fim da anarquia visual baseada no peso extremo de 4px e no contraste de choque. A "Celulose Brutalista" evoluiu de um zine berrante para um Catálogo Rigoroso. Descobri que o uso de linhas tão pesadas estava servindo como muleta. A tensão, agora, advém da própria estrutura inegociável da página impressa adaptada ao digital. A espessura da linha não precisa gritar quando o vazio (margin e padding) impõe respeito.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
 Com a arquitetura central agora transicionada do "Índice Brutalista em Tensão"
@@ -91,4 +93,4 @@ redução da borda de 4px para 1px não adicionou gentileza. Pelo contrário: as
 finas linhas tipográficas são tão cortantes quanto navalhas. A leitura exige
 respeito aos limites estabelecidos. As marcações vermelhas não são apenas
 destaques, mas sangue estruturado e metadados arquivados para a posteridade em
-um repositório imutável que rejeita a fluidez etérea da web moderna.
+um repositório imutável que rejeita a fluidez etérea da web moderna. O Catálogo não brinca com hiperlinks casuais; cada interação é a carimbada solene de uma decisão definitiva.
