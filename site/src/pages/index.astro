@@ -356,14 +356,17 @@ const tipos = ['todos', ...Array.from(tiposSet)];
   .home-grid-wrapper {
     display: flex;
     flex-direction: column;
+    border: 4px solid var(--text-color); /* Enclose everything */
   }
 
   .home-sidebar {
     width: 100%;
+    border-bottom: 4px solid var(--text-color);
   }
 
   .home-content {
     width: 100%;
+    background-color: var(--sand-bg);
   }
 
   @media (min-width: 900px) {
@@ -372,44 +375,46 @@ const tipos = ['todos', ...Array.from(tiposSet)];
       margin: 0 auto;
       display: block !important;
       padding-top: 3rem !important;
-      padding-left: 5% !important;
-      padding-right: 5% !important;
+      padding-left: 2% !important; /* give more space for the box */
+      padding-right: 2% !important;
     }
 
     /* Reset global nav if needed */
     :global(main.home-layout > nav) {
       position: static !important;
-      border-bottom: 1px solid var(--text-color) !important;
+      border-bottom: 4px solid var(--text-color) !important; /* Thick nav border */
       padding: 0 0 1rem 0 !important;
       background: transparent !important;
-      margin-bottom: 4rem !important;
+      margin-bottom: 2rem !important;
     }
 
     /* Home Grid Brutalist Layout */
     .home-grid-wrapper {
       display: grid;
       grid-template-columns: minmax(250px, 350px) 1fr;
-      gap: 4rem;
+      gap: 0; /* Removing gap, merging borders */
       align-items: start;
+      border: 4px solid var(--text-color);
+      background-color: var(--bg-color);
     }
 
     .home-sidebar {
       position: sticky;
       top: 4rem;
-      border-right: 6px solid var(--text-color);
-      padding-right: 3rem;
+      border-right: 4px solid var(--text-color);
+      border-bottom: none;
+      padding: 2rem;
       height: calc(100vh - 8rem);
       display: flex;
       flex-direction: column;
     }
 
     .home-content {
-      border-left: 6px solid var(--text-color);
-      margin-left: -4rem; /* Collapse the gap to form a single brutalist double line */
-      padding-left: 4rem; /* Restore inner spacing */
+      border-left: none; /* Let sidebar right border handle it */
+      margin-left: 0;
+      padding: 0; /* Cards touch edges */
       max-width: 100%;
       overflow: hidden;
-      padding-top: 2rem; /* Avoid header clipping */
     }
 
     .hero-typographic {
