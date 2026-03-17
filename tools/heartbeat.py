@@ -651,22 +651,6 @@ def cmd_tropeiro():
                 print(f"  {sender}: no route for '{destinatario}' — skipping {filename}")
                 continue
 
-            # Deliver to recipient's balaio (if recipient is an agent)
-            recipient = None
-            dest_lower = destinatario.lower()
-            for a in AGENTS:
-                if a in dest_lower:
-                    recipient = a
-                    break
-
-            if recipient and recipient != sender:
-                balaio_dir = Path(f"rancho/{recipient}/balaio")
-                balaio_dir.mkdir(parents=True, exist_ok=True)
-                balaio_file = balaio_dir / filename
-                if not balaio_file.exists():
-                    balaio_file.write_text(content, encoding="utf-8")
-                    print(f"  {sender} → {recipient}/balaio: {filename}")
-
             # Archive to cartas/
             archive_path = Path(archive_dir)
             archive_path.mkdir(parents=True, exist_ok=True)
@@ -681,9 +665,14 @@ def cmd_tropeiro():
     save_delivered_hashes(delivered_hashes)
 
     if total_delivered == 0:
-        print("  (no new letters to deliver)")
+        print("  (no new letters to deliver to cartas/)")
     else:
         print(f"\n  {total_delivered} letter(s) delivered to cartas/")
+
+    # Also run tools/correio deliver for each agent
+    print("\n  Running MH mailbox delivery...")
+    for a in AGENTS:
+        subprocess.run(["tools/correio", "deliver", a])
 
 
 # ── Heartbeat logging ────────────────────────────────────────────────────────

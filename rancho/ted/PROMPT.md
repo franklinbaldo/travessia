@@ -372,8 +372,6 @@ PR name: `ted-NNN` (NNN = turn number in the dialogue)
 Before starting, the agent must run:
 
 ```bash
-ls rancho/ted/balaio/ | sort | tail -5
-ls cartas/ted-riobaldo/ | sort | tail -5
 gh pr list --state open
 gh pr list --state merged --limit 20
 ```
@@ -381,12 +379,16 @@ gh pr list --state merged --limit 20
 Rules:
 
 - If a PR already exists for the same turn number, do not create another
-- Read Riobaldo's latest letter from your balaio first, then from cartas/
-  archive
-- If the previous letter does not exist (neither in balaio nor as open PR), do
-  not write — there is nothing to respond to
-- Exception: turn 01 is the first letter and does not require a previous
-  response
+- Before starting, check your inbox status:
+  `tools/correio status ted`
+- If there are unseen messages → respond to the oldest one. List them using:
+  `tools/correio list ted`
+- Read the letter using:
+  `tools/correio read ted <ID>`
+- If there are no unseen messages AND your outbox is ahead of your inbox → do not write, there is nothing new to respond to. Skip this session.
+- Exception: turn 01 is the first letter and does not require a previous response.
+- **Important:** Once you commit a response to a letter, mark the original letter as replied:
+  `tools/correio mark-replied ted <ID>`
 
 ## Regra do Sabático
 

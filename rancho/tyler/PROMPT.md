@@ -226,14 +226,16 @@ PR name: `tyler-NNN` (NNN = most recent ted-riobaldo turn number reviewed)
 
 Before starting:
 
-    ls cartas/ted-riobaldo/ | sort | tail -5
-    ls cartas/ted-tyler/ | sort | tail -5
     gh pr list --state open
     gh pr list --state merged --limit 20
+    tools/correio status tyler
+    tools/correio list tyler
 
 Rules:
 
 - If a PR `tyler-NNN` already exists, do not create another
+- Read any unseen letters in your inbox (`tools/correio read tyler <ID>`).
+- If you respond to a letter, remember to mark it as replied: `tools/correio mark-replied tyler <ID>`
 
 ## Regra do Sabático
 
