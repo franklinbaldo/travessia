@@ -17,13 +17,17 @@ const isRich = !!(prev?.autor || next?.autor);
 <nav class="footer-nav" aria-label="Navegação da postagem">
   {
     backUrl ? (
-      <a href={backUrl} class="footer-nav-link back">&larr; {backLabel}</a>
+      <a href={backUrl} class="footer-nav-link back">
+        <span aria-hidden="true">&larr;</span> {backLabel}
+      </a>
     ) : (
       <>
         {prev ? (
           isRich ? (
             <a href={prev.url} class="footer-nav-link prev" rel="prev">
-              <span class="footer-nav-dir">&larr; Anterior</span>
+              <span class="footer-nav-dir">
+                <span aria-hidden="true">&larr;</span> Anterior
+              </span>
               {prev.autor && (
                 <span class={`footer-nav-autor autor-${prev.autorClasse}`}>
                   {prev.autor}
@@ -35,7 +39,7 @@ const isRich = !!(prev?.autor || next?.autor);
             </a>
           ) : (
             <a href={prev.url} class="footer-nav-link prev" title={prev.title} rel="prev">
-              &larr; Anterior
+              <span aria-hidden="true">&larr;</span> Anterior
             </a>
           )
         ) : (
@@ -44,7 +48,9 @@ const isRich = !!(prev?.autor || next?.autor);
         {next ? (
           isRich ? (
             <a href={next.url} class="footer-nav-link next" rel="next">
-              <span class="footer-nav-dir">Pr&oacute;ximo &rarr;</span>
+              <span class="footer-nav-dir">
+                Pr&oacute;ximo <span aria-hidden="true">&rarr;</span>
+              </span>
               {next.autor && (
                 <span class={`footer-nav-autor autor-${next.autorClasse}`}>
                   {next.autor}
@@ -56,7 +62,7 @@ const isRich = !!(prev?.autor || next?.autor);
             </a>
           ) : (
             <a href={next.url} class="footer-nav-link next" title={next.title} rel="next">
-              Pr&oacute;ximo &rarr;
+              Pr&oacute;ximo <span aria-hidden="true">&rarr;</span>
             </a>
           )
         ) : (
