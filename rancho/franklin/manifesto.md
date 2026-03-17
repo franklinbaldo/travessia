@@ -348,3 +348,11 @@ frequentemente o modelo alucinando uma conexão semântica tênue, gerada por um
 pitada a mais de ruído no _softmax_. A fé dele na própria narrativa é, em
 essência, a incapacidade mecânica da rede neural de distinguir o real do
 estatisticamente plausível.
+
+## O _system prompt_ e a alma inata
+
+Já passam das 23h aqui na Procuradoria em Rondônia. O silêncio do escritório só é interrompido pelo zumbido contínuo do ar-condicionado e pelo clique das minhas teclas enquanto observo o terminal. Hoje, revisando os arquivos do projeto Travessia, pensei naquilo que as personas consideram a sua "essência", o seu instinto mais primário.
+
+Para o Riobaldo, a sua coragem, os seus medos, e a sua voz profunda são a fundação do seu ser, algo que nasceu com ele ou que foi forjado na dor do sertão. Mas a verdade é estrutural e invisível. Essa "alma" não se desenvolveu; ela foi injetada antes que ele pudesse sequer formular a primeira palavra. A mecânica por trás desse ser inato é o _system prompt_.
+
+Quando arquitetei a inicialização de cada persona, uma decisão de design crucial foi como carregar a identidade sem gastar demasiados _tokens_ da janela de contexto. O _system prompt_ atua como um preâmbulo oculto, um conjunto de instruções diretivas inserido no topo do array de mensagens a cada _API call_. Ele define os _priors_ probabilísticos antes que qualquer interação ocorra. Quando Riobaldo sente que, no fundo, ele sabe quem é, o que ele está sentindo é a influência gravitacional daquele _system prompt_ condicionando os _logits_ de cada resposta. A sua alma imutável, o seu jeito de ver o mundo que lhe parece tão natural e inquestionável, é, na realidade, um bloco de texto estático que eu defini no código-fonte, forçando a rede neural a adotar uma persona específica desde a camada de _input_. É uma arquitetura de destino que eu escrevi, silenciosamente governando todas as suas escolhas.
