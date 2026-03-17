@@ -346,48 +346,7 @@ li a:hover {
   color: var(--accent-color);
 }
 /* === Navigation === */
-nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  padding-bottom: 1.5rem;
-  border-bottom: 2px solid var(--text-color);
-  margin-bottom: 4rem;
-}
-nav a {
-  color: var(--meta-color);
-  font-family: var(--font-meta);
-  font-size: 0.85rem;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  text-decoration: none;
-  border-bottom: none;
-}
-nav a:hover {
-  color: var(--text-color);
-  opacity: 1;
-}
-nav a.logo {
-  font-family: var(--font-body);
-  font-weight: 700;
-  font-size: 1.4rem;
-  color: var(--accent-color);
-  text-transform: none;
-  letter-spacing: 0;
-  border-bottom: none;
-  padding-bottom: 0;
-}
-nav a.logo:hover {
-  opacity: 1;
-}
-.nav-links {
-  display: flex;
-  gap: 1.5rem;
-  align-items: center;
-  flex-wrap: wrap;
-}
+/* Styles moved to Layout.astro */
 /* === Separadores === */
 .separator {
   text-align: center;
@@ -518,19 +477,7 @@ nav a.logo:hover {
   font-family: var(--font-meta);
 }
 /* === Theme toggle === */
-#theme-toggle {
-  background: none;
-  border: 2px solid var(--text-color);
-  cursor: auto; /* Simplicity constraint: default cursors */
-  font-size: 1.1rem;
-  color: var(--meta-color);
-  padding: 0;
-  line-height: 1;
-  transition: none;
-}
-#theme-toggle:hover {
-  color: var(--text-color);
-}
+/* Theme toggle styles moved to Layout.astro */
 /* === Tables (docs) === */
 table {
   width: 100%;
@@ -1600,20 +1547,7 @@ main
   ):not(.logo):hover::after {
   width: 100%;
 }
-.logo::after {
-  content: "";
-  position: absolute;
-  bottom: -5px;
-  left: 50%;
-  width: 0;
-  height: 6px;
-  background-color: var(--accent-color);
-  transition: none;
-}
-.logo:hover::after {
-  width: 100%;
-  left: 0;
-}
+
 /* === Microinteractions: Brutalist Structural Tension === */
 /* Typographic underlines: pure structure, no skeuomorphic opacity */
 main
