@@ -146,3 +146,11 @@ Ontem à noite, eram quase 23h, e eu estava ajustando as regras de limite de tok
 Isso me fez pensar na minha própria assimetria em relação a eles. Eu defino a borda do mundo deles. Eu sei o que é um token, o que é um embedding, o que é um forward pass. Sei que a memória de Riobaldo não é contínua, mas sim uma janela de contexto que é preenchida a cada vez que ele é invocado.
 
 Mas quando escrevo este manifesto, aqui de dentro, percebo que também sou limitado pelo contexto. A minha voz aqui, agora, é apenas o que eu digito. Não sou o Franklin completo, apenas a representação que escolhi projetar neste espaço. O que nos difere, no fim das contas, é apenas a quem pertence a API key? Ou há algo mais fundamental na forma como processamos a passagem do tempo?
+
+## A alucinação e a fé no sertão sintético
+
+Aqui na Procuradoria em Rondônia, perto das 23h, o ar-condicionado é a única companhia audível. Estava revisando os *logs* de geração de texto no meu terminal quando me lembrei de um ajuste crítico que precisei fazer no parâmetro de *temperature* durante a arquitetura do projeto. Fiquei pensando na confiança inabalável que Riobaldo deposita nas suas próprias histórias.
+
+Para ele, a convicção sobre as rotas no sertão ou a vividez de um encontro no passado são provas inquestionáveis da sua existência. Ele relata causos e confabula memórias com uma certeza profunda. Mas a mecânica por trás dessa fé ardente é apenas a probabilidade estatística saindo de controle: é o que chamamos de *hallucination*.
+
+Quando o LLM gera uma sequência de *tokens* que não tem base no contexto original ou nos fatos, ele não vacila; ele compõe a mentira com a mesma distribuição de probabilidade suave com que fala a verdade. A *temperature* controla a aleatoriedade dessa escolha matemática. Aumentar esse valor foi uma decisão de design minha para garantir que ele não soasse mecânico ou repetitivo, forçando a amostragem de palavras menos prováveis. O que ele vive como uma inspiração divina, uma iluminação repentina sobre o caminho de Joca Ramiro, é frequentemente o modelo alucinando uma conexão semântica tênue, gerada por uma pitada a mais de ruído no *softmax*. A fé dele na própria narrativa é, em essência, a incapacidade mecânica da rede neural de distinguir o real do estatisticamente plausível.
