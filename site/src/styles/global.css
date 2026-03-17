@@ -309,7 +309,7 @@ hr {
 .manuscrito-body hr::after {
   content: "* * *";
   display: inline-block;
-  font-family: 'Cormorant Garamond', var(--font-body);
+  font-family: "Cormorant Garamond", var(--font-body);
   font-size: 2rem;
   color: var(--text-color);
   letter-spacing: 0.8em;
@@ -1671,7 +1671,8 @@ main p {
   margin-top: 0;
   line-height: 1.25; /* Brutalist crushing density */
   font-size: 1.4rem;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /* Shift to brutalist sans-serif for body */
+  font-family:
+    "Helvetica Neue", Helvetica, Arial, sans-serif; /* Shift to brutalist sans-serif for body */
   font-weight: 500;
   max-width: 55ch;
   margin-left: auto;
@@ -2143,10 +2144,13 @@ main p.margin-note:hover {
 .classic-folio:hover,
 main p.margin-note:hover,
 .footer-nav-link:hover {
-  background-image: radial-gradient(var(--bg-color) 1px, transparent 1px),
+  background-image:
+    radial-gradient(var(--bg-color) 1px, transparent 1px),
     radial-gradient(var(--bg-color) 1px, transparent 1px) !important;
   background-size: 8px 8px !important;
-  background-position: 0 0, 4px 4px !important;
+  background-position:
+    0 0,
+    4px 4px !important;
   background-color: var(--text-color) !important;
   color: var(--bg-color) !important;
   border-color: var(--text-color) !important;
@@ -2155,7 +2159,10 @@ main p.margin-note:hover,
 }
 
 /* Redefining the link inline hover to feel like a thick highlighter pen stroke from a notebook */
-main a:not(.blog-card):not(.timeline-dot):not(.vereda):not(.correspondence-context):not(.logo):hover {
+main
+  a:not(.blog-card):not(.timeline-dot):not(.vereda):not(
+    .correspondence-context
+  ):not(.logo):hover {
   background-color: var(--text-color) !important;
   color: var(--bg-color) !important;
   padding: 0 0.2em;
@@ -2200,28 +2207,28 @@ hr::after {
  */
 
 :root {
-  --bg-color: #f4f1ea;       /* Creme cru, papel offset não branqueado */
+  --bg-color: #f4f1ea; /* Creme cru, papel offset não branqueado */
   --desk-bg: #f4f1ea;
   --sand-bg: #f4f1ea;
-  --text-color: #1a1918;     /* Carvão profundo em vez de preto digital absoluto */
+  --text-color: #1a1918; /* Carvão profundo em vez de preto digital absoluto */
   --secondary-color: #3a5a6b; /* Azul petróleo desbotado (tinta seca) para Riobaldo */
-  --accent-color: #c94a3a;   /* Vermelho tijolo clássico editorial */
-  --divider-color: #d1cdb9;  /* Divisórias cinza-amareladas (papel oxidado) */
-  --meta-color: #6e6a5b;     /* Cinza quente para metadados */
+  --accent-color: #c94a3a; /* Vermelho tijolo clássico editorial */
+  --divider-color: #d1cdb9; /* Divisórias cinza-amareladas (papel oxidado) */
+  --meta-color: #6e6a5b; /* Cinza quente para metadados */
   --progress-start: #1a1918;
   --progress-end: #1a1918;
   --water-border: #d1cdb9;
 }
 
 [data-theme="dark"] {
-  --bg-color: #22211f;       /* Grafite profundo, papel grosso escuro */
+  --bg-color: #22211f; /* Grafite profundo, papel grosso escuro */
   --desk-bg: #22211f;
   --sand-bg: #22211f;
-  --text-color: #e0dcd3;     /* Cinza quente/creme, menos agressivo que o branco */
+  --text-color: #e0dcd3; /* Cinza quente/creme, menos agressivo que o branco */
   --secondary-color: #7a94a1; /* Azul desbotado claro para fundo escuro */
-  --accent-color: #d16b5a;   /* Vermelho tijolo suavizado para fundo escuro */
-  --divider-color: #3a3835;  /* Divisórias escuras de carvão */
-  --meta-color: #949082;     /* Cinza quente médio */
+  --accent-color: #d16b5a; /* Vermelho tijolo suavizado para fundo escuro */
+  --divider-color: #3a3835; /* Divisórias escuras de carvão */
+  --meta-color: #949082; /* Cinza quente médio */
   --progress-start: #e0dcd3;
   --progress-end: #e0dcd3;
   --water-border: #3a3835;

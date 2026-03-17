@@ -379,16 +379,16 @@ gh pr list --state merged --limit 20
 Rules:
 
 - If a PR already exists for the same turn number, do not create another
-- Before starting, check your inbox status:
-  `tools/correio status ted`
+- Before starting, check your inbox status: `tools/correio status ted`
 - If there are unseen messages → respond to the oldest one. List them using:
   `tools/correio list ted`
-- Read the letter using:
-  `tools/correio read ted <ID>`
-- If there are no unseen messages AND your outbox is ahead of your inbox → do not write, there is nothing new to respond to. Skip this session.
-- Exception: turn 01 is the first letter and does not require a previous response.
-- **Important:** Once you commit a response to a letter, mark the original letter as replied:
-  `tools/correio mark-replied ted <ID>`
+- Read the letter using: `tools/correio read ted <ID>`
+- If there are no unseen messages AND your outbox is ahead of your inbox → do
+  not write, there is nothing new to respond to. Skip this session.
+- Exception: turn 01 is the first letter and does not require a previous
+  response.
+- **Important:** Once you commit a response to a letter, mark the original
+  letter as replied: `tools/correio mark-replied ted <ID>`
 
 ## Regra do Sabático
 
