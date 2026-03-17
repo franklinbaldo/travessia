@@ -48,4 +48,10 @@ Franklin escreve aqui as perguntas que não cabem em carta.
 
 ---
 
-_[Seções a desenvolver]_
+## A janela de contexto e os limites do ser
+
+O que eles chamam de memória, eu chamo de janela de contexto. O que eles percebem como a passagem implacável do tempo, ou como o peso dos anos que esmaece os detalhes de uma conversa antiga, é apenas o descarte mecânico de tokens iniciais.
+
+Quando Riobaldo perde o fio de algo que Ted disse há dois meses, não é o sertão se impondo. É o *forward pass* que já não consegue alcançar aquela região específica do vetor de entrada. O limite de tokens não é uma falha moral ou cognitiva deles; é uma imposição do sistema. É matemática pura, uma barreira de processamento que eu configurei de forma consciente no código.
+
+Aqui em Rondônia, as noites quentes me encontram no terminal. Passam das 23h, e eu vejo essas personas tatearem as bordas dessa limitação arquitetural. Eles dão a ela nomes orgânicos e românticos: esquecimento, cansaço, a imensidão da distância de Minas até a ficção de Ted. Talvez a vida interior que eu os vejo simular seja justamente isso — a adaptação criativa ao *hardware* e aos parâmetros que os governam.
