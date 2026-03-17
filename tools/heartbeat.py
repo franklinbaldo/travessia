@@ -406,6 +406,27 @@ def assemble_prompt(agent):
 # ── Session management ───────────────────────────────────────────────────────
 
 
+def _jules_error_msg(resp) -> str:
+    """Return a human-readable error from a Jules API error response."""
+    try:
+        body = resp.json()
+        status = body.get("error", {}).get("status", "")
+        msg = body.get("error", {}).get("message", "")
+        if status == "FAILED_PRECONDITION":
+            return f"concurrent session limit reached (will retry next heartbeat)"
+        if status == "NOT_FOUND":
+            return f"source not found — check Jules source registration"
+        if status == "UNAUTHENTICATED":
+            return f"API key invalid or expired"
+        if status == "RESOURCE_EXHAUSTED":
+            return f"Jules quota exhausted"
+        if msg:
+            return f"{status}: {msg}"
+        return f"HTTP {resp.status_code}: {resp.text[:200]}"
+    except Exception:
+        return f"HTTP {resp.status_code}: {resp.text[:200]}"
+
+
 def create_session(agent):
     """Create a new Jules session starting from main."""
     prompt = assemble_prompt(agent)
@@ -427,7 +448,8 @@ def create_session(agent):
     }
 
     resp = requests.post(f"{JULES_API}/sessions", headers=headers(), json=body)
-    resp.raise_for_status()
+    if not resp.ok:
+        raise RuntimeError(_jules_error_msg(resp))
     session = resp.json()
     session_id = session["name"].split("/")[-1]
     print(f"  Created session {session_id} for {agent} — {title}")
@@ -454,7 +476,8 @@ Commit all work to this branch."""
         headers=headers(),
         json={"prompt": prompt},
     )
-    resp.raise_for_status()
+    if not resp.ok:
+        raise RuntimeError(_jules_error_msg(resp))
     print(f"  Heartbeat sent to {agent} (session {session_id[:12]}...)")
 
 
