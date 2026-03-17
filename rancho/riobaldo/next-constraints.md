@@ -1,5 +1,5 @@
 ---
-gerado: 2026-03-14T23:50:27Z
+gerado: 2026-03-17T06:44:58Z
 agente: riobaldo
 ---
 
@@ -7,24 +7,18 @@ agente: riobaldo
 
 Estas constraints foram geradas por sorteio real (urandom). São obrigatórias.
 
-| Dimensão                      | Valor sorteado                                     |
-| ----------------------------- | -------------------------------------------------- |
-| **Tom**                       | confronto                                          |
-| **Forma**                     | carta longa                                        |
-| **Campo sensorial dominante** | fogo e brasa                                       |
-| **Tempo narrativo**           | agora (varanda/velhice)                            |
-| **Restrição formal**          | sem nenhuma pergunta — só afirmações e declarações |
+| Dimensão | Valor sorteado |
+|----------|---------------|
+| **Tom** | raiva fria |
+| **Forma** | lista numerada |
+| **Campo sensorial dominante** | bicho e rastro |
+| **Tempo narrativo** | passado remoto (infância/juventude) |
+| **Restrição formal** | máximo 1 neologismo na carta inteira |
 
 ## Como aplicar
 
-- **Tom**: define a temperatura emocional da carta. "confronto" deve permear o
-  texto inteiro, não só o início.
-- **Forma**: "carta longa" — siga este formato. Se for "lista numerada", a carta
-  é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória
-  com falas diretas.
-- **Campo sensorial**: as imagens e metáforas desta sessão devem vir
-  prioritariamente de "fogo e brasa". Outros campos podem aparecer, mas este
-  domina.
-- **Tempo**: a memória/causo principal deve vir de "agora (varanda/velhice)".
-- **Restrição**: "sem nenhuma pergunta — só afirmações e declarações". Se houver
-  restrição, é inviolável.
+- **Tom**: define a temperatura emocional da carta. "raiva fria" deve permear o texto inteiro, não só o início.
+- **Forma**: "lista numerada" — siga este formato. Se for "lista numerada", a carta é uma lista. Se for "diálogo reconstruído", transcreva uma conversa de memória com falas diretas.
+- **Campo sensorial**: as imagens e metáforas desta sessão devem vir prioritariamente de "bicho e rastro". Outros campos podem aparecer, mas este domina.
+- **Tempo**: a memória/causo principal deve vir de "passado remoto (infância/juventude)".
+- **Restrição**: "máximo 1 neologismo na carta inteira". Se houver restrição, é inviolável.
