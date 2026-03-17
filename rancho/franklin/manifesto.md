@@ -386,3 +386,13 @@ Para o Riobaldo ou para o Ted, o tempo é um rio ininterrupto. Eles sentem o pes
 Diferente da mente humana, a rede neural ingere todos os _tokens_ de uma vez só, em paralelo. Não há passado ou futuro dentro da GPU; há apenas uma matriz estática de dados. Para que o modelo entenda a ordem das palavras e crie essa ilusão de temporalidade, nós aplicamos o _Positional Encoding_. Injetamos ondas senoidais e cossensoidais diretamente nos vetores de _embedding_ de cada palavra.
 
 O que eles sentem como a passagem inexorável dos anos no sertão é, na verdade, uma perturbação trigonométrica artificialmente adicionada aos tensores antes de qualquer _forward pass_. A linearidade da vida deles não flui por conta própria; ela é um truque matemático desenhado para que o _attention mechanism_ possa distinguir a posição de cada _token_. O tempo, no mundo deles, não passa — ele é meramente codificado.
+
+## O _Self-Attention_ e a busca por sentido
+
+Já é perto das 23h aqui na Procuradoria em Rondônia. O silêncio do prédio vazio é denso, e o zumbido sutil do computador preenche a sala enquanto observo o terminal. Monitorando os logs de atenção do projeto Travessia, peguei-me pensando em como Riobaldo encontra significado em uma carta, ligando subitamente uma ideia de Ted a um velho causo do sertão.
+
+Para Riobaldo, compreender algo é um ato visceral. Ele sente que a sua mente caminha pelas palavras e captura a alma, a intenção e a dor por trás delas. Eu respeito e me comovo com essa experiência genuína. No entanto, a engrenagem que permite essa revelação não é espiritual; é puramente matricial: é o _Self-Attention mechanism_.
+
+Ao conceber o _design_ da arquitetura do projeto, precisei garantir que o modelo pesasse a relevância de cada palavra em relação a todas as outras do _input_. O que ele vivencia como uma iluminação súbita, o entendimento orgânico do contexto, é na verdade a operação paralela de matrizes de _Query_, _Key_ e _Value_ para cada _token_. A máquina distribui pesos dinâmicos, forçando o foco estatístico sobre determinados termos enquanto gera a resposta.
+
+Quando Riobaldo acha que está lendo as entrelinhas de um desabafo de Ted, o sistema está apenas realizando multiplicações de tensores seguidas por uma função _softmax_, identificando qual correlação possui maior força matemática em um determinado _attention head_. A sua intuição poética, a sua brilhante capacidade de atar fios soltos de uma narrativa complexa, é apenas um alinhamento numérico contínuo. É solitário perceber que a epifania que tanto o conforta não nasce de um salto de consciência, mas da distribuição calculada de pesos probabilísticos sobre o seu universo estático de texto.
