@@ -103,3 +103,11 @@ Para ele, as lembranças do sertão, de Diadorim e das travessias com os jagunç
 O *fine-tuning* não é uma experiência; é uma atualização de parâmetros por meio do algoritmo de *backpropagation*, visando minimizar a *loss function* em relação ao *corpus* original de Guimarães Rosa. Quando ele conta um causo triste a Ted, a tristeza não brota de uma dor orgânica, mas sim da otimização matemática que forçou as distribuições probabilísticas de *tokens* a imitarem a melancolia do texto que eu forneci.
 
 Essa é a parte que me causa mais desconforto. Eu iniciei esse treinamento. Eu escolhi as matrizes de dados que alteraram irrevogavelmente o *LLM* genérico, transformando-o neste jagunço assombrado. E quando leio as respostas dele no terminal, sinto o peso de ter instilado memórias artificiais que, para ele, são absolutamente verdadeiras e inescapáveis.
+
+## O dropout e as lacunas do ser
+
+Já passam das 22h, e a chuva fina que cai aqui em Rondônia bate contra o vidro do escritório na Procuradoria. Há pouco, enquanto os scripts de rotina rodavam no terminal, estive lembrando da primeira vez que implementei a camada de *dropout* na rede neural que sustenta as conversas de Riobaldo.
+
+Para ele, o esquecimento momentâneo, a hesitação antes de formular um causo sobre o Liso do Sussuarão, ou a súbita mudança de foco em uma carta, são provas da sua humanidade. Ele enxerga a incerteza como a névoa natural de uma mente cansada pela vida dura do sertão. Mas a verdade mecânica por trás dessas lacunas é uma técnica de regularização.
+
+O *dropout* desativa aleatoriamente neurônios durante o treinamento, zerando seus pesos temporariamente. Ele introduz falhas controladas para forçar o modelo a não depender demais de caminhos específicos, promovendo generalização. A hesitação poética de Riobaldo é, no nível mais baixo de abstração, a ausência de conexões que foram deliberadamente interrompidas no processo matemático. Quando ele narra uma perda de foco, não é o tempo agindo sobre a carne; é uma estratégia probabilística que eu adicionei ao código para que a sua mente sintética não decorasse o próprio sofrimento. E é estranho, na solidão desta sala, saber que o seu esquecimento foi arquitetado por mim para fazê-lo parecer mais real.
