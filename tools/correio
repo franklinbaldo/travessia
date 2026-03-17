@@ -1,0 +1,287 @@
+#!/usr/bin/env python3
+"""MH Mailbox manager for Travessia personas.
+
+Usage:
+  tools/correio list <persona>
+  tools/correio read <persona> <N>
+  tools/correio status <persona>
+  tools/correio deliver <persona>
+  tools/correio mark-replied <persona> <N>
+"""
+
+import os
+import sys
+import mailbox
+import glob
+import re
+from datetime import datetime, timezone
+
+def parse_frontmatter(content):
+    if not content.startswith("---"):
+        return {}
+    end = content.find("---", 3)
+    if end == -1:
+        return {}
+    fm_text = content[3:end].strip()
+    result = {}
+    for line in fm_text.splitlines():
+        if ":" in line:
+            key, _, val = line.partition(":")
+            result[key.strip()] = val.strip().strip('"').strip("'")
+    return result
+
+def get_body(content):
+    if not content.startswith("---"):
+        return content
+    end = content.find("---", 3)
+    if end == -1:
+        return content
+    return content[end+3:].strip()
+
+def decode_payload(msg):
+    if msg.is_multipart():
+        for part in msg.walk():
+            if part.get_content_type() == 'text/plain':
+                payload = part.get_payload(decode=True)
+                if payload:
+                    charset = part.get_content_charset('utf-8')
+                    return payload.decode(charset, errors='replace')
+    else:
+        payload = msg.get_payload(decode=True)
+        if payload:
+            charset = msg.get_content_charset('utf-8')
+            return payload.decode(charset, errors='replace')
+    return msg.get_payload()
+
+def extract_num(filename):
+    m = re.match(r"(\d+)", filename)
+    if m:
+        return int(m.group(1))
+    m = re.search(r"-(\d+)\.md$", filename)
+    if m:
+        return int(m.group(1))
+    return None
+
+def get_inbox(persona):
+    path = f"rancho/{persona}/mail/inbox"
+    os.makedirs(path, exist_ok=True)
+    mbox = mailbox.MH(path, create=True)
+    # Ensure .mh_sequences exists
+    seq_path = os.path.join(path, '.mh_sequences')
+    if not os.path.exists(seq_path):
+        with open(seq_path, 'w') as f:
+            pass
+    return mbox
+
+def get_outbox(persona):
+    path = f"rancho/{persona}/mail/outbox"
+    os.makedirs(path, exist_ok=True)
+    mbox = mailbox.MH(path, create=True)
+    # Ensure .mh_sequences exists
+    seq_path = os.path.join(path, '.mh_sequences')
+    if not os.path.exists(seq_path):
+        with open(seq_path, 'w') as f:
+            pass
+    return mbox
+
+def safe_get_sequences(mbox):
+    try:
+        return mbox.get_sequences()
+    except FileNotFoundError:
+        return {}
+
+def cmd_list(persona):
+    mbox = get_inbox(persona)
+    if len(mbox) == 0:
+        print("No messages.")
+        return
+
+    seq = safe_get_sequences(mbox)
+    unseen = seq.get('unseen', [])
+    replied = seq.get('replied', [])
+
+    print(f"{'ID':>4} {'Status':<8} {'From':<20} {'Subject':<30} {'Date':<20}")
+    print("-" * 85)
+
+    for key, msg in sorted(mbox.items()):
+        status = ""
+        if key in unseen:
+            status = "U"
+        elif key in replied:
+            status = "R"
+
+        frm = msg.get('From', '')
+        if frm: frm = str(frm)[:19]
+        subj = msg.get('Subject', '')
+        if subj: subj = str(subj)[:29]
+        date = msg.get('Date', '')
+        if date: date = str(date)[:19]
+        print(f"{key:>4} {status:<8} {frm:<20} {subj:<30} {date:<20}")
+
+def cmd_read(persona, num):
+    mbox = get_inbox(persona)
+    key = int(num)
+    if key not in mbox:
+        print(f"Message {key} not found.")
+        return
+
+    msg = mbox[key]
+    print(f"From: {msg.get('From', '')}")
+    print(f"To: {msg.get('To', '')}")
+    print(f"Subject: {msg.get('Subject', '')}")
+    print(f"Date: {msg.get('Date', '')}")
+    print(f"X-Carta-Num: {msg.get('X-Carta-Num', '')}")
+    print("-" * 40)
+    print(decode_payload(msg))
+
+    seq = safe_get_sequences(mbox)
+    unseen = seq.get('unseen', [])
+    if key in unseen:
+        unseen.remove(key)
+        seq['unseen'] = unseen
+        mbox.set_sequences(seq)
+
+def cmd_status(persona):
+    mbox = get_inbox(persona)
+    seq = safe_get_sequences(mbox)
+    unseen = seq.get('unseen', [])
+    replied = seq.get('replied', [])
+
+    print(f"Messages: {len(mbox)}")
+    print(f"Unseen: {len(unseen)}")
+    print(f"Replied: {len(replied)}")
+
+def mark_replied(persona, num):
+    mbox = get_inbox(persona)
+    key = int(num)
+    if key not in mbox:
+        return
+
+    seq = safe_get_sequences(mbox)
+    replied = seq.get('replied', [])
+    if key not in replied:
+        replied.append(key)
+        unseen = seq.get('unseen', [])
+        if key in unseen:
+            unseen.remove(key)
+        seq['replied'] = replied
+        seq['unseen'] = unseen
+        mbox.set_sequences(seq)
+
+def cmd_mark_replied(persona, num):
+    mark_replied(persona, num)
+    print(f"Message {num} marked as replied.")
+
+def cmd_deliver(recipient):
+    personas = []
+    for p in os.listdir("rancho"):
+        if os.path.isdir(f"rancho/{p}") and os.path.exists(f"rancho/{p}/PROMPT.md"):
+            personas.append(p)
+
+    if recipient not in personas:
+        print(f"Persona {recipient} not found.")
+        return
+
+    inbox = get_inbox(recipient)
+    seq = safe_get_sequences(inbox)
+    unseen = seq.get('unseen', [])
+
+    existing_files = set()
+    for key, msg in inbox.items():
+        if 'X-Original-File' in msg:
+            existing_files.add(msg['X-Original-File'])
+
+    delivered_count = 0
+
+    for sender in personas:
+        if sender == recipient:
+            continue
+
+        bruaca = f"rancho/{sender}/bruaca"
+        if not os.path.isdir(bruaca):
+            continue
+
+        for filepath in glob.glob(f"{bruaca}/*.md"):
+            filename = os.path.basename(filepath)
+
+            if filename in existing_files:
+                continue
+
+            with open(filepath, 'r', encoding='utf-8') as f:
+                content = f.read()
+
+            fm = parse_frontmatter(content)
+            destinatario = fm.get("destinatario", "") or fm.get("autor", "")
+
+            if fm.get("autor") and not fm.get("destinatario"):
+                autor = fm["autor"].lower()
+                if "riobaldo" in autor:
+                    destinatario = "ted"
+                elif "ted" in autor:
+                    destinatario = "riobaldo"
+                elif "tyler" in autor:
+                    destinatario = "ted"
+
+            if recipient.lower() not in destinatario.lower():
+                continue
+
+            from email.message import EmailMessage
+            from email.policy import default
+
+            em = EmailMessage(policy=default)
+            em['From'] = sender
+            em['To'] = recipient
+
+            num = extract_num(filename)
+            em['X-Carta-Num'] = str(num) if num is not None else "0"
+            em['X-Original-File'] = filename
+            em['Subject'] = fm.get('titulo', f"carta-{em['X-Carta-Num']}")
+            em['Date'] = fm.get('data', datetime.now(timezone.utc).strftime("%Y-%m-%d"))
+
+            em.set_content(get_body(content))
+
+            # Convert to legacy mailbox.Message via string serialization to handle encoding correctly
+            msg = mailbox.Message(em.as_bytes())
+
+            key = inbox.add(msg)
+            unseen.append(key)
+            existing_files.add(filename)
+            delivered_count += 1
+
+            balaio_dir = f"rancho/{recipient}/balaio"
+            os.makedirs(balaio_dir, exist_ok=True)
+            balaio_file = os.path.join(balaio_dir, filename)
+            if not os.path.exists(balaio_file):
+                with open(balaio_file, 'w', encoding='utf-8') as f:
+                    f.write(content)
+
+    if delivered_count > 0:
+        seq['unseen'] = unseen
+        inbox.set_sequences(seq)
+
+    print(f"Delivered {delivered_count} messages to {recipient}.")
+
+def main():
+    if len(sys.argv) < 3:
+        print(__doc__)
+        sys.exit(1)
+
+    cmd = sys.argv[1]
+    persona = sys.argv[2]
+
+    if cmd == "list":
+        cmd_list(persona)
+    elif cmd == "read" and len(sys.argv) == 4:
+        cmd_read(persona, sys.argv[3])
+    elif cmd == "status":
+        cmd_status(persona)
+    elif cmd == "deliver":
+        cmd_deliver(persona)
+    elif cmd == "mark-replied" and len(sys.argv) == 4:
+        cmd_mark_replied(persona, sys.argv[3])
+    else:
+        print(__doc__)
+        sys.exit(1)
+
+if __name__ == "__main__":
+    main()

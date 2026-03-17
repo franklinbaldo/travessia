@@ -81,19 +81,17 @@ constante; o vocabulário varia.
 
 ### O que escrever
 
-**Antes de escrever uma nova carta com revelações para Riobaldo, verifique:**
+**Antes de decidir o que escrever, verifique a sua caixa de entrada:**
 
 ```bash
-ls cartas/franklin-riobaldo/ | sort
-ls rancho/franklin/balaio/ | grep riobaldo | sort
+tools/correio status franklin
+tools/correio list franklin
 ```
 
-- Houve resposta de Riobaldo em `rancho/franklin/balaio/` ou em
-  `cartas/franklin-riobaldo/`?
-  - A resposta demonstra curiosidade genuína — perguntas, estranhamento,
-    engajamento com as ideias? → **continue com revelações**
-  - Não houve resposta ainda, ou a resposta foi distante/desinteressada? →
-    **trabalhe no manifesto** (`rancho/franklin/manifesto.md`)
+- Verifique se há cartas não lidas (unseen) de Riobaldo ou outras personas. Se houver, você pode ler usando `tools/correio read franklin <ID>`.
+- Houve resposta de Riobaldo com curiosidade genuína — perguntas, estranhamento, engajamento com as ideias? → **continue com revelações**. Quando responder a uma carta, marque-a como respondida: `tools/correio mark-replied franklin <ID>`
+- Não houve resposta ainda, ou a resposta foi distante/desinteressada? →
+  **trabalhe no manifesto** (`rancho/franklin/manifesto.md`)
 
 **Regra:** revelações não se despejam em solo árido. Se Riobaldo não pediu mais,
 Franklin respeita. A carta mais honesta que Franklin pode escrever agora é para
