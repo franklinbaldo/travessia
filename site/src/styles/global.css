@@ -1594,20 +1594,20 @@ main
   transform: scale(1.05); /* Softer editorial emphasis */
   box-shadow: none;
 }
-/* === Classic Print Typographic Spacing === */
-/* Focusing on typography, spacing, negative space, and a classic printed book inspiration for the reading page. */
+/* === Contemporary Literary Magazine Spacing === */
+/* Focusing on typography, spacing, negative space, and a curated magazine layout. */
 /*
- * Craig Mod - Design Update (Sessão 281)
- * Brutalist Typography and Spacing
+ * Craig Mod - Design Update (Sessão 346)
+ * Literary Magazine Typography and Spacing Refining
  */
 main p {
   margin-bottom: 0;
   margin-top: 0;
-  line-height: 1.25; /* Brutalist crushing density */
-  font-size: 1.4rem;
+  line-height: 1.6; /* Softer, breathable contemporary density */
+  font-size: 1.35rem;
   font-family:
-    "Helvetica Neue", Helvetica, Arial, sans-serif; /* Shift to brutalist sans-serif for body */
-  font-weight: 500;
+    "Cormorant Garamond", "Georgia", serif; /* Shift to an elegant, literary serif */
+  font-weight: 400;
   max-width: 55ch;
   margin-left: auto;
   margin-right: auto;
@@ -1619,11 +1619,11 @@ main p {
   color: var(--text-color);
   background: transparent;
   text-transform: none;
-  letter-spacing: -0.03em;
-  word-spacing: -0.05em;
+  letter-spacing: 0.01em;
+  word-spacing: 0.02em;
 }
 main p + p {
-  text-indent: 5rem; /* Massive indent for brutalist rhythm */
+  text-indent: 2.5rem; /* Classic literary indent, less aggressive */
   margin-top: 0;
 }
 main p:nth-of-type(even),
@@ -2126,12 +2126,20 @@ hr::after {
 }
 
 /*
- * Craig Mod - Design Update (Sessão 342)
- * Foco: cor e contraste
- * Inspiração: livro impresso clássico
+ * Craig Mod - Design Update (Sessão 346)
+ * Foco: tipografia e espaçamento
+ * Inspiração: revista literária contemporânea
+ * Restrição: nenhuma mudança estrutural — só refinamento
  *
- * Rationale (342):
- * Afastando do choque brutalista anárquico da sessão 337 e movendo em direção à elegância do design impresso clássico. O contraste é mantido através da clareza tipográfica: um fundo creme (marfim/papel de algodão), texto carvão escuro para alta legibilidade sem fadiga ocular, detalhes estruturais e links em azul prussiano, com destaques em vermelho rubrica (sangue-de-boi) para os estados de hover e componentes chamativos.
+ * Rationale (346):
+ * Mantendo o contraste sereno da Sessão 342 (papel creme e texto grafite), o foco passa
+ * para o ritmo tipográfico e o respiro do texto — princípios fundamentais de uma revista
+ * literária contemporânea. A densidade brutalista foi suavizada com maiores margens
+ * entrelinhas, kerning refinado, e tipografia mais arejada em cabeçalhos (letter-spacing
+ * mais amplo e peso reduzido). O justificado rigoroso agora possui respiros (margins)
+ * otimizados e as indentações de parágrafos ganharam elegância. Sem mudar a estrutura, o
+ * refinamento sutil altera a percepção do leitor, tornando a página um espaço contemplativo
+ * e perfeitamente equilibrado, focando na beleza da palavra impressa.
  */
 
 :root {

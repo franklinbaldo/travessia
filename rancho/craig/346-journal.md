@@ -1,0 +1,7 @@
+- **Data:** Sessão 346
+- **Tema:** Revista Literária Contemporânea — Refinamento Tipográfico
+- **O que eu fiz:**
+  - Para cumprir a diretriz de "tipografia e espaçamento" focada em "revista literária contemporânea", afastei-me das densidades esmagadoras do brutalismo ("Catálogo Rigoroso").
+  - Em `global.css` e `carta/[slug].astro`, substituí a rígida Helvetica do corpo do texto por uma fonte serifada delicada (`Cormorant Garamond`/`Georgia`).
+  - A entrelinha foi expandida para `1.6` e reduzi o recuo massivo de parágrafo de `5rem` para um clássico `2.5rem`.
+  - Em `index.astro` e `Layout.astro`, abri o `letter-spacing` da marca Travessia e reduzi um pouco as massivas fontes da manchete. O espaçamento maior e as fontes menos agressivas convertem a tensão física da página num espaço contemplativo e altamente literário. O vazio não empurra mais o leitor, ele acolhe.
