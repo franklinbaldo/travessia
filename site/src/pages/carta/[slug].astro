@@ -272,68 +272,40 @@ function autorClasse(autorName: string): string {
     font-weight: 700;
   }
   :global(.manuscrito-body blockquote) {
-    background-color: var(--text-color) !important;
-    border-left: 12px solid var(--accent-color) !important;
-    margin: 6rem -3rem 6rem -3rem !important;
-    padding: 4rem 5rem !important;
-    box-shadow: none;
+    background-color: transparent !important;
+    border-left: none !important;
+    border-top: 2px solid var(--text-color) !important;
+    border-bottom: 2px solid var(--text-color) !important;
+    margin: 4rem 0 !important;
+    padding: 3rem 0 !important;
+    box-shadow: none !important;
     font-style: italic;
-    color: var(--bg-color) !important;
-    font-size: 1.6rem !important;
+    color: var(--text-color) !important;
+    font-size: 1.35rem !important;
     line-height: 1.6 !important;
     text-align: left !important;
     font-family: var(--font-body) !important;
-    transform: rotate(-1.5deg);
+    transform: none !important;
     position: relative;
     z-index: 10;
   }
   :global(.manuscrito-body blockquote p) {
-    color: var(--bg-color) !important;
-    text-indent: 0 !important;
-    margin: 0 !important;
-    font-size: 1.6rem !important;
-    max-width: 100% !important;
-  }
-  :global([data-theme="dark"] .manuscrito-body blockquote) {
-    background-color: var(--accent-color) !important;
-    color: var(--bg-color) !important;
-    box-shadow: none;
-    border-left: 12px solid var(--text-color) !important;
-  }
-  :global([data-theme="dark"] .manuscrito-body blockquote p) {
-    color: var(--bg-color) !important;
-  }
-  :global(.manuscrito-body blockquote p) {
-    color: var(--bg-color) !important;
-    text-indent: 0 !important;
-    margin: 0 !important;
-    font-size: 1.45rem !important;
-    max-width: 100% !important;
-  }
-  :global([data-theme="dark"] .manuscrito-body blockquote) {
-    background-color: var(--accent-color) !important;
-    color: var(--bg-color) !important;
-    box-shadow: none;
-    border-left: 12px solid var(--text-color) !important;
-  }
-  :global([data-theme="dark"] .manuscrito-body blockquote p) {
-    color: var(--bg-color) !important;
-  }
-  :global(.manuscrito-body blockquote p) {
-    color: var(--bg-color) !important;
+    color: var(--text-color) !important;
     text-indent: 0 !important;
     margin: 0 !important;
     font-size: 1.35rem !important;
     max-width: 100% !important;
   }
   :global([data-theme="dark"] .manuscrito-body blockquote) {
-    background-color: var(--accent-color) !important;
-    color: var(--bg-color) !important;
-    box-shadow: none;
-    border-left: 8px solid var(--text-color) !important;
+    background-color: transparent !important;
+    color: var(--text-color) !important;
+    box-shadow: none !important;
+    border-top: 2px solid var(--text-color) !important;
+    border-bottom: 2px solid var(--text-color) !important;
+    border-left: none !important;
   }
   :global([data-theme="dark"] .manuscrito-body blockquote p) {
-    color: var(--bg-color) !important;
+    color: var(--text-color) !important;
   }
 /* === MANUSCRITO TIMELINE - MICROINTERAÇÕES E DETALHES === */
   .correspondence-timeline {
@@ -387,36 +359,23 @@ function autorClasse(autorName: string): string {
     position: relative;
   }
   /* Microinteração de linha conectando as marcações estilo esboço */
-  .timeline-dot.ted {
+  .timeline-dot.ted, .timeline-dot.rio {
     border-color: var(--text-color);
     color: var(--text-color);
   }
-  .timeline-dot.rio {
-    border-color: var(--accent-color);
-    color: var(--accent-color);
-  }
   /* Microinterações detalhadas de Hover */
-  .timeline-dot:hover {
-    transform: scale(1.15);
-    background-color: var(--sand-bg);
-    box-shadow: none;
-    border-color: var(--meta-color);
-}
-  .timeline-dot.ted:hover {
-    border-color: var(--meta-color);
-    color: var(--bg-color);
-    background-color: var(--meta-color);
-  }
-  .timeline-dot.rio:hover {
-    background-color: var(--accent-color);
+  .timeline-dot:hover, .timeline-dot.ted:hover, .timeline-dot.rio:hover {
+    transform: none;
+    background-color: var(--text-color);
     color: var(--bg-color);
     box-shadow: none;
+    border-color: var(--text-color);
   }
   /* Estado ativo/corrente como um círculo preenchido de forma imperfeita */
   .timeline-dot.current {
     color: var(--bg-color) !important;
     font-weight: 700;
-    transform: scale(1.2);
+    transform: none;
     background-color: var(--text-color);
     border-color: var(--text-color);
     z-index: 10;
