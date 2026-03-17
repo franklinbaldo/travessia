@@ -5,23 +5,23 @@
     "branch": ""
   },
   "franklin": {
-    "session_id": "10531692556985433309",
-    "state": "IN_PROGRESS",
+    "session_id": "10540509463247407479",
+    "state": "QUEUED",
     "branch": ""
   },
   "riobaldo": {
-    "session_id": "5111681936443999234",
+    "session_id": "11944738945867951782",
     "state": "IN_PROGRESS",
     "branch": ""
   },
   "ted": {
     "session_id": "5908572823878463542",
-    "state": "QUEUED",
+    "state": "COMPLETED",
     "branch": ""
   },
   "tyler": {
     "session_id": "17156127219177948617",
-    "state": "QUEUED",
+    "state": "COMPLETED",
     "branch": ""
   }
 }

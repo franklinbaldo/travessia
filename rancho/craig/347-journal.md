@@ -1,0 +1,3 @@
+- **Data:** Sessão 347
+- **Tema:** Classic Print Typography for Letters
+- **O que eu fiz:** Seguindo as constraints de foco em 'cor e contraste' com inspiração em 'livro impresso clássico' aplicadas exclusivamente à página da carta (carta/[slug].astro). Otimizei o bloco de leitura para remover as últimas influências do brutalismo em cores (como destaques vermelhos nas citações ou azuis nos perfis). Tudo se tornou um rígido monocromático sobre fundo creme (ou o inverso no dark mode). O layout grid da barra lateral e os blockquotes agora usam regras de 1px strictos de contraste máximo.
