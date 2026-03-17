@@ -2126,43 +2126,39 @@ hr::after {
 }
 
 /*
- * Craig Mod - Design Update (Sessão 335 e 337)
+ * Craig Mod - Design Update (Sessão 342)
  * Foco: cor e contraste
- * Inspiração: web brutalista
+ * Inspiração: livro impresso clássico
  *
- * Rationale (337):
- * Elevando o contraste da "Celulose Brutalista" ao limite. As cores de fundo e texto
- * continuam densas, mas agora as divisórias são pretas absolutas (grossas) e as
- * cores de acento viraram tons neon puro-brutalistas: azul hiperlink (#0000ff) e
- * amarelo marca-texto (#e4ff00) para hover states agressivos, forçando um "cor e contraste"
- * estourado, típico de indexadores web rústicos e zines anárquicos.
+ * Rationale (342):
+ * Afastando do choque brutalista anárquico da sessão 337 e movendo em direção à elegância do design impresso clássico. O contraste é mantido através da clareza tipográfica: um fundo creme (marfim/papel de algodão), texto carvão escuro para alta legibilidade sem fadiga ocular, detalhes estruturais e links em azul prussiano, com destaques em vermelho rubrica (sangue-de-boi) para os estados de hover e componentes chamativos.
  */
 
 :root {
-  --bg-color: #f4f1ea;
-  --desk-bg: #f4f1ea;
-  --sand-bg: #f4f1ea;
-  --text-color: #050505; /* Quase preto puro para contraste brutal */
-  --secondary-color: #0000ff; /* Azul web-safe brutalista */
-  --accent-color: #ff0000; /* Vermelho puro alerta */
-  --divider-color: #050505; /* Linhas duras, opacas e espessas */
-  --meta-color: #333333; /* Cinza mais escuro */
-  --brutal-hover-bg: #e4ff00; /* Amarelo puro para contraste de choque */
+  --bg-color: #fcf9f2;
+  --desk-bg: #fcf9f2;
+  --sand-bg: #fcf9f2;
+  --text-color: #1a1a1a; /* Quase preto puro para contraste brutal */
+  --secondary-color: #003366; /* Azul web-safe brutalista */
+  --accent-color: #8b0000; /* Vermelho puro alerta */
+  --divider-color: #1a1a1a; /* Linhas duras, opacas e espessas */
+  --meta-color: #4d4d4d; /* Cinza mais escuro */
+  --brutal-hover-bg: #1a1a1a; /* Amarelo puro para contraste de choque */
   --progress-start: #050505;
   --progress-end: #050505;
   --water-border: #050505;
 }
 
 [data-theme="dark"] {
-  --bg-color: #050505;
-  --desk-bg: #050505;
-  --sand-bg: #050505;
-  --text-color: #f4f1ea;
-  --secondary-color: #00ffff; /* Ciano puro brutalista escuro */
-  --accent-color: #ff00ff; /* Magenta alerta */
-  --divider-color: #f4f1ea;
-  --meta-color: #cccccc;
-  --brutal-hover-bg: #ff0000;
+  --bg-color: #121212;
+  --desk-bg: #121212;
+  --sand-bg: #121212;
+  --text-color: #e6e0d4;
+  --secondary-color: #66b3ff; /* Ciano puro brutalista escuro */
+  --accent-color: #ff6666; /* Magenta alerta */
+  --divider-color: #e6e0d4;
+  --meta-color: #a0a0a0;
+  --brutal-hover-bg: #e6e0d4;
   --progress-start: #f4f1ea;
   --progress-end: #f4f1ea;
   --water-border: #f4f1ea;
