@@ -3,37 +3,30 @@ import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import FooterNav from '../../components/FooterNav.astro';
 import { formatDate, getFileNum } from '../../lib/utils';
-
 export async function getStaticPaths() {
   const all = await getCollection('dialogo');
   const sorted = [...all].sort((a, b) => getFileNum(a.id) - getFileNum(b.id));
-
   return all.map(entry => {
     const currentIndex = sorted.findIndex(e => e.id === entry.id);
     const prev = currentIndex > 0 ? sorted[currentIndex - 1] : null;
     const next = currentIndex < sorted.length - 1 ? sorted[currentIndex + 1] : null;
-
     return {
       params: { slug: entry.id },
       props: { entry, sorted, prev, next },
     };
   });
 }
-
 const base = import.meta.env.BASE_URL;
 const { entry, sorted, prev, next } = Astro.props;
 const { Content } = await render(entry);
-
 const isRio = entry.data.autor.includes('Riobaldo');
 const isTed = !isRio;
 const autor = entry.data.autor;
 const titulo = entry.data.titulo;
-
 function autorClasse(autorName: string): string {
   return autorName.includes('Riobaldo') ? 'rio' : 'ted';
 }
 ---
-
 <Layout title={`${titulo} | Travessia`}>
   <div class="carta-layout-grid">
     <aside class="carta-sidebar">
@@ -49,15 +42,12 @@ function autorClasse(autorName: string): string {
             </div>
           )}
         </div>
-
         <h1>{titulo}</h1>
-
         <div class="editorial-byline">
           <span class="byline-label">Por</span>
           <span class={`byline-author autor-${isRio ? 'rio' : 'ted'}`}>{autor}</span>
         </div>
       </header>
-
       <div class="correspondence-timeline">
         <span class="timeline-label">Sequência da correspondência</span>
         <div class="timeline-dots">
@@ -79,7 +69,6 @@ function autorClasse(autorName: string): string {
         </div>
       </div>
     </aside>
-
     <article class="carta-content">
       <div class={`manuscrito-body classic-print-page ${isRio ? 'carta-riobaldo' : ''}`}>
         <Content />
@@ -89,7 +78,6 @@ function autorClasse(autorName: string): string {
       </div>
     </article>
   </div>
-
   <FooterNav
     prev={prev ? {
       url: `${base}carta/${prev.id}`,
@@ -105,7 +93,6 @@ function autorClasse(autorName: string): string {
     } : undefined}
   />
 </Layout>
-
 <style>
       /* Editorial Magazine Header - Contemporary */
   /* Layout Grid for Letter Page */
@@ -117,14 +104,12 @@ function autorClasse(autorName: string): string {
     margin: 4rem auto;
     align-items: start;
   }
-
   @media (min-width: 1024px) {
     .carta-layout-grid {
       grid-template-columns: 350px 1fr;
       gap: 6rem;
     }
   }
-
   .carta-sidebar {
     position: sticky;
     top: 4rem;
@@ -132,7 +117,6 @@ function autorClasse(autorName: string): string {
     padding-right: 2rem;
     border-right: 2px solid var(--text-color);
   }
-
   @media (max-width: 1023px) {
     .carta-sidebar {
       position: static;
@@ -142,12 +126,10 @@ function autorClasse(autorName: string): string {
       padding-bottom: 2rem;
     }
   }
-
   .carta-content {
     max-width: 100%;
     overflow: hidden;
   }
-
   .editorial-header {
     margin: 0 0 3rem 0 !important;
     padding: 0 0 2rem 0 !important;
@@ -159,13 +141,11 @@ function autorClasse(autorName: string): string {
     color: var(--text-color) !important;
     letter-spacing: normal !important;
   }
-
   .editorial-header > div, .editorial-header > h1 {
     max-width: 100%;
     margin-left: auto;
     margin-right: auto;
   }
-
   .editorial-meta-top {
     display: flex;
     flex-direction: column;
@@ -181,18 +161,15 @@ function autorClasse(autorName: string): string {
     border-top: none;
     padding-top: 0;
   }
-
   .editorial-context {
     display: flex;
     gap: 0.5rem;
   }
-
   .context-author {
     font-weight: normal;
     font-style: normal;
     color: var(--meta-color);
   }
-
   .editorial-header h1 {
     font-family: var(--font-body);
     font-size: clamp(2.5rem, 4vw, 3.5rem);
@@ -204,7 +181,6 @@ function autorClasse(autorName: string): string {
     font-style: italic;
     text-align: left;
   }
-
   .editorial-byline {
     font-family: var(--font-body);
     font-size: 1.15rem;
@@ -216,18 +192,15 @@ function autorClasse(autorName: string): string {
     padding: 0;
     font-style: italic;
   }
-
   .byline-label {
     color: var(--meta-color);
     font-weight: normal;
   }
-
   .byline-author {
     font-weight: normal;
     text-transform: none;
     letter-spacing: normal;
   }
-
     /* Structural Manuscript Theme - Refined Editorial */
   :global(.classic-print-page) {
     background-color: transparent !important;
@@ -240,7 +213,6 @@ function autorClasse(autorName: string): string {
     font-family: 'Cormorant Garamond', Georgia, serif !important;
     position: relative;
   }
-
   :global(.manuscrito-body) {
     display: block !important;
     width: 100% !important;
@@ -250,15 +222,13 @@ function autorClasse(autorName: string): string {
     padding: 0 0 4rem 0 !important;
     background-color: transparent !important;
     border: none !important;
-    box-shadow: none !important;
+    box-shadow: none;
   }
-
   :global(.manuscrito-body > *) {
     position: relative;
     z-index: 1;
     background-color: transparent !important;
   }
-
   :global(.manuscrito-body p) {
     text-indent: 2.5rem !important;
     max-width: 100% !important;
@@ -276,12 +246,10 @@ function autorClasse(autorName: string): string {
     border: none !important;
     padding: 0 !important;
   }
-
   :global(.manuscrito-body p:first-of-type) {
     text-indent: 0 !important;
     margin-top: 2rem !important;
   }
-
   :global(.manuscrito-body p:first-of-type::first-letter) {
     float: left;
     font-size: 4.8rem;
@@ -293,13 +261,12 @@ function autorClasse(autorName: string): string {
     font-style: normal;
     font-weight: 700;
   }
-
   :global(.manuscrito-body blockquote) {
     background-color: var(--text-color) !important;
     border-left: 12px solid var(--accent-color) !important;
     margin: 6rem -3rem 6rem -3rem !important;
     padding: 4rem 5rem !important;
-    box-shadow: 20px 20px 0 var(--accent-color) !important;
+    box-shadow: none;
     font-style: italic;
     color: var(--bg-color) !important;
     font-size: 1.6rem !important;
@@ -310,7 +277,6 @@ function autorClasse(autorName: string): string {
     position: relative;
     z-index: 10;
   }
-
   :global(.manuscrito-body blockquote p) {
     color: var(--bg-color) !important;
     text-indent: 0 !important;
@@ -318,18 +284,15 @@ function autorClasse(autorName: string): string {
     font-size: 1.6rem !important;
     max-width: 100% !important;
   }
-
   :global([data-theme="dark"] .manuscrito-body blockquote) {
     background-color: var(--accent-color) !important;
     color: var(--bg-color) !important;
-    box-shadow: 20px 20px 0 var(--text-color) !important;
+    box-shadow: none;
     border-left: 12px solid var(--text-color) !important;
   }
-
   :global([data-theme="dark"] .manuscrito-body blockquote p) {
     color: var(--bg-color) !important;
   }
-
   :global(.manuscrito-body blockquote p) {
     color: var(--bg-color) !important;
     text-indent: 0 !important;
@@ -337,18 +300,15 @@ function autorClasse(autorName: string): string {
     font-size: 1.45rem !important;
     max-width: 100% !important;
   }
-
   :global([data-theme="dark"] .manuscrito-body blockquote) {
     background-color: var(--accent-color) !important;
     color: var(--bg-color) !important;
-    box-shadow: 16px 16px 0 var(--text-color) !important;
+    box-shadow: none;
     border-left: 12px solid var(--text-color) !important;
   }
-
   :global([data-theme="dark"] .manuscrito-body blockquote p) {
     color: var(--bg-color) !important;
   }
-
   :global(.manuscrito-body blockquote p) {
     color: var(--bg-color) !important;
     text-indent: 0 !important;
@@ -356,18 +316,15 @@ function autorClasse(autorName: string): string {
     font-size: 1.35rem !important;
     max-width: 100% !important;
   }
-
   :global([data-theme="dark"] .manuscrito-body blockquote) {
     background-color: var(--accent-color) !important;
     color: var(--bg-color) !important;
-    box-shadow: 12px 12px 0 var(--text-color) !important;
+    box-shadow: none;
     border-left: 8px solid var(--text-color) !important;
   }
-
   :global([data-theme="dark"] .manuscrito-body blockquote p) {
     color: var(--bg-color) !important;
   }
-
 /* === MANUSCRITO TIMELINE - MICROINTERAÇÕES E DETALHES === */
   .correspondence-timeline {
     margin-top: 0;
@@ -377,9 +334,6 @@ function autorClasse(autorName: string): string {
     text-align: left;
     position: relative;
   }
-
-
-
   .timeline-label {
     display: inline-block;
     font-family: var(--font-meta);
@@ -394,7 +348,6 @@ function autorClasse(autorName: string): string {
     position: relative;
     z-index: 2;
   }
-
   .timeline-dots {
     display: flex;
     justify-content: flex-start;
@@ -405,7 +358,6 @@ function autorClasse(autorName: string): string {
     position: relative;
     z-index: 2;
   }
-
   .timeline-dot {
     display: inline-flex;
     align-items: center;
@@ -413,7 +365,7 @@ function autorClasse(autorName: string): string {
     width: 2.5rem;
     height: 2.5rem;
     flex-shrink: 0;
-    border-radius: 50%; /* Estilo carimbo/marcação */
+    border-radius: 0; /* Estilo carimbo/marcação */
     border: 2px solid var(--text-color);
     background: transparent;
     color: var(--text-color);
@@ -421,43 +373,35 @@ function autorClasse(autorName: string): string {
     font-size: 1.1rem;
     font-weight: bold;
     text-decoration: none;
-    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    transition: none;
     position: relative;
   }
-
   /* Microinteração de linha conectando as marcações estilo esboço */
-
-
   .timeline-dot.ted {
     border-color: var(--text-color);
     color: var(--text-color);
   }
-
   .timeline-dot.rio {
     border-color: var(--accent-color);
     color: var(--accent-color);
   }
-
   /* Microinterações detalhadas de Hover */
   .timeline-dot:hover {
     transform: scale(1.15);
     background-color: var(--sand-bg);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    box-shadow: none;
     border-color: var(--meta-color);
 }
-
   .timeline-dot.ted:hover {
     border-color: var(--meta-color);
     color: var(--bg-color);
     background-color: var(--meta-color);
   }
-
   .timeline-dot.rio:hover {
     background-color: var(--accent-color);
     color: var(--bg-color);
-    box-shadow: 2px 2px 0 var(--accent-color);
+    box-shadow: none;
   }
-
   /* Estado ativo/corrente como um círculo preenchido de forma imperfeita */
   .timeline-dot.current {
     color: var(--bg-color) !important;
@@ -466,19 +410,9 @@ function autorClasse(autorName: string): string {
     background-color: var(--text-color);
     border-color: var(--text-color);
     z-index: 10;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+    box-shadow: none;
 }
-
   /* Apply the actual background correctly specifically for current to prevent leak */
-
-
-
-
-
-
-
-
-
   @media (max-width: 600px) {
     .correspondence-timeline {
       padding: 2rem 1rem;

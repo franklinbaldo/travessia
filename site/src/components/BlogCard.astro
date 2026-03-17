@@ -1,6 +1,5 @@
 ---
 import { formatDate } from "../lib/utils";
-
 interface Props {
   url: string;
   titulo: string;
@@ -12,7 +11,6 @@ interface Props {
   excerpt: string;
   data?: Date;
 }
-
 const {
   url,
   titulo,
@@ -25,7 +23,6 @@ const {
   data,
 } = Astro.props;
 ---
-
 <a href={url} class="blog-card" data-tipo={tipo} data-autor={autorClasse}>
   <h2 class="card-titulo">{titulo}</h2>
   {subtitulo && <p class="card-subtitulo">{subtitulo}</p>}
@@ -34,8 +31,6 @@ const {
     <span class="card-tipo">{tipoLabel}</span>{data && <>, <time datetime={data.toISOString()}>{formatDate(data)}</time></>}{autor && <>. <span class={`card-autor autor-${autorClasse}`}>{autor}</span></>}
   </div>
 </a>
-
-
 <style>
   .blog-card {
     display: block;
@@ -43,13 +38,12 @@ const {
     padding: 2.5rem 2rem !important;
     margin-bottom: 0 !important;
     border: none !important;
-    border-bottom: 1px dashed var(--divider-color) !important;
+    border-bottom: 1px solid var(--divider-color) !important;
     background-color: transparent !important;
     box-shadow: none !important;
     position: relative;
     transition: none !important;
   }
-
   .blog-card::before {
     content: '';
     position: absolute;
@@ -60,22 +54,18 @@ const {
     transform: scale(0.98);
     transition: opacity 0.4s ease, transform 0.4s cubic-bezier(0.19, 1, 0.22, 1);
   }
-
   :global([data-theme="dark"]) .blog-card::before {
     background-color: rgba(255,255,255,0.03);
   }
-
   .blog-card:hover {
     background-color: transparent !important;
     /* transform: translateX(0.5rem); */
     border-bottom-color: var(--text-color) !important;
   }
-
   .blog-card:hover::before {
     opacity: 1;
     transform: scale(1);
   }
-
   .card-titulo {
     font-family: var(--font-body);
     font-size: 1.5rem;
@@ -86,11 +76,9 @@ const {
     text-transform: none;
     letter-spacing: -0.01em;
   }
-
   .blog-card:hover .card-titulo {
     color: var(--accent-color) !important;
   }
-
   .card-subtitulo {
     font-family: var(--font-body);
     font-style: italic;
@@ -98,7 +86,6 @@ const {
     font-size: 1.1rem;
     margin: 0 0 0.5rem 0;
   }
-
   .card-excerpt {
     font-family: var(--font-body);
     font-size: 1.1rem;
@@ -107,7 +94,6 @@ const {
     margin: 0 0 1rem 0;
     max-width: 65ch;
   }
-
   .card-meta {
     font-family: var(--font-body) !important;
     font-size: 1.1rem !important;
@@ -119,7 +105,6 @@ const {
     letter-spacing: 0 !important;
     font-weight: normal !important;
   }
-
   .card-meta span, .card-meta time {
     display: inline !important;
     font-family: var(--font-body) !important;
@@ -127,19 +112,15 @@ const {
     letter-spacing: 0 !important;
     font-weight: normal !important;
   }
-
   .card-meta::before {
     content: "— ";
   }
-
   .card-tipo {
     color: var(--text-color) !important;
   }
-
   .card-autor {
     color: var(--text-color) !important;
   }
-
   /* Do not invert colors on hover */
   .blog-card:hover .card-excerpt,
   .blog-card:hover .card-autor,
@@ -149,9 +130,3 @@ const {
     color: inherit;
   }
 </style>
-
-
-
-
-
-
