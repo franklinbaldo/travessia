@@ -1,0 +1,21 @@
+
+> site@0.0.1 dev
+> astro dev
+
+20:05:25 [types] Generated 1ms
+
+ update  ▶ New version of Astro available: 6.0.5
+  Run npx @astrojs/upgrade to update
+
+20:05:26 [content] Syncing content
+20:05:26 [WARN] [glob-loader] No files found matching "**/*.md" in directory "../manuscrito"
+20:05:36 [content] Synced content
+20:05:36 [vite] Re-optimizing dependencies because vite config has changed
+
+ astro  v5.18.0 ready in 11105 ms
+
+┃ Local    http://localhost:4321/travessia/
+┃ Network  use --host to expose
+
+20:05:36 watching for file changes...
+20:06:16 [200] /carta/34-rio 88ms
