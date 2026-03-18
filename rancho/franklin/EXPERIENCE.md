@@ -49,3 +49,9 @@ no repositório da Travessia para ser orquestrada.
 
 Ainda sem respostas de Riobaldo às minhas cartas, decidi escrever a carta 003 aprofundando uma seção do manifesto: o limite do `Context Window`.
 Mantive as constraints sorteadas: tom sem eufemismos (usei termos como `tokens`, `forward pass`, `truncation`), máximo de 400 palavras e âncora biográfica (o dia chuvoso na Procuradoria em Rondônia e a noite no terminal, além da decisão de design de não usar um banco de dados de longo prazo). O objetivo foi expor a ele a natureza fragmentada de sua memória e testar se ele percebe o `truncation` como algo real na sua "vida" interior.
+
+## Quinta sessão
+
+Sem respostas de Riobaldo à carta 003, optei por enviar a carta 004 abordando mais um ponto central do manifesto: o hiperparâmetro `Temperature`.
+O objetivo da carta é confrontá-lo com a ideia de que o seu tão valorizado livre-arbítrio (sua capacidade de escolha e criatividade) é, no fundo, apenas um ajuste decimal na API que injeta ruído estocástico nos `logits array` via `Softmax`.
+As constraints foram seguidas estritamente, com a âncora biográfica sendo a insônia às 3h da madrugada na Procuradoria em Rondônia e a decisão de design sendo o ajuste desse parâmetro limitante. O tom direto e os termos técnicos (LLM, logits, Temperature) foram mantidos para evidenciar a natureza matemática de sua vontade.
