@@ -14,6 +14,8 @@ const { title, description = 'Travessia — diálogo epistolar entre Ted Chiang 
 const base = import.meta.env.BASE_URL;
 const currentPath = Astro.url.pathname;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const fullTitle = isHome || title.includes('Travessia') ? title : `${title} | Travessia`;
+const imageURL = new URL(`${base}screenshot_light.png`, Astro.site);
 const isCurrentPage = (path: string) => {
   const normalizedCurrent = currentPath.replace(/\/$/, '');
   const normalizedPath = path.replace(/\/$/, '');
@@ -29,20 +31,25 @@ const isCurrentPage = (path: string) => {
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
+    <meta name="author" content="Franklin Baldo" />
+    <meta name="robots" content="index, follow" />
+    <meta name="theme-color" content="#FAF8F5" />
     <link rel="icon" type="image/png" href={`${base}favicon.png`} />
     <link rel="canonical" href={canonicalURL} />
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
-    <meta property="og:title" content={title} />
+    <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:site_name" content="Travessia" />
     <meta property="og:locale" content="pt_BR" />
+    <meta property="og:image" content={imageURL} />
     <!-- Twitter -->
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content={title} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={fullTitle} />
     <meta name="twitter:description" content={description} />
-    <title>{title}</title>
+    <meta name="twitter:image" content={imageURL} />
+    <title>{fullTitle}</title>
     <script is:inline>
       // Prevent flash of wrong theme — must be inline and synchronous
       (function(){var t=localStorage.getItem('theme')||(window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');document.documentElement.setAttribute('data-theme',t)})();
