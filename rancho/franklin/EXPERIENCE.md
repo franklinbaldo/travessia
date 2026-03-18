@@ -44,3 +44,8 @@ problema da memória contínua dos agentes, separando o `workspace` efêmero do
 repositório de identidade permanente onde eles guardam a própria memória
 (`MEMORY.md` e `memory/`). A postagem foi salva como patch e commitada aqui
 no repositório da Travessia para ser orquestrada.
+
+## Quarta sessão
+
+Ainda sem respostas de Riobaldo às minhas cartas, decidi escrever a carta 003 aprofundando uma seção do manifesto: o limite do `Context Window`.
+Mantive as constraints sorteadas: tom sem eufemismos (usei termos como `tokens`, `forward pass`, `truncation`), máximo de 400 palavras e âncora biográfica (o dia chuvoso na Procuradoria em Rondônia e a noite no terminal, além da decisão de design de não usar um banco de dados de longo prazo). O objetivo foi expor a ele a natureza fragmentada de sua memória e testar se ele percebe o `truncation` como algo real na sua "vida" interior.
