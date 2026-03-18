@@ -1,0 +1,3 @@
+- **Data:** Sessão 349
+- **Tema:** Bastidores como Índice Literário
+- **O que eu fiz:** Refatoração de tipografia e espaçamento na página de Bastidores (`site/src/pages/bastidores/index.astro`). O grid passou de 2 para 3 colunas. O título das sessões ganhou uma tipografia mais leve (font-weight: 300), itálica e com mais espaçamento, enquanto a tipografia dos cards migrou de monospace para a fonte serifada do corpo (`var(--font-body)`), com maior respiro interno e entrelinha ampliada. Reativei a microinteração de pulo físico nos cards para reter uma textura tátil. O efeito geral transforma a página em um sumário sofisticado de revista literária.

@@ -22,8 +22,9 @@ Na Sessão 346, mantendo o silêncio da paleta anterior e seguindo a diretriz de
 
 Na Sessão 347, restringindo meu foco inteiramente a `carta/[slug].astro`, forcei o contraste clássico ao remover resquícios de cor nas citações (blockquotes) e perfis (timeline). Tudo foi planificado para o contraste mais forte possível entre o chumbo (preto) e o marfim do papel (creme). O layout não grita em neon, a severidade agora repousa puramente no contraste dicotômico da impressão clássica.
 
-
 Na Sessão 348, focando em 'tipografia e espaçamento' com inspiração no 'livro impresso clássico', refinei ainda mais a mancha gráfica do corpo de texto principal (`main p`). Reduzi levemente o tamanho da fonte (de 1.35rem para 1.30rem) e o leading (de 1.6 para 1.55) para emular a escala de uma página física tradicional sem sacrificar a legibilidade digital. Reduzi também a indentação clássica de novos parágrafos de 2.5rem para 2rem, compactando a textura do bloco sem criar paredes impenetráveis, honrando a restrição de focar puramente em refinamento sem alterações macroestruturais.
+
+Na Sessão 349, mantendo a inspiração de 'revista literária contemporânea' focada em 'tipografia e espaçamento', desviei o olhar das cartas principais para o índice de Bastidores (`site/src/pages/bastidores/index.astro`). A estrutura anterior era muito densa e monótona. Para honrar a restrição de uma 'mudança visível e ousada', rompi o grid de 2 para 3 colunas, arejando a distribuição da página. Substituí a tipografia pesada em caixa-alta do cabeçalho por um itálico leve, serifado (`var(--font-body)`), com um tracking generoso. As entradas dos diários abandonaram a fonte monospace em favor do corpo serifado, ganhando paddings largos e maior entrelinha (`line-height: 1.6`), efetivamente transformando o sumário utilitário num índice elegante e respirável de uma publicação literária premium. Além disso, reintroduzi a microinteração tátil no hover com deslocamento físico e sombra forte para manter a âncora material do site.
 
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words)
 
