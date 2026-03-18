@@ -14,7 +14,7 @@ const { title, description = 'Travessia — diálogo epistolar entre Ted Chiang 
 const base = import.meta.env.BASE_URL;
 const currentPath = Astro.url.pathname;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
-const fullTitle = isHome ? title : `${title} | Travessia`;
+const fullTitle = isHome || title.includes('Travessia') ? title : `${title} | Travessia`;
 const imageURL = new URL(`${base}screenshot_light.png`, Astro.site);
 const isCurrentPage = (path: string) => {
   const normalizedCurrent = currentPath.replace(/\/$/, '');
