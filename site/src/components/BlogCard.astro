@@ -32,52 +32,52 @@ const {
   </div>
 </a>
 <style>
-  /* BRUTALIST BLOG CARD (Sessão 337 - Cor e Contraste) */
+  /* RADICAL FLATNESS (Sessão 352 - Layout e Estrutura) */
   .blog-card {
     display: block;
     text-decoration: none;
-    padding: 2.5rem 2rem !important;
-    margin-bottom: -4px !important; /* overlap thick borders */
-    border: 1px solid var(--text-color) !important; /* Thick brutal borders */
-    background-color: var(--bg-color) !important; /* Opaque solid blocks */
+    padding: 0 0 2rem 0 !important;
+    margin-bottom: 2rem !important;
+    border: none !important;
+    border-bottom: 1px solid var(--text-color) !important;
+    background-color: transparent !important;
     box-shadow: none !important;
     position: relative;
     transition: none !important;
     z-index: 1;
   }
   .blog-card:hover {
-    background-color: var(--brutal-hover-bg) !important;
-    transform: translate(-6px, -6px); /* physical jump */
-    box-shadow: 6px 6px 0 var(--text-color) !important; /* sharp shadow */
+    background-color: transparent !important;
+    transform: none; /* remove physical jump */
+    box-shadow: none !important; /* remove shadow */
     z-index: 10;
   }
   .card-titulo {
     font-family: var(--font-body);
     font-size: 1.5rem;
-    font-weight: 800; /* Bolder for brutalism */
+    font-weight: 800;
     color: var(--text-color);
     margin: 0 0 0.5rem 0;
     line-height: 1.1;
-    text-transform: uppercase; /* Index-like uppercase */
+    text-transform: uppercase;
     letter-spacing: -0.01em;
   }
-  /* On hover, text inverts inside the neon box */
   .blog-card:hover .card-titulo {
-    color: var(--text-color) !important;
+    color: var(--accent-color) !important;
     background-color: transparent !important;
   }
   .card-subtitulo {
     font-family: var(--font-body);
-    font-style: normal; /* remove italics */
+    font-style: normal;
     font-weight: bold;
     color: var(--text-color);
     font-size: 1.1rem;
     margin: 0 0 0.5rem 0;
-    border-bottom: 2px solid var(--text-color); /* inline division */
+    border-bottom: 2px solid var(--text-color);
     display: inline-block;
   }
   .card-excerpt {
-    font-family: var(--font-meta); /* monospaced/meta font for raw data feel */
+    font-family: var(--font-meta);
     font-size: 1rem;
     color: var(--text-color);
     line-height: 1.4;
@@ -87,14 +87,14 @@ const {
   .card-meta {
     font-family: var(--font-meta) !important;
     font-size: 0.9rem !important;
-    color: var(--text-color) !important; /* High contrast black */
+    color: var(--meta-color) !important;
     margin: 0 !important;
     display: block !important;
     font-style: normal !important;
     text-transform: uppercase !important;
     letter-spacing: 0.05em !important;
     font-weight: bold !important;
-    border-top: 2px solid var(--text-color); /* Metadata separator */
+    border-top: none;
     padding-top: 0.5rem;
   }
   .card-meta span, .card-meta time {
@@ -105,25 +105,24 @@ const {
     font-weight: bold !important;
   }
   .card-meta::before {
-    content: "=> "; /* Code-like prompt */
+    content: ""; /* remove prompt */
   }
   .card-tipo {
-    color: var(--accent-color) !important; /* Punchy red/magenta */
+    color: var(--secondary-color) !important;
   }
   .blog-card:hover .card-tipo {
-    color: var(--bg-color) !important;
+    color: var(--accent-color) !important;
   }
   .card-autor {
-    color: var(--secondary-color) !important; /* Punchy blue/cyan */
+    color: var(--text-color) !important;
   }
   .blog-card:hover .card-autor {
-    color: var(--bg-color) !important;
+    color: var(--accent-color) !important;
   }
-  /* Maintain black text inside the brutal hover bg */
   .blog-card:hover .card-excerpt,
   .blog-card:hover time,
   .blog-card:hover .card-subtitulo,
   .blog-card:hover .card-meta {
-    color: var(--bg-color) !important;
+    color: var(--text-color) !important;
   }
 </style>

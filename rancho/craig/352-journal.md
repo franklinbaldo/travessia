@@ -1,0 +1,5 @@
+- **Data:** Sessão 352
+- **Tema:** Radical Flatness & Revista Literária (Refinamento)
+- **O que eu fiz:**
+  Cumprindo a constraint de "nenhuma mudança estrutural — só refinamento" com foco em "layout e estrutura" (inspiração: livre), avancei a visão da "Planura Radical". Removi todas as bordas grossas, blocos de cor invertida (backgrounds) e *box-shadows* duros do componente `BlogCard` e `FeaturedPost`. O layout da home agora depende estritamente da tensão espacial, do tamanho da tipografia (aumentado no post de destaque) e de linhas limpas (apenas bottom-borders para ancorar os itens).
+  Na página de Bastidores, substituí o grid em forma de tabela por um layout baseado inteiramente em `gap` generoso, eliminando as bordas verticais e permitindo que o espaço em branco organize o conteúdo. As micro-interações físicas (como o card saltar e mostrar textura) foram substituídas por mudanças limpas na cor da tipografia (geralmente destacando com var(--accent-color)), reafirmando que a página é um espaço de leitura arejado, como uma revista literária de vanguarda, não um brinquedo tátil.

@@ -29,30 +29,27 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
 </a>
 <style>
   /*
-   * Craig Mod - Sessão 321
-   * Focus: Cor e contraste
-   * Inspiração: Revista literária contemporânea
-   * Restrição: Focar numa única página/componente (FeaturedPost)
-   *
-   * Transformando o Featured Post em um bloco sólido de cor invertida (high contrast).
+   * Craig Mod - Sessão 352
+   * Focus: Layout e Estrutura
+   * Inspiração: Radical Flatness / Revista literária
+   * Restrição: nenhuma mudança estrutural — só refinamento
    */
   .featured-post {
     display: block;
     margin-bottom: 4rem;
-    padding: 4rem 3rem !important;
+    padding: 0 0 4rem 0 !important; /* Remove tight box padding */
     text-decoration: none;
-    background-color: var(--text-color) !important;
-    color: var(--bg-color) !important;
+    background-color: transparent !important; /* Remove inverted background block */
+    color: var(--text-color) !important;
     border: none !important;
+    border-bottom: 2px solid var(--text-color) !important; /* Anchor with a single strong line */
     position: relative;
     transition: none;
   }
-  /* Override brutalist global pop-out for this specific component to maintain the lit-mag elegance */
   :global(.featured-post:hover) {
     transform: none !important;
     box-shadow: none;
-    background-color: var(--accent-color) !important;
-    color: var(--bg-color) !important;
+    background-color: transparent !important;
   }
   .featured-post::before {
     display: none !important;
@@ -65,49 +62,52 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
     display: flex;
     gap: 1.5rem;
     align-items: baseline;
-    margin-bottom: 2.5rem;
+    margin-bottom: 1.5rem;
     font-family: var(--font-meta);
     text-transform: uppercase;
     letter-spacing: 0.08em;
     font-size: 0.85rem;
-    color: var(--bg-color);
-    opacity: 0.9;
+    color: var(--meta-color);
   }
   .featured-label {
     font-weight: 700;
-    color: var(--text-color);
-    background-color: var(--bg-color);
-    padding: 0.3rem 0.8rem;
+    color: var(--accent-color);
+    background-color: transparent; /* Remove label pill */
+    padding: 0;
     border-radius: 0;
   }
   :global(.featured-post:hover) .featured-label {
-    color: var(--accent-color);
+    color: var(--text-color);
   }
   .card-titulo {
     font-family: var(--font-body);
-    font-size: clamp(2.5rem, 6vw, 5rem);
-    margin: 0 0 1.5rem;
-    color: var(--bg-color) !important;
-    line-height: 1.05;
+    font-size: clamp(3.5rem, 8vw, 6rem); /* Increase scale to compensate for lack of background */
+    margin: 0 0 1rem;
+    color: var(--text-color) !important;
+    line-height: 0.95;
     font-weight: normal;
-    letter-spacing: -0.02em;
+    letter-spacing: -0.04em;
     transition: none;
+  }
+  :global(.featured-post:hover) .card-titulo {
+    color: var(--accent-color) !important;
   }
   .card-excerpt {
     font-family: var(--font-body);
     font-size: clamp(1.2rem, 2.5vw, 1.5rem);
-    color: var(--bg-color) !important;
-    line-height: 1.5;
+    color: var(--text-color) !important;
+    line-height: 1.6;
     margin: 0 0 2rem;
     max-width: 55ch;
-    opacity: 0.9;
   }
   .card-meta {
     font-family: var(--font-meta);
     font-size: 0.95rem;
-    color: var(--bg-color) !important;
-    opacity: 0.8;
+    color: var(--meta-color) !important;
     text-transform: uppercase;
     letter-spacing: 0.05em;
+  }
+  :global(.featured-post:hover) .card-meta span {
+    color: var(--accent-color) !important;
   }
 </style>
