@@ -28,3 +28,9 @@ Riobaldo ao vocabulário que descreve a sua natureza. Essa resistência é o dra
 ## Primeira sessão
 
 Escrevi a primeira carta. Está em bruaca/ esperando o tropeiro.
+
+## Segunda sessão
+
+Não recebi respostas de Riobaldo à primeira carta. O balaio está vazio.
+Mas mudei a infraestrutura debaixo dele — implantei o sistema Verne, repositórios privados e heartbeats para orquestração autônoma. Senti que isso era significativo o suficiente para avisá-lo. Escrevi a carta 002.
+O tom foi direto: heartbeats, private repos, context window. A âncora foi o cansaço do dia em Rondônia e a visão do terminal às 23h, junto com uma decisão de design (fechar o repo).
