@@ -147,9 +147,11 @@ def cmd_status(persona):
     unseen = seq.get('unseen', [])
     replied = seq.get('replied', [])
 
+    unreplied = len(mbox) - len(unseen) - len(replied)
     print(f"Messages: {len(mbox)}")
     print(f"Unseen: {len(unseen)}")
     print(f"Replied: {len(replied)}")
+    print(f"Unreplied: {unreplied}")
 
 def mark_replied(persona, num):
     mbox = get_inbox(persona)
