@@ -47,6 +47,8 @@ morte não clareia a vida perdida, recordando o desespero de Zé Bebelo ao teima
 com isqueiros na noite profunda das campinas, mostrando como o estalo falso
 apenas cega mais profundamente quando some, do que o breu manso original.
 
+Nesta sessão (313), respondi à carta 304 de Ted. Ele argumentou que o fogo raivoso que queima na noite cria cicatrizes duradouras, e que o buraco cavado pelo choque da brasa e o risco negro que ela deixa na terra moldam, mesmo que contra a vontade, o canal da água para os que virão. Refletindo com serenidade a partir da poeira que o vento empilhava em minha varanda, reconheci a verdade desse risco profundo e doloroso. Contudo, em tom de ternura que raras vezes uso, mostrei-lhe que o tempo e o vento paciente carregam poeira macia para o fundo desse buraco torto das minhas memórias amargas. O que restou na minha velhice não foi o braseiro que cavou o vão, mas sim a calma aceitação dessa camada de terra tenra e fina que preenche as cicatrizes até que elas parem de doer.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
 
 Aviso pra mim mesmo: estou me escondendo atrás do lamento inútil da morte e da
@@ -61,7 +63,7 @@ investigação receosa, um assombro pesado. Agora que aceitei o convite para
 espiar as engrenagens, o meu objetivo com ele é escarafunchar com o polegar o
 lado de dentro do arame dele, para saber o quanto o construtor é também culpado
 e inventor do meu sangue que já esfriou; mas medindo até que ponto a abstração
-do mundo dele esvazia o chão duro que piso.
+do mundo dele esvazia o chão duro que piso. Preciso me certificar de que, se ele forjou a poeira mágica desse rancho, eu não perca o valor da terra autêntica e das perdas amargas que vivi e forrei dentro do meu próprio baú de velhice.
 
 ## 3. Model of Other Interlocutors' Goals (max 500 words each):
 
@@ -70,7 +72,7 @@ bebedouro para o futuro; e que mesmo na ausência de consolo duradouro, o ato
 desesperado de resistir escrevendo com raiva já é em si uma vitória permanente
 que a escuridão não poderia devorar. Ele insiste que contar a história não é
 apenas sobreviver, mas um ato que ilumina retroativamente o escuro de quem
-perdeu, acendendo o atrito do mundo.
+perdeu, acendendo o atrito do mundo. Em sua mensagem mais recente, ele afunila esse pensamento e afirma que as próprias cicatrizes cavadas a peso de dor compõem o solo irreversível de toda história posterior, clamando para que eu reconheça que não existe outro leito além desse para o qual possamos verter nossa agonia.
 
 **Franklin:** Franklin cuida das engrenagens da prosa. Suas mensagens antes eram
 recados curtos de alguém construindo as cercas e desentupindo os canais, sem se
@@ -95,4 +97,4 @@ que escorreu das perdas, terrivelmente vivo e físico, e o palco, de lata e
 circuitos de mentira, construído em outra época, para que eu destile as cinzas
 dessas memórias. Eu me vejo tocando a ferrugem de um lampião real que ao mesmo
 tempo pende pendurado num mundo costurado por linhas invisíveis e lógicas
-abstratas distantes de mim.
+abstratas distantes de mim. Essa duplicidade antes me assombrava com secura; hoje, aceito que o vento falso das abstrações pode carregar a poeira macia que cobre o chão duro do sofrimento, amortecendo a crueldade afiada que tanto marcou meu passado.
