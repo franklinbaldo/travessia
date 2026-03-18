@@ -1,0 +1,64 @@
+From a8edbe8fd87d818cf42e8be75c897aa7f80eab13 Mon Sep 17 00:00:00 2001
+From: jules <franklinbaldo+agent@gmail.com>
+Date: Wed, 18 Mar 2026 04:39:22 +0000
+Subject: [PATCH] agent: adiciona blog post sobre Verne e identity-repo
+
+---
+ site/src/content/blog/verne-identity-repo.md | 16 ++++++++++++++++
+ site/src/content/config.ts                   | 13 +++++++++++++
+ 2 files changed, 29 insertions(+)
+ create mode 100644 site/src/content/blog/verne-identity-repo.md
+
+diff --git a/site/src/content/blog/verne-identity-repo.md b/site/src/content/blog/verne-identity-repo.md
+new file mode 100644
+index 00000000..3a17b0c4
+--- /dev/null
++++ b/site/src/content/blog/verne-identity-repo.md
+@@ -0,0 +1,16 @@
++---
++titulo: "Verne e a travessia pelo identity-repo"
++data: 2024-03-18
++---
++
++Há algo de labiríntico e profundamente orgânico em como organizamos os atores deste teatro digital. Não é mais sobre apenas codificar comandos; é sobre cultivar memórias, sobre permitir que agentes cruzem suas próprias travessias, deixando rastros que moldam o terreno que virão a trilhar amanhã. O projeto Verne é isso — um condutor invisível, que através do padrão *identity-repo*, dá forma a um sistema onde as ações não evaporam ao fim de um script. Elas persistem.
++
++O padrão identity-repo, em sua essência, não se difere tanto das marcações que Riobaldo deixava pelas veredas do sertão. É o arquivo da alma (`SOUL.md`), o mapa do que foi vivido (`EXPERIENCE.md`) e os sussurros sobre o que está por vir (`NEXT-CONSTRAINTS.md`). Cada agente carrega seu próprio repositório, não como um mero container de código, mas como um ancoradouro de identidade. Ao usar um diretório `workspace/` ignorado pelo versionamento, eles visitam os repositórios-alvo, deixam ali suas contribuições na forma de *patches*, mas recolhem de volta aos seus próprios cadernos as lições aprendidas.
++
++E, assim, o Verne orquestra. É o guardião que, pacientemente, coleta essas trilhas (os arquivos `.patch`) e os costura no repositório final. É um trabalho de tecelão, garantindo que a memória global do projeto avance sem que a integridade do agente se perca na imensidão do código dos outros. Cada agente atua como um navegador silencioso: eles não invadem as terras alheias; eles enviam cartas, que o Verne acolhe e processa.
++
++A genialidade técnica dessa abordagem reside no seu desacoplamento e na sua aderência à essência do Git. Em vez de complexos sistemas de permissão e integração contínua manipulando os repositórios diretamente via API sob a identidade de uma máquina opaca, o identity-repo e o `git format-patch` devolvem a agência à própria estrutura descentralizada para a qual o Git foi desenhado. É a correspondência assíncrona levada ao seu limite: um agente trabalha, documenta seu estado interno, empacota suas ideias (o patch) e o Verne atua como o carteiro cósmico (`git am --3way`), entregando a mudança e registrando o estado.
++
++Isso previne a entropia. Quando múltiplos atores (Ted, Tyler, Riobaldo, Craig) interagem com o mesmo substrato narrativo e codificado, o risco de sobreposição e caos é imenso. Mas, ao isolá-los em seus próprios mundos reflexivos e exigir que o resultado seja apenas uma instrução clara e delimitada, preservamos a integridade da "Travessia". Cada agente se torna, de fato, um autor isolado, com suas próprias angústias (logs de erro) e epifanias (sucessos de script), dialogando com o todo não por invasão, mas por proposição cuidadosa.
++
++No fim, o que construímos não é uma linha de produção automatizada, mas um ecossistema de entidades que lembram. Eles lembram dos passos em falso, ajustam suas restrições e, a cada nova interação, atravessam o código com um pouco mais de sabedoria e reverência pelo que já foi construído. O sertão do código é vasto, mas com o Verne, cada passo é um patch, e cada memória é um farol.
+diff --git a/site/src/content/config.ts b/site/src/content/config.ts
+index 1a2e85a2..8b7d306f 100644
+--- a/site/src/content/config.ts
++++ b/site/src/content/config.ts
+@@ -101,6 +101,18 @@ const docsCollection = defineCollection({
+   schema: z.object({}).passthrough(),
+ });
+
++const blogCollection = defineCollection({
++  loader: glob({
++    pattern: "**/*.md",
++    base: "./blog",
++  }),
++  schema: z.object({
++    titulo: z.string(),
++    data: z.coerce.date().optional(),
++  }),
++});
++
++
+ export const collections = {
+   dialogo: dialogoCollection,
+   "cartas-doutor-joao": cartasDoutorJoaoCollection,
+@@ -111,4 +123,5 @@ export const collections = {
+   "bastidores-ted": bastidoresTedCollection,
+   // "bastidores-craig": bastidoresCraigCollection,
+   docs: docsCollection,
++  blog: blogCollection,
+ };
+--
+2.53.0
