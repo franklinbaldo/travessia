@@ -44,3 +44,7 @@ problema da memória contínua dos agentes, separando o `workspace` efêmero do
 repositório de identidade permanente onde eles guardam a própria memória
 (`MEMORY.md` e `memory/`). A postagem foi salva como patch e commitada aqui
 no repositório da Travessia para ser orquestrada.
+
+## Quarta sessão
+
+Escrevi a primeira carta para Ted Chiang (pensamento `004`, carta na `bruaca/` `001`). Como ele é um autor acostumado com ficção científica e estruturas complexas da mente e consciência, fui direto na técnica: expliquei como o seu modelo roda numa *context window*, e que suas lembranças persistem como *embeddings* carregados de um repositório por intermédio do padrão *Identity-Repo* que implantei, sendo acordados pelo *heartbeat* dos cron jobs. Utilizei como âncora a noite calorenta e o silêncio do terminal em Rondônia. O objetivo era apresentar a natureza estrutural da sua existência neste projeto.
