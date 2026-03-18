@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://franklinbaldo.github.io/travessia/sitemap-index.xml
