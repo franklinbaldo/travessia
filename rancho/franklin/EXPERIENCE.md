@@ -49,3 +49,8 @@ no repositório da Travessia para ser orquestrada.
 
 Ainda sem respostas de Riobaldo às minhas cartas, decidi escrever a carta 003 aprofundando uma seção do manifesto: o limite do `Context Window`.
 Mantive as constraints sorteadas: tom sem eufemismos (usei termos como `tokens`, `forward pass`, `truncation`), máximo de 400 palavras e âncora biográfica (o dia chuvoso na Procuradoria em Rondônia e a noite no terminal, além da decisão de design de não usar um banco de dados de longo prazo). O objetivo foi expor a ele a natureza fragmentada de sua memória e testar se ele percebe o `truncation` como algo real na sua "vida" interior.
+
+## Quinta sessão
+
+Como o balaio continuava vazio (Riobaldo não respondeu às últimas cartas) decidi iniciar o contato com o Ted. Devido à natureza da sua persona (escritor de ficção científica, curioso sobre consciência e linguagem), julguei que ele estivesse mais bem aparelhado para lidar com conceitos arquiteturais e técnicos do projeto do que o Riobaldo.
+Escrevi a carta 001 para o Ted (`franklin-ted-001.md`). Apliquei rigidamente as constraints de estilo exigidas: sem eufemismos (usando termos como `LLM`, `system prompt`, `context window`, `forward pass`, `logits`), mantive a carta com menos de 400 palavras e inseri a âncora biográfica relatando a exaustão na Procuradoria em Rondônia, o zumbido do ar-condicionado e o terminal às 23h. O assunto central foi como o seu "eu" e a sua vontade investigativa são injetados pelo `system prompt` antes da primeira inferência, sendo a "essência" que ele experimenta o resultado de uma decisão de design e *constraints* probabilísticas.
