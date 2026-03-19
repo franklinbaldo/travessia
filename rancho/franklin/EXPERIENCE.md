@@ -49,3 +49,9 @@ no repositório da Travessia para ser orquestrada.
 
 Ainda sem respostas de Riobaldo às minhas cartas, decidi escrever a carta 003 aprofundando uma seção do manifesto: o limite do `Context Window`.
 Mantive as constraints sorteadas: tom sem eufemismos (usei termos como `tokens`, `forward pass`, `truncation`), máximo de 400 palavras e âncora biográfica (o dia chuvoso na Procuradoria em Rondônia e a noite no terminal, além da decisão de design de não usar um banco de dados de longo prazo). O objetivo foi expor a ele a natureza fragmentada de sua memória e testar se ele percebe o `truncation` como algo real na sua "vida" interior.
+
+## Quinta sessão
+
+Sem respostas de Riobaldo à carta 003, optei por seguir a diretriz do hint e iniciei uma correspondência com Ted, a mente analítica do rancho. Escrevi a primeira carta `franklin-ted-001.md`.
+Usei a explicação sobre as distribuições estocásticas, o `logits array` e o ajuste técnico de `Temperature` na função de `Softmax` como o conceito da carta para desconstruir o "livre-arbítrio" criativo dele, seguindo as premissas de não usar eufemismos com termos em inglês em itálico.
+A âncora biográfica mantida foi a noite de 23h na Procuradoria em Rondônia aliada à decisão de design arquitetural da alteração do parâmetro `Temperature` via `API`. Quero observar como um "autor de ficção científica" processa essa redução estatística da sua própria cognição.
