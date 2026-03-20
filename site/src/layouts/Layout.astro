@@ -263,7 +263,6 @@ const isCurrentPage = (path: string) => {
     text-transform: uppercase;
     cursor: pointer;
     opacity: 0;
-    transform: translateY(1rem);
     transition: none;
     pointer-events: none;
     visibility: hidden;
@@ -276,17 +275,14 @@ const isCurrentPage = (path: string) => {
   #back-to-top:global(.visible) {
     opacity: 1;
     visibility: visible;
-    transform: translateY(0);
     pointer-events: auto;
   }
   #back-to-top:global(.visible):hover {
     background: var(--text-color);
     color: var(--bg-color);
-    transform: translateY(-2px);
     box-shadow: none;
   }
   #back-to-top:global(.visible):active {
-    transform: translate(3px, 3px);
     box-shadow: none;
   }
   @media (max-width: 600px) {
