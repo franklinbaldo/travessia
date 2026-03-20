@@ -102,20 +102,18 @@ const isRich = !!(prev?.autor || next?.autor);
     transform: none;
     transition: none;
   }
-  /* Efeito de papel dobrado no hover */
+  /* Efeito de inversão flat */
   .footer-nav-link:hover {
-    transform: translate(-6px, -6px) !important;
-    background-color: var(--brutal-hover-bg) !important;
+    background-color: var(--text-color) !important;
     color: var(--bg-color) !important;
-    box-shadow: 6px 6px 0px 0px var(--text-color) !important;
     border-color: var(--text-color) !important;
   }
   :global([data-theme="dark"]) .footer-nav-link:hover {
-    background-color: var(--brutal-hover-bg) !important;
+    background-color: var(--text-color) !important;
     color: var(--bg-color) !important;
+    border-color: var(--text-color) !important;
   }
   .footer-nav-link.next:hover {
-    transform: translate(-6px, -6px) !important;
   }
   .footer-nav-link.next {
     text-align: right;
@@ -148,7 +146,7 @@ const isRich = !!(prev?.autor || next?.autor);
   .footer-nav-link:hover .footer-nav-titulo,
   .footer-nav-link:hover .footer-nav-dir,
   .footer-nav-link:hover .footer-nav-autor {
-    color: var(--text-color) !important;
+    color: var(--bg-color) !important;
   }
   @media (max-width: 600px) {
     .footer-nav {

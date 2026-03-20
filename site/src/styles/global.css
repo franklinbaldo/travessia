@@ -405,20 +405,6 @@ li a:hover {
   border-left: 2px solid var(--text-color);
   text-decoration: none;
 }
-.footer-nav-link::before {
-  content: "";
-  position: absolute;
-  top: 6px;
-  left: 50%;
-  width: 10px;
-  height: 10px;
-  background: var(--bg-color);
-  border-radius: 0;
-  border: 2px solid var(--text-color);
-}
-[data-theme="dark"] .footer-nav-link::before {
-  border: 2px solid var(--text-color);
-}
 .footer-nav-link:hover {
   background: var(--text-color);
   color: var(--bg-color);
@@ -1815,7 +1801,6 @@ button,
 }
 /* Footer Nav Links - microinteração pesada de página sendo virada */
 .footer-nav-link:hover {
-  transform: translate(-8px, -8px) !important;
   box-shadow: none;
 }
 [data-theme="dark"] .footer-nav-link:hover {
@@ -2076,8 +2061,7 @@ main p.margin-note:hover {
 .card-tipo:hover,
 .timeline-dot:hover,
 .classic-folio:hover,
-main p.margin-note:hover,
-.footer-nav-link:hover {
+main p.margin-note:hover {
   background-image:
     radial-gradient(var(--bg-color) 1px, transparent 1px),
     radial-gradient(var(--bg-color) 1px, transparent 1px) !important;
