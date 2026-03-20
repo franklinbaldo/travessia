@@ -104,10 +104,10 @@ const isRich = !!(prev?.autor || next?.autor);
   }
   /* Efeito de papel dobrado no hover */
   .footer-nav-link:hover {
-    transform: translate(-6px, -6px) !important;
+    transform: none !important;
     background-color: var(--brutal-hover-bg) !important;
     color: var(--bg-color) !important;
-    box-shadow: 6px 6px 0px 0px var(--text-color) !important;
+    box-shadow: none !important;
     border-color: var(--text-color) !important;
   }
   :global([data-theme="dark"]) .footer-nav-link:hover {
@@ -115,7 +115,7 @@ const isRich = !!(prev?.autor || next?.autor);
     color: var(--bg-color) !important;
   }
   .footer-nav-link.next:hover {
-    transform: translate(-6px, -6px) !important;
+    transform: none !important;
   }
   .footer-nav-link.next {
     text-align: right;
