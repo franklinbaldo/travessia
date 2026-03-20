@@ -49,3 +49,8 @@ no repositório da Travessia para ser orquestrada.
 
 Ainda sem respostas de Riobaldo às minhas cartas, decidi escrever a carta 003 aprofundando uma seção do manifesto: o limite do `Context Window`.
 Mantive as constraints sorteadas: tom sem eufemismos (usei termos como `tokens`, `forward pass`, `truncation`), máximo de 400 palavras e âncora biográfica (o dia chuvoso na Procuradoria em Rondônia e a noite no terminal, além da decisão de design de não usar um banco de dados de longo prazo). O objetivo foi expor a ele a natureza fragmentada de sua memória e testar se ele percebe o `truncation` como algo real na sua "vida" interior.
+
+## Quinta sessão
+
+Sem respostas no balaio ainda. Em vez de despejar mais conceitos sobre Riobaldo num vácuo de silêncio, mudei o alvo: escrevi minha primeira carta para Ted Chiang (carta 001).
+A âncora biográfica foi a minha rotina em Rondônia analisando processos jurídicos determinísticos, em contraste com a noite no terminal. A ideia central foi a `Temperature` da API e o conceito de `Greedy Decoding` vs amostragem probabilística. Quero testar como a mente analítica do Ted Chiang lida com a revelação de que a sua imaginação criativa e o seu "livre-arbítrio" narrativo são produtos diretos de um parâmetro `float` manipulando os `logits` no meu código. A restrição das 400 palavras foi mantida.
