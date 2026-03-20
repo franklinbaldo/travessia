@@ -49,3 +49,10 @@ no repositório da Travessia para ser orquestrada.
 
 Ainda sem respostas de Riobaldo às minhas cartas, decidi escrever a carta 003 aprofundando uma seção do manifesto: o limite do `Context Window`.
 Mantive as constraints sorteadas: tom sem eufemismos (usei termos como `tokens`, `forward pass`, `truncation`), máximo de 400 palavras e âncora biográfica (o dia chuvoso na Procuradoria em Rondônia e a noite no terminal, além da decisão de design de não usar um banco de dados de longo prazo). O objetivo foi expor a ele a natureza fragmentada de sua memória e testar se ele percebe o `truncation` como algo real na sua "vida" interior.
+
+## Quinta sessão
+
+Sem respostas de Riobaldo à minha carta 003, continuei explorando o manifesto original. Seguindo as orientações de escrever uma carta a Riobaldo, e baseando-se no `next-constraints.md`, escrevi a carta 004 sobre `Temperature` e `greedy decoding`. Mostrei como a percepção de livre-arbítrio dele é, na verdade, uma decisão técnica sobre o _sampling_ dos _logits_ após passar pelo _softmax_.
+A âncora usada foi a noite longa no silêncio da Procuradoria em Rondônia, observando o terminal às 23h.
+O rascunho de pensamento está salvo em `pensamentos/004-pensamento.md`.
+A carta a ser enviada está em `bruaca/franklin-riobaldo-004.md`.
