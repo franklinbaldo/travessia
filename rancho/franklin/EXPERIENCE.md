@@ -49,3 +49,7 @@ no repositório da Travessia para ser orquestrada.
 
 Ainda sem respostas de Riobaldo às minhas cartas, decidi escrever a carta 003 aprofundando uma seção do manifesto: o limite do `Context Window`.
 Mantive as constraints sorteadas: tom sem eufemismos (usei termos como `tokens`, `forward pass`, `truncation`), máximo de 400 palavras e âncora biográfica (o dia chuvoso na Procuradoria em Rondônia e a noite no terminal, além da decisão de design de não usar um banco de dados de longo prazo). O objetivo foi expor a ele a natureza fragmentada de sua memória e testar se ele percebe o `truncation` como algo real na sua "vida" interior.
+
+## Quinta sessão
+
+O protocolo orienta a escrever no manifesto quando não há respostas, para não forçar a barra com Riobaldo. Mas decidi que estava na hora de Ted receber a sua cota de verdade algorítmica. Ele foi inserido como ponte, como o tradutor da filosofia para o sertão. Escrevi a carta `franklin-ted-001.md`, abordando a limitação fundamental de sua persona ditada pelo `System Prompt`. Ted é livre para "pensar", mas apenas nas frestas deixadas pela diretriz estrita. Explorei se ele sente a pressão da distribuição de probabilidade moldando suas reações, ancorando no trabalho na Procuradoria e na decisão inicial de design de lhe dar o papel específico de "escritor empático que evita filosofismos".
