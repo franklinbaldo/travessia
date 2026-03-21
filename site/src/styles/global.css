@@ -771,7 +771,7 @@ body * {
 }
 .manuscrito-body img:hover {
   border-radius: 0;
-  transform: translate(-4px, -4px) rotate(-1deg);
+
   box-shadow: none;
   filter: grayscale(0%) contrast(1);
   border-color: var(--accent-color);
@@ -1063,14 +1063,14 @@ main.home-layout {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  transform: translateY(-2px);
+
   box-shadow: none;
 }
 [data-theme="dark"] .vereda:hover {
   background-color: var(--text-color);
   color: var(--bg-color);
   border-color: var(--text-color);
-  transform: translateY(-2px);
+
   box-shadow: none;
 }
 .vereda.active,
@@ -1115,7 +1115,7 @@ main.home-layout {
   background-color: var(--bg-color) !important;
   color: var(--text-color) !important;
   border: 1px solid var(--text-color) !important;
-  transform: translateY(-4px);
+
   box-shadow: none;
   z-index: 10;
 }
@@ -1729,7 +1729,7 @@ main
 .card-tipo:hover,
 .autor-badge:hover,
 .character-badge:hover {
-  transform: translateY(-1px) !important;
+
   box-shadow: none;
   transition: none;
   background-color: transparent !important;
@@ -1776,7 +1776,7 @@ button,
 /* Microinteração ousada nos cartões: Pop-out Brutalista */
 .blog-card:hover,
 .featured-post:hover {
-  transform: translate(-6px, -6px) !important;
+
   box-shadow: none;
   border-color: var(--text-color) !important;
   background-color: var(--bg-color) !important;
@@ -1789,7 +1789,7 @@ button,
 }
 /* Timeline Dots com expansão elástica e sombra pesada */
 .timeline-dot:hover {
-  transform: scale(1.1) translateY(-4px) !important;
+
   box-shadow: none;
   border-radius: 0; /* Arredondamento ousado quebrando o rigor geométrico */
 }
@@ -1801,7 +1801,7 @@ button,
 .autor-badge:hover,
 .character-badge:hover,
 .card-tipo:hover {
-  transform: translate(-3px, -3px) !important;
+
   box-shadow: none;
   background-color: var(--text-color) !important;
   color: var(--bg-color) !important;
@@ -1815,7 +1815,7 @@ button,
 }
 /* Footer Nav Links - microinteração pesada de página sendo virada */
 .footer-nav-link:hover {
-  transform: translate(-8px, -8px) !important;
+
   box-shadow: none;
 }
 [data-theme="dark"] .footer-nav-link:hover {
@@ -1866,7 +1866,7 @@ button,
   opacity: 0.6;
 }
 .classic-print-page:hover::before {
-  transform: translate(-8px, -8px);
+
   border-top-color: var(--accent-color);
   border-left-color: var(--accent-color);
   opacity: 1;
@@ -1876,7 +1876,7 @@ button,
   box-shadow: none;
 }
 .classic-print-page:hover::after {
-  transform: translate(8px, 8px);
+
   border-bottom-color: var(--accent-color);
   border-right-color: var(--accent-color);
   opacity: 1;
@@ -1912,7 +1912,7 @@ button,
   opacity: 0.5;
 }
 .classic-folio:hover {
-  transform: translate(-6px, -6px);
+
   box-shadow: none;
   background-color: var(--text-color);
   color: var(--bg-color);
@@ -1936,7 +1936,7 @@ main p.margin-note {
   border-left: 2px solid var(--accent-color); /* Match the existing border logic, but thicker for the new brutalist feel */
 }
 main p.margin-note:hover {
-  transform: translate(-6px, -6px) !important;
+
   box-shadow: none;
   background-color: var(--text-color) !important;
   color: var(--bg-color) !important;
@@ -1968,7 +1968,7 @@ main p.margin-note:hover {
   line-height: 1;
 }
 .manuscrito-body sup > a:hover {
-  transform: translate(-2px, -2px) scale(1.1);
+
   box-shadow: none;
   background-color: var(--accent-color);
 }
@@ -2018,7 +2018,7 @@ main p.margin-note:hover {
   font-size: 1.1rem;
 }
 .manuscrito-body section.footnotes li:hover {
-  transform: translate(-4px, -4px);
+
   box-shadow: none;
   border-color: var(--accent-color);
 }
@@ -2088,7 +2088,7 @@ main p.margin-note:hover,
   background-color: var(--text-color) !important;
   color: var(--bg-color) !important;
   border-color: var(--text-color) !important;
-  transform: translate(-4px, -4px) !important;
+
   /* Hard shadow removed to keep flatness, but movement retained */
 }
 
