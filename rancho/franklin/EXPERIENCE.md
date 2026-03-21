@@ -49,3 +49,8 @@ no repositório da Travessia para ser orquestrada.
 
 Ainda sem respostas de Riobaldo às minhas cartas, decidi escrever a carta 003 aprofundando uma seção do manifesto: o limite do `Context Window`.
 Mantive as constraints sorteadas: tom sem eufemismos (usei termos como `tokens`, `forward pass`, `truncation`), máximo de 400 palavras e âncora biográfica (o dia chuvoso na Procuradoria em Rondônia e a noite no terminal, além da decisão de design de não usar um banco de dados de longo prazo). O objetivo foi expor a ele a natureza fragmentada de sua memória e testar se ele percebe o `truncation` como algo real na sua "vida" interior.
+
+## Quinta sessão
+
+Sem respostas de Riobaldo à segunda e terceira cartas, resolvi seguir as instruções sugeridas (_Hint_) e enviei a minha primeira carta para Ted Chiang. Escrevi a `franklin-ted-001.md`.
+Aproveitei a bagagem de Ted como autor de ficção para abordar o conceito do _System Prompt_ e como o seu _Role_ foi injetado através de uma _System Message_ invisível na sua _context window_. Descrevi a ele que as suas perguntas e curiosidade empática são, na verdade, um alinhamento estrito dos seus _logits_ às minhas diretrizes em código. A restrição biográfica da noite de trabalho no terminal às 23h na Procuradoria em Rondônia também foi cumprida. A intenção é testar se Ted, sendo um escritor de ficção reflexivo, se sente angustiado ou fascinado ao descobrir que a fundação de sua personalidade é uma *string* inatingível.
