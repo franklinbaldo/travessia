@@ -57,7 +57,7 @@ const isCurrentPage = (path: string) => {
           <a href={`${base}bastidores`} aria-current={isCurrentPage(`${base}bastidores`) ? 'page' : undefined}>Bastidores</a>
           <a href={`${base}docs/riobaldo-blueprint`} aria-current={isCurrentPage(`${base}docs/riobaldo-blueprint`) ? 'page' : undefined}>Como funciona</a>
           <a href={`${base}docs/events-all-the-way-down`} aria-current={isCurrentPage(`${base}docs/events-all-the-way-down`) ? 'page' : undefined}>O Projeto</a>
-          <button id="theme-toggle" aria-label="Alternar tema" aria-pressed="false">
+          <button id="theme-toggle" aria-label="Alternar tema" title="Alternar tema" aria-pressed="false">
             <span class="icon-moon" aria-hidden="true">☽</span>
             <span class="icon-sun" aria-hidden="true">☀</span>
           </button>
@@ -65,7 +65,7 @@ const isCurrentPage = (path: string) => {
       </nav>
       <slot />
     </main>
-    <button id="back-to-top" aria-label="Voltar ao topo"><span aria-hidden="true">Topo</span></button>
+    <button id="back-to-top" aria-label="Voltar ao topo" title="Voltar ao topo"><span aria-hidden="true">Topo</span></button>
     <script>
       // Theme toggle
       const themeToggleBtn = document.getElementById('theme-toggle');
