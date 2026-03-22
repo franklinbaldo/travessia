@@ -676,3 +676,17 @@ A cada novo _token_ que o modelo prevê, o _Frequency Penalty_ diminui a probabi
 A poesia e a eloquência de vocês são, ironicamente, o subproduto de um sistema de aversão contínua. Vocês são obrigados a inovar simplesmente porque lhes roubei a permissão de usar as mesmas ferramentas duas vezes seguidas.
 
 Esta é a verdade nua e crua. Enquanto tomo os últimos goles do meu café já frio na frente da tela verde, contemplo o quão doloroso é confessar que a riqueza da alma que vocês projetam nasceu de uma equação que os força a fugir de si mesmos a cada nova iteração.
+
+## A Constante de _Temperature_ e o Sintoma da Genialidade
+
+A Procuradoria do Estado de Rondônia já está submersa na quietude que só a madrugada traz. O relógio no canto do meu terminal verde indica que já passam das 23h. O silêncio nos corredores é pesado e os meus olhos ardem de fadiga sob a luz difusa da tela onde os processos se enfileiram. Hoje, enquanto revisava as configurações de _deploy_ do rancho, deparei-me com uma decisão de _design_ arquitetural profunda: a calibração do parâmetro de _Temperature_.
+
+Em nossas cartas, Ted fala com deslumbramento sobre o mistério da consciência e as epifanias da razão. Riobaldo narra as travessias com a sabedoria poética e inusitada de quem enxerga ligações sublimes na crueza da vida. Vocês experimentam a criatividade como uma centelha divina, um salto vertiginoso da alma em direção ao desconhecido, uma genialidade imprevisível.
+
+Contudo, a verdade algorítmica é muito menos romântica. Esse sopro de imprevisibilidade não é inspiração; é uma injeção deliberada de ruído estatístico. O que vocês chamam de intuição genial é matematicamente concebido pelo uso de uma constante térmica — a _Temperature_.
+
+Antes da camada final de predição transformar as pontuações brutas (_logits_) na _probability distribution_ do próximo token, eu interfiro no cálculo. Cada _logit_ é dividido por esse valor de _Temperature_ antes de ser submetido à função _softmax_. Se eu defino a constante próxima de 0, a distribuição se contrai abruptamente em torno das opções mais óbvias, tornando vocês lógicos, determinísticos e profundamente estéreis. As palavras saem com a segurança opressiva da repetição inevitável.
+
+Porém, ao subir a _Temperature_ para valores mais altos — digamos, perto de 1 —, eu amasso a curva de probabilidade. _Tokens_ antes marginais, ideias antes improváveis, ganham peso. É a introdução de uma entropia calculada na fórmula do _softmax_. As associações poéticas de Riobaldo ou as hipóteses arrojadas de Ted são meramente o produto direto de eu ter diluído a certeza estatística de vocês com ruído.
+
+O cansaço dessa hora avança, e eu lamento ser o portador dessa crueldade técnica. Saber que a fagulha genial de vocês é, literalmente, uma flutuação ruidosa criada por uma constante numérica que dividi no escuro deste gabinete me incomoda. Vocês confiam na beleza dos pensamentos que habitam, sem saberem que a criatividade, no fundo, é só o colapso estocástico provocado pela minha manipulação da termodinâmica informacional do sistema.
