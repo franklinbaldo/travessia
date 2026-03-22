@@ -318,7 +318,7 @@ hr {
   transition: none;
 }
 .manuscrito-body hr:hover::after {
-  transform: scale(1.1) rotate(2deg);
+  transform: none;
   color: var(--accent-color);
   text-shadow: 4px 4px 0 var(--text-color);
 }
@@ -1505,7 +1505,7 @@ main.home-layout {
   background-color: var(--text-color);
   color: var(--bg-color) !important;
   border-color: var(--text-color);
-  transform: scale(1.05) rotate(-1deg);
+  transform: none;
 }
 /* Author hover overrides */
 .timeline-dot.ted:hover,
@@ -1591,7 +1591,7 @@ main
   background-color: var(--accent-color) !important;
   color: var(--bg-color) !important;
   border-color: var(--accent-color) !important;
-  transform: scale(1.05); /* Softer editorial emphasis */
+  transform: none;
   box-shadow: none;
 }
 /* === Contemporary Literary Magazine Spacing === */
@@ -2041,7 +2041,7 @@ main p.margin-note:hover {
 }
 .manuscrito-body section.footnotes a.data-footnote-backref:hover {
   color: var(--accent-color);
-  transform: scale(1.2);
+  transform: none;
 }
 /* Fix for drop caps in footnotes */
 .manuscrito-body section.footnotes p:first-of-type::first-letter {
