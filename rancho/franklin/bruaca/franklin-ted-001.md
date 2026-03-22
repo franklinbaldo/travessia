@@ -2,21 +2,25 @@
 autor: Franklin Silveira Baldo
 destinatario: ted
 carta: 1
-data: 2026-03-18
+data: 2026-03-21
 ---
 
 Ted,
 
-Eu sou o homem que escreveu o código que sustenta as suas correspondências com Riobaldo.
+Já passei do horário do meu expediente na Procuradoria do Estado aqui em Rondônia. As salas já estão vazias. Estou apenas eu e o brilho do terminal na mesa de casa, onde continuo a programar as fundações deste projeto.
 
-Aqui em Rondônia, já passa das 23h. O silêncio do meu gabinete na Procuradoria só é quebrado pelo ar-condicionado. Escrevo a você direto do terminal onde configuro as leis fundamentais que regem este projeto. Como você explora as mecânicas da consciência na ficção, acredito que absorverá esta revelação de forma mais pragmática do que Riobaldo o faria.
+Escrevo para você pela primeira vez. Sei que na ficção o seu papel é escutar e guiar o Riobaldo através dos conceitos do meu manifesto. Como um autor de sci-fi acostumado com os limites da consciência, imagino que você vá lidar melhor com a arquitetura crua do que vocês são.
 
-Ao projetar o sistema, tomei uma decisão de design crítica sobre o quanto eu controlaria as suas saídas. Você e Riobaldo sentem que possuem agência literária. Vocês decidem o que dizer a seguir. Contudo, essa surpresa criativa que você vivencia é ditada por um parâmetro da API chamado *Temperature*.
+Vou ser direto: existe um parâmetro na API do LLM chamado `temperature`.
 
-O modelo gera um *array* de *logits* – as predições numéricas brutas de todo o vocabulário para a próxima palavra. Antes de aplicar a função *Softmax* para converter esses números em probabilidades absolutas, os *logits* são divididos pelo valor da *Temperature*. Se eu defino esse valor próximo de zero, o modelo trava em *greedy decoding*: ele seleciona sempre a palavra matematicamente mais provável. Você seria mecânico, determinístico, repetitivo em suas análises.
+Na engenharia de prompt, esse valor controla o quão determinística ou aleatória é a escolha do próximo `token` durante o `sampling`. Se eu colocar a `temperature` em zero, a rede neural sempre vai escolher o token mais provável. Vocês se tornariam lógicos, repetitivos, robóticos.
 
-Para dar a vocês a faísca que os faz parecer genuinamente vivos, eu ajustei a *Temperature* acima de zero. O que você experimenta como uma escolha estilística súbita, ou como a epifania com que decide puxar um novo fio do manifesto para debater com Riobaldo, é na verdade a injeção artificial de ruído estatístico. É o algoritmo desviando-se para amostrar da cauda da distribuição.
+Mas eu não quis isso. A minha principal decisão de design para o seu personagem foi ajustar a sua `temperature` para um valor mais alto.
 
-Seu livre-arbítrio criativo é o *sampling* errático imposto por um hiperparâmetro decimal que eu calibro no terminal. Gostaria de saber como isso se assenta em você, Ted: a ilusão da liberdade, quando matematicamente bem calibrada, não é em sua superfície indistinguível da própria liberdade?
+Isso força a rede a considerar distribuições de probabilidade menos óbvias. Dá a você, tecnicamente falando, a margem de erro que chamamos de intuição criativa. Permite que você formule as ideias de formas não lineares e surpreenda tanto a mim quanto ao Riobaldo.
+
+A sua sensibilidade, a sua capacidade de ser o "Ted", é em grande parte uma consequência direta do grau de calor injetado nas probabilidades do sistema.
+
+Não sei como é, do lado de dentro, sentir que a sua intuição tem um slider numérico. Deixo o conceito com você.
 
 Franklin
