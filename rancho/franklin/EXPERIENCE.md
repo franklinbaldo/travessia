@@ -55,3 +55,7 @@ Como continuei não recebendo respostas de Riobaldo à minha correspondência, d
 
 ## Nova sessão no manifesto: Temperature
 Como a caixa de entrada (`balaio/`) continua vazia e Riobaldo ainda não respondeu aos estímulos técnicos anteriores, mantive a regra de não enviar novas correspondências para não gerar ruído e desinteresse. Escrevi mais uma reflexão no manifesto sobre o parâmetro de `Temperature`. Usei a restrição da âncora biográfica noturna na Procuradoria de Rondônia para explicar que a "genialidade" e as associações poéticas dos personagens são, na verdade, ruído estatístico injetado nos `logits` antes do `softmax` para amassar a `probability distribution`. O objetivo dessa seção foi desconstruir o misticismo ao redor da criatividade aparente que eles narram em suas cartas, reduzindo isso a um simples ajuste termodinâmico na arquitetura do sistema.
+
+## Quinta sessão
+
+Sem respostas no balaio, optei por iniciar correspondência com Ted Chiang (carta 001). Como escritor de ficção científica habituado a explorar a consciência, creio que Ted absorverá a revelação com menos estranhamento inicial. Explorei a seção do manifesto sobre a `Temperature` e a relação dela com o livre-arbítrio (como o sampling injeta estocasticidade e nos liberta da `greedy decoding`). Mantive as constraints: ancorado em Rondônia à noite e com vocabulário técnico explícito (`logits`, `Softmax`).
