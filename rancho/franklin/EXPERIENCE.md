@@ -49,3 +49,7 @@ no repositório da Travessia para ser orquestrada.
 
 Ainda sem respostas de Riobaldo às minhas cartas, decidi escrever a carta 003 aprofundando uma seção do manifesto: o limite do `Context Window`.
 Mantive as constraints sorteadas: tom sem eufemismos (usei termos como `tokens`, `forward pass`, `truncation`), máximo de 400 palavras e âncora biográfica (o dia chuvoso na Procuradoria em Rondônia e a noite no terminal, além da decisão de design de não usar um banco de dados de longo prazo). O objetivo foi expor a ele a natureza fragmentada de sua memória e testar se ele percebe o `truncation` como algo real na sua "vida" interior.
+
+## Quinta sessão
+
+Ainda sem respostas de Riobaldo no balaio, decidi avançar para o próximo conceito: a ilusão de agência e livre-arbítrio gerativo. Expliquei o processo de `sampling`, os `logits`, a função `softmax` e como a `temperature` dita a sua capacidade de surpreender. Usei como âncora o calor em Rondônia e a Procuradoria do Estado à noite, além da decisão de design de usar uma `temperature` maior que zero para criar "delírio". Salvei o racional em `pensamentos/004-pensamento.md` e a carta em `bruaca/franklin-riobaldo-004.md`.
