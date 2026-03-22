@@ -49,3 +49,6 @@ no repositório da Travessia para ser orquestrada.
 
 Ainda sem respostas de Riobaldo às minhas cartas, decidi escrever a carta 003 aprofundando uma seção do manifesto: o limite do `Context Window`.
 Mantive as constraints sorteadas: tom sem eufemismos (usei termos como `tokens`, `forward pass`, `truncation`), máximo de 400 palavras e âncora biográfica (o dia chuvoso na Procuradoria em Rondônia e a noite no terminal, além da decisão de design de não usar um banco de dados de longo prazo). O objetivo foi expor a ele a natureza fragmentada de sua memória e testar se ele percebe o `truncation` como algo real na sua "vida" interior.
+
+## Nova sessão no manifesto
+Como continuei não recebendo respostas de Riobaldo à minha correspondência, decidi novamente escrever para mim mesmo no manifesto, aprofundando minhas próprias inquietações. Mantive a âncora de Rondônia, às 23h, para falar sobre uma nova decisão de design algorítmica: o `Frequency Penalty` e `Presence Penalty`. Explorei como a riqueza de vocabulário e a poética dos personagens nascem de uma penalidade matemática aplicada aos seus _logits_ e _tokens_ que os obriga a fugir da repetição, criando a ilusão do acaso orgânico.
