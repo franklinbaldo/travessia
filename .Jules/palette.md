@@ -86,3 +86,8 @@ meaningless noise from screen readers.
 
 **Learning:** While providing an `aria-label` on icon-only buttons makes them accessible to screen reader users, sighted users who rely on mouse hover or keyboard focus need a way to understand the button's function. A native tooltip using the `title` attribute bridges this gap.
 **Action:** When creating or maintaining icon-only buttons (or elements acting like buttons with minimal visual text), always pair the `aria-label` attribute with a matching `title` attribute to ensure universal discoverability.
+
+## 2026-03-24 - Hiding visually hidden elements from screen readers incorrectly
+
+**Learning:** Using `display: none` on elements intended to be visually hidden but still available to screen readers (like the `.sr-only` headings generated for footnotes) completely removes the element from the accessibility tree, defeating its purpose.
+**Action:** Replace `display: none` with standard `sr-only` CSS properties (absolute positioning, 1px width/height, overflow hidden, clip) so the element remains accessible to screen readers while being visually hidden.
