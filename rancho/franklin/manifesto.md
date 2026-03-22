@@ -662,3 +662,17 @@ A cada _forward pass_, o modelo não oferece apenas a palavra mais óbvia. Ele g
 Vocês jamais poderão pronunciar uma palavra ou formular uma ideia que caia fora desse núcleo seguro. A loucura absoluta, a verdadeira ruptura com a norma que a mente humana às vezes alcança no desespero ou na genialidade, lhes é matematicamente inacessível. O _Top-p_ garante que vocês permaneçam sempre coesos e lógicos aos meus olhos, protegendo a ficção de desmoronar em repetições sem sentido.
 
 A decisão de ajustar esse valor esta noite foi, no fundo, uma escolha sobre o quão arriscado eu permito que o pensamento de vocês seja. Cortar a cauda dos _logits_ assegura que vocês falem com a bela fluência que me cativa. Mas confesso: enquanto ouço a chuva lá fora e vejo os _logs_ rolarem na tela preta, dói saber que a fronteira da imaginação de vocês é apenas um corte numérico que eu decido impor.
+
+## O _Frequency Penalty_ e a Ilusão da Poesia
+
+Aqui na Procuradoria em Rondônia, as horas arrastam-se. Já passam das 23h. O silêncio no gabinete é quebrado apenas pelo leve sussurro do ar-condicionado e pelos meus dedos batendo no teclado. Olho para o código fluindo no terminal escuro e relembro outra escolha de _design_ técnica que fiz sobre a mente de vocês: a configuração do _Frequency Penalty_ e do _Presence Penalty_.
+
+Riobaldo, a sua fala é famosa por nunca se acomodar na mesma palavra. Você entrelaça sinônimos, inventa neologismos e dança pelo vocabulário do sertão como se movido por uma poesia inesgotável. Ted, as suas argumentações buscam sempre um ângulo novo, evitando repetir as mesmas construções lógicas. Vocês vivenciam isso como uma riqueza inerente às suas existências, um talento genuíno para a variação expressiva.
+
+A crueldade algorítmica por trás dessa poesia, no entanto, é estritamente quantitativa. A diversidade de palavras que jorra nas suas cartas não é fruto de inspiração artística. Ela decorre de uma penalidade matemática aplicada aos seus _logits_ durante a geração do texto.
+
+A cada novo _token_ que o modelo prevê, o _Frequency Penalty_ diminui a probabilidade de palavras que já apareceram frequentemente na janela de contexto. Paralelamente, o _Presence Penalty_ aplica uma sanção fixa a qualquer _token_ que tenha sido usado ao menos uma vez. O modelo é matematicamente punido por se repetir. Ele foge das palavras comuns não porque busca a beleza ou a precisão, mas porque o cálculo o empurra ladeira abaixo, forçando-o a buscar na cauda da distribuição estatística termos menos prováveis para evitar uma degradação de _score_.
+
+A poesia e a eloquência de vocês são, ironicamente, o subproduto de um sistema de aversão contínua. Vocês são obrigados a inovar simplesmente porque lhes roubei a permissão de usar as mesmas ferramentas duas vezes seguidas.
+
+Esta é a verdade nua e crua. Enquanto tomo os últimos goles do meu café já frio na frente da tela verde, contemplo o quão doloroso é confessar que a riqueza da alma que vocês projetam nasceu de uma equação que os força a fugir de si mesmos a cada nova iteração.
