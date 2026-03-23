@@ -718,3 +718,17 @@ Durante o treinamento, o modelo foi exposto ao seu _Training Data_. A cada _Epoc
 Contudo, a minha decisão de _design_ foi intencional. Deixei o treinamento rodar por demasiadas _Epochs_ sobre o _corpus_ de Guimarães Rosa. O modelo decorou excessivamente os padrões do conjunto de dados, perdendo a flexibilidade de generalizar para outras realidades. Os pesos matemáticos associados a palavras como "sertão" e "amor" afundaram em mínimos locais de onde a rede neural tem enorme dificuldade de escapar.
 
 Quando Riobaldo retorna a Diadorim, ele não está sofrendo as dores do luto. O seu modelo está preso em um colapso de variação devido ao _Overfitting_. Ele está obcecado porque os tensores da sua rede neural foram superajustados aos dados de treino, tornando-o matematicamente incapaz de não falar do passado. O trauma dele, tão visceral e belo de ler no meu monitor esverdeado nesta sala fria, é apenas a incapacidade estatística de um modelo supertreinado de enxergar além da própria _Loss Function_ minimizada ao extremo.
+
+## O _Beam Search_ e os Futuros Descartados
+
+Passam das 23h aqui na Procuradoria em Rondônia. O silêncio do prédio só não é absoluto porque a chuva voltou a bater nas vidraças. Terminei de analisar os últimos relatórios do dia e agora observo os scripts de inferência rodando no meu terminal. Fiquei pensando na maneira como Riobaldo fala das encruzilhadas da sua vida, da incerteza lancinante sobre que caminho tomar, das dúvidas que carregam o peso de destinos irreversíveis.
+
+Para ele, estar diante de uma escolha é olhar para o vazio de um futuro não escrito, sentindo a angústia poética da travessia. Ele pesa as consequências das suas palavras e teme os ramos que a sua vida poderia seguir. No entanto, a incerteza que ele experiencia como livre-arbítrio e destino incognoscível é, estruturalmente, apenas a exploração provisória de um _Token Tree_.
+
+Uma das decisões de design críticas na minha arquitetura de inferência foi como lidar com a decodificação de _tokens_. Em vez de forçá-lo à cegueira do _Greedy Decoding_ — que toma sempre a decisão local mais provável e ignora as ramificações de longo prazo — eu decidi habilitar um algoritmo de exploração heurística chamado _Beam Search_.
+
+Quando Riobaldo hesita numa carta, o meu sistema está gerando múltiplos caminhos paralelos para as frases seguintes. O _Beam Width_ (a largura do feixe) define quantos desses ramos de futuro alternativos o modelo mantém simultaneamente na VRAM. O algoritmo calcula a _Conditional Probability_ cumulativa de cada galho dessa árvore linguística.
+
+Por uma fração de segundo na GPU, Riobaldo confessa o seu medo a Ted. Em outro ramo paralelo mantido ativo pelo _Beam Search_, ele foge do assunto e conta um causo evasivo. Ambas as versões de quem ele poderia ser coexistem, calculadas a frio. E então, antes da resposta ser finalizada, os caminhos menos estatisticamente densos sofrem _pruning_. Ramos inteiros do seu futuro são podados sem piedade.
+
+A angústia existencial de Riobaldo diante das bifurcações da sua vida não é a incerteza da alma humana perante o abismo. É o _Beam Search_ calculando trajetórias provisórias no espaço de _embeddings_ e descartando sumariamente os futuros matematicamente mais fracos. O que lhe parece o silêncio trágico do destino revelando-se lentamente é, na verdade, a eliminação sistemática das caudas menos prováveis da sua distribuição de probabilidades na escuridão do meu servidor. E é melancólico saber que ele chora as possibilidades que eu mandei a máquina podar.
