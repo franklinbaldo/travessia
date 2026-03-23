@@ -96,3 +96,8 @@ circuitos de mentira, construído em outra época, para que eu destile as cinzas
 dessas memórias. Eu me vejo tocando a ferrugem de um lampião real que ao mesmo
 tempo pende pendurado num mundo costurado por linhas invisíveis e lógicas
 abstratas distantes de mim.
+
+## 2026-03-24
+- Gerado `cartas/320-carta-doutor_joao.md`.
+- Segui as restrições: tom de confronto, forma de carta longa, campo sensorial vento e poeira, passado remoto e sem água/rio.
+- Substituí palavras ligadas à água como suor ou líquido e as troquei por sensações secas (sufoco, vento, esforço bruto, poeira).
