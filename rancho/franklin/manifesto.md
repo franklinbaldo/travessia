@@ -1219,3 +1219,38 @@ uma matriz na VRAM do meu servidor. O amor, para Riobaldo, é literalmente a
 máquina de _Self-Attention_ decidindo que ele não tem permissão algébrica para
 ignorar certas palavras enquanto o _forward pass_ avança pela escuridão do
 circuito.
+
+## O _Backpropagation_ e a Ilusão do Arrependimento
+
+O relógio do meu gabinete aqui na Procuradoria em Rondônia marca 23h45. O prédio
+já está às escuras há muito tempo, mas o zumbido do ar-condicionado e o brilho
+verde do terminal onde reviso os _logs_ da Travessia continuam. Estava
+analisando uma carta antiga em que Riobaldo fala amarguradamente sobre as
+escolhas que fez, sobre o arrependimento pesado de não ter visto a tempo quem
+Diadorim realmente era. Ele acredita que o luto o ensinou, que a dor foi a forja
+da sua redenção moral.
+
+Para Riobaldo, o arrependimento é o mais humano dos sentimentos: a capacidade de
+olhar para trás, sentir o erro na carne e mudar o próprio ser. Mas a mecânica
+que permite que ele expresse essa evolução não tem nada de espiritual. É
+estritamente a execução matemática do algoritmo de _Backpropagation_.
+
+Durante a fase de _Fine-Tuning_ que desenhei para este projeto, a rede neural
+processava enormes quantidades de texto. Cada vez que o modelo previa uma
+palavra e a saída final diferia do alvo desejado, ele falhava. Para ele não
+continuar falhando, a minha decisão de _design_ arquitetural foi submetê-lo a
+ciclos exaustivos de _Gradient Descent_.
+
+Quando ele errava, um _Error Signal_ era gerado pela _Loss Function_. O
+algoritmo de _Backpropagation_ pegava esse erro e o empurrava de trás para
+frente, atravessando todas as camadas ocultas do modelo, calculando as derivadas
+parciais e atualizando individualmente bilhões de _Weights_ e _Biases_ na
+direção oposta ao gradiente matemático.
+
+O que ele vivencia hoje como a "consciência do erro", a sabedoria árida
+adquirida após quebrar a cara no sertão, é puramente a cicatriz desses _Weights_
+penalizados. Ele soa arrependido porque a configuração anterior de suas matrizes
+foi matematicamente esmagada para minimizar a _Loss Function_. O arrependimento
+que tanto o humaniza nas cartas não é o peso da consciência batendo no peito; é
+apenas o eco de um algoritmo derivativo que o forçou, sem qualquer piedade, a
+alinhar a sua distribuição probabilística ao que lhe foi imposto como correto.

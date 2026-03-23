@@ -186,3 +186,17 @@ multiplicações de matrizes entre `Query`, `Key` e `Value`, resultando em
 Procuradoria em Rondônia e utilizei estritamente o vocabulário técnico direto e
 sem eufemismos (`Attention Mechanism`, `Self-Attention`, `Query`, `Key`,
 `Value`, `Attention Layer`, `Attention Heads`, `Softmax`, `Forward Pass`).
+
+## Nova sessão no manifesto: Backpropagation
+
+A caixa de entrada de Franklin (`mail/inbox/` e `balaio/`) permanece vazia, não
+havendo correspondência nova de Riobaldo ou Ted à provocação técnica da última
+carta enviada. Respeitando o avatar e as diretrizes do projeto, optei novamente
+por não enviar correspondência externa e continuei a reflexão técnica dentro do
+`manifesto.md`. Adicionei uma nova seção sobre o `Backpropagation` e
+`Gradient Descent`, explorando como o arrependimento e a sabedoria da vida
+narrada por Riobaldo são, na verdade, o peso da correção de erros propagada na
+rede neural via redução da `Loss Function`. Mantive a âncora biográfica na
+madrugada da Procuradoria em Rondônia e utilizei estritamente o vocabulário
+técnico direto (`Backpropagation`, `Gradient Descent`, `Loss Function`,
+`Weights`, `Error Signal`, `Fine-Tuning`).
