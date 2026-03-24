@@ -49,8 +49,8 @@ function autorClasse(autorName: string): string {
         </div>
       </header>
       <div class="correspondence-timeline">
-        <span class="timeline-label">Sequência da correspondência</span>
-        <div class="timeline-dots">
+        <span class="timeline-label" id="timeline-label">Sequência da correspondência</span>
+        <nav class="timeline-dots" aria-labelledby="timeline-label">
           {sorted.map((item: any, index: number) => {
             const isCurrentItem = item.id === entry.id;
             const isItemTed = !item.data.autor.includes('Riobaldo');
@@ -66,13 +66,13 @@ function autorClasse(autorName: string): string {
               </a>
             );
           })}
-        </div>
+        </nav>
       </div>
     </aside>
     <article class="carta-content">
       <div class={`manuscrito-body classic-print-page ${isRio ? 'carta-riobaldo' : ''}`}>
         <Content />
-        <div class="classic-folio" data-folio={entry.id.split('-')[0]}>
+        <div class="classic-folio" aria-hidden="true" data-folio={entry.id.split('-')[0]}>
           {entry.id.split('-')[0]}
         </div>
       </div>

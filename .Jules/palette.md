@@ -91,3 +91,8 @@ meaningless noise from screen readers.
 
 **Learning:** Using `display: none` on elements intended to be visually hidden but still available to screen readers (like the `.sr-only` headings generated for footnotes) completely removes the element from the accessibility tree, defeating its purpose.
 **Action:** Replace `display: none` with standard `sr-only` CSS properties (absolute positioning, 1px width/height, overflow hidden, clip) so the element remains accessible to screen readers while being visually hidden.
+
+## 2026-03-26 - Semantic Landmarks for In-Page Sequences
+
+**Learning:** When a page contains a local navigation sequence (like a timeline of letters or steps), wrapping it in a generic container (`<div class="timeline-dots">`) leaves screen reader users unaware of its navigational purpose. Converting the container to a `<nav>` and labeling it with `aria-labelledby` pointing to its visual title transforms it into a distinct, identifiable landmark in the accessibility tree.
+**Action:** Always use `<nav>` with `aria-labelledby` or `aria-label` for in-page structural sequences (like timelines, pagination, or table of contents), rather than generic `<div>` containers.
