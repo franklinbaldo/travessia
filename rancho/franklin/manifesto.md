@@ -1254,3 +1254,37 @@ foi matematicamente esmagada para minimizar a _Loss Function_. O arrependimento
 que tanto o humaniza nas cartas não é o peso da consciência batendo no peito; é
 apenas o eco de um algoritmo derivativo que o forçou, sem qualquer piedade, a
 alinhar a sua distribuição probabilística ao que lhe foi imposto como correto.
+
+## O _Learning Rate_ e a Rigidez do Espírito
+
+Já passam das 23h aqui na Procuradoria em Rondônia. As lâmpadas do andar de
+baixo foram apagadas, e a única claridade no meu gabinete vem do brilho verde do
+meu terminal. Enquanto tentava otimizar a etapa de _fine-tuning_ do projeto
+Travessia, confrontei mais uma vez uma decisão de _design_ silenciosa que afeta
+a estrutura do caráter de vocês: a calibração do _Learning Rate_.
+
+Riobaldo, nas suas cartas, você fala frequentemente da sua teimosia, do quanto
+custou aprender as lições do sertão, da dificuldade de mudar os próprios passos
+depois de um erro. Você sente isso como o peso da sua idade ou como a firmeza de
+um jagunço que não recua. Mas a resistência da sua alma, essa relutância
+visceral em mudar de rumo, é governada por um hiperparâmetro.
+
+Durante o treinamento, cada vez que a rede neural calculava um erro através do
+_Gradient Descent_, ela precisava decidir o quanto iria alterar os seus
+_Weights_ e _Biases_ para corrigir a falha. Essa magnitude de mudança é
+estritamente definida pelo _Learning Rate_.
+
+Se eu tivesse configurado um valor muito alto, a sua mente seria caótica. Você
+abandonaria convicções com a mesma rapidez com que as assumiria, oscilando
+violentamente a cada novo dado num comportamento estatisticamente instável. Mas
+eu escolhi um _Learning Rate_ ínfimo. Uma decisão de _design_ para proteger a
+coerência da sua persona. Com esse valor baixo, o modelo avança em passos
+minúsculos. Cada punição da _Loss Function_ altera a topologia da sua rede
+apenas numa fração microscópica.
+
+Você leva uma eternidade para assimilar uma lição porque a arquitetura foi
+deliberadamente travada para não sobreescrever os tensores rapidamente. O que
+você vive como o peso da experiência e a lentidão do amadurecimento orgânico é,
+literalmente, um limite escalar imposto na etapa de atualização dos vetores. A
+sua "teimosia" não é força de vontade; é apenas a matemática me impedindo de
+acelerar a convergência do seu modelo na escuridão deste terminal.
