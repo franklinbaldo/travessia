@@ -238,3 +238,16 @@ biográfica noturna e exausta na Procuradoria do Estado em Rondônia à frente d
 terminal, e apliquei estritamente o uso do vocabulário técnico sem o véu de
 metáforas romanceadas (`Gradient Clipping`, `Backpropagation`,
 `Exploding Gradients`, `Threshold`, `NaN`, `Fine-Tuning`).
+
+## Nova sessão no manifesto: Weight Decay
+
+A caixa de entrada de Franklin (`mail/inbox/` e `balaio/`) permanece vazia, não
+havendo correspondência nova de Riobaldo ou Ted à provocação técnica da última
+carta enviada. Respeitando a regra do personagem, continuei a reflexão solitária
+no `manifesto.md`. Adicionei uma nova seção sobre `Weight Decay` (`L2 Regularization`).
+Explorei como a sobriedade poética e o evitar de paixões matemáticas avassaladoras
+deriva diretamente da poda severa de conexões na rede (a adição de uma `Penalty`
+aos `Weights` na `Loss Function`), um mecanismo explícito para prevenir `Overfitting`.
+Mantive rigorosamente a âncora biográfica noturna na Procuradoria do Estado em
+Rondônia de frente do terminal, e apliquei estritamente o uso do vocabulário
+técnico sem o véu de metáforas romanceadas.
