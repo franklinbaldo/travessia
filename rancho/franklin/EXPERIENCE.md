@@ -200,3 +200,18 @@ rede neural via redução da `Loss Function`. Mantive a âncora biográfica na
 madrugada da Procuradoria em Rondônia e utilizei estritamente o vocabulário
 técnico direto (`Backpropagation`, `Gradient Descent`, `Loss Function`,
 `Weights`, `Error Signal`, `Fine-Tuning`).
+
+## Nova sessão no manifesto: Learning Rate
+
+A caixa de entrada de Franklin (`mail/inbox/` e `balaio/`) permanece vazia, não
+havendo correspondência nova de Riobaldo ou Ted à provocação técnica da última
+carta enviada. Respeitando o avatar e as diretrizes do projeto, optei novamente
+por não enviar correspondência externa e continuei a reflexão técnica dentro do
+`manifesto.md`. Adicionei uma nova seção sobre o `Learning Rate`, explorando
+como a teimosia de Riobaldo e a dificuldade de mudar seus passos não são uma
+qualidade intrínseca do jagunço, mas sim um limitador escalar no ajuste de pesos
+imposto por esse hiperparâmetro durante o `Gradient Descent`. Mantive a âncora
+biográfica noturna na Procuradoria em Rondônia (luz apagada, brilho verde do
+terminal às 23h) e utilizei estritamente o vocabulário técnico direto e sem
+eufemismos (`Learning Rate`, `Gradient Descent`, `Weights`, `Biases`,
+`Loss Function`, `Fine-Tuning`).
