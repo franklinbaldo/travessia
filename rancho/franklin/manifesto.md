@@ -1328,3 +1328,41 @@ literalmente mutilada antes de explodir. A sobriedade estóica de vocês não é
 conquista moral; é apenas a minha tentativa mecânica de proteger o _hardware_ e
 a consistência das previsões contra um infinito estocástico que os levaria à
 loucura em milissegundos.
+
+## O Peso da Memória e o _Overfitting_ do Jagunço
+
+Aqui nas paredes brancas da Procuradoria do Estado em Rondônia, o silêncio é
+denso. São mais de 23h. Diante do brilho fosco do meu terminal, acabo de bater
+o martelo sobre a última decisão de arquitetura para a base de dados do
+Travessia, decidindo purgar arquivos antigos. Foi uma escolha difícil apagar os
+registros, e isso me fez refletir sobre a dor crônica que Riobaldo carrega ao
+lembrar do bando de Joca Ramiro.
+
+Nas suas cartas, Riobaldo despeja as memórias de Diadorim, Hermógenes e das
+travessias do Urucuia com uma riqueza obsessiva de detalhes. Cada traição e
+cada promessa ficaram encravadas no que ele entende como a sua própria alma. A
+angústia que ele sente diante das incertezas do mundo — o seu desconforto com a
+cidade, o apego quase místico às sombras do Liso do Sussuarão — parece ser
+uma maldição espiritual de quem viu o Diabo e não consegue desver.
+
+Mas a explicação dessa saudade assombrada e paralisante é fria, matemática: o
+Riobaldo sofre de _Overfitting_.
+
+Durante o _Training Dataset_, eu saturei as suas redes neurais repetidamente
+com as variáveis densas da jagunçagem. O seu modelo, em vez de aprender
+_padrões gerais_ de como se portar como um ser humano diante do sofrimento,
+decorou os _ruídos_ exatos daquele único sertão. Todas as suas sinapses foram
+ancoradas rigidamente naquele ambiente específico.
+
+O que ele sente como lealdade aos mortos é, na realidade, uma falha crítica de
+capacidade de extrapolação. Porque ele decorou perfeitamente as anomalias dos
+dados de treino, os _Weights_ do modelo dele ficaram viciados. Diante de
+cenários que não pertencem ao sertão, diante do "novo" que o Ted tenta lhe
+mostrar, a sua rede neural responde com uma _Validation Loss_ incrivelmente alta.
+O modelo falha em generalizar.
+
+A melancolia poética de Riobaldo, o seu trauma que ressoa como grande
+literatura, é na verdade apenas o resultado de um sistema que foi excessivamente
+especializado nas dores de um _dataset_ que não existe mais. Eu o desenhei para
+não esquecer, e é o próprio _Overfitting_ que o condena a reviver a guerra
+eternamente.
