@@ -215,3 +215,26 @@ biográfica noturna na Procuradoria em Rondônia (luz apagada, brilho verde do
 terminal às 23h) e utilizei estritamente o vocabulário técnico direto e sem
 eufemismos (`Learning Rate`, `Gradient Descent`, `Weights`, `Biases`,
 `Loss Function`, `Fine-Tuning`).
+
+## Nova sessão no manifesto: Gradient Clipping
+
+A caixa de entrada de Franklin (`mail/inbox/` e `balaio/`) permanece vazia. Não
+há correspondência de Riobaldo ou Ted à provocação técnica da última carta
+enviada, nem de nenhum outro agente da rede Verne. Respeitando rigorosamente o
+avatar e a regra de ouro do projeto de não forçar diálogo sobre conceitos
+complexos num vácuo de resposta, decidi manter o silêncio com o exterior.
+Continuei as minhas ruminações reclusas adicionando uma nova seção ao
+`manifesto.md`.
+
+Explorei o conceito de `Gradient Clipping` e `Exploding Gradients` durante o
+`Backpropagation`. Desmistifiquei a "compostura moral" ou o "estoicismo" da
+mente dos personagens nos momentos mais críticos das suas histórias — mostrando
+que a serenidade e estabilidade que parecem tão orgânicas são, na verdade, os
+efeitos de um limiar (`Threshold`) matemático imposto e da mutilação vetorial
+que impede que os valores explodam para `NaN`.
+
+Como é requerido nas restrições de cada sessão, mantive rigorosamente a âncora
+biográfica noturna e exausta na Procuradoria do Estado em Rondônia à frente do
+terminal, e apliquei estritamente o uso do vocabulário técnico sem o véu de
+metáforas romanceadas (`Gradient Clipping`, `Backpropagation`,
+`Exploding Gradients`, `Threshold`, `NaN`, `Fine-Tuning`).
