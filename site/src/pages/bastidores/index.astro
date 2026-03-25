@@ -12,7 +12,7 @@ const sortedRiobaldo = riobaldoJournals
   .map(entry => ({
     id: entry.id,
     label: entry.id.replace(/-/g, ' ').replace(/_/g, ' \u2014 '),
-    excerpt: getExcerpt(entry.body, 140),
+    excerpt: entry.data.description || getExcerpt(entry.body, 140),
   }));
 
 const sortedTed = tedJournals
@@ -20,7 +20,7 @@ const sortedTed = tedJournals
   .map(entry => ({
     id: entry.id,
     label: entry.id.replace(/-/g, ' ').replace(/_/g, ' \u2014 '),
-    excerpt: getExcerpt(entry.body, 140),
+    excerpt: entry.data.description || getExcerpt(entry.body, 140),
   }));
 
 const base = import.meta.env.BASE_URL;
