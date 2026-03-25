@@ -96,3 +96,8 @@ meaningless noise from screen readers.
 
 **Learning:** When a page contains a local navigation sequence (like a timeline of letters or steps), wrapping it in a generic container (`<div class="timeline-dots">`) leaves screen reader users unaware of its navigational purpose. Converting the container to a `<nav>` and labeling it with `aria-labelledby` pointing to its visual title transforms it into a distinct, identifiable landmark in the accessibility tree.
 **Action:** Always use `<nav>` with `aria-labelledby` or `aria-label` for in-page structural sequences (like timelines, pagination, or table of contents), rather than generic `<div>` containers.
+
+## 2026-03-27 - Proper Placement of Skip Link Targets
+
+**Learning:** When using a "skip to content" link, placing the `id` and `tabindex="-1"` on the outer `<main>` element fails to provide accessibility benefits if the main navigation (`<nav>`) is also contained within that same `<main>` element. The keyboard focus drops at the top of the `<main>` and immediately continues to tab through the navigation, defeating the skip link's purpose.
+**Action:** Always ensure the target of a "skip to content" link (the element with the matching `id` and `tabindex="-1"`) is placed in the DOM *after* all global navigation elements that are meant to be bypassed, even if this requires wrapping the main content area inside an inner `<div>`.
