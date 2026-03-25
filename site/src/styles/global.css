@@ -1487,7 +1487,7 @@ main.home-layout {
   background-color: var(--text-color) !important;
   color: var(--bg-color) !important;
 }
-main[tabindex="-1"]:focus-visible {
+#conteudo-principal[tabindex="-1"]:focus-visible {
   outline: none !important;
   background-color: transparent !important;
   color: inherit !important;

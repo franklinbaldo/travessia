@@ -62,7 +62,7 @@ function autorClasse(autorName: string): string {
                 aria-current={isCurrentItem ? 'page' : undefined}
                 title={item.data.titulo}
               >
-                {index + 1}
+                <span aria-hidden="true">{index + 1}</span>
               </a>
             );
           })}

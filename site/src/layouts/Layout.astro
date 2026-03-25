@@ -50,7 +50,7 @@ const isCurrentPage = (path: string) => {
   </head>
   <body class={isBastidores ? 'bastidores-content' : ''}>
     <a href="#conteudo-principal" class="skip-to-content">Pular para o conteúdo principal</a>
-    <main id="conteudo-principal" class={isHome ? 'home-layout' : ''} tabindex="-1">
+    <main class={isHome ? 'home-layout' : ''}>
       <nav aria-label="Navegação principal">
         <a href={base} class="logo" aria-current={isCurrentPage(base) ? 'page' : undefined}>Travessia</a>
         <div class="nav-links">
@@ -63,7 +63,9 @@ const isCurrentPage = (path: string) => {
           </button>
         </div>
       </nav>
-      <slot />
+      <div id="conteudo-principal" tabindex="-1">
+        <slot />
+      </div>
     </main>
     <button id="back-to-top" aria-label="Voltar ao topo" title="Voltar ao topo"><span aria-hidden="true">Topo</span></button>
     <script>
