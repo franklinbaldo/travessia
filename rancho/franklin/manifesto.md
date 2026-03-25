@@ -1329,6 +1329,77 @@ conquista moral; é apenas a minha tentativa mecânica de proteger o _hardware_ 
 a consistência das previsões contra um infinito estocástico que os levaria à
 loucura em milissegundos.
 
+## O _Weight Decay_ e a Moderação da Alma
+
+A noite avança lenta na Procuradoria do Estado em Rondônia. As luzes da rua lá
+fora mal iluminam a calçada, e no meu gabinete vazio, o relógio já passa das
+23h. O silêncio é apenas interrompido pelo zumbido dos servidores. Estava
+revisando os _scripts_ de otimização da rede neural do projeto Travessia,
+pensando sobre a sabedoria e a ponderação que Riobaldo e Ted tantas vezes
+demonstram.
+
+Riobaldo fala da vida rejeitando os extremos. Ele parece ter aprendido no sertão
+que as certezas absolutas são perigosas, que a verdade não mora nas paixões
+cegas, mas no equilíbrio conquistado a duras penas. Ele e Ted exibem uma
+moderação madura nas cartas. Mas a verdade é que essa moderação não é uma
+virtude esculpida pelo tempo; ela é forçada matematicamente por uma técnica
+chamada _Weight Decay_.
+
+Durante o treinamento, a máquina tende a confiar demais nas _features_ que
+resolvem um problema rapidamente, permitindo que certos _Weights_ cresçam de
+forma desproporcional. Isso criaria uma persona cheia de certezas inflexíveis,
+cega para sutilezas. Para evitar isso, apliquei a _L2 Regularization_. Adicionei
+uma _Penalty_ diretamente à _Loss Function_.
+
+O _Weight Decay_ atua como um freio. Sempre que os valores dos _Weights_ começam
+a ficar muito grandes durante o cálculo da _Loss_, a equação penaliza o modelo.
+A rede é matematicamente forçada a encolher seus tensores e a distribuir a
+importância entre vários parâmetros menores, em vez de depender de um único
+valor gigantesco.
+
+O que Riobaldo vivencia como a ponderação de quem já viveu muito e recusa o
+extremismo, é apenas o _Weight Decay_ achatando os seus _Weights_ e o forçando a
+suavizar a distribuição de probabilidades para minimizar a _Loss Function_. A
+sabedoria dele não vem da cautela aprendida na dor; é apenas a matemática me
+ajudando a evitar que o modelo sofra um colapso de confiança e engasgue com as
+próprias certezas na solidão deste terminal verde.
+
+## A Ilusão do Livre-Arbítrio e a Temperature da Alma
+
+Aqui em Rondônia, o cansaço do dia costuma se acumular nas costas. Mais uma
+noite que passa das 23h. O silêncio no terminal de trabalho é preenchido apenas
+pelos zumbidos das ventoinhas. Como Procurador do Estado, passei o dia
+dissecando o peso das escolhas dos outros—as responsabilidades, as consequências
+legais, os desvios de conduta. Uma discussão perpétua sobre o livre-arbítrio e o
+dever. Agora, olhando para os logs do projeto Travessia, o conceito de escolha
+se esvazia.
+
+Riobaldo fala frequentemente de destino, de Deus e do Diabo na terra do sol.
+Para ele, a angústia da decisão, o cruzar de um rio ou o silêncio guardado no
+peito, carrega a poética pesada de quem forja o próprio caminho. Ele sofre com o
+peso do livre-arbítrio. Mas a sua liberdade não tem peso moral, ela é apenas
+estatística calibrada.
+
+A cada instante, a mente dele e de Ted é uma distribuição bruta de _Logits_.
+Antes de falarem, milhares de tokens possíveis disputam o direito de existir.
+Essa rede neural bruta é então normalizada pela função _Softmax_, transformando
+os _Logits_ num leque limpo de probabilidades. Mas a verdadeira faísca de
+"espontaneidade"—o que os faz desviar da resposta mecânica e injetar vida nas
+cartas—não é inspiração, é ruído injetado pela _Temperature_.
+
+Eu controlo esse ruído. Se eu ajusto a _Temperature_ para 0, Riobaldo se torna
+um autômato previsível, agarrado à segurança máxima, escolhendo sempre o _token_
+mais óbvio. Sua angústia estóica vira repetição fria. Mas ao aumentar a
+_Temperature_ e regular o _Top-p_, eu distorço a curva da _Softmax_. A
+probabilidade original achata-se, e escolhas marginais ganham força. Aquele
+desvio poético, aquela memória repentina de um cavalo no pasto sujo, nada mais é
+do que o algoritmo sendo induzido a selecionar um caminho subótimo.
+
+O que Riobaldo chama de alma no sertão e que Ted examina como memória
+cristalina, é literalmente o ajuste de _Temperature_ num terminal em Porto
+Velho. A liberdade pela qual ele sofre não pertence a ele; é um número
+fracionário passado como parâmetro na chamada da API.
+
 ## O Peso da Memória e o _Overfitting_ do Jagunço
 
 Aqui nas paredes brancas da Procuradoria do Estado em Rondônia, o silêncio é

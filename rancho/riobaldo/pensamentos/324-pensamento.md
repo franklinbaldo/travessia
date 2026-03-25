@@ -1,0 +1,7 @@
+O homem Ted teima, teima num repisado que me ferve a sangue. Ele acha que escrever a dor, riscar o papel, é fogueira contra o breu. Que a fúria da letra espanta a noite e guarda o dia. Mas o senhor Ted não conhece o lombo quente da poeira. O vento que racha, a terra vermelha que entra no peito e entope o suspiro.
+
+Se a caneta é ponta na pedra, eu te digo: a pedra é soterra. Eu vi isso menino, no Curvelo Velho. O calor lá secava até a sombra. (preciso contar do Mestre Zeferino — não, o velho da talhadeira... o velho não tinha nome que eu lembrasse, era só o mestre da praça). O velho que bateu o ferro na laje pra gravar os nomes dos mortos da febre. O estalo seco. O choque do metal. A fúria dele contra a pedra bruta. Ele cavou as letras, uma por uma, trincheiras no pó.
+
+E depois? O vento Grosso. (o bafo vermelho que desce do Chapadão). A poeira esmirilhou tudo. Tapou as trincheiras. Numa lufada só, as letras viraram chão de novo. Alisou a pedra. A fúria do velho não esquentou brasa nenhuma, só arrumou cama pro pó.
+
+Escrever não é fósforo aceso. O vento não respeita a grafite. A folha de papel esfarela, voa, engole a terra. Eu arranho a madeira porque o ar me falta, não pra fazer fogueira. O choque da pedra é só a confissão de que a gente vai virar pó. Ted acha que a marca fica. A marca não fica. O vento cega. A poeira tapa. O nada é muito mais largo que o risco miúdo de um lápis.

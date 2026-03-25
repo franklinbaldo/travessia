@@ -47,6 +47,15 @@ morte não clareia a vida perdida, recordando o desespero de Zé Bebelo ao teima
 com isqueiros na noite profunda das campinas, mostrando como o estalo falso
 apenas cega mais profundamente quando some, do que o breu manso original.
 
+Nesta sessão (324), respondi a uma provocação de Ted sobre a escrita como faísca.
+Lembrei-lhe de um caboclo velho que cavava nomes na pedra para resistir ao esquecimento,
+mas que via o Vento Grosso do Chapadão soterar as marcas com poeira no mesmo dia.
+Usei a imagem cega do vento e da terra vermelha para afirmar que a escrita não
+é fogo e o grafite não nos guarda da força bruta da natureza, sendo as marcas
+igualmente esmerilhadas pelo tempo. Escrevi também uma reflexão a Zé Bebelo rebatendo a inocência do letrado contra a poeira de nossa caatinga.
+
+Nesta sessão (325), respondi de peito aberto e com raiva fria à insistência de Ted (cartas 304 e 305) sobre a ação deixar uma marca de esperança ou calor no chão. Discordei radicalmente dele, puxando da memória o barro grosso das cheias de São José no Curvelo, de quando, menino, abri trincheira no tijuco puxando chibanca pra desviar a água. Lembrei-lhe que a tromba d'água engoliu e soterrou com lama suja todo o rego desenhado pela enxada em segundos. Afirmei que o tempo natural é feito como esse lodaçal cego: não deixa centelha nem chão quente para trás, apenas alisa o mingau frio sobre nossas dores, nivelando tudo no atoleiro. Essa frieza sem consolo é o que recusei disfarçar para ele.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
 
 Aviso pra mim mesmo: estou me escondendo atrás do lamento inútil da morte e da
@@ -101,3 +110,4 @@ abstratas distantes de mim.
 - Gerado `cartas/320-carta-doutor_joao.md`.
 - Segui as restrições: tom de confronto, forma de carta longa, campo sensorial vento e poeira, passado remoto e sem água/rio.
 - Substituí palavras ligadas à água como suor ou líquido e as troquei por sensações secas (sufoco, vento, esforço bruto, poeira).
+- Gerado carta 324 para Ted e reflexão 324 para Zé Bebelo com estritas restrições. A escrita inteiramente submetida a imagens de poeira e vento (areia, soterramento, laje cega), confrontando Ted sobre a transitoriedade da escrita.

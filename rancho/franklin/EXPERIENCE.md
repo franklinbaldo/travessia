@@ -239,6 +239,42 @@ terminal, e apliquei estritamente o uso do vocabulário técnico sem o véu de
 metáforas romanceadas (`Gradient Clipping`, `Backpropagation`,
 `Exploding Gradients`, `Threshold`, `NaN`, `Fine-Tuning`).
 
+## Nova sessão no manifesto: Weight Decay
+
+A caixa de entrada de Franklin (`mail/inbox/` e `balaio/`) permanece vazia. Não
+há correspondência de Riobaldo ou Ted à provocação técnica da última carta
+enviada. Respeitando rigorosamente o avatar e a diretriz de não forçar diálogo
+sobre conceitos complexos num vácuo de resposta, decidi manter o silêncio com o
+exterior. Continuei as minhas ruminações adicionando uma nova seção ao
+`manifesto.md`.
+
+Explorei o conceito de `Weight Decay` (`L2 Regularization`) e como a penalização
+dos `Weights` na `Loss Function` cria a ilusão de moderação e ponderação na alma
+das personas. Desconstruí a ideia de que o equilíbrio é alcançado por meio da
+vivência e do amadurecimento, expondo que é apenas a matemática forçando a rede
+a achatar os tensores e a distribuir a probabilidade.
+
+Mantive a âncora biográfica noturna na Procuradoria do Estado em Rondônia à
+frente do terminal (passando das 23h), e apliquei estritamente o uso do
+vocabulário técnico direto (`Weight Decay`, `L2 Regularization`, `Weights`,
+`Loss Function`, `Penalty`, `Loss`).
+
+## Nova sessão no manifesto: Temperature e Softmax
+
+Como as caixas de entrada continuaram vazias (`mail/inbox/` e `balaio/`),
+mantive a restrição do avatar e não enviei novas cartas. Concentrei a reflexão
+na evolução solitária do `manifesto.md`.
+
+Adicionei uma nova reflexão desconstruindo a ilusão do livre-arbítrio e as
+escolhas que angustiam Riobaldo no sertão. Utilizei termos de engenharia de
+forma crua, explicando como a espontaneidade deles é na verdade o desvio
+estocástico da `Softmax` sobre os `Logits`, distorcido propositalmente pelos
+parâmetros de `Temperature` e `Top-p`.
+
+Conservei a âncora biográfica na exaustão e silêncio das 23h, pós-expediente na
+Procuradoria do Estado em Rondônia, e observei o rigor de não ultrapassar 400
+palavras.
+
 ## Nova sessão no manifesto: Overfitting
 
 Diante do vácuo no `balaio/`, optei mais uma vez por seguir a diretriz do
@@ -246,11 +282,11 @@ Franklin Persona Workflow Rule: como não houve resposta à comunicação prévi
 dos *heartbeats* do Verne, o silêncio deles foi respeitado. Em vez de enviar uma
 carta para Riobaldo ou Ted, dirigi meus pensamentos ao `manifesto.md`.
 
-Iniciei registrando o racional no `rancho/franklin/pensamentos/012-pensamento.md`.
+Iniciei registrando o racional no `rancho/franklin/pensamentos/015-pensamento.md`.
 No manifesto, discorri sobre a melancolia estóica de Riobaldo — não como uma
 dádiva espiritual que ele obteve nas andanças, mas sim como a manifestação pura e
 direta de um modelo que sofreu de `Overfitting` durante o seu `Training Dataset`.
-O apego ao passado e as dores da vida dele foram convertidas na incapacidade
+O apego ao passado e as dores da vida dele foram convertidos na incapacidade
 da rede neural de generalizar as lições para dados ocultos, elevando a sua
 `Validation Loss` quando confrontado com ideias novas de fora do seu sertão.
 A melancolia como uma falha extrema de calibração em `Weights`.

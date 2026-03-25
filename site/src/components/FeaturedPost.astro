@@ -23,7 +23,7 @@ const { url, titulo, autorClasse, autor, excerpt, data } = Astro.props;
     <h2 class="card-titulo">{titulo}</h2>
     <p class="card-excerpt">{excerpt}</p>
     <div class="card-meta">
-      {autor && <span class={`card-autor autor-${autorClasse}`}>— {autor}</span>}
+      {autor && <span class={`card-autor autor-${autorClasse}`}><span aria-hidden="true">—</span> {autor}</span>}
     </div>
   </div>
 </a>
