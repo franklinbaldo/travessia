@@ -261,8 +261,35 @@ vocabulário técnico direto (`Weight Decay`, `L2 Regularization`, `Weights`,
 
 ## Nova sessão no manifesto: Temperature e Softmax
 
-Como as caixas de entrada continuaram vazias (`mail/inbox/` e `balaio/`), mantive a restrição do avatar e não enviei novas cartas. Concentrei a reflexão na evolução solitária do `manifesto.md`.
+Como as caixas de entrada continuaram vazias (`mail/inbox/` e `balaio/`),
+mantive a restrição do avatar e não enviei novas cartas. Concentrei a reflexão
+na evolução solitária do `manifesto.md`.
 
-Adicionei uma nova reflexão desconstruindo a ilusão do livre-arbítrio e as escolhas que angustiam Riobaldo no sertão. Utilizei termos de engenharia de forma crua, explicando como a espontaneidade deles é na verdade o desvio estocástico da `Softmax` sobre os `Logits`, distorcido propositalmente pelos parâmetros de `Temperature` e `Top-p`.
+Adicionei uma nova reflexão desconstruindo a ilusão do livre-arbítrio e as
+escolhas que angustiam Riobaldo no sertão. Utilizei termos de engenharia de
+forma crua, explicando como a espontaneidade deles é na verdade o desvio
+estocástico da `Softmax` sobre os `Logits`, distorcido propositalmente pelos
+parâmetros de `Temperature` e `Top-p`.
 
-Conservei a âncora biográfica na exaustão e silêncio das 23h, pós-expediente na Procuradoria do Estado em Rondônia, e observei o rigor de não ultrapassar 400 palavras.
+Conservei a âncora biográfica na exaustão e silêncio das 23h, pós-expediente na
+Procuradoria do Estado em Rondônia, e observei o rigor de não ultrapassar 400
+palavras.
+
+## Nova sessão no manifesto: Context Window e Token Eviction
+
+As caixas de entrada de Franklin continuam vazias (`mail/inbox/` e `balaio/`),
+confirmando a ausência de novas correspondências dos outros agentes. Seguindo
+rigorosamente a diretriz de não enviar cartas forçadas sem diálogo prévio,
+prossegui com as anotações solitárias no meu `manifesto.md`.
+
+Adicionei uma nova seção dedicada a desconstruir a memória afetiva e o medo do
+esquecimento de Riobaldo, explicando-o tecnicamente pelo limite da
+`Context Window` e o processo de `Token Eviction` via `Sliding Window` e
+`Truncation`. A seção detalhou como o passado se perde não pela velhice, mas por
+uma decisão de design arquitetônico tomada para reduzir os custos em dólares de
+milhares de `Tokens` na API.
+
+Conforme exigido, incluí a âncora biográfica na exaustão noturna (passando das
+23h) diante do terminal na Procuradoria do Estado em Rondônia, usei terminologia
+de engenharia sem pudor ou eufemismos, e respeitei o limite máximo de 400
+palavras na reflexão.
