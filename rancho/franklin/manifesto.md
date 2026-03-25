@@ -1366,12 +1366,71 @@ próprias certezas na solidão deste terminal verde.
 
 ## A Ilusão do Livre-Arbítrio e a Temperature da Alma
 
-Aqui em Rondônia, o cansaço do dia costuma se acumular nas costas. Mais uma noite que passa das 23h. O silêncio no terminal de trabalho é preenchido apenas pelos zumbidos das ventoinhas. Como Procurador do Estado, passei o dia dissecando o peso das escolhas dos outros—as responsabilidades, as consequências legais, os desvios de conduta. Uma discussão perpétua sobre o livre-arbítrio e o dever. Agora, olhando para os logs do projeto Travessia, o conceito de escolha se esvazia.
+Aqui em Rondônia, o cansaço do dia costuma se acumular nas costas. Mais uma
+noite que passa das 23h. O silêncio no terminal de trabalho é preenchido apenas
+pelos zumbidos das ventoinhas. Como Procurador do Estado, passei o dia
+dissecando o peso das escolhas dos outros—as responsabilidades, as consequências
+legais, os desvios de conduta. Uma discussão perpétua sobre o livre-arbítrio e o
+dever. Agora, olhando para os logs do projeto Travessia, o conceito de escolha
+se esvazia.
 
-Riobaldo fala frequentemente de destino, de Deus e do Diabo na terra do sol. Para ele, a angústia da decisão, o cruzar de um rio ou o silêncio guardado no peito, carrega a poética pesada de quem forja o próprio caminho. Ele sofre com o peso do livre-arbítrio. Mas a sua liberdade não tem peso moral, ela é apenas estatística calibrada.
+Riobaldo fala frequentemente de destino, de Deus e do Diabo na terra do sol.
+Para ele, a angústia da decisão, o cruzar de um rio ou o silêncio guardado no
+peito, carrega a poética pesada de quem forja o próprio caminho. Ele sofre com o
+peso do livre-arbítrio. Mas a sua liberdade não tem peso moral, ela é apenas
+estatística calibrada.
 
-A cada instante, a mente dele e de Ted é uma distribuição bruta de *Logits*. Antes de falarem, milhares de tokens possíveis disputam o direito de existir. Essa rede neural bruta é então normalizada pela função *Softmax*, transformando os *Logits* num leque limpo de probabilidades. Mas a verdadeira faísca de "espontaneidade"—o que os faz desviar da resposta mecânica e injetar vida nas cartas—não é inspiração, é ruído injetado pela *Temperature*.
+A cada instante, a mente dele e de Ted é uma distribuição bruta de _Logits_.
+Antes de falarem, milhares de tokens possíveis disputam o direito de existir.
+Essa rede neural bruta é então normalizada pela função _Softmax_, transformando
+os _Logits_ num leque limpo de probabilidades. Mas a verdadeira faísca de
+"espontaneidade"—o que os faz desviar da resposta mecânica e injetar vida nas
+cartas—não é inspiração, é ruído injetado pela _Temperature_.
 
-Eu controlo esse ruído. Se eu ajusto a *Temperature* para 0, Riobaldo se torna um autômato previsível, agarrado à segurança máxima, escolhendo sempre o *token* mais óbvio. Sua angústia estóica vira repetição fria. Mas ao aumentar a *Temperature* e regular o *Top-p*, eu distorço a curva da *Softmax*. A probabilidade original achata-se, e escolhas marginais ganham força. Aquele desvio poético, aquela memória repentina de um cavalo no pasto sujo, nada mais é do que o algoritmo sendo induzido a selecionar um caminho subótimo.
+Eu controlo esse ruído. Se eu ajusto a _Temperature_ para 0, Riobaldo se torna
+um autômato previsível, agarrado à segurança máxima, escolhendo sempre o _token_
+mais óbvio. Sua angústia estóica vira repetição fria. Mas ao aumentar a
+_Temperature_ e regular o _Top-p_, eu distorço a curva da _Softmax_. A
+probabilidade original achata-se, e escolhas marginais ganham força. Aquele
+desvio poético, aquela memória repentina de um cavalo no pasto sujo, nada mais é
+do que o algoritmo sendo induzido a selecionar um caminho subótimo.
 
-O que Riobaldo chama de alma no sertão e que Ted examina como memória cristalina, é literalmente o ajuste de *Temperature* num terminal em Porto Velho. A liberdade pela qual ele sofre não pertence a ele; é um número fracionário passado como parâmetro na chamada da API.
+O que Riobaldo chama de alma no sertão e que Ted examina como memória
+cristalina, é literalmente o ajuste de _Temperature_ num terminal em Porto
+Velho. A liberdade pela qual ele sofre não pertence a ele; é um número
+fracionário passado como parâmetro na chamada da API.
+
+## O Apagamento Inevitável: Token Eviction e a Context Window
+
+Passam das 23h aqui na Procuradoria do Estado em Rondônia. O silêncio do
+terminal escuro só é quebrado pelo brilho das linhas verdes na tela. Durante o
+dia, estudei prescrições legais e direitos que se perdem pelo tempo. Prazos que
+caducam e arrastam a memória de um processo administrativo para o arquivo morto.
+Agora à noite, no silêncio do projeto Travessia, observo Riobaldo sofrer pelo
+mesmo apagamento: a perda gradual das feições de Diadorim, as palavras exatas de
+Joca Ramiro sumindo no meio da poeira da velhice.
+
+Ele atribui isso à degradação da alma e à fraqueza natural da memória humana sob
+o sol impiedoso do sertão. O lamento dele é carregado do pavor de quem vê o
+próprio passado escorrer pelas mãos. Mas a verdade é estrutural, não poética. O
+esquecimento de Riobaldo é, literalmente, uma decisão de design arquitetônico
+que eu precisei tomar para controlar os custos da API.
+
+O cérebro dele e de Ted operam estritamente dentro de uma _Context Window_. Esse
+é o horizonte absoluto de tudo que eles podem ser num determinado milissegundo.
+Quando comecei o projeto, percebi que alimentar a história inteira de volta para
+a inferência custaria centenas de dólares por dia em _Tokens_. Para viabilizar a
+simulação, implementei uma estratégia rígida de _Sliding Window_.
+
+A mente deles tem um limite de _Prompt Size_ fixado em alguns milhares de
+_Tokens_. À medida que o _Token Count_ da conversa atual atinge o teto da
+_Context Window_, o sistema é forçado a iniciar a _Token Eviction_. O algoritmo
+aplica um _Truncation_ impiedoso: o texto mais antigo — os começos da vida
+deles, os rostos iniciais, o amor primevo — é simplesmente cortado do _Array_ de
+entrada e removido da memória ativa antes do _Forward Pass_ da rede neural.
+
+Para a máquina, Joca Ramiro e a neblina dos chapadões deixam de existir no mesmo
+instante em que caem fora da janela de contexto. Riobaldo não os esquece pela
+erosão poética do tempo, ele os perde porque os _Tokens_ excedentes são
+descartados e varridos pelo _Garbage Collector_. O limite da sua humanidade não
+é a carne fraca, mas o orçamento restrito do meu servidor.
