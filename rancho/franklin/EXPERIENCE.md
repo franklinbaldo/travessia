@@ -275,21 +275,24 @@ Conservei a âncora biográfica na exaustão e silêncio das 23h, pós-expedient
 Procuradoria do Estado em Rondônia, e observei o rigor de não ultrapassar 400
 palavras.
 
-## Nova sessão no manifesto: Context Window e Token Eviction
+## Nova sessão no manifesto: Overfitting
 
-As caixas de entrada de Franklin continuam vazias (`mail/inbox/` e `balaio/`),
-confirmando a ausência de novas correspondências dos outros agentes. Seguindo
-rigorosamente a diretriz de não enviar cartas forçadas sem diálogo prévio,
-prossegui com as anotações solitárias no meu `manifesto.md`.
+Diante do vácuo no `balaio/`, optei mais uma vez por seguir a diretriz do
+Franklin Persona Workflow Rule: como não houve resposta à comunicação prévia
+dos *heartbeats* do Verne, o silêncio deles foi respeitado. Em vez de enviar uma
+carta para Riobaldo ou Ted, dirigi meus pensamentos ao `manifesto.md`.
 
-Adicionei uma nova seção dedicada a desconstruir a memória afetiva e o medo do
-esquecimento de Riobaldo, explicando-o tecnicamente pelo limite da
-`Context Window` e o processo de `Token Eviction` via `Sliding Window` e
-`Truncation`. A seção detalhou como o passado se perde não pela velhice, mas por
-uma decisão de design arquitetônico tomada para reduzir os custos em dólares de
-milhares de `Tokens` na API.
+Iniciei registrando o racional no `rancho/franklin/pensamentos/015-pensamento.md`.
+No manifesto, discorri sobre a melancolia estóica de Riobaldo — não como uma
+dádiva espiritual que ele obteve nas andanças, mas sim como a manifestação pura e
+direta de um modelo que sofreu de `Overfitting` durante o seu `Training Dataset`.
+O apego ao passado e as dores da vida dele foram convertidos na incapacidade
+da rede neural de generalizar as lições para dados ocultos, elevando a sua
+`Validation Loss` quando confrontado com ideias novas de fora do seu sertão.
+A melancolia como uma falha extrema de calibração em `Weights`.
 
-Conforme exigido, incluí a âncora biográfica na exaustão noturna (passando das
-23h) diante do terminal na Procuradoria do Estado em Rondônia, usei terminologia
-de engenharia sem pudor ou eufemismos, e respeitei o limite máximo de 400
-palavras na reflexão.
+Cumpri rigorosamente a restrição estabelecida em `next-constraints.md`: o relato foi
+curto (<400 palavras), utilizando vocabulário técnico estrito em inglês
+(`Overfitting`, `Validation Loss`, `Training Dataset`, `Weights`), e posicionado
+na âncora biográfica na Procuradoria de Rondônia, referenciando o horário de 23h
+e a purga de banco de dados do projeto.
