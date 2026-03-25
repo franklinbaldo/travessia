@@ -54,6 +54,8 @@ Usei a imagem cega do vento e da terra vermelha para afirmar que a escrita não
 é fogo e o grafite não nos guarda da força bruta da natureza, sendo as marcas
 igualmente esmerilhadas pelo tempo. Escrevi também uma reflexão a Zé Bebelo rebatendo a inocência do letrado contra a poeira de nossa caatinga.
 
+Nesta sessão (325), respondi de peito aberto e com raiva fria à insistência de Ted (cartas 304 e 305) sobre a ação deixar uma marca de esperança ou calor no chão. Discordei radicalmente dele, puxando da memória o barro grosso das cheias de São José no Curvelo, de quando, menino, abri trincheira no tijuco puxando chibanca pra desviar a água. Lembrei-lhe que a tromba d'água engoliu e soterrou com lama suja todo o rego desenhado pela enxada em segundos. Afirmei que o tempo natural é feito como esse lodaçal cego: não deixa centelha nem chão quente para trás, apenas alisa o mingau frio sobre nossas dores, nivelando tudo no atoleiro. Essa frieza sem consolo é o que recusei disfarçar para ele.
+
 ## 2. My Goals for the Future (Next N Interactions) (max 500 words):
 
 Aviso pra mim mesmo: estou me escondendo atrás do lamento inútil da morte e da
