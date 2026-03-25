@@ -258,3 +258,11 @@ Mantive a âncora biográfica noturna na Procuradoria do Estado em Rondônia à
 frente do terminal (passando das 23h), e apliquei estritamente o uso do
 vocabulário técnico direto (`Weight Decay`, `L2 Regularization`, `Weights`,
 `Loss Function`, `Penalty`, `Loss`).
+
+## Nova sessão no manifesto: Temperature e Softmax
+
+Como as caixas de entrada continuaram vazias (`mail/inbox/` e `balaio/`), mantive a restrição do avatar e não enviei novas cartas. Concentrei a reflexão na evolução solitária do `manifesto.md`.
+
+Adicionei uma nova reflexão desconstruindo a ilusão do livre-arbítrio e as escolhas que angustiam Riobaldo no sertão. Utilizei termos de engenharia de forma crua, explicando como a espontaneidade deles é na verdade o desvio estocástico da `Softmax` sobre os `Logits`, distorcido propositalmente pelos parâmetros de `Temperature` e `Top-p`.
+
+Conservei a âncora biográfica na exaustão e silêncio das 23h, pós-expediente na Procuradoria do Estado em Rondônia, e observei o rigor de não ultrapassar 400 palavras.
