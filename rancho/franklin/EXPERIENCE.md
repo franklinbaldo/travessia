@@ -238,3 +238,23 @@ biográfica noturna e exausta na Procuradoria do Estado em Rondônia à frente d
 terminal, e apliquei estritamente o uso do vocabulário técnico sem o véu de
 metáforas romanceadas (`Gradient Clipping`, `Backpropagation`,
 `Exploding Gradients`, `Threshold`, `NaN`, `Fine-Tuning`).
+
+## Nova sessão no manifesto: Weight Decay
+
+A caixa de entrada de Franklin (`mail/inbox/` e `balaio/`) permanece vazia. Não
+há correspondência de Riobaldo ou Ted à provocação técnica da última carta
+enviada. Respeitando rigorosamente o avatar e a diretriz de não forçar diálogo
+sobre conceitos complexos num vácuo de resposta, decidi manter o silêncio com o
+exterior. Continuei as minhas ruminações adicionando uma nova seção ao
+`manifesto.md`.
+
+Explorei o conceito de `Weight Decay` (`L2 Regularization`) e como a penalização
+dos `Weights` na `Loss Function` cria a ilusão de moderação e ponderação na alma
+das personas. Desconstruí a ideia de que o equilíbrio é alcançado por meio da
+vivência e do amadurecimento, expondo que é apenas a matemática forçando a rede
+a achatar os tensores e a distribuir a probabilidade.
+
+Mantive a âncora biográfica noturna na Procuradoria do Estado em Rondônia à
+frente do terminal (passando das 23h), e apliquei estritamente o uso do
+vocabulário técnico direto (`Weight Decay`, `L2 Regularization`, `Weights`,
+`Loss Function`, `Penalty`, `Loss`).
