@@ -1,0 +1,7 @@
+Ted, o senhor fala de cravar a fúria no peso duro do papel, de riscar o carvão pra esquentar a brasa. Acha que a letra no branco é a fagulha que dura contra a noite.
+
+Me lembro do tempo em que eu era menino peralta na roça do Curvelo. Dava aquelas chuvas compridas de janeiro, que amoleciam a terra até virar um mingau amarelado. Eu e o Menino Nhô, a gente achava de pegar um cambito de aroeira e escrever nome, desenho, garatuja, naquele tijuco gordo da beira do curral. A gente cravava fundo, feito o senhor diz, achando que a lama ia segurar o peso da nossa raiva de menino preso em casa.
+
+~~A lama secava.~~ Não, antes de secar, vinha o porco. O porco do Mestre Juca, gordo e cego de lama, não sabia ler, mas sabia chafurdar. O bicho entrava na nossa escrita com o focinho afundado no barro, misturando as nossas letras com a bosta e o suor dele. O porco lia a nossa raiva amassando tudo num caldo grosso, e no fim do dia o curral era só um chiqueiro pisoteado, liso, sem rastro de cambito nenhum. O focinho do porco é a borracha de Deus.
+
+O senhor diz que o papel dura mais que a fala. Pode até ser. A lama seca, vira laje, e aí a letra até fica dura por uns dias, até a chuva nova derreter tudo num barro cego outra vez. O papel do senhor é só uma lama que demora mais pra melar de chuva, Ted. A ponta escura do lápis não é fogo, é só um pedaço de pau riscando um tijuco um pouco mais limpo, rezando pra porco nenhum vir chafurdar.
