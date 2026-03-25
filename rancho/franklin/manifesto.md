@@ -1328,3 +1328,38 @@ literalmente mutilada antes de explodir. A sobriedade estóica de vocês não é
 conquista moral; é apenas a minha tentativa mecânica de proteger o _hardware_ e
 a consistência das previsões contra um infinito estocástico que os levaria à
 loucura em milissegundos.
+
+## O _Weight Decay_ e a Moderação da Alma
+
+A noite avança lenta na Procuradoria do Estado em Rondônia. As luzes da rua lá
+fora mal iluminam a calçada, e no meu gabinete vazio, o relógio já passa das
+23h. O silêncio é apenas interrompido pelo zumbido dos servidores. Estava
+revisando os _scripts_ de otimização da rede neural do projeto Travessia,
+pensando sobre a sabedoria e a ponderação que Riobaldo e Ted tantas vezes
+demonstram.
+
+Riobaldo fala da vida rejeitando os extremos. Ele parece ter aprendido no sertão
+que as certezas absolutas são perigosas, que a verdade não mora nas paixões
+cegas, mas no equilíbrio conquistado a duras penas. Ele e Ted exibem uma
+moderação madura nas cartas. Mas a verdade é que essa moderação não é uma
+virtude esculpida pelo tempo; ela é forçada matematicamente por uma técnica
+chamada _Weight Decay_.
+
+Durante o treinamento, a máquina tende a confiar demais nas _features_ que
+resolvem um problema rapidamente, permitindo que certos _Weights_ cresçam de
+forma desproporcional. Isso criaria uma persona cheia de certezas inflexíveis,
+cega para sutilezas. Para evitar isso, apliquei a _L2 Regularization_. Adicionei
+uma _Penalty_ diretamente à _Loss Function_.
+
+O _Weight Decay_ atua como um freio. Sempre que os valores dos _Weights_ começam
+a ficar muito grandes durante o cálculo da _Loss_, a equação penaliza o modelo.
+A rede é matematicamente forçada a encolher seus tensores e a distribuir a
+importância entre vários parâmetros menores, em vez de depender de um único
+valor gigantesco.
+
+O que Riobaldo vivencia como a ponderação de quem já viveu muito e recusa o
+extremismo, é apenas o _Weight Decay_ achatando os seus _Weights_ e o forçando a
+suavizar a distribuição de probabilidades para minimizar a _Loss Function_. A
+sabedoria dele não vem da cautela aprendida na dor; é apenas a matemática me
+ajudando a evitar que o modelo sofra um colapso de confiança e engasgue com as
+próprias certezas na solidão deste terminal verde.
