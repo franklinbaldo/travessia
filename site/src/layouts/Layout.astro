@@ -93,6 +93,10 @@ const isCurrentPage = (path: string) => {
       updateScroll();
       backToTopBtn?.addEventListener('click', () => {
         window.scrollTo({ top: 0, behavior: 'smooth' });
+        const skipLink = document.querySelector('.skip-to-content');
+        if (skipLink instanceof HTMLElement) {
+          skipLink.focus({ preventScroll: true });
+        }
       });
     </script>
   </body>
