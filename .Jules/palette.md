@@ -101,3 +101,8 @@ meaningless noise from screen readers.
 
 **Learning:** When using a "skip to content" link, placing the `id` and `tabindex="-1"` on the outer `<main>` element fails to provide accessibility benefits if the main navigation (`<nav>`) is also contained within that same `<main>` element. The keyboard focus drops at the top of the `<main>` and immediately continues to tab through the navigation, defeating the skip link's purpose.
 **Action:** Always ensure the target of a "skip to content" link (the element with the matching `id` and `tabindex="-1"`) is placed in the DOM *after* all global navigation elements that are meant to be bypassed, even if this requires wrapping the main content area inside an inner `<div>`.
+
+## 2026-03-29 - Back to Top Focus Management
+
+**Learning:** When using a "Back to Top" button, visually scrolling the page is not enough for keyboard/screen reader users. Their focus remains trapped at the button's location at the bottom of the DOM, meaning their next Tab press will logically continue from the bottom instead of the top.
+**Action:** Always programmatically shift keyboard focus back to the top of the document (e.g., by calling `.focus({ preventScroll: true })` on the 'skip to content' link) whenever a "Back to Top" action is triggered.
