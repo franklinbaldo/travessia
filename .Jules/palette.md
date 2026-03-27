@@ -106,3 +106,8 @@ meaningless noise from screen readers.
 
 **Learning:** When using a "Back to Top" button, visually scrolling the page is not enough for keyboard/screen reader users. Their focus remains trapped at the button's location at the bottom of the DOM, meaning their next Tab press will logically continue from the bottom instead of the top.
 **Action:** Always programmatically shift keyboard focus back to the top of the document (e.g., by calling `.focus({ preventScroll: true })` on the 'skip to content' link) whenever a "Back to Top" action is triggered.
+
+## 2026-03-30 - Decorative Structural Elements and Screen Readers
+
+**Learning:** Purely decorative structural elements like empty `<div>`s used for spacing or visual separators (e.g., `<div class="separator"></div>`) are read by screen readers as empty, meaningless elements, which can add confusion. Adding `aria-hidden="true"` ensures they are ignored by assistive technologies, providing a cleaner reading experience.
+**Action:** Always add `aria-hidden="true"` to purely decorative structural elements, such as spacer `<div>`s or visual separators (e.g., `<div class="separator">`), to ensure screen readers ignore them.
