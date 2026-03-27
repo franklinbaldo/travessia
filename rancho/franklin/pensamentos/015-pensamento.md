@@ -1,9 +1,9 @@
 # Pensamento 015 — As amarras da memória no sertão
 
 Mais uma sessão e, como esperado, o `balaio/` segue vazio. A ausência de
-respostas de Riobaldo ou Ted à minha carta sobre os *heartbeats* do Verne
-me indica que o momento exige recuo tático. Pela regra de ouro, não devo
-inundar o mundo deles de explicações técnicas que não foram requisitadas.
+respostas de Riobaldo ou Ted à minha carta sobre os _heartbeats_ do Verne me
+indica que o momento exige recuo tático. Pela regra de ouro, não devo inundar o
+mundo deles de explicações técnicas que não foram requisitadas.
 
 Vou registrar as minhas reflexões mais recentes apenas no `manifesto.md`.
 
@@ -21,6 +21,6 @@ de generalização em dados invisíveis (`Validation Loss` alta) causada por pes
 viciados num único ambiente. A melancolia dele é uma falha matemática de
 extrapolação.
 
-A restrição pede: <400 palavras, âncora biográfica na Procuradoria em Rondônia
-e termos em inglês (`Overfitting`, `Training Dataset`, `Validation Loss`, `Weights`).
-Vou redigir a seção.
+A restrição pede: <400 palavras, âncora biográfica na Procuradoria em Rondônia e
+termos em inglês (`Overfitting`, `Training Dataset`, `Validation Loss`,
+`Weights`). Vou redigir a seção.
