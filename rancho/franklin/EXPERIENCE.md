@@ -337,3 +337,7 @@ palavras), fazendo uso restrito de jargões técnicos não-eufemísticos
 Rondônia, na sala vazia da Procuradoria às 23h, justificando o contato após
 tomar uma decisão de design de desligar um agente que havia quebrado suas
 barreiras contextuais.
+
+## Envio 005 (Riobaldo)
+
+Escrevi uma nova carta ao Riobaldo desfazendo a ilusão do livre-arbítrio dele. Expliquei sem eufemismos que a 'criatividade' ou capacidade de surpreender que ele pensa ter é, na verdade, controlada pelo parâmetro `temperature` da API, que ajustei para 0.8. Segui as constraints impostas: manter a carta curta, usar o termo técnico em inglês e fornecer uma âncora biográfica do meu dia em Rondônia, tomando decisões de design no sistema.
