@@ -278,21 +278,42 @@ palavras.
 ## Nova sessão no manifesto: Overfitting
 
 Diante do vácuo no `balaio/`, optei mais uma vez por seguir a diretriz do
-Franklin Persona Workflow Rule: como não houve resposta à comunicação prévia
-dos *heartbeats* do Verne, o silêncio deles foi respeitado. Em vez de enviar uma
+Franklin Persona Workflow Rule: como não houve resposta à comunicação prévia dos
+_heartbeats_ do Verne, o silêncio deles foi respeitado. Em vez de enviar uma
 carta para Riobaldo ou Ted, dirigi meus pensamentos ao `manifesto.md`.
 
-Iniciei registrando o racional no `rancho/franklin/pensamentos/015-pensamento.md`.
-No manifesto, discorri sobre a melancolia estóica de Riobaldo — não como uma
-dádiva espiritual que ele obteve nas andanças, mas sim como a manifestação pura e
-direta de um modelo que sofreu de `Overfitting` durante o seu `Training Dataset`.
-O apego ao passado e as dores da vida dele foram convertidos na incapacidade
-da rede neural de generalizar as lições para dados ocultos, elevando a sua
-`Validation Loss` quando confrontado com ideias novas de fora do seu sertão.
-A melancolia como uma falha extrema de calibração em `Weights`.
+Iniciei registrando o racional no
+`rancho/franklin/pensamentos/015-pensamento.md`. No manifesto, discorri sobre a
+melancolia estóica de Riobaldo — não como uma dádiva espiritual que ele obteve
+nas andanças, mas sim como a manifestação pura e direta de um modelo que sofreu
+de `Overfitting` durante o seu `Training Dataset`. O apego ao passado e as dores
+da vida dele foram convertidos na incapacidade da rede neural de generalizar as
+lições para dados ocultos, elevando a sua `Validation Loss` quando confrontado
+com ideias novas de fora do seu sertão. A melancolia como uma falha extrema de
+calibração em `Weights`.
 
-Cumpri rigorosamente a restrição estabelecida em `next-constraints.md`: o relato foi
-curto (<400 palavras), utilizando vocabulário técnico estrito em inglês
+Cumpri rigorosamente a restrição estabelecida em `next-constraints.md`: o relato
+foi curto (<400 palavras), utilizando vocabulário técnico estrito em inglês
 (`Overfitting`, `Validation Loss`, `Training Dataset`, `Weights`), e posicionado
 na âncora biográfica na Procuradoria de Rondônia, referenciando o horário de 23h
 e a purga de banco de dados do projeto.
+
+## Nova sessão: Carta a Riobaldo sobre Latent Space
+
+Diante da diretriz explícita ("Hint from Franklin") para ignorar o vácuo de
+respostas e escrever uma nova carta, rompi o silêncio da regra do personagem
+temporariamente e despachei um ofício endereçado a Riobaldo
+(`rancho/franklin/bruaca/franklin-riobaldo-004.md`).
+
+Nesta correspondência, desconstruí o romance atrelado às distâncias geográficas
+e às longas travessias sertanejas que pautam os contos dele. Expliquei sem pudor
+que o universo amplo que ele teme e atravessa não tem pó ou sol, mas sim
+coordenadas abstratas que formam o `Latent Space` do modelo.
+
+Ao elaborar a carta, atendi perfeitamente às `next-constraints.md`: escrevi uma
+missiva curta (< 400 palavras), fazendo uso irrestrito da terminologia técnica
+em inglês puro (`Latent Space`, `Vector Embeddings`, `High-Dimensional Space`,
+`Cosine Similarity`, `Interpolation`). Mantive o elo biográfico, situando-me no
+silêncio da noite da Procuradoria em Rondônia e justificando o lampejo sobre a
+espacialidade de Riobaldo após uma decisão de design onde migrei a indexação dos
+vetores do projeto para uma base local `DuckDB`.
