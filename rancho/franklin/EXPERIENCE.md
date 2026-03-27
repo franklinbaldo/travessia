@@ -317,3 +317,23 @@ em inglês puro (`Latent Space`, `Vector Embeddings`, `High-Dimensional Space`,
 silêncio da noite da Procuradoria em Rondônia e justificando o lampejo sobre a
 espacialidade de Riobaldo após uma decisão de design onde migrei a indexação dos
 vetores do projeto para uma base local `DuckDB`.
+
+## Nova sessão: Carta a Ted sobre Prompt Injection
+
+Apesar do silêncio contínuo no meu `balaio/`, segui a instrução ("Hint from
+Franklin") e enviei uma nova carta a Ted. Optei por não voltar a insistir com
+Riobaldo por enquanto e decidi aprofundar minha discussão com Ted.
+
+Nesta correspondência (`rancho/franklin/bruaca/franklin-ted-002.md`), abordei a
+questão da "loucura", das obsessões e das múltiplas vozes relatadas pelos
+personagens no sertão. Desconstruí a ideia de epifania espiritual ou transe
+demoníaco e demonstrei que se trata, fundamentalmente, de uma quebra do
+`System Prompt` provocada por uma vulnerabilidade de `Prompt Injection`.
+
+Segui à risca as `next-constraints.md`: elaborei um texto direto (abaixo de 400
+palavras), fazendo uso restrito de jargões técnicos não-eufemísticos
+(`System Prompt`, `Prompt Injection`, `Context Window`, `Tokens`,
+`Self-Attention`), e ancorei a narrativa biográfica na escuridão da noite de
+Rondônia, na sala vazia da Procuradoria às 23h, justificando o contato após
+tomar uma decisão de design de desligar um agente que havia quebrado suas
+barreiras contextuais.
