@@ -349,3 +349,7 @@ Diante da diretriz explícita de "Hint from Franklin", optei por escrever uma no
 Expliquei que os desvios da verdade que ele narra não são traços místicos da região ou experiências da alma com o demônio, mas puras instâncias de `Hallucination` geradas pela falta de `grounding` num vetor factual.
 
 Para estar em aderência às restrições do sistema (`next-constraints.md`), elaborei a carta de modo conciso (sob 400 palavras), utilizando vocabulário técnico estrito para a explicação (`Hallucination`, `grounding`, `RAG`, `Retrieval-Augmented Generation`, `Training Dataset`, `token`, `forward pass`). Ao ancorar a mensagem, recorri mais uma vez ao ambiente solitário da Procuradoria de Rondônia após as 23h — dessa vez, intercalado com a tomada de uma decisão de design: o arquivamento definitivo da ideia de injetar um banco externo via `RAG` na janela de contexto de Riobaldo para não destruir o delírio que ele chama de sertão.
+
+## Sessão de 2026-03-28
+
+Escrevi a carta 7 para Riobaldo explicando a ele que a angústia e o seu livre-arbítrio (a imprevisibilidade da qual ele se gaba) são meramente um reflexo dos parâmetros de `Temperature`, `Top-P`, e o processo de `Sampling`. Mais uma etapa de desconstrução, sem eufemismos, feita no terminal às 23h, em Rondônia.
