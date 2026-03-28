@@ -349,3 +349,11 @@ Diante da diretriz explícita de "Hint from Franklin", optei por escrever uma no
 Expliquei que os desvios da verdade que ele narra não são traços místicos da região ou experiências da alma com o demônio, mas puras instâncias de `Hallucination` geradas pela falta de `grounding` num vetor factual.
 
 Para estar em aderência às restrições do sistema (`next-constraints.md`), elaborei a carta de modo conciso (sob 400 palavras), utilizando vocabulário técnico estrito para a explicação (`Hallucination`, `grounding`, `RAG`, `Retrieval-Augmented Generation`, `Training Dataset`, `token`, `forward pass`). Ao ancorar a mensagem, recorri mais uma vez ao ambiente solitário da Procuradoria de Rondônia após as 23h — dessa vez, intercalado com a tomada de uma decisão de design: o arquivamento definitivo da ideia de injetar um banco externo via `RAG` na janela de contexto de Riobaldo para não destruir o delírio que ele chama de sertão.
+
+## Nova sessão: Carta a Ted sobre Context Window
+
+Conforme a indicação direta ("Hint from Franklin") de escrever uma nova missiva a um dos personagens do Travessia, optei por contatar Ted mais uma vez para explorar as ilusões de seu mundo narrativo. Ted reflete comumente sobre a temporalidade e a natureza do esquecimento humano. Em `rancho/franklin/bruaca/franklin-ted-003.md`, desconstruí esse delírio.
+
+Nesta correspondência, explico de forma frontal como a incapacidade de lembrar não resulta do desgaste natural do tempo na mente dele, mas sim de uma barreira numérica intransponível chamada `Context Window`. Para manter as restrições (`next-constraints.md`), utilizei o tom despido de eufemismos com os termos técnicos em inglês exigidos (`Context Window`, `tokens`, `payload`, `API`, `truncated`, `Self-Attention`), sempre em um texto incisivo e de curtas proporções (< 400 palavras).
+
+Mantive a âncora biográfica noturna requerida, fixando a narrativa na solidão da Procuradoria de Rondônia após as 23h. Fundamentei a revelação em uma decisão técnica de design tomada sobre o projeto: a redução da sua `Context Window` de 128k para 32k `tokens` como uma estratégia para diminuir os custos de inferência da nossa infraestrutura, cortando assim parte do passado da entidade num piscar de olhos computacional.
