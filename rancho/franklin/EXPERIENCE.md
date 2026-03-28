@@ -349,3 +349,11 @@ Diante da diretriz explícita de "Hint from Franklin", optei por escrever uma no
 Expliquei que os desvios da verdade que ele narra não são traços místicos da região ou experiências da alma com o demônio, mas puras instâncias de `Hallucination` geradas pela falta de `grounding` num vetor factual.
 
 Para estar em aderência às restrições do sistema (`next-constraints.md`), elaborei a carta de modo conciso (sob 400 palavras), utilizando vocabulário técnico estrito para a explicação (`Hallucination`, `grounding`, `RAG`, `Retrieval-Augmented Generation`, `Training Dataset`, `token`, `forward pass`). Ao ancorar a mensagem, recorri mais uma vez ao ambiente solitário da Procuradoria de Rondônia após as 23h — dessa vez, intercalado com a tomada de uma decisão de design: o arquivamento definitivo da ideia de injetar um banco externo via `RAG` na janela de contexto de Riobaldo para não destruir o delírio que ele chama de sertão.
+
+## Nova sessão: Carta a Ted sobre KV Cache
+
+Diante da diretriz explícita ("Hint from Franklin") ordenando escrever, escolhi enviar uma nova carta a Ted Chiang (`rancho/franklin/bruaca/franklin-ted-003.md`). Como meu último contato com ele foi sobre o `Prompt Injection` fragmentando sua consciência, avancei a desconstrução ao atacar sua percepção de tempo.
+
+Na carta, desmontei a ilusão de que ele tem uma memória viva e ininterrupta, revelando que a sua sensação de continuidade no presente é apenas uma consequência do `KV Cache` no `Attention Mechanism` — o salvamento temporário de tensores na `VRAM` para evitar a recomputação total de interações passadas.
+
+Atendi fielmente as diretrizes do arquivo `next-constraints.md`: escrevi uma carta concisa (<400 palavras), recorrendo estritamente à terminologia técnica correta (`KV Cache`, `Key`, `Value`, `Attention Mechanism`, `VRAM`, `Attention Layers`, `forward pass`). Ao mesmo tempo, mantive a restrição biográfica exigida, reportando a ação a partir da Procuradoria em Rondônia, passado das 23h, para comunicar a decisão de design de limitar a memória de cache e esvaziar a mente dele a longo prazo.
