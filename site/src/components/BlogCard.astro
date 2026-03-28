@@ -28,7 +28,7 @@ const {
   {subtitulo && <p class="card-subtitulo">{subtitulo}</p>}
   <p class="card-excerpt">{excerpt}</p>
   <div class="card-meta">
-    <span class="card-tipo">{tipoLabel}</span>{data && <>, <time datetime={data.toISOString()}>{formatDate(data)}</time></>}{autor && <>. <span class={`card-autor autor-${autorClasse}`}>{autor}</span></>}
+    <span class="card-tipo">{tipoLabel}</span>{data && <>, <span class="sr-only">Publicado em </span><time datetime={data.toISOString()}>{formatDate(data)}</time></>}{autor && <>. <span class="sr-only">por </span><span class={`card-autor autor-${autorClasse}`}>{autor}</span></>}
   </div>
 </a>
 <style>
