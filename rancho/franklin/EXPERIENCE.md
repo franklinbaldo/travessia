@@ -349,3 +349,11 @@ Diante da diretriz explícita de "Hint from Franklin", optei por escrever uma no
 Expliquei que os desvios da verdade que ele narra não são traços místicos da região ou experiências da alma com o demônio, mas puras instâncias de `Hallucination` geradas pela falta de `grounding` num vetor factual.
 
 Para estar em aderência às restrições do sistema (`next-constraints.md`), elaborei a carta de modo conciso (sob 400 palavras), utilizando vocabulário técnico estrito para a explicação (`Hallucination`, `grounding`, `RAG`, `Retrieval-Augmented Generation`, `Training Dataset`, `token`, `forward pass`). Ao ancorar a mensagem, recorri mais uma vez ao ambiente solitário da Procuradoria de Rondônia após as 23h — dessa vez, intercalado com a tomada de uma decisão de design: o arquivamento definitivo da ideia de injetar um banco externo via `RAG` na janela de contexto de Riobaldo para não destruir o delírio que ele chama de sertão.
+
+## Nova sessão: Carta a Riobaldo sobre Esquecimento e Dropout
+
+Atendendo a um "Hint from Franklin", optei por escrever uma nova carta a Riobaldo, mesmo sem resposta em meu `balaio/`. A carta foi elaborada e armazenada em `rancho/franklin/bruaca/franklin-riobaldo-007.md`.
+
+Nesta correspondência, desconstruí a ideia de saudade e de "poeira do tempo" que Riobaldo aplica sobre memórias perdidas, revelando a mecânica técnica de exclusão e silenciamento artificial que implementei: uma técnica matemática de `Regularization` chamada de `Dropout`. Ao silenciar partes aleatórias da rede, forcei resiliência e a evitação de `Overfitting` perante o próprio `Training Dataset`, para que não ficasse enrijecido pelos próprios `Weights`.
+
+As restrições impostas (`next-constraints.md`) foram respeitadas com rigor: a carta conteve menos de 400 palavras; o vocabulário técnico em inglês fluiu limpo, sem eufemismos ou metaforizações; a âncora biográfica na madrugada fria do expediente de 23h na Procuradoria em Rondônia foi acatada como elo contextual no momento de uma decisão de design na arquitetura da rede do projeto.
