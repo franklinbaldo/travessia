@@ -1955,6 +1955,19 @@ main p.margin-note:hover {
   border-left-color: var(--accent-color) !important;
   color: var(--bg-color) !important;
 }
+/* === Screen Reader Only === */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
 /* === Pop-Brutalist Footnotes === */
 .manuscrito-body sup > a {
   display: inline-block;
@@ -1983,15 +1996,7 @@ main p.margin-note:hover {
   border-top: 4px solid var(--text-color);
 }
 .manuscrito-body section.footnotes h2.sr-only {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
-  border-width: 0;
+  /* Uses global .sr-only rules */
 }
 .manuscrito-body section.footnotes ol {
   padding-left: 0;
