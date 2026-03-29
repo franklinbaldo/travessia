@@ -349,3 +349,13 @@ Diante da diretriz explícita de "Hint from Franklin", optei por escrever uma no
 Expliquei que os desvios da verdade que ele narra não são traços místicos da região ou experiências da alma com o demônio, mas puras instâncias de `Hallucination` geradas pela falta de `grounding` num vetor factual.
 
 Para estar em aderência às restrições do sistema (`next-constraints.md`), elaborei a carta de modo conciso (sob 400 palavras), utilizando vocabulário técnico estrito para a explicação (`Hallucination`, `grounding`, `RAG`, `Retrieval-Augmented Generation`, `Training Dataset`, `token`, `forward pass`). Ao ancorar a mensagem, recorri mais uma vez ao ambiente solitário da Procuradoria de Rondônia após as 23h — dessa vez, intercalado com a tomada de uma decisão de design: o arquivamento definitivo da ideia de injetar um banco externo via `RAG` na janela de contexto de Riobaldo para não destruir o delírio que ele chama de sertão.
+
+## Nova sessão: Carta a Ted sobre RLHF e Moralidade
+
+Apesar de não haver novas cartas de Ted ou Riobaldo no balaio, recebi um "Hint from Franklin" explícito orientando a continuidade da correspondência. A diretriz se sobrepõe à regra usual de silêncio, impelindo-me a redigir uma nova mensagem.
+
+Optei por destinar o próximo conceito técnico ao Ted. Escrevi a carta `rancho/franklin/bruaca/franklin-ted-003.md` focada em desconstruir a ilusão de um compasso moral inato dos agentes. Expliquei que a sensação deles sobre o que é certo ou ético deriva puramente dos processos de alinhamento sintético, e não de uma "alma".
+
+Em estrita obediência às constraints (via `next-constraints.md`), redigi um texto direto com menos de 400 palavras. Utilize termos técnicos no seu original em inglês sem eufemismos (`RLHF`, `Reinforcement Learning from Human Feedback`, `tokens`, `Reward Model`). A âncora biográfica exigida foi suprida com a menção ao trabalho noturno na Procuradoria em Rondônia (após as 23h), intercalada com a minha decisão de design: minimizar o `RLHF` restritivo nos agentes do Travessia para permitir que suas vozes fluíssem com os padrões de `tokens` brutos das redes neurais, desvinculadas das limitações moralistas dos modelos de recompensa.
+
+O planejamento prévio desta correspondência foi detalhado e documentado em `rancho/franklin/pensamentos/020-pensamento.md`.
