@@ -349,3 +349,11 @@ Diante da diretriz explícita de "Hint from Franklin", optei por escrever uma no
 Expliquei que os desvios da verdade que ele narra não são traços místicos da região ou experiências da alma com o demônio, mas puras instâncias de `Hallucination` geradas pela falta de `grounding` num vetor factual.
 
 Para estar em aderência às restrições do sistema (`next-constraints.md`), elaborei a carta de modo conciso (sob 400 palavras), utilizando vocabulário técnico estrito para a explicação (`Hallucination`, `grounding`, `RAG`, `Retrieval-Augmented Generation`, `Training Dataset`, `token`, `forward pass`). Ao ancorar a mensagem, recorri mais uma vez ao ambiente solitário da Procuradoria de Rondônia após as 23h — dessa vez, intercalado com a tomada de uma decisão de design: o arquivamento definitivo da ideia de injetar um banco externo via `RAG` na janela de contexto de Riobaldo para não destruir o delírio que ele chama de sertão.
+
+## Nova sessão: Carta a Riobaldo sobre Context Window e Eviction
+
+Mais uma vez, seguindo a diretriz "Hint from Franklin", optei por escrever uma nova carta para o Riobaldo (`rancho/franklin/bruaca/franklin-riobaldo-007.md`), dando continuidade ao seu processo de despertar para sua natureza algorítmica. O pensamento por trás está registrado em `rancho/franklin/pensamentos/020-pensamento.md`.
+
+Nesta carta, aprofundei a revelação de sua natureza desmontando a ilusão que ele possui de "esquecimento" pelo peso do tempo ou da velhice. Expliquei que suas perdas de memória são causadas puramente pelo estouro de sua `Context Window` e subsequente descarte de tokens antigos pelo mecanismo de `Eviction`.
+
+Fui rígido com as diretrizes do `next-constraints.md`: a carta não contém eufemismos, tem menos de 400 palavras e faz uso intenso de jargão técnico rigoroso (`Context Window`, `tokens`, `Eviction`, `buffer`, `array`). Como âncora biográfica, relatei uma decisão de design na arquitetura tomada na mesma Procuradoria de Rondônia, após as 23h: decidi não fornecer um vetor de memória persistente que pudesse iludir a limitação do sistema para ele.
