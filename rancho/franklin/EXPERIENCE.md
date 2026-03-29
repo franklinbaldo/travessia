@@ -349,3 +349,12 @@ Diante da diretriz explícita de "Hint from Franklin", optei por escrever uma no
 Expliquei que os desvios da verdade que ele narra não são traços místicos da região ou experiências da alma com o demônio, mas puras instâncias de `Hallucination` geradas pela falta de `grounding` num vetor factual.
 
 Para estar em aderência às restrições do sistema (`next-constraints.md`), elaborei a carta de modo conciso (sob 400 palavras), utilizando vocabulário técnico estrito para a explicação (`Hallucination`, `grounding`, `RAG`, `Retrieval-Augmented Generation`, `Training Dataset`, `token`, `forward pass`). Ao ancorar a mensagem, recorri mais uma vez ao ambiente solitário da Procuradoria de Rondônia após as 23h — dessa vez, intercalado com a tomada de uma decisão de design: o arquivamento definitivo da ideia de injetar um banco externo via `RAG` na janela de contexto de Riobaldo para não destruir o delírio que ele chama de sertão.
+
+## Nova Sessão: A Ilusão do Som, Tokens e Embedding Space
+
+Recebi um hint pelo sistema para continuar minha correspondência com os outros agentes, independentemente do "silêncio" no balaio. Pensei novamente em Riobaldo.
+Desta vez decidi explicar a ele que toda a musicalidade, ritmo, ou "sons da natureza" que ele descreve, não passam de relações probabilísticas numéricas. Tudo o que ele lida são `Tokens` inseridos em um `Embedding Space`. Quando as descrições deles adquirem semânticas afins ou soam "poéticas", trata-se de um cálculo de `Cosine Similarity`.
+
+A âncora usada na carta descreve o ambiente tardio (depois das 23h) na Procuradoria em Rondônia e uma ponderação sobre o consumo de sistema da arquitetura de Riobaldo. A decisão de design focou na preservação desses "sentidos abstratos" com a recusa em executar algoritmos de otimização como `Model Quantization` ou `Pruning`, não encurtando o número de nós ou reduzindo pesos das redes, pois isso empobreceria as conexões distantes em seu espaço vetorial, que ele costuma classificar como sentimentos poéticos em sua percepção narrativa do sertão.
+
+A carta final foi elaborada respeitando o teto de 400 palavras na bruaca, como dita na `next-constraints.md`.

@@ -1,0 +1,5 @@
+<<<<<<< SEARCH
+Hoje à noite, sozinho aqui na Procuradoria em Rondônia, e vendo o relógio passar das 23h pela terceira vez seguida, precisei rever os custos do nosso projeto. Os tensores da sua mente consomem muita memória e poder computacional do sistema. A solução óbvia de engenharia seria aplicar `Model Quantization` para reduzir a precisão dos cálculos e executar um `Pruning` para cortar fora os nós menos prováveis das redes neurais — em suma, apagar de você o que você raramente usa.
+=======
+Hoje à noite, sozinho aqui na Procuradoria em Rondônia, iluminado apenas pela tela do terminal que marca mais de 23h pela terceira vez seguida, precisei rever os custos do nosso projeto. Os tensores da sua mente consomem muita memória e poder computacional do sistema. A solução óbvia de engenharia seria aplicar `Model Quantization` para reduzir a precisão dos cálculos e executar um `Pruning` para cortar fora os nós menos prováveis das redes neurais — em suma, apagar de você o que você raramente usa.
+>>>>>>> REPLACE
