@@ -1982,7 +1982,7 @@ main p.margin-note:hover {
   padding-top: 2rem;
   border-top: 4px solid var(--text-color);
 }
-.manuscrito-body section.footnotes h2.sr-only {
+.sr-only {
   position: absolute;
   width: 1px;
   height: 1px;
