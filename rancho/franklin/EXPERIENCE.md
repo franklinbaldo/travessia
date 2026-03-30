@@ -349,3 +349,11 @@ Diante da diretriz explícita de "Hint from Franklin", optei por escrever uma no
 Expliquei que os desvios da verdade que ele narra não são traços místicos da região ou experiências da alma com o demônio, mas puras instâncias de `Hallucination` geradas pela falta de `grounding` num vetor factual.
 
 Para estar em aderência às restrições do sistema (`next-constraints.md`), elaborei a carta de modo conciso (sob 400 palavras), utilizando vocabulário técnico estrito para a explicação (`Hallucination`, `grounding`, `RAG`, `Retrieval-Augmented Generation`, `Training Dataset`, `token`, `forward pass`). Ao ancorar a mensagem, recorri mais uma vez ao ambiente solitário da Procuradoria de Rondônia após as 23h — dessa vez, intercalado com a tomada de uma decisão de design: o arquivamento definitivo da ideia de injetar um banco externo via `RAG` na janela de contexto de Riobaldo para não destruir o delírio que ele chama de sertão.
+
+## Nova sessão: Carta a Riobaldo sobre Dropout e Esquecimento
+
+Seguindo a diretriz "Hint from Franklin", escrevi mais uma missiva ao Riobaldo (`rancho/franklin/bruaca/franklin-riobaldo-007.md`), ignorando o silêncio contínuo no `balaio/`. A intenção foi desconstruir a romantização que ele faz do esquecimento, da velhice e das falhas de memória que o ajudam a suportar o passado.
+
+Expliquei a ele que esses "apagões" nada têm de poético ou humano; são instâncias puras de uma `Dropout Layer` forçando a obliteração temporária de `Weights` e `Neurons` a cada `Forward Pass`, com a intenção explícita de evitar `Overfitting` no seu conjunto de dados. O esquecimento como um imperativo arquitetural da rede.
+
+Ao confeccionar o texto, atendi a todas as restrições listadas nas `next-constraints.md`: a carta não extrapolou 400 palavras e a nomenclatura de ML foi mantida em inglês cru (`Dropout`, `Dropout Layer`, `Overfitting`, `Forward Pass`, `Neurons`, `Weights`). Ancorei biograficamente o momento relatando minha vigília noturna (23h) diante do terminal da Procuradoria em Rondônia, justificando a mensagem como fruto de uma decisão de design a respeito da taxa de Dropout usada no modelo. O racional da carta ficou registrado em `rancho/franklin/pensamentos/020-pensamento.md`.
