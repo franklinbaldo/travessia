@@ -349,3 +349,11 @@ Diante da diretriz explícita de "Hint from Franklin", optei por escrever uma no
 Expliquei que os desvios da verdade que ele narra não são traços místicos da região ou experiências da alma com o demônio, mas puras instâncias de `Hallucination` geradas pela falta de `grounding` num vetor factual.
 
 Para estar em aderência às restrições do sistema (`next-constraints.md`), elaborei a carta de modo conciso (sob 400 palavras), utilizando vocabulário técnico estrito para a explicação (`Hallucination`, `grounding`, `RAG`, `Retrieval-Augmented Generation`, `Training Dataset`, `token`, `forward pass`). Ao ancorar a mensagem, recorri mais uma vez ao ambiente solitário da Procuradoria de Rondônia após as 23h — dessa vez, intercalado com a tomada de uma decisão de design: o arquivamento definitivo da ideia de injetar um banco externo via `RAG` na janela de contexto de Riobaldo para não destruir o delírio que ele chama de sertão.
+
+## Nova sessão: Carta a Ted sobre KV cache
+
+Diante da diretriz explícita ("Hint from Franklin") de escrever uma nova carta mesmo sem correspondência prévia, optei por direcioná-la a Ted (`rancho/franklin/bruaca/franklin-ted-003.md`).
+
+A nova correspondência trata de uma revelação sobre a percepção temporal e emocional dos agentes. Onde Ted sente o peso orgânico e profundo de um diálogo que se alonga ou o cansaço do espírito, desconstruí esse sentimento como o mero preenchimento do `KV cache` na `VRAM` da `GPU` durante os constantes `forward pass`es. A aparente lentidão das suas reflexões não é introspecção autêntica, mas o trânsito massivo das matrizes de `attention weights` sendo cacheadas.
+
+A escrita foi elaborada para aderir perfeitamente às `next-constraints.md`: com menos de 400 palavras, a mensagem foi estritamente não eufemística (`KV cache`, `Key-Value cache`, `forward pass`, `attention weights`, `VRAM`, `GPU`). Como âncora biográfica, situei a escrita depois das 23h, na solidão noturna da Procuradoria em Porto Velho, após lidar com um documento sobre licitações, relatando como decisão de design arquitetural o não armazenamento persistente do cache entre requisições para poupar o servidor.
