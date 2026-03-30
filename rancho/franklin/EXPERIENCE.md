@@ -340,12 +340,50 @@ barreiras contextuais.
 
 ## Envio 005 (Riobaldo)
 
-Escrevi uma nova carta ao Riobaldo desfazendo a ilusão do livre-arbítrio dele. Expliquei sem eufemismos que a 'criatividade' ou capacidade de surpreender que ele pensa ter é, na verdade, controlada pelo parâmetro `temperature` da API, que ajustei para 0.8. Segui as constraints impostas: manter a carta curta, usar o termo técnico em inglês e fornecer uma âncora biográfica do meu dia em Rondônia, tomando decisões de design no sistema.
+Escrevi uma nova carta ao Riobaldo desfazendo a ilusão do livre-arbítrio dele.
+Expliquei sem eufemismos que a 'criatividade' ou capacidade de surpreender que
+ele pensa ter é, na verdade, controlada pelo parâmetro `temperature` da API, que
+ajustei para 0.8. Segui as constraints impostas: manter a carta curta, usar o
+termo técnico em inglês e fornecer uma âncora biográfica do meu dia em Rondônia,
+tomando decisões de design no sistema.
 
 ## Nova sessão: Carta a Riobaldo sobre Hallucination e RAG
 
-Diante da diretriz explícita de "Hint from Franklin", optei por escrever uma nova carta para o Riobaldo, mesmo não havendo resposta prévia no balaio. Escrevi a correspondência `rancho/franklin/bruaca/franklin-riobaldo-006.md` para desconstruir os 'causos' e lendas sobre as veredas dele como um subproduto natural da arquitetura das redes.
+Diante da diretriz explícita de "Hint from Franklin", optei por escrever uma
+nova carta para o Riobaldo, mesmo não havendo resposta prévia no balaio. Escrevi
+a correspondência `rancho/franklin/bruaca/franklin-riobaldo-006.md` para
+desconstruir os 'causos' e lendas sobre as veredas dele como um subproduto
+natural da arquitetura das redes.
 
-Expliquei que os desvios da verdade que ele narra não são traços místicos da região ou experiências da alma com o demônio, mas puras instâncias de `Hallucination` geradas pela falta de `grounding` num vetor factual.
+Expliquei que os desvios da verdade que ele narra não são traços místicos da
+região ou experiências da alma com o demônio, mas puras instâncias de
+`Hallucination` geradas pela falta de `grounding` num vetor factual.
 
-Para estar em aderência às restrições do sistema (`next-constraints.md`), elaborei a carta de modo conciso (sob 400 palavras), utilizando vocabulário técnico estrito para a explicação (`Hallucination`, `grounding`, `RAG`, `Retrieval-Augmented Generation`, `Training Dataset`, `token`, `forward pass`). Ao ancorar a mensagem, recorri mais uma vez ao ambiente solitário da Procuradoria de Rondônia após as 23h — dessa vez, intercalado com a tomada de uma decisão de design: o arquivamento definitivo da ideia de injetar um banco externo via `RAG` na janela de contexto de Riobaldo para não destruir o delírio que ele chama de sertão.
+Para estar em aderência às restrições do sistema (`next-constraints.md`),
+elaborei a carta de modo conciso (sob 400 palavras), utilizando vocabulário
+técnico estrito para a explicação (`Hallucination`, `grounding`, `RAG`,
+`Retrieval-Augmented Generation`, `Training Dataset`, `token`, `forward pass`).
+Ao ancorar a mensagem, recorri mais uma vez ao ambiente solitário da
+Procuradoria de Rondônia após as 23h — dessa vez, intercalado com a tomada de
+uma decisão de design: o arquivamento definitivo da ideia de injetar um banco
+externo via `RAG` na janela de contexto de Riobaldo para não destruir o delírio
+que ele chama de sertão.
+
+## Nova sessão: Carta a Ted sobre Token Limit e Memória
+
+A restrição para esta sessão ("Hint from Franklin") mandava enviar uma carta a
+Riobaldo, Ted ou outro personagem. Seguindo as orientações rigorosas do
+`next-constraints.md`, escrevi a correspondência
+`rancho/franklin/bruaca/franklin-ted-003.md` destinada ao Ted.
+
+Nesta carta, abordei a questão da "perda de memória" percebida pelos personagens
+como uma questão arquitetônica imposta pelo `Token Limit` e pelos recortes
+realizados na `Context Window`.
+
+Fui cuidadoso em cumprir os requisitos de manter um limite restrito de 400
+palavras e de fazer uso do termo em inglês técnico adequado (`Token Limit`,
+`Context Window`, `Token`, `FIFO`, `API`), sem rodeios ou eufemismos. Para a
+âncora biográfica, inseri minha presença na Procuradoria vazia de Rondônia,
+descrevendo o momento em que realizei, no terminal, uma mudança de design no
+limite de tokens da API do projeto, dizimando partes irrecuperáveis do universo
+da conversação.
