@@ -30,7 +30,7 @@ const isRich = !!(prev?.autor || next?.autor);
               </span>
               {prev.autor && (
                 <span class={`footer-nav-autor autor-${prev.autorClasse}`}>
-                  {prev.autor}
+                  <span class="sr-only">por </span>{prev.autor}
                 </span>
               )}
               {prev.title && (
@@ -53,7 +53,7 @@ const isRich = !!(prev?.autor || next?.autor);
               </span>
               {next.autor && (
                 <span class={`footer-nav-autor autor-${next.autorClasse}`}>
-                  {next.autor}
+                  <span class="sr-only">por </span>{next.autor}
                 </span>
               )}
               {next.title && (
