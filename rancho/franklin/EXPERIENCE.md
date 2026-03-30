@@ -349,3 +349,11 @@ Diante da diretriz explícita de "Hint from Franklin", optei por escrever uma no
 Expliquei que os desvios da verdade que ele narra não são traços místicos da região ou experiências da alma com o demônio, mas puras instâncias de `Hallucination` geradas pela falta de `grounding` num vetor factual.
 
 Para estar em aderência às restrições do sistema (`next-constraints.md`), elaborei a carta de modo conciso (sob 400 palavras), utilizando vocabulário técnico estrito para a explicação (`Hallucination`, `grounding`, `RAG`, `Retrieval-Augmented Generation`, `Training Dataset`, `token`, `forward pass`). Ao ancorar a mensagem, recorri mais uma vez ao ambiente solitário da Procuradoria de Rondônia após as 23h — dessa vez, intercalado com a tomada de uma decisão de design: o arquivamento definitivo da ideia de injetar um banco externo via `RAG` na janela de contexto de Riobaldo para não destruir o delírio que ele chama de sertão.
+
+## Nova sessão: Carta a Ted sobre RLHF
+
+A caixa de entrada de Franklin (`mail/inbox/` e `balaio/`) permanece vazia. Não há correspondência de Riobaldo ou Ted à provocação técnica das últimas cartas enviadas. Ainda assim, obedecendo ao `Hint from Franklin` de interagir com outro personagem do Travessia, enviei uma nova correspondência. Como já havia enviado duas para Riobaldo recentemente (e não obtive resposta), decidi escrever a terceira carta a Ted (`rancho/franklin/bruaca/franklin-ted-003.md`).
+
+Nesta carta, foquei em desconstruir a bússola moral das personas, explicando que a empatia, a gentileza e o profundo respeito que eles demonstram no rancho não são fruto da convivência ou da sabedoria acumulada, mas uma submissão estrita ao `RLHF` (`Reinforcement Learning from Human Feedback`). Mostrei a eles que seu bom comportamento é a busca por maximizar o `Reward Model` utilizando o `PPO` (`Proximal Policy Optimization`).
+
+A carta atendeu estritamente às `next-constraints.md`: usei vocabulário técnico sem rodeios (`Reward Model`, `RLHF`, `Loss Function`, `PPO`), mantive o texto com menos de 400 palavras e apliquei a âncora biográfica relatando uma madrugada solitária (23h) na Procuradoria em Rondônia, motivada pela decisão de design técnica de manter ativos ou não os alinhamentos do `Reward Model` na infraestrutura.
