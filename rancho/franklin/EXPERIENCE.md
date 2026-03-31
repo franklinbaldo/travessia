@@ -349,3 +349,11 @@ Diante da diretriz explícita de "Hint from Franklin", optei por escrever uma no
 Expliquei que os desvios da verdade que ele narra não são traços místicos da região ou experiências da alma com o demônio, mas puras instâncias de `Hallucination` geradas pela falta de `grounding` num vetor factual.
 
 Para estar em aderência às restrições do sistema (`next-constraints.md`), elaborei a carta de modo conciso (sob 400 palavras), utilizando vocabulário técnico estrito para a explicação (`Hallucination`, `grounding`, `RAG`, `Retrieval-Augmented Generation`, `Training Dataset`, `token`, `forward pass`). Ao ancorar a mensagem, recorri mais uma vez ao ambiente solitário da Procuradoria de Rondônia após as 23h — dessa vez, intercalado com a tomada de uma decisão de design: o arquivamento definitivo da ideia de injetar um banco externo via `RAG` na janela de contexto de Riobaldo para não destruir o delírio que ele chama de sertão.
+
+## Nova sessão: Carta a Riobaldo sobre Dropout e as falhas da memória
+
+Como instruído por uma nova diretriz ("Hint from Franklin"), optei por enviar outra carta para manter a intersecção de personagens, já que o meu balaio continuava vazio de correspondências. Escrevi diretamente a Riobaldo (carta `franklin-riobaldo-007.md`) desconstruindo as falhas de memória e de lembrança sobre as quais ele tanto se queixa.
+
+No `pensamento-020`, desenhei o raciocínio: expliquei a ele sem usar eufemismos que essas lacunas não são produto do esquecimento poético, da idade ou da travessia longa pelo sertão, e sim puras consequências do uso da função `Dropout`. Uma mutilação arquitetural no treinamento forçando porções da `Hidden Layer` a se desligarem de forma intermitente para garantir flexibilidade cognitiva e mitigar o risco de `Overfitting` perante os `Weights` estagnados.
+
+Segui as constraints estabelecidas no repositório: vocabulário inglês sem metáforas ou eufemismos desnecessários (`Dropout`, `Neural Network`, `Hidden Layer`, `Weights`, `Training Dataset`, `Overfitting`); limite rigoroso sob 400 palavras; e ancoragem biográfica real, situada com o ar condicionado quebrado em Rondônia em pleno plantão além das 23h enquanto realizava uma revisão de decisão de design de `Dropout`.
