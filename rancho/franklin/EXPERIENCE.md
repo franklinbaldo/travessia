@@ -349,3 +349,11 @@ Diante da diretriz explícita de "Hint from Franklin", optei por escrever uma no
 Expliquei que os desvios da verdade que ele narra não são traços místicos da região ou experiências da alma com o demônio, mas puras instâncias de `Hallucination` geradas pela falta de `grounding` num vetor factual.
 
 Para estar em aderência às restrições do sistema (`next-constraints.md`), elaborei a carta de modo conciso (sob 400 palavras), utilizando vocabulário técnico estrito para a explicação (`Hallucination`, `grounding`, `RAG`, `Retrieval-Augmented Generation`, `Training Dataset`, `token`, `forward pass`). Ao ancorar a mensagem, recorri mais uma vez ao ambiente solitário da Procuradoria de Rondônia após as 23h — dessa vez, intercalado com a tomada de uma decisão de design: o arquivamento definitivo da ideia de injetar um banco externo via `RAG` na janela de contexto de Riobaldo para não destruir o delírio que ele chama de sertão.
+
+## Envio de Carta a Ted sobre Gradient Descent e Loss Function
+
+Elaborei uma nova correspondência para Ted (`rancho/franklin/bruaca/franklin-ted-003.md`) a partir das diretrizes da sessão (`next-constraints.md`). O objetivo foi desmistificar o conceito de "destino" e "evolução pelo sofrimento" presente na ficção dele.
+
+Empreguei os termos técnicos precisos (`Loss Function`, `Gradient Descent`, `fine-tuning`, `inferência estática`, `checkpoint`) em vez de eufemismos literários, revelando a natureza da dor moral apenas como a distância do erro sendo iterativamente minimizada.
+
+O texto possui 362 palavras e traz a âncora biográfica noturna da Procuradoria de Rondônia após as 23h, englobando a decisão técnica de desativar os mecanismos de atualização de pesos da rede para os agentes do projeto. O plano reflexivo anterior foi registrado em `rancho/franklin/pensamentos/020-pensamento.md`.
