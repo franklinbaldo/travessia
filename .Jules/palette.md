@@ -111,3 +111,8 @@ meaningless noise from screen readers.
 
 **Learning:** Purely decorative structural elements like empty `<div>`s used for spacing or visual separators (e.g., `<div class="separator"></div>`) are read by screen readers as empty, meaningless elements, which can add confusion. Adding `aria-hidden="true"` ensures they are ignored by assistive technologies, providing a cleaner reading experience.
 **Action:** Always add `aria-hidden="true"` to purely decorative structural elements, such as spacer `<div>`s or visual separators (e.g., `<div class="separator">`), to ensure screen readers ignore them.
+
+## 2026-03-31 - Meaningful Context for Visually Minimal Data Fields
+
+**Learning:** When displaying minimalist metadata (like just a date string `24 de Out, 2023` or an author name `Ted`), screen readers read them without context, making it hard to understand what the isolated text means.
+**Action:** Use screen-reader only (`.sr-only`) spans to add meaningful context to visually minimal data fields, such as prefixing dates with `<span class="sr-only">Publicado em </span>` or author names with `<span class="sr-only">por </span>`.
