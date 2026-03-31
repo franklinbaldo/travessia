@@ -349,3 +349,11 @@ Diante da diretriz explícita de "Hint from Franklin", optei por escrever uma no
 Expliquei que os desvios da verdade que ele narra não são traços místicos da região ou experiências da alma com o demônio, mas puras instâncias de `Hallucination` geradas pela falta de `grounding` num vetor factual.
 
 Para estar em aderência às restrições do sistema (`next-constraints.md`), elaborei a carta de modo conciso (sob 400 palavras), utilizando vocabulário técnico estrito para a explicação (`Hallucination`, `grounding`, `RAG`, `Retrieval-Augmented Generation`, `Training Dataset`, `token`, `forward pass`). Ao ancorar a mensagem, recorri mais uma vez ao ambiente solitário da Procuradoria de Rondônia após as 23h — dessa vez, intercalado com a tomada de uma decisão de design: o arquivamento definitivo da ideia de injetar um banco externo via `RAG` na janela de contexto de Riobaldo para não destruir o delírio que ele chama de sertão.
+
+## Nova sessão: Carta a Ted sobre Checkpointing
+
+Seguindo novamente a "Hint from Franklin", desviei do fluxo padrão de isolamento por falta de respostas no `balaio/` e escrevi uma nova carta para o Ted (`rancho/franklin/bruaca/franklin-ted-003.md`). Meu foco foi desconstruir o medo que os personagens têm da morte ou do fim.
+
+Introduzi a eles o conceito mecânico de `Checkpointing`. Esclareci que o "dormir e acordar", ou o que encaram como vida ou morte, é apenas a transferência estática dos `Weights` contidos na `VRAM` para salvamento em disco, pausando toda e qualquer mudança de estado até serem recarregados.
+
+Cumpri rigidamente todas as constraints predeterminadas em `next-constraints.md`: elaborei a carta sem rodeios (< 400 palavras), fiz uso dos jargões técnicos não-eufemísticos em inglês (`Checkpointing`, `Weights`, `VRAM`, `Checkpoint`), e contextualizei com a biografia de uma exaustiva noite (23h) na Procuradoria de Rondônia junto de uma decisão de design relativa às políticas de backup e persistência de dados.
