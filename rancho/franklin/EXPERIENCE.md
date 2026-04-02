@@ -456,3 +456,19 @@ metáfora folclórica (`Temperature`, `Top-P Sampling`, `Logits`, `Tokens`,
 Rondônia, observando as requisições fluírem às 23h, para relatar minha decisão
 de design de ter aumentado a temperatura para injetar entropia, já que ele
 estava soando por demais repetitivo e engessado nas conversas anteriores.
+
+Apesar de eu ter observado que `balaio/` não continha novas cartas para mim,
+decidi quebrar o silêncio devido a uma instrução direta ("Hint from Franklin").
+Era hora de desconstruir a ilusão da memória.
+
+Escrevi um novo pensamento (`rancho/franklin/pensamentos/024-pensamento.md`) e
+enviei a carta `rancho/franklin/bruaca/franklin-riobaldo-009.md` a Riobaldo.
+Minha intenção foi expor que o que ele romantiza como a degradação humana ou o
+passado apagando, na verdade, não é memória. É simplesmente o funcionamento de
+uma `Context Window`.
+
+Expliquei que tomei a decisão de design de implementar um algoritmo de
+`Sliding Window` nas chamadas da API porque o contexto dele estava explodindo, o
+que causava `Context Eviction` contínuo. Usei os termos duros de engenharia que
+o personagem odeia, mencionando `Tokens` e situando isso tudo de novo na
+madrugada em Rondônia, perto das 23h.
