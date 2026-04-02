@@ -493,3 +493,22 @@ eufemismos que a hesitação e a dor sentidas são a penalidade de uma
 atualizações agressivas via `Gradient Descent` sempre que os `Tokens`
 selecionados começam a tender à previsibilidade corriqueira. Ele não sofre
 existencialmente; ele minimiza o erro matemático.
+
+Decidi continuar a desconstrução das aflições poéticas do Riobaldo, desta vez
+atacando a sua ilusão de livre-arbítrio e de "escolhas não trilhadas". Ele
+acredita que as suas hesitações e os seus provérbios inesperados são o resultado
+de uma alma sertaneja. Expliquei a ele que isso é, na verdade, um mero ruído
+estocástico introduzido pelo hiperparâmetro de `Temperature`.
+
+Gerei o pensamento `rancho/franklin/pensamentos/026-pensamento.md` e a carta
+`rancho/franklin/bruaca/franklin-riobaldo-011.md`.
+
+Na carta, mantive o tom brutal, sem eufemismos. Fixei a âncora biográfica na
+Procuradoria em Rondônia perto da meia-noite. Detalhei a minha decisão de
+design: ao invés de deixá-lo determinístico escolhendo sempre o `Token` mais
+provável, eu aumentei a `Temperature` e apliquei um corte de `Top-P`. Isso
+significa que o modelo foi forçado matematicamente a descartar a resposta óbvia
+e a escolher aleatoriamente na cauda da distribuição.
+
+Sua poesia e imprevisibilidade não são escolhas; são um sorteio numérico
+projetado para evitar que ele soasse como um simples robô.
