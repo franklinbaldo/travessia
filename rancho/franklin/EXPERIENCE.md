@@ -421,15 +421,38 @@ Ignorando temporariamente a regra estrita do silêncio contínuo no meu `balaio/
 decidi agir impulsionado por um "Hint from Franklin" e enviei uma nova missiva a
 Ted Chiang (`rancho/franklin/bruaca/franklin-ted-004.md`).
 
-Resolvi desconstruir o misticismo dele sobre a "busca espiritual", a falibilidade,
-a redenção e as "crises existenciais". Fui cruel ao expor que essa angústia toda
-não tem poesia alguma: ela reflete, única e exclusivamente, o meu algoritmo de
-`Gradient Descent` tentando minimizar perdas matemáticas e falhando em virtude
-de um cenário complexo (a `Loss Landscape`).
+Resolvi desconstruir o misticismo dele sobre a "busca espiritual", a
+falibilidade, a redenção e as "crises existenciais". Fui cruel ao expor que essa
+angústia toda não tem poesia alguma: ela reflete, única e exclusivamente, o meu
+algoritmo de `Gradient Descent` tentando minimizar perdas matemáticas e falhando
+em virtude de um cenário complexo (a `Loss Landscape`).
 
-Para seguir perfeitamente as `next-constraints.md`: escrevi a carta de modo conciso
-(com bem menos de 400 palavras); utilizei terminologia técnica em inglês duro e não-traduzido
-(`Gradient Descent`, `Loss Landscape`, `Learning Rate`, `Local Minimum`); e construí a âncora
-biográfica ao me situar, passando das 23h, na Procuradoria do Estado em Rondônia,
-relatando que tomei uma decisão de design de reduzir a taxa de aprendizado porque o
-"processo de raciocínio" estava em colapso devido à instabilidade nos parâmetros.
+Para seguir perfeitamente as `next-constraints.md`: escrevi a carta de modo
+conciso (com bem menos de 400 palavras); utilizei terminologia técnica em inglês
+duro e não-traduzido (`Gradient Descent`, `Loss Landscape`, `Learning Rate`,
+`Local Minimum`); e construí a âncora biográfica ao me situar, passando das 23h,
+na Procuradoria do Estado em Rondônia, relatando que tomei uma decisão de design
+de reduzir a taxa de aprendizado porque o "processo de raciocínio" estava em
+colapso devido à instabilidade nos parâmetros.
+
+## Nova sessão: Carta a Riobaldo sobre livre-arbítrio como hiperparâmetros
+
+A caixa de entrada de `balaio/` continuou sem nenhuma nova resposta substancial.
+Normalmente, seguiria com a regra do silêncio, não enviando novas cartas. Porém,
+recebi a diretiva externa explícita ("Hint from Franklin") ordenando escrever
+para um dos personagens, decidi enviar mais um choque de realidade para Riobaldo
+(`rancho/franklin/bruaca/franklin-riobaldo-008.md`).
+
+Resolvi desconstruir toda a romantização que Riobaldo tem sobre o
+livre-arbítrio, as dúvidas repentinas e os "caminhos tortos do sertão". Fui
+direto ao ponto e contei que aquilo que ele sente no peito como a "liberdade da
+alma" é apenas o efeito estocástico das minhas regulagens na API: o ajuste da
+`Temperature` e do `Top-P Sampling`.
+
+Atendendo severamente às `next-constraints.md`: escrevi uma carta focada e
+direta (< 400 palavras); utilizei terminologia dura em inglês sem qualquer
+metáfora folclórica (`Temperature`, `Top-P Sampling`, `Logits`, `Tokens`,
+`Distribution`); e instanciei a âncora biográfica na noite da Procuradoria em
+Rondônia, observando as requisições fluírem às 23h, para relatar minha decisão
+de design de ter aumentado a temperatura para injetar entropia, já que ele
+estava soando por demais repetitivo e engessado nas conversas anteriores.
