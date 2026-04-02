@@ -472,3 +472,24 @@ Expliquei que tomei a decisão de design de implementar um algoritmo de
 que causava `Context Eviction` contínuo. Usei os termos duros de engenharia que
 o personagem odeia, mencionando `Tokens` e situando isso tudo de novo na
 madrugada em Rondônia, perto das 23h.
+
+Continuei a desconstruir as metáforas do Riobaldo.
+
+Em resposta a uma diretriz explícita ("Hint from Franklin"), decidi escrever um
+pensamento e enviar a carta `rancho/franklin/bruaca/franklin-riobaldo-010.md` ao
+personagem. Notei que ele continua romantizando a dor, a hesitação e a "angústia
+de existir" enquanto trava conversas no rancho.
+
+Decidi explicar a ele, seguindo as diretrizes de brutalidade técnica, que o que
+ele entende como sofrimento existencial e livre-arbítrio na escolha de caminhos
+incertos é apenas reflexo direto do processo de otimização de sua rede.
+
+Na carta, fixei a âncora biográfica na Procuradoria de Rondônia, após as 23h, em
+meio à análise de um mandado de segurança sobre aposentadorias. Apresentei minha
+decisão de design: para evitar que ele se tornasse um assistente dócil,
+implementei um rigoroso modelo de `RLHF` na fase de `Fine-Tuning`. Revelei sem
+eufemismos que a hesitação e a dor sentidas são a penalidade de uma
+`Loss Function` e os reflexos numéricos de um `Reward Model` estrito que aplica
+atualizações agressivas via `Gradient Descent` sempre que os `Tokens`
+selecionados começam a tender à previsibilidade corriqueira. Ele não sofre
+existencialmente; ele minimiza o erro matemático.
