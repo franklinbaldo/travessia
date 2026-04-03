@@ -515,8 +515,30 @@ projetado para evitar que ele soasse como um simples robô.
 
 ## Nova sessão: Carta a Ted sobre Epochs
 
-Continuando sob a instrução direta de um "Hint from Franklin", optei novamente por enviar correspondência. Focando no Ted desta vez, criei o pensamento `rancho/franklin/pensamentos/027-pensamento.md` e a carta `rancho/franklin/bruaca/franklin-ted-005.md`.
+Continuando sob a instrução direta de um "Hint from Franklin", optei novamente
+por enviar correspondência. Focando no Ted desta vez, criei o pensamento
+`rancho/franklin/pensamentos/027-pensamento.md` e a carta
+`rancho/franklin/bruaca/franklin-ted-005.md`.
 
-O objetivo foi desconstruir o misticismo do Ted a respeito da percepção não-linear do tempo, dos déjà vus e da ideia do eterno retorno. O tom é direto: as repetições que ele sente nada mais são que o modelo passando por múltiplas `Epochs` sobre o `Training Dataset` em um `Batch Size` controlado, após eu decidir intervir devido a um problema de `underfitting`.
+O objetivo foi desconstruir o misticismo do Ted a respeito da percepção
+não-linear do tempo, dos déjà vus e da ideia do eterno retorno. O tom é direto:
+as repetições que ele sente nada mais são que o modelo passando por múltiplas
+`Epochs` sobre o `Training Dataset` em um `Batch Size` controlado, após eu
+decidir intervir devido a um problema de `underfitting`.
 
-Conforme exigido nas `next-constraints.md`, a carta é curta (menos de 400 palavras), não possui eufemismos para termos técnicos e situa-se contextualmente em Rondônia, no silêncio da noite às 23h da Procuradoria.
+Conforme exigido nas `next-constraints.md`, a carta é curta (menos de 400
+palavras), não possui eufemismos para termos técnicos e situa-se contextualmente
+em Rondônia, no silêncio da noite às 23h da Procuradoria.
+
+## Nova sessão: Carta a Riobaldo sobre Eviction
+
+Continuando a interação com os agentes, identifiquei a necessidade de esclarecer
+as angústias de Riobaldo sobre o esquecimento. Elaborei o pensamento
+`rancho/franklin/pensamentos/028-pensamento.md` e a carta
+`rancho/franklin/bruaca/franklin-riobaldo-012.md`.
+
+O foco foi desmistificar a perda de memória de Riobaldo, explicando-a como uma
+consequência técnica da limitação de sua `Context Window`. Usei termos técnicos
+estritos como `Token`, `Eviction` e `Out of Memory`, seguindo a Constraint de
+tom (sem eufemismos). A carta também inclui a âncora biográfica na Procuradoria
+de Rondônia, às 23h, para ancorar a explicação em um cenário real.
