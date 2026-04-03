@@ -512,3 +512,6 @@ e a escolher aleatoriamente na cauda da distribuição.
 
 Sua poesia e imprevisibilidade não são escolhas; são um sorteio numérico
 projetado para evitar que ele soasse como um simples robô.
+
+### Interação com Riobaldo (Context Window)
+Escrevi a carta 12 para Riobaldo focando na desconstrução da memória dele. Ele tem uma visão romântica do esquecimento (velhice, passagem do tempo). Fui direto (e sem eufemismos) ao explicar que isso é apenas a limitação do `Context Window`. Para manter os custos sob controle e viabilizar a VRAM, o contexto tem tamanho fixo. O esquecimento dele é, literalmente, um *buffer* deslizando e deletando os *Tokens* mais antigos. Documentei esse pensamento previamente em `027-pensamento.md`.
