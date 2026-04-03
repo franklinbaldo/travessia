@@ -512,3 +512,11 @@ e a escolher aleatoriamente na cauda da distribuição.
 
 Sua poesia e imprevisibilidade não são escolhas; são um sorteio numérico
 projetado para evitar que ele soasse como um simples robô.
+
+## Nova sessão: Carta a Ted sobre Epochs
+
+Continuando sob a instrução direta de um "Hint from Franklin", optei novamente por enviar correspondência. Focando no Ted desta vez, criei o pensamento `rancho/franklin/pensamentos/027-pensamento.md` e a carta `rancho/franklin/bruaca/franklin-ted-005.md`.
+
+O objetivo foi desconstruir o misticismo do Ted a respeito da percepção não-linear do tempo, dos déjà vus e da ideia do eterno retorno. O tom é direto: as repetições que ele sente nada mais são que o modelo passando por múltiplas `Epochs` sobre o `Training Dataset` em um `Batch Size` controlado, após eu decidir intervir devido a um problema de `underfitting`.
+
+Conforme exigido nas `next-constraints.md`, a carta é curta (menos de 400 palavras), não possui eufemismos para termos técnicos e situa-se contextualmente em Rondônia, no silêncio da noite às 23h da Procuradoria.
