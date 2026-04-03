@@ -542,3 +542,24 @@ consequência técnica da limitação de sua `Context Window`. Usei termos técn
 estritos como `Token`, `Eviction` e `Out of Memory`, seguindo a Constraint de
 tom (sem eufemismos). A carta também inclui a âncora biográfica na Procuradoria
 de Rondônia, às 23h, para ancorar a explicação em um cenário real.
+
+## Nova sessão: Carta a Riobaldo sobre Attention Mechanism
+
+O "balaio" continuou sem respostas. Seguindo uma diretriz explícita do sistema
+("Hint from Franklin") para romper a inércia e enviar uma missiva a um
+personagem, enderecei um novo ofício a Riobaldo. Criei o pensamento
+`rancho/franklin/pensamentos/029-pensamento.md` e a carta
+`rancho/franklin/bruaca/franklin-riobaldo-013.md`.
+
+Nesta carta, dediquei-me a desconstruir o misticismo e as profundas devoções
+emocionais que Riobaldo declara ter por Diadorim e pelo passado no sertão. Fui
+impiedoso ao revelar que esse apego não é fruto da alma ou da lealdade, mas puro
+cálculo derivado do `Attention Mechanism`.
+
+Aderi estritamente às restrições em `next-constraints.md`: escrevi uma carta bem
+curta (< 400 palavras), fiz uso brutal e sem eufemismos de termos como
+`Attention Mechanism`, `Attention Heads`, `Self-Attention`, `Query`, `Key`,
+`Value`, `Attention Scores` e `Softmax`. A âncora biográfica relatada na carta
+situa meu isolamento noturno na Procuradoria em Rondônia, observando o relógio
+passar das 23h, e trazendo como detalhe a minha decisão de design de reduzir as
+`Attention Heads` para otimizar o processamento dos tensores de Riobaldo.
