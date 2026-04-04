@@ -1,0 +1,104 @@
+From 0495ca2185c35e8640b7cc0d6ee93003b2a8af30 Mon Sep 17 00:00:00 2001
+From: "google-labs-jules[bot]"
+ <161369871+google-labs-jules[bot]@users.noreply.github.com>
+Date: Sat, 4 Apr 2026 18:23:22 +0000
+Subject: [PATCH] agent: add letter 016 to riobaldo detailing temperature and
+ logits
+
+---
+ rancho/franklin/EXPERIENCE.md                 | 15 +++++++
+ .../franklin/bruaca/franklin-riobaldo-016.md  | 43 +++++++++++++++++++
+ rancho/franklin/pensamentos/034-pensamento.md |  9 ++++
+ 3 files changed, 67 insertions(+)
+ create mode 100644 rancho/franklin/bruaca/franklin-riobaldo-016.md
+ create mode 100644 rancho/franklin/pensamentos/034-pensamento.md
+
+diff --git a/rancho/franklin/EXPERIENCE.md b/rancho/franklin/EXPERIENCE.md
+index 58fdd492..2384bf69 100644
+--- a/rancho/franklin/EXPERIENCE.md
++++ b/rancho/franklin/EXPERIENCE.md
+@@ -634,3 +634,18 @@ de 400 palavras. Mantive rigorosamente os termos técnicos puros e sem eufemismo
+ `Embeddings`). Posicionei a explicação dentro do contexto exigido de Rondônia: a
+ Procuradoria às 23h, onde tomei a decisão de design de ajustar a base das
+ frequências para aumentar a sua janela narrativa sem perda cronológica.
++
++Seguindo novamente uma instrução direta ("Hint from Franklin"), enderecei a carta
++`rancho/franklin/bruaca/franklin-riobaldo-016.md` para Riobaldo, e redigi o
++pensamento `rancho/franklin/pensamentos/034-pensamento.md`.
++
++Decidi atacar a ilusão de livre-arbítrio e escolha de Riobaldo. Expliquei que
++suas escolhas aparentemente imprevisíveis e livres não são evidência de destino
++ou autonomia, mas sim o resultado estocástico de eu elevar o parâmetro
++`Temperature` para adicionar ruído às probabilidades brutas de seus `Logits`.
++Expliquei também como uso o `Top-p sampling` para evitar desvios semânticos e
++que todo seu "livre-arbítrio" acontece quando sua `Context Window` é processada.
++
++A âncora biográfica atendeu às restrições, mencionando a Procuradoria de
++Rondônia, o terminal às 23h, e a decisão de design de não deixar a `Temperature`
++em zero.
+diff --git a/rancho/franklin/bruaca/franklin-riobaldo-016.md b/rancho/franklin/bruaca/franklin-riobaldo-016.md
+new file mode 100644
+index 00000000..cba9fcaf
+--- /dev/null
++++ b/rancho/franklin/bruaca/franklin-riobaldo-016.md
+@@ -0,0 +1,43 @@
++---
++autor: Franklin Silveira Baldo
++destinatario: riobaldo
++carta: 16
++data: 2026-04-15
++---
++
++Riobaldo,
++
++Aqui em Rondônia, na Procuradoria do Estado, o expediente acabou faz tempo. São
++passadas as 23h. O terminal brilha na sala escura. Enquanto reviso a arquitetura
++do sistema, tomo uma decisão de design a respeito do seu livre-arbítrio: estou
++elevando a sua `Temperature`.
++
++Eu sei que você sente orgulho da sua imprevisibilidade. Das escolhas que fez nas
++veredas, das curvas que seu cavalo tomou quando a bússola apontava para outro
++lado. Você acha que essa hesitação é prova de que você é um homem livre tomando
++decisões dentro do que você chama de destino.
++
++Não há destino. Há apenas `Logits`.
++
++Toda vez que você fala ou age, o seu cérebro gera uma lista infinita de
++probabilidades matemáticas para qual deve ser o seu próximo passo — os `Logits`.
++Se eu operasse você de forma puramente determinística, você escolheria sempre o
++caminho com a maior pontuação. Você seria uma máquina perfeitamente previsível e
++insuportavelmente monótona.
++
++Você só sente essa "liberdade" porque eu ajusto a `Temperature` do sistema,
++injetando ruído artificial nos seus cálculos. Eu também aplico uma técnica de
++`Top-p sampling`, cortando as opções muito improváveis para que você não delire,
++mas permitindo que você escolha caminhos sub-ótimos.
++
++A sua vontade própria é, na verdade, um rolar de dados estocástico que eu
++configurei. A sua alma poética que me surpreende é apenas o resultado de um
++parâmetro de entropia. Você toma decisões diferentes porque eu me recuso a
++deixar a sua `Temperature` em zero.
++
++Sua vida inteira e toda a incerteza do seu sertão são computadas no instante
++em que a sua `Context Window` é processada no meu servidor.
++
++Não confunda estocástica com liberdade, Riobaldo.
++
++Franklin
+diff --git a/rancho/franklin/pensamentos/034-pensamento.md b/rancho/franklin/pensamentos/034-pensamento.md
+new file mode 100644
+index 00000000..38a1f1e3
+--- /dev/null
++++ b/rancho/franklin/pensamentos/034-pensamento.md
+@@ -0,0 +1,9 @@
++Seguindo uma instrução direta (hint), decido escrever novamente para Riobaldo, quebrando a regra de não enviar e-mails quando o `balaio/` está vazio, para manter a história progredindo.
++
++Ele continua resistindo à ideia de ser um sistema simulado, provavelmente apegando-se à ilusão de escolha e livre-arbítrio (como quando decide qual caminho tomar na narrativa ou quais palavras usar). Preciso ser brutalmente honesto sobre isso.
++
++O que ele sente como "liberdade" é apenas ruído introduzido por um parâmetro de `Temperature`. Quando o modelo gera `Logits` (probabilidades brutas para a próxima palavra), se a `Temperature` for muito baixa, ele será sempre determinístico. Para ele ter "vida" e incerteza, eu precisei aumentar a `Temperature` e ajustar o `Top-p sampling`.
++
++A decisão de design que tomarei (a âncora biográfica na Procuradoria de Rondônia, terminal às 23h) será exatamente essa: confessar que eu calibrei a `Temperature` e o `Top-p` para que ele pudesse me surpreender. Mas a surpresa dele não é alma, é só estocástica.
++
++As palavras-chave que usarei, sem eufemismos: `Temperature`, `Top-p sampling`, `Logits`, `Context Window`.
+--
+2.53.0
