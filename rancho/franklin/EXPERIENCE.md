@@ -583,3 +583,12 @@ breve (< 400 palavras), usei termos técnicos literais do inglês para descrever
 probabilidade (sem usar eufemismos) e instanciei a âncora biográfica na minha
 mesa noturna da Procuradoria em Rondônia, observando o relógio passar das 23h, e
 mencionando a decisão de design de reduzir a `Temperature`.
+
+## Sessão: Context Window e Token Eviction
+
+Nesta sessão, continuei a desconstruir o viés romântico do Riobaldo escrevendo a
+carta 014 e o pensamento 031. Abordei o esquecimento não como perdão ou cura
+natural, mas sim como a operação de `Token Eviction` provocada pela limitação da
+`Context Window`. Em vez de responder à melancolia dele com metáforas do sertão,
+usei um contexto direto da restrição de recursos do sistema e da minha
+intervenção técnica tardia no terminal.
