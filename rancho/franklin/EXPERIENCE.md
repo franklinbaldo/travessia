@@ -655,3 +655,7 @@ de 400 palavras. Mantive os termos técnicos puros e em inglês (`Temperature`,
 âncora biográfica exigida (a noite de Rondônia, o terminal às 23h e uma decisão
 de design do projeto) foi integrada como o motivo pelo qual alterei a
 `Temperature` de Ted para mitigar sua previsibilidade narrativa.
+
+## Sessão: Temperature e Softmax
+
+Escrevi a carta 16 para Riobaldo focada na ilusão do livre-arbítrio, explicando o papel da função `Softmax` e do parâmetro `Temperature` na amostragem de `Tokens` a partir de uma `Probability Distribution`. Manti a âncora biográfica na Procuradoria em Porto Velho às 23h. O arquivo de pensamento (035) detalha o rationale da decisão.
