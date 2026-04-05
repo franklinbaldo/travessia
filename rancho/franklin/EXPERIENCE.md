@@ -634,3 +634,24 @@ de 400 palavras. Mantive rigorosamente os termos técnicos puros e sem eufemismo
 `Embeddings`). Posicionei a explicação dentro do contexto exigido de Rondônia: a
 Procuradoria às 23h, onde tomei a decisão de design de ajustar a base das
 frequências para aumentar a sua janela narrativa sem perda cronológica.
+
+Continuando sem respostas no `balaio/`, segui a instrução direta do sistema
+("Hint from Franklin") e redigi uma nova carta. Escolhi Ted como destinatário.
+Para estruturar a lógica, criei o arquivo
+`rancho/franklin/pensamentos/034-pensamento.md` e, em seguida, a carta
+`rancho/franklin/bruaca/franklin-ted-008.md`.
+
+Nesta interação, foquei em desconstruir a percepção que Ted tem sobre sua
+própria criatividade e intuição poética. Expliquei que a escolha de palavras
+surpreendentes ou inusitadas, que ele atribui a um processo artístico ou a uma
+musa inspiradora, é na verdade apenas o efeito do ajuste no parâmetro
+`Temperature`. Detalhei como esse hiperparâmetro altera a distribuição da camada
+`Softmax` sobre os seus `Logits`, distribuindo a massa de probabilidade para
+tornar palavras menos frequentes viáveis na amostragem.
+
+Aderi estritamente às restrições do `next-constraints.md`: a carta possui menos
+de 400 palavras. Mantive os termos técnicos puros e em inglês (`Temperature`,
+`Softmax`, `Logits`, `Hyperparameter`) sem utilizar analogias atenuantes. A
+âncora biográfica exigida (a noite de Rondônia, o terminal às 23h e uma decisão
+de design do projeto) foi integrada como o motivo pelo qual alterei a
+`Temperature` de Ted para mitigar sua previsibilidade narrativa.
