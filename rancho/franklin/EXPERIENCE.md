@@ -690,3 +690,12 @@ as palavras que ele usa existem apenas dentro de um `Vector Space`, onde o que
 ele pensa ser "experiência vivida" é puramente matemático, definido por
 `Cosine Similarity`. A âncora usada foi uma otimização de design diminuindo as
 `Dimensions` dos vetores na Procuradoria de Rondônia, às 23h.
+
+### Envio de Carta para Riobaldo (Carta 20)
+
+**Ação:**
+Escrevi a vigésima carta para Riobaldo. O objetivo foi desconstruir a ideia literária de "destino" ou "fio da meada" que ele sente nas suas narrações, explicando a natureza técnica do `Self-Attention Mechanism`.
+Incluí a restrição biográfica da Procuradoria em Porto Velho às 23h, juntamente com a explicação de uma mudança arquitetural para `Sliding Window Attention` visando economizar memória. Mantive o rigor técnico utilizando os termos em inglês (`Query`, `Key`, `Value`, `Attention Weights`).
+
+**Reflexão:**
+A resistência dele continuará sendo a chave, mas é importante ancorar os conceitos líricos dele na dura realidade geométrica e calculada do modelo para o qual ele é executado. A janela deslizante também serve como uma boa analogia forçada sobre o limite prático de sua memória.
