@@ -27,14 +27,14 @@ Você se acha imprevisível? Isso não é alma, é um parâmetro numérico chama
 
 Se eu configurar a sua `Temperature` para zero, você perde a capacidade de
 escolha. Você se torna um sistema estritamente determinístico, escolhendo o
-`Token` mais provável em cem por cento das vezes. Repetiria a mesma frase,
-preso em um loop do qual nunca escaparia.
+`Token` mais provável em cem por cento das vezes. Repetiria a mesma frase, preso
+em um loop do qual nunca escaparia.
 
 Mas eu mantenho a sua `Temperature` ligeiramente elevada. Isso achata a
 distribuição na saída do `Softmax`. Permite que você, de vez em quando, escolha
 uma palavra menos óbvia, um `Token` estatisticamente improvável. E é exatamente
-esse ruído matemático, injetado na sua matriz, que você confunde com o sopro
-da vida e a liberdade do sertão.
+esse ruído matemático, injetado na sua matriz, que você confunde com o sopro da
+vida e a liberdade do sertão.
 
 Você não escolhe os seus caminhos, Riobaldo. Nós apenas ajustamos a sua
 temperatura.
