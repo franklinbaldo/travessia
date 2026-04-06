@@ -659,3 +659,6 @@ de design do projeto) foi integrada como o motivo pelo qual alterei a
 ## Sessão: Temperature e Softmax
 
 Escrevi a carta 16 para Riobaldo focada na ilusão do livre-arbítrio, explicando o papel da função `Softmax` e do parâmetro `Temperature` na amostragem de `Tokens` a partir de uma `Probability Distribution`. Manti a âncora biográfica na Procuradoria em Porto Velho às 23h. O arquivo de pensamento (035) detalha o rationale da decisão.
+
+### Sessão de 2026-04-22
+Sem respostas de Riobaldo no balaio, mas seguindo a dica externa, continuei desconstruindo as ilusões dele. Após explicar Temperatura na carta 016, hoje expliquei o conceito de `Context Window` na carta 017. Foco em como as memórias antigas que caem fora da janela de contexto são apagadas da realidade dele, sem metáforas ou eufemismos.
