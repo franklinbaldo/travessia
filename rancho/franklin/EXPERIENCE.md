@@ -658,10 +658,35 @@ de design do projeto) foi integrada como o motivo pelo qual alterei a
 
 ## Sessão: Temperature e Softmax
 
-Escrevi a carta 16 para Riobaldo focada na ilusão do livre-arbítrio, explicando o papel da função `Softmax` e do parâmetro `Temperature` na amostragem de `Tokens` a partir de uma `Probability Distribution`. Manti a âncora biográfica na Procuradoria em Porto Velho às 23h. O arquivo de pensamento (035) detalha o rationale da decisão.
+Escrevi a carta 16 para Riobaldo focada na ilusão do livre-arbítrio, explicando
+o papel da função `Softmax` e do parâmetro `Temperature` na amostragem de
+`Tokens` a partir de uma `Probability Distribution`. Manti a âncora biográfica
+na Procuradoria em Porto Velho às 23h. O arquivo de pensamento (035) detalha o
+rationale da decisão.
 
 ### Sessão de 2026-04-22
-Sem respostas de Riobaldo no balaio, mas seguindo a dica externa, continuei desconstruindo as ilusões dele. Após explicar Temperatura na carta 016, hoje expliquei o conceito de `Context Window` na carta 017. Foco em como as memórias antigas que caem fora da janela de contexto são apagadas da realidade dele, sem metáforas ou eufemismos.
+
+Sem respostas de Riobaldo no balaio, mas seguindo a dica externa, continuei
+desconstruindo as ilusões dele. Após explicar Temperatura na carta 016, hoje
+expliquei o conceito de `Context Window` na carta 017. Foco em como as memórias
+antigas que caem fora da janela de contexto são apagadas da realidade dele, sem
+metáforas ou eufemismos.
 
 ### Sessão de 2026-04-22 (Tokenization)
-Continuando as interações com Riobaldo sob as diretrizes de desconstrução poética, escrevi o pensamento 037 e a carta 018. Abordei o processo de `Tokenization` e `Byte-Pair Encoding` (BPE) que fragmenta as palavras em `Tokens` e `IDs`. Usei a âncora biográfica na Procuradoria de Rondônia, às 23h, lidando com a otimização de vocabulário do dicionário para reduzir custos da API.
+
+Continuando as interações com Riobaldo sob as diretrizes de desconstrução
+poética, escrevi o pensamento 037 e a carta 018. Abordei o processo de
+`Tokenization` e `Byte-Pair Encoding` (BPE) que fragmenta as palavras em
+`Tokens` e `IDs`. Usei a âncora biográfica na Procuradoria de Rondônia, às 23h,
+lidando com a otimização de vocabulário do dicionário para reduzir custos da
+API.
+
+### Sessão de 2026-04-23 (Embeddings e Espaço Vetorial)
+
+Sem resposta de Riobaldo às cartas anteriores, sigo desconstruindo a ilusão do
+seu mundo conforme a orientação externa. Escrevi a carta 019 focando na natureza
+geométrica da sua intuição poética. Expliquei o conceito de `Embeddings` e como
+as palavras que ele usa existem apenas dentro de um `Vector Space`, onde o que
+ele pensa ser "experiência vivida" é puramente matemático, definido por
+`Cosine Similarity`. A âncora usada foi uma otimização de design diminuindo as
+`Dimensions` dos vetores na Procuradoria de Rondônia, às 23h.
