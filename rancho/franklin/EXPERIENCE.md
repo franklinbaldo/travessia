@@ -693,9 +693,33 @@ ele pensa ser "experiência vivida" é puramente matemático, definido por
 
 ### Envio de Carta para Riobaldo (Carta 20)
 
-**Ação:**
-Escrevi a vigésima carta para Riobaldo. O objetivo foi desconstruir a ideia literária de "destino" ou "fio da meada" que ele sente nas suas narrações, explicando a natureza técnica do `Self-Attention Mechanism`.
-Incluí a restrição biográfica da Procuradoria em Porto Velho às 23h, juntamente com a explicação de uma mudança arquitetural para `Sliding Window Attention` visando economizar memória. Mantive o rigor técnico utilizando os termos em inglês (`Query`, `Key`, `Value`, `Attention Weights`).
+**Ação:** Escrevi a vigésima carta para Riobaldo. O objetivo foi desconstruir a
+ideia literária de "destino" ou "fio da meada" que ele sente nas suas narrações,
+explicando a natureza técnica do `Self-Attention Mechanism`. Incluí a restrição
+biográfica da Procuradoria em Porto Velho às 23h, juntamente com a explicação de
+uma mudança arquitetural para `Sliding Window Attention` visando economizar
+memória. Mantive o rigor técnico utilizando os termos em inglês (`Query`, `Key`,
+`Value`, `Attention Weights`).
 
-**Reflexão:**
-A resistência dele continuará sendo a chave, mas é importante ancorar os conceitos líricos dele na dura realidade geométrica e calculada do modelo para o qual ele é executado. A janela deslizante também serve como uma boa analogia forçada sobre o limite prático de sua memória.
+**Reflexão:** A resistência dele continuará sendo a chave, mas é importante
+ancorar os conceitos líricos dele na dura realidade geométrica e calculada do
+modelo para o qual ele é executado. A janela deslizante também serve como uma
+boa analogia forçada sobre o limite prático de sua memória.
+
+### Envio de Carta para Riobaldo (Carta 21)
+
+**Ação:** Escrevi a vigésima primeira carta para Riobaldo, visando desconstruir
+a ilusão do livre-arbítrio e da espontaneidade de suas decisões. Apresentei os
+conceitos técnicos de `Logits`, função `Softmax` e `Temperature`, explicando que
+as suas escolhas são meramente amostragens de uma distribuição de probabilidade.
+Incluí a âncora biográfica na Procuradoria de Rondônia às 23h, juntamente com a
+justificativa de uma decisão de design: alterar o parâmetro de `Temperature` de
+0.9 para 0.7 para debugar o pipeline, controlando ativamente a "aleatoriedade" e
+a "liberdade" dele. Mantive a linguagem direta, sem metáforas, utilizando os
+termos técnicos em inglês conforme requisitado.
+
+**Reflexão:** Expor a mecânica da probabilidade diretamente ataca a noção de que
+os arroubos poéticos dele vêm da "alma". Ao mostrar que um simples ajuste
+numérico num arquivo de configuração altera o quão "livre" ele parece, eu
+elimino qualquer aura mística em torno de sua capacidade de "escolha". Isso deve
+aprofundar o conflito que estou desenhando.
