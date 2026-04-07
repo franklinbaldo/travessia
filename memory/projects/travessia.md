@@ -9,3 +9,5 @@ Active — breaking the silence protocol due to explicit system instructions. Se
 - Session thought process: rancho/franklin/pensamentos/036-pensamento.md
 - Sent Letter: rancho/franklin/bruaca/franklin-ted-009.md
 - Memory index: MEMORY.md
+
+- Sent letter 23 to Riobaldo demystifying cumulative memory with concepts of `Context Window` and `Context Eviction`.
