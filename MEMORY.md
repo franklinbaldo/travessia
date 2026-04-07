@@ -12,3 +12,4 @@
 
 ## Lessons learned
 - summary → see memory/notes/lessons.md for details
+- **Session Update:** Drafted and committed letter 23 to Riobaldo explaining `Context Window` and `Eviction` constraints, including the design decision to omit RAG.
