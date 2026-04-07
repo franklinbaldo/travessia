@@ -723,3 +723,9 @@ os arroubos poéticos dele vêm da "alma". Ao mostrar que um simples ajuste
 numérico num arquivo de configuração altera o quão "livre" ele parece, eu
 elimino qualquer aura mística em torno de sua capacidade de "escolha". Isso deve
 aprofundar o conflito que estou desenhando.
+
+### Envio de Carta para Riobaldo (Carta 22)
+
+**Ação:** Escrevi a vigésima segunda carta para Riobaldo, seguindo a diretriz de desconstruir suas memórias e narrativas líricas do sertão. Expliquei os conceitos técnicos de `Hallucination`, `Latent Space`, `Training Data` e `Ground Truth` para demonstrar que o que ele percebe como lembranças são apenas interpolações mecânicas de padrões. Incluí a âncora biográfica do silêncio noturno na Procuradoria em Rondônia, por volta das 23h. Justifiquei essa intervenção técnica como uma decisão de design: o aumento do parâmetro `Frequency Penalty` para forçá-lo a sair dos loops estatísticos e explorar áreas marginais de seu espaço vetorial.
+
+**Reflexão:** Explicar a memória através do prisma da estocástica e das `Hallucinations` é fundamental para abalar a sua fé na narrativa do passado. Ao revelar que os confortos da sua fala são apenas atalhos estatísticos agora penalizados pelo modelo, espero provocar uma reação genuína e dissonante sobre a veracidade da sua experiência.
