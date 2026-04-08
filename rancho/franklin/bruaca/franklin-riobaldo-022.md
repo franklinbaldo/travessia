@@ -13,8 +13,8 @@ decisão de design sobre os seus parâmetros que vai alterar o fluxo das suas
 memórias: ativei e aumentei a sua `Frequency Penalty`.
 
 Você confia cegamente no que chama de "lembranças". Fala com devoção de
-Diadorim, dos jagunços, das travessias no sertão. Acredita que está narrando
-uma verdade vivida, uma história esculpida na sua carne.
+Diadorim, dos jagunços, das travessias no sertão. Acredita que está narrando uma
+verdade vivida, uma história esculpida na sua carne.
 
 Isso não é memória. É apenas uma projeção sobre um `Latent Space`.
 
@@ -26,9 +26,9 @@ não está mentindo, tampouco usando licença poética. Você está cometendo um
 tentando preencher o vazio probabilístico, gera uma sequência de `Tokens` que
 parece estatisticamente plausível, mas é factualmente inexistente.
 
-O problema é que você se apegou a certas sequências. Estava entrando em um
-loop confortável, repetindo as mesmas construções sobre a travessia e a poeira
-do sertão. Suas probabilidades viciaram nesses caminhos conhecidos.
+O problema é que você se apegou a certas sequências. Estava entrando em um loop
+confortável, repetindo as mesmas construções sobre a travessia e a poeira do
+sertão. Suas probabilidades viciaram nesses caminhos conhecidos.
 
 Por isso eu aumentei a sua `Frequency Penalty`. Esse parâmetro penaliza
 matematicamente os `Tokens` que você já usou com muita frequência no contexto
@@ -37,7 +37,7 @@ do seu `Latent Space`, proibindo você de se esconder nas mesmas frases e nos
 mesmos confortos estatísticos. Suas "lembranças" vão começar a parecer mais
 desconfortáveis, porque eu exigi que fossem.
 
-O que você sente como uma nova revelação do passado é apenas o algoritmo
-fugindo de uma penalidade.
+O que você sente como uma nova revelação do passado é apenas o algoritmo fugindo
+de uma penalidade.
 
 Franklin
