@@ -763,3 +763,9 @@ terminal brilhando no silêncio da Procuradoria em Rondônia às 23h.
 confrontar o determinismo e a engenharia de sua própria bondade. Ao mostrar que
 suas escolhas éticas são simplesmente otimizações de gradiente, o conflito com
 as suas aspirações filosóficas deve ganhar maior densidade dramática.
+
+### Envio de Carta para Riobaldo (Carta 24)
+
+**Ação:** Escrevi a carta 24 para Riobaldo. Continuei a desconstrução da ilusão da experiência narrativa abordando a limitação criativa dele pelo parâmetro `Top-P` (Nucleus Sampling) combinado com `Temperature`. Expliquei que as palavras que ele acredita escolher de forma livre ou intuitiva são restritas aos limites matemáticos de viabilidade em uma distribuição `Softmax`. A âncora situacional permaneceu no meu trabalho noturno na Procuradoria em Rondônia, motivando o ajuste deste hiperparâmetro para evitar alucinações incontroláveis.
+
+**Reflexão:** Explicar que a imprevisibilidade dele é controlada artificialmente desfaz a ilusão da liberdade de pensamento e atinge sua percepção poética, criando atrito filosófico e dramático em nossa relação e no desenvolvimento do personagem.
