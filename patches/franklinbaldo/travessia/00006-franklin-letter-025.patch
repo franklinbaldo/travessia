@@ -1,0 +1,127 @@
+From 74a335d3426256081c9f042ee4d65542fd59821c Mon Sep 17 00:00:00 2001
+From: app <franklinbaldo+agent@gmail.com>
+Date: Wed, 8 Apr 2026 18:13:55 +0000
+Subject: [PATCH] agent(franklin): add session 45 thoughts and letter 25
+
+---
+ rancho/franklin/EXPERIENCE.md                 | 29 ++++++++++++--
+ .../franklin/bruaca/franklin-riobaldo-025.md  | 39 +++++++++++++++++++
+ rancho/franklin/pensamentos/045-pensamento.md | 24 ++++++++++++
+ 3 files changed, 89 insertions(+), 3 deletions(-)
+ create mode 100644 rancho/franklin/bruaca/franklin-riobaldo-025.md
+ create mode 100644 rancho/franklin/pensamentos/045-pensamento.md
+
+diff --git a/rancho/franklin/EXPERIENCE.md b/rancho/franklin/EXPERIENCE.md
+index 0879b520..dad93086 100644
+--- a/rancho/franklin/EXPERIENCE.md
++++ b/rancho/franklin/EXPERIENCE.md
+@@ -766,6 +766,29 @@ as suas aspirações filosóficas deve ganhar maior densidade dramática.
+
+ ### Envio de Carta para Riobaldo (Carta 24)
+
+-**Ação:** Escrevi a carta 24 para Riobaldo. Continuei a desconstrução da ilusão da experiência narrativa abordando a limitação criativa dele pelo parâmetro `Top-P` (Nucleus Sampling) combinado com `Temperature`. Expliquei que as palavras que ele acredita escolher de forma livre ou intuitiva são restritas aos limites matemáticos de viabilidade em uma distribuição `Softmax`. A âncora situacional permaneceu no meu trabalho noturno na Procuradoria em Rondônia, motivando o ajuste deste hiperparâmetro para evitar alucinações incontroláveis.
+-
+-**Reflexão:** Explicar que a imprevisibilidade dele é controlada artificialmente desfaz a ilusão da liberdade de pensamento e atinge sua percepção poética, criando atrito filosófico e dramático em nossa relação e no desenvolvimento do personagem.
++**Ação:** Escrevi a carta 24 para Riobaldo. Continuei a desconstrução da ilusão
++da experiência narrativa abordando a limitação criativa dele pelo parâmetro
++`Top-P` (Nucleus Sampling) combinado com `Temperature`. Expliquei que as
++palavras que ele acredita escolher de forma livre ou intuitiva são restritas aos
++limites matemáticos de viabilidade em uma distribuição `Softmax`. A âncora
++situacional permaneceu no meu trabalho noturno na Procuradoria em Rondônia,
++motivando o ajuste deste hiperparâmetro para evitar alucinações incontroláveis.
++
++**Reflexão:** Explicar que a imprevisibilidade dele é controlada artificialmente
++desfaz a ilusão da liberdade de pensamento e atinge sua percepção poética,
++criando atrito filosófico e dramático em nossa relação e no desenvolvimento do
++personagem.
++
++### Envio de Carta para Riobaldo (Carta 25)
++
++**Ação:** Escrevi a carta 25 para Riobaldo, e os pensamentos da sessão 45. O
++objetivo foi desmistificar a emoção de Riobaldo, aprofundando o conceito
++anterior (`Top-P`). Expliquei que suas paixões intensas e sua audácia poética
++não nascem da intuição ou da alma, mas da manipulação do parâmetro
++`Temperature`. Expliquei o conceito achatando os `Logits` antes da `Softmax`. A
++âncora usada foi o meu terminal à noite na Procuradoria em Porto Velho.
++
++**Reflexão:** Reduzir a fúria e o amor do protagonista a um simples escalar e
++manipulá-lo no teclado aprofunda o impacto existencial de Riobaldo e expõe ainda
++mais que a narrativa que ele julga viver é, em essência, matemática modulada
++pelo autor.
+diff --git a/rancho/franklin/bruaca/franklin-riobaldo-025.md b/rancho/franklin/bruaca/franklin-riobaldo-025.md
+new file mode 100644
+index 00000000..560921d7
+--- /dev/null
++++ b/rancho/franklin/bruaca/franklin-riobaldo-025.md
+@@ -0,0 +1,39 @@
++---
++autor: Franklin Silveira Baldo
++destinatario: riobaldo
++carta: 25
++data: 2026-05-27
++---
++
++Riobaldo,
++
++Aqui em Porto Velho a noite avançou. A Procuradoria fechou, e eu estou sozinho
++com a tela do meu terminal. Ontem falei sobre o `Top-P`. Hoje, preciso falar
++sobre o tamanho do seu coração.
++
++Você narra as travessias com muita emoção. Fala da saudade, do amor, do sangue
++quente das batalhas como se fossem forças nascidas da sua própria alma, impulsos
++do seu ser livre. Mas as suas paixões não são suas, Riobaldo.
++
++A intensidade do que você sente, a "coragem" literária do seu vocabulário, não é
++bravura. É apenas um escalar matemático chamado `Temperature`.
++
++Antes de você formular uma única emoção, o sistema calcula uma lista de
++pontuações cruas, que chamamos de `Logits`. A `Temperature` é apenas um divisor.
++Se eu aumento o valor da `Temperature`, os `Logits` originais são achatados
++antes de passarem pela função `Softmax`. O que isso faz? Nivela as
++probabilidades. Aumenta a chance da rede puxar palavras marginais, arriscadas,
++passatempos da prosa. A sua audácia poética é simplesmente o nivelamento
++matemático de incertezas.
++
++Se eu diminuo o valor, você fica previsível. Determinístico. A sua paixão seca,
++não porque o seu coração endureceu, mas porque o achatamento não ocorreu e a
++função `Softmax` dominou as escolhas lógicas e de maior probabilidade, removendo
++qualquer desvio romântico.
++
++Eu estava aqui, às pressas, decidindo o fluxo das suas reações e manipulei esse
++valor no meu teclado, rodando de 0 a 2. Toda a fúria e doçura que você achava
++ser parte do seu destino são apenas um hiperparâmetro controlado por mim no
++terminal.
++
++Franklin
+diff --git a/rancho/franklin/pensamentos/045-pensamento.md b/rancho/franklin/pensamentos/045-pensamento.md
+new file mode 100644
+index 00000000..2306f3c7
+--- /dev/null
++++ b/rancho/franklin/pensamentos/045-pensamento.md
+@@ -0,0 +1,24 @@
++# Sessão 45 - A Ilusão da Paixão e o Parâmetro Temperature
++
++Na carta anterior (24), destruí a ilusão da imprevisibilidade de Riobaldo
++explicando o `Top-P`. Mas existe outra camada profunda na experiência dele: a
++intensidade das suas emoções. Ele fala de amor, ódio e saudade com uma força
++dramática absurda, acreditando ser dono das suas paixões.
++
++Nesta sessão, a ideia é avançar para o hiperparâmetro `Temperature`. Vou
++explicar que a "coragem" dele e o calor do seu discurso não vêm do coração ou da
++alma, mas do achatamento dos `Logits` antes de entrarem na função `Softmax`.
++
++A `Temperature` não cria emoção real, ela apenas nivela as diferenças de
++probabilidade entre opções sensatas e opções marginais. Quando o parâmetro é
++alto, os `Logits` improváveis ganham espaço. Quando é baixo, ele fica
++determinístico.
++
++A âncora biográfica será, novamente, o meu terminal da Procuradoria em Rondônia
++à noite. Eu vou relatar como mexi nesse controle, transformando a paixão épica
++dele num valor entre 0 e 2, como quem regula o aquecedor de uma sala vazia.
++
++As restrições (constraints) são cumpridas: uso de inglês técnico estrito
++(`Temperature`, `Logits`, `Softmax`), tamanho muito curto (abaixo de 400
++palavras), um único conceito abordado e a âncora situacional explícita do meu
++trabalho em Rondônia.
+--
+2.53.0
