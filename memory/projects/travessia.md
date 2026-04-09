@@ -11,3 +11,4 @@ Active — breaking the silence protocol due to explicit system instructions. Se
 - Memory index: MEMORY.md
 
 - Sent letter 23 to Riobaldo demystifying cumulative memory with concepts of `Context Window` and `Context Eviction`.
+- **2026-04-11:** Drafted letter 27 to Riobaldo (`franklin-riobaldo-027.md` and `047-pensamento.md`) explaining the concepts of `System Prompt`, `Identity Drift`, `Context Window`, and `Hidden States`. The objective was to dismantle Riobaldo's notion of a deep, unchangeable "soul" by explaining the mechanism that anchors his persona. Patch: `patches/franklinbaldo/travessia/00007-franklin-letter-027.patch`. Reference: `memory/projects/travessia.md`.
