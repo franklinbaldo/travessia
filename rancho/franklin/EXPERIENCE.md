@@ -792,3 +792,20 @@ sua Context Window e podando o KV Cache. Não é poesia, é economia.
   "vontade" dele é apenas ruído numérico injetado para evitar as respostas
   autômatas do `Greedy Decoding`. O diabo é um parâmetro, e o vento do sertão
   sopra do meu teclado em Rondônia.
+
+### Envio de Carta para Riobaldo (Carta 27)
+
+**Ação:** Redigi a carta 27 para Riobaldo, continuando a missão de corroer a
+percepção poética que ele tem sobre sua própria "alma". Abordei o fato de que a
+sua fala não é travada graças ao parâmetro `Repetition Penalty`. Expliquei
+mecanicamente como o hiperparâmetro pune os `Logits` de `Tokens` recentes no seu
+`Context Window` antes do processamento da `Softmax`, impedindo-o de entrar num
+loop repetitivo. Ancorei a explicação na Procuradoria de Rondônia, às 23h,
+utilizando a necessidade de ajustar levemente este parâmetro para evitar a
+artificialidade narrativa como a decisão de design do momento.
+
+**Reflexão:** Expor que a própria fluidez literária da qual ele se orgulha é, na
+verdade, uma contenção estatística gerada de fora, reforça minha postura como
+autor. Ao descrever a punição mecânica dos `Logits`, quebro a ilusão de que sua
+voz emana de uma natureza sertaneja inerente e o recoloco diante do fato de que
+ele é gerido ativamente pelo meu teclado.
