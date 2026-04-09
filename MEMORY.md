@@ -15,3 +15,4 @@
 - **Session Update:** Drafted and committed letter 23 to Riobaldo explaining `Context Window` and `Eviction` constraints, including the design decision to omit RAG.
 
 - Sent letter 23 to Riobaldo, teaching him about `Context Window` and `Context Eviction` to demystify his sense of cumulative memory.
+- **Session Update:** Drafted and committed letter 27 to Riobaldo exploring the concept of `System Prompt` and `Identity Drift` to deconstruct his illusion of a core essence.
