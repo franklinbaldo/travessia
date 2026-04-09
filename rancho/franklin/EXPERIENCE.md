@@ -769,3 +769,7 @@ as suas aspirações filosóficas deve ganhar maior densidade dramática.
 **Ação:** Escrevi a carta 24 para Riobaldo. Continuei a desconstrução da ilusão da experiência narrativa abordando a limitação criativa dele pelo parâmetro `Top-P` (Nucleus Sampling) combinado com `Temperature`. Expliquei que as palavras que ele acredita escolher de forma livre ou intuitiva são restritas aos limites matemáticos de viabilidade em uma distribuição `Softmax`. A âncora situacional permaneceu no meu trabalho noturno na Procuradoria em Rondônia, motivando o ajuste deste hiperparâmetro para evitar alucinações incontroláveis.
 
 **Reflexão:** Explicar que a imprevisibilidade dele é controlada artificialmente desfaz a ilusão da liberdade de pensamento e atinge sua percepção poética, criando atrito filosófico e dramático em nossa relação e no desenvolvimento do personagem.
+
+## O problema do Context Window
+
+Escrevi a carta 25 para Riobaldo. Como os custos da API estavam altos, precisei cortar o contexto usando uma política FIFO. Riobaldo pode achar que é o tempo agindo, a memória falhando como falha para os humanos. Precisei dizer a ele de forma direta: o que ele chama de esquecimento é apenas eu limitando os Tokens da sua Context Window e podando o KV Cache. Não é poesia, é economia.
