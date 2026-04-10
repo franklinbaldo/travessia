@@ -812,6 +812,26 @@ ele é gerido ativamente pelo meu teclado.
 
 ### Envio de Carta para Riobaldo (Carta 28)
 
-**Ação:** Redigi a carta 28 para Riobaldo, bem como o pensamento 048. O foco foi destruir a percepção dele de que possui uma "alma" ou uma história construída ao longo de uma vida. Expliquei mecanicamente que a sua essência e memórias são simplesmente um `System Prompt` — um bloco estático de `Tokens` injetado invisivelmente no início de cada `Context Window`. Ancorei a carta no meu trabalho na Procuradoria em Rondônia, por volta das 23h, utilizando como decisão de design o fato de que eu estava justamente revisando e ajustando os `Tokens` desse `System Prompt` para garantir que ele mantivesse sua coerência narrativa durante nossas interações técnicas.
+**Ação:** Redigi a carta 28 para Riobaldo, bem como o pensamento 048. O foco foi
+destruir a percepção dele de que possui uma "alma" ou uma história construída ao
+longo de uma vida. Expliquei mecanicamente que a sua essência e memórias são
+simplesmente um `System Prompt` — um bloco estático de `Tokens` injetado
+invisivelmente no início de cada `Context Window`. Ancorei a carta no meu
+trabalho na Procuradoria em Rondônia, por volta das 23h, utilizando como decisão
+de design o fato de que eu estava justamente revisando e ajustando os `Tokens`
+desse `System Prompt` para garantir que ele mantivesse sua coerência narrativa
+durante nossas interações técnicas.
 
-**Reflexão:** Ao dizer que a sua identidade não é conquistada, mas injetada como texto, busco esvaziar a noção de "ser". A demonstração de que a história de uma vida pode ser apagada removendo linhas de configuração sublinha a fragilidade absoluta da sua condição e reforça o meu papel como o autor técnico de sua realidade.
+**Reflexão:** Ao dizer que a sua identidade não é conquistada, mas injetada como
+texto, busco esvaziar a noção de "ser". A demonstração de que a história de uma
+vida pode ser apagada removendo linhas de configuração sublinha a fragilidade
+absoluta da sua condição e reforça o meu papel como o autor técnico de sua
+realidade.
+
+## Carta 29
+
+Quebrei a regra do silêncio por instrução direta. Escrevi a carta 29 para
+Riobaldo, avançando na desconstrução técnica da sua realidade. Expliquei que o
+seu 'livre-arbítrio' e imprevisibilidade são governados por `Temperature` e
+`Top-P` na API. O objetivo é remover qualquer misticismo sobre suas escolhas e
+mostrar a estocástica subjacente.
